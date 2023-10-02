@@ -1,0 +1,85 @@
+Year,Round,Home Team,Away Team,H Goals 1st,H Goals 2nd,H Goals 3rd,H Goals 4th,H Behind 1st,H Behind 2nd,H Behind 3rd,H Behind 4th,H Total Goals,H Total Behind,H Total Score,A Goals 1st,A Goals 2nd,A Goals 3rd,A Goals 4th,A Behind 1st,A Behind 2nd,A Behind 3rd,A Behind 4th,A Total Goals,A Total Behind,A Total Score,Winning Team,Margin,Date,Attendance,Venue
+1942,1,South Melbourne,Collingwood,6,4,5,3,6,6,10,3,18,25,133,3,4,3,4,1,4,1,5,14,11,95,South Melbourne,38,09-05-1942,8000,Princes
+1942,1,Essendon,Melbourne,7,5,6,7,3,4,4,3,25,14,164,3,3,5,5,4,3,1,6,16,14,110,Essendon,54,09-05-1942,8000,Windy
+1942,1,Fitzroy,St Kilda,4,3,3,4,3,1,3,6,14,13,97,2,2,3,3,1,4,7,0,10,12,72,Fitzroy,25,09-05-1942,8000,Brunswick
+1942,1,Richmond,Footscray,4,4,5,6,3,4,2,8,19,17,131,5,5,3,3,5,4,3,3,16,15,111,Richmond,20,09-05-1942,14000,Punt
+1942,1,Hawthorn,North Melbourne,3,6,1,3,2,5,5,3,13,15,93,7,6,2,3,5,4,4,6,18,19,127,North Melbourne,34,09-05-1942,5000,Glenferrie
+1942,2,Carlton,South Melbourne,1,2,3,2,3,2,4,2,8,11,59,1,4,3,5,7,11,1,2,13,21,99,South Melbourne,40,16-05-1942,16000,Princes
+1942,2,Footscray,Essendon,3,2,4,3,4,3,1,8,12,16,88,4,2,5,3,3,3,2,0,14,8,92,Essendon,4,16-05-1942,10000,Yarraville
+1942,2,North Melbourne,Fitzroy,4,1,5,4,3,2,4,1,14,10,94,2,3,5,7,3,6,2,2,17,13,115,Fitzroy,21,16-05-1942,5500,Arden
+1942,2,St Kilda,Hawthorn,2,3,7,4,2,2,6,3,16,13,109,4,2,2,1,4,4,5,4,9,17,71,St Kilda,38,16-05-1942,5500,Toorak
+1942,2,Melbourne,Richmond,4,2,10,2,3,1,4,1,18,9,117,4,10,4,12,2,6,0,8,30,16,196,Richmond,79,16-05-1942,20000,Punt
+1942,3,Essendon,Carlton,2,1,3,5,3,3,2,1,11,9,75,3,0,4,4,1,2,1,0,11,4,70,Essendon,5,23-05-1942,13000,Windy
+1942,3,Richmond,Collingwood,2,9,5,9,3,7,6,9,25,25,175,4,0,1,0,3,0,3,1,5,7,37,Richmond,138,23-05-1942,11500,Punt
+1942,3,Fitzroy,Melbourne,4,7,2,7,2,1,6,4,20,13,133,1,4,5,1,3,5,2,1,11,11,77,Fitzroy,56,23-05-1942,7000,Brunswick
+1942,3,Hawthorn,Footscray,0,1,2,2,3,2,3,3,5,11,41,2,4,7,4,5,7,2,1,17,15,117,Footscray,76,23-05-1942,5000,Glenferrie
+1942,3,South Melbourne,St Kilda,7,6,6,3,6,8,3,7,22,24,156,4,2,5,0,2,6,4,4,11,16,82,South Melbourne,74,23-05-1942,6500,Princes
+1942,4,Carlton,Fitzroy,5,2,3,3,4,4,3,2,13,13,91,0,5,2,2,6,4,1,3,9,14,68,Carlton,23,30-05-1942,14000,Princes
+1942,4,Collingwood,Essendon,6,2,4,1,1,3,3,2,13,9,87,5,7,2,6,8,5,1,2,20,16,136,Essendon,49,30-05-1942,6500,Victoria
+1942,4,Melbourne,Hawthorn,4,1,6,5,5,2,7,1,16,15,111,1,2,2,3,1,5,2,9,8,17,65,Melbourne,46,30-05-1942,3500,Punt
+1942,4,North Melbourne,South Melbourne,5,3,0,4,2,4,0,2,12,8,80,2,1,3,2,5,4,5,3,8,17,65,North Melbourne,15,30-05-1942,12000,Arden
+1942,4,St Kilda,Richmond,1,4,2,4,4,5,1,7,11,17,83,7,6,7,5,4,4,3,2,25,13,163,Richmond,80,30-05-1942,9000,Toorak
+1942,5,Richmond,Carlton,3,2,4,6,1,6,3,4,15,14,104,2,3,3,2,6,4,3,4,10,17,77,Richmond,27,06-06-1942,20000,Punt
+1942,5,Hawthorn,Collingwood,4,3,3,3,2,1,2,5,13,10,88,4,3,0,3,3,6,8,3,10,20,80,Hawthorn,8,06-06-1942,4000,Glenferrie
+1942,5,Essendon,North Melbourne,4,4,2,5,2,7,6,4,15,19,109,3,1,2,3,4,3,5,3,9,15,69,Essendon,40,06-06-1942,10000,Windy
+1942,5,Fitzroy,Footscray,1,6,1,3,4,3,4,2,11,13,79,4,2,4,2,1,5,3,2,12,11,83,Footscray,4,06-06-1942,9000,Brunswick
+1942,5,South Melbourne,Melbourne,7,4,7,5,3,3,2,2,23,10,148,3,4,4,5,3,5,8,3,16,19,115,South Melbourne,33,06-06-1942,5500,Princes
+1942,6,Carlton,North Melbourne,6,4,6,4,3,3,5,7,20,18,138,1,6,2,4,5,1,0,7,13,13,91,Carlton,47,13-06-1942,7000,Princes
+1942,6,Collingwood,Footscray,6,2,0,3,2,2,4,4,11,12,78,1,7,1,2,1,7,8,5,11,21,87,Footscray,9,13-06-1942,5500,Victoria
+1942,6,Essendon,Richmond,1,4,3,2,5,6,2,4,10,17,77,2,2,4,3,2,3,4,1,11,10,76,Essendon,1,13-06-1942,18000,Windy
+1942,6,South Melbourne,Fitzroy,2,0,6,1,8,2,3,2,9,15,69,2,5,2,2,1,6,5,5,11,17,83,Fitzroy,14,13-06-1942,10000,Toorak
+1942,6,Melbourne,St Kilda,1,2,3,0,5,2,1,1,6,9,45,3,6,2,2,1,3,1,6,13,11,89,St Kilda,44,13-06-1942,4000,Punt
+1942,7,Footscray,Carlton,4,2,5,1,5,6,6,2,12,19,91,2,2,4,2,4,1,2,5,10,12,72,Footscray,19,20-06-1942,8500,Yarraville
+1942,7,St Kilda,Collingwood,2,2,3,4,6,3,2,3,11,14,80,5,1,2,1,2,2,5,5,9,14,68,St Kilda,12,20-06-1942,5000,Toorak
+1942,7,Fitzroy,Hawthorn,6,3,4,3,4,4,5,1,16,14,110,4,5,2,3,0,2,4,4,14,10,94,Fitzroy,16,20-06-1942,5000,Brunswick
+1942,7,North Melbourne,Melbourne,3,2,2,4,1,6,1,2,11,10,76,3,4,2,3,5,1,5,0,12,11,83,Melbourne,7,20-06-1942,4000,Arden
+1942,7,Richmond,South Melbourne,1,0,7,2,4,2,3,0,10,9,69,6,3,1,1,4,6,4,6,11,20,86,South Melbourne,17,20-06-1942,18000,Punt
+1942,8,Carlton,St Kilda,3,4,6,5,4,4,1,5,18,14,122,3,2,2,3,4,1,3,3,10,11,71,Carlton,51,27-06-1942,6500,Princes
+1942,8,Melbourne,Collingwood,3,5,2,1,4,5,2,3,11,14,80,4,2,6,2,8,1,6,6,14,21,105,Collingwood,25,27-06-1942,5500,Punt
+1942,8,Essendon,Hawthorn,6,4,7,5,5,3,1,3,22,12,144,2,1,2,0,2,4,2,0,5,8,38,Essendon,106,27-06-1942,6000,Windy
+1942,8,Fitzroy,Richmond,3,4,2,3,2,3,3,1,12,9,81,3,3,6,3,4,5,2,4,15,15,105,Richmond,24,27-06-1942,17000,Brunswick
+1942,8,North Melbourne,Footscray,0,3,3,3,2,4,0,2,9,8,62,7,5,4,1,5,2,6,3,17,16,118,Footscray,56,27-06-1942,6000,Arden
+1942,9,Hawthorn,Carlton,3,2,0,3,2,4,2,2,8,10,58,3,3,5,1,3,4,6,1,12,14,86,Carlton,28,04-07-1942,3000,Glenferrie
+1942,9,Collingwood,Fitzroy,2,6,1,1,7,4,2,5,10,18,78,5,1,5,1,3,4,0,0,12,7,79,Fitzroy,1,04-07-1942,6000,Victoria
+1942,9,St Kilda,Essendon,3,2,1,0,5,1,2,1,6,9,45,2,0,1,1,2,7,4,2,4,15,39,St Kilda,6,04-07-1942,4500,Toorak
+1942,9,Footscray,South Melbourne,1,4,2,0,0,2,0,1,7,3,45,5,2,1,3,6,1,1,1,11,9,75,South Melbourne,30,04-07-1942,9500,Yarraville
+1942,9,Richmond,North Melbourne,3,2,2,4,2,5,4,3,11,14,80,4,2,2,3,4,1,5,1,11,11,77,Richmond,3,04-07-1942,5000,Punt
+1942,10,Carlton,Melbourne,5,5,3,0,4,4,2,7,13,17,95,0,4,3,3,0,1,3,3,10,7,67,Carlton,28,11-07-1942,5500,Princes
+1942,10,North Melbourne,Collingwood,2,5,6,4,4,2,2,0,17,8,110,1,5,4,1,5,4,4,3,11,16,82,North Melbourne,28,11-07-1942,3500,Arden
+1942,10,Fitzroy,Essendon,2,5,4,1,1,2,3,4,12,10,82,4,4,6,1,4,5,3,5,15,17,107,Essendon,25,11-07-1942,15000,Brunswick
+1942,10,Footscray,St Kilda,6,3,3,7,5,5,5,2,19,17,131,2,1,3,1,1,7,5,5,7,18,60,Footscray,71,11-07-1942,6000,Yarraville
+1942,10,South Melbourne,Hawthorn,1,3,6,2,4,5,6,4,12,19,91,0,7,6,0,5,3,0,2,13,10,88,South Melbourne,3,11-07-1942,6000,Punt
+1942,11,Collingwood,Carlton,4,2,2,3,6,2,2,1,11,11,77,3,4,4,2,3,4,4,3,13,14,92,Carlton,15,18-07-1942,8000,Victoria
+1942,11,Essendon,South Melbourne,2,3,2,3,5,3,4,3,10,15,75,2,1,2,3,3,2,0,2,8,7,55,Essendon,20,18-07-1942,16000,Windy
+1942,11,Melbourne,Footscray,1,6,0,7,2,2,4,3,14,11,95,5,3,8,3,3,2,3,4,19,12,126,Footscray,31,18-07-1942,6000,Punt
+1942,11,Hawthorn,Richmond,3,4,3,3,5,3,4,5,13,17,95,5,8,3,3,3,2,3,5,19,13,127,Richmond,32,18-07-1942,6000,Glenferrie
+1942,11,St Kilda,North Melbourne,1,7,3,10,1,5,0,3,21,9,135,4,1,4,0,5,0,3,0,9,8,62,St Kilda,73,18-07-1942,4000,Toorak
+1942,12,Collingwood,South Melbourne,2,3,3,1,7,4,4,0,9,15,69,5,4,4,2,3,3,7,8,15,21,111,South Melbourne,42,25-07-1942,8000,Victoria
+1942,12,Melbourne,Essendon,2,4,5,3,5,8,4,3,14,20,104,4,3,3,2,1,5,1,5,12,12,84,Melbourne,20,25-07-1942,6000,Punt
+1942,12,St Kilda,Fitzroy,5,1,2,2,0,7,3,3,10,13,73,3,6,3,0,5,3,6,0,12,14,86,Fitzroy,13,25-07-1942,8000,Toorak
+1942,12,Footscray,Richmond,5,5,5,4,6,2,3,4,19,15,129,3,6,3,5,3,5,6,6,17,20,122,Footscray,7,25-07-1942,15000,Yarraville
+1942,12,North Melbourne,Hawthorn,0,3,4,2,2,3,0,5,9,10,64,2,2,1,1,5,1,6,4,6,16,52,North Melbourne,12,25-07-1942,3000,Arden
+1942,13,South Melbourne,Carlton,4,2,2,2,4,4,7,9,10,24,84,4,2,3,3,5,5,4,3,12,17,89,Carlton,5,01-08-1942,15000,Princes
+1942,13,Essendon,Footscray,4,5,1,5,2,2,4,4,15,12,102,4,1,2,3,1,3,4,0,10,8,68,Essendon,34,01-08-1942,14000,Windy
+1942,13,Fitzroy,North Melbourne,5,7,0,8,3,4,2,5,20,14,134,0,4,4,2,2,3,3,0,10,8,68,Fitzroy,66,01-08-1942,5500,Brunswick
+1942,13,Hawthorn,St Kilda,3,2,2,1,3,0,3,3,8,9,57,1,5,2,2,6,4,3,2,10,15,75,St Kilda,18,01-08-1942,3500,Glenferrie
+1942,13,Richmond,Melbourne,4,7,1,3,1,7,7,6,15,21,111,3,1,4,4,7,3,1,3,12,14,86,Richmond,25,01-08-1942,9000,Punt
+1942,14,Carlton,Essendon,7,2,6,3,5,4,9,2,18,20,128,1,3,1,6,1,3,2,3,11,9,75,Carlton,53,08-08-1942,7500,Princes
+1942,14,Collingwood,Richmond,3,3,4,2,5,2,2,2,12,11,83,5,4,6,1,5,5,7,4,16,21,117,Richmond,34,08-08-1942,3500,Victoria
+1942,14,Melbourne,Fitzroy,2,4,4,2,3,3,2,5,12,13,85,1,5,2,2,3,1,2,2,10,8,68,Melbourne,17,08-08-1942,3000,Punt
+1942,14,Footscray,Hawthorn,4,1,8,7,5,4,2,6,20,17,137,1,2,3,3,0,1,1,2,9,4,58,Footscray,79,08-08-1942,2500,Yarraville
+1942,14,St Kilda,South Melbourne,0,1,3,2,3,4,3,0,6,10,46,3,6,1,3,1,3,5,2,13,11,89,South Melbourne,43,08-08-1942,3500,Toorak
+1942,15,Fitzroy,Carlton,2,1,7,3,7,2,10,1,13,20,98,3,0,4,10,0,6,1,6,17,13,115,Carlton,17,15-08-1942,13000,Brunswick
+1942,15,Essendon,Collingwood,3,3,2,3,5,2,4,6,11,17,83,1,2,1,5,2,5,1,2,9,10,64,Essendon,19,15-08-1942,8000,Windy
+1942,15,Hawthorn,Melbourne,1,0,3,3,5,3,5,2,7,15,57,4,5,3,4,3,8,3,8,16,22,118,Melbourne,61,15-08-1942,2500,Glenferrie
+1942,15,South Melbourne,North Melbourne,8,3,8,3,5,2,4,2,22,13,145,4,4,3,1,0,4,2,9,12,15,87,South Melbourne,58,15-08-1942,5000,Princes
+1942,15,Richmond,St Kilda,3,5,3,7,7,5,2,6,18,20,128,2,2,3,1,2,2,3,1,8,8,56,Richmond,72,15-08-1942,7000,Punt
+1942,16,Carlton,Richmond,4,6,4,4,3,6,3,7,18,19,127,4,1,4,1,6,2,5,1,10,14,74,Carlton,53,22-08-1942,26000,Princes
+1942,16,Collingwood,Hawthorn,3,9,1,3,3,10,3,5,16,21,117,4,0,6,5,7,2,3,1,15,13,103,Collingwood,14,22-08-1942,2000,Victoria
+1942,16,North Melbourne,Essendon,0,2,1,2,1,3,1,3,5,8,38,3,2,1,2,4,3,3,6,8,16,64,Essendon,26,22-08-1942,4000,Arden
+1942,16,Footscray,Fitzroy,5,1,9,4,2,4,5,4,19,15,129,3,4,2,5,1,2,4,1,14,8,92,Footscray,37,22-08-1942,8000,Yarraville
+1942,16,Melbourne,South Melbourne,4,1,3,6,1,1,3,2,14,7,91,2,1,7,4,9,2,7,5,14,23,107,South Melbourne,16,22-08-1942,10000,Punt
+1942,SF,South Melbourne,Footscray,1,2,6,4,4,1,4,4,13,13,91,1,2,2,2,4,10,4,4,7,22,64,South Melbourne,27,29-08-1942,25000,Princes
+1942,SF,Essendon,Richmond,2,1,3,2,1,1,3,3,8,8,56,2,1,6,2,3,2,5,2,11,12,78,Richmond,22,05-09-1942,32000,Princes
+1942,PF,Essendon,South Melbourne,2,6,7,4,5,1,3,1,19,10,124,4,5,1,4,4,1,6,1,14,12,96,Essendon,28,12-09-1942,26000,Princes
+1942,GF,Essendon,Richmond,2,6,6,5,6,8,2,2,19,18,132,2,2,1,6,4,0,6,3,11,13,79,Essendon,53,19-09-1942,49000,Princes

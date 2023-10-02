@@ -1,0 +1,77 @@
+Year,Round,Home Team,Away Team,H Goals 1st,H Goals 2nd,H Goals 3rd,H Goals 4th,H Behind 1st,H Behind 2nd,H Behind 3rd,H Behind 4th,H Total Goals,H Total Behind,H Total Score,A Goals 1st,A Goals 2nd,A Goals 3rd,A Goals 4th,A Behind 1st,A Behind 2nd,A Behind 3rd,A Behind 4th,A Total Goals,A Total Behind,A Total Score,Winning Team,Margin,Date,Attendance,Venue
+1921,1,Richmond,Carlton,1,5,1,0,2,6,1,2,7,11,53,4,1,2,1,4,3,4,3,8,14,62,Carlton,9,07-05-1921,32000,Punt
+1921,1,Collingwood,Fitzroy,1,4,1,4,6,1,2,4,10,13,73,3,2,2,2,1,2,0,0,9,3,57,Collingwood,16,07-05-1921,20000,Victoria
+1921,1,Essendon,Melbourne,5,1,3,2,6,2,2,2,11,12,78,1,4,6,1,2,4,0,0,12,6,78,Match drawn,0,07-05-1921,3500,East
+1921,1,St Kilda,South Melbourne,6,0,3,1,0,3,3,0,10,6,66,5,2,0,2,1,6,2,4,9,13,67,South Melbourne,1,07-05-1921,15000,Junction
+1921,2,Melbourne,Collingwood,1,3,2,1,2,6,2,1,7,11,53,4,3,3,4,5,2,4,2,14,13,97,Collingwood,44,14-05-1921,14994,M.C.G.
+1921,2,Fitzroy,St Kilda,0,2,3,2,0,0,4,7,7,11,53,0,3,4,1,5,2,3,5,8,15,63,St Kilda,10,14-05-1921,25000,Brunswick
+1921,2,South Melbourne,Richmond,1,2,3,1,4,2,2,1,7,9,51,3,2,3,3,0,7,6,3,11,16,82,Richmond,31,14-05-1921,27000,Lake
+1921,2,Geelong,Essendon,4,1,2,4,2,8,3,6,11,19,85,4,2,3,1,6,2,5,3,10,16,76,Geelong,9,14-05-1921,15000,Corio
+1921,3,Carlton,St Kilda,8,1,4,2,4,0,3,4,15,11,101,3,5,2,1,1,6,0,5,11,12,78,Carlton,23,21-05-1921,30000,Princes
+1921,3,Collingwood,Geelong,3,6,3,4,0,3,1,5,16,9,105,6,0,3,4,3,1,3,2,13,9,87,Collingwood,18,21-05-1921,10000,Victoria
+1921,3,South Melbourne,Essendon,0,2,2,0,4,3,3,4,4,14,38,3,3,3,2,5,3,3,4,11,15,81,Essendon,43,21-05-1921,12000,Lake
+1921,3,Fitzroy,Richmond,0,0,5,0,3,1,1,1,5,6,36,0,2,1,2,2,5,3,4,5,14,44,Richmond,8,21-05-1921,18000,Brunswick
+1921,4,Carlton,Fitzroy,0,3,1,1,3,4,6,7,5,20,50,1,0,2,3,4,3,7,0,6,14,50,Match drawn,0,28-05-1921,28000,Princes
+1921,4,Essendon,Collingwood,1,3,1,2,3,2,2,5,7,12,54,4,3,2,0,4,3,5,5,9,17,71,Collingwood,17,28-05-1921,18000,East
+1921,4,Geelong,Richmond,6,1,1,3,1,2,8,2,11,13,79,3,4,1,1,1,2,5,0,9,8,62,Geelong,17,28-05-1921,10000,Corio
+1921,4,Melbourne,South Melbourne,1,3,2,4,0,1,5,4,10,10,70,2,0,4,3,7,3,3,2,9,15,69,Melbourne,1,28-05-1921,8392,M.C.G.
+1921,5,South Melbourne,Carlton,2,3,3,2,2,4,2,2,10,10,70,5,2,2,1,2,2,3,3,10,10,70,Match drawn,0,04-06-1921,25000,Lake
+1921,5,Richmond,Collingwood,2,2,1,2,2,7,1,1,7,11,53,3,0,3,0,6,2,7,1,6,16,52,Richmond,1,04-06-1921,30000,Punt
+1921,5,Fitzroy,Geelong,2,3,2,1,3,5,2,4,8,14,62,4,3,2,3,3,2,3,4,12,12,84,Geelong,22,06-06-1921,35000,Brunswick
+1921,5,St Kilda,Melbourne,0,5,2,5,2,7,1,8,12,18,90,3,1,5,4,7,0,2,3,13,12,90,Match drawn,0,06-06-1921,20000,Junction
+1921,6,Essendon,Carlton,1,3,0,3,7,1,6,4,7,18,60,2,8,2,6,0,3,5,1,18,9,117,Carlton,57,11-06-1921,18000,East
+1921,6,Collingwood,South Melbourne,2,3,1,3,6,2,4,1,9,13,67,1,2,1,2,3,3,2,0,6,8,44,Collingwood,23,11-06-1921,20000,Victoria
+1921,6,Geelong,St Kilda,5,3,2,1,5,4,3,1,11,13,79,0,1,0,4,1,1,0,3,5,5,35,Geelong,44,11-06-1921,12000,Corio
+1921,6,Richmond,Melbourne,4,6,2,2,1,2,6,2,14,11,95,3,3,3,4,4,2,4,4,13,14,92,Richmond,3,11-06-1921,12000,Punt
+1921,7,Carlton,Geelong,1,4,3,3,7,5,3,0,11,15,81,3,2,1,2,4,1,3,5,8,13,61,Carlton,20,18-06-1921,40000,Princes
+1921,7,Collingwood,St Kilda,4,6,4,3,3,2,4,3,17,12,114,3,1,3,2,1,2,4,3,9,10,64,Collingwood,50,18-06-1921,10000,Victoria
+1921,7,Richmond,Essendon,2,1,6,3,5,3,4,2,12,14,86,3,3,1,3,2,3,1,5,10,11,71,Richmond,15,18-06-1921,12000,Punt
+1921,7,Melbourne,Fitzroy,3,4,1,1,4,6,4,1,9,15,69,1,2,1,0,5,5,2,5,4,17,41,Melbourne,28,18-06-1921,11241,M.C.G.
+1921,8,Melbourne,Carlton,2,2,2,1,1,3,4,5,7,13,55,2,4,2,0,4,4,2,4,8,14,62,Carlton,7,25-06-1921,19889,M.C.G.
+1921,8,Fitzroy,Essendon,6,1,4,1,4,5,0,4,12,13,85,1,1,3,1,0,4,3,3,6,10,46,Fitzroy,39,25-06-1921,10000,Brunswick
+1921,8,South Melbourne,Geelong,1,0,4,5,3,4,2,5,10,14,74,4,2,2,0,1,1,2,1,8,5,53,South Melbourne,21,25-06-1921,15000,Lake
+1921,8,St Kilda,Richmond,2,1,0,2,1,3,2,6,5,12,42,5,1,4,3,2,2,2,5,13,11,89,Richmond,47,25-06-1921,15000,Junction
+1921,9,Carlton,Collingwood,4,2,5,1,4,6,3,3,12,16,88,2,5,1,2,1,2,0,1,10,4,64,Carlton,24,02-07-1921,35000,Princes
+1921,9,Essendon,St Kilda,2,0,1,2,2,2,4,4,5,12,42,1,4,4,2,6,3,3,5,11,17,83,St Kilda,41,02-07-1921,6000,East
+1921,9,South Melbourne,Fitzroy,1,2,1,4,3,7,5,3,8,18,66,2,2,2,0,3,1,3,5,6,12,48,South Melbourne,18,02-07-1921,12000,Lake
+1921,9,Geelong,Melbourne,4,2,3,2,2,1,3,4,11,10,76,1,3,2,2,3,6,4,3,8,16,64,Geelong,12,02-07-1921,9000,Corio
+1921,10,Carlton,Richmond,4,2,3,5,2,3,3,7,14,15,99,0,3,3,0,5,3,3,1,6,12,48,Carlton,51,09-07-1921,42000,Princes
+1921,10,Fitzroy,Collingwood,2,1,4,1,7,2,3,6,8,18,66,0,4,1,3,2,3,1,2,8,8,56,Fitzroy,10,09-07-1921,12000,Brunswick
+1921,10,Melbourne,Essendon,3,2,0,2,2,1,4,5,7,12,54,4,2,3,2,4,5,3,2,11,14,80,Essendon,26,09-07-1921,7783,M.C.G.
+1921,10,South Melbourne,St Kilda,4,3,5,1,0,3,2,4,13,9,87,4,2,4,1,2,3,1,2,11,8,74,South Melbourne,13,09-07-1921,20000,Lake
+1921,11,Collingwood,Melbourne,1,2,0,0,4,2,6,2,3,14,32,2,2,1,2,1,4,0,2,7,7,49,Melbourne,17,16-07-1921,4500,Victoria
+1921,11,Essendon,Geelong,0,0,1,1,5,4,4,2,2,15,27,2,3,2,2,4,8,5,1,9,18,72,Geelong,45,16-07-1921,6000,East
+1921,11,St Kilda,Fitzroy,0,0,0,0,3,6,6,3,0,18,18,1,3,1,1,2,1,0,5,6,8,44,Fitzroy,26,16-07-1921,6000,Junction
+1921,11,Richmond,South Melbourne,2,2,1,4,2,2,2,6,9,12,66,3,3,1,1,4,3,3,3,8,13,61,Richmond,5,16-07-1921,15000,Punt
+1921,12,St Kilda,Carlton,3,1,0,1,5,3,4,2,5,14,44,5,6,5,6,1,2,4,3,22,10,142,Carlton,98,23-07-1921,17000,Junction
+1921,12,Geelong,Collingwood,2,2,2,4,2,4,3,3,10,12,72,3,2,1,0,1,1,3,6,6,11,47,Geelong,25,23-07-1921,14000,Corio
+1921,12,Essendon,South Melbourne,3,3,1,1,4,5,1,3,8,13,61,2,0,1,2,5,1,7,0,5,13,43,Essendon,18,23-07-1921,15000,East
+1921,12,Richmond,Fitzroy,2,3,1,2,3,1,1,7,8,12,60,6,2,3,3,2,5,3,3,14,13,97,Fitzroy,37,23-07-1921,27000,Punt
+1921,13,Fitzroy,Carlton,0,1,1,2,0,5,2,8,4,15,39,0,0,2,1,6,0,0,0,3,6,24,Fitzroy,15,30-07-1921,15000,Brunswick
+1921,13,Collingwood,Essendon,3,5,1,1,1,5,1,4,10,11,71,1,0,1,0,6,0,3,2,2,11,23,Collingwood,48,30-07-1921,4000,Victoria
+1921,13,Richmond,Geelong,3,3,0,3,3,3,5,4,9,15,69,3,0,1,1,0,2,2,2,5,6,36,Richmond,33,30-07-1921,10000,Punt
+1921,13,South Melbourne,Melbourne,0,3,0,5,5,5,3,8,8,21,69,5,2,0,0,7,1,3,0,7,11,53,South Melbourne,16,30-07-1921,5000,Lake
+1921,14,Carlton,South Melbourne,2,3,3,3,6,4,2,3,11,15,81,3,2,2,0,3,2,4,5,7,14,56,Carlton,25,20-08-1921,25000,Princes
+1921,14,Collingwood,Richmond,1,2,1,2,4,2,1,3,6,10,46,3,2,1,4,2,3,5,2,10,12,72,Richmond,26,20-08-1921,25000,Victoria
+1921,14,Geelong,Fitzroy,4,1,5,3,3,1,4,0,13,8,86,2,3,2,2,1,5,0,4,9,10,64,Geelong,22,20-08-1921,16000,Corio
+1921,14,Melbourne,St Kilda,0,4,0,2,2,5,6,7,6,20,56,0,2,3,0,8,5,5,1,5,19,49,Melbourne,7,20-08-1921,6488,M.C.G.
+1921,15,Carlton,Essendon,0,1,3,3,0,5,5,9,7,19,61,3,1,2,1,7,2,0,2,7,11,53,Carlton,8,27-08-1921,10000,Princes
+1921,15,South Melbourne,Collingwood,2,2,1,0,4,1,1,4,5,10,40,3,1,3,1,1,1,4,1,8,7,55,Collingwood,15,27-08-1921,25000,Lake
+1921,15,St Kilda,Geelong,6,4,1,0,3,4,6,3,11,16,82,1,1,2,5,4,1,2,2,9,9,63,St Kilda,19,27-08-1921,9000,Junction
+1921,15,Melbourne,Richmond,3,2,2,1,5,2,4,0,8,11,59,4,4,1,3,0,0,1,5,12,6,78,Richmond,19,27-08-1921,13832,M.C.G.
+1921,16,Geelong,Carlton,1,2,1,2,3,3,1,4,6,11,47,3,0,2,3,6,0,6,3,8,15,63,Carlton,16,03-09-1921,24000,Corio
+1921,16,St Kilda,Collingwood,3,3,2,2,1,2,2,2,10,7,67,5,3,4,0,3,1,2,1,12,7,79,Collingwood,12,03-09-1921,16000,Junction
+1921,16,Essendon,Richmond,0,2,1,2,2,3,1,9,5,15,45,4,3,2,2,3,4,4,3,11,14,80,Richmond,35,03-09-1921,14000,East
+1921,16,Fitzroy,Melbourne,3,1,1,4,1,2,2,3,9,8,62,3,1,2,3,4,0,2,3,9,9,63,Melbourne,1,03-09-1921,8000,Brunswick
+1921,17,Carlton,Melbourne,5,2,6,1,5,4,4,3,14,16,100,0,4,1,5,2,2,3,9,10,16,76,Carlton,24,10-09-1921,16000,Princes
+1921,17,Essendon,Fitzroy,1,5,1,3,1,3,4,6,10,14,74,2,3,6,0,5,1,1,1,11,8,74,Match drawn,0,10-09-1921,6000,East
+1921,17,Geelong,South Melbourne,4,2,1,3,1,4,0,2,10,7,67,0,1,2,0,3,3,4,0,3,10,28,Geelong,39,10-09-1921,14000,Corio
+1921,17,Richmond,St Kilda,4,2,2,6,3,3,5,0,14,11,95,1,4,0,2,1,2,1,1,7,5,47,Richmond,48,10-09-1921,15000,Punt
+1921,18,Collingwood,Carlton,0,2,1,2,0,3,3,1,5,7,37,3,4,2,0,2,2,3,3,9,10,64,Carlton,27,17-09-1921,30000,Victoria
+1921,18,St Kilda,Essendon,3,6,1,4,0,5,1,6,14,12,96,4,3,4,2,7,3,6,0,13,16,94,St Kilda,2,17-09-1921,10000,Junction
+1921,18,Fitzroy,South Melbourne,2,3,2,3,6,4,3,6,10,19,79,2,1,0,3,1,1,4,3,6,9,45,Fitzroy,34,17-09-1921,8000,Brunswick
+1921,18,Melbourne,Geelong,4,2,5,5,9,5,2,3,16,19,115,2,4,2,2,3,3,1,4,10,11,71,Melbourne,44,17-09-1921,9789,M.C.G.
+1921,SF,Richmond,Geelong,2,4,4,6,3,5,7,4,16,19,115,3,1,2,0,2,2,3,11,6,18,54,Richmond,61,24-09-1921,41649,M.C.G.
+1921,SF,Carlton,Collingwood,2,3,2,2,0,6,1,4,9,11,65,1,0,5,1,3,4,2,1,7,10,52,Carlton,13,01-10-1921,37813,M.C.G.
+1921,PF,Carlton,Richmond,1,1,5,0,4,6,4,3,7,17,59,4,1,3,2,2,3,0,2,10,7,67,Richmond,8,08-10-1921,42866,M.C.G.
+1921,GF,Carlton,Richmond,2,1,0,1,2,2,2,2,4,8,32,1,0,2,2,2,1,1,2,5,6,36,Richmond,4,15-10-1921,43122,M.C.G.

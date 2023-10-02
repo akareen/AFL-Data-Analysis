@@ -1,0 +1,137 @@
+Year,Round,Home Team,Away Team,H Goals 1st,H Goals 2nd,H Goals 3rd,H Goals 4th,H Behind 1st,H Behind 2nd,H Behind 3rd,H Behind 4th,H Total Goals,H Total Behind,H Total Score,A Goals 1st,A Goals 2nd,A Goals 3rd,A Goals 4th,A Behind 1st,A Behind 2nd,A Behind 3rd,A Behind 4th,A Total Goals,A Total Behind,A Total Score,Winning Team,Margin,Date,Attendance,Venue
+1970,1,Carlton,Essendon,7,5,4,5,6,4,4,5,21,19,145,2,4,3,5,3,3,5,1,14,12,96,Carlton,49,04-04-1970,24534,Princes
+1970,1,Footscray,Collingwood,3,3,4,2,6,3,2,1,12,12,84,3,9,5,6,0,5,2,3,23,10,148,Collingwood,64,04-04-1970,26596,Western
+1970,1,Hawthorn,Geelong,5,3,4,7,2,5,2,3,19,12,126,4,6,5,6,4,1,3,1,21,9,135,Geelong,9,04-04-1970,20509,Glenferrie
+1970,1,South Melbourne,Melbourne,2,1,2,4,5,1,4,4,9,14,68,2,4,3,5,1,3,2,3,14,9,93,Melbourne,25,04-04-1970,15483,Lake
+1970,1,St Kilda,North Melbourne,1,4,6,3,5,5,3,3,14,16,100,3,2,1,1,3,1,1,1,7,6,48,St Kilda,52,04-04-1970,21429,Moorabbin
+1970,1,Richmond,Fitzroy,3,3,3,5,4,3,3,2,14,12,96,3,2,6,5,3,5,6,6,16,20,116,Fitzroy,20,05-04-1970,38617,M.C.G.
+1970,2,Geelong,Carlton,5,3,3,1,1,1,5,2,12,9,81,2,5,3,6,2,1,3,1,16,7,103,Carlton,22,11-04-1970,28302,Kardinia
+1970,2,Collingwood,Richmond,2,5,8,4,4,4,6,5,19,19,133,3,5,1,4,4,2,3,7,13,16,94,Collingwood,39,11-04-1970,35318,Victoria
+1970,2,Essendon,Footscray,3,3,2,2,5,3,5,1,10,14,74,2,4,1,7,5,6,3,8,14,22,106,Footscray,32,11-04-1970,18257,Windy
+1970,2,Fitzroy,St Kilda,4,0,2,1,3,1,1,4,7,9,51,9,4,5,5,2,12,7,2,23,23,161,St Kilda,110,11-04-1970,22854,Junction
+1970,2,Melbourne,Hawthorn,4,5,2,3,4,3,1,4,14,12,96,1,2,5,3,7,4,3,5,11,19,85,Melbourne,11,11-04-1970,25575,M.C.G.
+1970,2,North Melbourne,South Melbourne,1,2,2,3,2,5,2,2,8,11,59,2,2,3,1,4,0,2,6,8,12,60,South Melbourne,1,11-04-1970,11016,Arden
+1970,3,Richmond,Carlton,1,3,5,8,5,2,2,3,17,12,114,6,3,2,4,3,4,2,2,15,11,101,Richmond,13,18-04-1970,46373,M.C.G.
+1970,3,Collingwood,Hawthorn,2,3,3,6,7,5,5,7,14,24,108,6,4,2,3,2,6,0,3,15,11,101,Collingwood,7,18-04-1970,24352,Victoria
+1970,3,South Melbourne,Essendon,4,5,2,1,3,4,8,2,12,17,89,7,2,4,2,2,2,2,4,15,10,100,Essendon,11,18-04-1970,14909,Lake
+1970,3,Fitzroy,Geelong,1,0,2,4,4,3,0,4,7,11,53,5,4,6,2,2,5,5,0,17,12,114,Geelong,61,18-04-1970,25887,Waverley
+1970,3,Footscray,St Kilda,3,5,4,2,3,11,3,6,14,23,107,5,1,3,1,6,0,4,4,10,14,74,Footscray,33,18-04-1970,17972,Western
+1970,3,North Melbourne,Melbourne,4,3,6,5,0,3,2,8,18,13,121,1,1,4,2,4,6,4,2,8,16,64,North Melbourne,57,18-04-1970,10182,Arden
+1970,4,Carlton,North Melbourne,5,3,3,5,2,4,8,2,16,16,112,1,3,4,5,2,6,3,4,13,15,93,Carlton,19,25-04-1970,29987,Princes
+1970,4,Geelong,Collingwood,2,4,3,5,3,2,1,3,14,9,93,7,3,3,1,4,4,5,4,14,17,101,Collingwood,8,25-04-1970,35654,Kardinia
+1970,4,Hawthorn,Essendon,2,4,2,2,3,2,4,1,10,10,70,5,5,2,4,3,3,5,3,16,14,110,Essendon,40,25-04-1970,19017,Glenferrie
+1970,4,Melbourne,Fitzroy,5,4,5,3,3,3,9,4,17,19,121,8,1,3,1,3,6,0,4,13,13,91,Melbourne,30,25-04-1970,22909,M.C.G.
+1970,4,South Melbourne,Footscray,3,2,2,4,4,0,4,3,11,11,77,3,3,1,2,2,1,0,3,9,6,60,South Melbourne,17,25-04-1970,24022,Waverley
+1970,4,St Kilda,Richmond,3,6,2,4,4,5,3,7,15,19,109,2,1,2,2,4,2,4,2,7,12,54,St Kilda,55,25-04-1970,32147,Moorabbin
+1970,5,Footscray,Hawthorn,5,4,2,0,5,2,3,3,11,13,79,2,4,5,0,4,2,2,2,11,10,76,Footscray,3,02-05-1970,19610,Western
+1970,5,St Kilda,Carlton,4,2,1,1,4,2,2,1,8,9,57,2,3,2,5,5,3,4,2,12,14,86,Carlton,29,02-05-1970,22829,Moorabbin
+1970,5,Collingwood,Melbourne,0,2,3,3,2,7,2,6,8,17,65,1,1,3,3,6,2,0,1,8,9,57,Collingwood,8,02-05-1970,28120,Waverley
+1970,5,Essendon,Geelong,3,6,0,0,3,5,2,4,9,14,68,5,5,3,1,1,0,3,0,14,4,88,Geelong,20,02-05-1970,16088,Windy
+1970,5,Fitzroy,North Melbourne,1,0,2,2,6,4,8,6,5,24,54,4,3,0,0,1,2,1,3,7,7,49,Fitzroy,5,02-05-1970,7458,Junction
+1970,5,Richmond,South Melbourne,2,1,1,2,2,5,5,1,6,13,49,3,2,1,4,2,3,4,2,10,11,71,South Melbourne,22,02-05-1970,23084,M.C.G.
+1970,6,Carlton,Fitzroy,8,5,5,5,2,1,4,2,23,9,147,5,4,2,4,3,5,6,6,15,20,110,Carlton,37,09-05-1970,20372,Princes
+1970,6,North Melbourne,Collingwood,1,2,1,6,1,2,0,3,10,6,66,4,2,6,5,4,5,16,5,17,30,132,Collingwood,66,09-05-1970,20091,Arden
+1970,6,Melbourne,Essendon,1,4,4,1,2,1,7,2,10,12,72,3,1,3,0,5,3,2,5,7,15,57,Melbourne,15,09-05-1970,34219,M.C.G.
+1970,6,Geelong,Footscray,4,7,3,4,5,2,4,4,18,15,123,2,0,4,5,3,3,3,2,11,11,77,Geelong,46,09-05-1970,21139,Kardinia
+1970,6,Hawthorn,Richmond,4,6,7,3,0,4,1,5,20,10,130,7,3,6,5,0,7,3,1,21,11,137,Richmond,7,09-05-1970,26068,Waverley
+1970,6,South Melbourne,St Kilda,0,2,3,4,4,8,6,7,9,25,79,2,1,3,3,1,2,4,1,9,8,62,South Melbourne,17,09-05-1970,20312,Lake
+1970,7,South Melbourne,Carlton,4,8,5,6,1,3,2,6,23,12,150,6,0,4,0,4,2,4,3,10,13,73,South Melbourne,77,16-05-1970,25396,Lake
+1970,7,Collingwood,Fitzroy,3,4,3,5,4,5,3,3,15,15,105,0,2,4,3,11,2,4,1,9,18,72,Collingwood,33,16-05-1970,22774,Victoria
+1970,7,Essendon,North Melbourne,2,1,5,0,4,1,5,2,8,12,60,1,3,1,4,2,5,10,5,9,22,76,North Melbourne,16,16-05-1970,13417,Waverley
+1970,7,Footscray,Melbourne,1,2,2,4,3,4,2,5,9,14,68,2,1,4,0,0,3,1,0,7,4,46,Footscray,22,16-05-1970,16346,Western
+1970,7,Richmond,Geelong,4,3,3,6,4,2,7,7,16,20,116,4,5,5,1,1,1,0,0,15,2,92,Richmond,24,16-05-1970,43435,M.C.G.
+1970,7,St Kilda,Hawthorn,2,5,1,2,2,6,7,6,10,21,81,3,2,2,1,4,0,3,1,8,8,56,St Kilda,25,16-05-1970,17618,Moorabbin
+1970,8,Carlton,Collingwood,3,5,3,1,7,2,2,2,12,13,85,2,2,4,8,2,2,5,3,16,12,108,Collingwood,23,23-05-1970,55159,Waverley
+1970,8,Fitzroy,Essendon,3,2,4,0,0,6,4,4,9,14,68,5,2,3,1,0,2,2,1,11,5,71,Essendon,3,23-05-1970,12264,Junction
+1970,8,North Melbourne,Footscray,1,1,2,5,4,1,4,4,9,13,67,5,2,6,0,4,4,2,8,13,18,96,Footscray,29,23-05-1970,13475,Arden
+1970,8,Geelong,St Kilda,5,4,3,2,1,1,2,1,14,5,89,3,4,2,3,1,4,2,2,12,9,81,Geelong,8,23-05-1970,20942,Kardinia
+1970,8,Hawthorn,South Melbourne,3,9,3,6,4,7,3,6,21,20,146,3,2,3,4,1,3,6,2,12,12,84,Hawthorn,62,23-05-1970,17070,Glenferrie
+1970,8,Melbourne,Richmond,4,3,5,3,3,2,3,2,15,10,100,4,8,3,3,6,2,6,5,18,19,127,Richmond,27,23-05-1970,36064,M.C.G.
+1970,9,Carlton,Hawthorn,1,3,4,2,1,5,3,5,10,14,74,5,3,2,5,8,1,4,3,15,16,106,Hawthorn,32,30-05-1970,21216,Princes
+1970,9,Essendon,Collingwood,3,2,3,5,3,5,6,1,13,15,93,2,4,2,3,4,7,1,9,11,21,87,Essendon,6,30-05-1970,25010,Windy
+1970,9,Footscray,Fitzroy,0,3,2,6,2,6,2,3,11,13,79,5,2,4,1,3,2,3,1,12,9,81,Fitzroy,2,30-05-1970,10301,Waverley
+1970,9,South Melbourne,Geelong,5,7,4,3,4,4,4,2,19,14,128,3,3,3,1,6,3,0,9,10,18,78,South Melbourne,50,30-05-1970,19793,Lake
+1970,9,St Kilda,Melbourne,2,6,1,5,2,4,0,6,14,12,96,3,0,4,0,2,1,6,2,7,11,53,St Kilda,43,30-05-1970,19393,Moorabbin
+1970,9,Richmond,North Melbourne,5,3,0,2,8,3,2,4,10,17,77,4,3,3,5,2,4,0,1,15,7,97,North Melbourne,20,30-05-1970,22284,M.C.G.
+1970,10,Footscray,Carlton,2,7,3,3,4,3,4,3,15,14,104,2,4,5,3,3,1,4,2,14,10,94,Footscray,10,06-06-1970,22262,Western
+1970,10,Collingwood,St Kilda,0,2,5,7,3,7,6,7,14,23,107,6,5,3,1,6,2,1,1,15,10,100,Collingwood,7,06-06-1970,30757,Victoria
+1970,10,Essendon,Richmond,1,5,5,3,4,4,3,2,14,13,97,4,3,5,3,0,5,4,5,15,14,104,Richmond,7,06-06-1970,20604,Windy
+1970,10,Fitzroy,South Melbourne,4,7,1,2,4,1,1,3,14,9,93,2,5,4,1,4,5,7,3,12,19,91,Fitzroy,2,06-06-1970,16971,Junction
+1970,10,Melbourne,Geelong,3,3,2,2,4,3,2,5,10,14,74,3,4,2,4,4,2,5,2,13,13,91,Geelong,17,06-06-1970,27665,M.C.G.
+1970,10,North Melbourne,Hawthorn,2,2,3,2,1,2,2,3,9,8,62,1,2,5,3,0,4,2,3,11,9,75,Hawthorn,13,06-06-1970,13662,Waverley
+1970,11,Carlton,Melbourne,4,5,7,6,4,5,3,3,22,15,147,1,3,4,1,1,1,4,2,9,8,62,Carlton,85,15-06-1970,19484,Princes
+1970,11,South Melbourne,Collingwood,3,4,5,4,3,2,3,7,16,15,111,3,3,5,5,3,3,5,3,16,14,110,South Melbourne,1,15-06-1970,35569,Lake
+1970,11,St Kilda,Essendon,1,3,2,2,1,6,6,8,8,21,69,2,2,2,2,4,1,4,0,8,9,57,St Kilda,12,15-06-1970,21102,Waverley
+1970,11,Hawthorn,Fitzroy,4,5,5,4,1,4,4,3,18,12,120,2,3,3,4,0,4,3,1,12,8,80,Hawthorn,40,15-06-1970,14495,Glenferrie
+1970,11,Richmond,Footscray,4,1,10,7,2,4,5,4,22,15,147,3,3,2,5,2,5,2,3,13,12,90,Richmond,57,15-06-1970,41866,M.C.G.
+1970,11,Geelong,North Melbourne,1,4,3,3,5,5,5,2,11,17,83,5,0,1,3,2,0,5,3,9,10,64,Geelong,19,15-06-1970,19400,Kardinia
+1970,12,Essendon,Carlton,1,4,2,3,8,5,1,2,10,16,76,3,4,2,3,4,3,0,2,12,9,81,Carlton,5,20-06-1970,20270,Windy
+1970,12,Collingwood,Footscray,2,3,1,2,6,1,5,4,8,16,64,2,3,1,1,0,2,5,2,7,9,51,Collingwood,13,20-06-1970,23008,Victoria
+1970,12,Fitzroy,Richmond,2,4,1,5,1,3,3,4,12,11,83,4,3,1,0,3,2,3,1,8,9,57,Fitzroy,26,20-06-1970,14541,Junction
+1970,12,Geelong,Hawthorn,4,4,4,2,5,0,3,7,14,15,99,1,3,3,3,0,7,1,3,10,11,71,Geelong,28,20-06-1970,19698,Kardinia
+1970,12,Melbourne,South Melbourne,0,3,4,5,1,3,1,1,12,6,78,2,3,4,3,4,0,6,0,12,10,82,South Melbourne,4,20-06-1970,13922,Waverley
+1970,12,North Melbourne,St Kilda,0,2,2,1,3,3,1,3,5,10,40,1,6,4,0,4,0,1,0,11,5,71,St Kilda,31,20-06-1970,10007,Arden
+1970,13,Carlton,Geelong,3,2,1,6,2,12,1,6,12,21,93,4,2,3,2,2,2,9,1,11,14,80,Carlton,13,27-06-1970,26004,Princes
+1970,13,Richmond,Collingwood,4,2,4,1,2,4,3,4,11,13,79,2,5,1,1,1,7,2,3,9,13,67,Richmond,12,27-06-1970,25944,Waverley
+1970,13,Footscray,Essendon,2,3,5,1,0,3,7,2,11,12,78,3,3,1,2,0,4,1,3,9,8,62,Footscray,16,27-06-1970,18817,Western
+1970,13,St Kilda,Fitzroy,3,2,3,3,5,3,2,4,11,14,80,3,1,2,2,1,4,4,2,8,11,59,St Kilda,21,27-06-1970,17073,Moorabbin
+1970,13,Hawthorn,Melbourne,4,4,3,5,6,1,5,5,16,17,113,2,5,0,4,2,2,1,3,11,8,74,Hawthorn,39,27-06-1970,13196,Glenferrie
+1970,13,South Melbourne,North Melbourne,2,8,1,5,1,2,2,4,16,9,105,5,3,4,2,2,0,8,2,14,12,96,South Melbourne,9,27-06-1970,12407,Lake
+1970,14,Carlton,Richmond,3,1,4,3,5,0,2,5,11,12,78,2,2,1,2,3,1,2,1,7,7,49,Carlton,29,04-07-1970,27067,Princes
+1970,14,Hawthorn,Collingwood,5,6,6,1,5,1,0,1,18,7,115,8,3,2,0,1,5,4,3,13,13,91,Hawthorn,24,04-07-1970,19600,Glenferrie
+1970,14,Essendon,South Melbourne,1,2,0,2,1,2,6,1,5,10,40,2,2,3,4,1,1,2,1,11,5,71,South Melbourne,31,04-07-1970,13241,Waverley
+1970,14,Geelong,Fitzroy,8,2,6,4,1,1,2,4,20,8,128,4,3,2,4,3,7,2,4,13,16,94,Geelong,34,04-07-1970,15304,Kardinia
+1970,14,St Kilda,Footscray,2,1,1,2,1,10,4,1,6,16,52,3,0,2,1,2,2,4,2,6,10,46,St Kilda,6,04-07-1970,15415,Moorabbin
+1970,14,Melbourne,North Melbourne,3,1,5,2,5,6,6,2,11,19,85,4,3,1,3,2,3,3,3,11,11,77,Melbourne,8,04-07-1970,13975,M.C.G.
+1970,15,North Melbourne,Carlton,1,0,3,0,2,2,3,0,4,7,31,2,4,1,6,5,6,4,6,13,21,99,Carlton,68,11-07-1970,12542,Waverley
+1970,15,Collingwood,Geelong,3,2,6,2,8,1,3,3,13,15,93,0,5,2,1,3,4,2,7,8,16,64,Collingwood,29,11-07-1970,28847,Victoria
+1970,15,Essendon,Hawthorn,2,4,2,1,2,3,0,3,9,8,62,7,3,8,3,1,0,3,0,21,4,130,Hawthorn,68,11-07-1970,13054,Windy
+1970,15,Fitzroy,Melbourne,1,3,5,3,5,6,2,5,12,18,90,2,2,2,2,4,3,3,4,8,14,62,Fitzroy,28,11-07-1970,9467,Junction
+1970,15,Footscray,South Melbourne,0,2,1,3,1,2,0,1,6,4,40,2,7,1,3,5,2,1,2,13,10,88,South Melbourne,48,11-07-1970,21921,Western
+1970,15,Richmond,St Kilda,4,1,3,3,5,4,5,1,11,15,81,2,2,0,3,5,6,5,5,7,21,63,Richmond,18,11-07-1970,38149,M.C.G.
+1970,16,Carlton,St Kilda,4,3,6,3,4,2,3,5,16,14,110,3,2,2,3,5,1,1,4,10,11,71,Carlton,39,18-07-1970,23709,Princes
+1970,16,Melbourne,Collingwood,1,4,1,1,7,5,5,2,7,19,61,2,2,4,2,0,6,4,6,10,16,76,Collingwood,15,18-07-1970,36044,M.C.G.
+1970,16,Geelong,Essendon,4,3,3,5,4,2,4,6,15,16,106,3,3,2,0,2,9,1,5,8,17,65,Geelong,41,18-07-1970,17220,Kardinia
+1970,16,North Melbourne,Fitzroy,4,3,5,1,9,1,6,1,13,17,95,2,6,2,8,3,5,0,6,18,14,122,Fitzroy,27,18-07-1970,8442,Arden
+1970,16,Hawthorn,Footscray,7,3,5,8,0,4,2,3,23,9,147,0,1,2,3,4,2,5,1,6,12,48,Hawthorn,99,18-07-1970,14169,Waverley
+1970,16,South Melbourne,Richmond,3,3,0,5,2,2,1,4,11,9,75,3,5,2,2,3,5,8,1,12,17,89,Richmond,14,18-07-1970,25088,Lake
+1970,17,Fitzroy,Carlton,1,3,4,1,2,1,2,2,9,7,61,4,2,1,3,2,1,1,7,10,11,71,Carlton,10,25-07-1970,13854,Waverley
+1970,17,Collingwood,North Melbourne,1,5,2,6,4,6,5,6,14,21,105,2,2,3,1,2,3,1,2,8,8,56,Collingwood,49,25-07-1970,15678,Victoria
+1970,17,Essendon,Melbourne,0,10,2,6,3,7,1,6,18,17,125,4,1,6,1,5,2,8,2,12,17,89,Essendon,36,25-07-1970,9755,Windy
+1970,17,Footscray,Geelong,5,1,2,4,4,5,2,4,12,15,87,4,1,1,1,2,5,3,4,7,14,56,Footscray,31,25-07-1970,14660,Western
+1970,17,Richmond,Hawthorn,3,3,4,5,6,5,2,2,15,15,105,3,4,2,2,2,3,8,4,11,17,83,Richmond,22,25-07-1970,55740,M.C.G.
+1970,17,St Kilda,South Melbourne,2,5,4,2,2,6,2,4,13,14,92,2,3,2,4,2,2,2,0,11,6,72,St Kilda,20,25-07-1970,20851,Moorabbin
+1970,18,Carlton,South Melbourne,2,4,2,3,4,5,3,5,11,17,83,2,3,4,1,3,5,5,6,10,19,79,Carlton,4,01-08-1970,27625,Princes
+1970,18,Fitzroy,Collingwood,5,1,4,1,4,0,4,1,11,9,75,2,8,1,6,2,4,3,6,17,15,117,Collingwood,42,01-08-1970,18760,Junction
+1970,18,North Melbourne,Essendon,5,1,3,4,5,1,5,2,13,13,91,2,8,3,3,5,7,2,8,16,22,118,Essendon,27,01-08-1970,8952,Arden
+1970,18,Melbourne,Footscray,2,0,2,4,1,2,5,5,8,13,61,1,1,5,3,6,5,2,2,10,15,75,Footscray,14,01-08-1970,16591,M.C.G.
+1970,18,Geelong,Richmond,5,0,5,3,4,0,6,0,13,10,88,3,1,2,2,1,7,1,4,8,13,61,Geelong,27,01-08-1970,26501,Waverley
+1970,18,Hawthorn,St Kilda,4,2,4,1,3,3,2,3,11,11,77,4,3,3,4,4,7,2,5,14,18,102,St Kilda,25,01-08-1970,16698,Glenferrie
+1970,19,Collingwood,Carlton,2,3,2,6,6,5,4,8,13,23,101,0,1,1,0,4,3,4,1,2,12,24,Collingwood,77,08-08-1970,39959,Victoria
+1970,19,Essendon,Fitzroy,2,4,4,2,3,4,6,3,12,16,88,5,2,3,4,5,0,2,3,14,10,94,Fitzroy,6,08-08-1970,13572,Windy
+1970,19,Footscray,North Melbourne,0,4,3,3,2,11,0,10,10,23,83,3,1,7,0,8,1,5,1,11,15,81,Footscray,2,08-08-1970,13118,Western
+1970,19,St Kilda,Geelong,5,2,4,1,1,6,2,7,12,16,88,0,3,2,0,3,1,3,0,5,7,37,St Kilda,51,08-08-1970,29630,Waverley
+1970,19,South Melbourne,Hawthorn,2,6,3,5,2,2,2,1,16,7,103,2,3,3,5,2,1,1,4,13,8,86,South Melbourne,17,08-08-1970,17439,Lake
+1970,19,Richmond,Melbourne,2,3,3,1,2,4,1,3,9,10,64,4,4,6,4,1,2,5,2,18,10,118,Melbourne,54,08-08-1970,25158,M.C.G.
+1970,20,Hawthorn,Carlton,6,2,1,4,3,1,4,1,13,9,87,2,9,3,4,0,0,2,7,18,9,117,Carlton,30,15-08-1970,20845,Glenferrie
+1970,20,Collingwood,Essendon,6,1,11,6,2,4,6,4,24,16,160,3,6,0,2,3,3,2,5,11,13,79,Collingwood,81,15-08-1970,24785,Victoria
+1970,20,Fitzroy,Footscray,4,1,4,3,4,1,5,0,12,10,82,1,6,2,2,1,6,3,4,11,14,80,Fitzroy,2,15-08-1970,11398,Junction
+1970,20,Geelong,South Melbourne,5,2,2,1,3,0,5,6,10,14,74,1,5,2,3,4,5,4,2,11,15,81,South Melbourne,7,15-08-1970,29918,Kardinia
+1970,20,Melbourne,St Kilda,0,3,2,2,2,2,5,5,7,14,56,5,3,6,3,5,2,4,3,17,14,116,St Kilda,60,15-08-1970,22502,Waverley
+1970,20,North Melbourne,Richmond,2,2,1,2,0,3,0,3,7,6,48,5,3,5,3,0,3,4,3,16,10,106,Richmond,58,15-08-1970,8837,Arden
+1970,21,Carlton,Footscray,4,6,4,4,3,3,3,5,18,14,122,5,4,2,6,0,1,4,1,17,6,108,Carlton,14,22-08-1970,21574,Princes
+1970,21,St Kilda,Collingwood,5,1,3,5,4,3,4,3,14,14,98,3,4,2,7,0,5,2,5,16,12,108,Collingwood,10,22-08-1970,38222,Moorabbin
+1970,21,Richmond,Essendon,2,11,3,7,4,3,4,2,23,13,151,2,5,2,2,1,1,3,6,11,11,77,Richmond,74,22-08-1970,25862,M.C.G.
+1970,21,South Melbourne,Fitzroy,2,6,4,2,3,2,8,2,14,15,99,5,1,0,4,2,3,9,6,10,20,80,South Melbourne,19,22-08-1970,20029,Lake
+1970,21,Geelong,Melbourne,3,7,3,3,4,2,5,1,16,12,108,4,2,3,4,5,3,4,6,13,18,96,Geelong,12,22-08-1970,13670,Kardinia
+1970,21,Hawthorn,North Melbourne,4,6,2,9,5,5,3,1,21,14,140,3,2,1,3,5,6,4,5,9,20,74,Hawthorn,66,22-08-1970,8061,Glenferrie
+1970,22,Melbourne,Carlton,4,3,2,3,4,5,5,1,12,15,87,2,5,4,3,3,4,6,4,14,17,101,Carlton,14,29-08-1970,40973,M.C.G.
+1970,22,Collingwood,South Melbourne,2,3,12,5,6,2,3,4,22,15,147,0,3,1,3,0,3,2,4,7,9,51,Collingwood,96,29-08-1970,39451,Victoria
+1970,22,Essendon,St Kilda,2,1,2,3,4,2,1,4,8,11,59,3,2,5,4,4,2,11,2,14,19,103,St Kilda,44,29-08-1970,14310,Windy
+1970,22,Fitzroy,Hawthorn,1,2,0,6,1,5,1,4,9,11,65,5,4,6,3,7,1,5,3,18,16,124,Hawthorn,59,29-08-1970,11626,Junction
+1970,22,Footscray,Richmond,2,6,1,3,1,6,3,0,12,10,82,3,1,3,3,2,2,5,3,10,12,72,Footscray,10,29-08-1970,16672,Western
+1970,22,North Melbourne,Geelong,2,2,6,2,2,5,3,1,12,11,83,2,1,1,2,1,1,1,3,6,6,42,North Melbourne,41,29-08-1970,6435,Arden
+1970,SF,St Kilda,South Melbourne,6,3,5,8,1,2,5,3,22,11,143,2,7,1,3,5,3,2,2,13,12,90,St Kilda,53,05-09-1970,104239,M.C.G.
+1970,SF,Collingwood,Carlton,5,4,3,5,2,5,4,5,17,16,118,5,4,5,3,0,2,1,3,17,6,108,Collingwood,10,12-09-1970,112838,M.C.G.
+1970,PF,Carlton,St Kilda,2,4,7,4,6,6,4,5,17,21,123,1,3,2,1,4,8,4,3,7,19,61,Carlton,62,19-09-1970,108215,M.C.G.
+1970,GF,Collingwood,Carlton,4,6,3,1,8,5,3,1,14,17,101,0,4,8,5,3,2,0,4,17,9,111,Carlton,10,26-09-1970,121696,M.C.G.

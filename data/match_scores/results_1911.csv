@@ -1,0 +1,94 @@
+Year,Round,Home Team,Away Team,H Goals 1st,H Goals 2nd,H Goals 3rd,H Goals 4th,H Behind 1st,H Behind 2nd,H Behind 3rd,H Behind 4th,H Total Goals,H Total Behind,H Total Score,A Goals 1st,A Goals 2nd,A Goals 3rd,A Goals 4th,A Behind 1st,A Behind 2nd,A Behind 3rd,A Behind 4th,A Total Goals,A Total Behind,A Total Score,Winning Team,Margin,Date,Attendance,Venue
+1911,1,Essendon,Carlton,1,0,2,2,7,3,4,1,5,15,45,1,3,0,2,1,5,0,3,6,9,45,Match drawn,0,29-04-1911,0,East
+1911,1,Collingwood,Richmond,1,4,4,5,4,1,3,2,14,10,94,3,1,4,1,4,2,2,3,9,11,65,Collingwood,29,29-04-1911,0,Victoria
+1911,1,Melbourne,Fitzroy,4,2,2,2,2,5,3,2,10,12,72,3,5,2,1,1,2,0,1,11,4,70,Melbourne,2,29-04-1911,7856,M.C.G.
+1911,1,St Kilda,Geelong,0,7,1,2,1,3,1,1,10,6,66,1,2,3,1,2,2,10,1,7,15,57,St Kilda,9,29-04-1911,0,Junction
+1911,1,South Melbourne,University,7,4,2,1,3,3,5,7,14,18,102,1,1,2,1,0,3,4,3,5,10,40,South Melbourne,62,29-04-1911,0,Lake
+1911,2,Carlton,South Melbourne,2,1,4,3,1,2,3,0,10,6,66,4,2,2,2,1,0,2,3,10,6,66,Match drawn,0,06-05-1911,0,Princes
+1911,2,Fitzroy,Collingwood,3,0,0,1,1,4,4,1,4,10,34,0,2,3,2,1,2,3,1,7,7,49,Collingwood,15,06-05-1911,0,Brunswick
+1911,2,Richmond,Essendon,0,0,1,2,4,0,6,1,3,11,29,2,5,1,2,1,10,1,4,10,16,76,Essendon,47,06-05-1911,0,Punt
+1911,2,Geelong,Melbourne,1,4,0,2,0,5,0,7,7,12,54,4,0,3,0,5,0,7,0,7,12,54,Match drawn,0,06-05-1911,0,Corio
+1911,2,University,St Kilda,3,1,4,2,3,2,1,3,10,9,69,2,1,2,1,1,3,2,1,6,7,43,University,26,06-05-1911,7797,M.C.G.
+1911,3,Carlton,Fitzroy,2,2,1,1,0,4,1,2,6,7,43,4,0,2,0,2,2,2,3,6,9,45,Fitzroy,2,13-05-1911,0,Princes
+1911,3,Collingwood,Geelong,3,2,0,3,4,5,5,3,8,17,65,6,3,1,0,2,1,2,3,10,8,68,Geelong,3,13-05-1911,0,Victoria
+1911,3,Melbourne,Essendon,0,0,0,0,1,4,3,1,0,9,9,2,1,2,1,3,3,1,4,6,11,47,Essendon,38,13-05-1911,11554,M.C.G.
+1911,3,Richmond,University,1,2,3,0,4,4,6,3,6,17,53,1,4,0,1,2,0,2,1,6,5,41,Richmond,12,13-05-1911,0,Punt
+1911,3,St Kilda,South Melbourne,0,0,2,0,2,1,1,1,2,5,17,1,4,1,4,6,1,3,3,10,13,73,South Melbourne,56,13-05-1911,0,Junction
+1911,4,University,Carlton,3,2,1,0,2,2,1,3,6,8,44,1,2,2,4,2,3,3,3,9,11,65,Carlton,21,20-05-1911,2664,M.C.G.
+1911,4,Essendon,Collingwood,5,2,7,7,5,5,1,1,21,12,138,3,1,2,1,2,3,1,5,7,11,53,Essendon,85,20-05-1911,0,East
+1911,4,Fitzroy,St Kilda,3,2,1,4,5,6,7,6,10,24,84,1,2,0,1,1,2,3,0,4,6,30,Fitzroy,54,20-05-1911,0,Brunswick
+1911,4,Geelong,Richmond,1,3,3,1,3,2,5,2,8,12,60,1,3,1,1,1,3,4,3,6,11,47,Geelong,13,20-05-1911,0,Corio
+1911,4,South Melbourne,Melbourne,2,4,4,2,3,4,2,4,12,13,85,3,1,2,2,4,2,2,3,8,11,59,South Melbourne,26,20-05-1911,0,Lake
+1911,5,Carlton,Richmond,3,2,3,5,7,2,1,1,13,11,89,0,1,1,2,1,7,5,2,4,15,39,Carlton,50,27-05-1911,0,Princes
+1911,5,South Melbourne,Collingwood,1,1,1,1,3,2,1,4,4,10,34,3,1,1,0,1,2,4,3,5,10,40,Collingwood,6,27-05-1911,0,Lake
+1911,5,Essendon,University,5,4,3,0,5,4,3,2,12,14,86,1,2,1,2,0,0,2,4,6,6,42,Essendon,44,27-05-1911,0,East
+1911,5,Fitzroy,Geelong,2,1,3,2,2,3,6,6,8,17,65,2,2,0,0,1,3,2,2,4,8,32,Fitzroy,33,27-05-1911,0,Brunswick
+1911,5,Melbourne,St Kilda,4,1,2,2,3,2,4,6,9,15,69,0,2,1,1,0,3,2,2,4,7,31,Melbourne,38,27-05-1911,6570,M.C.G.
+1911,6,St Kilda,Carlton,1,3,0,1,2,7,1,2,5,12,42,4,1,1,0,4,4,7,1,6,16,52,Carlton,10,03-06-1911,0,Junction
+1911,6,Collingwood,Melbourne,3,0,1,2,2,4,4,3,6,13,49,2,2,1,0,4,4,5,0,5,13,43,Collingwood,6,03-06-1911,0,Victoria
+1911,6,Geelong,Essendon,2,3,0,1,2,1,1,2,6,6,42,3,1,4,0,3,0,7,1,8,11,59,Essendon,17,03-06-1911,0,Corio
+1911,6,University,Fitzroy,0,2,1,2,3,5,1,3,5,12,42,2,0,5,3,2,2,6,6,10,16,76,Fitzroy,34,03-06-1911,12245,M.C.G.
+1911,6,Richmond,South Melbourne,3,1,3,1,5,3,3,3,8,14,62,3,2,0,2,2,6,2,2,7,12,54,Richmond,8,03-06-1911,0,Punt
+1911,7,Geelong,Carlton,2,1,4,0,1,2,2,2,7,7,49,1,3,0,1,3,0,2,3,5,8,38,Geelong,11,05-06-1911,0,Corio
+1911,7,Collingwood,University,2,1,4,3,10,2,4,1,10,17,77,2,2,1,2,0,3,2,4,7,9,51,Collingwood,26,05-06-1911,0,Victoria
+1911,7,Essendon,St Kilda,4,1,2,2,2,1,3,4,9,10,64,0,1,0,2,1,2,1,2,3,6,24,Essendon,40,05-06-1911,0,East
+1911,7,Fitzroy,South Melbourne,1,0,0,2,1,0,3,1,3,5,23,2,4,0,4,4,2,1,4,10,11,71,South Melbourne,48,05-06-1911,0,Brunswick
+1911,7,Melbourne,Richmond,3,0,2,1,3,3,3,3,6,12,48,3,2,1,3,3,7,1,4,9,15,69,Richmond,21,05-06-1911,8130,M.C.G.
+1911,8,Carlton,Collingwood,2,1,3,1,5,0,3,5,7,13,55,0,2,0,0,0,4,2,4,2,10,22,Carlton,33,10-06-1911,0,Princes
+1911,8,Essendon,Fitzroy,0,2,4,2,1,3,2,1,8,7,55,1,2,0,0,1,0,1,0,3,2,20,Essendon,35,10-06-1911,0,East
+1911,8,South Melbourne,Geelong,2,2,1,2,2,1,4,3,7,10,52,0,2,1,2,0,6,0,3,5,9,39,South Melbourne,13,10-06-1911,0,Lake
+1911,8,University,Melbourne,2,1,2,0,5,0,1,3,5,9,39,2,1,2,4,0,6,0,7,9,13,67,Melbourne,28,10-06-1911,2573,M.C.G.
+1911,8,St Kilda,Richmond,2,0,0,1,1,6,1,0,3,8,26,0,2,3,1,2,2,1,1,6,6,42,Richmond,16,10-06-1911,0,Junction
+1911,9,Melbourne,Carlton,2,3,3,1,0,0,1,1,9,2,56,4,5,2,2,2,4,2,3,13,11,89,Carlton,33,17-06-1911,8745,M.C.G.
+1911,9,Collingwood,St Kilda,1,4,2,5,1,4,5,3,12,13,85,0,1,2,1,4,1,1,2,4,8,32,Collingwood,53,17-06-1911,0,Victoria
+1911,9,South Melbourne,Essendon,1,2,2,1,2,1,2,3,6,8,44,2,2,1,0,3,3,2,3,5,11,41,South Melbourne,3,17-06-1911,0,Lake
+1911,9,Richmond,Fitzroy,2,1,1,0,3,1,2,6,4,12,36,0,3,1,1,1,2,1,4,5,8,38,Fitzroy,2,17-06-1911,0,Punt
+1911,9,Geelong,University,2,5,2,1,0,2,3,7,10,12,72,2,2,1,4,3,2,1,0,9,6,60,Geelong,12,17-06-1911,8000,Corio
+1911,10,Richmond,Collingwood,2,1,0,1,2,0,0,4,4,6,30,3,1,1,2,3,1,4,0,7,8,50,Collingwood,20,22-06-1911,0,Punt
+1911,10,Fitzroy,Melbourne,1,3,2,2,4,7,0,4,8,15,63,1,1,2,1,1,0,3,1,5,5,35,Fitzroy,28,22-06-1911,0,Brunswick
+1911,10,Carlton,Essendon,2,0,0,4,4,6,4,2,6,16,52,4,0,1,0,4,1,3,2,5,10,40,Carlton,12,24-06-1911,0,Princes
+1911,10,Geelong,St Kilda,4,1,2,1,2,2,3,0,8,7,55,0,4,0,2,2,0,0,2,6,4,40,Geelong,15,24-06-1911,0,Corio
+1911,10,University,South Melbourne,1,2,1,0,1,2,2,0,4,5,29,3,1,2,3,4,4,3,2,9,13,67,South Melbourne,38,24-06-1911,8016,M.C.G.
+1911,11,South Melbourne,Carlton,3,4,1,4,3,1,1,3,12,8,80,3,2,2,2,4,1,2,4,9,11,65,South Melbourne,15,01-07-1911,0,Lake
+1911,11,Collingwood,Fitzroy,3,1,3,2,2,0,1,4,9,7,61,2,3,1,4,0,6,4,2,10,12,72,Fitzroy,11,01-07-1911,0,Victoria
+1911,11,Essendon,Richmond,2,2,2,1,3,3,5,4,7,15,57,4,0,1,2,0,1,3,1,7,5,47,Essendon,10,01-07-1911,0,East
+1911,11,Melbourne,Geelong,5,2,1,2,0,2,2,3,10,7,67,3,1,4,0,4,2,1,0,8,7,55,Melbourne,12,01-07-1911,4224,M.C.G.
+1911,11,St Kilda,University,2,4,3,6,3,4,3,1,15,11,101,3,1,0,2,1,1,3,0,6,5,41,St Kilda,60,01-07-1911,0,Junction
+1911,12,Fitzroy,Carlton,2,1,1,1,1,6,2,4,5,13,43,1,1,1,3,2,1,4,3,6,10,46,Carlton,3,08-07-1911,0,Brunswick
+1911,12,Geelong,Collingwood,1,2,2,1,5,0,0,2,6,7,43,0,3,4,1,1,1,3,0,8,5,53,Collingwood,10,08-07-1911,0,Corio
+1911,12,Essendon,Melbourne,2,3,1,1,1,7,4,3,7,15,57,1,2,3,0,4,2,3,4,6,13,49,Essendon,8,08-07-1911,0,East
+1911,12,University,Richmond,1,0,1,1,1,1,3,3,3,8,26,1,1,1,3,7,1,1,1,6,10,46,Richmond,20,08-07-1911,4864,M.C.G.
+1911,12,South Melbourne,St Kilda,3,2,4,3,3,7,2,2,12,14,86,1,2,1,2,2,2,3,6,6,13,49,South Melbourne,37,08-07-1911,0,Lake
+1911,13,Carlton,University,1,6,1,1,3,2,3,4,9,12,66,0,0,1,1,3,4,3,0,2,10,22,Carlton,44,15-07-1911,0,Princes
+1911,13,Collingwood,Essendon,1,0,1,0,3,2,4,2,2,11,23,2,1,0,0,1,2,2,6,3,11,29,Essendon,6,15-07-1911,0,Victoria
+1911,13,St Kilda,Fitzroy,2,0,1,0,5,1,2,0,3,8,26,0,3,5,4,1,5,0,6,12,12,84,Fitzroy,58,15-07-1911,0,Junction
+1911,13,Richmond,Geelong,0,5,1,5,2,6,2,4,11,14,80,6,0,2,0,6,1,3,2,8,12,60,Richmond,20,15-07-1911,0,Punt
+1911,13,Melbourne,South Melbourne,2,3,0,2,0,3,3,1,7,7,49,2,1,4,2,3,2,1,2,9,8,62,South Melbourne,13,15-07-1911,11706,M.C.G.
+1911,14,Richmond,Carlton,5,1,0,0,1,1,2,1,6,5,41,2,2,2,5,2,0,4,4,11,10,76,Carlton,35,22-07-1911,0,Punt
+1911,14,Collingwood,South Melbourne,2,2,1,0,0,4,1,1,5,6,36,0,1,2,2,2,2,1,2,5,7,37,South Melbourne,1,22-07-1911,0,Victoria
+1911,14,University,Essendon,0,3,0,3,0,2,1,3,6,6,42,1,5,5,1,4,0,2,2,12,8,80,Essendon,38,22-07-1911,8044,M.C.G.
+1911,14,Geelong,Fitzroy,1,2,3,4,3,5,3,3,10,14,74,2,0,3,1,1,0,0,2,6,3,39,Geelong,35,22-07-1911,0,Corio
+1911,14,St Kilda,Melbourne,0,2,1,2,1,3,2,3,5,9,39,3,4,3,1,5,2,0,4,11,11,77,Melbourne,38,22-07-1911,0,Junction
+1911,15,Carlton,St Kilda,4,2,5,7,4,9,4,4,18,21,129,1,0,1,0,0,1,2,0,2,3,15,Carlton,114,29-07-1911,0,Princes
+1911,15,Melbourne,Collingwood,2,1,1,0,1,0,0,5,4,6,30,1,4,0,1,5,5,5,1,6,16,52,Collingwood,22,29-07-1911,12076,M.C.G.
+1911,15,Essendon,Geelong,2,2,5,0,2,0,4,1,9,7,61,1,0,2,1,1,3,1,6,4,11,35,Essendon,26,29-07-1911,0,East
+1911,15,Fitzroy,University,2,3,3,4,4,4,4,2,12,14,86,3,2,0,2,2,2,2,1,7,7,49,Fitzroy,37,29-07-1911,0,Brunswick
+1911,15,South Melbourne,Richmond,1,4,1,2,5,11,3,6,8,25,73,2,0,3,0,2,0,2,3,5,7,37,South Melbourne,36,29-07-1911,0,Lake
+1911,16,Carlton,Geelong,4,2,2,3,2,2,0,1,11,5,71,3,1,3,0,3,2,2,2,7,9,51,Carlton,20,19-08-1911,0,Princes
+1911,16,University,Collingwood,0,0,0,0,0,2,1,6,0,9,9,5,1,5,3,5,5,3,1,14,14,98,Collingwood,89,19-08-1911,7712,M.C.G.
+1911,16,St Kilda,Essendon,1,1,1,2,2,5,0,1,5,8,38,8,4,8,4,4,3,7,5,24,19,163,Essendon,125,19-08-1911,0,Junction
+1911,16,South Melbourne,Fitzroy,2,0,3,0,1,2,1,2,5,6,36,2,1,0,1,2,0,1,0,4,3,27,South Melbourne,9,19-08-1911,0,Lake
+1911,16,Richmond,Melbourne,2,3,1,1,1,3,4,1,7,9,51,2,1,4,2,1,1,2,2,9,6,60,Melbourne,9,19-08-1911,0,Punt
+1911,17,Collingwood,Carlton,3,1,4,0,0,2,5,1,8,8,56,1,1,1,1,5,5,2,5,4,17,41,Collingwood,15,26-08-1911,0,Victoria
+1911,17,Fitzroy,Essendon,1,0,0,2,4,2,1,0,3,7,25,1,3,0,2,2,2,3,3,6,10,46,Essendon,21,26-08-1911,0,Brunswick
+1911,17,Geelong,South Melbourne,1,1,5,3,3,3,3,3,10,12,72,4,3,2,1,0,1,1,1,10,3,63,Geelong,9,26-08-1911,0,Corio
+1911,17,Melbourne,University,3,3,0,7,1,6,3,3,13,13,91,2,2,0,0,0,3,2,0,4,5,29,Melbourne,62,26-08-1911,2127,M.C.G.
+1911,17,Richmond,St Kilda,3,6,5,3,6,3,7,5,17,21,123,1,3,0,1,0,1,1,4,5,6,36,Richmond,87,26-08-1911,0,Punt
+1911,18,Carlton,Melbourne,2,4,1,2,1,2,3,2,9,8,62,2,2,3,1,0,1,4,1,8,6,54,Carlton,8,02-09-1911,0,Princes
+1911,18,St Kilda,Collingwood,1,2,1,2,1,1,0,6,6,8,44,5,4,5,1,8,1,0,2,15,11,101,Collingwood,57,02-09-1911,0,Junction
+1911,18,Essendon,South Melbourne,4,1,4,0,3,2,3,1,9,9,63,1,2,2,3,1,2,5,2,8,10,58,Essendon,5,02-09-1911,0,East
+1911,18,Fitzroy,Richmond,1,1,2,4,3,1,2,3,8,9,57,0,1,1,2,1,5,2,2,4,10,34,Fitzroy,23,02-09-1911,0,Brunswick
+1911,18,University,Geelong,1,2,3,1,0,0,3,1,7,4,46,1,8,1,5,6,4,4,3,15,17,107,Geelong,61,02-09-1911,1071,M.C.G.
+1911,SF,South Melbourne,Collingwood,1,1,1,3,2,5,3,1,6,11,47,1,2,5,3,4,3,3,1,11,11,77,Collingwood,30,09-09-1911,43575,M.C.G.
+1911,SF,Essendon,Carlton,2,1,1,5,1,3,5,6,9,15,69,2,2,1,1,6,1,4,1,6,12,48,Essendon,21,16-09-1911,40669,M.C.G.
+1911,GF,Essendon,Collingwood,2,1,0,2,4,5,2,0,5,11,41,1,0,2,1,1,4,3,3,4,11,35,Essendon,6,23-09-1911,43905,M.C.G.

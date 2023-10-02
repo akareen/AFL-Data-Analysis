@@ -1,0 +1,207 @@
+Year,Round,Home Team,Away Team,H Goals 1st,H Goals 2nd,H Goals 3rd,H Goals 4th,H Behind 1st,H Behind 2nd,H Behind 3rd,H Behind 4th,H Total Goals,H Total Behind,H Total Score,A Goals 1st,A Goals 2nd,A Goals 3rd,A Goals 4th,A Behind 1st,A Behind 2nd,A Behind 3rd,A Behind 4th,A Total Goals,A Total Behind,A Total Score,Winning Team,Margin,Date,Attendance,Venue
+2015,1,Carlton,Richmond,4,2,0,5,7,2,3,0,11,12,78,2,5,2,6,3,7,3,2,15,15,105,Richmond,27,02-04-2015,83493,M.C.G.
+2015,1,Melbourne,Gold Coast,2,5,5,5,5,2,2,4,17,13,115,1,2,5,5,2,4,2,3,13,11,89,Melbourne,26,04-04-2015,27013,M.C.G.
+2015,1,Sydney,Essendon,0,1,2,7,1,6,1,4,10,12,72,4,1,4,0,3,2,1,0,9,6,60,Sydney,12,04-04-2015,23274,Stadium
+2015,1,Brisbane Lions,Collingwood,2,1,4,4,3,2,1,2,11,8,74,3,4,5,0,3,3,5,3,12,14,86,Collingwood,12,04-04-2015,31240,Gabba
+2015,1,Western Bulldogs,West Coast,4,3,4,3,0,5,1,7,14,13,97,3,4,5,2,1,0,1,1,14,3,87,Western Bulldogs,10,04-04-2015,22366,Docklands
+2015,1,St Kilda,Greater Western Sydney,3,2,2,4,0,2,3,7,11,12,78,3,4,2,3,5,4,3,3,12,15,87,Greater Western Sydney,9,05-04-2015,18794,Docklands
+2015,1,Adelaide,North Melbourne,6,6,3,6,4,6,2,2,21,14,140,2,1,6,0,1,0,3,5,9,9,63,Adelaide,77,05-04-2015,45607,Adelaide
+2015,1,Fremantle,Port Adelaide,2,3,2,4,1,2,2,4,11,9,75,2,3,2,3,5,0,3,0,10,8,68,Fremantle,7,05-04-2015,34099,Subiaco
+2015,1,Hawthorn,Geelong,3,6,7,1,3,4,6,8,17,21,123,4,1,1,2,3,0,3,7,8,13,61,Hawthorn,62,06-04-2015,73584,M.C.G.
+2015,2,West Coast,Carlton,4,3,7,6,1,7,2,1,20,11,131,6,0,1,2,1,0,5,2,9,8,62,West Coast,69,10-04-2015,34588,Subiaco
+2015,2,Richmond,Western Bulldogs,2,1,3,3,3,3,2,4,9,12,66,3,2,5,2,5,3,5,0,12,13,85,Western Bulldogs,19,11-04-2015,49945,M.C.G.
+2015,2,Greater Western Sydney,Melbourne,0,2,9,4,2,4,2,3,15,11,101,4,3,0,1,2,1,3,2,8,8,56,Greater Western Sydney,45,11-04-2015,8811,Manuka
+2015,2,Collingwood,Adelaide,0,2,1,6,2,2,3,2,9,9,63,3,4,4,1,6,5,4,3,12,18,90,Adelaide,27,11-04-2015,33771,Docklands
+2015,2,Gold Coast,St Kilda,3,1,1,5,5,1,7,3,10,16,76,4,8,1,3,3,2,3,0,16,8,104,St Kilda,28,11-04-2015,13649,Carrara
+2015,2,Port Adelaide,Sydney,1,3,2,0,1,1,3,3,6,8,44,3,4,4,3,1,3,2,2,14,8,92,Sydney,48,11-04-2015,49765,Adelaide
+2015,2,Geelong,Fremantle,2,4,2,1,2,0,2,2,9,6,60,3,4,7,1,3,5,1,5,15,14,104,Fremantle,44,12-04-2015,23723,Kardinia
+2015,2,Essendon,Hawthorn,2,5,2,3,2,1,1,2,12,6,78,1,2,4,4,3,2,3,2,11,10,76,Essendon,2,12-04-2015,59866,M.C.G.
+2015,2,North Melbourne,Brisbane Lions,5,8,2,5,3,2,4,4,20,13,133,3,1,1,2,2,3,3,1,7,9,51,North Melbourne,82,12-04-2015,22275,Docklands
+2015,3,Collingwood,St Kilda,6,6,4,5,2,4,4,4,21,14,140,6,1,1,2,3,1,2,0,10,6,66,Collingwood,74,17-04-2015,45197,M.C.G.
+2015,3,Carlton,Essendon,2,3,2,4,4,3,5,6,11,18,84,3,7,4,2,4,0,2,3,16,9,105,Essendon,21,18-04-2015,54854,M.C.G.
+2015,3,Adelaide,Melbourne,3,2,4,3,1,2,1,4,12,8,80,3,1,2,1,4,2,3,4,7,13,55,Adelaide,25,18-04-2015,43713,Adelaide
+2015,3,Sydney,Greater Western Sydney,4,6,4,2,3,3,6,3,16,15,111,1,2,4,5,6,7,2,3,12,18,90,Sydney,21,18-04-2015,31966,S.C.G.
+2015,3,North Melbourne,Port Adelaide,2,3,6,5,0,4,3,2,16,9,105,3,5,4,5,3,3,3,2,17,11,113,Port Adelaide,8,18-04-2015,22586,Docklands
+2015,3,Brisbane Lions,Richmond,3,1,2,2,1,4,2,3,8,10,58,4,4,5,8,4,1,2,4,21,11,137,Richmond,79,18-04-2015,22441,Gabba
+2015,3,Hawthorn,Western Bulldogs,2,9,3,5,3,3,1,6,19,13,127,2,4,2,0,1,0,5,3,8,9,57,Hawthorn,70,19-04-2015,15559,York
+2015,3,Geelong,Gold Coast,5,2,6,3,3,3,2,1,16,9,105,6,2,1,4,5,7,3,3,13,18,96,Geelong,9,19-04-2015,20813,Kardinia
+2015,3,West Coast,Fremantle,0,3,3,6,4,1,2,2,12,9,81,9,5,2,1,2,3,2,2,17,9,111,Fremantle,30,19-04-2015,39138,Subiaco
+2015,4,Richmond,Melbourne,3,2,1,0,5,4,4,2,6,15,51,4,2,4,2,2,3,4,2,12,11,83,Melbourne,32,24-04-2015,58175,M.C.G.
+2015,4,St Kilda,Carlton,5,3,2,2,3,3,2,1,12,9,81,1,5,6,6,2,2,5,4,18,13,121,Carlton,40,25-04-2015,12125,Wellington
+2015,4,Essendon,Collingwood,2,2,1,1,0,8,2,3,6,13,49,3,1,3,2,2,7,3,3,9,15,69,Collingwood,20,25-04-2015,88395,M.C.G.
+2015,4,Greater Western Sydney,Gold Coast,4,4,4,4,4,4,10,5,16,23,119,1,3,1,2,2,4,2,3,7,11,53,Greater Western Sydney,66,25-04-2015,6917,Manuka
+2015,4,Port Adelaide,Hawthorn,8,4,3,0,2,2,4,1,15,9,99,1,2,5,5,2,5,2,4,13,13,91,Port Adelaide,8,25-04-2015,49831,Adelaide
+2015,4,Fremantle,Sydney,4,5,0,2,2,1,1,4,11,8,74,1,0,4,3,1,2,5,4,8,12,60,Fremantle,14,25-04-2015,39009,Subiaco
+2015,4,Brisbane Lions,West Coast,1,3,1,4,1,3,5,2,9,11,65,5,3,4,5,3,5,3,5,17,16,118,West Coast,53,26-04-2015,16632,Gabba
+2015,4,Geelong,North Melbourne,4,0,2,3,3,3,2,5,9,13,67,1,4,2,5,2,2,4,3,12,11,83,North Melbourne,16,26-04-2015,23452,Kardinia
+2015,4,Western Bulldogs,Adelaide,6,4,6,2,5,4,5,3,18,17,125,1,4,0,5,1,3,1,3,10,8,68,Western Bulldogs,57,26-04-2015,19915,Docklands
+2015,5,Carlton,Collingwood,1,1,3,1,1,2,3,3,6,9,45,4,4,6,4,4,5,2,1,18,12,120,Collingwood,75,01-05-2015,71759,M.C.G.
+2015,5,Richmond,Geelong,0,2,4,5,5,1,2,2,11,10,76,2,5,2,3,2,2,5,4,12,13,85,Geelong,9,02-05-2015,45228,M.C.G.
+2015,5,Sydney,Western Bulldogs,2,2,4,2,5,4,1,3,10,13,73,5,1,4,1,1,7,1,2,11,11,77,Western Bulldogs,4,02-05-2015,25541,S.C.G.
+2015,5,Gold Coast,Brisbane Lions,2,5,7,4,3,6,1,0,18,10,118,2,1,4,0,3,2,3,4,7,12,54,Gold Coast,64,02-05-2015,12464,Carrara
+2015,5,North Melbourne,Hawthorn,3,1,3,3,1,2,5,2,10,10,70,6,1,5,7,4,4,5,3,19,16,130,Hawthorn,60,02-05-2015,38077,Docklands
+2015,5,West Coast,Greater Western Sydney,4,5,3,6,2,2,6,2,18,12,120,3,0,1,0,4,0,4,1,4,9,33,West Coast,87,02-05-2015,34554,Subiaco
+2015,5,Melbourne,Fremantle,2,3,1,0,2,2,4,6,6,14,50,5,3,3,7,3,3,2,2,18,10,118,Fremantle,68,03-05-2015,22892,M.C.G.
+2015,5,St Kilda,Essendon,2,4,4,1,6,1,3,4,11,14,80,3,3,3,2,2,4,5,5,11,16,82,Essendon,2,03-05-2015,29869,Docklands
+2015,5,Adelaide,Port Adelaide,2,2,5,4,3,5,3,2,13,13,91,5,3,4,6,1,0,5,1,18,7,115,Port Adelaide,24,03-05-2015,49617,Adelaide
+2015,6,Collingwood,Geelong,1,1,4,2,3,3,3,2,8,11,59,7,4,1,3,1,3,4,2,15,10,100,Geelong,41,08-05-2015,52152,M.C.G.
+2015,6,North Melbourne,Richmond,3,3,7,3,2,6,2,3,16,13,109,2,3,1,4,1,7,3,3,10,14,74,North Melbourne,35,09-05-2015,17544,Bellerive
+2015,6,Western Bulldogs,St Kilda,3,7,1,2,3,1,2,3,13,9,87,2,0,7,5,2,1,3,4,14,10,94,St Kilda,7,09-05-2015,29619,Docklands
+2015,6,Greater Western Sydney,Hawthorn,2,5,4,5,2,2,1,7,16,12,108,4,2,6,2,5,1,3,5,14,14,98,Greater Western Sydney,10,09-05-2015,13556,Sydney
+2015,6,Gold Coast,Adelaide,3,1,2,5,3,1,5,3,11,12,78,5,4,5,4,2,2,3,4,18,11,119,Adelaide,41,09-05-2015,12464,Carrara
+2015,6,Melbourne,Sydney,1,0,3,3,1,2,2,3,7,8,50,4,3,4,1,3,4,2,7,12,16,88,Sydney,38,09-05-2015,26894,M.C.G.
+2015,6,Fremantle,Essendon,4,5,3,0,3,1,2,2,12,8,80,2,1,0,4,1,2,3,4,7,10,52,Fremantle,28,09-05-2015,37535,Subiaco
+2015,6,Carlton,Brisbane Lions,3,3,3,2,2,2,3,2,11,9,75,3,2,5,2,1,3,5,3,12,12,84,Brisbane Lions,9,10-05-2015,20273,Docklands
+2015,6,Port Adelaide,West Coast,3,4,1,2,4,2,0,2,10,8,68,3,1,4,3,4,3,4,1,11,12,78,West Coast,10,10-05-2015,38508,Adelaide
+2015,7,Essendon,North Melbourne,5,1,2,4,0,3,7,0,12,10,82,2,5,2,4,6,3,4,2,13,15,93,North Melbourne,11,15-05-2015,43972,Docklands
+2015,7,Adelaide,St Kilda,3,6,6,3,3,0,3,5,18,11,119,3,2,2,3,3,5,4,1,10,13,73,Adelaide,46,16-05-2015,43532,Adelaide
+2015,7,Hawthorn,Melbourne,6,4,8,6,2,4,2,3,24,11,155,2,1,1,3,0,3,3,2,7,8,50,Hawthorn,105,16-05-2015,41935,M.C.G.
+2015,7,Carlton,Greater Western Sydney,2,2,4,1,0,1,1,1,9,3,57,4,4,8,3,4,6,5,6,19,21,135,Greater Western Sydney,78,16-05-2015,16676,Docklands
+2015,7,Sydney,Geelong,4,4,3,7,3,1,5,3,18,12,120,4,5,1,1,4,3,3,1,11,11,77,Sydney,43,16-05-2015,28063,Stadium
+2015,7,West Coast,Gold Coast,3,4,12,2,3,3,0,3,21,9,135,1,0,1,4,1,1,4,1,6,7,43,West Coast,92,16-05-2015,26964,Subiaco
+2015,7,Western Bulldogs,Fremantle,1,3,4,6,0,3,1,0,14,4,88,5,2,4,4,3,3,2,3,15,11,101,Fremantle,13,17-05-2015,18170,Docklands
+2015,7,Richmond,Collingwood,1,8,3,4,2,3,1,3,16,9,105,4,3,5,3,4,1,2,3,15,10,100,Richmond,5,17-05-2015,59034,M.C.G.
+2015,7,Brisbane Lions,Port Adelaide,1,6,4,4,2,4,2,4,15,12,102,2,1,3,2,3,6,4,4,8,17,65,Brisbane Lions,37,17-05-2015,15957,Gabba
+2015,8,Geelong,Carlton,6,5,7,4,1,4,1,2,22,8,140,2,3,3,1,4,3,1,1,9,9,63,Geelong,77,22-05-2015,32032,Docklands
+2015,8,St Kilda,West Coast,1,5,4,2,2,2,1,1,12,6,78,7,1,7,5,3,1,2,5,20,11,131,West Coast,53,23-05-2015,23598,Docklands
+2015,8,Greater Western Sydney,Adelaide,6,2,8,0,4,3,3,2,16,12,108,3,2,4,3,3,2,1,6,12,12,84,Greater Western Sydney,24,23-05-2015,9481,Sydney
+2015,8,Gold Coast,Collingwood,1,5,0,3,3,2,2,2,9,9,63,5,5,5,5,2,2,4,4,20,12,132,Collingwood,69,23-05-2015,16440,Carrara
+2015,8,Hawthorn,Sydney,0,4,4,1,4,5,2,4,9,15,69,5,2,1,3,1,3,3,0,11,7,73,Sydney,4,23-05-2015,63319,M.C.G.
+2015,8,Fremantle,North Melbourne,5,4,4,4,3,5,3,2,17,13,115,1,3,1,0,1,3,2,6,5,12,42,Fremantle,73,23-05-2015,35836,Subiaco
+2015,8,Essendon,Brisbane Lions,5,4,7,5,2,3,4,1,21,10,136,5,3,2,2,3,3,0,0,12,6,78,Essendon,58,24-05-2015,36857,Docklands
+2015,8,Melbourne,Western Bulldogs,3,4,3,5,3,2,5,3,15,13,103,2,1,5,1,3,6,0,1,9,10,64,Melbourne,39,24-05-2015,29381,M.C.G.
+2015,8,Port Adelaide,Richmond,0,3,1,1,3,3,4,3,5,13,43,3,4,0,4,4,1,0,5,11,10,76,Richmond,33,24-05-2015,44451,Adelaide
+2015,9,Sydney,Carlton,5,4,6,4,2,2,4,0,19,8,122,1,1,3,4,4,0,1,3,9,8,62,Sydney,60,29-05-2015,32105,S.C.G.
+2015,9,Hawthorn,Gold Coast,3,3,6,2,0,4,3,2,14,9,93,2,2,1,1,1,1,1,1,6,4,40,Hawthorn,53,30-05-2015,11320,York
+2015,9,Melbourne,Port Adelaide,3,3,1,1,2,0,1,3,8,6,54,1,7,4,6,2,2,2,1,18,7,115,Port Adelaide,61,30-05-2015,4866,Traeger
+2015,9,Western Bulldogs,Greater Western Sydney,8,2,3,3,1,4,7,5,16,17,113,2,3,2,4,0,0,0,2,11,2,68,Western Bulldogs,45,30-05-2015,16395,Docklands
+2015,9,Richmond,Essendon,3,2,2,3,2,4,4,2,10,12,72,1,2,3,2,4,3,1,3,8,11,59,Richmond,13,30-05-2015,83804,M.C.G.
+2015,9,Adelaide,Fremantle,3,1,3,0,4,5,3,3,7,15,57,3,1,5,1,1,2,1,4,10,8,68,Fremantle,11,30-05-2015,45518,Adelaide
+2015,9,Brisbane Lions,St Kilda,7,1,3,2,1,1,4,2,13,8,86,2,7,3,4,3,3,3,3,16,12,108,St Kilda,22,31-05-2015,16898,Gabba
+2015,9,Collingwood,North Melbourne,1,3,9,4,2,1,2,5,17,10,112,4,6,0,4,4,2,3,2,14,11,95,Collingwood,17,31-05-2015,43452,M.C.G.
+2015,9,West Coast,Geelong,2,2,5,7,6,11,4,3,16,24,120,3,2,4,1,1,1,1,1,10,4,64,West Coast,56,31-05-2015,37676,Subiaco
+2015,10,Fremantle,Richmond,3,2,3,2,1,1,3,5,10,10,70,8,4,1,2,1,2,1,3,15,7,97,Richmond,27,05-06-2015,38019,Subiaco
+2015,10,Carlton,Adelaide,4,2,5,3,1,1,1,3,14,6,90,6,2,2,4,3,6,4,2,14,15,99,Adelaide,9,06-06-2015,32035,M.C.G.
+2015,10,Gold Coast,Sydney,2,0,2,1,2,4,2,3,5,11,41,5,4,1,3,5,3,3,4,13,15,93,Sydney,52,06-06-2015,13068,Carrara
+2015,10,Essendon,Geelong,0,0,3,4,5,1,3,2,7,11,53,3,6,6,4,1,4,1,2,19,8,122,Geelong,69,06-06-2015,40632,Docklands
+2015,10,Port Adelaide,Western Bulldogs,5,4,1,6,1,2,1,0,16,4,100,4,2,2,1,5,0,1,2,9,8,62,Port Adelaide,38,06-06-2015,40907,Adelaide
+2015,10,Greater Western Sydney,Brisbane Lions,1,6,3,4,3,2,3,5,14,13,97,2,2,2,4,1,2,3,1,10,7,67,Greater Western Sydney,30,07-06-2015,9079,Sydney
+2015,10,North Melbourne,West Coast,4,1,4,4,4,0,2,1,13,7,85,1,4,2,3,4,7,1,3,10,15,75,North Melbourne,10,07-06-2015,12011,Bellerive
+2015,10,St Kilda,Hawthorn,2,1,4,3,3,2,3,1,10,9,69,4,4,6,6,5,5,1,1,20,12,132,Hawthorn,63,07-06-2015,33886,Docklands
+2015,10,Melbourne,Collingwood,3,6,4,0,1,0,3,3,13,7,85,7,4,4,2,1,2,1,4,17,8,110,Collingwood,25,08-06-2015,66120,M.C.G.
+2015,11,Port Adelaide,Geelong,5,2,3,1,2,1,0,0,11,3,69,5,3,4,2,1,3,3,1,14,8,92,Geelong,23,12-06-2015,46140,Adelaide
+2015,11,Gold Coast,Fremantle,2,1,2,2,0,1,1,2,7,4,46,1,2,2,1,3,4,4,6,6,17,53,Fremantle,7,13-06-2015,8911,Carrara
+2015,11,West Coast,Essendon,2,5,2,5,5,2,1,4,14,12,96,2,1,2,1,0,2,5,3,6,10,46,West Coast,50,13-06-2015,37306,Subiaco
+2015,11,North Melbourne,Sydney,3,1,4,2,4,2,5,4,10,15,75,4,5,3,2,3,2,2,0,14,7,91,Sydney,16,13-06-2015,32127,Docklands
+2015,11,Collingwood,Greater Western Sydney,4,4,2,8,3,3,4,1,18,11,119,2,3,2,4,3,6,2,0,11,11,77,Collingwood,42,14-06-2015,43390,M.C.G.
+2015,11,St Kilda,Melbourne,3,6,2,1,5,1,3,4,12,13,85,3,5,3,1,4,2,3,2,12,11,83,St Kilda,2,14-06-2015,25217,Docklands
+2015,12,Adelaide,Hawthorn,4,3,4,1,1,1,5,6,12,13,85,6,3,4,4,2,4,3,3,17,12,114,Hawthorn,29,18-06-2015,49108,Adelaide
+2015,12,Richmond,West Coast,4,4,2,0,2,1,3,4,10,10,70,4,3,5,1,3,3,2,4,13,12,90,West Coast,20,19-06-2015,45178,M.C.G.
+2015,12,Carlton,Port Adelaide,4,6,5,2,2,1,4,1,17,8,110,4,5,2,5,3,2,3,2,16,10,106,Carlton,4,20-06-2015,27693,M.C.G.
+2015,12,Greater Western Sydney,North Melbourne,1,3,4,0,4,4,4,1,8,13,61,6,4,3,5,2,2,1,4,18,9,117,North Melbourne,56,20-06-2015,7824,Sydney
+2015,12,Western Bulldogs,Brisbane Lions,5,3,5,9,3,3,5,3,22,14,146,2,3,3,3,1,2,2,3,11,8,74,Western Bulldogs,72,20-06-2015,21129,Docklands
+2015,12,Geelong,Melbourne,3,3,5,2,1,3,1,6,13,11,89,5,2,6,5,2,1,1,1,18,5,113,Melbourne,24,21-06-2015,28007,Kardinia
+2015,13,Fremantle,Collingwood,3,4,2,3,2,2,2,2,12,8,80,3,4,2,2,4,2,0,1,11,7,73,Fremantle,7,25-06-2015,37145,Subiaco
+2015,13,Sydney,Richmond,3,5,2,1,4,3,1,3,11,11,77,2,1,7,4,4,1,5,1,14,11,95,Richmond,18,26-06-2015,37579,S.C.G.
+2015,13,Hawthorn,Essendon,2,3,6,5,4,4,6,4,16,18,114,2,3,2,4,5,2,1,2,11,10,76,Hawthorn,38,27-06-2015,62500,M.C.G.
+2015,13,Brisbane Lions,Adelaide,4,2,4,0,3,2,2,2,10,9,69,2,1,2,6,3,3,7,3,11,16,82,Adelaide,13,27-06-2015,18146,Gabba
+2015,13,St Kilda,Western Bulldogs,1,2,2,2,5,2,2,5,7,14,56,1,2,4,2,3,1,3,1,9,8,62,Western Bulldogs,6,27-06-2015,26511,Docklands
+2015,13,Carlton,Gold Coast,3,5,3,3,3,4,7,5,14,19,103,5,1,2,1,5,2,2,6,9,15,69,Carlton,34,28-06-2015,30207,Docklands
+2015,14,Sydney,Port Adelaide,4,4,4,2,1,4,2,3,14,10,94,4,2,2,4,1,5,1,5,12,12,84,Sydney,10,02-07-2015,28316,S.C.G.
+2015,14,Collingwood,Hawthorn,3,4,2,3,5,2,9,3,12,19,91,4,4,4,3,2,3,2,4,15,11,101,Hawthorn,10,03-07-2015,75880,M.C.G.
+2015,14,Richmond,Greater Western Sydney,1,2,2,5,4,3,5,6,10,18,78,2,2,4,2,3,3,3,0,10,9,69,Richmond,9,04-07-2015,35968,M.C.G.
+2015,14,Gold Coast,North Melbourne,2,3,6,8,3,2,4,2,19,11,125,0,3,3,4,4,2,3,1,10,10,70,Gold Coast,55,04-07-2015,14444,Carrara
+2015,14,Western Bulldogs,Carlton,3,1,3,2,3,1,4,2,9,10,64,1,3,0,3,1,6,4,0,7,11,53,Western Bulldogs,11,04-07-2015,31445,Docklands
+2015,14,Melbourne,West Coast,2,3,3,1,4,1,1,0,9,6,60,5,2,3,6,4,4,6,4,16,18,114,West Coast,54,04-07-2015,11873,Marrara
+2015,14,Essendon,St Kilda,1,4,2,1,0,1,2,1,8,4,52,5,5,7,8,3,5,1,3,25,12,162,St Kilda,110,05-07-2015,38020,Docklands
+2015,14,Fremantle,Brisbane Lions,3,2,1,7,0,2,3,1,13,6,84,3,2,1,1,2,0,0,4,7,6,48,Fremantle,36,05-07-2015,32970,Subiaco
+2015,15,Port Adelaide,Collingwood,5,1,2,1,3,3,5,1,9,12,66,1,4,2,2,1,4,1,3,9,9,63,Port Adelaide,3,09-07-2015,44496,Adelaide
+2015,15,Richmond,Carlton,2,2,4,2,2,3,2,4,10,11,71,1,1,2,1,4,3,2,2,5,11,41,Richmond,30,10-07-2015,52564,M.C.G.
+2015,15,Essendon,Melbourne,1,2,6,1,3,1,3,2,10,9,69,1,2,1,3,3,6,4,5,7,18,60,Essendon,9,11-07-2015,38861,M.C.G.
+2015,15,Western Bulldogs,Gold Coast,1,2,1,10,1,2,6,2,14,11,95,5,1,3,2,3,0,2,2,11,7,73,Western Bulldogs,22,11-07-2015,9449,Cazaly's
+2015,15,North Melbourne,Geelong,3,7,4,4,2,3,2,5,18,12,120,3,1,3,4,3,5,3,2,11,13,79,North Melbourne,41,11-07-2015,31270,Docklands
+2015,15,West Coast,Adelaide,4,8,3,7,0,7,3,5,22,15,147,6,0,5,3,2,1,2,2,14,7,91,West Coast,56,11-07-2015,38133,Subiaco
+2015,15,Greater Western Sydney,St Kilda,4,4,0,4,3,2,3,4,12,12,84,0,2,3,1,5,2,3,3,6,13,49,Greater Western Sydney,35,12-07-2015,9178,Sydney
+2015,15,Hawthorn,Fremantle,4,3,6,4,3,3,2,5,17,13,115,1,0,2,3,2,2,3,0,6,7,43,Hawthorn,72,12-07-2015,16792,York
+2015,15,Brisbane Lions,Sydney,2,1,4,0,3,0,2,2,7,7,49,1,4,3,2,2,1,3,4,10,10,70,Sydney,21,12-07-2015,16936,Gabba
+2015,16,North Melbourne,Essendon,2,3,5,4,4,1,2,2,14,9,93,1,5,1,2,5,2,3,4,9,14,68,North Melbourne,25,17-07-2015,31025,Docklands
+2015,16,Geelong,Western Bulldogs,3,1,4,2,4,4,2,2,10,12,72,2,1,3,3,2,2,6,0,9,10,64,Geelong,8,18-07-2015,25041,Kardinia
+2015,16,Gold Coast,Greater Western Sydney,4,3,1,4,1,3,0,3,12,7,79,6,1,1,5,4,5,6,1,13,16,94,Greater Western Sydney,15,18-07-2015,9589,Carrara
+2015,16,Collingwood,West Coast,1,3,3,0,4,2,3,5,7,14,56,2,2,3,4,6,4,6,5,11,21,87,West Coast,31,18-07-2015,36527,Docklands
+2015,16,Sydney,Hawthorn,0,4,2,1,2,3,7,3,7,15,57,6,3,7,7,1,4,2,1,23,8,146,Hawthorn,89,18-07-2015,37369,Stadium
+2015,16,Fremantle,Carlton,6,2,3,2,2,4,2,9,13,17,95,3,3,2,0,2,1,2,0,8,5,53,Fremantle,42,18-07-2015,33581,Subiaco
+2015,16,Melbourne,Brisbane Lions,5,2,0,1,4,3,3,2,8,12,60,1,0,2,1,2,3,3,4,4,12,36,Melbourne,24,19-07-2015,25149,M.C.G.
+2015,16,Port Adelaide,Adelaide,3,5,5,4,4,0,2,5,17,11,113,6,5,7,0,1,2,3,2,18,8,116,Adelaide,3,19-07-2015,53518,Adelaide
+2015,16,St Kilda,Richmond,2,1,1,6,5,3,2,3,10,13,73,2,6,5,0,3,3,2,3,13,11,89,Richmond,16,19-07-2015,45722,Docklands
+2015,17,Carlton,Hawthorn,0,2,0,2,2,3,2,4,4,11,35,5,8,7,7,2,2,4,3,27,11,173,Hawthorn,138,24-07-2015,26815,Docklands
+2015,17,Greater Western Sydney,Geelong,1,1,2,2,1,2,3,0,6,6,42,3,2,1,3,6,4,0,5,9,15,69,Geelong,27,25-07-2015,14667,Manuka
+2015,17,Adelaide,Gold Coast,4,5,2,8,1,4,5,1,19,11,125,4,3,3,2,1,3,3,1,12,8,80,Adelaide,45,25-07-2015,41715,Adelaide
+2015,17,Richmond,Fremantle,1,4,3,2,4,4,6,4,10,18,78,1,4,3,4,4,2,3,1,12,10,82,Fremantle,4,25-07-2015,39777,M.C.G.
+2015,17,Essendon,Port Adelaide,6,2,4,5,1,8,3,2,17,14,116,4,6,3,7,3,2,1,3,20,9,129,Port Adelaide,13,25-07-2015,23705,Docklands
+2015,17,Brisbane Lions,North Melbourne,1,3,0,1,1,3,1,3,5,8,38,5,2,2,7,5,2,4,3,16,14,110,North Melbourne,72,25-07-2015,15563,Gabba
+2015,17,Western Bulldogs,Collingwood,5,4,4,2,5,1,3,5,15,14,104,3,4,2,4,4,3,0,1,13,8,86,Western Bulldogs,18,26-07-2015,40581,Docklands
+2015,17,Melbourne,St Kilda,1,2,2,1,2,4,3,1,6,10,46,4,0,6,2,4,3,1,3,12,11,83,St Kilda,37,26-07-2015,22945,M.C.G.
+2015,17,West Coast,Sydney,5,3,4,3,0,5,5,3,15,13,103,0,1,4,2,5,1,1,2,7,9,51,West Coast,52,26-07-2015,38760,Subiaco
+2015,18,Hawthorn,Richmond,0,5,0,2,3,3,2,3,7,11,53,3,2,3,2,4,0,4,3,10,11,71,Richmond,18,31-07-2015,66305,M.C.G.
+2015,18,Geelong,Brisbane Lions,5,2,6,4,1,3,3,4,17,11,113,2,1,2,3,1,5,1,2,8,9,57,Geelong,56,01-08-2015,21913,Kardinia
+2015,18,Collingwood,Melbourne,1,3,3,0,4,2,4,2,7,12,54,4,2,3,4,4,1,1,7,13,13,91,Melbourne,37,01-08-2015,37894,M.C.G.
+2015,18,Sydney,Adelaide,6,5,2,4,2,3,4,6,17,15,117,2,2,3,2,2,2,4,3,9,11,65,Sydney,52,01-08-2015,38690,S.C.G.
+2015,18,Carlton,North Melbourne,1,5,1,1,2,3,1,0,8,6,54,5,3,4,6,3,0,3,4,18,10,118,North Melbourne,64,01-08-2015,25251,Docklands
+2015,18,Gold Coast,West Coast,2,3,3,4,2,3,4,2,12,11,83,2,3,2,4,6,5,1,5,11,17,83,Match drawn,0,01-08-2015,9341,Carrara
+2015,18,Port Adelaide,St Kilda,4,4,4,5,5,0,2,3,17,10,112,1,2,1,2,4,6,2,1,6,13,49,Port Adelaide,63,02-08-2015,35977,Adelaide
+2015,18,Essendon,Western Bulldogs,0,2,2,1,4,1,2,3,5,10,40,1,7,7,4,2,6,3,2,19,13,127,Western Bulldogs,87,02-08-2015,33466,Docklands
+2015,18,Fremantle,Greater Western Sydney,4,2,4,2,2,6,3,1,12,12,84,1,1,3,4,2,4,2,1,9,9,63,Fremantle,21,02-08-2015,34625,Subiaco
+2015,19,Adelaide,Richmond,2,3,3,3,6,2,8,6,11,22,88,3,2,1,2,1,1,0,2,8,4,52,Adelaide,36,07-08-2015,49116,Adelaide
+2015,19,Collingwood,Carlton,3,4,2,7,2,5,2,0,16,9,105,2,3,2,6,2,1,3,3,13,9,87,Collingwood,18,08-08-2015,48133,M.C.G.
+2015,19,Western Bulldogs,Port Adelaide,2,7,3,7,2,5,6,1,19,14,128,3,0,3,3,3,2,2,3,9,10,64,Western Bulldogs,64,08-08-2015,20590,Docklands
+2015,19,Brisbane Lions,Gold Coast,3,3,4,4,6,1,5,4,14,16,100,3,3,7,4,4,4,3,1,17,12,114,Gold Coast,14,08-08-2015,19920,Gabba
+2015,19,Geelong,Sydney,3,3,3,5,4,0,5,2,14,11,95,4,4,0,1,1,4,2,2,9,9,63,Geelong,32,08-08-2015,27910,Kardinia
+2015,19,West Coast,Hawthorn,5,1,3,2,3,2,1,2,11,8,74,2,3,3,5,3,2,3,2,13,10,88,Hawthorn,14,08-08-2015,34843,Subiaco
+2015,19,Melbourne,North Melbourne,2,4,5,3,0,4,2,2,14,8,92,7,2,3,7,4,0,6,3,19,13,127,North Melbourne,35,09-08-2015,30695,M.C.G.
+2015,19,Greater Western Sydney,Essendon,2,1,5,6,4,1,2,2,14,9,93,3,1,1,3,5,2,2,4,8,13,61,Greater Western Sydney,32,09-08-2015,10093,Sydney
+2015,19,St Kilda,Fremantle,2,0,1,5,4,4,1,2,8,11,59,7,5,2,1,1,1,3,1,15,6,96,Fremantle,37,09-08-2015,16409,Docklands
+2015,20,Sydney,Collingwood,3,2,3,5,4,2,3,0,13,9,87,2,2,4,2,3,4,7,2,10,16,76,Sydney,11,14-08-2015,38408,S.C.G.
+2015,20,Essendon,Adelaide,4,0,2,2,3,3,4,1,8,11,59,3,6,7,11,3,3,2,1,27,9,171,Adelaide,112,15-08-2015,25914,Docklands
+2015,20,North Melbourne,St Kilda,2,2,9,5,1,2,5,4,18,12,120,3,3,2,3,3,8,2,4,11,17,83,North Melbourne,37,15-08-2015,14346,Bellerive
+2015,20,Port Adelaide,Greater Western Sydney,5,4,2,5,5,5,3,2,16,15,111,3,5,4,1,6,0,3,3,13,12,90,Port Adelaide,21,15-08-2015,32436,Adelaide
+2015,20,Brisbane Lions,Carlton,3,5,7,5,2,5,2,2,20,11,131,6,0,3,0,3,4,3,3,9,13,67,Brisbane Lions,64,15-08-2015,17744,Gabba
+2015,20,Geelong,Hawthorn,3,3,4,2,2,5,1,5,12,13,85,7,2,6,4,2,2,3,0,19,7,121,Hawthorn,36,15-08-2015,55802,M.C.G.
+2015,20,Richmond,Gold Coast,6,2,6,8,1,1,3,1,22,6,138,2,3,2,1,0,3,0,4,8,7,55,Richmond,83,16-08-2015,38508,M.C.G.
+2015,20,Western Bulldogs,Melbourne,8,6,0,10,3,2,2,2,24,9,153,0,2,5,1,2,2,3,0,8,7,55,Western Bulldogs,98,16-08-2015,27805,Docklands
+2015,20,Fremantle,West Coast,1,1,3,6,3,3,4,4,11,14,80,7,1,3,4,2,5,5,2,15,14,104,West Coast,24,16-08-2015,41959,Subiaco
+2015,21,Hawthorn,Port Adelaide,2,3,6,2,3,3,1,1,13,8,86,4,3,4,5,5,0,3,4,16,12,108,Port Adelaide,22,21-08-2015,28657,Docklands
+2015,21,Collingwood,Richmond,3,0,3,1,3,7,3,1,7,14,56,7,3,4,9,3,3,3,0,23,9,147,Richmond,91,22-08-2015,63178,M.C.G.
+2015,21,Greater Western Sydney,Sydney,2,1,1,2,2,3,1,2,6,8,44,6,1,7,6,0,5,3,5,20,13,133,Sydney,89,22-08-2015,19507,Sydney
+2015,21,Gold Coast,Essendon,5,4,3,2,3,2,2,6,14,13,97,4,3,4,3,1,6,0,4,14,11,95,Gold Coast,2,22-08-2015,16253,Carrara
+2015,21,St Kilda,Geelong,5,3,3,3,4,3,2,4,14,13,97,5,4,4,2,1,1,2,3,15,7,97,Match drawn,0,22-08-2015,25245,Docklands
+2015,21,Adelaide,Brisbane Lions,2,8,4,6,3,1,2,5,20,11,131,3,0,3,0,3,0,2,3,6,8,44,Adelaide,87,22-08-2015,46609,Adelaide
+2015,21,North Melbourne,Fremantle,3,3,3,5,2,3,3,2,14,10,94,7,1,2,2,2,4,2,3,12,11,83,North Melbourne,11,23-08-2015,23857,Docklands
+2015,21,Carlton,Melbourne,6,4,1,1,2,0,1,3,12,6,78,1,1,4,1,2,1,6,4,7,13,55,Carlton,23,23-08-2015,33962,M.C.G.
+2015,21,West Coast,Western Bulldogs,5,6,5,9,5,4,1,2,25,12,162,3,6,3,1,2,3,1,1,13,7,85,West Coast,77,23-08-2015,37733,Subiaco
+2015,22,Geelong,Collingwood,1,2,3,3,1,2,3,2,9,8,62,7,4,2,4,1,4,1,2,17,8,110,Collingwood,48,28-08-2015,40582,M.C.G.
+2015,22,Greater Western Sydney,Carlton,2,3,8,7,3,5,3,1,20,12,132,2,2,1,2,4,5,0,0,7,9,51,Greater Western Sydney,81,29-08-2015,9538,Sydney
+2015,22,Hawthorn,Brisbane Lions,1,10,4,6,3,1,1,3,21,8,134,4,1,3,1,2,4,2,0,9,8,62,Hawthorn,72,29-08-2015,11731,York
+2015,22,North Melbourne,Western Bulldogs,1,2,2,5,5,3,3,2,10,13,73,1,4,2,7,3,2,5,2,14,12,96,Western Bulldogs,23,29-08-2015,37299,Docklands
+2015,22,Essendon,Richmond,2,3,1,1,0,0,2,3,7,5,47,1,3,3,3,4,6,2,2,10,14,74,Richmond,27,29-08-2015,37864,M.C.G.
+2015,22,Gold Coast,Port Adelaide,2,2,2,1,2,1,2,4,7,9,51,2,4,4,2,6,3,2,5,12,16,88,Port Adelaide,37,29-08-2015,9343,Carrara
+2015,22,Adelaide,West Coast,8,1,5,5,3,3,2,4,19,12,126,0,5,1,4,1,3,2,3,10,9,69,Adelaide,57,30-08-2015,52460,Adelaide
+2015,22,St Kilda,Sydney,1,2,1,0,5,4,3,2,4,14,38,4,6,5,5,3,3,4,5,20,15,135,Sydney,97,30-08-2015,27856,Docklands
+2015,22,Fremantle,Melbourne,5,6,3,3,1,2,2,1,17,6,108,0,4,2,2,1,1,3,1,8,6,54,Fremantle,54,30-08-2015,33529,Subiaco
+2015,23,Richmond,North Melbourne,1,1,5,9,4,3,4,1,16,12,108,2,2,2,4,3,2,1,1,10,7,67,Richmond,41,04-09-2015,40461,Docklands
+2015,23,Geelong,Adelaide,5,3,3,6,6,3,2,6,17,17,119,1,2,6,2,3,5,4,2,11,14,80,Geelong,39,05-09-2015,26128,Kardinia
+2015,23,Brisbane Lions,Western Bulldogs,2,6,6,5,5,7,3,1,19,16,130,8,3,2,6,0,2,4,2,19,8,122,Brisbane Lions,8,05-09-2015,15434,Gabba
+2015,23,Port Adelaide,Fremantle,1,8,4,5,3,1,4,6,18,14,122,4,0,3,1,4,0,0,1,8,5,53,Port Adelaide,69,05-09-2015,37922,Adelaide
+2015,23,Hawthorn,Carlton,5,4,5,3,3,2,2,4,17,11,113,1,3,1,3,2,3,2,1,8,8,56,Hawthorn,57,05-09-2015,33182,M.C.G.
+2015,23,Sydney,Gold Coast,6,3,2,8,3,4,4,2,19,13,127,0,6,1,2,2,1,4,3,9,10,64,Sydney,63,05-09-2015,25424,S.C.G.
+2015,23,West Coast,St Kilda,4,3,6,5,4,3,7,3,18,17,125,2,1,1,0,1,4,0,1,4,6,30,West Coast,95,05-09-2015,36165,Subiaco
+2015,23,Melbourne,Greater Western Sydney,4,3,6,2,1,5,4,3,15,13,103,4,3,2,2,1,3,3,4,11,11,77,Melbourne,26,06-09-2015,8974,Docklands
+2015,23,Collingwood,Essendon,4,4,4,2,2,1,2,3,14,8,92,3,6,2,3,2,3,2,4,14,11,95,Essendon,3,06-09-2015,40270,M.C.G.
+2015,QF,West Coast,Hawthorn,2,5,5,2,2,4,5,1,14,12,96,2,0,2,5,3,1,5,1,9,10,64,West Coast,32,11-09-2015,42663,Subiaco
+2015,QF,Fremantle,Sydney,4,2,2,2,1,3,4,1,10,9,69,1,1,3,2,6,5,2,5,7,18,60,Fremantle,9,12-09-2015,40071,Subiaco
+2015,EF,Western Bulldogs,Adelaide,4,3,3,4,6,4,6,2,14,18,102,6,3,4,3,3,3,3,4,16,13,109,Adelaide,7,12-09-2015,60872,M.C.G.
+2015,EF,Richmond,North Melbourne,2,7,3,2,3,0,0,1,14,4,88,1,5,5,4,6,2,5,2,15,15,105,North Melbourne,17,13-09-2015,90186,M.C.G.
+2015,SF,Hawthorn,Adelaide,8,3,5,5,4,2,1,2,21,9,135,2,2,2,2,2,1,4,6,8,13,61,Hawthorn,74,18-09-2015,70879,M.C.G.
+2015,SF,Sydney,North Melbourne,2,1,2,2,1,2,4,2,7,9,51,2,3,2,4,3,3,2,3,11,11,77,North Melbourne,26,19-09-2015,31162,Stadium
+2015,PF,Fremantle,Hawthorn,2,2,4,2,1,3,0,3,10,7,67,5,2,4,4,2,0,1,1,15,4,94,Hawthorn,27,25-09-2015,41508,Subiaco
+2015,PF,West Coast,North Melbourne,0,3,5,2,2,6,6,6,10,20,80,3,1,1,2,4,3,4,2,7,13,55,West Coast,25,26-09-2015,43080,Subiaco
+2015,GF,West Coast,Hawthorn,1,2,2,3,5,3,1,4,8,13,61,5,4,5,2,0,3,2,6,16,11,107,Hawthorn,46,03-10-2015,98632,M.C.G.

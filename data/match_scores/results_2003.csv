@@ -1,0 +1,186 @@
+Year,Round,Home Team,Away Team,H Goals 1st,H Goals 2nd,H Goals 3rd,H Goals 4th,H Behind 1st,H Behind 2nd,H Behind 3rd,H Behind 4th,H Total Goals,H Total Behind,H Total Score,A Goals 1st,A Goals 2nd,A Goals 3rd,A Goals 4th,A Behind 1st,A Behind 2nd,A Behind 3rd,A Behind 4th,A Total Goals,A Total Behind,A Total Score,Winning Team,Margin,Date,Attendance,Venue
+2003,1,Collingwood,Richmond,2,1,5,5,8,5,1,2,13,16,94,3,1,1,3,2,4,6,6,8,18,66,Collingwood,28,28-03-2003,61058,M.C.G.
+2003,1,Kangaroos,St Kilda,4,3,3,4,3,4,1,4,14,12,96,6,1,3,0,3,3,3,1,10,10,70,Kangaroos,26,29-03-2003,28361,M.C.G.
+2003,1,West Coast,Port Adelaide,4,2,7,4,4,5,5,6,17,20,122,4,2,0,5,3,2,0,3,11,8,74,West Coast,48,29-03-2003,35083,Subiaco
+2003,1,Sydney,Carlton,2,8,5,7,4,3,4,3,22,14,146,2,1,3,4,3,3,4,2,10,12,72,Sydney,74,29-03-2003,30803,Stadium
+2003,1,Brisbane Lions,Essendon,4,5,2,3,7,3,7,3,14,20,104,1,3,2,2,5,4,0,4,8,13,61,Brisbane Lions,43,29-03-2003,36197,Gabba
+2003,1,Adelaide,Fremantle,6,5,6,5,1,4,6,2,22,13,145,1,3,4,5,3,4,1,3,13,11,89,Adelaide,56,30-03-2003,45436,Football
+2003,1,Western Bulldogs,Geelong,7,2,5,5,5,2,6,3,19,16,130,3,3,3,4,3,5,3,2,13,13,91,Western Bulldogs,39,30-03-2003,27931,Docklands
+2003,1,Melbourne,Hawthorn,2,7,3,4,2,3,4,1,16,10,106,4,2,3,6,2,3,2,3,15,10,100,Melbourne,6,30-03-2003,41888,M.C.G.
+2003,2,Carlton,Collingwood,4,4,1,4,1,6,3,3,13,13,91,5,3,4,4,4,1,5,1,16,11,107,Collingwood,16,04-04-2003,51894,M.C.G.
+2003,2,St Kilda,Adelaide,4,5,3,3,4,2,1,2,15,9,99,1,4,1,7,3,3,4,3,13,13,91,St Kilda,8,05-04-2003,19131,Docklands
+2003,2,Essendon,Melbourne,2,6,5,4,2,2,3,3,17,10,112,4,0,4,2,4,3,4,4,10,15,75,Essendon,37,05-04-2003,43448,M.C.G.
+2003,2,Fremantle,Sydney,3,5,2,2,2,2,5,5,12,14,86,4,1,0,3,1,5,3,3,8,12,60,Fremantle,26,05-04-2003,24887,Subiaco
+2003,2,Port Adelaide,Brisbane Lions,3,3,1,3,4,1,6,5,10,16,76,1,7,3,2,4,1,2,1,13,8,86,Brisbane Lions,10,05-04-2003,27876,Football
+2003,2,Hawthorn,West Coast,3,4,4,2,4,4,3,2,13,13,91,3,3,5,3,0,2,2,1,14,5,89,Hawthorn,2,06-04-2003,16217,York
+2003,2,Richmond,Western Bulldogs,3,1,6,6,4,5,1,5,16,15,111,1,6,3,3,2,3,2,4,13,11,89,Richmond,22,06-04-2003,28847,Docklands
+2003,2,Geelong,Kangaroos,4,2,2,1,6,4,4,3,9,17,71,4,4,2,3,4,3,6,3,13,16,94,Kangaroos,23,06-04-2003,22588,Kardinia
+2003,3,Essendon,Carlton,3,6,2,2,2,4,4,6,13,16,94,4,2,5,4,7,2,3,3,15,15,105,Carlton,11,11-04-2003,44268,M.C.G.
+2003,3,Collingwood,Geelong,4,1,5,8,2,2,1,3,18,8,116,4,2,4,0,4,1,3,1,10,9,69,Collingwood,47,12-04-2003,43979,M.C.G.
+2003,3,West Coast,St Kilda,5,7,5,4,6,4,4,4,21,18,144,2,3,3,3,3,2,1,2,11,8,74,West Coast,70,12-04-2003,32009,Subiaco
+2003,3,Kangaroos,Brisbane Lions,4,5,4,3,1,3,5,4,16,13,109,4,4,4,4,4,3,2,4,16,13,109,Match drawn,0,12-04-2003,24359,Docklands
+2003,3,Port Adelaide,Hawthorn,5,7,3,4,3,8,1,2,19,14,128,3,0,4,4,0,1,3,1,11,5,71,Port Adelaide,57,12-04-2003,24902,Football
+2003,3,Sydney,Adelaide,2,2,5,2,3,2,1,4,11,10,76,6,5,2,2,6,2,3,2,15,13,103,Adelaide,27,13-04-2003,23651,S.C.G.
+2003,3,Melbourne,Western Bulldogs,7,4,6,3,2,3,1,1,20,7,127,2,4,4,4,3,3,2,3,14,11,95,Melbourne,32,13-04-2003,20790,Docklands
+2003,3,Richmond,Fremantle,4,5,2,3,0,5,2,3,14,10,94,2,2,1,1,4,2,0,4,6,10,46,Richmond,48,13-04-2003,19677,M.C.G.
+2003,4,Brisbane Lions,Collingwood,1,4,7,2,4,3,1,3,14,11,95,3,3,2,3,3,5,4,3,11,15,81,Brisbane Lions,14,17-04-2003,36803,Gabba
+2003,4,Geelong,Melbourne,2,2,3,6,0,5,4,3,13,12,90,3,1,2,0,1,5,1,1,6,8,44,Geelong,46,19-04-2003,23001,Kardinia
+2003,4,Western Bulldogs,Essendon,5,3,4,4,4,4,4,2,16,14,110,3,6,6,5,2,2,2,3,20,9,129,Essendon,19,19-04-2003,35238,Docklands
+2003,4,Hawthorn,Sydney,4,4,3,6,1,1,2,4,17,8,110,4,3,1,2,2,4,1,1,10,8,68,Hawthorn,42,19-04-2003,26359,M.C.G.
+2003,4,Adelaide,West Coast,4,1,5,5,3,6,5,2,15,16,106,3,3,1,3,0,4,4,5,10,13,73,Adelaide,33,20-04-2003,43525,Football
+2003,4,Carlton,Port Adelaide,5,1,2,4,2,4,1,5,12,12,84,4,2,8,3,1,5,4,2,17,12,114,Port Adelaide,30,20-04-2003,22507,Princes
+2003,4,Fremantle,Kangaroos,5,6,10,4,4,3,4,6,25,17,167,5,4,3,7,2,5,0,1,19,8,122,Fremantle,45,20-04-2003,25435,Subiaco
+2003,4,St Kilda,Richmond,3,5,1,2,4,2,3,6,11,15,81,7,5,3,2,1,1,2,1,17,5,107,Richmond,26,21-04-2003,44382,Docklands
+2003,5,Essendon,Collingwood,4,6,5,8,2,2,3,2,23,9,147,2,4,5,1,3,0,3,3,12,9,81,Essendon,66,25-04-2003,62589,M.C.G.
+2003,5,Sydney,Melbourne,2,4,1,10,3,1,0,3,17,7,109,3,2,5,3,2,2,2,1,13,7,85,Sydney,24,25-04-2003,24286,S.C.G.
+2003,5,Hawthorn,Richmond,8,4,0,2,3,3,2,3,14,11,95,2,6,7,3,1,2,2,2,18,7,115,Richmond,20,26-04-2003,45140,M.C.G.
+2003,5,Kangaroos,Carlton,4,2,4,6,2,3,5,7,16,17,113,3,3,6,6,6,3,2,3,18,14,122,Carlton,9,26-04-2003,38094,Docklands
+2003,5,Adelaide,Port Adelaide,2,3,1,3,2,7,1,2,9,12,66,5,2,2,3,2,0,3,1,12,6,78,Port Adelaide,12,26-04-2003,51140,Football
+2003,5,Brisbane Lions,Western Bulldogs,6,3,3,3,4,4,5,3,15,16,106,3,3,1,5,0,5,1,1,12,7,79,Brisbane Lions,27,27-04-2003,24341,Gabba
+2003,5,St Kilda,Geelong,5,2,4,7,1,6,2,2,18,11,119,6,1,3,1,2,3,3,0,11,8,74,St Kilda,45,27-04-2003,27240,Docklands
+2003,5,Fremantle,West Coast,2,2,4,2,1,2,4,6,10,13,73,5,3,4,4,4,5,1,2,16,12,108,West Coast,35,27-04-2003,41654,Subiaco
+2003,6,Kangaroos,Adelaide,3,4,1,1,1,5,6,4,9,16,70,5,3,3,8,3,2,3,2,19,10,124,Adelaide,54,02-05-2003,38469,Docklands
+2003,6,Carlton,Hawthorn,2,4,2,1,2,1,4,2,9,9,63,5,1,3,2,2,2,2,2,11,8,74,Hawthorn,11,03-05-2003,27725,Princes
+2003,6,Melbourne,West Coast,2,5,5,2,1,3,2,4,14,10,94,5,1,10,3,3,2,3,5,19,13,127,West Coast,33,03-05-2003,17534,M.C.G.
+2003,6,Collingwood,Sydney,3,2,3,5,3,3,3,2,13,11,89,4,4,6,3,2,4,1,0,17,7,109,Sydney,20,03-05-2003,41874,Docklands
+2003,6,Port Adelaide,Richmond,5,0,5,2,1,4,2,5,12,12,84,1,2,4,1,3,3,2,1,8,9,57,Port Adelaide,27,03-05-2003,29608,Football
+2003,6,Geelong,Brisbane Lions,4,0,4,4,1,1,2,2,12,6,78,2,6,2,3,3,3,4,4,13,14,92,Brisbane Lions,14,04-05-2003,21246,Kardinia
+2003,6,Western Bulldogs,St Kilda,3,2,4,3,3,2,5,3,12,13,85,4,5,3,3,3,2,1,4,15,10,100,St Kilda,15,04-05-2003,27278,Docklands
+2003,6,Fremantle,Essendon,4,5,9,2,2,2,2,5,20,11,131,3,4,4,4,3,1,0,6,15,10,100,Fremantle,31,04-05-2003,28492,Subiaco
+2003,7,Hawthorn,Kangaroos,4,3,2,4,4,1,3,3,13,11,89,4,6,4,4,3,4,1,1,18,9,117,Kangaroos,28,09-05-2003,32435,Docklands
+2003,7,Richmond,Essendon,4,2,4,1,2,6,5,5,11,18,84,0,3,1,1,2,4,2,4,5,12,42,Richmond,42,10-05-2003,52196,M.C.G.
+2003,7,West Coast,Geelong,3,4,4,6,4,3,1,3,17,11,113,2,4,5,3,5,3,4,1,14,13,97,West Coast,16,10-05-2003,36268,Subiaco
+2003,7,St Kilda,Carlton,5,4,5,2,2,5,4,6,16,17,113,2,6,4,3,2,0,3,6,15,11,101,St Kilda,12,10-05-2003,45122,Docklands
+2003,7,Adelaide,Collingwood,7,1,4,4,3,4,3,3,16,13,109,3,4,4,7,2,2,1,1,18,6,114,Collingwood,5,10-05-2003,44706,Football
+2003,7,Sydney,Brisbane Lions,5,4,1,5,1,4,3,0,15,8,98,2,2,4,3,2,4,3,4,11,13,79,Sydney,19,11-05-2003,23276,S.C.G.
+2003,7,Western Bulldogs,Fremantle,1,2,4,3,0,4,3,5,10,12,72,3,7,7,6,6,2,5,4,23,17,155,Fremantle,83,11-05-2003,12542,Docklands
+2003,7,Melbourne,Port Adelaide,7,3,3,3,5,4,3,3,16,15,111,3,3,1,5,2,3,4,3,12,12,84,Melbourne,27,11-05-2003,12410,M.C.G.
+2003,8,Hawthorn,Essendon,2,3,2,1,2,0,3,0,8,5,53,4,3,4,4,3,4,4,5,15,16,106,Essendon,53,16-05-2003,48006,M.C.G.
+2003,8,Collingwood,West Coast,3,3,6,3,0,6,3,4,15,13,103,7,2,3,6,5,2,0,4,18,11,119,West Coast,16,17-05-2003,39912,Docklands
+2003,8,Port Adelaide,Kangaroos,3,3,3,6,4,2,1,6,15,13,103,3,3,1,0,1,3,3,0,7,7,49,Port Adelaide,54,17-05-2003,24702,Football
+2003,8,Brisbane Lions,Adelaide,3,4,5,4,1,2,5,3,16,11,107,5,3,2,2,4,5,5,3,12,17,89,Brisbane Lions,18,17-05-2003,34469,Gabba
+2003,8,Richmond,Melbourne,7,3,4,3,3,1,1,5,17,10,112,7,2,5,2,0,3,4,0,16,7,103,Richmond,9,17-05-2003,38063,M.C.G.
+2003,8,Sydney,Geelong,5,5,2,5,2,6,1,1,17,10,112,1,3,4,3,0,1,5,1,11,7,73,Sydney,39,18-05-2003,22483,S.C.G.
+2003,8,Carlton,Western Bulldogs,2,4,3,6,8,3,3,3,15,17,107,4,2,3,5,3,6,4,3,14,16,100,Carlton,7,18-05-2003,20602,Princes
+2003,8,Fremantle,St Kilda,5,4,4,5,4,3,3,5,18,15,123,3,2,4,2,3,6,2,5,11,16,82,Fremantle,41,18-05-2003,26723,Subiaco
+2003,9,Essendon,Port Adelaide,3,2,5,4,3,3,4,2,14,12,96,4,6,5,8,3,2,2,1,23,8,146,Port Adelaide,50,23-05-2003,35390,Docklands
+2003,9,Carlton,Brisbane Lions,3,5,1,2,2,2,3,3,11,10,76,2,4,8,9,2,3,6,4,23,15,153,Brisbane Lions,77,24-05-2003,24906,Princes
+2003,9,Melbourne,Fremantle,1,5,3,1,4,1,1,5,10,11,71,4,3,6,3,2,0,0,3,16,5,101,Fremantle,30,24-05-2003,17009,M.C.G.
+2003,9,Collingwood,St Kilda,8,2,5,7,4,4,4,5,22,17,149,0,7,3,2,6,1,1,4,12,12,84,Collingwood,65,24-05-2003,46096,Docklands
+2003,9,West Coast,Richmond,4,5,6,3,4,4,5,3,18,16,124,5,1,4,1,1,4,0,1,11,6,72,West Coast,52,24-05-2003,40313,Subiaco
+2003,9,Kangaroos,Sydney,5,2,4,1,1,2,3,6,12,12,84,3,1,1,3,2,2,5,2,8,11,59,Kangaroos,25,25-05-2003,13832,Manuka
+2003,9,Geelong,Hawthorn,5,3,4,4,3,3,3,4,16,13,109,3,5,2,1,1,2,1,5,11,9,75,Geelong,34,25-05-2003,28001,Docklands
+2003,9,Adelaide,Western Bulldogs,2,5,2,7,4,3,3,3,16,13,109,3,5,5,1,4,1,4,0,14,9,93,Adelaide,16,25-05-2003,44342,Football
+2003,10,Port Adelaide,Collingwood,3,1,7,3,4,4,3,3,14,14,98,2,3,2,3,3,4,2,4,10,13,73,Port Adelaide,25,30-05-2003,43321,Football
+2003,10,Western Bulldogs,Kangaroos,7,7,5,3,2,5,6,0,22,13,145,7,3,9,5,0,4,1,7,24,12,156,Kangaroos,11,31-05-2003,24682,Docklands
+2003,10,Fremantle,Carlton,7,5,3,4,5,3,1,4,19,13,127,3,3,5,4,1,3,3,2,15,9,99,Fremantle,28,31-05-2003,33250,Subiaco
+2003,10,Melbourne,Brisbane Lions,0,4,2,3,1,2,3,3,9,9,63,6,7,2,3,4,2,7,2,18,15,123,Brisbane Lions,60,31-05-2003,29634,Gabba
+2003,10,Richmond,Sydney,2,2,5,1,4,4,1,3,10,12,72,2,4,5,5,2,2,0,4,16,8,104,Sydney,32,31-05-2003,34569,M.C.G.
+2003,10,Geelong,Adelaide,3,0,4,1,7,1,2,1,8,11,59,1,5,2,3,2,2,2,4,11,10,76,Adelaide,17,01-06-2003,19608,Kardinia
+2003,10,Essendon,West Coast,7,3,4,5,1,5,4,4,19,14,128,4,7,2,3,2,1,5,2,16,10,106,Essendon,22,01-06-2003,32715,Docklands
+2003,10,St Kilda,Hawthorn,3,6,3,5,4,1,4,7,17,16,118,3,5,4,2,2,2,1,1,14,6,90,St Kilda,28,01-06-2003,25745,M.C.G.
+2003,11,Kangaroos,Richmond,3,5,2,3,4,1,7,2,13,14,92,4,4,2,3,2,4,3,2,13,11,89,Kangaroos,3,06-06-2003,43200,Docklands
+2003,11,Hawthorn,Adelaide,0,5,2,4,1,5,0,3,11,9,75,2,2,3,3,3,2,3,2,10,10,70,Hawthorn,5,07-06-2003,25841,M.C.G.
+2003,11,St Kilda,Brisbane Lions,5,4,4,0,1,4,1,6,13,12,90,5,0,4,4,3,1,2,1,13,7,85,St Kilda,5,07-06-2003,30313,Docklands
+2003,11,Sydney,Essendon,4,3,9,5,0,2,2,3,21,7,133,1,6,2,3,2,1,2,2,12,7,79,Sydney,54,07-06-2003,45917,Stadium
+2003,11,Port Adelaide,Fremantle,2,5,5,4,5,1,6,4,16,16,112,1,4,1,3,2,3,2,2,9,9,63,Port Adelaide,49,08-06-2003,30745,Football
+2003,11,Geelong,Carlton,3,4,4,6,1,2,5,5,17,13,115,3,3,3,3,2,0,0,1,12,3,75,Geelong,40,08-06-2003,43587,Docklands
+2003,11,West Coast,Western Bulldogs,5,4,3,7,2,3,1,4,19,10,124,2,5,7,5,4,2,2,2,19,10,124,Match drawn,0,08-06-2003,38540,Subiaco
+2003,11,Melbourne,Collingwood,3,2,1,4,4,5,2,6,10,17,77,4,7,5,4,3,1,4,5,20,13,133,Collingwood,56,09-06-2003,60010,M.C.G.
+2003,12,Essendon,Kangaroos,5,2,5,1,0,3,3,4,13,10,88,5,2,4,3,3,3,3,3,14,12,96,Kangaroos,8,13-06-2003,45331,Docklands
+2003,12,St Kilda,Port Adelaide,1,3,1,2,2,5,4,4,7,15,57,6,2,5,2,2,4,2,1,15,9,99,Port Adelaide,42,14-06-2003,17763,York
+2003,12,Richmond,Carlton,2,3,3,4,2,6,2,4,12,14,86,3,2,6,3,2,1,2,4,14,9,93,Carlton,7,14-06-2003,36557,M.C.G.
+2003,12,Western Bulldogs,Sydney,5,3,1,0,2,3,1,3,9,9,63,3,4,6,6,2,1,7,3,19,13,127,Sydney,64,14-06-2003,21742,S.C.G.
+2003,12,Fremantle,Geelong,3,3,4,3,3,1,2,4,13,10,88,2,2,1,5,3,2,5,2,10,12,72,Fremantle,16,14-06-2003,30127,Subiaco
+2003,12,Brisbane Lions,West Coast,2,2,6,3,2,5,0,6,13,13,91,6,6,7,5,3,4,5,4,24,16,160,West Coast,69,15-06-2003,31185,Gabba
+2003,12,Collingwood,Hawthorn,2,1,2,1,8,2,2,3,6,15,51,2,4,4,2,2,3,5,2,12,12,84,Hawthorn,33,15-06-2003,47365,M.C.G.
+2003,12,Adelaide,Melbourne,6,3,6,6,2,5,3,2,21,12,138,1,2,4,3,1,1,3,0,10,5,65,Adelaide,73,15-06-2003,40178,Football
+2003,13,Essendon,Geelong,8,5,3,4,3,2,1,3,20,9,129,4,4,4,3,0,1,1,1,15,3,93,Essendon,36,27-06-2003,48374,Docklands
+2003,13,Melbourne,St Kilda,4,4,9,4,3,3,1,3,21,10,136,4,4,2,4,3,3,2,2,14,10,94,Melbourne,42,28-06-2003,29339,M.C.G.
+2003,13,Port Adelaide,Sydney,1,3,5,5,1,4,9,1,14,15,99,1,1,2,4,5,4,1,2,8,12,60,Port Adelaide,39,28-06-2003,24272,Football
+2003,13,Western Bulldogs,Collingwood,0,2,7,3,3,5,3,2,12,13,85,6,4,4,4,2,6,6,6,18,20,128,Collingwood,43,28-06-2003,42952,Docklands
+2003,13,Brisbane Lions,Richmond,3,5,3,4,2,6,4,2,15,14,104,3,3,2,1,3,0,0,4,9,7,61,Brisbane Lions,43,28-06-2003,32623,Gabba
+2003,13,Hawthorn,Fremantle,5,7,2,1,2,2,3,1,15,8,98,3,4,2,1,2,0,3,3,10,8,68,Hawthorn,30,29-06-2003,17212,York
+2003,13,Carlton,Adelaide,3,0,1,3,5,0,3,0,7,8,50,4,2,5,2,3,2,1,8,13,14,92,Adelaide,42,29-06-2003,19242,Princes
+2003,13,West Coast,Kangaroos,3,4,2,2,4,2,2,2,11,10,76,4,2,1,3,3,0,3,1,10,7,67,West Coast,9,29-06-2003,36641,Subiaco
+2003,14,St Kilda,Essendon,2,1,3,1,2,3,4,0,7,9,51,3,4,5,5,6,2,2,7,17,17,119,Essendon,68,04-07-2003,49148,Docklands
+2003,14,Hawthorn,Western Bulldogs,5,6,7,5,4,5,3,4,23,16,154,2,2,3,5,3,5,2,1,12,11,83,Hawthorn,71,05-07-2003,31390,M.C.G.
+2003,14,Fremantle,Brisbane Lions,2,2,2,4,2,3,3,7,10,15,75,2,3,4,1,3,3,2,4,10,12,72,Fremantle,3,05-07-2003,28450,Subiaco
+2003,14,Kangaroos,Collingwood,1,1,4,1,3,2,1,2,7,8,50,4,3,7,5,3,3,3,3,19,12,126,Collingwood,76,05-07-2003,53312,Docklands
+2003,14,Adelaide,Richmond,3,1,2,4,3,4,3,2,10,12,72,1,2,2,1,1,4,0,3,6,8,44,Adelaide,28,05-07-2003,44809,Football
+2003,14,Sydney,West Coast,4,4,3,2,6,3,3,2,13,14,92,1,3,4,4,2,2,6,2,12,12,84,Sydney,8,06-07-2003,31121,S.C.G.
+2003,14,Carlton,Melbourne,7,1,5,1,0,3,2,1,14,6,90,4,2,2,6,3,2,4,4,14,13,97,Melbourne,7,06-07-2003,24289,Princes
+2003,14,Geelong,Port Adelaide,3,3,2,2,4,3,1,2,10,10,70,3,1,2,4,1,1,4,3,10,9,69,Geelong,1,06-07-2003,19770,Kardinia
+2003,15,Adelaide,Essendon,4,3,3,3,3,4,2,3,13,12,90,1,1,4,1,3,1,1,2,7,7,49,Adelaide,41,11-07-2003,41758,Football
+2003,15,Collingwood,Fremantle,3,5,4,3,3,3,3,0,15,9,99,2,2,1,2,4,5,5,2,7,16,58,Collingwood,41,12-07-2003,40964,M.C.G.
+2003,15,Richmond,Geelong,1,3,4,7,3,1,3,0,15,7,97,4,4,3,4,3,4,2,2,15,11,101,Geelong,4,12-07-2003,38546,Docklands
+2003,15,Sydney,St Kilda,2,4,4,5,7,3,6,6,15,22,112,3,3,2,1,3,3,0,1,9,7,61,Sydney,51,12-07-2003,27550,S.C.G.
+2003,15,West Coast,Carlton,8,8,5,7,4,5,4,6,28,19,187,3,2,3,2,2,3,4,2,10,11,71,West Coast,116,12-07-2003,39129,Subiaco
+2003,15,Brisbane Lions,Hawthorn,4,2,4,4,4,3,2,0,14,9,93,2,5,3,1,5,4,3,3,11,15,81,Brisbane Lions,12,13-07-2003,29684,Gabba
+2003,15,Western Bulldogs,Port Adelaide,4,4,3,3,4,1,2,2,14,9,93,4,3,4,4,3,5,6,4,15,18,108,Port Adelaide,15,13-07-2003,14784,Docklands
+2003,15,Kangaroos,Melbourne,4,5,4,2,3,0,4,4,15,11,101,3,4,2,5,4,3,3,0,14,10,94,Kangaroos,7,13-07-2003,24618,M.C.G.
+2003,16,Richmond,Collingwood,1,2,2,4,3,3,2,0,9,8,62,5,7,1,7,3,3,2,3,20,11,131,Collingwood,69,18-07-2003,54655,M.C.G.
+2003,16,Carlton,Sydney,2,1,5,4,2,3,3,4,12,12,84,7,5,3,3,2,3,1,1,18,7,115,Sydney,31,19-07-2003,21463,Princes
+2003,16,Hawthorn,Melbourne,2,5,3,7,5,1,3,2,17,11,113,3,8,0,4,3,3,7,3,15,16,106,Hawthorn,7,19-07-2003,32029,M.C.G.
+2003,16,Essendon,Brisbane Lions,4,2,5,3,4,0,4,2,14,10,94,3,4,3,2,2,4,4,4,12,14,86,Essendon,8,19-07-2003,47744,Docklands
+2003,16,Port Adelaide,West Coast,6,4,2,5,1,2,6,3,17,12,114,1,3,2,1,2,1,3,2,7,8,50,Port Adelaide,64,19-07-2003,37624,Football
+2003,16,Geelong,Western Bulldogs,1,1,3,6,1,6,5,3,11,15,81,5,3,7,0,2,3,3,1,15,9,99,Western Bulldogs,18,20-07-2003,22067,Kardinia
+2003,16,St Kilda,Kangaroos,10,3,5,3,1,2,1,2,21,6,132,3,5,7,4,1,2,5,5,19,13,127,St Kilda,5,20-07-2003,25381,Docklands
+2003,16,Fremantle,Adelaide,2,8,0,3,1,3,5,4,13,13,91,5,2,4,2,5,0,6,1,13,12,90,Fremantle,1,20-07-2003,31225,Subiaco
+2003,17,West Coast,Hawthorn,3,2,4,5,1,3,6,4,14,14,98,3,2,0,0,2,6,2,2,5,12,42,West Coast,56,25-07-2003,40127,Subiaco
+2003,17,Kangaroos,Geelong,3,5,3,5,4,1,1,2,16,8,104,4,3,3,2,1,4,3,6,12,14,86,Kangaroos,18,26-07-2003,10253,Manuka
+2003,17,Melbourne,Essendon,1,6,1,2,3,4,1,3,10,11,71,6,2,2,3,2,4,2,2,13,10,88,Essendon,17,26-07-2003,33368,M.C.G.
+2003,17,Western Bulldogs,Richmond,4,1,4,5,4,2,2,3,14,11,95,3,4,7,10,1,2,4,4,24,11,155,Richmond,60,26-07-2003,25204,Docklands
+2003,17,Brisbane Lions,Port Adelaide,3,4,2,6,5,3,3,2,15,13,103,3,4,3,5,4,3,3,4,15,14,104,Port Adelaide,1,26-07-2003,32043,Gabba
+2003,17,Sydney,Fremantle,3,6,2,6,2,4,1,2,17,9,111,2,4,6,2,4,3,2,4,14,13,97,Sydney,14,27-07-2003,30228,S.C.G.
+2003,17,Collingwood,Carlton,7,4,3,6,5,5,2,3,20,15,135,1,1,2,4,3,3,3,5,8,14,62,Collingwood,73,27-07-2003,54500,M.C.G.
+2003,17,Adelaide,St Kilda,7,4,9,2,3,3,2,3,22,11,143,4,3,3,3,1,2,1,4,13,8,86,Adelaide,57,27-07-2003,44667,Football
+2003,18,Western Bulldogs,Melbourne,3,4,4,3,6,2,3,6,14,17,101,5,2,1,4,4,0,2,2,12,8,80,Western Bulldogs,21,01-08-2003,20714,Docklands
+2003,18,Carlton,Essendon,2,1,2,2,3,6,3,2,7,14,56,2,2,5,4,5,2,1,4,13,12,90,Essendon,34,02-08-2003,40697,M.C.G.
+2003,18,Fremantle,Richmond,3,4,2,6,5,3,5,1,15,14,104,2,3,2,4,3,6,4,2,11,15,81,Fremantle,23,02-08-2003,31725,Subiaco
+2003,18,Geelong,Collingwood,4,3,1,2,3,5,4,1,10,13,73,2,2,6,4,5,3,2,3,14,13,97,Collingwood,24,02-08-2003,45887,Docklands
+2003,18,Brisbane Lions,Kangaroos,5,5,3,7,3,0,7,7,20,17,137,1,4,3,3,2,8,3,4,11,17,83,Brisbane Lions,54,02-08-2003,28044,Gabba
+2003,18,Adelaide,Sydney,5,5,2,2,5,2,2,4,14,13,97,2,5,4,3,2,1,4,2,14,9,93,Adelaide,4,03-08-2003,46945,Football
+2003,18,Hawthorn,Port Adelaide,3,3,1,4,3,5,3,3,11,14,80,2,2,4,4,5,3,2,2,12,12,84,Port Adelaide,4,03-08-2003,21415,M.C.G.
+2003,18,St Kilda,West Coast,1,8,4,6,7,2,2,3,19,14,128,0,2,6,1,2,5,0,6,9,13,67,St Kilda,61,03-08-2003,21531,Docklands
+2003,19,Melbourne,Geelong,1,2,0,3,4,4,0,1,6,9,45,4,2,2,3,4,4,6,4,11,18,84,Geelong,39,08-08-2003,22508,M.C.G.
+2003,19,Collingwood,Brisbane Lions,1,4,3,0,0,3,5,6,8,14,62,8,2,3,2,0,2,5,4,15,11,101,Brisbane Lions,39,09-08-2003,61868,M.C.G.
+2003,19,West Coast,Adelaide,3,3,0,4,0,2,3,2,10,7,67,5,5,2,1,6,1,4,2,13,13,91,Adelaide,24,09-08-2003,39681,Subiaco
+2003,19,Sydney,Hawthorn,2,2,5,5,3,3,1,2,14,9,93,4,6,3,4,4,1,2,1,17,8,110,Hawthorn,17,09-08-2003,33473,S.C.G.
+2003,19,Richmond,St Kilda,1,2,1,3,2,2,2,2,7,8,50,5,2,7,6,5,2,1,2,20,10,130,St Kilda,80,09-08-2003,41514,Docklands
+2003,19,Port Adelaide,Carlton,4,2,7,5,3,4,6,4,18,17,125,3,4,4,1,3,1,4,1,12,9,81,Port Adelaide,44,10-08-2003,31083,Football
+2003,19,Essendon,Western Bulldogs,9,5,3,5,3,3,5,4,22,15,147,2,3,3,4,0,2,2,4,12,8,80,Essendon,67,10-08-2003,36138,Docklands
+2003,19,Kangaroos,Fremantle,3,4,5,3,2,2,2,2,15,8,98,2,4,4,5,3,1,2,3,15,9,99,Fremantle,1,10-08-2003,18486,M.C.G.
+2003,20,Collingwood,Adelaide,1,3,7,4,5,3,6,4,15,18,108,2,2,1,6,1,1,1,2,11,5,71,Collingwood,37,15-08-2003,45367,Docklands
+2003,20,Carlton,St Kilda,2,5,3,1,2,2,2,3,11,9,75,9,9,4,4,3,2,2,3,26,10,166,St Kilda,91,16-08-2003,22361,Princes
+2003,20,Geelong,West Coast,4,2,1,2,4,3,1,1,9,9,63,2,2,3,2,1,2,2,4,9,9,63,Match drawn,0,16-08-2003,19202,Kardinia
+2003,20,Kangaroos,Hawthorn,1,5,6,2,1,2,5,4,14,12,96,3,3,2,8,3,4,2,5,16,14,110,Hawthorn,14,16-08-2003,29234,Docklands
+2003,20,Port Adelaide,Melbourne,6,4,4,3,2,1,3,4,17,10,112,2,4,4,5,0,5,1,2,15,8,98,Port Adelaide,14,16-08-2003,28032,Football
+2003,20,Brisbane Lions,Sydney,4,2,2,2,3,5,4,4,10,16,76,2,3,6,3,1,4,0,1,14,6,90,Sydney,14,17-08-2003,32988,Gabba
+2003,20,Essendon,Richmond,4,5,3,1,2,6,4,2,13,14,92,2,3,0,2,5,0,3,3,7,11,53,Essendon,39,17-08-2003,40846,M.C.G.
+2003,20,Fremantle,Western Bulldogs,5,5,3,5,6,6,5,8,18,25,133,2,5,3,2,1,1,3,0,12,5,77,Fremantle,56,17-08-2003,35518,Subiaco
+2003,21,Hawthorn,Carlton,6,2,7,5,6,6,2,4,20,18,138,2,5,3,0,1,1,2,0,10,4,64,Hawthorn,74,22-08-2003,30406,M.C.G.
+2003,21,Essendon,Fremantle,4,6,4,6,3,1,3,6,20,13,133,3,4,2,2,2,1,1,3,11,7,73,Essendon,60,23-08-2003,42256,Docklands
+2003,21,Adelaide,Kangaroos,4,2,1,3,2,2,0,0,10,4,64,1,3,3,2,6,6,3,5,9,20,74,Kangaroos,10,23-08-2003,42259,Football
+2003,21,Brisbane Lions,Geelong,3,8,3,5,4,1,3,1,19,9,123,1,2,6,4,2,3,1,2,13,8,86,Brisbane Lions,37,23-08-2003,30515,Gabba
+2003,21,Sydney,Collingwood,2,3,4,3,1,3,4,1,12,9,81,5,4,3,2,3,4,4,4,14,15,99,Collingwood,18,23-08-2003,72393,Stadium
+2003,21,St Kilda,Western Bulldogs,5,2,5,1,8,3,5,1,13,17,95,1,0,0,2,2,3,2,5,3,12,30,St Kilda,65,24-08-2003,15637,York
+2003,21,Richmond,Port Adelaide,3,5,4,4,1,3,2,2,16,8,104,5,3,5,5,5,2,8,1,18,16,124,Port Adelaide,20,24-08-2003,15920,Docklands
+2003,21,West Coast,Melbourne,5,4,6,6,6,4,2,5,21,17,143,3,5,3,3,1,2,3,1,14,7,91,West Coast,52,24-08-2003,38029,Subiaco
+2003,22,Collingwood,Essendon,3,2,4,3,3,4,2,2,12,11,83,1,5,2,1,3,4,2,4,9,13,67,Collingwood,16,29-08-2003,68381,M.C.G.
+2003,22,Geelong,St Kilda,0,4,5,3,2,5,4,1,12,12,84,2,1,2,4,3,3,1,4,9,11,65,Geelong,19,30-08-2003,20728,Kardinia
+2003,22,Melbourne,Sydney,3,2,1,3,1,3,1,1,9,6,60,1,2,3,8,2,3,4,1,14,10,94,Sydney,34,30-08-2003,22969,M.C.G.
+2003,22,Western Bulldogs,Brisbane Lions,4,3,4,2,1,2,4,1,13,8,86,7,6,6,7,2,2,4,6,26,14,170,Brisbane Lions,84,30-08-2003,22361,Docklands
+2003,22,West Coast,Fremantle,4,3,2,2,2,2,5,7,11,16,82,4,2,6,2,2,4,4,2,14,12,96,Fremantle,14,30-08-2003,43027,Subiaco
+2003,22,Port Adelaide,Adelaide,5,1,4,4,2,4,2,2,14,10,94,2,6,1,3,1,2,1,2,12,6,78,Port Adelaide,16,31-08-2003,48131,Football
+2003,22,Carlton,Kangaroos,1,1,2,5,4,2,2,1,9,9,63,5,7,10,6,5,3,3,8,28,19,187,Kangaroos,124,31-08-2003,26138,Docklands
+2003,22,Richmond,Hawthorn,1,6,2,2,0,1,3,4,11,8,74,5,4,1,1,3,2,4,3,11,12,78,Hawthorn,4,31-08-2003,31389,M.C.G.
+2003,EF,Fremantle,Essendon,2,1,1,4,2,2,2,3,8,9,57,3,4,4,4,3,3,2,3,15,11,101,Essendon,44,05-09-2003,42770,Subiaco
+2003,EF,Adelaide,West Coast,3,4,4,5,4,2,6,5,16,17,113,1,2,2,3,1,3,3,2,8,9,57,Adelaide,56,06-09-2003,38641,Football
+2003,QF,Collingwood,Brisbane Lions,2,3,1,3,2,3,3,4,9,12,66,3,3,1,0,2,3,0,4,7,9,51,Collingwood,15,06-09-2003,66092,M.C.G.
+2003,QF,Port Adelaide,Sydney,3,1,6,3,2,5,1,2,13,10,88,4,7,3,1,4,1,3,2,15,10,100,Sydney,12,07-09-2003,33968,Football
+2003,SF,Brisbane Lions,Adelaide,3,3,5,7,3,6,3,4,18,16,124,3,1,6,2,2,2,3,3,12,10,82,Brisbane Lions,42,12-09-2003,32432,Gabba
+2003,SF,Port Adelaide,Essendon,5,2,3,2,2,2,3,4,12,11,83,3,1,1,1,1,5,1,1,6,8,44,Port Adelaide,39,13-09-2003,36557,Football
+2003,PF,Collingwood,Port Adelaide,6,1,4,6,3,2,1,4,17,10,112,3,2,0,4,1,5,5,3,9,14,68,Collingwood,44,20-09-2003,77405,M.C.G.
+2003,PF,Sydney,Brisbane Lions,2,2,4,0,2,2,3,1,8,8,56,2,4,2,6,7,0,3,6,14,16,100,Brisbane Lions,44,20-09-2003,71019,Stadium
+2003,GF,Collingwood,Brisbane Lions,3,1,5,3,3,4,0,5,12,12,84,5,6,3,6,5,2,5,2,20,14,134,Brisbane Lions,50,27-09-2003,79451,M.C.G.

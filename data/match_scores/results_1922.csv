@@ -1,0 +1,77 @@
+Year,Round,Home Team,Away Team,H Goals 1st,H Goals 2nd,H Goals 3rd,H Goals 4th,H Behind 1st,H Behind 2nd,H Behind 3rd,H Behind 4th,H Total Goals,H Total Behind,H Total Score,A Goals 1st,A Goals 2nd,A Goals 3rd,A Goals 4th,A Behind 1st,A Behind 2nd,A Behind 3rd,A Behind 4th,A Total Goals,A Total Behind,A Total Score,Winning Team,Margin,Date,Attendance,Venue
+1922,1,Essendon,Carlton,3,4,1,3,3,3,1,7,11,14,80,3,1,5,0,3,2,2,1,9,8,62,Essendon,18,06-05-1922,22000,Windy
+1922,1,Richmond,Collingwood,3,0,3,4,3,1,4,5,10,13,73,3,1,2,2,2,1,3,2,8,8,56,Richmond,17,06-05-1922,27000,Punt
+1922,1,St Kilda,Fitzroy,4,1,1,2,0,4,2,2,8,8,56,2,2,2,4,3,2,2,2,10,9,69,Fitzroy,13,06-05-1922,12000,Junction
+1922,1,South Melbourne,Melbourne,0,2,2,3,2,4,1,6,7,13,55,2,0,5,1,5,2,4,1,8,12,60,Melbourne,5,06-05-1922,15000,Lake
+1922,2,Carlton,Fitzroy,3,2,1,4,3,1,6,3,10,13,73,3,2,1,3,2,2,3,2,9,9,63,Carlton,10,13-05-1922,25000,Princes
+1922,2,Collingwood,South Melbourne,3,3,0,3,4,3,0,5,9,12,66,3,2,2,3,4,1,4,3,10,12,72,South Melbourne,6,13-05-1922,20000,Victoria
+1922,2,Geelong,Essendon,1,4,1,0,1,3,0,2,6,6,42,3,0,4,1,3,2,7,4,8,16,64,Essendon,22,13-05-1922,12000,Corio
+1922,2,Melbourne,Richmond,3,3,4,3,4,4,1,1,13,10,88,1,5,4,2,2,2,4,5,12,13,85,Melbourne,3,13-05-1922,23902,M.C.G.
+1922,3,Collingwood,Carlton,2,4,2,2,7,3,5,3,10,18,78,4,2,4,0,4,2,2,3,10,11,71,Collingwood,7,20-05-1922,25000,Victoria
+1922,3,Essendon,South Melbourne,1,2,2,7,3,5,4,0,12,12,84,3,2,3,0,4,2,2,5,8,13,61,Essendon,23,20-05-1922,20000,Windy
+1922,3,Fitzroy,Geelong,2,3,6,3,3,2,5,3,14,13,97,1,3,3,3,2,4,0,6,10,12,72,Fitzroy,25,20-05-1922,12000,Brunswick
+1922,3,St Kilda,Melbourne,1,2,5,4,3,2,2,5,12,12,84,2,2,4,3,4,2,1,1,11,8,74,St Kilda,10,20-05-1922,10000,Junction
+1922,4,Carlton,Melbourne,5,2,2,5,1,4,3,4,14,12,96,2,3,3,0,3,4,5,4,8,16,64,Carlton,32,27-05-1922,15000,Princes
+1922,4,Fitzroy,Essendon,0,2,2,2,4,1,7,3,6,15,51,1,0,2,4,3,4,0,2,7,9,51,Match drawn,0,27-05-1922,26000,Brunswick
+1922,4,Geelong,Richmond,4,4,1,2,5,3,1,0,11,9,75,3,1,5,2,0,1,3,3,11,7,73,Geelong,2,27-05-1922,12000,Corio
+1922,4,South Melbourne,St Kilda,1,4,2,1,2,6,3,2,8,13,61,3,4,4,1,1,1,3,0,12,5,77,St Kilda,16,27-05-1922,20000,Lake
+1922,5,South Melbourne,Carlton,1,1,3,3,5,1,2,7,8,15,63,1,2,0,1,5,5,1,0,4,11,35,South Melbourne,28,03-06-1922,25000,Lake
+1922,5,Collingwood,St Kilda,3,3,6,3,4,3,4,3,15,14,104,1,0,1,2,1,1,4,5,4,11,35,Collingwood,69,03-06-1922,30000,Victoria
+1922,5,Richmond,Essendon,1,2,2,2,2,6,2,2,7,12,54,4,1,2,2,1,3,2,4,9,10,64,Essendon,10,05-06-1922,40000,Punt
+1922,5,Melbourne,Geelong,3,2,2,2,1,3,6,2,9,12,66,1,2,1,5,1,3,0,2,9,6,60,Melbourne,6,05-06-1922,16189,M.C.G.
+1922,6,Carlton,St Kilda,2,7,2,2,4,6,5,4,13,19,97,2,6,3,1,4,5,3,2,12,14,86,Carlton,11,10-06-1922,15000,Princes
+1922,6,Geelong,Collingwood,2,1,3,2,3,1,2,3,8,9,57,5,5,3,6,2,1,1,2,19,6,120,Collingwood,63,10-06-1922,12000,Corio
+1922,6,Essendon,Melbourne,3,2,0,7,6,6,1,8,12,21,93,2,0,2,1,2,3,5,2,5,12,42,Essendon,51,10-06-1922,15000,Windy
+1922,6,Fitzroy,Richmond,1,4,2,2,4,6,4,4,9,18,72,4,1,1,1,4,1,2,2,7,9,51,Fitzroy,21,10-06-1922,30000,Brunswick
+1922,7,Carlton,Geelong,3,2,0,3,4,4,2,5,8,15,63,1,3,3,2,6,2,6,5,9,19,73,Geelong,10,17-06-1922,12000,Princes
+1922,7,Collingwood,Fitzroy,5,4,4,2,4,2,1,3,15,10,100,2,3,1,4,1,3,2,2,10,8,68,Collingwood,32,17-06-1922,30000,Victoria
+1922,7,St Kilda,Essendon,0,4,5,4,4,3,2,2,13,11,89,2,5,4,4,2,1,2,2,15,7,97,Essendon,8,17-06-1922,20000,Junction
+1922,7,South Melbourne,Richmond,2,3,2,3,3,5,1,5,10,14,74,2,2,7,1,1,0,6,0,12,7,79,Richmond,5,17-06-1922,20000,Lake
+1922,8,Richmond,Carlton,0,6,0,4,2,3,0,1,10,6,66,5,0,4,3,4,1,4,2,12,11,83,Carlton,17,24-06-1922,30000,Punt
+1922,8,Melbourne,Collingwood,1,2,4,2,3,2,5,3,9,13,67,1,3,2,1,6,3,3,5,7,17,59,Melbourne,8,24-06-1922,17496,M.C.G.
+1922,8,Fitzroy,South Melbourne,2,4,1,2,3,4,4,2,9,13,67,2,0,3,3,2,3,3,0,8,8,56,Fitzroy,11,24-06-1922,20000,Brunswick
+1922,8,Geelong,St Kilda,2,3,0,2,1,4,1,6,7,12,54,1,6,2,1,2,1,2,0,10,5,65,St Kilda,11,24-06-1922,12000,Corio
+1922,9,Essendon,Collingwood,2,2,1,2,3,4,1,6,7,14,56,5,3,1,1,1,0,3,1,10,5,65,Collingwood,9,01-07-1922,30000,Windy
+1922,9,Fitzroy,Melbourne,0,2,1,2,5,4,7,3,5,19,49,2,2,0,0,2,1,2,4,4,9,33,Fitzroy,16,01-07-1922,12000,Brunswick
+1922,9,Geelong,South Melbourne,5,6,5,0,6,2,6,4,16,18,114,0,1,1,2,3,1,0,2,4,6,30,Geelong,84,01-07-1922,8000,Corio
+1922,9,Richmond,St Kilda,2,3,3,3,6,1,3,3,11,13,79,3,1,3,0,3,2,4,3,7,12,54,Richmond,25,01-07-1922,25000,Punt
+1922,10,Carlton,Essendon,4,1,3,3,6,6,4,3,11,19,85,1,4,1,1,3,4,1,2,7,10,52,Carlton,33,15-07-1922,30000,Princes
+1922,10,Collingwood,Richmond,2,1,2,1,5,3,3,3,6,14,50,0,2,0,1,2,4,4,3,3,13,31,Collingwood,19,15-07-1922,25000,Victoria
+1922,10,Fitzroy,St Kilda,0,2,4,7,5,4,1,1,13,11,89,1,2,1,4,4,5,5,0,8,14,62,Fitzroy,27,15-07-1922,17000,Brunswick
+1922,10,Melbourne,South Melbourne,3,2,4,6,3,3,1,3,15,10,100,4,3,2,0,2,5,11,0,9,18,72,Melbourne,28,15-07-1922,9850,M.C.G.
+1922,11,Fitzroy,Carlton,0,2,4,5,4,2,6,1,11,13,79,3,3,1,2,3,4,0,0,9,7,61,Fitzroy,18,22-07-1922,30000,Brunswick
+1922,11,South Melbourne,Collingwood,2,1,4,0,4,3,4,3,7,14,56,1,1,2,4,3,6,4,3,8,16,64,Collingwood,8,22-07-1922,20000,Lake
+1922,11,Essendon,Geelong,2,4,2,4,4,4,1,1,12,10,82,4,2,3,4,5,1,7,3,13,16,94,Geelong,12,22-07-1922,15000,Windy
+1922,11,Richmond,Melbourne,1,3,1,6,3,7,1,3,11,14,80,3,1,4,2,6,5,3,3,10,17,77,Richmond,3,22-07-1922,18000,Punt
+1922,12,Carlton,Collingwood,4,2,3,3,3,3,4,6,12,16,88,2,4,2,3,4,4,5,4,11,17,83,Carlton,5,29-07-1922,34000,Princes
+1922,12,South Melbourne,Essendon,2,3,4,5,4,5,4,2,14,15,99,2,5,2,2,4,2,1,1,11,8,74,South Melbourne,25,29-07-1922,20000,Lake
+1922,12,Geelong,Fitzroy,2,0,3,0,2,2,3,2,5,9,39,1,1,2,1,0,7,3,9,5,19,49,Fitzroy,10,29-07-1922,15000,Corio
+1922,12,Melbourne,St Kilda,4,1,3,5,1,3,3,3,13,10,88,2,5,2,2,3,3,1,3,11,10,76,Melbourne,12,29-07-1922,14929,M.C.G.
+1922,13,Melbourne,Carlton,2,4,3,1,0,2,2,0,10,4,64,3,1,2,2,3,5,3,2,8,13,61,Melbourne,3,05-08-1922,25220,M.C.G.
+1922,13,Essendon,Fitzroy,4,6,2,3,1,2,1,3,15,7,97,3,2,3,4,5,4,4,3,12,16,88,Essendon,9,05-08-1922,20000,Windy
+1922,13,Richmond,Geelong,3,4,1,4,3,5,3,6,12,17,89,3,4,3,1,4,2,5,2,11,13,79,Richmond,10,05-08-1922,15000,Punt
+1922,13,St Kilda,South Melbourne,2,1,4,3,2,6,3,4,10,15,75,3,1,4,3,4,1,3,1,11,9,75,Match drawn,0,05-08-1922,15000,Junction
+1922,14,Carlton,South Melbourne,5,1,6,2,11,2,4,2,14,19,103,1,5,1,3,2,5,2,6,10,15,75,Carlton,28,19-08-1922,17000,Princes
+1922,14,St Kilda,Collingwood,1,1,2,2,0,5,3,2,6,10,46,2,1,4,1,1,0,6,2,8,9,57,Collingwood,11,19-08-1922,18000,Junction
+1922,14,Essendon,Richmond,1,7,1,6,1,3,4,5,15,13,103,4,2,1,3,2,2,0,2,10,6,66,Essendon,37,19-08-1922,25000,Windy
+1922,14,Geelong,Melbourne,4,1,5,1,3,0,2,1,11,6,72,0,3,2,0,6,6,2,2,5,16,46,Geelong,26,19-08-1922,8000,Corio
+1922,15,St Kilda,Carlton,2,0,2,0,3,3,10,0,4,16,40,0,4,0,1,5,6,0,8,5,19,49,Carlton,9,26-08-1922,10000,Junction
+1922,15,Collingwood,Geelong,1,4,1,2,8,6,3,3,8,20,68,2,0,3,1,4,3,0,1,6,8,44,Collingwood,24,26-08-1922,8000,Victoria
+1922,15,Melbourne,Essendon,2,0,0,1,3,3,2,2,3,10,28,3,1,1,1,2,2,2,2,6,8,44,Essendon,16,26-08-1922,19206,M.C.G.
+1922,15,Richmond,Fitzroy,1,0,3,1,5,0,4,1,5,10,40,1,1,0,1,2,6,1,5,3,14,32,Richmond,8,26-08-1922,5000,Punt
+1922,16,Geelong,Carlton,2,3,2,4,3,4,2,1,11,10,76,2,6,4,4,3,4,5,3,16,15,111,Carlton,35,02-09-1922,15000,Corio
+1922,16,Fitzroy,Collingwood,0,5,2,1,6,4,2,2,8,14,62,6,2,2,1,3,1,4,5,11,13,79,Collingwood,17,02-09-1922,25000,Brunswick
+1922,16,Essendon,St Kilda,1,2,2,3,4,5,5,1,8,15,63,2,3,2,1,3,3,0,1,8,7,55,Essendon,8,02-09-1922,15000,Windy
+1922,16,Richmond,South Melbourne,3,4,1,5,2,3,1,2,13,8,86,3,2,1,3,3,1,5,1,9,10,64,Richmond,22,02-09-1922,15000,Punt
+1922,17,Carlton,Richmond,5,2,3,4,5,2,1,2,14,10,94,3,1,2,1,0,2,5,1,7,8,50,Carlton,44,09-09-1922,25000,Princes
+1922,17,Collingwood,Melbourne,2,4,1,4,7,2,2,5,11,16,82,2,1,1,3,3,1,6,1,7,11,53,Collingwood,29,09-09-1922,15000,Victoria
+1922,17,South Melbourne,Fitzroy,5,3,2,1,1,4,4,3,11,12,78,6,3,4,1,4,3,0,2,14,9,93,Fitzroy,15,09-09-1922,10000,Lake
+1922,17,St Kilda,Geelong,7,2,8,1,7,6,3,2,18,18,126,0,0,5,5,2,3,3,3,10,11,71,St Kilda,55,09-09-1922,10000,Junction
+1922,18,Collingwood,Essendon,2,2,0,2,2,3,1,5,6,11,47,2,2,0,2,0,2,4,1,6,7,43,Collingwood,4,16-09-1922,32000,Victoria
+1922,18,Melbourne,Fitzroy,2,2,1,2,3,3,3,4,7,13,55,0,3,4,1,2,5,2,6,8,15,63,Fitzroy,8,16-09-1922,5000,Princes
+1922,18,South Melbourne,Geelong,5,5,5,6,3,2,3,2,21,10,136,4,3,1,0,3,3,3,1,8,10,58,South Melbourne,78,16-09-1922,3000,Lake
+1922,18,St Kilda,Richmond,3,2,0,2,5,5,5,7,7,22,64,2,1,1,1,1,3,2,1,5,7,37,St Kilda,27,16-09-1922,4000,Junction
+1922,SF,Essendon,Carlton,1,2,0,2,0,3,2,4,5,9,39,2,0,2,0,4,1,3,2,4,10,34,Essendon,5,23-09-1922,64148,M.C.G.
+1922,SF,Collingwood,Fitzroy,3,1,0,1,0,7,1,4,5,12,42,2,0,4,0,3,4,1,2,6,10,46,Fitzroy,4,30-09-1922,43045,M.C.G.
+1922,PF,Essendon,Fitzroy,1,2,3,0,2,3,1,3,6,9,45,0,3,1,5,3,1,8,2,9,14,68,Fitzroy,23,07-10-1922,50021,M.C.G.
+1922,GF,Collingwood,Fitzroy,2,2,3,2,3,2,2,7,9,14,68,2,1,6,2,5,1,4,3,11,13,79,Fitzroy,11,14-10-1922,50064,M.C.G.

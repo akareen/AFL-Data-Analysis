@@ -1,0 +1,29 @@
+Year,Round,Home Team,Away Team,H Goals 1st,H Goals 2nd,H Goals 3rd,H Goals 4th,H Behind 1st,H Behind 2nd,H Behind 3rd,H Behind 4th,H Total Goals,H Total Behind,H Total Score,A Goals 1st,A Goals 2nd,A Goals 3rd,A Goals 4th,A Behind 1st,A Behind 2nd,A Behind 3rd,A Behind 4th,A Total Goals,A Total Behind,A Total Score,Winning Team,Margin,Date,Attendance,Venue
+1916,1,Carlton,Fitzroy,1,2,1,3,4,7,2,5,7,18,60,3,1,4,1,4,1,3,2,9,10,64,Fitzroy,4,06-05-1916,0,Princes
+1916,1,Richmond,Collingwood,4,1,2,3,1,1,3,4,10,9,69,3,4,2,2,2,4,1,4,11,11,77,Collingwood,8,06-05-1916,0,Punt
+1916,2,Collingwood,Carlton,2,2,3,0,0,1,0,2,7,3,45,2,2,5,1,1,2,4,4,10,11,71,Carlton,26,13-05-1916,0,Victoria
+1916,2,Fitzroy,Richmond,4,2,1,2,4,3,4,1,9,12,66,0,4,1,0,2,3,0,2,5,7,37,Fitzroy,29,13-05-1916,0,Brunswick
+1916,3,Richmond,Carlton,1,0,5,1,7,3,4,5,7,19,61,0,3,1,5,3,4,1,4,9,12,66,Carlton,5,20-05-1916,0,Punt
+1916,3,Fitzroy,Collingwood,2,4,1,0,3,1,2,2,7,8,50,1,2,3,0,2,3,3,6,6,14,50,Match drawn,0,20-05-1916,0,Brunswick
+1916,4,Fitzroy,Carlton,2,2,1,2,1,4,1,3,7,9,51,3,2,5,3,1,3,0,2,13,6,84,Carlton,33,27-05-1916,0,Brunswick
+1916,4,Collingwood,Richmond,2,6,2,0,3,4,5,6,10,18,78,2,1,3,1,4,4,0,3,7,11,53,Collingwood,25,27-05-1916,0,Victoria
+1916,5,Carlton,Collingwood,3,1,3,3,4,2,5,4,10,15,75,0,7,2,2,2,2,1,5,11,10,76,Collingwood,1,03-06-1916,0,Princes
+1916,5,Richmond,Fitzroy,2,5,7,5,2,5,2,4,19,13,127,4,1,3,1,4,1,5,4,9,14,68,Richmond,59,05-06-1916,0,Punt
+1916,6,Carlton,Richmond,3,6,1,4,3,1,4,0,14,8,92,1,1,1,0,2,4,3,4,3,13,31,Carlton,61,10-06-1916,0,Princes
+1916,6,Collingwood,Fitzroy,1,5,3,2,3,3,2,5,11,13,79,2,1,1,4,3,6,7,1,8,17,65,Collingwood,14,10-06-1916,0,Victoria
+1916,7,Fitzroy,Carlton,1,2,2,2,1,2,1,4,7,8,50,1,2,5,2,7,2,5,5,10,19,79,Carlton,29,17-06-1916,0,Brunswick
+1916,7,Collingwood,Richmond,2,2,1,5,1,3,5,5,10,14,74,4,2,3,2,2,4,2,1,11,9,75,Richmond,1,17-06-1916,0,Victoria
+1916,8,Carlton,Collingwood,4,0,5,0,7,1,3,0,9,11,65,1,2,2,2,0,4,0,7,7,11,53,Carlton,12,24-06-1916,0,Princes
+1916,8,Richmond,Fitzroy,1,5,3,0,4,2,4,1,9,11,65,0,1,4,2,3,3,2,5,7,13,55,Richmond,10,24-06-1916,0,Punt
+1916,9,Carlton,Richmond,5,5,1,1,2,8,6,3,12,19,91,0,4,1,1,1,0,1,3,6,5,41,Carlton,50,08-07-1916,0,Princes
+1916,9,Collingwood,Fitzroy,1,2,3,2,4,4,3,0,8,11,59,2,1,3,2,1,1,5,3,8,10,58,Collingwood,1,08-07-1916,0,Victoria
+1916,10,Carlton,Fitzroy,3,3,3,2,7,3,1,4,11,15,81,1,1,2,4,3,3,4,4,8,14,62,Carlton,19,15-07-1916,0,Princes
+1916,10,Richmond,Collingwood,6,1,3,4,2,2,5,0,14,9,93,1,3,2,3,1,3,1,8,9,13,67,Richmond,26,15-07-1916,0,Punt
+1916,11,Collingwood,Carlton,3,3,3,1,2,2,3,3,10,10,70,2,0,6,1,5,2,5,6,9,18,72,Carlton,2,22-07-1916,0,Victoria
+1916,11,Fitzroy,Richmond,2,1,4,2,4,2,2,3,9,11,65,2,3,2,3,3,3,4,5,10,15,75,Richmond,10,22-07-1916,0,Brunswick
+1916,12,Richmond,Carlton,3,1,2,3,4,1,4,2,9,11,65,1,6,3,2,1,4,1,4,12,10,82,Carlton,17,29-07-1916,0,Punt
+1916,12,Fitzroy,Collingwood,3,2,1,2,3,3,1,2,8,9,57,1,3,3,4,1,2,2,4,11,9,75,Collingwood,18,29-07-1916,0,Brunswick
+1916,SF,Collingwood,Fitzroy,2,2,0,4,1,2,4,2,8,9,57,1,1,4,3,3,3,2,1,9,9,63,Fitzroy,6,12-08-1916,9690,M.C.G.
+1916,SF,Carlton,Richmond,4,3,1,2,2,3,3,7,10,15,75,3,1,3,3,3,3,3,3,10,12,72,Carlton,3,19-08-1916,11728,M.C.G.
+1916,PF,Carlton,Fitzroy,2,2,1,0,5,1,4,2,5,12,42,1,2,2,4,1,5,1,4,9,11,65,Fitzroy,23,26-08-1916,15567,M.C.G.
+1916,GF,Carlton,Fitzroy,2,2,2,2,0,2,6,0,8,8,56,4,4,2,2,6,2,3,2,12,13,85,Fitzroy,29,02-09-1916,21130,M.C.G.

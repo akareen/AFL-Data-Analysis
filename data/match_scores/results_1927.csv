@@ -1,0 +1,112 @@
+Year,Round,Home Team,Away Team,H Goals 1st,H Goals 2nd,H Goals 3rd,H Goals 4th,H Behind 1st,H Behind 2nd,H Behind 3rd,H Behind 4th,H Total Goals,H Total Behind,H Total Score,A Goals 1st,A Goals 2nd,A Goals 3rd,A Goals 4th,A Behind 1st,A Behind 2nd,A Behind 3rd,A Behind 4th,A Total Goals,A Total Behind,A Total Score,Winning Team,Margin,Date,Attendance,Venue
+1927,1,Carlton,South Melbourne,1,3,3,2,6,1,2,6,9,15,69,2,3,2,3,1,2,4,3,10,10,70,South Melbourne,1,30-04-1927,28000,Princes
+1927,1,Collingwood,Geelong,6,1,6,3,2,0,3,6,16,11,107,1,5,5,1,3,6,2,1,12,12,84,Collingwood,23,30-04-1927,20000,Victoria
+1927,1,Footscray,Essendon,3,0,0,7,1,1,1,0,10,3,63,5,3,7,1,3,3,5,3,16,14,110,Essendon,47,30-04-1927,18000,Western
+1927,1,North Melbourne,Fitzroy,2,1,3,3,5,5,6,5,9,21,75,3,3,3,1,1,5,2,3,10,11,71,North Melbourne,4,30-04-1927,10000,Arden
+1927,1,St Kilda,Hawthorn,4,3,4,1,4,3,4,5,12,16,88,4,4,1,2,2,0,0,0,11,2,68,St Kilda,20,30-04-1927,12000,Junction
+1927,1,Melbourne,Richmond,5,2,5,4,5,4,6,4,16,19,115,5,1,2,1,1,2,5,3,9,11,65,Melbourne,50,30-04-1927,22382,M.C.G.
+1927,2,Fitzroy,Carlton,1,2,6,2,1,2,2,1,11,6,72,2,2,3,7,5,4,1,5,14,15,99,Carlton,27,07-05-1927,25000,Brunswick
+1927,2,Hawthorn,Collingwood,1,1,2,3,2,1,1,5,7,9,51,2,3,2,4,3,3,4,1,11,11,77,Collingwood,26,07-05-1927,9000,Glenferrie
+1927,2,Essendon,North Melbourne,5,0,3,0,3,1,1,1,8,6,54,3,3,1,3,0,3,0,2,10,5,65,North Melbourne,11,07-05-1927,20000,Windy
+1927,2,Geelong,Footscray,6,1,5,2,6,4,6,4,14,20,104,0,1,2,5,2,5,3,2,8,12,60,Geelong,44,07-05-1927,15300,Corio
+1927,2,South Melbourne,Melbourne,3,4,3,2,2,3,3,3,12,11,83,0,2,2,3,6,3,0,2,7,11,53,South Melbourne,30,07-05-1927,25000,Lake
+1927,2,Richmond,St Kilda,2,0,5,1,4,1,3,3,8,11,59,0,2,2,2,0,9,2,1,6,12,48,Richmond,11,07-05-1927,18000,Punt
+1927,3,Carlton,Essendon,0,2,2,3,4,0,1,0,7,5,47,0,2,0,2,5,2,2,3,4,12,36,Carlton,11,14-05-1927,27000,Princes
+1927,3,Collingwood,Richmond,1,2,1,2,3,2,4,4,6,13,49,1,0,4,2,6,2,3,2,7,13,55,Richmond,6,14-05-1927,20000,Victoria
+1927,3,Melbourne,Fitzroy,2,4,3,4,3,4,3,5,13,15,93,1,1,2,4,4,4,1,2,8,11,59,Melbourne,34,14-05-1927,14931,M.C.G.
+1927,3,Footscray,Hawthorn,2,3,0,5,0,8,2,8,10,18,78,4,0,2,1,4,2,4,0,7,10,52,Footscray,26,14-05-1927,11000,Western
+1927,3,North Melbourne,Geelong,1,3,1,3,0,1,0,4,8,5,53,3,0,4,0,8,0,5,0,7,13,55,Geelong,2,14-05-1927,20000,Arden
+1927,3,St Kilda,South Melbourne,3,0,4,1,4,3,5,3,8,15,63,2,3,1,1,2,7,2,2,7,13,55,St Kilda,8,14-05-1927,22000,Junction
+1927,4,Geelong,Carlton,4,3,5,6,8,2,2,3,18,15,123,2,5,2,2,1,2,5,3,11,11,77,Geelong,46,21-05-1927,16000,Corio
+1927,4,South Melbourne,Collingwood,5,3,1,0,1,3,1,8,9,13,67,6,2,5,3,5,1,2,2,16,10,106,Collingwood,39,21-05-1927,29000,Lake
+1927,4,Essendon,Melbourne,3,1,3,1,2,5,1,4,8,12,60,3,2,3,3,4,4,3,1,11,12,78,Melbourne,18,21-05-1927,20000,Windy
+1927,4,Fitzroy,St Kilda,4,3,4,2,2,4,3,5,13,14,92,3,3,2,3,3,2,2,2,11,9,75,Fitzroy,17,21-05-1927,16000,Brunswick
+1927,4,Richmond,Footscray,2,4,5,2,3,10,6,3,13,22,100,0,2,0,1,0,2,3,7,3,12,30,Richmond,70,21-05-1927,14000,Punt
+1927,4,Hawthorn,North Melbourne,3,2,2,1,2,3,2,1,8,8,56,3,4,8,5,6,3,2,2,20,13,133,North Melbourne,77,21-05-1927,8000,Glenferrie
+1927,5,Carlton,Hawthorn,6,3,3,2,4,0,6,2,14,12,96,1,3,1,1,0,10,0,6,6,16,52,Carlton,44,28-05-1927,10000,Princes
+1927,5,Collingwood,Fitzroy,6,1,8,3,9,2,1,3,18,15,123,3,4,1,1,1,2,1,1,9,5,59,Collingwood,64,28-05-1927,16000,Victoria
+1927,5,St Kilda,Essendon,2,6,0,6,1,4,0,2,14,7,91,2,2,6,2,5,0,4,1,12,10,82,St Kilda,9,28-05-1927,16000,Junction
+1927,5,Footscray,South Melbourne,2,2,2,1,4,0,6,3,7,13,55,0,3,2,1,1,7,3,2,6,13,49,Footscray,6,28-05-1927,10000,Western
+1927,5,Melbourne,Geelong,2,2,3,0,7,1,5,3,7,16,58,1,3,3,5,4,4,1,4,12,13,85,Geelong,27,28-05-1927,18320,M.C.G.
+1927,5,North Melbourne,Richmond,1,2,1,1,3,4,1,0,5,8,38,1,3,4,4,5,0,4,2,12,11,83,Richmond,45,28-05-1927,18000,Arden
+1927,6,Essendon,Collingwood,1,2,3,1,3,2,2,0,7,7,49,3,1,2,1,4,3,3,4,7,14,56,Collingwood,7,04-06-1927,25000,Windy
+1927,6,Geelong,St Kilda,4,2,4,2,6,2,7,2,12,17,89,0,3,2,6,0,4,0,0,11,4,70,Geelong,19,04-06-1927,14500,Corio
+1927,6,Hawthorn,Melbourne,2,3,3,4,0,6,0,2,12,8,80,5,2,7,3,2,1,5,2,17,10,112,Melbourne,32,04-06-1927,10000,Glenferrie
+1927,6,Richmond,Carlton,4,1,5,2,3,2,10,3,12,18,90,3,5,4,5,2,2,0,4,17,8,110,Carlton,20,06-06-1927,42000,Punt
+1927,6,Fitzroy,Footscray,3,2,2,1,6,1,1,5,8,13,61,1,7,3,2,1,3,6,3,13,13,91,Footscray,30,06-06-1927,15000,Brunswick
+1927,6,South Melbourne,North Melbourne,6,5,2,1,6,2,3,2,14,13,97,1,4,0,4,1,0,3,5,9,9,63,South Melbourne,34,06-06-1927,25000,Lake
+1927,7,Carlton,Footscray,2,1,3,4,3,0,1,2,10,6,66,1,1,1,3,5,1,2,4,6,12,48,Carlton,18,11-06-1927,22000,Princes
+1927,7,Collingwood,St Kilda,4,7,4,10,5,1,5,8,25,19,169,3,1,2,1,3,4,6,2,7,15,57,Collingwood,112,11-06-1927,16000,Victoria
+1927,7,Essendon,Geelong,2,2,0,5,0,1,5,4,9,10,64,2,3,3,3,3,4,1,3,11,11,77,Geelong,13,11-06-1927,16000,Windy
+1927,7,Hawthorn,Fitzroy,3,2,2,4,2,3,3,3,11,11,77,6,2,3,4,2,1,3,7,15,13,103,Fitzroy,26,11-06-1927,7000,Glenferrie
+1927,7,Melbourne,North Melbourne,4,1,3,7,7,5,4,5,15,21,111,0,2,0,1,2,1,4,2,3,9,27,Melbourne,84,11-06-1927,12075,M.C.G.
+1927,7,South Melbourne,Richmond,3,0,4,3,4,2,2,3,10,11,71,5,2,5,3,5,6,1,5,15,17,107,Richmond,36,11-06-1927,25000,Lake
+1927,8,North Melbourne,Carlton,0,2,1,1,2,1,3,5,4,11,35,3,3,3,0,4,2,5,4,9,15,69,Carlton,34,18-06-1927,15000,Arden
+1927,8,Footscray,Collingwood,0,2,0,2,0,3,0,9,4,12,36,3,1,3,0,4,0,11,1,7,16,58,Collingwood,22,18-06-1927,17000,Western
+1927,8,Richmond,Essendon,5,2,5,3,6,3,2,1,15,12,102,2,3,1,5,0,8,0,5,11,13,79,Richmond,23,18-06-1927,25000,Punt
+1927,8,Fitzroy,South Melbourne,3,3,4,4,2,6,3,0,14,11,95,3,3,2,3,6,1,4,3,11,14,80,Fitzroy,15,18-06-1927,10000,Brunswick
+1927,8,Geelong,Hawthorn,3,5,5,9,2,10,2,9,22,23,155,5,0,3,0,4,0,2,2,8,8,56,Geelong,99,18-06-1927,8500,Corio
+1927,8,St Kilda,Melbourne,5,0,3,0,2,1,2,2,8,7,55,1,8,3,3,1,5,2,7,15,15,105,Melbourne,50,18-06-1927,14000,Junction
+1927,9,Collingwood,Carlton,6,2,4,1,1,2,1,1,13,5,83,4,3,4,3,0,5,2,4,14,11,95,Carlton,12,25-06-1927,33000,Victoria
+1927,9,Essendon,South Melbourne,2,3,5,2,5,5,0,2,12,12,84,3,5,3,4,3,2,1,3,15,9,99,South Melbourne,15,25-06-1927,17000,Windy
+1927,9,Geelong,Fitzroy,2,6,2,2,2,5,4,4,12,15,87,4,3,3,2,4,1,2,1,12,8,80,Geelong,7,25-06-1927,13500,Corio
+1927,9,Melbourne,Footscray,2,3,4,1,2,4,5,2,10,13,73,4,1,2,0,2,2,2,3,7,9,51,Melbourne,22,25-06-1927,15171,M.C.G.
+1927,9,Hawthorn,Richmond,6,1,1,1,2,2,1,1,9,6,60,3,2,2,2,5,5,4,6,9,20,74,Richmond,14,25-06-1927,10000,Glenferrie
+1927,9,St Kilda,North Melbourne,6,4,4,1,1,2,3,1,15,7,97,2,4,4,3,2,2,1,5,13,10,88,St Kilda,9,25-06-1927,13000,Junction
+1927,10,Carlton,Melbourne,1,0,3,4,3,1,1,2,8,7,55,5,0,2,3,3,3,2,2,10,10,70,Melbourne,15,02-07-1927,13000,Princes
+1927,10,Collingwood,North Melbourne,1,1,3,3,1,2,5,3,8,11,59,1,0,1,1,4,2,1,4,3,11,29,Collingwood,30,02-07-1927,7000,Victoria
+1927,10,Essendon,Fitzroy,2,1,1,2,2,3,2,5,6,12,48,2,2,3,0,2,4,0,0,7,6,48,Match drawn,0,02-07-1927,7000,Windy
+1927,10,Footscray,St Kilda,0,2,0,1,5,4,2,1,3,12,30,1,0,3,1,5,3,2,3,5,13,43,St Kilda,13,02-07-1927,7000,Western
+1927,10,Richmond,Geelong,2,2,2,3,6,0,5,4,9,15,69,2,4,0,1,1,3,0,7,7,11,53,Richmond,16,02-07-1927,15000,Punt
+1927,10,South Melbourne,Hawthorn,4,1,5,3,8,5,3,3,13,19,97,2,1,1,1,1,2,4,4,5,11,41,South Melbourne,56,02-07-1927,5000,Lake
+1927,11,St Kilda,Carlton,0,2,2,2,1,1,3,3,6,8,44,6,4,5,6,4,2,1,2,21,9,135,Carlton,91,09-07-1927,19000,Junction
+1927,11,Melbourne,Collingwood,3,2,2,3,8,0,2,2,10,12,72,1,5,4,1,1,6,3,3,11,13,79,Collingwood,7,09-07-1927,27092,M.C.G.
+1927,11,Hawthorn,Essendon,5,0,1,3,2,6,7,2,9,17,71,5,4,1,1,2,7,1,2,11,12,78,Essendon,7,09-07-1927,6000,Glenferrie
+1927,11,Fitzroy,Richmond,2,3,1,2,2,0,2,3,8,7,55,3,1,7,6,4,2,1,2,17,9,111,Richmond,56,09-07-1927,18000,Brunswick
+1927,11,North Melbourne,Footscray,2,2,3,2,6,7,3,2,9,18,72,5,8,0,2,4,2,0,4,15,10,100,Footscray,28,09-07-1927,12000,Arden
+1927,11,Geelong,South Melbourne,0,4,5,1,1,3,6,2,10,12,72,2,1,3,3,6,1,1,4,9,12,66,Geelong,6,09-07-1927,13500,Corio
+1927,12,South Melbourne,Carlton,2,3,3,4,1,3,2,2,12,8,80,4,2,0,2,10,5,4,2,8,21,69,South Melbourne,11,16-07-1927,28000,Lake
+1927,12,Geelong,Collingwood,1,1,3,2,1,2,2,2,7,7,49,2,3,2,2,2,3,4,2,9,11,65,Collingwood,16,16-07-1927,21500,Corio
+1927,12,Essendon,Footscray,2,2,4,4,8,3,5,3,12,19,91,2,4,2,0,1,5,0,3,8,9,57,Essendon,34,16-07-1927,18000,Windy
+1927,12,Fitzroy,North Melbourne,3,5,5,1,2,1,1,1,14,5,89,0,3,3,4,2,7,3,2,10,14,74,Fitzroy,15,16-07-1927,8000,Brunswick
+1927,12,Hawthorn,St Kilda,1,0,5,1,1,4,5,2,7,12,54,0,5,0,3,3,4,0,4,8,11,59,St Kilda,5,16-07-1927,5000,Glenferrie
+1927,12,Richmond,Melbourne,4,1,1,4,2,5,6,2,10,15,75,0,1,1,4,2,3,2,1,6,8,44,Richmond,31,16-07-1927,35000,Punt
+1927,13,Carlton,Fitzroy,5,3,3,0,2,3,4,1,11,10,76,2,0,2,5,3,4,5,4,9,16,70,Carlton,6,23-07-1927,21000,Princes
+1927,13,Collingwood,Hawthorn,6,4,1,7,0,5,4,4,18,13,121,1,3,2,0,3,2,5,1,6,11,47,Collingwood,74,23-07-1927,7000,Victoria
+1927,13,North Melbourne,Essendon,1,3,0,3,0,3,3,2,7,8,50,2,1,2,2,2,4,4,2,7,12,54,Essendon,4,23-07-1927,9000,Arden
+1927,13,Footscray,Geelong,3,0,3,3,1,0,5,0,9,6,60,1,5,1,3,3,8,1,7,10,19,79,Geelong,19,23-07-1927,12500,Western
+1927,13,Melbourne,South Melbourne,5,6,2,7,5,9,1,5,20,20,140,1,2,4,4,0,1,4,0,11,5,71,Melbourne,69,23-07-1927,23668,M.C.G.
+1927,13,St Kilda,Richmond,2,2,3,2,2,6,4,5,9,17,71,6,5,3,2,8,3,3,0,16,14,110,Richmond,39,23-07-1927,16000,Junction
+1927,14,Essendon,Carlton,2,5,1,0,3,2,6,4,8,15,63,3,2,4,1,2,2,1,6,10,11,71,Carlton,8,30-07-1927,20000,Windy
+1927,14,Richmond,Collingwood,3,0,4,2,5,0,1,1,9,7,61,1,4,1,6,2,8,0,2,12,12,84,Collingwood,23,30-07-1927,38000,Punt
+1927,14,Fitzroy,Melbourne,5,5,2,1,5,3,1,2,13,11,89,3,2,3,3,0,1,5,5,11,11,77,Fitzroy,12,30-07-1927,15500,Brunswick
+1927,14,Hawthorn,Footscray,1,5,1,1,3,11,3,2,8,19,67,3,2,2,4,5,2,5,7,11,19,85,Footscray,18,30-07-1927,5000,Glenferrie
+1927,14,Geelong,North Melbourne,2,5,2,8,2,10,3,6,17,21,123,1,0,1,1,4,1,4,2,3,11,29,Geelong,94,30-07-1927,11000,Corio
+1927,14,South Melbourne,St Kilda,3,5,2,3,3,5,6,6,13,20,98,0,3,0,5,2,2,2,3,8,9,57,South Melbourne,41,30-07-1927,14000,Lake
+1927,15,Carlton,Geelong,5,1,3,1,0,0,5,1,10,6,66,4,4,3,2,2,9,1,8,13,20,98,Geelong,32,06-08-1927,30000,Princes
+1927,15,Collingwood,South Melbourne,3,1,7,7,2,5,2,5,18,14,122,3,0,3,0,5,1,1,0,6,7,43,Collingwood,79,06-08-1927,15000,Victoria
+1927,15,Melbourne,Essendon,7,7,3,3,1,7,4,8,20,20,140,2,0,4,2,0,0,2,0,8,2,50,Melbourne,90,06-08-1927,15895,M.C.G.
+1927,15,St Kilda,Fitzroy,3,3,3,4,1,8,2,0,13,11,89,3,2,4,2,4,1,6,5,11,16,82,St Kilda,7,06-08-1927,10000,Junction
+1927,15,Footscray,Richmond,2,1,2,2,3,2,3,0,7,8,50,2,4,0,5,2,6,6,1,11,15,81,Richmond,31,06-08-1927,15500,Western
+1927,15,North Melbourne,Hawthorn,4,3,3,1,4,0,2,4,11,10,76,0,4,3,8,3,5,1,0,15,9,99,Hawthorn,23,06-08-1927,4000,Arden
+1927,16,Hawthorn,Carlton,2,6,1,1,0,4,1,5,10,10,70,5,2,2,5,1,3,5,5,14,14,98,Carlton,28,27-08-1927,8000,Glenferrie
+1927,16,Fitzroy,Collingwood,4,1,7,2,2,1,3,5,14,11,95,4,6,2,1,2,4,3,1,13,10,88,Fitzroy,7,27-08-1927,25000,Brunswick
+1927,16,Essendon,St Kilda,3,1,3,2,4,3,6,5,9,18,72,2,2,1,2,1,4,0,1,7,6,48,Essendon,24,27-08-1927,9000,Windy
+1927,16,South Melbourne,Footscray,3,2,3,1,2,5,7,6,9,20,74,1,5,1,3,2,3,2,3,10,10,70,South Melbourne,4,27-08-1927,9000,Lake
+1927,16,Geelong,Melbourne,3,3,5,2,3,2,2,1,13,8,86,2,3,1,3,2,1,1,3,9,7,61,Geelong,25,27-08-1927,17200,Corio
+1927,16,Richmond,North Melbourne,4,3,5,2,4,1,7,3,14,15,99,3,3,1,2,4,4,0,0,9,8,62,Richmond,37,27-08-1927,10000,Punt
+1927,17,Carlton,Richmond,3,0,0,1,2,2,2,0,4,6,30,1,0,1,1,1,2,1,1,3,5,23,Carlton,7,03-09-1927,30000,Princes
+1927,17,Collingwood,Essendon,0,0,1,2,1,3,4,5,3,13,31,2,1,1,0,2,2,2,0,4,6,30,Collingwood,1,03-09-1927,8000,Victoria
+1927,17,Footscray,Fitzroy,6,1,8,0,8,0,3,0,15,11,101,0,3,0,6,0,8,0,10,9,18,72,Footscray,29,03-09-1927,8000,Western
+1927,17,St Kilda,Geelong,0,5,0,4,1,7,1,9,9,18,72,1,1,5,1,12,0,9,1,8,22,70,St Kilda,2,03-09-1927,8000,Junction
+1927,17,Melbourne,Hawthorn,2,3,4,1,6,1,3,3,10,13,73,0,0,0,3,3,2,3,7,3,15,33,Melbourne,40,03-09-1927,5268,M.C.G.
+1927,17,North Melbourne,South Melbourne,0,4,0,4,2,5,0,5,8,12,60,3,1,6,1,3,2,4,3,11,12,78,South Melbourne,18,03-09-1927,5000,Arden
+1927,18,Carlton,St Kilda,3,2,5,5,3,4,4,5,15,16,106,1,4,0,2,3,2,3,1,7,9,51,Carlton,55,10-09-1927,24000,Princes
+1927,18,North Melbourne,Collingwood,0,6,0,1,1,5,2,6,7,14,56,4,1,5,1,6,2,7,1,11,16,82,Collingwood,26,10-09-1927,11000,Arden
+1927,18,Fitzroy,Essendon,1,2,1,1,2,3,2,6,5,13,43,5,2,5,2,2,2,6,0,14,10,94,Essendon,51,10-09-1927,11000,Brunswick
+1927,18,Footscray,Melbourne,1,3,2,4,2,2,1,1,10,6,66,4,2,4,0,2,2,6,3,10,13,73,Melbourne,7,10-09-1927,11000,Western
+1927,18,South Melbourne,Geelong,4,5,1,4,2,4,3,2,14,11,95,2,1,10,2,4,3,2,6,15,15,105,Geelong,10,10-09-1927,15000,Lake
+1927,18,Richmond,Hawthorn,5,3,4,4,7,5,8,3,16,23,119,2,2,0,2,2,6,5,4,6,17,53,Richmond,66,10-09-1927,11000,Punt
+1927,SF,Richmond,Carlton,4,2,4,2,3,3,1,3,12,10,82,2,5,1,3,2,5,3,0,11,10,76,Richmond,6,17-09-1927,63620,M.C.G.
+1927,SF,Collingwood,Geelong,5,4,4,3,6,4,5,3,16,18,114,1,0,1,5,0,2,2,2,7,6,48,Collingwood,66,24-09-1927,40595,M.C.G.
+1927,GF,Collingwood,Richmond,0,2,0,0,1,5,3,4,2,13,25,0,0,0,1,4,0,3,0,1,7,13,Collingwood,12,01-10-1927,34551,M.C.G.

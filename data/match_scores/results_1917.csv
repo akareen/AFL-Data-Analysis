@@ -1,0 +1,50 @@
+Year,Round,Home Team,Away Team,H Goals 1st,H Goals 2nd,H Goals 3rd,H Goals 4th,H Behind 1st,H Behind 2nd,H Behind 3rd,H Behind 4th,H Total Goals,H Total Behind,H Total Score,A Goals 1st,A Goals 2nd,A Goals 3rd,A Goals 4th,A Behind 1st,A Behind 2nd,A Behind 3rd,A Behind 4th,A Total Goals,A Total Behind,A Total Score,Winning Team,Margin,Date,Attendance,Venue
+1917,1,Fitzroy,Carlton,1,2,2,1,2,2,4,1,6,9,45,1,2,3,0,3,0,4,2,6,9,45,Match drawn,0,12-05-1917,0,Brunswick
+1917,1,Collingwood,Richmond,4,2,1,4,3,4,2,2,11,11,77,3,1,0,0,0,0,2,2,4,4,28,Collingwood,49,12-05-1917,0,Victoria
+1917,1,South Melbourne,Geelong,2,1,5,1,3,5,7,3,9,18,72,2,1,0,1,4,4,1,5,4,14,38,South Melbourne,34,12-05-1917,0,Lake
+1917,2,Carlton,Collingwood,3,3,2,5,1,5,0,1,13,7,85,4,2,2,0,2,1,2,1,8,6,54,Carlton,31,19-05-1917,0,Princes
+1917,2,Geelong,Fitzroy,3,2,0,1,3,3,2,2,6,10,46,0,1,4,3,4,4,5,3,8,16,64,Fitzroy,18,19-05-1917,0,Corio
+1917,2,Richmond,South Melbourne,2,1,1,2,6,5,4,1,6,16,52,1,5,2,0,4,3,2,7,8,16,64,South Melbourne,12,19-05-1917,0,Punt
+1917,3,South Melbourne,Carlton,2,1,1,1,5,3,4,4,5,16,46,1,1,1,0,2,3,3,5,3,13,31,South Melbourne,15,26-05-1917,0,Lake
+1917,3,Fitzroy,Collingwood,1,3,3,1,1,3,6,4,8,14,62,1,6,3,1,4,1,5,2,11,12,78,Collingwood,16,26-05-1917,0,Brunswick
+1917,3,Richmond,Geelong,5,4,1,4,1,0,1,4,14,6,90,0,3,2,1,2,4,6,4,6,16,52,Richmond,38,26-05-1917,0,Punt
+1917,4,Collingwood,South Melbourne,3,1,1,3,5,5,6,2,8,18,66,2,1,3,0,1,2,3,3,6,9,45,Collingwood,21,02-06-1917,0,Victoria
+1917,4,Carlton,Geelong,0,1,4,0,1,6,3,2,5,12,42,3,1,1,1,3,1,1,2,6,7,43,Geelong,1,04-06-1917,0,Princes
+1917,4,Fitzroy,Richmond,0,1,2,3,2,5,3,3,6,13,49,0,1,3,1,2,2,1,3,5,8,38,Fitzroy,11,04-06-1917,0,Brunswick
+1917,5,Carlton,Richmond,4,3,3,4,2,5,2,4,14,13,97,1,1,3,2,4,0,5,2,7,11,53,Carlton,44,09-06-1917,0,Princes
+1917,5,Geelong,Collingwood,3,1,2,0,3,1,3,0,6,7,43,1,4,0,3,1,2,1,5,8,9,57,Collingwood,14,09-06-1917,0,Corio
+1917,5,South Melbourne,Fitzroy,0,2,1,2,8,6,5,1,5,20,50,1,1,1,5,3,1,1,2,8,7,55,Fitzroy,5,09-06-1917,0,Lake
+1917,6,Carlton,Fitzroy,2,1,0,1,1,8,5,3,4,17,41,3,0,3,2,6,0,2,1,8,9,57,Fitzroy,16,16-06-1917,0,Princes
+1917,6,Richmond,Collingwood,3,1,1,2,1,1,4,2,7,8,50,0,2,3,1,4,4,4,2,6,14,50,Match drawn,0,16-06-1917,0,Punt
+1917,6,Geelong,South Melbourne,1,2,2,1,6,1,7,0,6,14,50,1,1,1,3,1,5,1,4,6,11,47,Geelong,3,16-06-1917,0,Corio
+1917,7,Collingwood,Carlton,2,5,2,4,4,4,3,3,13,14,92,2,3,1,2,2,1,2,2,8,7,55,Collingwood,37,23-06-1917,0,Victoria
+1917,7,Fitzroy,Geelong,1,2,2,3,0,2,1,1,8,4,52,1,4,2,2,4,3,2,2,9,11,65,Geelong,13,23-06-1917,0,Brunswick
+1917,7,South Melbourne,Richmond,3,1,3,2,5,2,5,5,9,17,71,1,3,0,2,1,2,0,0,6,3,39,South Melbourne,32,23-06-1917,0,Lake
+1917,8,Carlton,South Melbourne,1,3,1,4,2,4,2,3,9,11,65,3,0,4,0,2,4,6,0,7,12,54,Carlton,11,30-06-1917,0,Princes
+1917,8,Collingwood,Fitzroy,1,4,2,4,2,1,5,3,11,11,77,1,3,2,4,4,2,5,3,10,14,74,Collingwood,3,30-06-1917,0,Victoria
+1917,8,Geelong,Richmond,4,4,0,3,5,2,4,4,11,15,81,0,2,2,1,0,1,0,3,5,4,34,Geelong,47,30-06-1917,0,Corio
+1917,9,Geelong,Carlton,2,0,1,0,2,2,6,1,3,11,29,0,0,3,1,2,6,0,2,4,10,34,Carlton,5,07-07-1917,0,Corio
+1917,9,South Melbourne,Collingwood,4,2,2,5,3,3,4,2,13,12,90,2,2,4,2,1,8,0,4,10,13,73,South Melbourne,17,07-07-1917,0,Lake
+1917,9,Richmond,Fitzroy,2,1,3,7,1,3,3,2,13,9,87,0,0,4,1,3,3,2,0,5,8,38,Richmond,49,07-07-1917,0,Punt
+1917,10,Richmond,Carlton,3,0,2,1,4,0,3,3,6,10,46,0,6,0,1,2,1,3,3,7,9,51,Carlton,5,14-07-1917,0,Punt
+1917,10,Collingwood,Geelong,3,2,4,1,3,5,4,7,10,19,79,0,0,2,0,4,2,0,5,2,11,23,Collingwood,56,14-07-1917,0,Victoria
+1917,10,Fitzroy,South Melbourne,1,1,2,5,0,1,5,4,9,10,64,1,2,3,2,4,3,1,1,8,9,57,Fitzroy,7,14-07-1917,0,Brunswick
+1917,11,Fitzroy,Carlton,3,0,1,1,2,4,7,2,5,15,45,2,2,2,2,3,3,0,5,8,11,59,Carlton,14,21-07-1917,0,Brunswick
+1917,11,Collingwood,Richmond,4,2,3,2,10,2,5,2,11,19,85,0,3,1,3,0,3,1,3,7,7,49,Collingwood,36,21-07-1917,0,Victoria
+1917,11,South Melbourne,Geelong,4,2,6,2,3,3,7,1,14,14,98,2,2,0,2,3,5,3,2,6,13,49,South Melbourne,49,21-07-1917,0,Lake
+1917,12,Carlton,Collingwood,1,0,2,1,5,3,4,1,4,13,37,1,0,1,1,2,4,0,2,3,8,26,Carlton,11,28-07-1917,0,Princes
+1917,12,Geelong,Fitzroy,3,5,1,1,1,1,0,1,10,3,63,3,2,4,3,3,2,2,3,12,10,82,Fitzroy,19,28-07-1917,0,Corio
+1917,12,Richmond,South Melbourne,0,3,0,2,4,4,0,3,5,11,41,1,1,5,0,3,3,4,4,7,14,56,South Melbourne,15,28-07-1917,0,Punt
+1917,13,South Melbourne,Carlton,3,1,3,1,1,2,3,1,8,7,55,0,1,1,4,2,6,4,2,6,14,50,South Melbourne,5,11-08-1917,0,Lake
+1917,13,Fitzroy,Collingwood,2,1,1,3,0,1,1,1,7,3,45,3,3,4,4,8,2,4,3,14,17,101,Collingwood,56,11-08-1917,0,Brunswick
+1917,13,Richmond,Geelong,1,3,0,1,5,0,3,4,5,12,42,2,3,1,1,2,2,4,0,7,8,50,Geelong,8,11-08-1917,0,Punt
+1917,14,Geelong,Carlton,0,2,1,2,0,4,1,3,5,8,38,5,2,2,1,6,0,5,0,10,11,71,Carlton,33,18-08-1917,0,Corio
+1917,14,Collingwood,South Melbourne,2,1,3,0,8,4,2,2,6,16,52,0,0,0,2,2,2,3,2,2,9,21,Collingwood,31,18-08-1917,0,Victoria
+1917,14,Richmond,Fitzroy,2,2,4,2,0,4,3,4,10,11,71,2,1,3,1,7,3,1,0,7,11,53,Richmond,18,18-08-1917,0,Punt
+1917,15,Carlton,Richmond,4,4,2,2,0,4,0,4,12,8,80,1,1,1,1,2,3,6,6,4,17,41,Carlton,39,25-08-1917,0,Princes
+1917,15,Geelong,Collingwood,4,0,3,1,6,7,2,2,8,17,65,1,3,3,2,3,2,3,1,9,9,63,Geelong,2,25-08-1917,0,Corio
+1917,15,South Melbourne,Fitzroy,5,0,3,4,1,4,4,4,12,13,85,1,2,4,0,1,2,0,2,7,5,47,South Melbourne,38,25-08-1917,0,Lake
+1917,SF,Carlton,Fitzroy,3,0,1,2,0,1,5,2,6,8,44,2,2,1,1,4,5,2,6,6,17,53,Fitzroy,9,01-09-1917,15005,M.C.G.
+1917,SF,Collingwood,South Melbourne,2,1,8,2,4,5,4,4,13,17,95,0,2,0,1,2,3,1,11,3,17,35,Collingwood,60,08-09-1917,16505,M.C.G.
+1917,PF,Collingwood,Fitzroy,2,2,1,2,1,2,3,4,7,10,52,1,2,2,3,4,2,1,3,8,10,58,Fitzroy,6,15-09-1917,22786,M.C.G.
+1917,GF,Collingwood,Fitzroy,2,1,3,3,6,2,6,6,9,20,74,1,1,1,2,0,2,2,5,5,9,39,Collingwood,35,22-09-1917,28512,M.C.G.

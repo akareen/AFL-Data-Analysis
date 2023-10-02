@@ -1,0 +1,113 @@
+Year,Round,Home Team,Away Team,H Goals 1st,H Goals 2nd,H Goals 3rd,H Goals 4th,H Behind 1st,H Behind 2nd,H Behind 3rd,H Behind 4th,H Total Goals,H Total Behind,H Total Score,A Goals 1st,A Goals 2nd,A Goals 3rd,A Goals 4th,A Behind 1st,A Behind 2nd,A Behind 3rd,A Behind 4th,A Total Goals,A Total Behind,A Total Score,Winning Team,Margin,Date,Attendance,Venue
+1967,1,Fitzroy,Carlton,0,2,2,1,0,3,1,2,5,6,36,4,8,4,2,4,4,6,8,18,22,130,Carlton,94,15-04-1967,24121,Princes
+1967,1,Geelong,Collingwood,3,4,3,3,1,4,3,5,13,13,91,2,4,3,4,4,3,3,2,13,12,90,Geelong,1,15-04-1967,35151,Kardinia
+1967,1,Richmond,Essendon,3,1,5,6,7,4,5,4,15,20,110,0,4,2,5,3,2,1,3,11,9,75,Richmond,35,15-04-1967,56387,M.C.G.
+1967,1,St Kilda,Footscray,0,8,5,9,5,7,1,0,22,13,145,3,1,4,1,6,1,2,1,9,10,64,St Kilda,81,15-04-1967,28564,Moorabbin
+1967,1,Hawthorn,South Melbourne,3,4,7,6,3,3,2,4,20,12,132,3,3,4,5,6,2,1,3,15,12,102,Hawthorn,30,15-04-1967,17294,Glenferrie
+1967,1,North Melbourne,Melbourne,3,2,3,0,3,5,4,2,8,14,62,2,1,3,3,3,4,1,5,9,13,67,Melbourne,5,15-04-1967,13690,Arden
+1967,2,Carlton,Hawthorn,2,4,4,2,6,1,4,5,12,16,88,2,0,1,3,2,1,4,1,6,8,44,Carlton,44,22-04-1967,25678,Princes
+1967,2,Collingwood,North Melbourne,3,5,6,2,6,5,2,4,16,17,113,1,2,1,3,1,3,1,3,7,8,50,Collingwood,63,22-04-1967,23515,Victoria
+1967,2,Essendon,St Kilda,2,1,3,1,3,2,0,6,7,11,53,3,3,0,2,2,0,5,1,8,8,56,St Kilda,3,22-04-1967,26130,Windy
+1967,2,South Melbourne,Fitzroy,3,3,4,5,3,4,2,4,15,13,103,0,3,4,3,2,0,1,2,10,5,65,South Melbourne,38,22-04-1967,11620,Lake
+1967,2,Footscray,Richmond,2,6,0,4,0,2,1,3,12,6,78,3,1,1,3,7,2,12,1,8,22,70,Footscray,8,22-04-1967,19286,Western
+1967,2,Melbourne,Geelong,1,3,3,2,3,2,2,1,9,8,62,6,2,3,3,1,2,3,5,14,11,95,Geelong,33,22-04-1967,37959,M.C.G.
+1967,3,Carlton,North Melbourne,2,1,6,1,6,3,0,4,10,13,73,4,1,3,0,2,2,2,3,8,9,57,Carlton,16,29-04-1967,19041,Princes
+1967,3,Essendon,Collingwood,4,1,2,1,1,2,3,0,8,6,54,4,2,2,2,4,4,3,5,10,16,76,Collingwood,22,29-04-1967,34633,Windy
+1967,3,Richmond,Fitzroy,2,3,4,2,3,2,5,2,11,12,78,2,2,1,2,3,1,5,2,7,11,53,Richmond,25,29-04-1967,20938,M.C.G.
+1967,3,Footscray,South Melbourne,2,1,1,2,1,0,1,3,6,5,41,1,1,6,3,5,4,4,0,11,13,79,South Melbourne,38,29-04-1967,18283,Western
+1967,3,Geelong,Hawthorn,2,3,3,3,4,5,2,4,11,15,81,1,1,2,3,1,1,2,1,7,5,47,Geelong,34,29-04-1967,17227,Kardinia
+1967,3,St Kilda,Melbourne,1,3,2,3,2,5,2,4,9,13,67,3,0,6,1,3,2,2,2,10,9,69,Melbourne,2,29-04-1967,27760,Moorabbin
+1967,4,Melbourne,Carlton,0,2,2,1,1,6,2,6,5,15,45,7,1,5,3,2,1,4,1,16,8,104,Carlton,59,06-05-1967,48513,M.C.G.
+1967,4,Collingwood,Footscray,2,2,2,7,4,4,5,4,13,17,95,2,2,1,0,2,0,4,1,5,7,37,Collingwood,58,06-05-1967,21885,Victoria
+1967,4,South Melbourne,Essendon,5,6,3,4,5,1,8,5,18,19,127,4,3,1,5,1,3,3,3,13,10,88,South Melbourne,39,06-05-1967,18803,Lake
+1967,4,Fitzroy,Geelong,1,4,4,0,2,3,4,1,9,10,64,6,3,5,8,2,3,5,3,22,13,145,Geelong,81,06-05-1967,9747,Princes
+1967,4,Hawthorn,St Kilda,2,4,1,3,0,1,2,3,10,6,66,2,5,6,2,4,2,2,3,15,11,101,St Kilda,35,06-05-1967,20352,Glenferrie
+1967,4,North Melbourne,Richmond,2,2,3,3,2,3,1,2,10,8,68,4,2,4,1,3,7,9,3,11,22,88,Richmond,20,06-05-1967,12750,Arden
+1967,5,St Kilda,Carlton,4,2,3,2,3,2,2,2,11,9,75,0,6,3,2,4,6,1,3,11,14,80,Carlton,5,13-05-1967,44382,Moorabbin
+1967,5,Collingwood,South Melbourne,3,2,3,5,6,7,8,4,13,25,103,1,2,1,3,3,5,4,3,7,15,57,Collingwood,46,13-05-1967,33714,Victoria
+1967,5,Essendon,Geelong,3,1,3,1,0,5,5,3,8,13,61,3,3,1,3,3,3,1,5,10,12,72,Geelong,11,13-05-1967,24101,Windy
+1967,5,Fitzroy,North Melbourne,3,2,0,4,2,3,0,1,9,6,60,6,4,1,2,3,5,4,1,13,13,91,North Melbourne,31,13-05-1967,9879,Princes
+1967,5,Footscray,Melbourne,4,2,4,2,6,2,1,2,12,11,83,2,4,0,6,1,3,4,2,12,10,82,Footscray,1,13-05-1967,15818,Western
+1967,5,Richmond,Hawthorn,5,2,3,6,6,4,4,8,16,22,118,1,2,2,0,4,6,1,2,5,13,43,Richmond,75,13-05-1967,27175,M.C.G.
+1967,6,Carlton,Collingwood,2,2,5,1,1,0,5,7,10,13,73,1,4,1,3,6,4,1,2,9,13,67,Carlton,6,20-05-1967,43599,Princes
+1967,6,Footscray,Essendon,0,4,0,0,0,3,1,3,4,7,31,4,1,4,2,9,0,4,0,11,13,79,Essendon,48,20-05-1967,21278,Western
+1967,6,Melbourne,Fitzroy,3,3,5,2,2,7,3,3,13,15,93,2,0,3,2,1,3,4,1,7,9,51,Melbourne,42,20-05-1967,17582,M.C.G.
+1967,6,Geelong,South Melbourne,3,7,4,2,2,6,1,3,16,12,108,3,2,6,2,7,0,3,1,13,11,89,Geelong,19,20-05-1967,21565,Kardinia
+1967,6,Hawthorn,North Melbourne,1,2,2,2,0,3,3,3,7,9,51,2,2,4,2,3,4,3,3,10,13,73,North Melbourne,22,20-05-1967,10363,Glenferrie
+1967,6,St Kilda,Richmond,3,4,0,2,0,2,1,1,9,4,58,4,2,3,5,5,3,7,0,14,15,99,Richmond,41,20-05-1967,32342,Moorabbin
+1967,7,South Melbourne,Carlton,2,0,5,4,3,3,1,5,11,12,78,2,5,2,2,2,3,2,5,11,12,78,Match drawn,0,27-05-1967,21830,Lake
+1967,7,Collingwood,St Kilda,1,6,7,2,7,4,5,4,16,20,116,3,5,2,4,3,5,3,3,14,14,98,Collingwood,18,27-05-1967,31877,Victoria
+1967,7,Essendon,Melbourne,5,1,2,2,3,3,2,4,10,12,72,1,2,1,2,3,3,2,2,6,10,46,Essendon,26,27-05-1967,17565,Windy
+1967,7,Fitzroy,Hawthorn,0,1,2,6,3,4,2,3,9,12,66,3,3,7,3,4,4,3,3,16,14,110,Hawthorn,44,27-05-1967,7608,Princes
+1967,7,North Melbourne,Footscray,1,2,1,3,3,3,2,5,7,13,55,0,2,2,2,4,2,0,0,6,6,42,North Melbourne,13,27-05-1967,10280,Arden
+1967,7,Richmond,Geelong,4,4,8,2,3,2,3,3,18,11,119,4,4,1,3,4,1,2,2,12,9,81,Richmond,38,27-05-1967,50348,M.C.G.
+1967,8,Carlton,Geelong,3,0,6,2,5,6,4,4,11,19,85,1,3,4,4,3,2,0,4,12,9,81,Carlton,4,03-06-1967,30481,Princes
+1967,8,Richmond,Collingwood,5,3,2,3,2,2,0,1,13,5,83,4,4,4,1,1,2,5,4,13,12,90,Collingwood,7,03-06-1967,71946,M.C.G.
+1967,8,North Melbourne,Essendon,5,4,2,1,3,8,1,4,12,16,88,4,3,4,2,0,3,7,0,13,10,88,Match drawn,0,03-06-1967,16119,Arden
+1967,8,Footscray,Fitzroy,2,2,2,1,3,7,4,1,7,15,57,3,4,2,3,2,3,3,1,12,9,81,Fitzroy,24,03-06-1967,11727,Western
+1967,8,Hawthorn,Melbourne,7,1,4,0,3,1,1,3,12,8,80,0,7,5,6,6,7,2,2,18,17,125,Melbourne,45,03-06-1967,13772,Glenferrie
+1967,8,South Melbourne,St Kilda,8,2,5,5,4,6,5,3,20,18,138,3,2,4,5,5,6,9,5,14,25,109,South Melbourne,29,03-06-1967,26481,Lake
+1967,9,Collingwood,Fitzroy,6,4,1,8,4,3,8,5,19,20,134,0,0,2,2,5,2,2,0,4,9,33,Collingwood,101,10-06-1967,18643,Victoria
+1967,9,Essendon,Hawthorn,3,7,8,3,4,2,4,6,21,16,142,2,2,1,1,7,2,4,2,6,15,51,Essendon,91,10-06-1967,13273,Windy
+1967,9,St Kilda,North Melbourne,2,2,1,4,3,8,0,6,9,17,71,3,0,3,2,6,4,1,2,8,13,61,St Kilda,10,10-06-1967,17258,Moorabbin
+1967,9,Carlton,Richmond,2,3,5,4,1,4,1,1,14,7,91,4,3,2,4,4,4,4,3,13,15,93,Richmond,2,12-06-1967,39049,Princes
+1967,9,Geelong,Footscray,4,3,4,4,3,5,2,2,15,12,102,3,1,1,4,2,0,6,0,9,8,62,Geelong,40,12-06-1967,21663,Kardinia
+1967,9,Melbourne,South Melbourne,3,3,7,6,2,3,4,5,19,14,128,2,2,6,2,4,5,3,5,12,17,89,Melbourne,39,12-06-1967,45723,M.C.G.
+1967,10,Footscray,Carlton,1,1,2,3,2,4,3,3,7,12,54,4,3,3,1,1,1,1,1,11,4,70,Carlton,16,24-06-1967,19981,Western
+1967,10,Collingwood,Hawthorn,3,6,3,5,4,2,4,6,17,16,118,6,3,2,1,3,0,3,3,12,9,81,Collingwood,37,24-06-1967,17363,Victoria
+1967,10,Fitzroy,Essendon,2,3,1,3,3,5,1,2,9,11,65,4,1,7,1,1,3,5,4,13,13,91,Essendon,26,24-06-1967,12166,Princes
+1967,10,St Kilda,Geelong,5,7,4,2,7,0,5,2,18,14,122,1,3,3,3,0,3,4,3,10,10,70,St Kilda,52,24-06-1967,27055,Moorabbin
+1967,10,Richmond,Melbourne,6,6,8,4,3,4,4,3,24,14,158,3,2,3,4,2,1,2,4,12,9,81,Richmond,77,24-06-1967,39510,M.C.G.
+1967,10,North Melbourne,South Melbourne,5,3,4,4,1,1,2,7,16,11,107,5,5,3,1,0,3,2,2,14,7,91,North Melbourne,16,24-06-1967,11967,Arden
+1967,11,Essendon,Carlton,1,3,2,3,1,3,3,9,9,16,70,6,2,2,2,2,0,1,4,12,7,79,Carlton,9,01-07-1967,24068,Windy
+1967,11,Melbourne,Collingwood,2,2,3,2,5,2,2,2,9,11,65,3,4,5,2,4,1,4,5,14,14,98,Collingwood,33,01-07-1967,30848,M.C.G.
+1967,11,Fitzroy,St Kilda,4,2,1,2,1,3,3,2,9,9,63,2,2,6,5,5,6,6,4,15,21,111,St Kilda,48,01-07-1967,9853,Princes
+1967,11,Hawthorn,Footscray,0,4,1,3,3,5,3,0,8,11,59,2,6,1,5,4,2,4,2,14,12,96,Footscray,37,01-07-1967,7857,Glenferrie
+1967,11,Geelong,North Melbourne,3,2,2,5,2,3,1,0,12,6,78,2,3,3,1,8,3,2,5,9,18,72,Geelong,6,01-07-1967,14415,Kardinia
+1967,11,South Melbourne,Richmond,2,2,1,3,0,4,1,4,8,9,57,5,1,4,4,7,4,8,6,14,25,109,Richmond,52,01-07-1967,15384,Lake
+1967,12,Collingwood,Geelong,3,0,2,1,4,3,6,2,6,15,51,1,4,0,7,4,5,3,4,12,16,88,Geelong,37,08-07-1967,36121,Victoria
+1967,12,Essendon,Richmond,3,5,1,4,0,7,4,4,13,15,93,2,1,5,2,2,1,3,6,10,12,72,Essendon,21,08-07-1967,24714,Windy
+1967,12,South Melbourne,Hawthorn,1,4,2,3,3,8,2,4,10,17,77,3,2,3,5,3,1,4,4,13,12,90,Hawthorn,13,08-07-1967,11323,Lake
+1967,12,Carlton,Fitzroy,0,6,1,3,1,5,3,7,10,16,76,2,3,2,3,1,0,4,3,10,8,68,Carlton,8,15-07-1967,17120,Princes
+1967,12,Footscray,St Kilda,0,1,0,2,0,4,2,9,3,15,33,4,2,5,0,2,2,8,0,11,12,78,St Kilda,45,15-07-1967,17939,Western
+1967,12,Melbourne,North Melbourne,4,2,1,1,3,2,0,2,8,7,55,0,1,2,2,4,5,8,5,5,22,52,Melbourne,3,15-07-1967,19191,M.C.G.
+1967,13,Hawthorn,Carlton,4,1,2,2,1,5,1,2,9,9,63,3,5,2,1,5,4,6,6,11,21,87,Carlton,24,22-07-1967,17552,Glenferrie
+1967,13,North Melbourne,Collingwood,1,4,4,0,2,4,1,1,9,8,62,6,2,2,1,3,2,3,7,11,15,81,Collingwood,19,22-07-1967,18851,Arden
+1967,13,St Kilda,Essendon,3,2,7,6,2,2,2,0,18,6,114,4,4,1,4,6,3,2,2,13,13,91,St Kilda,23,22-07-1967,31972,Moorabbin
+1967,13,Fitzroy,South Melbourne,3,4,5,7,6,5,8,2,19,21,135,5,2,3,2,2,5,1,2,12,10,82,Fitzroy,53,22-07-1967,10869,Princes
+1967,13,Richmond,Footscray,6,4,3,6,3,6,2,5,19,16,130,4,1,2,1,2,1,4,3,8,10,58,Richmond,72,22-07-1967,20827,M.C.G.
+1967,13,Geelong,Melbourne,2,5,1,5,1,3,2,6,13,12,90,2,2,1,3,2,2,4,1,8,9,57,Geelong,33,22-07-1967,18780,Kardinia
+1967,14,North Melbourne,Carlton,2,1,2,3,3,1,2,3,8,9,57,1,2,2,1,3,4,1,0,6,8,44,North Melbourne,13,29-07-1967,14562,Arden
+1967,14,Collingwood,Essendon,1,4,2,1,3,4,3,4,8,14,62,4,0,4,2,1,0,4,6,10,11,71,Essendon,9,29-07-1967,27320,Victoria
+1967,14,Fitzroy,Richmond,2,0,5,1,1,4,4,1,8,10,58,1,3,2,2,5,3,5,6,8,19,67,Richmond,9,29-07-1967,13677,Princes
+1967,14,South Melbourne,Footscray,4,3,1,2,0,6,3,2,10,11,71,2,2,0,1,1,0,4,5,5,10,40,South Melbourne,31,29-07-1967,8508,Lake
+1967,14,Hawthorn,Geelong,5,2,2,2,5,2,4,1,11,12,78,1,3,0,3,2,3,6,5,7,16,58,Hawthorn,20,29-07-1967,12556,Glenferrie
+1967,14,Melbourne,St Kilda,1,0,2,5,2,2,3,3,8,10,58,4,1,4,3,7,4,6,2,12,19,91,St Kilda,33,29-07-1967,29175,M.C.G.
+1967,15,Carlton,Melbourne,2,2,2,1,1,3,1,5,7,10,52,1,1,1,3,5,4,1,3,6,13,49,Carlton,3,05-08-1967,18588,Princes
+1967,15,Footscray,Collingwood,0,7,0,7,1,3,3,2,14,9,93,4,1,5,2,4,2,6,3,12,15,87,Footscray,6,05-08-1967,16887,Western
+1967,15,Essendon,South Melbourne,5,2,5,2,1,4,5,5,14,15,99,1,3,1,2,8,5,1,2,7,16,58,Essendon,41,05-08-1967,15916,Windy
+1967,15,Geelong,Fitzroy,2,2,5,0,4,2,7,1,9,14,68,1,1,3,2,0,3,0,5,7,8,50,Geelong,18,05-08-1967,16443,Kardinia
+1967,15,St Kilda,Hawthorn,5,3,5,4,3,6,4,4,17,17,119,1,2,2,3,4,2,0,2,8,8,56,St Kilda,63,05-08-1967,23406,Moorabbin
+1967,15,Richmond,North Melbourne,3,2,2,7,5,5,6,5,14,21,105,2,5,4,2,2,1,3,1,13,7,85,Richmond,20,05-08-1967,34447,M.C.G.
+1967,16,Carlton,St Kilda,5,2,2,2,4,2,1,0,11,7,73,1,3,2,3,1,2,2,3,9,8,62,Carlton,11,12-08-1967,32174,Princes
+1967,16,South Melbourne,Collingwood,2,1,2,0,1,2,2,1,5,6,36,3,6,3,4,3,3,3,5,16,14,110,Collingwood,74,12-08-1967,18356,Lake
+1967,16,Geelong,Essendon,4,4,2,0,3,7,0,3,10,13,73,2,1,0,1,1,0,1,8,4,10,34,Geelong,39,12-08-1967,25956,Kardinia
+1967,16,North Melbourne,Fitzroy,2,6,0,1,2,7,1,2,9,12,66,6,0,7,2,6,0,7,2,15,15,105,Fitzroy,39,12-08-1967,8509,Arden
+1967,16,Melbourne,Footscray,1,2,1,3,5,3,1,3,7,12,54,0,1,4,2,4,3,1,1,7,9,51,Melbourne,3,12-08-1967,17039,M.C.G.
+1967,16,Hawthorn,Richmond,4,1,1,1,4,2,3,3,7,12,54,3,9,5,6,6,5,10,9,23,30,168,Richmond,114,12-08-1967,19441,Glenferrie
+1967,17,Collingwood,Carlton,3,1,6,2,3,4,4,2,12,13,85,2,1,3,2,3,3,1,5,8,12,60,Collingwood,25,19-08-1967,34784,Victoria
+1967,17,Essendon,Footscray,5,3,3,2,7,0,2,2,13,11,89,0,5,3,4,1,6,3,5,12,15,87,Essendon,2,19-08-1967,8824,Windy
+1967,17,Fitzroy,Melbourne,1,4,0,3,3,6,2,7,8,18,66,2,2,4,1,2,3,2,1,9,8,62,Fitzroy,4,19-08-1967,8054,Princes
+1967,17,South Melbourne,Geelong,3,1,0,5,2,1,2,4,9,9,63,3,5,10,3,2,5,4,2,21,13,139,Geelong,76,19-08-1967,9916,Lake
+1967,17,North Melbourne,Hawthorn,1,5,1,2,5,6,4,4,9,19,73,4,0,3,0,1,0,2,0,7,3,45,North Melbourne,28,19-08-1967,4846,Arden
+1967,17,Richmond,St Kilda,2,4,4,2,5,4,3,1,12,13,85,1,0,2,4,3,4,2,2,7,11,53,Richmond,32,19-08-1967,48209,M.C.G.
+1967,18,Carlton,South Melbourne,2,3,1,4,9,4,5,4,10,22,82,0,1,3,3,1,4,1,1,7,7,49,Carlton,33,26-08-1967,15623,Princes
+1967,18,St Kilda,Collingwood,4,3,5,2,5,2,8,1,14,16,100,1,4,1,2,1,1,0,3,8,5,53,St Kilda,47,26-08-1967,28862,Moorabbin
+1967,18,Melbourne,Essendon,1,2,3,2,5,2,3,2,8,12,60,1,2,2,2,7,2,2,3,7,14,56,Melbourne,4,26-08-1967,24282,M.C.G.
+1967,18,Hawthorn,Fitzroy,3,3,4,3,4,0,7,2,13,13,91,3,1,2,4,0,5,6,3,10,14,74,Hawthorn,17,26-08-1967,13863,Glenferrie
+1967,18,Footscray,North Melbourne,2,0,5,0,2,0,5,4,7,11,53,0,5,1,2,0,3,1,3,8,7,55,North Melbourne,2,26-08-1967,10669,Western
+1967,18,Geelong,Richmond,2,5,3,5,1,4,2,8,15,15,105,9,1,6,2,4,2,2,1,18,9,117,Richmond,12,26-08-1967,34616,Kardinia
+1967,SF,Geelong,Collingwood,4,4,2,6,5,2,3,2,16,12,108,4,4,2,1,2,1,6,3,11,12,78,Geelong,30,02-09-1967,91715,M.C.G.
+1967,SF,Richmond,Carlton,5,5,4,6,8,5,3,5,20,21,141,3,4,4,3,4,5,3,5,14,17,101,Richmond,40,09-09-1967,99051,M.C.G.
+1967,PF,Carlton,Geelong,5,5,1,0,2,3,2,6,11,13,79,1,5,8,3,0,2,1,3,17,6,108,Geelong,29,16-09-1967,95542,M.C.G.
+1967,GF,Richmond,Geelong,4,5,3,4,3,7,5,3,16,18,114,3,4,6,2,3,3,1,8,15,15,105,Richmond,9,23-09-1967,109396,M.C.G.

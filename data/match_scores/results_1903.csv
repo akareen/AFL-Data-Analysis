@@ -1,0 +1,72 @@
+Year,Round,Home Team,Away Team,H Goals 1st,H Goals 2nd,H Goals 3rd,H Goals 4th,H Behind 1st,H Behind 2nd,H Behind 3rd,H Behind 4th,H Total Goals,H Total Behind,H Total Score,A Goals 1st,A Goals 2nd,A Goals 3rd,A Goals 4th,A Behind 1st,A Behind 2nd,A Behind 3rd,A Behind 4th,A Total Goals,A Total Behind,A Total Score,Winning Team,Margin,Date,Attendance,Venue
+1903,1,Carlton,Collingwood,3,2,3,1,0,1,3,0,9,4,58,2,1,1,1,1,2,2,2,5,7,37,Carlton,21,02-05-1903,0,Princes
+1903,1,Essendon,Fitzroy,2,0,1,0,0,2,1,0,3,3,21,2,1,4,4,2,1,2,2,11,7,73,Fitzroy,52,02-05-1903,0,East
+1903,1,St Kilda,Geelong,0,0,1,1,3,0,4,1,2,8,20,2,3,2,2,3,8,1,6,9,18,72,Geelong,52,02-05-1903,0,Junction
+1903,1,South Melbourne,Melbourne,1,2,2,1,2,5,4,3,6,14,50,0,1,2,2,2,5,3,3,5,13,43,South Melbourne,7,02-05-1903,0,Lake
+1903,2,Collingwood,South Melbourne,3,5,3,2,7,1,5,1,13,14,92,0,2,1,0,1,2,0,3,3,6,24,Collingwood,68,09-05-1903,0,Victoria
+1903,2,St Kilda,Essendon,0,3,0,0,1,8,2,1,3,12,30,2,0,2,0,1,0,3,2,4,6,30,Match drawn,0,09-05-1903,0,Junction
+1903,2,Melbourne,Fitzroy,3,1,0,0,1,0,2,2,4,5,29,0,3,2,1,1,1,5,4,6,11,47,Fitzroy,18,09-05-1903,0,M.C.G.
+1903,2,Geelong,Carlton,2,1,4,1,3,0,3,1,8,7,55,1,2,0,3,1,4,1,3,6,9,45,Geelong,10,03-08-1903,0,S.C.G.
+1903,3,Essendon,Carlton,1,3,0,1,0,1,0,4,5,5,35,2,1,2,2,3,5,4,2,7,14,56,Carlton,21,16-05-1903,0,East
+1903,3,Collingwood,St Kilda,4,7,2,3,4,4,6,3,16,17,113,1,0,1,3,0,0,3,0,5,3,33,Collingwood,80,16-05-1903,0,Victoria
+1903,3,Fitzroy,South Melbourne,4,0,2,6,2,4,6,5,12,17,89,1,0,0,2,2,2,0,0,3,4,22,Fitzroy,67,16-05-1903,0,Brunswick
+1903,3,Geelong,Melbourne,3,4,3,5,0,5,5,0,15,10,100,1,2,0,1,0,4,3,1,4,8,32,Geelong,68,16-05-1903,0,Corio
+1903,4,Carlton,St Kilda,1,5,1,5,3,7,2,4,12,16,88,1,0,0,0,2,0,1,1,1,4,10,Carlton,78,23-05-1903,0,Princes
+1903,4,Fitzroy,Collingwood,1,2,3,1,3,8,3,6,7,20,62,3,1,1,1,2,1,4,2,6,9,45,Fitzroy,17,23-05-1903,0,S.C.G.
+1903,4,Melbourne,Essendon,1,2,0,0,1,2,0,4,3,7,25,2,2,0,0,3,0,1,0,4,4,28,Essendon,3,23-05-1903,0,M.C.G.
+1903,4,South Melbourne,Geelong,0,2,2,1,0,2,1,4,5,7,37,3,1,0,2,3,1,6,1,6,11,47,Geelong,10,23-05-1903,0,Lake
+1903,5,South Melbourne,Carlton,2,1,1,1,0,2,0,2,5,4,34,2,4,2,2,2,1,4,0,10,7,67,Carlton,33,30-05-1903,0,Lake
+1903,5,Collingwood,Melbourne,0,3,5,2,6,3,6,2,10,17,77,1,1,3,2,2,0,0,2,7,4,46,Collingwood,31,30-05-1903,0,Victoria
+1903,5,Essendon,Geelong,1,1,3,5,8,2,3,0,10,13,73,1,3,0,1,1,3,3,3,5,10,40,Essendon,33,30-05-1903,0,East
+1903,5,Fitzroy,St Kilda,2,1,2,8,5,3,4,5,13,17,95,0,1,1,1,4,3,2,1,3,10,28,Fitzroy,67,30-05-1903,0,Brunswick
+1903,6,Carlton,Fitzroy,1,1,2,4,1,2,3,2,8,8,56,2,0,0,2,2,1,1,1,4,5,29,Carlton,27,06-06-1903,0,Princes
+1903,6,Geelong,Collingwood,4,2,1,1,1,2,0,0,8,3,51,3,4,1,4,4,5,2,1,12,12,84,Collingwood,33,06-06-1903,0,Corio
+1903,6,Essendon,South Melbourne,3,0,0,2,3,0,7,1,5,11,41,0,3,2,1,1,6,3,2,6,12,48,South Melbourne,7,06-06-1903,0,East
+1903,6,St Kilda,Melbourne,4,1,1,2,5,0,1,3,8,9,57,0,0,0,2,0,9,4,2,2,15,27,St Kilda,30,06-06-1903,0,Junction
+1903,7,Melbourne,Carlton,1,0,2,1,6,1,0,1,4,8,32,0,0,1,0,1,0,1,0,1,2,8,Melbourne,24,08-06-1903,0,M.C.G.
+1903,7,Collingwood,Essendon,1,1,1,1,6,1,1,1,4,9,33,1,0,1,0,0,9,2,2,2,13,25,Collingwood,8,08-06-1903,0,Victoria
+1903,7,Fitzroy,Geelong,0,3,1,4,2,5,2,5,8,14,62,3,0,0,0,1,0,3,0,3,4,22,Fitzroy,40,08-06-1903,0,Brunswick
+1903,7,South Melbourne,St Kilda,0,1,2,2,0,3,2,3,5,8,38,2,2,2,0,7,1,3,0,6,11,47,St Kilda,9,08-06-1903,0,Lake
+1903,8,Collingwood,Carlton,4,1,3,4,1,1,5,2,12,9,81,1,3,3,3,1,5,0,1,10,7,67,Collingwood,14,13-06-1903,0,Victoria
+1903,8,Fitzroy,Essendon,0,2,4,2,3,0,2,1,8,6,54,1,1,0,1,3,3,2,3,3,11,29,Fitzroy,25,13-06-1903,0,Brunswick
+1903,8,Geelong,St Kilda,2,3,0,0,2,3,3,1,5,9,39,2,0,3,2,3,5,4,1,7,13,55,St Kilda,16,13-06-1903,0,Corio
+1903,8,Melbourne,South Melbourne,2,1,3,0,1,3,0,2,6,6,42,2,0,1,0,4,4,6,3,3,17,35,Melbourne,7,13-06-1903,0,M.C.G.
+1903,9,Carlton,Geelong,3,2,3,0,3,0,1,2,8,6,54,2,1,2,1,1,5,3,2,6,11,47,Carlton,7,20-06-1903,0,Princes
+1903,9,South Melbourne,Collingwood,1,2,0,1,2,4,3,2,4,11,35,4,0,1,1,3,0,2,1,6,6,42,Collingwood,7,20-06-1903,0,Lake
+1903,9,Essendon,St Kilda,1,3,0,0,4,1,1,2,4,8,32,1,2,0,1,1,0,1,3,4,5,29,Essendon,3,20-06-1903,0,East
+1903,9,Fitzroy,Melbourne,2,0,0,2,2,2,4,2,4,10,34,0,1,0,2,1,3,1,3,3,8,26,Fitzroy,8,20-06-1903,0,Brunswick
+1903,10,Carlton,Essendon,1,1,0,4,5,6,1,2,6,14,50,0,0,1,1,0,0,2,0,2,2,14,Carlton,36,04-07-1903,0,Princes
+1903,10,St Kilda,Collingwood,0,0,0,2,1,2,0,1,2,4,16,3,1,1,0,2,1,6,2,5,11,41,Collingwood,25,04-07-1903,0,Junction
+1903,10,South Melbourne,Fitzroy,2,3,0,0,1,4,0,2,5,7,37,3,1,2,1,1,2,6,2,7,11,53,Fitzroy,16,04-07-1903,0,Lake
+1903,10,Melbourne,Geelong,1,1,0,3,2,3,3,1,5,9,39,5,1,2,2,3,1,3,0,10,7,67,Geelong,28,04-07-1903,0,M.C.G.
+1903,11,St Kilda,Carlton,2,1,1,0,2,0,0,1,4,3,27,3,1,2,2,1,5,2,6,8,14,62,Carlton,35,11-07-1903,0,Junction
+1903,11,Collingwood,Fitzroy,1,3,3,1,5,1,2,0,8,8,56,2,1,1,1,2,0,1,3,5,6,36,Collingwood,20,11-07-1903,0,Victoria
+1903,11,Essendon,Melbourne,1,0,0,2,3,3,5,5,3,16,34,1,2,0,1,2,2,0,1,4,5,29,Essendon,5,11-07-1903,0,East
+1903,11,Geelong,South Melbourne,2,2,3,2,5,3,4,1,9,13,67,0,0,1,2,2,3,1,6,3,12,30,Geelong,37,11-07-1903,0,Corio
+1903,12,Carlton,South Melbourne,2,2,3,0,3,2,2,1,7,8,50,0,0,2,0,2,0,2,4,2,8,20,Carlton,30,18-07-1903,0,Princes
+1903,12,Melbourne,Collingwood,1,2,1,0,4,1,2,1,4,8,32,3,3,3,2,0,4,1,3,11,8,74,Collingwood,42,18-07-1903,0,M.C.G.
+1903,12,Geelong,Essendon,6,2,3,2,4,2,3,2,13,11,89,0,1,0,5,0,3,2,3,6,8,44,Geelong,45,18-07-1903,0,Corio
+1903,12,St Kilda,Fitzroy,1,1,1,2,0,9,0,2,5,11,41,1,1,3,0,5,0,1,2,5,8,38,St Kilda,3,18-07-1903,0,Junction
+1903,13,Fitzroy,Carlton,1,3,3,1,2,3,1,2,8,8,56,2,0,0,1,0,0,2,4,3,6,24,Fitzroy,32,25-07-1903,0,Brunswick
+1903,13,Collingwood,Geelong,2,2,0,2,3,4,6,2,6,15,51,1,3,1,0,2,1,2,2,5,7,37,Collingwood,14,25-07-1903,0,Victoria
+1903,13,South Melbourne,Essendon,0,1,1,3,1,4,0,2,5,7,37,3,0,2,2,3,3,4,7,7,17,59,Essendon,22,25-07-1903,0,Lake
+1903,13,Melbourne,St Kilda,1,2,0,1,1,4,1,2,4,8,32,5,0,4,0,1,3,0,3,9,7,61,St Kilda,29,25-07-1903,0,M.C.G.
+1903,14,Carlton,Melbourne,2,2,1,0,3,2,2,4,5,11,41,0,2,4,2,1,4,0,3,8,8,56,Melbourne,15,08-08-1903,0,Princes
+1903,14,Essendon,Collingwood,2,4,0,1,0,2,0,2,7,4,46,3,2,4,2,2,2,2,1,11,7,73,Collingwood,27,08-08-1903,0,East
+1903,14,Geelong,Fitzroy,2,0,0,3,0,0,1,2,5,3,33,5,2,1,1,5,1,5,1,9,12,66,Fitzroy,33,08-08-1903,0,Corio
+1903,14,St Kilda,South Melbourne,1,4,6,1,2,4,2,1,12,9,81,1,0,2,1,1,3,0,4,4,8,32,St Kilda,49,08-08-1903,0,Junction
+1903,s1,Melbourne,Carlton,2,0,3,0,1,1,0,0,5,2,32,3,1,1,4,5,2,3,3,9,13,67,Carlton,35,15-08-1903,0,M.C.G.
+1903,s1,Collingwood,St Kilda,0,2,1,0,4,1,5,2,3,12,30,1,0,0,1,2,0,0,4,2,6,18,Collingwood,12,15-08-1903,0,Victoria
+1903,s1,Essendon,Fitzroy,2,0,4,2,3,1,2,1,8,7,55,3,3,3,1,2,5,2,5,10,14,74,Fitzroy,19,15-08-1903,0,East
+1903,s1,South Melbourne,Geelong,2,2,0,4,5,1,1,1,8,8,56,2,4,5,1,3,2,5,4,12,14,86,Geelong,30,15-08-1903,0,Lake
+1903,s2,Carlton,Collingwood,0,4,0,1,1,5,1,4,5,11,41,3,0,2,1,2,0,5,0,6,7,43,Collingwood,2,22-08-1903,0,Princes
+1903,s2,Geelong,Essendon,8,2,3,2,3,3,1,5,15,12,102,0,2,2,0,1,2,3,1,4,7,31,Geelong,71,22-08-1903,0,Corio
+1903,s2,Fitzroy,South Melbourne,2,6,1,2,2,4,3,8,11,17,83,1,0,2,0,2,0,2,1,3,5,23,Fitzroy,60,22-08-1903,0,Brunswick
+1903,s2,St Kilda,Melbourne,0,3,3,1,3,5,3,1,7,12,54,3,0,0,1,1,0,2,4,4,7,31,St Kilda,23,22-08-1903,0,Junction
+1903,s3,St Kilda,Carlton,0,2,0,1,5,2,3,0,3,10,28,0,3,1,0,0,1,1,5,4,7,31,Carlton,3,29-08-1903,0,Junction
+1903,s3,Collingwood,Melbourne,6,2,3,2,3,2,5,3,13,13,91,1,2,1,1,3,2,2,3,5,10,40,Collingwood,51,29-08-1903,0,Victoria
+1903,s3,Essendon,South Melbourne,2,4,2,6,1,4,1,4,14,10,94,2,1,1,1,2,0,2,3,5,7,37,Essendon,57,29-08-1903,0,East
+1903,s3,Geelong,Fitzroy,1,0,1,1,1,4,3,1,3,9,27,0,3,0,2,1,0,2,1,5,4,34,Fitzroy,7,29-08-1903,0,Corio
+1903,SF,Collingwood,Carlton,0,2,0,2,1,1,0,1,4,3,27,1,0,2,0,3,0,0,2,3,5,23,Collingwood,4,05-09-1903,16600,Brunswick
+1903,SF,Fitzroy,Geelong,2,3,2,4,5,4,3,3,11,15,81,0,0,3,1,2,0,1,2,4,5,29,Fitzroy,52,05-09-1903,15000,M.C.G.
+1903,GF,Collingwood,Fitzroy,2,1,0,1,3,1,2,1,4,7,31,2,0,0,1,2,3,3,3,3,11,29,Collingwood,2,12-09-1903,32363,M.C.G.
