@@ -2,6 +2,7 @@ from scripts.helper_functions import get_soup
 from scripts.scrape_matches_years_range import scrape_matches_page
 from scripts.scrape_players_by_range import scrape_players_by_range
 from scripts.scrape_all_players_ever import scrape_all_players_ever
+from scripts.scrape_matches_details_years_range import scrape_matches_page_directory
 
 from datetime import datetime
 import csv
@@ -25,6 +26,15 @@ def main():
                 end_year=int(args[3]), 
                 directory=directory
             )
+        case "match_details":
+            if len(args) != 4:
+                usage_message()
+
+            scrape_matches_page_directory(
+                start_year=int(args[2]),
+                end_year=int(args[3]), 
+                directory=directory
+            )
         case "players":
             if len(args) != 4:
                 usage_message()
@@ -44,6 +54,7 @@ def usage_message():
     print("Usage: python scrape.py <data_storage_directory> <option>")
     print("Options:")
     print("  <data_storage_directory> matches <start year> <end year>")
+    print("  <data_storage_directory> match_details <start year> <end year>")
     print("  <data_storage_directory> players <start year> <end year>")
     print("  <data_storage_directory> all_players")
     print()
