@@ -49,7 +49,21 @@ def main():
         case _:
             usage_message()
 
-    
+
+def full_scrape():
+    directory =  "match_and_player_data"
+    # scrape_matches_page(
+    #     start_year=1897,
+    #     end_year=datetime.now().year, 
+    #     directory=directory + "/match_scores"
+    # )
+    # scrape_matches_page_directory(
+    #     start_year=1897,
+    #     end_year=datetime.now().year, 
+    #     directory=directory + "/match_details"
+    # )
+    scrape_all_players_ever(directory=directory + "/player_all_time_data")
+
 def usage_message():
     print("Usage: python scrape.py <data_storage_directory> <option>")
     print("Options:")
@@ -68,4 +82,4 @@ def usage_message():
 
 
 if __name__ == "__main__":
-    main()
+    full_scrape()

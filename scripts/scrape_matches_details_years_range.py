@@ -3,6 +3,7 @@ import csv
 import os
 from scripts.helper_functions import get_soup
 from scripts.scrape_matches_years_range import determine_winner, unpack_team_scores, extract_extra_info, extract_data
+from urllib.parse import urljoin
 
 COLUMN_TITLES = ['Year', 'Round', 'Home Team', 'Away Team',
                 'H Goals 1st', 'H Goals 2nd', 'H Goals 3rd', 'H Goals 4th',
@@ -62,7 +63,7 @@ def process_rows(rows, game_directory, round_name, year='2023'):
     :return: None
     """
 
-    match_stats = None
+    match_stats_link = None
 
     # Process home and away rows
     for row_type in ["home", "away"]:
@@ -82,11 +83,18 @@ def process_rows(rows, game_directory, round_name, year='2023'):
         else:
             away_team, away_total_score = team, total_score
             away_goals, away_behinds = goals, behinds
+
+        if row_type == "away":
+            a_tag = row.find('a', href=lambda href: href and href.startswith('../stats/games'))
+            if a_tag:
+                match_stats_link = a_tag['href']
             
     winning_team = determine_winner(home_team, home_total_score, away_team, away_total_score)
     margin = abs(home_total_score - away_total_score)
     
-    file_name = os.path.join(game_directory, f'{home_team}_{away_team}_game_stats.csv')
+    display_name_home = '_'.join(word.lower() for word in home_team.split())
+    display_name_away = '_'.join(word.lower() for word in away_team.split())
+    file_name = os.path.join(game_directory, f'{display_name_home}_{display_name_away}_game_stats.csv')
     os.makedirs(game_directory, exist_ok=True)
     with open(file_name, 'w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
@@ -96,6 +104,42 @@ def process_rows(rows, game_directory, round_name, year='2023'):
                         *home_goals, *home_behinds, sum(home_goals), sum(home_behinds), home_total_score,
                         *away_goals, *away_behinds, sum(away_goals), sum(away_behinds), away_total_score,
                         winning_team, margin, date, attendance, venue])
+
+    if match_stats_link is not None:
+        base_url = 'https://afltables.com/afl'
+        if match_stats_link.startswith('../'):
+            match_stats_link = '/afl' + match_stats_link[2:]
+
+        full_url = urljoin(base_url, match_stats_link)
+        process_match_details(full_url, home_team, away_team, game_directory, year, round_name)
+
+
+def process_match_details(match_stats_link, home_team, away_team, game_directory, year, round_name):
+    match_details_soup = get_soup(match_stats_link)
+    if not match_details_soup:
+        return
+    team_tables = match_details_soup.find_all(class_='sortable', limit=2)
+    data = [[team_tables[0], home_team], [team_tables[1], away_team]]
+    for team in data:
+        table = team[0]
+        team_name = team[1]
+        opposition_name = home_team if team_name == away_team else away_team
+        display_name = '_'.join(word.lower() for word in team_name.split())
+        csv_file_path = os.path.join(game_directory, f"{display_name}_match_details.csv")
+
+        th_elements = table.find('thead').find('th', string='#').find_all_next('th')
+        headers = ['#']
+        headers.extend([th.get_text() for th in th_elements])
+        header = ['Year', 'Round', 'Team', 'Opposition', *headers[:25], 'Subbed']
+
+        os.makedirs(game_directory, exist_ok=True)
+        with open(csv_file_path, 'w', newline='', encoding='utf-8') as file:
+            writer = csv.writer(file)
+            writer.writerow(header)
+
+            for row in table.find('tbody').find_all('tr'):
+                data = [td.get_text() for td in row.find_all('td')]
+                writer.writerow([year, round_name, team_name, opposition_name, *data[:25]])
 
 
 # Process the final round section

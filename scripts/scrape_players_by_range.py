@@ -8,7 +8,7 @@ BASE_URL = "https://afltables.com/afl/stats/"
 # This scrapes the individual player page to extract their performance for each round
 def scrape_player_page(player_url, team_directory):
     """
-    The player page contains a large number of nnumerical summaries.
+    The player page contains a large number of numerical summaries.
     This code disregards the summaries as they can be created from the raw data.
     Thus it will focus on extracting the performance of the player for every round.
     :param player_url: URL of the player page
@@ -21,7 +21,7 @@ def scrape_player_page(player_url, team_directory):
 
     tables = soup.find_all('table')
     player_name = player_url.split('/')[-1].replace('.html', '') # Extract the player name from the URL
-    csv_file_path = os.path.join(team_directory, f"{player_name}.csv") # Create the CSV file path
+    csv_file_path = os.path.join(team_directory, f"{player_name.lower()}.csv") # Create the CSV file path
 
     with open(csv_file_path, 'w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
