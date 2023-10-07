@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2015,3,Melbourne,Adelaide,10 ↑,"Brayshaw, Angus",7,2,5,12, , , ,7, ,1,1,1, , , ,6,6, , , , , ,48
+2015,3,Melbourne,Adelaide,18 ,"Cross, Daniel",8,1,12,20, , ,3,6,2,3,7,2,3, , ,12,9, , ,3, , ,91
+2015,3,Melbourne,Adelaide,6 ,"Dawes, Chris",4,2,6,10, , ,3,3,1,4,1,2,2,2, ,5,4, , ,2, ,1,84
+2015,3,Melbourne,Adelaide,14 ,"Dunn, Lynden",5,2,5,10, , , ,2,4, , , , , , ,2,5, , ,3, , ,89
+2015,3,Melbourne,Adelaide,17 ↓,"Frost, Sam",2, ,2,4, ,1,1, , , , , ,1, , ,3,1, , , , , ,21
+2015,3,Melbourne,Adelaide,20 ,"Garland, Colin",13,5,4,17, , , ,3,4,3,2,1,1, , ,8,10,2, ,3, , ,92
+2015,3,Melbourne,Adelaide,36 ,"Garlett, Jeff",11,3,5,16,2,4, ,7, ,1,1,1,1, , ,8,8, ,1, , , ,91
+2015,3,Melbourne,Adelaide,1 ,"Hogan, Jesse",8,5,2,10,2,2, , , ,2,1,2, ,2, ,6,4,3,2, , , ,86
+2015,3,Melbourne,Adelaide,38 ,"Howe, Jeremy",12,5,8,20, , , ,2,8,1, ,2,1, , ,5,13,1, ,5, , ,90
+2015,3,Melbourne,Adelaide,40 ,"Jamar, Mark",2, ,3,5, ,1,44,5, , ,2,1,1, , ,4,1, , ,3, , ,87
+2015,3,Melbourne,Adelaide,39 ,"Jetta, Neville",4,1,6,10, , , ,4,1,1,2,2, , , ,5,5, , ,1, , ,96
+2015,3,Melbourne,Adelaide,2 ,"Jones, Nathan",16,2,9,25,1,1, ,5,3,2,3,3,1,1, ,10,14, , ,1, , ,85
+2015,3,Melbourne,Adelaide,24 ,"Kennedy Harris, Jay",7,1,5,12, , , ,1,1,5,1,1,1,1, ,5,8, ,1,2,1,1,81
+2015,3,Melbourne,Adelaide,16 ,"Kent, Dean",7,1,6,13,1,2, ,1, ,2,1,4, ,2, ,5,6, ,1,1, , ,81
+2015,3,Melbourne,Adelaide,8 ,"Lumumba, Heritier",12,4,13,25, , ,1,7,2,2,3,4, , , ,14,11,1, ,2, , ,90
+2015,3,Melbourne,Adelaide,25 ,"McDonald, Tom",10,4,6,16, , , ,2,4,1, ,3,1,2, ,7,10,1, ,10, , ,98
+2015,3,Melbourne,Adelaide,19 ,"Newton, Ben",9,2,10,19,1, , , ,1,4,4, , , , ,11,7, , , , , ,82
+2015,3,Melbourne,Adelaide,3 ,"Salem, Christian",10, ,6,16, , , ,5, ,1,3,2,1,1, ,9,7, , , , , ,83
+2015,3,Melbourne,Adelaide,12 ,"Tyson, Dom",6,1,14,20, , ,2,8,1,2,8,4, ,2, ,13,9, , ,1, , ,77
+2015,3,Melbourne,Adelaide,37 ,"Vandenberg, Aaron",13,3,6,19, , ,1,5,1,6,3,5, ,2, ,7,11, , ,1, , ,85
+2015,3,Melbourne,Adelaide,23 ,"Vince, Bernie",17,1,1,18, , ,5,8,2,1,7,8,1,5, ,11,6, , ,1, , ,76
+2015,3,Melbourne,Adelaide,4 ,"Watts, Jack",3,3,9,12, , , ,3,1, , ,3, ,1, ,8,4, , ,2, ,2,88

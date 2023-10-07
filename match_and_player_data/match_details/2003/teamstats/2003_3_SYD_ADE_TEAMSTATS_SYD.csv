@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2003,3,Sydney,Adelaide,20 ,"Ablett, Luke",2,1,2,4, , , , , ,2, , , , , ,2,2, , ,1, , ,20
+2003,3,Sydney,Adelaide,27 ,"Ball, Jason",13,7,6,19, , ,11,1, ,2,3,1,3, , ,6,12,1, ,3,1,1,89
+2003,3,Sydney,Adelaide,21 ,"Barry, Leo",3,5,3,6, , , ,5,3,1,1,3, ,3, ,3,4,2, ,2,6, ,100
+2003,3,Sydney,Adelaide,6 ,"Bolton, Craig",13,8,3,16, , , , ,8, ,2,3,2, , ,10,7,2, ,4, , ,89
+2003,3,Sydney,Adelaide,24 ,"Bolton, Jude",7,3,7,14,1, , ,2,1,2,5,2,1,2, ,10,4,2, ,1, , ,83
+2003,3,Sydney,Adelaide,28 ,"Crouch, Jared",3,1,8,11, , ,1,6,1,2,2,3, ,2, ,4,8, , ,1, ,1,100
+2003,3,Sydney,Adelaide,2 ,"Davis, Nick",9,2,3,12, ,1, , , ,3,1, ,3, , ,4,8, , ,1, ,1,100
+2003,3,Sydney,Adelaide,12 ,"Fosdike, Nic",12,4,7,19,1, , ,5,4,4,4,1,2, , ,7,11, , ,4, , ,86
+2003,3,Sydney,Adelaide,37 ,"Goodes, Adam",14,7,4,18,1,1,5,3,3,5,4,1,2,1,1,10,8,1,2, , , ,97
+2003,3,Sydney,Adelaide,1 ,"Hall, Barry",11,7,2,13,2,2,6, , ,2,1,5,1,1, ,7,6,3,4,3, , ,100
+2003,3,Sydney,Adelaide,17 ,"Kennelly, Tadhg",6,4,6,12,1, , ,1,1,3,4,1,1,1, ,6,7, , ,3,1, ,93
+2003,3,Sydney,Adelaide,31 ,"Kirk, Brett",2,1,4,6,1, , ,5, , ,1, ,1, , ,4,3,1, , , , ,92
+2003,3,Sydney,Adelaide,4 ,"Mathews, Ben",11,4,1,12, , , ,3,5,1, ,1,1,1, ,3,10, ,1,1, ,1,100
+2003,3,Sydney,Adelaide,11 ,"Maxfield, Stuart",22,6,5,27,2,1, ,1,2,10,3,2,2, , ,6,23, , ,1,5,2,94
+2003,3,Sydney,Adelaide,13 ,"McPherson, Daniel",8,2,3,11, , , ,6, ,5,1,2, ,1, ,4,7, , ,1,1,1,71
+2003,3,Sydney,Adelaide,23 ,"Nicks, Matthew",8,3,2,10,1,2, ,2,1,2, ,3,1,1, ,5,5,1,1, , , ,96
+2003,3,Sydney,Adelaide,22 ,"Saddington, Jason",4,5,1,5, , , , , ,1, , , , , ,2,3,2, ,1, , ,85
+2003,3,Sydney,Adelaide,25 ,"Schauble, Andrew",3,5,3,6, , , , ,1,1, ,1,1, , ,2,4,1, ,2,1,1,87
+2003,3,Sydney,Adelaide,36 ,"Schneider, Adam",4,1,2,6,1, , , , , ,1,1, ,1, ,2,3, ,1,1, , ,50
+2003,3,Sydney,Adelaide,16 ,"Stevens, Scott",1,1,1,2, , , , , ,1, ,2, ,1, ,1,1, , , , , ,30
+2003,3,Sydney,Adelaide,33 ,"Warfe, Rowan",2,1,4,6, , , ,1,2, , ,1,1, , ,4,2,1, ,2, , ,49
+2003,3,Sydney,Adelaide,10 ,"Williams, Paul",10,1,5,15, , , ,1,1, ,4,2,1,2, ,7,5, , , , , ,89

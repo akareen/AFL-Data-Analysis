@@ -1,4 +1,4 @@
-from scripts.helper_functions import get_soup
+from scripts.helper_classes.helper_functions import get_soup
 from scripts.scrape_matches_years_range import scrape_matches_page
 from scripts.scrape_players_by_range import scrape_players_by_range
 from scripts.scrape_all_players_ever import scrape_all_players_ever
@@ -58,9 +58,14 @@ def full_scrape():
     #     directory=directory + "/match_scores"
     # )
     # scrape_matches_page_directory(
-    #     start_year=1897,
+    #     start_year=1944,
     #     end_year=datetime.now().year, 
     #     directory=directory + "/match_details"
+    # )
+    # scrape_players_by_range(
+    #     start_year=1971,
+    #     end_year=datetime.now().year, 
+    #     directory=directory + "/player_data"
     # )
     scrape_all_players_ever(directory=directory + "/player_all_time_data")
 

@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2013,10,Adelaide,Fremantle,16 ,"Brown, Luke",10,2,9,19, , , ,3,5, ,2,3,2,1, ,12,6, , ,2, , ,81
+2013,10,Adelaide,Fremantle,32 ,"Dangerfield, Patrick",15,4,6,21,3,1,6,1,1,3,5,3,3,1,1,17,5, ,1, , , ,91
+2013,10,Adelaide,Fremantle,26 ,"Douglas, Richard",17,4,6,23,1, , ,7,1,7,1,4, ,2, ,10,12, , ,2, , ,89
+2013,10,Adelaide,Fremantle,24 ,"Jacobs, Sam",9,2,2,11, , ,50,3,3,2,1,4, , , ,3,7, ,1,3, , ,86
+2013,10,Adelaide,Fremantle,4 ,"Jenkins, Josh",5,1,4,9,1,1,3,4, ,2,1,1,1, , ,3,4, , ,4, , ,85
+2013,10,Adelaide,Fremantle,29 ,"Kerridge, Sam",5,3,5,10, ,1, ,3,1, ,2,1, , , ,3,7, , ,1, , ,85
+2013,10,Adelaide,Fremantle,46 ,"Laird, Rory",10,2,14,24,1, , ,7,3,3,2,2,3, , ,16,11, , ,4, , ,86
+2013,10,Adelaide,Fremantle,27 ,"Lynch, Tom",11,8,2,13, ,2, , ,1,4, ,3,1,2, ,5,8,1,3,2, ,1,82
+2013,10,Adelaide,Fremantle,31 ,"Lyons, Jarryd",11,4,7,18, ,1, ,5,1,4,3,2,1, , ,10,8, , , , ,1,82
+2013,10,Adelaide,Fremantle,14 ↓,"Mackay, David",2, ,3,5, , , ,4, , ,2,1,2,1, ,4,2, , , , , ,46
+2013,10,Adelaide,Fremantle,36 ↑,"Martin, Brodie",8,2,1,9, ,1, ,1,3, , ,2, , , ,3,4,1, , , , ,34
+2013,10,Adelaide,Fremantle,22 ,"Otten, Andy",10,4,6,16, , , ,4, , , ,2, ,1, ,7,9,1, ,6, , ,86
+2013,10,Adelaide,Fremantle,23 ,"Petrenko, Jared",6,2,5,11,1, , ,10, , , , ,2, , ,5,5, ,1,2, , ,83
+2013,10,Adelaide,Fremantle,40 ,"Porplyzia, Jason",10,3,5,15,1,1, ,4, ,2,1,1, , , ,9,3,1,2,2, , ,87
+2013,10,Adelaide,Fremantle,3 ,"Reilly, Brent",10,1,5,15, , , ,1,1,1,2,5, ,1, ,10,6, , ,3, , ,82
+2013,10,Adelaide,Fremantle,25 ,"Rutten, Ben",5,4,3,8, , ,1,1,1,2, , , , , ,3,5,1, ,3, , ,79
+2013,10,Adelaide,Fremantle,9 ,"Sloane, Rory",19,3,11,30, ,1, ,5,1,2,7, ,3, ,2,15,13, , ,2, ,1,91
+2013,10,Adelaide,Fremantle,33 ,"Smith, Brodie",17,3,4,21, , , ,1,3,7,1,3,2, , ,6,14, , ,3, , ,95
+2013,10,Adelaide,Fremantle,12 ,"Talia, Daniel",4, ,5,9, , , ,3, ,1, ,1, ,1, ,1,8, , ,6, , ,92
+2013,10,Adelaide,Fremantle,5 ,"Thompson, Scott",12, ,12,24, , ,1,8,2,3,10,6,3,3, ,18,5, , ,1, ,1,90
+2013,10,Adelaide,Fremantle,7 ,"van Berlo, Nathan",16,4,7,23, , , ,1,1,3,2,5,2,3, ,10,10, , , , , ,89
+2013,10,Adelaide,Fremantle,17 ,"Vince, Bernie",12,4,9,21, , , ,2,3,6,3,1,1, , ,11,10, , ,2, , ,80

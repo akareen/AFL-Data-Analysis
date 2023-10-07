@@ -1,0 +1,9 @@
+first_name,last_name,born_date,debut_date,height,weight,stats_file_name,personal_file_name
+Bob,Kingston,17-06-1944,16-05-1961,191,89,match_and_player_data/player_all_time_data/KINGSTON_BOB__17-06-1944_STATS.csv,match_and_player_data/player_all_time_data/KINGSTON_BOB__17-06-1944_PERSONAL.csv
+Stuart,Magee,13-10-1943,14-05-1962,174,74,match_and_player_data/player_all_time_data/MAGEE_STUART__13-10-1943_STATS.csv,match_and_player_data/player_all_time_data/MAGEE_STUART__13-10-1943_PERSONAL.csv
+Ken,Colvin,30-11-1938,17-04-1962,188,85,match_and_player_data/player_all_time_data/COLVIN_KEN__30-11-1938_STATS.csv,match_and_player_data/player_all_time_data/COLVIN_KEN__30-11-1938_PERSONAL.csv
+Elkin,Reilly,02-04-1939,13-05-1962,191,91,match_and_player_data/player_all_time_data/REILLY_ELKIN__02-04-1939_STATS.csv,match_and_player_data/player_all_time_data/REILLY_ELKIN__02-04-1939_PERSONAL.csv
+Bob,Skilton,08-11-1938,08-05-1956,171,76,match_and_player_data/player_all_time_data/SKILTON_BOB__08-11-1938_STATS.csv,match_and_player_data/player_all_time_data/SKILTON_BOB__08-11-1938_PERSONAL.csv
+Albie,Dunn,27-11-1941,17-05-1960,170,64,match_and_player_data/player_all_time_data/DUNN_ALBIE__27-11-1941_STATS.csv,match_and_player_data/player_all_time_data/DUNN_ALBIE__27-11-1941_PERSONAL.csv
+John,Heriot,06-01-1940,02-06-1958,191,79,match_and_player_data/player_all_time_data/HERIOT_JOHN__06-01-1940_STATS.csv,match_and_player_data/player_all_time_data/HERIOT_JOHN__06-01-1940_PERSONAL.csv
+Alan,Self,12-07-1944,19-06-1962,183,80,match_and_player_data/player_all_time_data/SELF_ALAN__12-07-1944_STATS.csv,match_and_player_data/player_all_time_data/SELF_ALAN__12-07-1944_PERSONAL.csv

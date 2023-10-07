@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2006,8,Richmond,Adelaide,11 ,"Bowden, Joel",28,20,6,34, , , ,4,16,1, ,4,1,2, ,5,29,1, ,3,8, ,100
+2006,8,Richmond,Adelaide,16 ,"Bowden, Patrick",19,15,9,28, , , , ,8,1, ,2,2,1, ,7,22, , ,2,1, ,100
+2006,8,Richmond,Adelaide,24 ,"Coughlan, Mark",11,9,12,23,1, , ,1, ,1,3,3, ,1, ,7,16, ,1,2, ,2,96
+2006,8,Richmond,Adelaide,3 ,"Deledio, Brett",14,11,6,20,1,1, , ,1,4, ,2, , , ,5,15,1,1,1, , ,81
+2006,8,Richmond,Adelaide,41 ,"Foley, Nathan",8,3,4,12, , , ,2, ,2,3,2,2,1, ,6,7, , , , , ,70
+2006,8,Richmond,Adelaide,33 ,"Hartigan, Brent",5,3,2,7, , , , , ,1, ,1,1, , ,3,4, ,1,4, ,2,66
+2006,8,Richmond,Adelaide,31 ,"Hyde, Chris",9,7,8,17, ,1, ,2,2,1, ,1,1, , ,3,14, , ,2,2, ,84
+2006,8,Richmond,Adelaide,23 ,"Jackson, Daniel",4,4,3,7, , , , , ,2,1,3, , , ,3,4, , , , , ,51
+2006,8,Richmond,Adelaide,39 ,"Kellaway, Andrew",17,15,6,23, , , ,1,6,2,1,6,2,2,3,5,18,2, ,3, , ,100
+2006,8,Richmond,Adelaide,13 ,"Knobel, Trent",1,1, ,1, ,1,11,2, , , , , , , ,1, ,1,1, , , ,36
+2006,8,Richmond,Adelaide,27 ,"Krakouer, Andrew",19,9,5,24,1,1, ,2, ,2,5,4,1, , ,7,16,1,1,2, ,1,70
+2006,8,Richmond,Adelaide,22 ,"Meyer, Danny",2, ,2,4, , , ,2,1,1, ,3,2,3, ,4,2, , , ,1, ,53
+2006,8,Richmond,Adelaide,1 ,"Newman, Chris",16,6,3,19,1, , ,4, ,3,1,2,2,1, ,4,15, , ,1, , ,90
+2006,8,Richmond,Adelaide,26 ,"Pattison, Adam",8,7,3,11,1, , ,2,1,1,1,1,1,1, ,3,8,1,1,3, , ,76
+2006,8,Richmond,Adelaide,15 ,"Pettifer, Kayne",20,15,2,22,1, , ,2,5,3,1, ,1, , ,6,16,2,1,2, ,1,100
+2006,8,Richmond,Adelaide,14 ,"Polo, Dean",8,6,1,9, , , , , ,3, , , , , , ,9, , , ,2, ,95
+2006,8,Richmond,Adelaide,4 ,"Raines, Andrew",13,10,7,20, , , ,1,4,1,1,1,1,1, ,1,19, , ,1, , ,100
+2006,8,Richmond,Adelaide,12 ,"Richardson, Matthew",10,9,5,15, ,2, , ,1, , ,4, , , ,5,10,1,1, ,1, ,100
+2006,8,Richmond,Adelaide,5 ,"Simmonds, Troy",19,13,5,24,2, ,9,3,2,3,2,1,1, ,2,6,18,3,2,1, , ,75
+2006,8,Richmond,Adelaide,30 ,"Tambling, Richard",6,6,1,7,1, , ,3, ,2, , , , , ,1,6, ,1,5, , ,65
+2006,8,Richmond,Adelaide,32 ,"Tivendale, Greg",9,4,5,14, ,1, , , ,4,4, , , , ,5,9, , , , ,1,100
+2006,8,Richmond,Adelaide,21 ,"Tuck, Shane",13,8,3,16,1,1, ,4,1,4,3,2,1, , ,5,11, ,2, ,1,1,94

@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2021,13,North Melbourne,Greater Western Sydney,18 ,"Atley, Shaun",13,9,9,22, , , ,1,3,1, ,1, ,1, ,2,20, , ,1,1, ,80
+2021,13,North Melbourne,Greater Western Sydney,10 ,"Cunnington, Ben",14,4,11,25,2, , ,5,2,4,9,3,5, ,2,14,11, ,2, , , ,83
+2021,13,North Melbourne,Greater Western Sydney,9 ,"Davies-Uniacke, Luke",7,4,10,17,1, , ,4, ,2,6,1, ,1, ,9,9, , , ,1,1,83
+2021,13,North Melbourne,Greater Western Sydney,14 ,"Dumont, Trent",12,7,10,22, , , ,3,2,3,1,4, ,2, ,8,15, , , , , ,83
+2021,13,North Melbourne,Greater Western Sydney,6 ,"Garner, Taylor",5,3,2,7, , , ,2, ,2, ,3, ,2, ,1,6,1,1,1, ,1,79
+2021,13,North Melbourne,Greater Western Sydney,22 ,"Goldstein, Todd",9,6,5,14,1, ,29,3, ,2,4,4,2,3, ,6,9,1,1,10, ,1,95
+2021,13,North Melbourne,Greater Western Sydney,43 ,"Hall, Aaron",27,6,8,35, ,1, ,4,9,7, ,4,1, ,1,6,24,1, ,2, , ,84
+2021,13,North Melbourne,Greater Western Sydney,20 ,"Larkey, Nick",6,5,3,9,2, , , , ,2, ,4,1, , ,4,5,2,3, , ,2,84
+2021,13,North Melbourne,Greater Western Sydney,1 ,"Mahony, Jack",7,2,8,15,1,1, ,4, , ,1,2,1, , ,8,6, ,2, ,1, ,69
+2021,13,North Melbourne,Greater Western Sydney,23 ,"McKay, Ben",4,3,2,6, , , ,3,4, , , , , , , ,4, , ,9, , ,92
+2021,13,North Melbourne,Greater Western Sydney,24 ,"Powell, Tom",9,4,2,11,1, , ,4,1,3,1, , , , ,1,10, , , , ,1,66
+2021,13,North Melbourne,Greater Western Sydney,8 ,"Scott, Bailey",6,3,3,9,1,1, ,3, ,2, ,3, , , ,4,5, , , , , ,82
+2021,13,North Melbourne,Greater Western Sydney,12 ,"Simpkin, Jy",18,6,13,31, , , ,8,1,6,7,5,2,2, ,10,21, ,1,1, ,2,78
+2021,13,North Melbourne,Greater Western Sydney,2 ,"Stephenson, Jaidyn",15,8,3,18,1,1, ,1,2,4, ,2,1, , ,3,15, ,2, , , ,80
+2021,13,North Melbourne,Greater Western Sydney,25 ,"Tarrant, Robbie",8,4,6,14, , , ,3,2, , ,4,1,1, ,3,9,1, ,8, , ,82
+2021,13,North Melbourne,Greater Western Sydney,5 ,"Taylor, Curtis", , , , , , , , , , , , , , , , , , , , , , , 
+2021,13,North Melbourne,Greater Western Sydney,26 ,"Thomas, Tarryn",10,4,9,19,2, , ,2,1,6,1,5,1,2, ,6,13, ,1, , ,2,75
+2021,13,North Melbourne,Greater Western Sydney,28 ,"Turner, Kayne",7,5,9,16, , , ,2,4,1,1,3,1,2, ,7,9, , ,2, , ,85
+2021,13,North Melbourne,Greater Western Sydney,19 ,"Walker, Josh",6,6,5,11, , , , ,1,1, ,2, , , ,3,8, , ,4,1, ,96
+2021,13,North Melbourne,Greater Western Sydney,38 ,"Xerri, Tristan",4,2,4,8, , ,5,1, ,1, ,3, ,2, ,7,2,2,1,3, , ,72
+2021,13,North Melbourne,Greater Western Sydney,17 ,"Young, Lachie",5,4,4,9, , , ,1, ,2,1,3, ,1, ,4,5,1, , , , ,89
+2021,13,North Melbourne,Greater Western Sydney,7 ,"Ziebell, Jack",17,6,9,26, , , ,1,6, , ,2, , , ,5,17,1, ,3, , ,85
+2021,13,North Melbourne,Greater Western Sydney,44 ,"Zurhaar, Cameron",11,4,5,16,2,2, ,5, ,2,4,1,2,1, ,9,7, ,2,2, , ,80

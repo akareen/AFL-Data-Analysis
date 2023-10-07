@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2009,20,Adelaide,Hawthorn,11 ,"Doughty, Michael",12,7,12,24,1, ,1,4,5,3,1, ,2, , ,5,15, , ,3,1, ,86
+2009,20,Adelaide,Hawthorn,26 ,"Douglas, Richard",11,6,4,15,1,3, ,8, ,4, ,4,1,1, ,4,11, ,3, , ,1,87
+2009,20,Adelaide,Hawthorn,9 ,"Edwards, Tyson",12,8,11,23, ,1, ,4,1,1,1, ,1, , ,7,16, , , ,4, ,70
+2009,20,Adelaide,Hawthorn,36 ,"Goodwin, Simon",5,4,16,21, , , ,2,2,2, , , , , ,4,17, , , , , ,92
+2009,20,Adelaide,Hawthorn,37 ,"Hentschel, Trent",10,6,4,14,4,1, ,1, ,1,1, , , , ,5,7,1,4, ,1,1,92
+2009,20,Adelaide,Hawthorn,18 ,"Johncock, Graham",10,8,13,23, , , ,2, , , ,4,1,1, ,4,20, , ,1,2, ,89
+2009,20,Adelaide,Hawthorn,21 ,"Knights, Chris",8,5,8,16,1, , ,3,1, ,1,2, ,2, ,7,10,1,3,2, , ,92
+2009,20,Adelaide,Hawthorn,20 ,"Maric, Ivan",5,6,8,13, , ,17,4,1,2,4,1,2,1, ,7,6,2, ,1, , ,59
+2009,20,Adelaide,Hawthorn,23 ,"McLeod, Andrew",18,2,8,26, ,3, ,5,2,6,2,5, ,4,2,7,19,1,1,1, ,2,79
+2009,20,Adelaide,Hawthorn,22 ,"Otten, Andy",5,3,9,14, , , ,3, ,1,1,1,1, , ,4,10,1, ,3, , ,96
+2009,20,Adelaide,Hawthorn,40 ,"Porplyzia, Jason",7,5,4,11,2, , ,4, ,3, ,3, ,2, ,3,8,1,3,1, , ,90
+2009,20,Adelaide,Hawthorn,3 ,"Reilly, Brent",14,6,9,23, , , ,6,1,4,2,1,3, , ,7,16, ,1,1, , ,81
+2009,20,Adelaide,Hawthorn,25 ,"Rutten, Ben",8,5,5,13, , , , ,4,1, ,1, ,1,1,1,12,1, ,4, , ,100
+2009,20,Adelaide,Hawthorn,29 ,"Sellar, James",2,3,4,6, ,1,15,3, ,1, ,4, ,4, ,1,5, , ,1,1, ,44
+2009,20,Adelaide,Hawthorn,12 ,"Shirley, Robert",4,2,2,6, ,1, ,3, ,1, ,1, ,1, ,1,5, , ,4, , ,79
+2009,20,Adelaide,Hawthorn,31 ,"Sloane, Rory", ,1,6,6, , , ,7, , ,1,1, ,1, ,1,5, , ,1, , ,36
+2009,20,Adelaide,Hawthorn,27 ,"Stevens, Scott",13,6,8,21, , , ,1,5,3, ,1,2,1, ,8,13,2, ,2,2,1,100
+2009,20,Adelaide,Hawthorn,15 ,"Symes, Brad",12,5,7,19, ,2,1,5,1,5,1,2, ,2, ,4,16,1, ,2,2,1,78
+2009,20,Adelaide,Hawthorn,5 ,"Thompson, Scott",11,7,8,19,2, , ,3,1,2,3,3, , , ,7,12,1,1, , , ,85
+2009,20,Adelaide,Hawthorn,4 ,"Tippett, Kurt",7,2,3,10,1,1,3,1, ,2,1,5,2,3, ,7,3,1,2, , ,1,100
+2009,20,Adelaide,Hawthorn,7 ,"van Berlo, Nathan",7,2,11,18, , ,1,7, ,2,1,4,1,3, ,6,11,1, ,1, , ,89
+2009,20,Adelaide,Hawthorn,17 ,"Vince, Bernie",10,9,23,33,1,1, ,4,1,2,6,2,1,2,3,10,25, ,1,2,1, ,75

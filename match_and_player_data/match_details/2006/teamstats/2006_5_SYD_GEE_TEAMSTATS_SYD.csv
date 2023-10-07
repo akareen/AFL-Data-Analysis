@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2006,5,Sydney,Geelong,20 ,"Ablett, Luke",6,2,4,10, , , ,3, ,5,4,3, ,2, ,7,3, , ,2, , ,86
+2006,5,Sydney,Geelong,21 ,"Barry, Leo",8,5,3,11, , , , ,3, , ,3,2,2, ,7,5,1, ,3,2, ,100
+2006,5,Sydney,Geelong,6 ,"Bolton, Craig",9,5,6,15,2, , ,3,2,1,2,1,1,1, ,6,9, ,1,3, , ,100
+2006,5,Sydney,Geelong,24 ,"Bolton, Jude",15,3,10,25,1, , ,6,2,7,7,2,3, , ,15,11, , ,4,1,1,78
+2006,5,Sydney,Geelong,32 ,"Buchanan, Amon",11,4,3,14, , , ,5, ,3,3,2,2,1, ,7,6, , , , ,1,78
+2006,5,Sydney,Geelong,23 ,"Chambers, Paul", , ,4,4, , ,14, , , ,1,1, ,1, ,3,1, , ,2, , ,48
+2006,5,Sydney,Geelong,28 ,"Crouch, Jared",6,3,1,7, ,1, ,7,3,1,2,3, ,3, ,3,4, , ,3, , ,96
+2006,5,Sydney,Geelong,12 ,"Fosdike, Nic",6, , ,6, , , ,2, ,2,1,1, , , ,3,4, , , , , ,58
+2006,5,Sydney,Geelong,37 ,"Goodes, Adam",11,7,2,13,2,1,2,5,2,4,2, , , , ,6,7,2,3,1, , ,94
+2006,5,Sydney,Geelong,1 ,"Hall, Barry",17,11,2,19,4,2,3,2, ,3, ,2,2,1,3,9,11,2,4, , ,3,100
+2006,5,Sydney,Geelong,16 ,"Jolly, Darren",1,1,1,2, , ,14,2, , , , , , , , ,2, , ,1, , ,56
+2006,5,Sydney,Geelong,17 ,"Kennelly, Tadhg",12,1,8,20, , , ,2,3,1, ,2, , , ,7,7,1, ,9, , ,93
+2006,5,Sydney,Geelong,31 ,"Kirk, Brett",12,2,4,16, ,2, ,3, ,1,4,3, ,2, ,4,10, ,1,2, , ,100
+2006,5,Sydney,Geelong,9 ,"Malceski, Nick",7,4,2,9, ,1, ,4,2,1,2,1,1,1, ,4,5, , ,2, , ,70
+2006,5,Sydney,Geelong,4 ,"Mathews, Ben",7,2,4,11, , , ,3,2,4,3, , , , ,6,5, , , , , ,79
+2006,5,Sydney,Geelong,3 ,"McVeigh, Jarrad",8,5,2,10, ,1, ,4,1,2,1,4, ,2, ,3,7, ,1, , ,1,60
+2006,5,Sydney,Geelong,5 ,"OKeefe, Ryan",10,7,2,12,1, , ,3,1,5, , ,1, , ,5,8,1, ,1, , ,83
+2006,5,Sydney,Geelong,19 ,"OLoughlin, Michael",13,7,4,17,1,4, ,2, ,4,1,2,1,1, ,5,12,1,5, ,1, ,89
+2006,5,Sydney,Geelong,25 ,"Richards, Ted",3,2,4,7, , , ,3,1, , ,1,2,1, ,5,2, , ,4,3, ,89
+2006,5,Sydney,Geelong,30 ,"Roberts-Thomson, Lewis",4,2,4,8, , , ,1,2,1, ,2, , , ,2,7, , ,2, , ,81
+2006,5,Sydney,Geelong,13 ,"Schneider, Adam",10,3,3,13,4, , ,2, ,2,5,2,2,2,2,6,7, ,1,1, , ,81
+2006,5,Sydney,Geelong,10 ,"Williams, Paul",10,2,8,18, ,1, ,1,3,3,5,4, ,3, ,9,11, ,1,2,1,1,79

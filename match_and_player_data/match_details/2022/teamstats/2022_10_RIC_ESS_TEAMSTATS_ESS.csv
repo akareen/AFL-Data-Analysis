@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2022,10,Essendon,Richmond,24 ,"Bryan, Nick",6,1,4,10,1, ,6,4,1,1,3,5,1, , ,7,3, , ,2, , ,69
+2022,10,Essendon,Richmond,12 ,"Cutler, Tom",10,4,5,15, , , ,2,4,1, ,2, ,1, ,2,12, , ,4,1, ,77
+2022,10,Essendon,Richmond,2 ,"Draper, Sam",4,1,4,8, ,1,14,1, ,2,2,5,2,2, ,6,1, , ,2, , ,74
+2022,10,Essendon,Richmond,22 ,"Durham, Sam",7,3,7,14, , , ,2,3,1, ,1,1,1, ,7,8, , ,1, , ,70
+2022,10,Essendon,Richmond,10 ,"Francis, Aaron",2,3,2,4,1, , ,3, ,2, ,3, ,2, , ,4, ,1,2, , ,80
+2022,10,Essendon,Richmond,35 ↓,"Guelfi, Matt",4,4,8,12, , , , ,1, ,1,2, ,1, ,6,6, , ,2, ,1,67
+2022,10,Essendon,Richmond,21 ,"Heppell, Dyson",14,8,9,23, , , ,6,5, , ,3,1, , ,8,13, , ,2, , ,91
+2022,10,Essendon,Richmond,19 ,"Hind, Nick",12, ,3,15, , , ,2,4,2,1,1,2,1, ,6,8, , ,3,2,1,82
+2022,10,Essendon,Richmond,8 ,"Hobbs, Ben",6,2,4,10,2, , ,3, ,1,1, ,2, , ,4,7, ,1,1, , ,78
+2022,10,Essendon,Richmond,29 ,"Kelly, Jake",9,7,4,13, , , ,2,4, , ,3,1,2, ,3,10, , ,3, , ,95
+2022,10,Essendon,Richmond,15 ,"Laverde, Jayden",9,4,8,17, , , ,2,5,1, ,4,3,1, ,11,6,2, ,8, , ,74
+2022,10,Essendon,Richmond,37 ,"Martin, Nic",10,4,9,19, , , ,1,1, ,1,2,1, , ,4,17, , ,2, , ,95
+2022,10,Essendon,Richmond,1 ,"McGrath, Andrew",6,4,15,21, , , ,4,2,2,4,1,2, , ,9,12, , ,1, , ,78
+2022,10,Essendon,Richmond,7 ,"Merrett, Zach",19,4,14,33, , , ,2,3,9,4,5, , , ,9,24, , , , ,1,80
+2022,10,Essendon,Richmond,3 ,"Parish, Darcy",19,3,24,43, , , ,8,2,6,6,8, , , ,19,24, , ,1, ,1,88
+2022,10,Essendon,Richmond,16 ,"Perkins, Archie",6,2,3,9,1, , ,2, ,4, ,3,2, , ,4,5, ,1, , , ,79
+2022,10,Essendon,Richmond,27 ,"Redman, Mason",25,10,4,29, ,1, ,5,8,6,2,4,2,1, ,5,20,1, ,2, , ,85
+2022,10,Essendon,Richmond,31 ,"Reid, Zach",7,3,5,12, , , ,3,2, , ,2,2, , ,7,5, , ,5, , ,97
+2022,10,Essendon,Richmond,9 ,"Shiel, Dylan",10,2,9,19,1, , ,7, ,5,5,3,2,2, ,9,11, , ,2, , ,71
+2022,10,Essendon,Richmond,5 ,"Smith, Devon",5,1,6,11, , , , , ,1,2,4, ,2, ,6,4, , ,1, ,1,86
+2022,10,Essendon,Richmond,40 ↑,"Wanganeen, Tex",1, , ,1, ,1, ,1, , , ,1, , , , ,1, , , , , ,8
+2022,10,Essendon,Richmond,45 ,"Waterman, Alec",6,2,3,9,1,1, ,3, ,3, ,4, ,4, ,5,3, ,1,1, ,1,77
+2022,10,Essendon,Richmond,20 ,"Wright, Peter",5,3,4,9, , , ,1, ,2, ,2,1, , ,6,1,2, ,3, , ,100

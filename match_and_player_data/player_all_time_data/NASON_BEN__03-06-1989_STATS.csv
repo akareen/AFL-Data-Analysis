@@ -1,0 +1,24 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Richmond,2010,1,Carlton,1,L,47,7,4,3,10,1,,,1,,3,,2,,,,3,7,1,1,1,1,,84
+Richmond,2010,2,Western Bulldogs,2,L,47,9,4,5,14,,,,5,,2,,2,2,1,,6,8,,,2,,,85
+Richmond,2010,3,Sydney,3,L,47,9,6,6,15,1,1,,1,,5,,3,2,,,5,10,,2,,,1,84
+Richmond,2010,4,Melbourne,4,L,47,12,3,2,14,1,,,5,3,4,,,3,,,7,8,,,1,4,,78
+Richmond,2010,5,Fremantle,5,L,47,8,4,4,12,,1,,4,,1,,,,,,3,9,,1,,,,82
+Richmond,2010,6,Geelong,6,L,47,8,2,5,13,2,,,2,1,4,,1,,,,4,9,,,,1,,85
+Richmond,2010,7,Adelaide,7,L,47,7,3,5,12,,,,3,,2,,3,,1,,3,9,,,4,,,87
+Richmond,2010,8,Hawthorn,8,L,47,14,6,6,20,,,,,1,5,,1,1,1,,3,18,,,1,,1,87
+Richmond,2010,9,Essendon,9,L,47,5,2,3,8,1,,,3,,3,,,1,,,3,6,,,,,1,85
+Richmond,2010,10,Port Adelaide,10,W,47,8,1,3,11,3,,,7,1,2,,2,,1,,5,5,,1,2,1,,82
+Richmond,2010,11,St Kilda,11,L,47,2,1,6,8,,,,1,,,1,1,,1,,2,6,,,,,,86
+Richmond,2010,12,West Coast,12,W,47,9,5,7,16,3,,,3,2,5,1,2,2,,,7,10,1,1,3,,,85
+Richmond,2010,13,Brisbane Lions,13,W,47,8,3,5,13,,1,,4,,2,,2,2,1,,3,10,,,,,,88
+Richmond,2010,14,Sydney,14,W,47,9,3,2,11,1,,,2,1,2,,1,1,1,,4,6,,,3,2,1,80
+Richmond,2010,15,Fremantle,15,W,47,4,2,,4,,,,1,,1,,1,,1,,,4,,,1,,,25
+Richmond,2010,16,Collingwood,17,L,47,6,6,6,12,,,,2,2,1,,4,,1,,,12,,1,,2,,81
+Richmond,2010,17,Adelaide,18,W,47,3,3,4,7,,,,1,,,,1,1,,,1,6,,,1,,,82
+Richmond,2010,18,Melbourne,19,L,47,3,1,6,9,,,,1,,2,2,4,,4,,3,6,,,,,1,79
+Richmond,2010,19,Carlton,20,L,47,11,6,5,16,1,,,2,3,5,,2,2,1,,2,14,,,,3,,77
+Richmond,2011,20,North Melbourne,5,W,22,6,2,2,8,,,,4,,2,,1,,,,1,7,,,1,,,73
+Richmond,2011,21,Brisbane Lions,6,W,22,6,3,6,12,2,2,,1,,3,,,1,,,9,5,,1,1,,,58
+Richmond,2011,22,Fremantle,7,W,22,4,1,1,5,,,,,,2,,,,,,2,3,,,1,,,21
+Richmond,2011,23,Western Bulldogs,8,L,22,6,4,4,10,1,1,,1,1,1,,,1,,,3,7,,,2,,,71

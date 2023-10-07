@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2022,14,Gold Coast,Adelaide,9 ,"Ainsworth, Ben",9,4,11,20,3,2, , , ,2,1,2,1, ,1,8,12, ,2,1, ,1,84
+2022,14,Gold Coast,Adelaide,15 ,"Anderson, Noah",20,5,8,28, ,1, ,3,1,11,6,3,2, ,3,11,16, , ,1,1,1,93
+2022,14,Gold Coast,Adelaide,10 ,"Ballard, Charlie",9,5,4,13, , , ,1,3,1, ,5,2,2, ,3,8, , ,7, , ,91
+2022,14,Gold Coast,Adelaide,3 ↑,"Bowes, Jack",5,2,4,9, , , , ,1, ,1, , , , ,3,3, , , ,1, ,41
+2022,14,Gold Coast,Adelaide,35 ,"Budarick, Connor",12,5,3,15, , , ,2,3,1, ,3,1, , ,4,11, , ,1, , ,52
+2022,14,Gold Coast,Adelaide,30 ,"Casboult, Levi",4,3,1,5,3, , ,1, ,1, ,6, ,4, ,1,4,1,2,2, , ,100
+2022,14,Gold Coast,Adelaide,1 ,"Chol, Mabior",8,4,3,11,3, ,2,1, ,3,2,4,2,2, ,9,1,3,2,2, , ,75
+2022,14,Gold Coast,Adelaide,25 ,"Collins, Sam",7,4,1,8, , , ,3,4, , ,5,1,1, ,3,6, , ,12,1, ,100
+2022,14,Gold Coast,Adelaide,5 ,"Davies, Alex",4,1,3,7,1, , ,4,1,2,1,2,1,1, ,3,4, , ,1, , ,60
+2022,14,Gold Coast,Adelaide,4 ,"Ellis, Brandon",13,6,4,17, , , , , ,7, ,2, ,1, ,3,13, , ,1, ,1,95
+2022,14,Gold Coast,Adelaide,50 ,"Farrar, Jy",11,5,4,15, , , ,2,3,2, ,3,1,3, ,6,6,1, ,3, , ,72
+2022,14,Gold Coast,Adelaide,26 ,"Flanders, Sam",7,3,5,12,2,1, ,1,1,1,1,1, , , ,4,8, , ,1, , ,66
+2022,14,Gold Coast,Adelaide,46 ,"Graham, Caleb",8,5,3,11, , , , ,5,2,1,3, ,1, ,5,6,1, ,11, , ,100
+2022,14,Gold Coast,Adelaide,7 ,"Holman, Nick",10,2,5,15,2, , ,2,2,6, ,4,3,3, ,13,2,1, , ,1,1,90
+2022,14,Gold Coast,Adelaide,40 ,"Jeffrey, Joel",6,2,3,9,1, , ,2, ,4, ,1, , , ,4,5, , ,2,1, ,57
+2022,14,Gold Coast,Adelaide,23 ,"Lemmens, Sean",10,5,5,15, , , ,1, ,2, ,3, , , ,7,6,2, ,4, ,1,74
+2022,14,Gold Coast,Adelaide,17 ,"Markov, Oleg",6,4,4,10, , , , ,2,1,1,3, ,1, ,2,8, , , , , ,78
+2022,14,Gold Coast,Adelaide,11 ,"Miller, Touk",15,4,9,24, , , ,5,2,5,3,4,1,2, ,9,16, , ,1, ,2,80
+2022,14,Gold Coast,Adelaide,27 ↓,"Powell, Wil",9,1,3,12, ,1, ,2,1,4, ,3, , , ,4,8, , , ,1,1,48
+2022,14,Gold Coast,Adelaide,22 ,"Rankine, Izak",10,5,7,17,3,2, ,1, , ,2,2,2, , ,8,9, ,5,1, ,2,88
+2022,14,Gold Coast,Adelaide,18 ,"Rowell, Matt",13,2,6,19, , , ,11,1,4,7,1,5, , ,12,6, , ,1, , ,88
+2022,14,Gold Coast,Adelaide,24 ,"Swallow, David",14,3,7,21, , , ,4,3,1,3,3,5,1, ,13,11,1, ,4, ,1,83
+2022,14,Gold Coast,Adelaide,28 ,"Witts, Jarrod",7, ,5,12, , ,39,1, ,2,6,1,3, , ,9,2, , ,2, ,1,85

@@ -1,0 +1,342 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Footscray,1990,1,St Kilda,1,L,29,9,9,,9,2,3,,,,,,,,,,,,,,,,,
+Footscray,1990,2,Sydney,2,W,29,12,10,1,13,4,5,,,,,,,,1,,,,,,,,,
+Footscray,1990,3,West Coast,3,L,29,13,7,1,14,3,3,,4,,,,,2,1,,,,,,,,,
+Footscray,1990,4,Collingwood,4,L,29,7,3,4,11,4,,1,3,,,,,1,,,,,,,,,,
+Footscray,1990,5,Carlton,5,W,29,8,4,2,10,3,2,,,,,,,,3,,,,,,,,,
+Footscray,1990,6,Fitzroy,6,W,29,14,8,3,17,4,2,1,1,,,,,,1,,,,,,,,,
+Footscray,1990,7,North Melbourne,7,W,29,7,4,1,8,4,1,,,,,,,1,3,,,,,,,,,
+Footscray,1990,8,Essendon,8,L,29,7,7,3,10,,3,,,,,,,1,,,,,,,,,,
+Footscray,1990,9,Brisbane Bears,9,W,29,12,5,,12,6,3,,2,,,,,1,1,,,,,,,,,
+Footscray,1990,10,Geelong,10,L,29,9,6,,9,4,,,1,,,,,1,,,,,,,,,,
+Footscray,1990,11,Richmond,11,W,29,5,2,4,9,1,,,2,,,,,,,,,,,,,,,
+Footscray,1990,12,Melbourne,12,L,29,2,1,2,4,,,,,,,,,,,,,,,,,,,
+Footscray,1990,13,Hawthorn,13,W,29,11,7,4,15,2,1,,1,,,,,1,1,,,,,,,,,
+Footscray,1990,14,St Kilda,14,W,29,9,4,5,14,3,,,,,,,,1,,,,,,,,,,
+Footscray,1990,15,Sydney,15,W,29,6,2,3,9,4,,,,,,,,1,1,,,,,,,,,
+Footscray,1990,16,West Coast,16,L,29,9,8,1,10,2,5,,,,,,,,,,,,,,,,,
+Footscray,1990,17,Collingwood,17,W,29,9,7,1,10,3,1,,,,,,,,1,,,,,,,,,
+Footscray,1990,18,Carlton,18,L,29,3,1,1,4,1,,,,,,,,1,,,,,,,,,,
+Footscray,1990,19,Fitzroy,19,W,29,5,4,2,7,1,,,1,,,,,,,,,,,,,,,
+Footscray,1990,20,North Melbourne,20,L,29,4,3,1,5,,2,,,,,,,1,2,,,,,,,,,
+Footscray,1991,21,Collingwood,1,L,29,7,4,6,13,1,,,,,,,,2,1,,,,,,,,,
+Footscray,1991,22,Geelong,3,L,29,6,4,4,10,1,1,,,,,,,1,,,,,,,,,,
+Footscray,1991,23,Fitzroy,4,W,29,3,,1,4,,,,,,,,,2,1,,,,,,,,,
+Footscray,1991,24,Carlton,11,W,29,10,7,5,15,3,2,,2,,,,,2,1,,,,,,,,,
+Footscray,1991,25,Sydney,12,D,29,6,,2,8,,,,,,,,,3,5,,,,,,,,,
+Footscray,1991,26,West Coast,13,L,29,8,3,4,12,1,1,3,,,,,,,3,,,,,,,,,
+Footscray,1991,27,St Kilda,14,L,29,6,4,1,7,1,4,,,,,,,1,1,,,,,,,,,
+Footscray,1991,28,Essendon,15,W,29,11,7,6,17,1,1,,1,,,,,,,,,,,,,,,
+Footscray,1991,29,Collingwood,16,L,29,4,3,1,5,1,,,,,,,,,1,,,,,,,,,
+Footscray,1991,30,Fitzroy,19,W,29,9,6,5,14,2,2,,1,,,,,,5,,,,,,,,,
+Footscray,1991,31,Hawthorn,20,L,29,6,8,6,12,1,,,1,,,,,,1,,,,,,,,,
+Footscray,1991,32,Adelaide,21,W,29,11,11,16,27,,2,,2,,,,,2,1,,,,,,,,,
+Footscray,1991,33,Richmond,22,L,29,7,5,6,13,2,,,,,,,,1,3,,,,,,,,,
+Footscray,1991,34,Melbourne,23,L,29,9,7,8,17,2,,,,,,,,2,2,,,,,,,,,
+Footscray,1991,35,Brisbane Bears,24,W,29,10,6,6,16,2,2,,,,,,,1,2,,,,,,,,,
+Footscray,1992,36,Adelaide,1,W,29,11,4,1,12,1,2,,2,,,,,3,2,2,,,,,,,,
+Footscray,1992,37,St Kilda,2,W,29,11,7,6,17,4,2,,1,,,,,,1,,,,,,,,,
+Footscray,1992,38,Essendon,3,L,29,11,6,3,14,,1,,5,,,,,,3,,,,,,,,,
+Footscray,1992,39,Sydney,4,W,29,10,9,7,17,3,2,,2,,,,,2,,3,,,,,,,,
+Footscray,1992,40,North Melbourne,5,W,29,10,5,5,15,4,2,,,,,,,1,,,,,,,,,,
+Footscray,1992,41,Carlton,7,W,29,11,5,6,17,3,2,,3,,,,,2,1,,,,,,,,,
+Footscray,1992,42,West Coast,8,L,29,11,4,6,17,,1,,2,,,,,,2,,,,,,,,,
+Footscray,1992,43,Brisbane Bears,9,W,29,14,5,7,21,3,4,,,,,,,1,2,,,,,,,,,
+Footscray,1992,44,Richmond,10,W,29,6,1,8,14,,,,1,,,,,2,2,,,,,,,,,
+Footscray,1992,45,Hawthorn,11,W,29,11,4,6,17,2,2,,2,,,,,3,,,,,,,,,,
+Footscray,1992,46,Fitzroy,12,W,29,9,7,7,16,4,,,,,,,,1,2,,,,,,,,,
+Footscray,1992,47,Melbourne,13,W,29,15,7,8,23,3,1,,3,,,,,3,3,1,,,,,,,,
+Footscray,1992,48,Collingwood,14,L,29,12,6,9,21,1,,,,,,,,2,1,,,,,,,,,
+Footscray,1992,49,Geelong,15,L,29,12,8,6,18,3,2,,2,,,,,,2,,,,,,,,,
+Footscray,1992,50,Adelaide,16,W,29,11,8,5,16,4,,,2,,,,,1,2,,,,,,,,,
+Footscray,1992,51,Essendon,18,L,29,6,2,5,11,,,,1,,,,,2,1,,,,,,,,,
+Footscray,1992,52,Sydney,19,W,29,6,3,3,9,1,3,,2,,,,,2,4,,,,,,,,,
+Footscray,1992,53,North Melbourne,20,W,29,10,7,8,18,3,,,,,,,,1,3,,,,,,,,,
+Footscray,1992,54,Carlton,22,L,29,5,1,1,6,,,,2,,,,,1,2,,,,,,,,,
+Footscray,1992,55,West Coast,23,W,29,7,1,5,12,,1,,2,,,,,2,2,,,,,,,,,
+Footscray,1992,56,Brisbane Bears,24,W,29,11,11,11,22,3,2,,,,,,,1,5,2,,,,,,,,
+Footscray,1992,57,Geelong,QF,L,29,8,6,6,14,1,,,1,,,,,,1,,,,,,,,,
+Footscray,1992,58,St Kilda,SF,W,29,19,11,6,25,5,1,,1,,,,,3,4,,,,,,,,,
+Footscray,1992,59,Geelong,PF,L,29,12,5,5,17,2,,,2,,,,,2,1,,,,,,,,,
+Footscray,1993,60,Essendon,5,W,29,11,3,3,14,1,,,,,,,,6,6,,,,,,,,,
+Footscray,1993,61,West Coast,6,L,29,12,4,4,16,3,,1,,,,,,4,2,,,,,,,,,
+Footscray,1993,62,North Melbourne,7,L,29,11,8,5,16,3,,,,,,,,2,2,,,,,,,,,
+Footscray,1993,63,Carlton,8,W,29,9,5,8,17,1,1,,1,,,,,1,2,,,,,,,,,
+Footscray,1993,64,St Kilda,9,W,29,13,5,4,17,2,1,,2,,,,,2,3,,,,,,,,,
+Footscray,1993,65,Hawthorn,10,L,29,8,5,2,10,2,,,,,,,,1,1,,,,,,,,,
+Footscray,1993,66,Adelaide,11,L,29,8,7,2,10,1,2,,1,,,,,1,1,,,,,,,,,
+Footscray,1993,67,Sydney,12,W,29,11,7,3,14,4,3,,,,,,,2,2,,,,,,,,,
+Footscray,1993,68,Brisbane Bears,13,W,29,16,7,3,19,,,1,2,,,,,3,4,,,,,,,,,
+Footscray,1993,69,Geelong,14,L,29,13,11,3,16,1,,,1,,,,,2,3,,,,,,,,,
+Footscray,1993,70,Richmond,15,W,29,9,4,4,13,,,,1,,,,,2,1,,,,,,,,,
+Footscray,1993,71,Collingwood,16,L,29,16,9,2,18,3,7,,3,,,,,2,3,,,,,,,,,
+Footscray,1993,72,Melbourne,17,L,29,15,6,5,20,1,2,,,,,,,2,,,,,,,,,,
+Footscray,1993,73,Fitzroy,18,W,29,19,13,3,22,3,3,,,,,,,1,2,,,,,,,,,
+Footscray,1993,74,Essendon,20,L,29,9,5,1,10,3,,,1,,,,,,1,,,,,,,,,
+Footscray,1993,75,West Coast,21,W,29,11,5,6,17,1,1,,1,,,,,4,1,,,,,,,,,
+Footscray,1993,76,North Melbourne,22,W,29,9,5,4,13,4,2,,1,,,,,,1,,,,,,,,,
+Footscray,1994,77,Richmond,1,W,3,11,6,3,14,4,5,,,,,,,1,,1,,,,,,,,
+Footscray,1994,78,Geelong,2,L,3,5,2,2,7,1,,2,,,,,,2,2,,,,,,,,,
+Footscray,1994,79,Collingwood,3,L,3,14,4,3,17,2,2,1,1,,,,,2,,,,,,,,,,
+Footscray,1994,80,North Melbourne,4,L,3,12,5,3,15,3,5,,,,,,,3,3,,,,,,,,,
+Footscray,1994,81,Adelaide,5,W,3,10,8,2,12,3,,,1,,,,,2,2,,,,,,,,,
+Footscray,1994,82,Brisbane Bears,7,W,3,16,13,6,22,1,4,,2,,,,,1,1,3,,,,,,,,
+Footscray,1994,83,Melbourne,8,W,3,11,2,4,15,2,,,2,,,,,2,2,,,,,,,,,
+Footscray,1994,84,West Coast,9,L,3,7,2,5,12,,1,,2,,,,,2,1,,,,,,,,,
+Footscray,1994,85,Carlton,10,L,3,13,8,5,18,,4,,1,,,,,1,4,3,,,,,,,,
+Footscray,1994,86,Hawthorn,11,L,3,10,7,3,13,3,2,,1,,,,,,3,,,,,,,,,
+Footscray,1994,87,Essendon,12,W,3,14,8,5,19,5,2,,2,,,,,2,2,2,,,,,,,,
+Footscray,1994,88,Sydney,13,W,3,16,11,2,18,6,2,,1,,,,,3,1,1,,,,,,,,
+Footscray,1994,89,Fitzroy,14,W,3,18,11,4,22,6,4,,1,,,,,,2,3,,,,,,,,
+Footscray,1994,90,Richmond,16,L,3,15,7,3,18,3,2,,,,,,,2,2,,,,,,,,,
+Footscray,1994,91,Geelong,17,W,3,8,6,2,10,3,4,,,,,,,2,2,,,,,,,,,
+Footscray,1994,92,Collingwood,18,W,3,8,7,2,10,3,1,,,,,,,1,1,,,,,,,,,
+Footscray,1994,93,North Melbourne,19,L,3,8,4,2,10,2,2,4,1,,,,,3,1,,,,,,,,,
+Footscray,1994,94,Adelaide,20,W,3,12,8,3,15,7,2,,,,,,,3,1,,,,,,,,,
+Footscray,1994,95,St Kilda,21,W,3,9,8,7,16,2,2,1,3,,,,,1,5,,,,,,,,,
+Footscray,1994,96,Brisbane Bears,22,W,3,11,5,4,15,5,5,,,,,,,2,,,,,,,,,,
+Footscray,1994,97,Melbourne,23,W,3,14,8,2,16,4,4,1,,,,,,1,4,2,,,,,,,,
+Footscray,1994,98,West Coast,24,L,3,10,7,1,11,2,2,,,,,,,1,1,,,,,,,,,
+Footscray,1994,99,Geelong,QF,L,3,7,5,3,10,2,1,1,,,,,,1,1,,,,,,,,,
+Footscray,1994,100,Melbourne,SF,L,3,5,3,1,6,2,1,,,,,,,1,2,,,,,,,,,
+Footscray,1995,101,Sydney,1,W,3,14,5,4,18,4,3,1,3,,,,,2,3,,,,,,,,,
+Footscray,1995,102,Hawthorn,2,W,3,10,6,2,12,3,1,,1,,,,,3,2,,,,,,,,,
+Footscray,1995,103,Carlton,3,L,3,8,5,3,11,1,4,,2,,,,,,,,,,,,,,,
+Footscray,1995,104,Melbourne,4,W,3,12,5,5,17,1,1,1,2,,,,,2,,,,,,,,,,
+Footscray,1995,105,Fremantle,5,W,3,10,5,6,16,3,,,1,,,,,2,,,,,,,,,,
+Footscray,1995,106,Geelong,6,L,3,8,6,8,16,1,1,,4,,,,,2,2,,,,,,,,,
+Footscray,1995,107,St Kilda,7,L,3,7,5,8,15,1,,,,,,,,2,,,,,,,,,,
+Footscray,1995,108,North Melbourne,8,L,3,12,12,8,20,2,,1,2,,,,,1,2,,,,,,,,,
+Footscray,1995,109,Essendon,9,L,3,8,5,3,11,1,1,1,,,,,,1,2,,,,,,,,,
+Footscray,1995,110,Richmond,10,L,3,8,7,4,12,1,1,2,1,,,,,,1,,,,,,,,,
+Footscray,1995,111,Adelaide,11,L,3,9,7,6,15,,3,1,3,,,,,,6,,,,,,,,,
+Footscray,1995,112,Collingwood,12,D,3,7,5,5,12,2,1,,,,,,,,,,,,,,,,,
+Footscray,1995,113,Brisbane Bears,13,W,3,10,6,4,14,1,3,,1,,,,,1,1,,,,,,,,,
+Footscray,1995,114,Fitzroy,14,W,3,15,8,2,17,7,3,,,,,,,3,,2,,,,,,,,
+Footscray,1995,115,Sydney,16,W,3,12,6,4,16,3,,1,,,,,,4,,,,,,,,,,
+Footscray,1995,116,Hawthorn,17,W,3,8,5,4,12,1,2,1,,,,,,,,,,,,,,,,
+Footscray,1995,117,Carlton,18,L,3,3,1,2,5,1,1,,,,,,,,1,,,,,,,,,
+Footscray,1995,118,Melbourne,19,W,3,11,5,3,14,1,,1,,,,,,2,1,,,,,,,,,
+Footscray,1995,119,Fremantle,20,L,3,13,8,6,19,1,,,2,,,,,3,2,,,,,,,,,
+Footscray,1995,120,Geelong,21,W,3,10,7,3,13,3,1,1,1,,,,,,1,,,,,,,,,
+Footscray,1995,121,St Kilda,22,L,3,11,9,7,18,,,,1,,,,,2,,,,,,,,,,
+Footscray,1995,122,Geelong,QF,L,3,8,5,4,12,,,,,,,,,1,1,,,,,,,,,
+Footscray,1996,123,Brisbane Bears,1,L,3,7,3,3,10,,,,4,,,,,,2,,,,,,,,,
+Footscray,1996,124,North Melbourne,2,L,3,10,4,3,13,1,,2,1,,,,,1,,,,,,,,,,
+Footscray,1996,125,Fitzroy,3,W,3,11,7,6,17,1,3,,1,,,,,1,,2,,,,,,,,
+Footscray,1996,126,Hawthorn,4,D,3,8,5,9,17,,2,2,,,,,,3,1,,,,,,,,,
+Footscray,1996,127,St Kilda,5,L,3,12,8,10,22,,1,,1,,,,,3,,,,,,,,,,
+Footscray,1996,128,Carlton,6,L,3,10,5,7,17,1,,,,,,,,4,1,,,,,,,,,
+Footscray,1996,129,Richmond,7,L,3,11,6,4,15,,1,,,,,,,,,,,,,,,,,
+Footscray,1996,130,Essendon,8,L,3,10,5,4,14,2,1,,,,,,,2,1,,,,,,,,,
+Footscray,1996,131,Adelaide,9,W,3,11,2,6,17,1,,,2,,,,,2,,,,,,,,,,
+Footscray,1996,132,North Melbourne,10,L,3,15,4,3,18,,,1,,,,,,1,,3,,,,,,,,
+Footscray,1996,133,Geelong,11,L,3,15,7,4,19,,1,1,3,,,,,4,4,,,,,,,,,
+Footscray,1996,134,Sydney,12,L,3,15,11,4,19,2,1,,4,,,,,2,1,1,,,,,,,,
+Footscray,1996,135,West Coast,13,L,3,9,4,4,13,2,2,,2,,,,,,,,,,,,,,,
+Footscray,1996,136,Melbourne,14,L,3,13,8,2,15,1,,2,1,,,,,1,1,,,,,,,,,
+Footscray,1996,137,Fremantle,15,W,3,20,6,4,24,,,1,2,,,,,4,,3,,,,,,,,
+Footscray,1996,138,Brisbane Bears,16,L,3,16,9,4,20,,,,1,,,,,1,,2,,,,,,,,
+Footscray,1996,139,Collingwood,17,L,3,10,8,5,15,,,,,,,,,,1,3,,,,,,,,
+Footscray,1996,140,Fitzroy,18,W,3,9,5,1,10,1,,,1,,,,,,,,,,,,,,,
+Footscray,1996,141,Hawthorn,19,L,3,11,7,2,13,2,,,2,,,,,,,,,,,,,,,
+Footscray,1996,142,St Kilda,20,W,3,18,8,3,21,,,,,,,,,2,1,3,,,,,,,,
+Footscray,1996,143,Carlton,21,L,3,7,5,8,15,,,2,1,,,,,1,1,1,,,,,,,,
+Footscray,1996,144,Essendon,22,L,3,19,8,5,24,2,,,1,,,,,6,,2,,,,,,,,
+Western Bulldogs,1997,145,Fremantle,1,L,3,8,5,7,15,1,1,,2,,,,,3,1,,,,,,,,,
+Western Bulldogs,1997,146,Sydney,2,W,3,11,9,6,17,,,2,2,,,,,1,1,3,,,,,,,,
+Western Bulldogs,1997,147,Richmond,3,W,3,9,6,6,15,,,,,,,,,1,1,,,,,,,,,
+Western Bulldogs,1997,148,Melbourne,4,W,3,3,1,7,10,,,3,1,,,,,,,3,,,,,,,,
+Western Bulldogs,1997,149,Adelaide,5,L,3,14,6,4,18,1,1,,,,,,,7,,,,,,,,,,
+Western Bulldogs,1997,150,West Coast,6,W,3,17,7,6,23,1,1,1,1,,,,,,1,3,,,,,,,,
+Western Bulldogs,1997,151,Hawthorn,7,W,3,19,11,10,29,2,3,,,,,,,1,2,3,,,,,,,,
+Western Bulldogs,1997,152,North Melbourne,9,W,3,11,9,8,19,2,1,3,1,,,,,,,,,,,,,,,
+Western Bulldogs,1997,153,Essendon,10,W,3,14,8,3,17,2,1,,,,,,,2,1,,,,,,,,,
+Western Bulldogs,1997,154,Geelong,11,W,3,7,3,2,9,2,,,2,,,,,3,1,,,,,,,,,
+Western Bulldogs,1997,155,Port Adelaide,12,L,3,9,8,9,18,1,,,1,,,,,1,4,,,,,,,,,
+Western Bulldogs,1997,156,St Kilda,13,W,3,20,12,10,30,2,3,1,2,,,,,2,3,3,,,,,,,,
+Western Bulldogs,1997,157,Carlton,14,W,3,17,8,10,27,4,2,,4,,,,,1,1,3,,,,,,,,
+Western Bulldogs,1997,158,Brisbane Lions,15,L,3,14,9,6,20,1,1,,,,,,,,1,,,,,,,,,
+Western Bulldogs,1997,159,Fremantle,16,L,3,15,8,5,20,2,1,,1,,,,,3,2,1,,,,,,,,
+Western Bulldogs,1997,160,Sydney,17,L,3,6,5,3,9,1,2,,2,,,,,,2,,,,,,,,,
+Western Bulldogs,1997,161,Richmond,18,L,3,7,6,7,14,4,1,,1,,,,,,3,,,,,,,,,
+Western Bulldogs,1997,162,Melbourne,19,W,3,12,7,6,18,,,,,,,,,2,1,,,,,,,,,
+Western Bulldogs,1997,163,Adelaide,20,W,3,11,10,8,19,2,,,3,,,,,,2,3,,,,,,,,
+Western Bulldogs,1997,164,West Coast,21,W,3,14,8,4,18,3,,,2,,,,,4,3,3,,,,,,,,
+Western Bulldogs,1997,165,Hawthorn,22,W,3,18,7,7,25,1,2,,1,,,,,2,2,2,,,,,,,,
+Western Bulldogs,1997,166,Sydney,QF,W,3,15,9,5,20,3,,,1,,,,,1,,,,,,,,,,
+Western Bulldogs,1997,167,Adelaide,PF,L,3,10,8,9,19,2,2,,2,,,,,1,1,,,,,,,,,
+Western Bulldogs,1998,168,Brisbane Lions,1,W,3,17,8,6,23,,2,,2,,9,4,2,5,1,3,,,,,,,,
+Western Bulldogs,1998,169,Carlton,2,W,3,16,14,4,20,2,1,1,,,7,1,1,,3,2,,,,,,,,
+Western Bulldogs,1998,170,Collingwood,3,W,3,12,6,4,16,,1,1,1,,5,1,3,,1,,,,,,,,,
+Western Bulldogs,1998,171,Geelong,4,W,3,15,11,3,18,3,3,2,,,3,1,1,1,1,3,,,,,,,,
+Western Bulldogs,1998,172,North Melbourne,7,W,3,13,8,2,15,4,1,,,,5,,,1,1,,,,,,,,,
+Western Bulldogs,1998,173,Hawthorn,8,W,3,13,14,5,18,3,1,,,,5,,,,1,,,,,,,,,
+Western Bulldogs,1998,174,Richmond,9,W,3,7,6,4,11,,2,1,2,,1,1,,,,,,,,,,,,
+Western Bulldogs,1998,175,West Coast,10,L,3,12,5,7,19,3,1,,1,,4,3,,,,,,,,,,,,
+Western Bulldogs,1998,176,Adelaide,11,W,3,15,9,6,21,3,4,,2,,2,,3,3,3,,,,,,,,,
+Western Bulldogs,1998,177,Fremantle,12,W,3,15,7,6,21,2,2,,3,,3,,1,,1,,,,,,,,,
+Western Bulldogs,1998,178,Port Adelaide,13,L,3,12,5,6,18,,1,,,,5,2,1,3,1,,,,,,,,,
+Western Bulldogs,1998,179,St Kilda,14,L,3,20,16,6,26,2,,1,2,,9,2,3,,1,1,,,,,,,,
+Western Bulldogs,1998,180,Melbourne,15,W,3,15,12,6,21,3,1,,,,6,,2,2,,,,,,,,,,
+Western Bulldogs,1998,181,Brisbane Lions,16,W,3,16,10,9,25,4,1,,3,,6,2,1,1,2,2,,,,,,,,
+Western Bulldogs,1998,182,Carlton,17,L,3,14,6,4,18,2,4,,,,4,1,,6,2,,,,,,,,,
+Western Bulldogs,1998,183,Collingwood,18,W,3,10,5,8,18,,2,3,5,,5,5,,1,4,,,,,,,,,
+Western Bulldogs,1998,184,Geelong,19,L,3,11,5,4,15,1,4,,,,2,1,1,2,2,,,,,,,,,
+Western Bulldogs,1998,185,Sydney,20,W,3,11,10,8,19,,,4,5,,4,1,2,2,2,,,,,,,,,
+Western Bulldogs,1998,186,Essendon,21,W,3,13,5,5,18,1,2,,6,,7,1,,2,1,,,,,,,,,
+Western Bulldogs,1998,187,North Melbourne,22,L,3,16,10,4,20,4,,2,3,,7,1,,4,4,,,,,,,,,
+Western Bulldogs,1998,188,West Coast,QF,W,3,14,7,7,21,4,,,2,,3,,3,3,1,,,,,,,,,
+Western Bulldogs,1998,189,Adelaide,PF,L,3,7,6,3,10,1,1,1,2,,4,1,2,,,,,,,,,,,
+Western Bulldogs,1999,190,Adelaide,1,W,3,7,4,6,13,1,2,1,1,,1,2,2,1,1,,12,2,2,2,,,,
+Western Bulldogs,1999,191,Geelong,2,L,3,10,6,12,22,1,1,3,3,,3,2,2,3,2,,15,8,5,1,3,,,
+Western Bulldogs,1999,192,Carlton,3,L,3,4,4,9,13,,,3,2,,2,3,2,1,1,,7,8,1,,,,,
+Western Bulldogs,1999,193,St Kilda,4,L,3,10,5,5,15,2,1,,1,1,4,,,,2,,7,8,1,1,2,1,,
+Western Bulldogs,1999,194,Richmond,5,W,3,10,7,8,18,1,2,3,1,,8,2,3,1,2,,9,8,3,1,2,,,
+Western Bulldogs,1999,195,West Coast,6,L,3,11,6,5,16,1,1,3,,1,4,2,1,1,1,,7,10,2,1,,,,
+Western Bulldogs,1999,196,Port Adelaide,7,W,3,10,3,4,14,1,,3,4,,5,2,,2,1,,8,7,1,,,,,
+Western Bulldogs,1999,197,Melbourne,8,W,3,17,6,4,21,1,2,1,1,,9,7,2,2,2,,14,6,1,1,,1,,
+Western Bulldogs,1999,198,Collingwood,9,W,3,13,11,8,21,,,3,1,,8,,2,,1,2,7,14,2,,3,,,
+Western Bulldogs,1999,199,Brisbane Lions,10,W,3,16,4,6,22,,1,,1,2,5,2,1,2,3,,11,10,1,1,,,,
+Western Bulldogs,1999,200,Hawthorn,11,D,3,14,9,6,20,3,2,2,1,1,5,,1,,1,3,11,10,4,3,,,,
+Western Bulldogs,1999,201,Fremantle,12,W,3,12,8,3,15,1,2,,,,1,3,3,1,2,,5,12,,7,2,,,
+Western Bulldogs,1999,202,Essendon,13,L,3,14,10,12,26,3,3,,1,,5,4,,3,5,1,18,7,6,5,1,,,
+Western Bulldogs,1999,203,Sydney,14,W,3,12,9,5,17,3,3,2,1,,3,2,,2,1,3,12,6,5,6,,,,
+Western Bulldogs,1999,204,Kangaroos,15,W,3,17,10,1,18,6,,,1,,9,,1,1,1,2,7,11,4,5,,,,
+Western Bulldogs,1999,205,Adelaide,16,W,3,8,6,3,11,1,1,,,,1,,2,,3,,8,3,5,3,3,,,
+Western Bulldogs,1999,206,Geelong,17,W,3,12,8,6,18,2,2,,2,,5,1,4,1,1,,11,7,5,2,,,,
+Western Bulldogs,1999,207,Carlton,18,L,3,10,9,5,15,,1,1,,,4,2,,,2,,8,7,3,1,,,,
+Western Bulldogs,1999,208,St Kilda,19,W,3,14,9,6,20,1,1,,3,,8,1,3,1,2,,14,9,3,3,2,1,,
+Western Bulldogs,1999,209,Richmond,20,W,3,10,7,4,14,2,1,1,,,6,2,,,1,,8,7,4,2,1,,,
+Western Bulldogs,1999,210,West Coast,21,W,3,14,11,6,20,2,,2,2,,4,1,,1,1,,13,9,4,4,,,,
+Western Bulldogs,1999,211,Port Adelaide,22,W,3,12,10,4,16,1,,,4,,4,,1,2,1,,9,8,3,5,,,,
+Western Bulldogs,1999,212,West Coast,QF,L,3,15,7,5,20,,1,2,1,,5,3,7,3,4,,13,9,2,1,1,2,,
+Western Bulldogs,1999,213,Brisbane Lions,SF,L,3,12,7,4,16,4,2,,2,,1,1,2,2,1,,11,4,5,5,1,,,
+Western Bulldogs,2000,214,Adelaide,1,W,3,16,13,5,21,5,4,,,1,3,1,,2,1,1,12,8,5,11,1,,,
+Western Bulldogs,2000,215,Brisbane Lions,2,L,3,11,6,9,20,1,3,1,1,2,1,1,3,1,1,,11,9,1,4,3,,,
+Western Bulldogs,2000,216,Port Adelaide,3,W,3,12,5,7,19,7,3,,1,,1,2,1,4,1,3,12,8,1,5,1,,,
+Western Bulldogs,2000,217,Carlton,4,W,3,1,,2,3,,,,,,,,,,1,,2,2,,,,,,
+Western Bulldogs,2000,218,Essendon,6,L,3,7,3,3,10,1,2,1,1,,5,,2,1,,,5,5,,1,1,,,
+Western Bulldogs,2000,219,Hawthorn,7,L,3,11,2,4,15,2,,1,1,1,3,1,4,1,3,,9,7,,,,,,
+Western Bulldogs,2000,220,West Coast,8,L,3,14,8,5,19,,,,2,3,3,1,3,2,5,,6,12,3,,1,2,,
+Western Bulldogs,2000,221,St Kilda,9,W,3,11,2,3,14,3,2,,2,2,2,,2,1,2,,10,3,,2,3,,,
+Western Bulldogs,2000,222,Sydney,10,W,3,18,12,2,20,7,,,2,,4,1,2,2,3,3,10,9,4,7,2,,,
+Western Bulldogs,2000,223,Fremantle,11,W,3,10,9,4,14,2,1,,1,,1,1,,1,2,,6,8,2,6,2,,,
+Western Bulldogs,2000,224,Melbourne,12,W,3,9,6,1,10,3,2,,1,,2,2,2,3,,,8,3,3,3,2,,,
+Western Bulldogs,2000,225,Geelong,13,L,3,7,4,2,9,3,1,,1,,,2,1,1,1,,8,3,1,4,1,,,
+Western Bulldogs,2000,226,Richmond,14,L,3,6,5,5,11,,,,1,,1,,4,1,1,,7,5,1,1,2,,,
+Western Bulldogs,2000,227,Collingwood,20,W,3,13,6,3,16,,2,,3,2,2,1,3,,,,4,12,2,1,2,,,
+Western Bulldogs,2000,228,Essendon,21,W,3,26,12,3,29,2,,1,1,7,1,2,2,2,,,14,15,5,,2,,,
+Western Bulldogs,2000,229,Hawthorn,22,L,3,12,7,7,19,1,,,4,3,6,1,1,2,,,10,11,,,,,,
+Western Bulldogs,2000,230,Brisbane Lions,EF,L,3,9,5,5,14,3,,1,2,2,2,,1,,3,,7,7,2,3,,,,
+Western Bulldogs,2001,231,St Kilda,1,L,3,8,4,4,12,4,2,,5,,2,2,2,1,1,,9,4,1,4,,,,
+Western Bulldogs,2001,232,Richmond,2,W,3,11,6,1,12,4,2,2,3,1,1,3,,2,1,,7,4,3,5,,,,
+Western Bulldogs,2001,233,Collingwood,3,L,3,7,4,4,11,2,1,1,6,2,,2,1,,1,,4,7,1,2,,,,
+Western Bulldogs,2001,234,Brisbane Lions,4,W,3,7,6,5,12,2,2,,2,1,1,2,1,,1,,4,9,2,4,1,,,
+Western Bulldogs,2001,235,Hawthorn,5,L,3,10,7,3,13,,1,,4,,2,1,,,2,,4,9,1,2,,,,
+Western Bulldogs,2001,236,Port Adelaide,6,L,3,12,4,3,15,1,,2,4,2,3,2,,2,1,,7,8,1,,1,,,
+Western Bulldogs,2001,237,Melbourne,7,W,3,15,6,6,21,1,1,1,1,4,2,4,1,,,,8,13,,2,2,1,,
+Western Bulldogs,2001,238,Sydney,8,W,3,9,8,10,19,1,2,1,,3,1,2,1,2,,,11,12,3,2,1,,,
+Western Bulldogs,2001,239,West Coast,9,W,3,12,6,6,18,1,1,2,1,,3,2,4,3,2,,9,10,,1,1,,,
+Western Bulldogs,2001,240,Kangaroos,10,L,3,11,7,7,18,3,1,,3,3,2,3,,5,,,13,6,3,3,1,,,
+Western Bulldogs,2001,241,Adelaide,11,W,3,11,7,6,17,6,1,1,1,,5,,1,1,2,2,6,10,1,4,1,,,
+Western Bulldogs,2001,242,Geelong,12,W,3,11,6,2,13,1,,1,2,2,2,2,2,,1,1,6,7,3,1,,,,
+Western Bulldogs,2001,243,Carlton,13,L,3,10,4,3,13,1,4,1,,2,1,1,,2,1,,7,5,2,1,3,1,,
+Western Bulldogs,2001,244,Essendon,14,L,3,13,3,3,16,1,1,,3,2,7,5,2,3,,,10,5,2,1,5,1,,
+Western Bulldogs,2001,245,Fremantle,15,W,3,8,3,3,11,,2,,2,1,,,,1,,,6,4,2,1,3,,,
+Western Bulldogs,2001,246,St Kilda,16,W,3,15,6,3,18,2,,,3,1,2,,1,1,2,,9,10,2,2,3,,,
+Western Bulldogs,2001,247,Richmond,17,L,3,8,3,4,12,3,,4,6,1,1,1,1,1,2,,6,6,,2,3,1,,
+Western Bulldogs,2001,248,Brisbane Lions,18,L,3,17,5,4,21,3,3,,2,,4,,2,4,4,,11,10,3,2,1,,,
+Western Bulldogs,2001,249,Collingwood,19,L,3,6,1,4,10,2,,,4,,,,1,,1,,7,3,1,,3,,,
+Western Bulldogs,2001,250,Hawthorn,20,W,3,12,8,8,20,4,3,,3,,5,3,2,1,1,,9,12,1,6,1,,,
+Western Bulldogs,2001,251,Port Adelaide,21,L,3,5,2,3,8,1,1,,2,,1,,,,,,4,2,1,1,1,,,
+Western Bulldogs,2001,252,Melbourne,22,L,3,10,4,3,13,3,2,,1,,2,,1,2,1,,8,3,2,3,3,,,
+Western Bulldogs,2002,253,Adelaide,1,L,3,12,7,4,16,,2,,,1,3,1,4,,1,,3,14,1,2,1,,,
+Western Bulldogs,2002,254,Kangaroos,2,L,3,11,6,5,16,1,1,,,2,1,3,1,2,,,13,3,3,1,4,,,
+Western Bulldogs,2002,255,West Coast,3,L,3,5,4,3,8,2,1,7,1,,1,,,2,,,4,6,,2,2,2,,
+Western Bulldogs,2002,256,Brisbane Lions,4,L,3,14,7,7,21,,2,,,5,1,2,2,2,1,,10,11,1,2,,,,
+Western Bulldogs,2002,257,Melbourne,5,L,3,14,7,3,17,1,3,,1,2,2,,3,2,1,,7,11,2,2,4,3,,
+Western Bulldogs,2002,258,Carlton,6,W,3,5,3,9,14,3,1,,2,,1,,5,1,2,,7,7,1,2,,,,
+Western Bulldogs,2002,259,Collingwood,7,L,3,7,5,4,11,,4,,,,3,1,,1,,,6,4,1,3,2,,,
+Western Bulldogs,2002,260,Sydney,8,W,3,5,3,3,8,1,,1,5,,2,,3,,3,,6,4,1,,1,,,
+Western Bulldogs,2002,261,Geelong,9,W,3,19,10,4,23,,,1,3,10,2,,2,,1,2,13,9,7,,7,,,
+Western Bulldogs,2002,262,Richmond,10,W,3,8,5,5,13,2,,,2,,1,,,2,,,4,9,2,2,3,,,
+Western Bulldogs,2002,263,Fremantle,11,W,3,2,4,11,13,1,,1,1,,1,1,2,,2,,12,3,3,2,4,,,
+Western Bulldogs,2002,264,St Kilda,12,W,3,15,6,8,23,3,1,,2,5,1,2,3,,1,,13,9,3,2,2,,,
+Western Bulldogs,2002,265,Port Adelaide,13,L,3,6,1,4,10,1,1,,,1,3,1,1,,1,,5,5,,,2,,,
+Western Bulldogs,2002,266,Essendon,14,D,3,9,6,4,13,1,,,,3,2,,1,1,1,,7,6,3,1,3,,,
+Western Bulldogs,2002,267,Hawthorn,15,L,3,8,5,4,12,1,,1,1,2,2,1,3,,1,,4,8,1,1,3,,,
+Western Bulldogs,2002,268,Adelaide,16,L,3,8,2,4,12,,,,1,2,2,1,4,1,2,,6,5,1,,2,,,
+Western Bulldogs,2002,269,Kangaroos,17,W,3,9,5,4,13,,,,2,3,1,1,2,,1,,5,8,1,,,,,
+Western Bulldogs,2002,270,Brisbane Lions,19,L,3,9,4,2,11,,,,3,2,2,,2,1,1,,4,6,1,,2,,,
+Western Bulldogs,2002,271,Melbourne,20,L,3,6,3,5,11,,,,3,1,1,1,1,,,,4,7,,2,4,,,
+Western Bulldogs,2002,272,Carlton,21,L,3,12,8,6,18,,1,,3,3,,1,2,,2,,8,11,4,1,4,1,,
+Western Bulldogs,2002,273,Collingwood,22,W,3,12,10,10,22,,,,2,4,3,1,2,1,1,,9,13,2,,,,,
+Western Bulldogs,2003,274,Geelong,1,W,3,9,5,5,14,,,,,3,1,,1,2,,,5,9,1,,5,,,74
+Western Bulldogs,2004,275,West Coast,1,L,3,8,6,8,16,,,,,5,1,,3,2,,,8,9,2,,4,,,100
+Western Bulldogs,2004,276,Collingwood,2,L,3,16,9,6,22,,,,3,5,1,1,1,2,,,10,12,3,,6,1,,100
+Western Bulldogs,2004,277,Melbourne,3,L,3,4,2,3,7,,3,,,,1,,,1,,,5,2,,2,,,1,49
+Western Bulldogs,2004,278,Hawthorn,4,W,3,10,2,3,13,,,,1,4,,,1,,1,,4,7,1,,4,1,,100
+Western Bulldogs,2004,279,Port Adelaide,5,L,3,5,2,4,9,,3,,2,,3,1,1,,,,6,3,1,1,5,3,,87
+Western Bulldogs,2004,280,Kangaroos,6,W,3,10,7,3,13,,,,3,6,,2,2,1,2,,6,7,2,,2,,,100
+Western Bulldogs,2004,281,Essendon,7,L,3,11,9,6,17,,,,1,3,,,3,,1,,6,11,3,,,2,,100
+Western Bulldogs,2004,282,Richmond,8,L,3,11,8,3,14,,1,,4,2,1,1,3,,1,,5,8,2,,3,1,,100
+Western Bulldogs,2004,283,Carlton,9,W,3,8,2,4,12,,,,,4,,,2,2,1,,5,7,,,2,,,100
+Western Bulldogs,2004,284,Sydney,10,L,3,8,5,5,13,,,,,3,1,,2,4,,,8,8,1,,9,,,100
+Western Bulldogs,2004,285,Geelong,11,L,3,8,4,5,13,,,,2,4,,,2,,2,,6,5,1,,5,,,100
+Western Bulldogs,2004,286,St Kilda,12,W,3,8,5,10,18,,,,2,4,,,2,,2,,7,11,,,2,,,97
+Western Bulldogs,2004,287,Adelaide,13,L,3,5,3,2,7,,,,,,1,,1,,,,3,3,1,,8,,,100
+Western Bulldogs,2004,288,Fremantle,14,L,3,10,4,7,17,,,,1,,,,2,1,,,10,9,1,,1,,,98
+Western Bulldogs,2004,289,Brisbane Lions,15,L,3,3,1,1,4,,,,,3,,,,3,,,4,2,,,1,,,48
+Western Bulldogs,2004,290,Melbourne,16,L,3,5,5,6,11,,,2,4,2,1,1,,1,,,3,8,,,5,1,,100
+Western Bulldogs,2004,291,Collingwood,17,L,3,12,9,3,15,,,1,2,5,,,1,1,,,7,9,4,,7,1,,100
+Western Bulldogs,2004,292,West Coast,18,L,3,7,5,7,14,,,,2,2,1,1,1,1,,,4,9,1,,6,,,98
+Western Bulldogs,2004,293,Hawthorn,19,L,3,7,4,8,15,,,1,2,1,2,,1,,1,,7,8,,,1,,,100
+Western Bulldogs,2004,294,Port Adelaide,20,L,3,9,2,3,12,,,,,1,1,,2,3,2,,5,7,1,,1,,,100
+Western Bulldogs,2004,295,Kangaroos,21,W,3,6,3,5,11,,,,,2,,,2,1,2,,6,5,,,7,,1,100
+Western Bulldogs,2004,296,Essendon,22,L,3,9,9,7,16,,1,,3,1,2,,1,,,,5,12,1,,6,,,100
+Western Bulldogs,2005,297,Collingwood,1,W,3,8,5,4,12,,,,1,5,,,3,1,1,,2,9,,,6,,,100
+Western Bulldogs,2005,298,Richmond,3,L,3,6,3,4,10,,,,2,4,,,,,,,4,4,,,6,1,,100
+Western Bulldogs,2005,299,West Coast,4,L,3,7,3,3,10,4,,,1,1,1,,,,,,1,8,,,6,,,100
+Western Bulldogs,2005,300,Adelaide,5,W,3,10,5,2,12,,2,,5,1,3,,2,2,1,,6,5,,1,6,,,100
+Western Bulldogs,2005,301,Geelong,6,L,3,12,4,,12,,,,5,4,1,,,1,,,3,7,1,,7,,,100
+Western Bulldogs,2005,302,Brisbane Lions,7,W,3,13,10,1,14,,2,,,4,,,3,,3,,3,12,1,1,3,2,,100
+Western Bulldogs,2005,303,Kangaroos,8,W,3,10,5,2,12,2,,,1,1,1,,,,,2,4,8,,1,6,,,100
+Western Bulldogs,2005,304,Sydney,9,L,3,9,4,5,14,1,,,3,1,,1,,2,,,10,4,2,,4,,,72
+Western Bulldogs,2005,305,Essendon,10,L,3,7,3,3,10,3,,,4,,2,,3,1,2,,3,7,,2,5,,,89
+Western Bulldogs,2005,306,Hawthorn,11,W,3,,,,,,,,,,,,,,,,,,,,1,,,1
+Western Bulldogs,2005,307,Geelong,17,W,3,3,4,3,6,,1,,5,,,,1,,,,1,5,,1,3,1,,80
+Western Bulldogs,2005,308,Brisbane Lions,18,W,3,7,4,2,9,4,,,,,1,,3,,1,,1,7,,3,1,,1,83
+Western Bulldogs,2005,309,West Coast,19,W,3,11,4,,11,6,,,2,3,,,2,2,1,1,2,8,,3,4,2,,95
+Western Bulldogs,2005,310,Richmond,20,W,3,2,1,3,5,2,,,,,,,,,,,1,3,,1,3,,,73
+Western Bulldogs,2005,311,Melbourne,21,L,3,5,3,4,9,2,,,2,,1,,3,,1,,4,4,2,2,5,,,100
+Western Bulldogs,2005,312,Collingwood,22,W,3,5,,3,8,2,,,2,,,1,4,2,,,5,3,,,5,1,,90
+Western Bulldogs,2006,313,Richmond,1,W,3,8,7,7,15,,1,,,1,3,1,3,1,1,,7,8,2,,4,1,1,81
+Western Bulldogs,2006,314,Melbourne,2,W,3,6,5,6,12,1,1,,3,1,2,,3,1,2,,5,7,1,2,6,,,85
+Western Bulldogs,2006,315,Essendon,3,W,3,16,9,8,24,2,,,1,3,2,,2,,,3,7,16,1,1,7,3,,93
+Western Bulldogs,2006,316,Geelong,4,W,3,7,1,2,9,,1,,2,2,1,,2,2,,,3,5,,,3,,,80
+Western Bulldogs,2006,317,Adelaide,5,L,3,4,2,,4,,,,1,,1,,,2,,,2,2,,,1,,,60
+Western Bulldogs,2006,318,St Kilda,6,L,3,9,4,3,12,2,,1,4,2,2,1,2,3,,,7,6,,1,4,2,,100
+Western Bulldogs,2006,319,Port Adelaide,7,W,3,5,2,3,8,2,,,2,,,,1,,,,2,5,,1,1,,1,90
+Western Bulldogs,2006,320,Sydney,8,L,3,8,4,2,10,1,,3,2,3,2,1,1,4,1,,7,4,1,,,,1,75
+Western Bulldogs,2006,321,Collingwood,9,L,3,7,4,4,11,4,1,,3,1,,,3,1,3,,5,6,2,4,2,,,100
+Western Bulldogs,2006,322,Hawthorn,10,W,3,10,5,6,16,1,,,1,3,1,,5,,2,,6,10,1,2,4,5,,100
+Western Bulldogs,2006,323,Fremantle,11,W,3,2,1,4,6,,,,1,1,1,,1,,1,,,6,,,1,,1,70
+Western Bulldogs,2006,324,Brisbane Lions,12,W,3,8,5,2,10,4,2,,,1,1,1,4,1,4,,7,3,3,4,3,2,1,86
+Western Bulldogs,2006,325,West Coast,13,W,3,5,3,5,10,1,1,,,,,,3,,2,,5,5,,2,2,,1,100
+Western Bulldogs,2006,326,Kangaroos,14,L,3,5,2,3,8,2,,,3,,1,,1,1,,,3,5,1,,1,,,89
+Western Bulldogs,2006,327,Carlton,15,W,3,10,7,5,15,1,3,,1,,3,,,1,,,6,9,1,2,2,1,,95
+Western Bulldogs,2006,328,Geelong,16,L,3,8,6,9,17,1,,,1,,3,1,,1,,,5,13,,,1,2,1,100
+Western Bulldogs,2006,329,Melbourne,17,L,3,11,7,2,13,1,1,,1,3,2,,2,,,,4,8,1,2,2,8,,81
+Western Bulldogs,2006,330,Richmond,18,W,3,16,10,5,21,2,2,,1,3,2,,2,,,,5,16,2,4,2,3,2,96
+Western Bulldogs,2006,331,Port Adelaide,19,L,3,7,4,3,10,1,1,,5,1,2,,,1,,,4,6,1,3,,,,95
+Western Bulldogs,2006,332,Adelaide,20,W,3,8,6,3,11,,,,2,,3,,2,,1,,,11,,1,2,,,96
+Western Bulldogs,2006,333,St Kilda,21,L,3,8,7,10,18,1,1,1,1,2,1,2,1,1,1,,9,10,,3,1,3,,97
+Western Bulldogs,2006,334,Essendon,22,W,3,6,2,,6,,,,2,2,2,,5,,4,,3,4,,,3,,,78
+Western Bulldogs,2006,335,Collingwood,EF,W,3,10,4,3,13,,,,,6,,,2,1,1,,4,8,,,4,1,,100
+Western Bulldogs,2006,336,West Coast,SF,L,3,8,6,2,10,1,1,,1,1,2,,4,2,3,,3,7,1,1,2,,,88
+Western Bulldogs,2007,337,Kangaroos,13,L,3,6,3,1,7,1,2,,2,2,1,,,2,,,3,4,1,3,1,,1,82
+Western Bulldogs,2007,338,Port Adelaide,14,W,3,13,5,7,20,1,,,3,2,1,,1,2,1,,6,15,1,1,3,,,74
+Western Bulldogs,2007,339,St Kilda,18,D,3,13,10,5,18,1,,,1,1,,,4,1,1,,5,13,,2,2,,,74
+Western Bulldogs,2007,340,Melbourne,19,L,3,,,,,,,,,,,,,,,,,,,,,,,11
+Western Bulldogs,2007,341,Kangaroos,22,L,3,4,4,2,6,1,,,1,1,1,,5,,3,,3,3,1,1,1,,,74

@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2015,7,North Melbourne,Essendon,18 ↑,"Atley, Shaun",3,1,6,9, , , , ,1, ,2, ,1, , ,6,3, , , , , ,34
+2015,7,North Melbourne,Essendon,3 ,"Bastinac, Ryan",9,5,10,19, , , ,6,2,2,2,2, , , ,7,12, , ,1, ,1,81
+2015,7,North Melbourne,Essendon,50 ↓,"Brown, Ben",4,3,3,7, , ,1, , , ,1,1, , , ,3,4, , ,4, , ,54
+2015,7,North Melbourne,Essendon,10 ,"Cunnington, Ben",12,8,14,26,1,1,3,3,2,3,8,2,1,1, ,12,15, ,2,2, ,1,76
+2015,7,North Melbourne,Essendon,11 ,"Firrito, Michael",7,3,5,12, , , ,2,5, ,1,2, , , ,4,6, , , , , ,84
+2015,7,North Melbourne,Essendon,43 ,"Gibson, Sam",19,9,6,25,1,1, ,1,2,4,2,2, ,1, ,7,19,2,2,2, ,1,93
+2015,7,North Melbourne,Essendon,22 ,"Goldstein, Todd",7,3,1,8, , ,38,2,1,2,2,3,1,3, ,4,4,1, ,2, ,2,91
+2015,7,North Melbourne,Essendon,6 ,"Hansen, Lachlan",16,14,8,24, ,1, ,1,5,2, ,3,1,1, ,5,19,3, ,1, , ,86
+2015,7,North Melbourne,Essendon,29 ,"Harvey, Brent",8,3,12,20,1, , ,3,1,2,2,3,1,1, ,10,11, , ,1,1, ,94
+2015,7,North Melbourne,Essendon,4 ,"Higgins, Shaun",9,5,9,18,1,2, ,4,1,3,2,1, ,1, ,7,10,1,3, , ,1,92
+2015,7,North Melbourne,Essendon,5 ,"Jacobs, Ben",9,9,11,20, , , , , ,3, ,5,1,3, ,2,18, , ,2,2, ,91
+2015,7,North Melbourne,Essendon,34 ,"Macmillan, Jamie",8,5,5,13, , , ,1,2,1,1, , , , ,3,10, , ,1,1, ,75
+2015,7,North Melbourne,Essendon,21 ,"McDonald, Luke",6,2,8,14, , , ,4,1,3, ,2,1, , ,5,9, , , , , ,79
+2015,7,North Melbourne,Essendon,28 ,"Nahas, Robin",11,4,5,16,1,1, ,2,1,3,1,2,1,1, ,2,13, ,1,2,4,1,73
+2015,7,North Melbourne,Essendon,20 ,"Petrie, Drew",14,12,5,19,2, , ,4,4,3, ,3,1,1,1,7,12,3,2,3, , ,96
+2015,7,North Melbourne,Essendon,9 ,"Swallow, Andrew",9,1,10,19, , , ,11,2,3,3,2,3, , ,12,8, , ,2, , ,75
+2015,7,North Melbourne,Essendon,25 ,"Tarrant, Robbie",13,7,3,16, , , ,3,1,2, ,1,1, , ,2,12, , ,3, , ,90
+2015,7,North Melbourne,Essendon,12 ,"Thomas, Lindsay",13,3,1,14,2,3, , , ,5,4,1,3, , ,9,5,1,2, ,1,1,89
+2015,7,North Melbourne,Essendon,16 ,"Thompson, Scott",5,2,5,10, , , ,6,2, , ,2,2,2, ,5,5, , ,5, , ,94
+2015,7,North Melbourne,Essendon,30 ,"Waite, Jarrad",13,7,2,15,2,2, ,3,2,2, ,1,1, , ,7,7,1,2, ,1,1,93
+2015,7,North Melbourne,Essendon,19 ,"Wright, Sam",11,5,8,19, , , , ,3,3, ,1,1, , ,7,13, , , , , ,91
+2015,7,North Melbourne,Essendon,7 ,"Ziebell, Jack",26,5,3,29,2,2,2,1, ,5,11,3,2,1,3,15,14,1,1,1,1,1,71

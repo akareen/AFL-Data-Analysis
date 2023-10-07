@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2011,21,Hawthorn,Port Adelaide,39 ,"Bailey, Max",6,1,1,7,1, ,33,6, ,1,2,2,2,2, ,5,1,1,1,1, , ,68
+2011,21,Hawthorn,Port Adelaide,10 ,"Bateman, Chance",8,8,11,19,1, , , , ,1, ,1, , , ,1,20, , ,1, , ,83
+2011,21,Hawthorn,Port Adelaide,14 ,"Birchall, Grant",15,9,12,27,1,1, , ,1,2, ,2, ,1, ,5,21, ,2,3, , ,83
+2011,21,Hawthorn,Port Adelaide,47 ↑,"Breust, Luke",4,1, ,4,2,1, ,1, ,2, , , , , , ,4, ,1, , , ,25
+2011,21,Hawthorn,Port Adelaide,17 ,"Bruce, Cameron",7,8,16,23, , , ,5,1, ,3,2,2,2, ,7,15, , , , ,1,88
+2011,21,Hawthorn,Port Adelaide,9 ,"Burgoyne, Shaun",8,4,7,15, , , ,7,1,3,2,1, ,1, ,4,9, , ,2, ,1,82
+2011,21,Hawthorn,Port Adelaide,23 ,"Franklin, Lance",14,8,3,17,8, , ,5,1,3,1,2,2, ,2,8,9,3,7,3,3,1,93
+2011,21,Hawthorn,Port Adelaide,6 ,"Gibson, Josh",15,6,4,19, , , ,7,4,1, , ,4, , ,7,13,1, ,11, ,1,99
+2011,21,Hawthorn,Port Adelaide,18 ,"Guerra, Brent",9,4,10,19, ,1, ,3,2,4,1,1, , , ,5,14, , ,3,2,1,85
+2011,21,Hawthorn,Port Adelaide,20 ,"Hale, David",6,9,9,15,1,2,19,3, ,1,1,5,2,4, ,6,11,4,3, , , ,82
+2011,21,Hawthorn,Port Adelaide,15 ,"Hodge, Luke",8,5,11,19,1, ,1,3, ,2,2,6,1,2, ,9,10, , ,2, , ,82
+2011,21,Hawthorn,Port Adelaide,3 ,"Lewis, Jordan",13,7,19,32,2, ,4,4,1,4,4,1, , , ,8,24, ,2, , ,1,88
+2011,21,Hawthorn,Port Adelaide,5 ,"Mitchell, Sam",24,5,9,33,2, , ,2,1,7,6,2,3, ,3,13,19, ,1,1, ,3,92
+2011,21,Hawthorn,Port Adelaide,29 ,"Murphy, Tom",12,8,11,23, , , , ,2,1, ,1,1, , ,11,13, , ,3, ,1,94
+2011,21,Hawthorn,Port Adelaide,28 ,"Puopolo, Paul",10,4,13,23, , , ,2,1,4,1,1,5, , ,14,10,1, ,1, ,3,92
+2011,21,Hawthorn,Port Adelaide,33 ,"Rioli, Cyril",13,6,3,16,6,1, ,12, ,4, ,1,3, ,1,9,8,1,3,1,2,1,74
+2011,21,Hawthorn,Port Adelaide,25 ,"Schoenmakers, Ryan",12,9,5,17, , , ,1,1,3, ,3, ,2, ,5,12,2, ,3, , ,93
+2011,21,Hawthorn,Port Adelaide,12 ↓,"Sewell, Brad",6,4,7,13,1, , ,4, ,2,3,2,1, , ,6,7,1, ,1, , ,49
+2011,21,Hawthorn,Port Adelaide,26 ,"Shiels, Liam",16,6,14,30,1, ,1,6,2,6,9,1,1,1, ,12,21, , ,4, ,2,86
+2011,21,Hawthorn,Port Adelaide,16 ,"Smith, Isaac",14,11,11,25,2, , ,2,1,5,3,1,1,1, ,6,19, ,1, , ,2,86
+2011,21,Hawthorn,Port Adelaide,31 ,"Suckling, Matt",24,8,5,29,1,1, ,1,5,5, ,4, ,2, ,1,27, , ,1,1,1,80
+2011,21,Hawthorn,Port Adelaide,37 ,"Whitecross, Brendan",16,9,5,21,1,2, ,3, ,7, , ,1, , ,4,17, ,2,1, ,3,96

@@ -1,0 +1,66 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Melbourne,2021,1,Fremantle,1,W,23,10,5,5,15,1,1,,6,,3,1,3,1,1,,3,13,,1,1,,2,73
+Melbourne,2021,2,St Kilda,2,W,23,10,6,10,20,,1,,9,2,2,,2,,,,2,18,,,1,,,65
+Melbourne,2021,3,Greater Western Sydney,3,W,23,11,6,5,16,1,,,3,1,1,2,4,,1,,3,13,,1,,,,66
+Melbourne,2021,4,Geelong,4,W,23,1,,3,4,,,,5,,,,,,,,,4,,,,,,56
+Melbourne,2021,5,Hawthorn,5,W,23,7,1,13,20,,,,4,,2,4,2,2,,,8,12,,,2,,,71
+Melbourne,2021,6,Richmond,6,W,23,5,1,13,18,,1,,5,2,2,1,3,1,1,,7,14,,,1,,,56
+Melbourne,2021,7,North Melbourne,7,W,23,10,3,10,20,1,,,7,,4,4,2,1,1,,5,15,,,,,,72
+Melbourne,2021,8,Sydney,8,W,23,10,2,13,23,,,,8,1,3,2,6,1,,,13,11,,,,,,71
+Melbourne,2021,9,Carlton,9,W,23,12,2,8,20,,1,,13,4,6,2,5,2,1,,9,10,,,2,,,73
+Melbourne,2021,10,Adelaide,10,L,23,8,,3,11,,,,9,1,2,,5,1,1,,3,8,,,,,,59
+Melbourne,2021,11,Western Bulldogs,11,W,23,9,2,5,14,1,,,6,1,3,2,2,1,1,,8,6,1,,2,,1,70
+Melbourne,2021,12,Brisbane Lions,12,W,23,11,3,9,20,,,,,2,2,2,,,,,6,13,,,1,1,,86
+Melbourne,2021,13,Collingwood,13,L,23,10,5,13,23,,,,1,3,1,3,,3,,,11,13,,,,,,57
+Melbourne,2021,14,Essendon,15,W,23,9,5,12,21,2,1,,3,,2,1,2,1,,,5,16,,,1,,,62
+Melbourne,2021,15,Greater Western Sydney,16,L,23,8,2,12,20,,,,1,2,3,,2,1,,,7,12,,,1,,,65
+Melbourne,2021,16,Port Adelaide,17,W,23,11,2,10,21,,,,4,1,3,2,1,1,,,9,13,,,,,1,75
+Melbourne,2021,17,Hawthorn,18,D,23,11,4,9,20,,,,2,1,1,3,4,1,1,,5,14,,,2,,,82
+Melbourne,2021,18,Western Bulldogs,19,L,23,3,1,11,14,,,,2,1,1,,2,,,,6,9,,,,,,64
+Melbourne,2021,19,Gold Coast,20,W,23,,,2,2,,,,1,,,,,,,,1,1,,,1,,,22
+Melbourne,2021,20,West Coast,21,W,23,11,7,6,17,,1,,1,2,3,,2,,1,,3,15,,1,2,,,53
+Melbourne,2021,21,Adelaide,22,W,23,4,4,11,15,,,,5,1,1,1,1,1,,,6,9,,,,,,73
+Melbourne,2021,22,Geelong,23,W,23,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,2021,23,Brisbane Lions,QF,W,23,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,2021,24,Geelong,PF,W,23,7,3,2,9,,,,2,1,,,,,,,,10,,,,,,28
+Melbourne,2021,25,Western Bulldogs,GF,W,23,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,2022,26,Western Bulldogs,1,W,23,10,4,10,20,,,,2,1,,,2,3,,,8,12,,,,,,70
+Melbourne,2022,27,Gold Coast,2,W,23,5,1,17,22,,,,1,1,2,3,1,,,,11,12,,,2,,,70
+Melbourne,2022,28,Essendon,3,W,23,10,6,6,16,,,,1,,4,2,3,,,,6,9,,,1,,,81
+Melbourne,2022,29,Port Adelaide,4,W,23,13,2,14,27,,,,1,,4,1,2,,,,7,22,,,2,,1,76
+Melbourne,2022,30,Greater Western Sydney,5,W,23,11,2,9,20,1,,,2,4,2,3,4,,,,6,15,,,2,,,76
+Melbourne,2022,31,Richmond,6,W,23,9,4,10,19,,,,1,2,3,,,1,,,3,17,,,,,,77
+Melbourne,2022,32,Hawthorn,7,W,23,7,2,12,19,,,,6,3,1,2,3,1,,,7,12,,,,1,,82
+Melbourne,2022,33,St Kilda,8,W,23,9,3,6,15,,,,,1,3,,,3,,,5,9,,,,,,81
+Melbourne,2022,34,West Coast,9,W,23,15,6,12,27,,,,2,2,6,3,1,,,,6,21,,,,1,,84
+Melbourne,2022,35,North Melbourne,10,W,23,11,3,11,22,,,,,,3,,3,,1,,3,19,,,,,1,89
+Melbourne,2022,36,Fremantle,11,L,23,14,3,13,27,1,1,,2,2,3,2,4,2,1,,9,17,,,,1,,85
+Melbourne,2022,37,Sydney,12,L,23,14,2,10,24,1,1,,2,1,5,,2,4,,,7,18,,,3,,,72
+Melbourne,2022,38,Collingwood,13,L,23,23,8,6,29,1,,,3,4,5,1,2,1,,,4,25,,,,1,1,80
+Melbourne,2022,39,Brisbane Lions,15,W,23,13,4,11,24,2,1,,1,2,4,1,2,1,,,9,16,,,,1,,79
+Melbourne,2022,40,Adelaide,16,W,23,9,6,9,18,,,,6,1,1,3,1,,,,5,13,,,,,,83
+Melbourne,2022,41,Geelong,17,L,23,7,4,11,18,,,,1,3,,,3,,1,,4,15,,,,,,83
+Melbourne,2022,42,Port Adelaide,18,W,23,13,6,6,19,,,,3,2,7,,4,,,,4,16,,,4,,,82
+Melbourne,2022,43,Western Bulldogs,19,L,23,12,6,4,16,,,,1,1,1,,1,,1,,1,16,,,,,,81
+Melbourne,2022,44,Fremantle,20,W,23,8,2,12,20,1,,,3,1,2,2,2,,,,6,13,,,1,,,77
+Melbourne,2022,45,Collingwood,21,L,23,10,5,14,24,,,,2,1,2,1,3,,2,,7,17,,,,,,85
+Melbourne,2022,46,Carlton,22,W,23,9,2,8,17,,,,3,,2,1,3,2,,,4,13,,,,,,84
+Melbourne,2022,47,Brisbane Lions,23,W,23,1,2,1,2,,,,,,,,,,,,,2,,,,,,8
+Melbourne,2023,48,Sydney,3,W,23,13,8,8,21,1,1,,3,1,4,1,2,2,1,,6,16,,1,1,,1,80
+Melbourne,2023,49,West Coast,4,W,23,4,1,4,8,,1,,3,,2,,,1,,,2,6,,,,,1,24
+Melbourne,2023,50,Essendon,5,L,23,4,2,2,6,1,,,3,1,1,,2,,,,2,5,,1,,,,33
+Melbourne,2023,51,Richmond,6,W,23,6,4,11,17,1,,,2,2,4,,1,1,,,3,15,,,,,,66
+Melbourne,2023,52,North Melbourne,7,W,23,6,4,16,22,,,,1,,2,2,1,1,1,,7,15,,,1,,,83
+Melbourne,2023,53,Gold Coast,8,W,23,7,2,10,17,1,,,3,,2,1,3,2,,,5,12,,,,,,67
+Melbourne,2023,54,Hawthorn,9,W,23,6,1,4,10,,,,1,1,2,1,,,,,2,8,,,,,,35
+Melbourne,2023,55,Port Adelaide,10,L,23,4,1,2,6,,,,1,1,2,1,1,1,,,5,1,,,,,,25
+Melbourne,2023,56,Fremantle,11,L,23,2,1,1,3,,,,,,1,2,,,,,1,1,,,,,,22
+Melbourne,2023,57,Collingwood,13,W,23,6,2,1,7,,,,2,,2,,,2,,,2,6,,,,,,24
+Melbourne,2023,58,Geelong,15,L,23,4,1,5,9,,,,3,1,1,,2,,,,5,5,,,2,,,51
+Melbourne,2023,59,St Kilda,17,W,23,10,4,13,23,,,,4,,6,2,4,1,2,,7,18,,,,,,76
+Melbourne,2023,60,Brisbane Lions,18,W,23,11,8,8,19,,,,1,4,,3,4,,,,3,17,,1,1,,,75
+Melbourne,2023,61,Adelaide,19,W,23,6,2,5,11,,,,3,,3,,2,1,1,,3,7,,,,,1,76
+Melbourne,2023,62,Richmond,20,W,23,6,2,5,11,,1,,3,1,3,2,3,,2,,4,10,,1,2,,,69
+Melbourne,2023,63,North Melbourne,21,W,23,9,2,15,24,,,,1,2,5,4,3,,,,8,16,,,,,2,78
+Melbourne,2023,64,Carlton,22,L,23,4,,7,11,,,,2,,2,2,2,,,,4,7,,,,,,46
+Melbourne,2023,65,Carlton,SF,L,23,5,1,5,10,,,,1,,1,1,3,,1,,3,6,,,,,,60

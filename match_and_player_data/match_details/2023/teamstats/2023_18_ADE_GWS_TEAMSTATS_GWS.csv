@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2023,18,Greater Western Sydney,Adelaide,9 ,"Angwin, Ryan",6,1,8,14, , , ,7,1,3,3,1,2,1, ,8,6, , ,1, , ,81
+2023,18,Greater Western Sydney,Adelaide,7 ,"Ash, Lachie",13,5,8,21, , , ,2,6,1,1,4,1,2, ,3,16, , ,2,4,1,80
+2023,18,Greater Western Sydney,Adelaide,14 ,"Bedford, Toby",6,3,8,14, ,2, ,3, ,1,1,3, , , ,4,10, ,2,1, , ,79
+2023,18,Greater Western Sydney,Adelaide,32 ,"Briggs, Kieren",13,1,3,16, , ,30,4,4,5,7,8,1,3, ,13,4, , ,2, , ,74
+2023,18,Greater Western Sydney,Adelaide,46 ,"Brown, Callum",5,2,6,11,1, ,7,4,1,1,1,1, , , ,4,6, ,1,3, , ,85
+2023,18,Greater Western Sydney,Adelaide,44 ,"Buckley, Jack",5,3,3,8, , , ,7,2, , ,1, , , ,2,5, , ,11, , ,93
+2023,18,Greater Western Sydney,Adelaide,5 ↓,"Cadman, Aaron",4,2,2,6,1, , ,2, ,1, ,1, , , ,3,2,1, , , , ,44
+2023,18,Greater Western Sydney,Adelaide,3 ,"Coniglio, Stephen",15,4,8,23, , , ,9,1,4,3,5,2,2, ,9,13,1,1, , , ,84
+2023,18,Greater Western Sydney,Adelaide,13 ,"Cumming, Isaac",12,3,2,14, , , ,5,4,3,1,2,1, , ,6,6,2, ,5, ,1,70
+2023,18,Greater Western Sydney,Adelaide,16 ,"Daniels, Brent",7,1,6,13, , , ,2, ,4,6,1, , , ,7,5, , , , ,2,78
+2023,18,Greater Western Sydney,Adelaide,34 ↑,"Fahey, Josh",5, ,2,7,1, , ,1,1,2, ,3, , , ,1,5, , , , , ,15
+2023,18,Greater Western Sydney,Adelaide,4 ,"Greene, Toby",17,3,3,20,3, , ,2, ,11,2,6,1, ,3,10,10,1, ,1, ,1,95
+2023,18,Greater Western Sydney,Adelaide,27 ,"Himmelberg, Harry",11,6,6,17,1, , ,2,4,1, , , , , , ,14, , ,4, , ,83
+2023,18,Greater Western Sydney,Adelaide,23 ,"Hogan, Jesse",5,4,7,12,1,2, , , , ,1,2,1,1, ,5,7, ,4,2, ,1,88
+2023,18,Greater Western Sydney,Adelaide,39 ,"Idun, Connor",9,7,6,15, , , ,3,4,1, ,2, ,1, ,5,10, , ,9, , ,91
+2023,18,Greater Western Sydney,Adelaide,22 ,"Kelly, Josh",11,4,17,28,1, , ,6, ,3,9,5,2,1,2,21,9, , ,1, , ,86
+2023,18,Greater Western Sydney,Adelaide,38 ,"Lloyd, Daniel",5,2,7,12,1, , ,7, ,2, ,2, , , ,4,8, ,2,2, ,2,80
+2023,18,Greater Western Sydney,Adelaide,36 ,"Perryman, Harry",10,2,12,22, , , ,7,2,4,2,5,1,2, ,12,10, , ,2, , ,73
+2023,18,Greater Western Sydney,Adelaide,26 ,"Riccardi, Jake",9,1,2,11, ,2, , , ,1, ,1,1, , ,4,6, , ,4, , ,76
+2023,18,Greater Western Sydney,Adelaide,15 ,"Taylor, Sam",15,6,6,21, , , ,3,7,2,1, ,3, , ,14,6,2, ,8, , ,100
+2023,18,Greater Western Sydney,Adelaide,8 ,"Ward, Callan",9, ,7,16, ,1, ,3,1,4,2, ,1, , ,9,8, , ,1,1, ,73
+2023,18,Greater Western Sydney,Adelaide,10 ,"Wehr, Jacob",5,3,4,9, , , ,5, ,2,2,4,1,2, ,4,5,1, , , , ,86
+2023,18,Greater Western Sydney,Adelaide,6 ,"Whitfield, Lachie",21,6,7,28, , , ,2,6,4,1,1,1,1, ,7,17, , ,3,1, ,85

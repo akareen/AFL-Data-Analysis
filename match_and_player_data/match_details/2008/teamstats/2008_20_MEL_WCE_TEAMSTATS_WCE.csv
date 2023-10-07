@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2008,20,West Coast,Melbourne,35 ,"Armstrong, Steven",20,10,11,31,1, , ,6,5,5,4,1,3, , ,11,19,1,1, , ,1,88
+2008,20,West Coast,Melbourne,10 ,"Braun, Michael",7,4,4,11, , , ,1,1,6, ,2, ,2, , ,13, , ,2,1,1,82
+2008,20,West Coast,Melbourne,20 ,"Cox, Dean",10,7,14,24, ,2,13, ,1,2,3,1,2,1,1,6,19, , ,2, , ,90
+2008,20,West Coast,Melbourne,45 ,"Davis, Ryan",4,2,4,8, , , ,5, ,3, , ,1, , ,4,4, , ,1,1, ,56
+2008,20,West Coast,Melbourne,18 ,"Ebert, Brad",5, ,6,11, , , , , ,4,1,2, , , ,4,10, , ,1, ,2,75
+2008,20,West Coast,Melbourne,32 ,"Embley, Andrew",24,9,13,37, ,1, ,2,7,4, ,5, , , ,8,29, , ,4,3, ,91
+2008,20,West Coast,Melbourne,7 ,"Fletcher, Chad",1, ,7,8, , , , , , , , , , , ,3,6, , , , , ,72
+2008,20,West Coast,Melbourne,23 ,"Glass, Darren",3,3,15,18, , , , ,2, , , ,1, , ,6,10,1, ,4,1, ,90
+2008,20,West Coast,Melbourne,2 ,"LeCras, Mark",9,5,3,12,1,1, ,1, ,2,1,3, ,1, ,5,6, ,3, , , ,81
+2008,20,West Coast,Melbourne,21 ,"Lynch, Quinten",11,8,9,20,1,1,1,1,1,3,1,4, , , ,8,13,2,2,2, , ,95
+2008,20,West Coast,Melbourne,16 ,"Mackenzie, Eric",5,5,8,13, , , ,2,4, , ,1,2,1, ,4,8, , ,6, , ,94
+2008,20,West Coast,Melbourne,42 ,"Maister, Beau",8,5,7,15, , , ,1,4,1, , ,4, , ,6,10,1, ,1, , ,71
+2008,20,West Coast,Melbourne,27 ,"McKinley, Ben",7,3,2,9,2,3, ,1, , , ,1,1, , ,4,4,1,2, , , ,98
+2008,20,West Coast,Melbourne,12 ,"McNamara, Jamie",11,5,7,18, ,1,1, , ,3,2,2, ,1, ,6,11,1, , ,4, ,71
+2008,20,West Coast,Melbourne,6 ,"Nicoski, Mark",10,8,5,15, , , , ,6, , , , , , ,3,12, , ,1, , ,95
+2008,20,West Coast,Melbourne,34 ,"Notte, Tony",3, ,3,6, , , , ,1, , ,1,3,1, ,6, , , ,1, , ,74
+2008,20,West Coast,Melbourne,11 ,"Priddis, Matt",9,4,15,24, , , ,4,3,4,3,1,1, , ,10,14, , , ,1, ,81
+2008,20,West Coast,Melbourne,14 ,"Seaby, Mark",4,3,4,8, ,1,11,2,2, ,2,2,2,1, ,4,4,1, ,3, , ,56
+2008,20,West Coast,Melbourne,37 ,"Selwood, Adam",13,8,8,21, , , ,1,1,2,1,5,2, , ,7,15,1,1, ,1, ,91
+2008,20,West Coast,Melbourne,28 ,"Selwood, Scott",6,4,6,12, , , ,1,2,3, ,1, , , ,2,10, , ,5,1, ,71
+2008,20,West Coast,Melbourne,30 ,"Spangher, Matthew",8,6,6,14, , , ,3,1, ,1, ,2, , ,5,9, , ,1,1, ,88
+2008,20,West Coast,Melbourne,5 ,"Stenglein, Tyson",10,1,3,13, , , ,4,1,2, ,2,2, , ,2,10, , ,4, , ,89

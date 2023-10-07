@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2009,22,Fremantle,Geelong,17 ,"Ballantyne, Hayden",6,1,2,8,1, , ,4, ,2, ,3,3, , ,4,1,1,1, ,1, ,80
+2009,22,Fremantle,Geelong,26 ,"Bradley, Kepler",12,7,3,15,1, ,3,1,1,5,3,5,1,2, ,7,8,1,1,1,1,2,77
+2009,22,Fremantle,Geelong,48 ,"Broughton, Greg",4,2,3,7,1, , ,3, ,1,1, ,1, , ,2,5, , ,2, , ,60
+2009,22,Fremantle,Geelong,40 ,"de Boer, Matt",6,8,6,12, ,1, ,6, ,2, ,4,1,3, ,4,9,1,2,2, ,1,83
+2009,22,Fremantle,Geelong,25 ,"Dodd, Steven",7,4,10,17, , , ,5, ,1,1,3,3,2, ,8,8, , ,4, , ,93
+2009,22,Fremantle,Geelong,9 ,"Drum, Marcus",7,4,6,13, , , ,8,2,1,1,2, , , ,3,11, , ,3,1, ,90
+2009,22,Fremantle,Geelong,41 ,"Duffield, Paul",6,1,2,8,1, , ,2, ,2,2,1,2, , ,4,5, ,1,3, , ,85
+2009,22,Fremantle,Geelong,14 ,"Grover, Antoni",9,7,9,18, , , ,2,5, , ,3, ,1, ,7,10,2, ,3, , ,100
+2009,22,Fremantle,Geelong,4 ,"Hasleby, Paul",7,1,10,17, , , ,2,3,1,3,3,2,1, ,9,8, , ,1, , ,76
+2009,22,Fremantle,Geelong,43 ,"Hayden, Roger",10,5,4,14, , , ,4,4,1, ,4, ,2, ,4,11, , ,3, , ,64
+2009,22,Fremantle,Geelong,11 ,"Headland, Des",7,5,3,10,1, , ,4, ,3,1,1, ,1, ,4,6, ,1, , , ,82
+2009,22,Fremantle,Geelong,32 ,"Hill, Stephen",8,5,3,11,1, , ,2, ,2, , ,1, , ,6,4,1,1,3, ,1,81
+2009,22,Fremantle,Geelong,5 ,"Ibbotson, Garrick",5,1,1,6, ,1, ,2, ,1,3,1, , , ,3,2, ,1,1, , ,84
+2009,22,Fremantle,Geelong,23 ,"Mayne, Chris",6,6,3,9,1, , ,7, , , ,1, , , ,2,7,1,1,3, , ,86
+2009,22,Fremantle,Geelong,18 ,"McPharlin, Luke",4,4,9,13, , ,3,2,1,1,1,1, ,1, ,6,7, , ,4, ,1,89
+2009,22,Fremantle,Geelong,16 ,"Mundy, David",10,6,2,12, , , ,3, ,5,1,2, ,1, ,2,10, , ,2,1, ,84
+2009,22,Fremantle,Geelong,29 ,"Pavlich, Matthew",11,3,8,19,1, , ,8,2,5,3,4,1,3, ,7,13,1,1,4,1, ,76
+2009,22,Fremantle,Geelong,46 ,"Pearce, Clancee",5,1,3,8, , , ,1, ,2,1,2,1,1, ,3,5, , , , , ,67
+2009,22,Fremantle,Geelong,31 ,"Sandilands, Aaron",7, ,10,17, , ,33, ,2,3,6,6,3,2, ,10,7, , ,1, , ,89
+2009,22,Fremantle,Geelong,3 ,"Schammer, Byron",11,5,4,15, , , ,3,3,2,1,3,1,2, ,4,11,1, ,1, , ,71
+2009,22,Fremantle,Geelong,8 ,"Suban, Nick",9,4,4,13, ,1, , ,2,2, ,3,1,2, ,4,10, , ,2,1, ,67
+2009,22,Fremantle,Geelong,20 ,"Tarrant, Chris",10,5,6,16, , , ,5,6,2,1, , , , ,6,10,1, ,6, , ,100

@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2018,SF,Melbourne,Hawthorn,10 ,"Brayshaw, Angus",8,3,4,12,2, , ,3, ,2,3,2,2,2, ,8,5,2,2,1, , ,68
+2018,SF,Melbourne,Hawthorn,31 ,"Fritsch, Bayley",8,4,8,16, , , ,3,3, ,1,5,1,2, ,5,10,1, ,1, , ,82
+2018,SF,Melbourne,Hawthorn,17 ,"Frost, Sam",8,5,4,12, , , ,3,3,1, ,2,2, , ,6,7,1, ,4, , ,95
+2018,SF,Melbourne,Hawthorn,11 ,"Gawn, Max",8,5,7,15,1, ,41,1,2,1,1,4, , , ,7,7,2,1,3, , ,84
+2018,SF,Melbourne,Hawthorn,19 ,"Hannan, Mitch",3,3,3,6,1, , ,5, ,1, , ,1, , ,3,4,1,2,2, ,1,77
+2018,SF,Melbourne,Hawthorn,4 ,"Harmes, James",10,5,9,19, ,1, ,11,1,3,4,2,2,2, ,8,12, , ,2, , ,84
+2018,SF,Melbourne,Hawthorn,14 ,"Hibberd, Michael",14,7,6,20, , , ,2,8, , ,2, , , ,4,15, , ,6, , ,85
+2018,SF,Melbourne,Hawthorn,39 ,"Jetta, Neville",8,3,9,17, , , ,3,4,2, ,7,1,3, ,8,10, , ,4, , ,77
+2018,SF,Melbourne,Hawthorn,2 ,"Jones, Nathan",10,6,9,19, , , ,2,3,2, ,3,1,1, ,4,15, , , , , ,79
+2018,SF,Melbourne,Hawthorn,6 ,"Lewis, Jordan",7,3,9,16, , , ,1,1, ,3,4, ,2, ,8,6, , ,3, , ,84
+2018,SF,Melbourne,Hawthorn,28 ,"McDonald, Oscar",11,5,3,14, , , ,1,5, , ,2, , , ,2,12, , ,5, , ,97
+2018,SF,Melbourne,Hawthorn,25 ,"McDonald, Tom",10,10,4,14,4, ,2,1, ,4, ,1, , , ,6,10,3,3,1, , ,90
+2018,SF,Melbourne,Hawthorn,18 ,"Melksham, Jake",10,3,1,11,2,1, , , ,5, ,4, ,3, ,4,7,2,2, , ,2,88
+2018,SF,Melbourne,Hawthorn,30 ,"Neal-Bullen, Alex",5,1,3,8,1,1, ,6, ,1,1,1,1, , ,4,5, , ,4, , ,85
+2018,SF,Melbourne,Hawthorn,13 ,"Oliver, Clayton",8,1,14,22, , , ,8,2,2,7,4,4,1, ,11,11, , ,2,1,2,84
+2018,SF,Melbourne,Hawthorn,5 ,"Petracca, Christian",13,4,9,22,1,2, , , ,7,1,4, , , ,8,13,1, , ,1,1,91
+2018,SF,Melbourne,Hawthorn,3 ,"Salem, Christian",12,4,4,16, ,1, ,1,4,3,1,3,1,2, ,3,12, , ,3, , ,78
+2018,SF,Melbourne,Hawthorn,9 ,"Spargo, Charlie",7,3,5,12,2, , ,3,1,2,2,1,2, , ,8,4, ,2, , ,3,71
+2018,SF,Melbourne,Hawthorn,12 ,"Tyson, Dom",7,2,4,11, , , ,2,1,2,3,1,1,1, ,5,6, , , , ,1,72
+2018,SF,Melbourne,Hawthorn,22 ,"Vandenberg, Aaron",8,3,7,15, ,2, ,1,1,4, ,3, ,2, ,6,9,1,1,3, ,1,81
+2018,SF,Melbourne,Hawthorn,7 ,"Viney, Jack",10,1,17,27, , , ,5,2,7,8,5,3,3, ,17,12, , ,2, ,1,67
+2018,SF,Melbourne,Hawthorn,26 ,"Weideman, Sam",5,5,6,11,2, ,4,4, ,1,1,2, , , ,4,6,2,2,2, , ,81

@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2015,10,Collingwood,Melbourne,11 ,"Blair, Jarryd",7,1,9,16,3, , ,7, ,1,2,2,2,1, ,10,7, ,1, , , ,82
+2015,10,Collingwood,Melbourne,29 ,"Broomhead, Tim",7, ,2,9,1,1, ,3, ,2,1,4, ,1, ,4,5, , , , , ,81
+2015,10,Collingwood,Melbourne,16 ,"Brown, Nathan",6,5,10,16, , , , ,2,1,1,1, , , ,6,13,1, ,12,1, ,94
+2015,10,Collingwood,Melbourne,32 ,"Cloke, Travis",12,8, ,12,7, ,2,4, ,1, ,3,1,2,3,9,3,5,5, , , ,90
+2015,10,Collingwood,Melbourne,25 ,"Crisp, Jack",10,3,11,21, , ,1,4,1,3,2,2, ,1, ,8,13,1, , , ,1,86
+2015,10,Collingwood,Melbourne,35 ,"de Goey, Jordan",9,3,6,15, , , ,9, ,3,2,4, , , ,5,10, , ,1, , ,84
+2015,10,Collingwood,Melbourne,5 ,"Elliott, Jamie",12,9,1,13,3, , ,3,1,4, , , , , ,5,10,2,3,1,1,2,82
+2015,10,Collingwood,Melbourne,1 ,"Fasolo, Alex",9,5,6,15,1,2, ,2, ,3,2,2,1,1, ,8,8, ,3, , ,2,85
+2015,10,Collingwood,Melbourne,45 ,"Frost, Jack",4,3,3,7, , , ,2,2,1, ,2,1,1, ,3,4,1, ,6, , ,88
+2015,10,Collingwood,Melbourne,6 ,"Goldsack, Tyson",8,5,6,14, , , ,2,1,1, ,1, , , ,4,10, , ,7, , ,89
+2015,10,Collingwood,Melbourne,4 ,"Grundy, Brodie",10,4,10,20, , ,21,4,1,5,4,5,2,2, ,12,9, , ,1, , ,80
+2015,10,Collingwood,Melbourne,7 ↑,"Kennedy, Ben",4, ,5,9, ,1, , , ,1,4, ,1, , ,5,4, , , , , ,31
+2015,10,Collingwood,Melbourne,8 ,"Langdon, Tom",18,9,7,25, , , ,1,5,2,2,1, , , ,9,17, , ,5, ,1,81
+2015,10,Collingwood,Melbourne,43 ,"Oxley, Adam",24,14,6,30, , , , ,3,3, ,1, , , ,5,24,1, , , ,1,90
+2015,10,Collingwood,Melbourne,10 ,"Pendlebury, Scott",16,5,11,27, , , ,8,1,3,4,1,2, , ,8,19, ,1,1, ,2,85
+2015,10,Collingwood,Melbourne,40 ↓,"Seedsman, Paul",8,4,3,11,1, , ,2, ,1,2,1, , , ,3,8, ,1,1, , ,57
+2015,10,Collingwood,Melbourne,22 ,"Sidebottom, Steele",11,4,10,21, , , , ,1,4,1,1, ,1, ,4,18, , ,1, , ,86
+2015,10,Collingwood,Melbourne,36 ,"Swan, Dane",18,4,8,26,1,1, ,4,1,9,5,3,1,1, ,11,15,1, ,2,1, ,86
+2015,10,Collingwood,Melbourne,34 ,"Toovey, Alan",7,4,10,17, , , ,1,3, ,1, ,1, , ,8,8, , ,2, , ,90
+2015,10,Collingwood,Melbourne,18 ,"Varcoe, Travis",11,6,5,16, , , , ,2,3, ,2, ,2, ,4,10,1, ,2,1, ,86
+2015,10,Collingwood,Melbourne,9 ,"White, Jesse",5,2,4,9, ,1,8, , ,2,3,4, ,3, ,4,4,1,2,3, ,1,85
+2015,10,Collingwood,Melbourne,26 ,"Williams, Marley",11,7,13,24, , , ,1,6, , ,1,1, , ,11,14,1, ,3, , ,82

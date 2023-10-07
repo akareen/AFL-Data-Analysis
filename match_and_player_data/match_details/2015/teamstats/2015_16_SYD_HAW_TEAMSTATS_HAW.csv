@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2015,16,Hawthorn,Sydney,14 ,"Birchall, Grant",19,9,8,27, , , ,1,4,5, ,3, ,1, ,2,22, , ,1, ,1,80
+2015,16,Hawthorn,Sydney,22 ,"Breust, Luke",6,3,13,19,2, ,1,1, ,3,4,1,1,1, ,13,7, , ,1, ,2,82
+2015,16,Hawthorn,Sydney,9 ,"Burgoyne, Shaun",6,2,6,12, , , ,6,1, ,1,2,1,1, ,7,7, , ,1,2,1,76
+2015,16,Hawthorn,Sydney,6 ,"Gibson, Josh",15,12,5,20, , , , ,1,1, ,1, ,1, ,1,18, , ,7, , ,100
+2015,16,Hawthorn,Sydney,19 ,"Gunston, Jack",12,8,6,18,4,1, ,3,1,1, , ,1, , ,4,13,2,2,2, , ,88
+2015,16,Hawthorn,Sydney,20 ↓,"Hale, David",3, ,5,8,1, ,16,3, ,1,1,3,2,3, ,6,2, , , , , ,62
+2015,16,Hawthorn,Sydney,40 ↑,"Hartung, Billy",6,1,2,8, , , , , ,2, ,2,1, , ,3,6, , ,1, ,1,25
+2015,16,Hawthorn,Sydney,15 ,"Hodge, Luke",20,8,10,30, ,1,1,7,4,3,2,3,2,1,3,8,20,2, ,2,1,1,81
+2015,16,Hawthorn,Sydney,17 ,"Lake, Brian",9,3,5,14, , , ,4,5, , ,2,3,1, ,11,6,2, ,3, , ,93
+2015,16,Hawthorn,Sydney,3 ,"Lewis, Jordan",14,6,8,22, , ,3,5,4,1,5,2,2,1, ,8,14, , ,1, ,1,83
+2015,16,Hawthorn,Sydney,31 ,"Dewar, Angus",12,4,5,17,1, , , ,2,4,1,3, ,1, ,3,12, ,1,4,2, ,78
+2015,16,Hawthorn,Sydney,7 ,"McEvoy, Ben",6,8,9,15,2, ,27,5,1, ,3,1, ,1, ,5,11,1,2,5, , ,88
+2015,16,Hawthorn,Sydney,5 ,"Mitchell, Sam",11,2,17,28, , , ,1,1,5,6,3,3,1, ,14,14, , ,2, ,2,92
+2015,16,Hawthorn,Sydney,28 ,"Puopolo, Paul",7,2,8,15,1,2, ,6, ,3,1,2,1,1, ,10,5,1,2, , ,3,82
+2015,16,Hawthorn,Sydney,33 ,"Rioli, Cyril",12,6,8,20,3,1, ,8, ,3,2,3, , ,2,11,6,4,3,4,1,1,75
+2015,16,Hawthorn,Sydney,2 ,"Roughead, Jarryd",11,7,5,16,5,2,1, , ,3,1, ,2, ,1,5,12, ,4,1, ,2,84
+2015,16,Hawthorn,Sydney,25 ,"Schoenmakers, Ryan",8,3,6,14,1, , ,1,2,4, ,1,1,1, ,2,11, ,1,6, ,2,93
+2015,16,Hawthorn,Sydney,26 ,"Shiels, Liam",6,3,11,17,1, , ,7,1,2,4,2,1,1, ,5,12, , , , , ,77
+2015,16,Hawthorn,Sydney,16 ,"Smith, Isaac",14,4,7,21,1,1, ,4,3,4,2,1,1, , ,3,16, , ,2,3,2,90
+2015,16,Hawthorn,Sydney,27 ,"Spangher, Matthew",6,4,4,10, , , , ,4, , ,2,1,1, ,3,7,1, ,4, , ,94
+2015,16,Hawthorn,Sydney,24 ,"Stratton, Ben",4, ,5,9, , , ,1,3,1, ,3, ,1, ,2,7, , ,6,2, ,92
+2015,16,Hawthorn,Sydney,4 ,"Suckling, Matt",14, ,7,21,1, , ,2,1,6,3,2,2, , ,6,15, , ,1, , ,86

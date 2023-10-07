@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2012,3,Adelaide,Hawthorn,37 ,"Callinan, Ian",12, ,9,21,3, , ,1, ,3,2,3, , , ,8,13, , , , , ,87
+2012,3,Adelaide,Hawthorn,32 ,"Dangerfield, Patrick",13,3,14,27, , , ,5,1,7,10,7,1,2, ,18,11,1, ,2, ,1,83
+2012,3,Adelaide,Hawthorn,11 ,"Doughty, Michael",4,1,8,12,1, , ,3,1, ,1,2, ,1, ,3,9, , ,4, , ,84
+2012,3,Adelaide,Hawthorn,24 ,"Jacobs, Sam",10,5,9,19, , ,25,1,2,1,3,2,1, , ,10,9,1, ,1, ,1,90
+2012,3,Adelaide,Hawthorn,18 ,"Johncock, Graham",12,3,3,15, , , ,2,4,2, ,5,1,2, ,6,8, , , , , ,79
+2012,3,Adelaide,Hawthorn,29 ↑,"Kerridge, Sam", , ,3,3, , , , , , , ,1, , , ,2,1, , , , , ,32
+2012,3,Adelaide,Hawthorn,27 ↓,"Lynch, Tom",6,2, ,6,2, , ,2, ,1,1, ,1, , ,3,2, , , , , ,52
+2012,3,Adelaide,Hawthorn,14 ,"Mackay, David",7,3,13,20, , , ,6,1,2,1,2,1,1, ,6,16, , ,1,1,1,79
+2012,3,Adelaide,Hawthorn,36 ,"Martin, Brodie",6,2,6,12, , , ,1,3,1,1, , , , ,3,8, , ,2,1, ,82
+2012,3,Adelaide,Hawthorn,22 ,"Otten, Andy",5,2,2,7, , , ,1,2,1, , ,1, , ,2,5, , ,4, , ,87
+2012,3,Adelaide,Hawthorn,23 ,"Petrenko, Jared",8,4,1,9, , , ,6, ,4, , ,1, , ,2,6, , , , , ,79
+2012,3,Adelaide,Hawthorn,40 ,"Porplyzia, Jason",7,1,4,11,1, , ,4, ,2,2, ,1, , ,5,5, , ,1, ,2,86
+2012,3,Adelaide,Hawthorn,3 ,"Reilly, Brent",9,3,4,13,1, , ,3,2,2, ,2, , , ,8,5,1, ,2,1, ,87
+2012,3,Adelaide,Hawthorn,25 ,"Rutten, Ben",5,1,2,7, ,1, ,1,1,1, , ,2, , ,4,3, , , , , ,93
+2012,3,Adelaide,Hawthorn,9 ,"Sloane, Rory",8,2,7,15, , , ,3, ,4,3,1, , , ,11,4,1, , ,1, ,84
+2012,3,Adelaide,Hawthorn,33 ,"Smith, Brodie",9,2,6,15, , , ,1,2,6, ,4, ,1, ,4,11, , ,3, , ,83
+2012,3,Adelaide,Hawthorn,12 ,"Talia, Daniel",5,1,6,11, , , ,3,1, , , ,1, , ,8,3,1, ,3, , ,91
+2012,3,Adelaide,Hawthorn,5 ,"Thompson, Scott",7,1,18,25, , , ,2,1,2,7,4, ,3, ,17,8, , ,2, , ,89
+2012,3,Adelaide,Hawthorn,4 ,"Tippett, Kurt",10,8,7,17,3,3,9,2, ,1, ,3,2,3, ,13,6,4,6,2, ,3,93
+2012,3,Adelaide,Hawthorn,7 ,"van Berlo, Nathan",16,3,8,24, ,1, ,3,1,5,6,3,2,1, ,11,12,1, ,1, , ,86
+2012,3,Adelaide,Hawthorn,17 ,"Vince, Bernie",8,2,3,11,1,2, ,1,1,4,1,4, ,2, ,3,9, ,1, , ,1,76
+2012,3,Adelaide,Hawthorn,13 ,"Walker, Taylor",3,3,1,4, ,2, , , , , ,1, , , ,2,2,1,3,2, , ,95

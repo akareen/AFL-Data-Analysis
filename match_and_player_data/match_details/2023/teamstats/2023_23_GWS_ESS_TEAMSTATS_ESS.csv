@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2023,23,Essendon,Greater Western Sydney,6 ,"Caldwell, Jye",10,5,8,18,1,1, ,3, ,5,3,4,1,1, ,7,11,1,1, ,1, ,78
+2023,23,Essendon,Greater Western Sydney,13 ,"Cox, Nik",4,2,5,9, , , ,1, , , ,2,1,1, ,4,5, ,1,1, , ,83
+2023,23,Essendon,Greater Western Sydney,2 ,"Draper, Sam",3,1,4,7, ,1,15,5, ,1,1,3, , , ,3,4, , ,1, , ,62
+2023,23,Essendon,Greater Western Sydney,22 ,"Durham, Sam",6,3,4,10, , , ,3,3,1,1,1, ,1, ,1,9, , , , , ,81
+2023,23,Essendon,Greater Western Sydney,35 ↓,"Guelfi, Matt",1,1, ,1, , , ,2, , , , , , , , ,1, , , , , ,22
+2023,23,Essendon,Greater Western Sydney,21 ,"Heppell, Dyson",7,4,7,14, , , ,2,5,2, ,2,1, , ,4,9, ,1,2, , ,82
+2023,23,Essendon,Greater Western Sydney,19 ,"Hind, Nick",21,2,7,28, , , ,2,6,2, ,4, , , ,2,21, , , , , ,80
+2023,23,Essendon,Greater Western Sydney,8 ,"Hobbs, Ben",10,5,9,19, , , ,7,1,6,5,4,2,1, ,6,11, , , ,1,1,80
+2023,23,Essendon,Greater Western Sydney,29 ,"Kelly, Jake",4,2,6,10, , , ,1,2,2,1,3, ,1, ,6,6, , ,5, , ,93
+2023,23,Essendon,Greater Western Sydney,4 ,"Langford, Kyle",7,5,2,9,2, , , ,2, , ,2, , , ,1,6, ,3,2, , ,97
+2023,23,Essendon,Greater Western Sydney,15 ,"Laverde, Jayden",4,2,3,7, , , ,2,2, , ,4, ,2, ,3,4, , ,2, , ,96
+2023,23,Essendon,Greater Western Sydney,37 ,"Martin, Nic",7, ,8,15, , , , ,3,1,1,5,1,2, ,5,10, , ,1, , ,80
+2023,23,Essendon,Greater Western Sydney,1 ,"McGrath, Andrew",14,2,18,32, , , ,4,8,2,2,2, , , ,9,20, , , , ,1,81
+2023,23,Essendon,Greater Western Sydney,47 ,"Menzie, Jye",3,1,4,7,1,1, ,2, ,2, ,1, , , ,3,4, , , , , ,85
+2023,23,Essendon,Greater Western Sydney,7 ,"Merrett, Zach",8,3,19,27, ,1, ,5,2,3,7,1,2, , ,10,18, , ,2, , ,85
+2023,23,Essendon,Greater Western Sydney,3 ,"Parish, Darcy",11,2,14,25, , , ,7,2,4,5,3,1, , ,7,18, , , , , ,80
+2023,23,Essendon,Greater Western Sydney,16 ,"Perkins, Archie",7,5,9,16, , , ,3, ,4, ,8,1,4, ,5,13, , , , , ,81
+2023,23,Essendon,Greater Western Sydney,34 ,"Phillips, Andrew",6,4,5,11,1, ,13,5, ,1,3,3,1,1, ,10,3,2,1,6, , ,70
+2023,23,Essendon,Greater Western Sydney,27 ,"Redman, Mason",10,2,5,15, , , ,1,3,1,1,5, ,1, ,5,6,1, ,3, , ,78
+2023,23,Essendon,Greater Western Sydney,25 ↑,"Stringer, Jake",5,3,6,11, ,1, ,1,2,2, ,2, ,2, ,5,6, , ,1, ,1,57
+2023,23,Essendon,Greater Western Sydney,5 ,"Tsatas, Elijah",5,2,4,9, ,1, ,4,1,1,2,1, ,1, ,4,6, , ,1, , ,65
+2023,23,Essendon,Greater Western Sydney,20 ,"Wright, Peter",1,1,4,5, , , , , ,1, ,1, ,1, ,2,2, , ,1, ,1,90
+2023,23,Essendon,Greater Western Sydney,30 ,"Zerk-Thatcher, Brandon",5,3,4,9, , , ,2,2, , ,2, ,1, ,4,6,1, ,8, , ,95

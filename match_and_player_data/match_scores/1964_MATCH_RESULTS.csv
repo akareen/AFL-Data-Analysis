@@ -1,0 +1,113 @@
+year,round,venue,date,attendance,home_team,away_team,home_q1_g,home_q2_g,home_q3_g,home_q4_g,home_q1_b,home_q2_b,home_q3_b,home_q4_b,away_q1_g,away_q2_g,away_q3_g,away_q4_g,away_q1_b,away_q2_b,away_q3_b,away_q4_b,home_total_g,home_total_b,home_total_score,away_total_g,away_total_b,away_total_score,winning_team,margin
+1964,1,Princes,18-04-1964,23053,Carlton,North Melbourne,2,2,3,3,2,4,4,6,4,4,1,1,3,3,1,1,10,16,76,10,8,68,Carlton,8
+1964,1,Victoria,18-04-1964,29255,Collingwood,Fitzroy,3,4,5,2,2,3,3,7,3,1,3,3,3,4,2,2,14,15,99,10,11,71,Collingwood,28
+1964,1,Windy,18-04-1964,29500,Essendon,St Kilda,4,4,3,1,1,3,3,6,2,6,2,1,5,4,3,1,12,13,85,11,13,79,Essendon,6
+1964,1,Western,18-04-1964,23965,Footscray,Richmond,1,2,4,1,5,3,5,3,0,4,0,1,0,1,0,3,8,16,64,5,4,34,Footscray,30
+1964,1,M.C.G.,18-04-1964,66250,Melbourne,Geelong,2,6,3,3,4,3,4,2,2,6,4,5,2,2,3,1,14,13,97,17,8,110,Geelong,13
+1964,1,Lake,18-04-1964,20260,South Melbourne,Hawthorn,2,1,3,4,4,4,4,1,3,5,2,4,3,4,3,3,10,13,73,14,13,97,Hawthorn,24
+1964,2,Glenferrie,25-04-1964,28000,Hawthorn,Carlton,2,3,2,2,8,7,1,4,1,2,4,1,1,2,1,1,9,20,74,8,5,53,Hawthorn,21
+1964,2,Kardinia,25-04-1964,40299,Geelong,Collingwood,3,2,4,5,2,5,2,2,2,2,1,1,3,0,1,3,14,11,95,6,7,43,Geelong,52
+1964,2,Punt,25-04-1964,27300,Richmond,Essendon,2,3,5,1,1,3,0,5,5,4,5,1,12,2,6,1,11,9,75,15,21,111,Essendon,36
+1964,2,Brunswick,25-04-1964,17603,Fitzroy,South Melbourne,3,3,3,4,7,4,6,0,2,6,2,8,3,5,2,0,13,17,95,18,10,118,South Melbourne,23
+1964,2,Junction,25-04-1964,33600,St Kilda,Footscray,6,5,1,1,2,3,12,1,1,2,1,2,4,0,0,3,13,18,96,6,7,43,St Kilda,53
+1964,2,Arden,25-04-1964,15914,North Melbourne,Melbourne,0,6,1,1,1,4,0,8,4,1,5,1,3,2,6,0,8,13,61,11,11,77,Melbourne,16
+1964,3,M.C.G.,02-05-1964,45494,Melbourne,Carlton,2,4,2,3,5,5,2,1,1,0,0,3,1,2,3,3,11,13,79,4,9,33,Melbourne,46
+1964,3,Western,02-05-1964,23983,Footscray,Collingwood,0,4,2,2,3,5,1,3,2,2,5,2,2,4,7,0,8,12,60,11,13,79,Collingwood,19
+1964,3,Windy,02-05-1964,21000,Essendon,North Melbourne,6,1,4,5,1,3,4,3,6,3,6,4,1,3,2,1,16,11,107,19,7,121,North Melbourne,14
+1964,3,Brunswick,02-05-1964,15723,Fitzroy,Geelong,1,3,2,0,3,6,0,3,2,0,5,4,8,4,5,7,6,12,48,11,24,90,Geelong,42
+1964,3,Glenferrie,02-05-1964,25000,Hawthorn,St Kilda,4,1,5,2,4,5,3,3,4,1,2,2,2,1,5,3,12,15,87,9,11,65,Hawthorn,22
+1964,3,Lake,02-05-1964,18920,South Melbourne,Richmond,2,5,1,0,4,1,1,1,1,2,2,3,3,3,7,2,8,7,55,8,15,63,Richmond,8
+1964,4,Princes,09-05-1964,21668,Carlton,Footscray,3,3,2,4,1,3,2,2,1,8,4,3,4,4,6,1,12,8,80,16,15,111,Footscray,31
+1964,4,Victoria,09-05-1964,29327,Collingwood,South Melbourne,1,4,5,2,6,6,1,0,1,2,3,2,1,1,3,4,12,13,85,8,9,57,Collingwood,28
+1964,4,Kardinia,09-05-1964,34083,Geelong,Essendon,0,1,5,2,5,3,5,8,2,5,5,2,2,2,2,1,8,21,69,14,7,91,Essendon,22
+1964,4,Punt,09-05-1964,17200,Richmond,Fitzroy,7,0,2,5,9,3,4,4,0,3,0,2,0,7,1,2,14,20,104,5,10,40,Richmond,64
+1964,4,Arden,09-05-1964,17431,North Melbourne,Hawthorn,0,8,3,3,3,4,2,6,5,1,2,1,4,3,5,2,14,15,99,9,14,68,North Melbourne,31
+1964,4,Junction,09-05-1964,35300,St Kilda,Melbourne,2,5,1,5,1,4,6,4,1,3,2,3,6,1,5,1,13,15,93,9,13,67,St Kilda,26
+1964,5,Victoria,16-05-1964,32868,Collingwood,Carlton,6,3,3,0,7,1,4,1,2,3,1,3,2,1,5,4,12,13,85,9,12,66,Collingwood,19
+1964,5,Windy,16-05-1964,27000,Essendon,Melbourne,2,2,1,2,0,4,3,4,1,1,3,5,6,4,8,7,7,11,53,10,25,85,Melbourne,32
+1964,5,Glenferrie,16-05-1964,13100,Hawthorn,Fitzroy,5,4,6,1,4,3,7,4,2,3,0,3,2,3,3,11,16,18,114,8,19,67,Hawthorn,47
+1964,5,Arden,16-05-1964,20862,North Melbourne,Footscray,0,3,7,5,3,5,2,3,1,2,4,0,7,4,1,2,15,13,103,7,14,56,North Melbourne,47
+1964,5,Lake,16-05-1964,24580,South Melbourne,Geelong,2,1,3,2,1,4,2,4,4,2,2,3,4,1,3,2,8,11,59,11,10,76,Geelong,17
+1964,5,Punt,16-05-1964,27270,Richmond,St Kilda,1,4,2,3,7,0,5,2,1,3,1,3,1,11,3,4,10,14,74,8,19,67,Richmond,7
+1964,6,Junction,23-05-1964,25300,St Kilda,Carlton,2,3,2,6,4,9,2,4,2,1,3,0,3,2,3,5,13,19,97,6,13,49,St Kilda,48
+1964,6,Windy,23-05-1964,30300,Essendon,Collingwood,2,2,2,3,4,3,3,9,5,3,3,0,1,1,1,0,9,19,73,11,3,69,Essendon,4
+1964,6,Brunswick,23-05-1964,15043,Fitzroy,North Melbourne,4,2,2,2,5,3,2,8,4,4,3,2,3,5,7,2,10,18,78,13,17,95,North Melbourne,17
+1964,6,Western,23-05-1964,16437,Footscray,South Melbourne,3,2,2,3,4,8,4,6,3,2,3,2,3,1,0,5,10,22,82,10,9,69,Footscray,13
+1964,6,Kardinia,23-05-1964,25294,Geelong,Richmond,2,6,2,1,1,1,3,1,2,0,4,2,3,2,2,4,11,6,72,8,11,59,Geelong,13
+1964,6,M.C.G.,23-05-1964,53798,Melbourne,Hawthorn,3,2,4,1,3,6,2,2,4,1,4,1,6,1,1,0,10,13,73,10,8,68,Melbourne,5
+1964,7,Princes,30-05-1964,18995,Carlton,Fitzroy,2,1,1,4,4,6,1,1,0,3,3,2,3,2,4,2,8,12,60,8,11,59,Carlton,1
+1964,7,Victoria,30-05-1964,34222,Collingwood,North Melbourne,5,7,4,6,5,5,5,3,0,2,2,2,1,0,2,3,22,18,150,6,6,42,Collingwood,108
+1964,7,Lake,30-05-1964,20470,South Melbourne,Essendon,2,2,3,4,4,4,5,5,3,6,3,2,3,2,4,3,11,18,84,14,12,96,Essendon,12
+1964,7,M.C.G.,30-05-1964,33129,Melbourne,Footscray,2,2,5,3,3,2,9,0,2,1,1,2,3,3,0,2,12,14,86,6,8,44,Melbourne,42
+1964,7,Kardinia,30-05-1964,28080,Geelong,St Kilda,3,2,3,3,9,6,4,4,3,4,3,3,0,2,3,3,11,23,89,13,8,86,Geelong,3
+1964,7,Glenferrie,30-05-1964,22000,Hawthorn,Richmond,2,3,4,4,2,1,3,5,0,4,0,3,2,6,2,6,13,11,89,7,16,58,Hawthorn,31
+1964,8,Lake,06-06-1964,18700,South Melbourne,Carlton,2,1,3,2,1,4,4,4,1,5,4,2,3,3,4,4,8,13,61,12,14,86,Carlton,25
+1964,8,Punt,06-06-1964,34600,Richmond,Collingwood,2,0,1,0,3,2,4,3,1,5,0,1,4,5,2,2,3,12,30,7,13,55,Collingwood,25
+1964,8,Glenferrie,06-06-1964,26000,Hawthorn,Essendon,2,5,1,1,4,2,0,2,3,1,2,0,5,2,4,1,9,8,62,6,12,48,Hawthorn,14
+1964,8,Brunswick,06-06-1964,12727,Fitzroy,Melbourne,1,1,0,5,2,2,0,5,3,1,10,3,6,4,4,2,7,9,51,17,16,118,Melbourne,67
+1964,8,Western,06-06-1964,26654,Footscray,Geelong,2,0,1,2,2,0,2,1,0,4,0,2,4,5,1,2,5,5,35,6,12,48,Geelong,13
+1964,8,Arden,06-06-1964,19620,North Melbourne,St Kilda,2,4,1,3,2,4,3,0,4,2,3,2,8,3,1,5,10,9,69,11,17,83,St Kilda,14
+1964,9,Princes,13-06-1964,24930,Carlton,Richmond,3,4,1,3,4,5,4,2,4,0,4,3,5,2,3,2,11,15,81,11,12,78,Carlton,3
+1964,9,Windy,13-06-1964,22600,Essendon,Footscray,4,3,4,2,3,2,3,2,0,3,3,4,4,1,3,5,13,10,88,10,13,73,Essendon,15
+1964,9,Junction,13-06-1964,20900,St Kilda,Fitzroy,3,5,1,4,4,4,6,4,1,1,1,3,2,6,2,2,13,18,96,6,12,48,St Kilda,48
+1964,9,M.C.G.,15-06-1964,86664,Melbourne,Collingwood,3,2,3,2,2,2,6,3,2,1,2,3,1,3,5,6,10,13,73,8,15,63,Melbourne,10
+1964,9,Kardinia,15-06-1964,30911,Geelong,Hawthorn,0,0,4,6,3,6,2,4,2,0,1,0,2,2,2,2,10,15,75,3,8,26,Geelong,49
+1964,9,Arden,15-06-1964,11773,North Melbourne,South Melbourne,5,1,2,2,5,3,5,2,0,6,0,1,0,3,1,5,10,15,75,7,9,51,North Melbourne,24
+1964,10,Windy,27-06-1964,22900,Essendon,Carlton,3,0,5,2,2,1,3,3,1,2,4,1,7,3,2,3,10,9,69,8,15,63,Essendon,6
+1964,10,Victoria,27-06-1964,31133,Collingwood,Hawthorn,1,4,3,5,2,4,3,2,6,4,3,2,2,1,4,1,13,11,89,15,8,98,Hawthorn,9
+1964,10,Western,27-06-1964,13119,Footscray,Fitzroy,0,7,1,6,0,5,0,4,3,0,10,0,3,0,3,1,14,9,93,13,7,85,Footscray,8
+1964,10,Kardinia,27-06-1964,20579,Geelong,North Melbourne,1,4,6,0,3,0,4,1,0,3,2,5,1,5,1,5,11,8,74,10,12,72,Geelong,2
+1964,10,M.C.G.,27-06-1964,27614,Melbourne,Richmond,4,7,5,7,5,8,3,2,0,3,2,1,2,2,3,0,23,18,156,6,7,43,Melbourne,113
+1964,10,Junction,27-06-1964,20300,St Kilda,South Melbourne,8,1,7,2,5,2,6,2,2,4,0,4,0,4,2,2,18,15,123,10,8,68,St Kilda,55
+1964,11,Princes,04-07-1964,22293,Carlton,Geelong,2,0,2,3,3,6,4,6,5,2,3,3,1,2,1,3,7,19,61,13,7,85,Geelong,24
+1964,11,Victoria,04-07-1964,27588,Collingwood,St Kilda,3,4,2,3,3,1,7,0,2,1,2,5,0,3,1,5,12,11,83,10,9,69,Collingwood,14
+1964,11,Brunswick,04-07-1964,11254,Fitzroy,Essendon,2,3,2,0,2,3,2,1,3,1,3,3,1,5,2,1,7,8,50,10,9,69,Essendon,19
+1964,11,Glenferrie,04-07-1964,13000,Hawthorn,Footscray,3,3,2,4,0,3,1,5,1,2,0,0,2,0,1,0,12,9,81,3,3,21,Hawthorn,60
+1964,11,Lake,04-07-1964,10490,South Melbourne,Melbourne,1,5,1,5,2,6,2,1,4,3,8,3,7,2,5,7,12,11,83,18,21,129,Melbourne,46
+1964,11,Punt,04-07-1964,10170,Richmond,North Melbourne,1,1,4,0,4,1,5,2,2,2,2,4,2,0,2,1,6,12,48,10,5,65,North Melbourne,17
+1964,12,Arden,11-07-1964,16020,North Melbourne,Carlton,2,1,3,0,1,4,6,1,2,4,0,1,3,2,0,0,6,12,48,7,5,47,North Melbourne,1
+1964,12,Brunswick,11-07-1964,17693,Fitzroy,Collingwood,2,2,0,1,0,3,3,2,5,3,2,3,2,3,4,1,5,8,38,13,10,88,Collingwood,50
+1964,12,Junction,11-07-1964,30100,St Kilda,Essendon,3,1,1,0,9,0,4,0,0,4,3,4,1,6,2,1,5,13,43,11,10,76,Essendon,33
+1964,12,Punt,11-07-1964,12000,Richmond,Footscray,3,1,6,2,6,1,2,2,1,4,1,3,0,5,0,2,12,11,83,9,7,61,Richmond,22
+1964,12,Kardinia,11-07-1964,33761,Geelong,Melbourne,3,0,4,0,7,0,3,2,2,4,1,3,1,4,2,8,7,12,54,10,15,75,Melbourne,21
+1964,12,Glenferrie,11-07-1964,11000,Hawthorn,South Melbourne,2,6,4,3,1,2,5,5,1,1,3,1,6,3,3,3,15,13,103,6,15,51,Hawthorn,52
+1964,13,Princes,18-07-1964,18423,Carlton,Hawthorn,0,1,4,0,0,4,3,5,3,2,3,0,3,2,4,1,5,12,42,8,10,58,Hawthorn,16
+1964,13,Victoria,18-07-1964,38218,Collingwood,Geelong,0,4,2,2,2,2,2,5,1,3,1,2,0,2,2,3,8,11,59,7,7,49,Collingwood,10
+1964,13,Windy,18-07-1964,16100,Essendon,Richmond,3,2,5,3,5,6,8,9,1,3,1,1,1,6,0,1,13,28,106,6,8,44,Essendon,62
+1964,13,Lake,18-07-1964,10350,South Melbourne,Fitzroy,6,5,3,3,4,3,2,6,0,1,4,0,5,3,6,0,17,15,117,5,14,44,South Melbourne,73
+1964,13,Western,18-07-1964,12955,Footscray,St Kilda,1,6,1,3,0,4,2,3,6,1,2,1,5,0,4,1,11,9,75,10,10,70,Footscray,5
+1964,13,M.C.G.,18-07-1964,29631,Melbourne,North Melbourne,2,5,7,4,4,3,4,4,1,3,0,2,5,5,1,4,18,15,123,6,15,51,Melbourne,72
+1964,14,Princes,25-07-1964,17831,Carlton,Melbourne,4,0,3,2,3,1,9,1,3,3,1,5,2,2,2,2,9,14,68,12,8,80,Melbourne,12
+1964,14,Victoria,25-07-1964,22233,Collingwood,Footscray,6,0,5,3,4,3,3,5,0,3,1,1,0,4,1,0,14,15,99,5,5,35,Collingwood,64
+1964,14,Arden,25-07-1964,15878,North Melbourne,Essendon,3,1,1,2,3,4,6,1,2,3,1,6,2,2,3,6,7,14,56,12,13,85,Essendon,29
+1964,14,Kardinia,25-07-1964,13854,Geelong,Fitzroy,3,3,3,1,4,5,5,8,0,3,0,1,1,1,0,1,10,22,82,4,3,27,Geelong,55
+1964,14,Junction,25-07-1964,18600,St Kilda,Hawthorn,0,4,3,4,6,4,1,4,2,1,3,1,1,2,3,3,11,15,81,7,9,51,St Kilda,30
+1964,14,Punt,25-07-1964,12500,Richmond,South Melbourne,3,1,4,5,5,7,6,3,0,3,1,1,1,2,1,0,13,21,99,5,4,34,Richmond,65
+1964,15,Western,01-08-1964,11038,Footscray,Carlton,2,2,6,1,2,1,2,1,2,6,1,1,0,3,0,4,11,6,72,10,7,67,Footscray,5
+1964,15,Lake,01-08-1964,12600,South Melbourne,Collingwood,2,0,2,1,3,4,4,2,3,2,3,4,2,6,2,3,5,13,43,12,13,85,Collingwood,42
+1964,15,Windy,01-08-1964,27000,Essendon,Geelong,1,0,1,3,3,2,6,2,1,2,1,2,0,4,0,3,5,13,43,6,7,43,Match drawn,0
+1964,15,Brunswick,01-08-1964,7167,Fitzroy,Richmond,0,1,0,1,4,0,4,1,0,1,4,5,3,3,1,9,2,9,21,10,16,76,Richmond,55
+1964,15,Glenferrie,01-08-1964,9100,Hawthorn,North Melbourne,3,0,4,0,3,1,1,2,2,1,0,2,0,7,0,1,7,7,49,5,8,38,Hawthorn,11
+1964,15,M.C.G.,01-08-1964,33212,Melbourne,St Kilda,3,3,2,0,5,0,2,0,0,2,1,2,0,2,1,4,8,7,55,5,7,37,Melbourne,18
+1964,16,Princes,08-08-1964,25806,Carlton,Collingwood,6,1,4,0,5,1,7,0,0,8,0,4,3,0,1,3,11,13,79,12,7,79,Match drawn,0
+1964,16,M.C.G.,08-08-1964,70385,Melbourne,Essendon,2,3,2,0,2,3,1,0,1,1,3,1,2,3,4,5,7,6,48,6,14,50,Essendon,2
+1964,16,Brunswick,08-08-1964,7322,Fitzroy,Hawthorn,1,4,1,3,0,6,0,4,6,1,3,0,4,1,7,1,9,10,64,10,13,73,Hawthorn,9
+1964,16,Western,08-08-1964,12708,Footscray,North Melbourne,0,3,5,2,5,2,0,1,1,1,0,2,0,1,2,0,10,8,68,4,3,27,Footscray,41
+1964,16,Kardinia,08-08-1964,16436,Geelong,South Melbourne,2,2,4,0,4,0,3,2,0,0,0,1,2,5,0,2,8,9,57,1,9,15,Geelong,42
+1964,16,Junction,08-08-1964,16700,St Kilda,Richmond,2,2,4,2,4,4,3,1,2,0,0,4,5,3,1,2,10,12,72,6,11,47,St Kilda,25
+1964,17,Princes,15-08-1964,17178,Carlton,St Kilda,2,2,2,0,4,2,2,1,1,2,1,4,4,4,1,4,6,9,45,8,13,61,St Kilda,16
+1964,17,Victoria,15-08-1964,45907,Collingwood,Essendon,3,1,3,2,9,2,1,2,0,3,1,5,0,4,4,3,9,14,68,9,11,65,Collingwood,3
+1964,17,Arden,15-08-1964,7584,North Melbourne,Fitzroy,3,6,0,2,3,6,0,5,2,2,4,4,3,1,2,1,11,14,80,12,7,79,North Melbourne,1
+1964,17,Lake,15-08-1964,11080,South Melbourne,Footscray,2,3,1,4,2,1,4,1,0,5,2,3,5,5,2,3,10,8,68,10,15,75,Footscray,7
+1964,17,Punt,15-08-1964,18000,Richmond,Geelong,2,1,0,4,2,7,0,5,2,2,4,4,3,3,3,1,7,14,56,12,10,82,Geelong,26
+1964,17,Glenferrie,15-08-1964,20000,Hawthorn,Melbourne,3,3,3,1,2,1,5,1,2,4,0,4,3,5,2,3,10,9,69,10,13,73,Melbourne,4
+1964,18,Brunswick,22-08-1964,14151,Fitzroy,Carlton,0,4,0,3,3,4,3,2,6,3,5,5,3,4,7,6,7,12,54,19,20,134,Carlton,80
+1964,18,Arden,22-08-1964,21096,North Melbourne,Collingwood,4,0,1,3,4,2,7,0,1,4,3,6,1,3,0,4,8,13,61,14,8,92,Collingwood,31
+1964,18,Windy,22-08-1964,16800,Essendon,South Melbourne,7,5,9,7,4,6,1,5,1,0,1,0,4,2,0,1,28,16,184,2,7,19,Essendon,165
+1964,18,Western,22-08-1964,20553,Footscray,Melbourne,3,3,1,5,0,1,0,5,1,1,2,0,4,2,7,1,12,6,78,4,14,38,Footscray,40
+1964,18,Junction,22-08-1964,37100,St Kilda,Geelong,4,2,4,2,9,1,7,1,1,3,3,4,1,9,0,2,12,18,90,11,12,78,St Kilda,12
+1964,18,Punt,22-08-1964,15500,Richmond,Hawthorn,4,1,3,1,9,3,6,0,1,7,1,7,3,5,4,7,9,18,72,16,19,115,Hawthorn,43
+1964,SF,M.C.G.,29-08-1964,92231,Essendon,Geelong,4,1,2,3,0,3,2,0,1,5,3,3,5,1,1,5,10,5,65,12,12,84,Geelong,19
+1964,SF,M.C.G.,05-09-1964,93010,Melbourne,Collingwood,2,6,6,5,3,4,6,7,2,1,2,1,2,4,2,1,19,20,134,6,9,45,Melbourne,89
+1964,PF,M.C.G.,12-09-1964,87091,Collingwood,Geelong,2,2,2,1,1,1,4,0,2,2,0,1,4,4,2,4,7,6,48,5,14,44,Collingwood,4
+1964,GF,M.C.G.,19-09-1964,102471,Melbourne,Collingwood,2,3,2,1,6,1,3,6,2,3,0,3,5,4,2,1,8,16,64,8,12,60,Melbourne,4

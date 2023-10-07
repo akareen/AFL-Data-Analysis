@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2023,17,Hawthorn,Greater Western Sydney,10 ,"Amon, Karl",16,6,11,27, , , ,4,8,4,1,2,1, , ,3,22, , ,3, , ,87
+2023,17,Hawthorn,Greater Western Sydney,36 ,"Blanck, James",4,3,2,6, , , ,1,2, , ,4,1,3, ,5,3,2, ,13, , ,90
+2023,17,Hawthorn,Greater Western Sydney,33 ,"Brockman, Tyler",8,2,3,11, ,3, ,7, ,3, ,4,2,2, ,5,7, ,1,1,1, ,74
+2023,17,Hawthorn,Greater Western Sydney,12 ,"Day, Will",9,4,17,26, ,2, ,4,2,2,3,3,2,2, ,12,13,1,1,4, , ,81
+2023,17,Hawthorn,Greater Western Sydney,8 ,"Frost, Sam",2,1,5,7, , ,5,4,2, ,2,1, , , ,4,3, , ,2,1, ,75
+2023,17,Hawthorn,Greater Western Sydney,24 ,"Grainger-Barras, Denver",3,1,1,4,1, , ,2, ,3, ,2,1, , ,2,1, , ,2, , ,72
+2023,17,Hawthorn,Greater Western Sydney,26 ,"Greene, Fergus",5,1,4,9,2,1, ,1, ,1, ,1,2, , ,7,2, ,1,3, , ,80
+2023,17,Hawthorn,Greater Western Sydney,15 ,"Hardwick, Blake",18,5,7,25, , , ,2,9,1, ,2,1, , ,8,12,1, ,3, , ,91
+2023,17,Hawthorn,Greater Western Sydney,4 ↓,"Impey, Jarman",3, ,4,7, , , ,3,2,1, ,2, ,2, ,1,6, , ,1, , ,53
+2023,17,Hawthorn,Greater Western Sydney,2 ,"Lewis, Mitch",8,2,3,11, ,1,2,2, ,3,1,2,2,2, ,5,6,1, ,2, , ,91
+2023,17,Hawthorn,Greater Western Sydney,31 ,"Macdonald, Connor",14,2,9,23,1,1, ,3,1,7, ,1,1, , ,5,17, , ,1, , ,87
+2023,17,Hawthorn,Greater Western Sydney,32 ,"Maginness, Finn",5,1,10,15, , , ,5,2,2,2, ,1, , ,5,10, , , , ,1,91
+2023,17,Hawthorn,Greater Western Sydney,40 ,"Mitchell, Seamus",7,4,13,20, , , , ,1, , ,5, ,1, ,6,13, , ,1, ,1,80
+2023,17,Hawthorn,Greater Western Sydney,13 ,"Moore, Dylan",7,4,6,13,1, , ,8,1, ,2, ,1, , ,7,5,1, ,2,1, ,88
+2023,17,Hawthorn,Greater Western Sydney,1 ↑,"Morrison, Harry",3,1,1,4, , , , , ,1, , , , , , ,3, , , , , ,25
+2023,17,Hawthorn,Greater Western Sydney,11 ,"Nash, Conor",7,1,20,27, ,1, ,6,1,3,5,3,1, , ,11,15, , , , , ,82
+2023,17,Hawthorn,Greater Western Sydney,3 ,"Newcombe, Jai",9,2,19,28, , , ,3,1,7,9, ,2, , ,16,12, , ,1, ,1,78
+2023,17,Hawthorn,Greater Western Sydney,7 ,"Reeves, Ned",2, ,8,10, , ,24,4, , ,4,2,3,1, ,10,1, , ,4, , ,80
+2023,17,Hawthorn,Greater Western Sydney,14 ,"Scrimshaw, Jack",11,2,6,17, , , ,1,6,2,1,3, ,1, ,5,9, , ,6,1, ,76
+2023,17,Hawthorn,Greater Western Sydney,25 ,"Ward, Josh",11,4,9,20,2, , ,1,3, ,1,2,2, , ,6,13, ,1,2, ,1,79
+2023,17,Hawthorn,Greater Western Sydney,37 ,"Weddle, Josh",6,4,14,20, , , ,2,5, ,3,3, ,1, ,7,12,1, ,1,5, ,89
+2023,17,Hawthorn,Greater Western Sydney,20 ,"Wingard, Chad",10,3,6,16,2, , , , ,5,2,3, ,1, ,7,12, ,1,2, ,2,81
+2023,17,Hawthorn,Greater Western Sydney,5 ,"Worpel, James",14,1,10,24,1,1, ,3,2,10,4,7,2,3,2,12,13, , ,1, , ,71

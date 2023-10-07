@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2023,23,Port Adelaide,Fremantle,21 ,"Aliir, Aliir",11,9,3,14, , , ,3,4, , ,2, ,1, ,4,11,1, ,8, , ,100
+2023,23,Port Adelaide,Fremantle,14 ,"Bergman, Miles",7,5,8,15, , , ,2,1,2,2,4,1,1, ,10,5,2, ,4, , ,85
+2023,23,Port Adelaide,Fremantle,10 ↑,"Boak, Travis",4,3,5,9, , , ,2,1,1,1,1,1,1, ,2,7, , , , ,1,34
+2023,23,Port Adelaide,Fremantle,3 ↓,"Burton, Ryan",9,3,1,10, , , , ,1,1, , , , , ,1,5, , ,3, , ,40
+2023,23,Port Adelaide,Fremantle,9 ,"Butters, Zak",14,3,17,31,1, , ,5,1,3,3,4,2, ,3,11,21, , ,1, , ,77
+2023,23,Port Adelaide,Fremantle,33 ,"Byrne-Jones, Darcy",7,1,3,10,2,1, ,4, ,1,1,1,2, , ,6,4, ,1,1,1, ,78
+2023,23,Port Adelaide,Fremantle,28 ,"Drew, Willem",8,1,10,18, ,1, ,4,1,2,7,3, ,1, ,12,9, , ,4, ,1,79
+2023,23,Port Adelaide,Fremantle,7 ,"Duursma, Xavier",12,7,8,20, , , ,2,1,1,3,1, , , ,5,15, , ,1,1, ,80
+2023,23,Port Adelaide,Fremantle,6 ,"Farrell, Kane",17,9,1,18, , , ,2,2, ,1,3, ,1, ,2,15, , ,1,1, ,82
+2023,23,Port Adelaide,Fremantle,11 ,"Finlayson, Jeremy",13,2,5,18,2,3,1, , ,3,2,3, ,1, ,9,9,1,2, , ,1,85
+2023,23,Port Adelaide,Fremantle,25 ,"Hayes, Sam",2,1,4,6, , ,34, , ,1,3,2, ,1, ,4,2, , ,1, , ,81
+2023,23,Port Adelaide,Fremantle,18 ,"Horne-Francis, Jason",11,2,3,14,1, , , ,1,2,8,4, ,2, ,11,5,1, , ,3, ,83
+2023,23,Port Adelaide,Fremantle,5 ,"Houston, Dan",9,8,5,14, ,1, ,1,1,1,1, , , , ,2,13, , ,2, ,1,88
+2023,23,Port Adelaide,Fremantle,1 ,"Jonas, Tom",6,5,6,12, , , ,4,3, ,1,2, , , ,5,7, , ,5, , ,70
+2023,23,Port Adelaide,Fremantle,34 ,"Jones, Lachie",9,5,2,11, , , ,2,3, , ,3,1,2, ,4,8,1, ,1, , ,90
+2023,23,Port Adelaide,Fremantle,30 ,"Lord, Ollie",4, ,3,7,1, ,1, , , , , ,1, , ,5,2, , ,4, , ,77
+2023,23,Port Adelaide,Fremantle,4 ,"Marshall, Todd",13,9,2,15, , , , , ,3, ,4, ,1, ,5,10,1,4,2, ,2,88
+2023,23,Port Adelaide,Fremantle,41 ,"McEntee, Jed",4,3,6,10,1, , ,3,1,2, ,2,1,1, ,4,6,1,1, , ,1,74
+2023,23,Port Adelaide,Fremantle,2 ,"Powell-Pepper, Sam",10,5,3,13,2, , ,3, ,4,1,4, ,2, ,3,10, ,2,1, , ,90
+2023,23,Port Adelaide,Fremantle,15 ,"Rioli, Willie",5,5,6,11,1, , ,1, ,2, ,1, , , ,6,8, ,2,5, ,1,89
+2023,23,Port Adelaide,Fremantle,20 ,"Rozee, Connor",17,5,7,24, ,2, ,3,4,5,1,5,1,2,2,4,22, , , , , ,81
+2023,23,Port Adelaide,Fremantle,23 ,"Williams, Dylan",20,10, ,20, , , ,1,10,1, ,3, ,2, ,2,16, , , , , ,81
+2023,23,Port Adelaide,Fremantle,16 ,"Wines, Ollie",14,10,11,25, , , ,4,1,5,4,5,2,2, ,8,17, , ,1, ,1,70

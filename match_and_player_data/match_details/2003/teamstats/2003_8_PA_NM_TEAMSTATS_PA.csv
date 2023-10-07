@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2003,8,Port Adelaide,Kangaroos,19 ,"Bishop, Matthew",5,1, ,5, , , ,2,3,1, ,2,1,1, ,2,2, , ,6, , ,100
+2003,8,Port Adelaide,Kangaroos,20 ,"Brogan, Dean",2,3,3,5, , ,8, , , ,1, , , , ,3,2,1, ,2, , ,35
+2003,8,Port Adelaide,Kangaroos,7 ,"Burgoyne, Peter",20,6,6,26, , , ,11,2,6,5,2, ,1,2,10,13,1,2,3,1,1,100
+2003,8,Port Adelaide,Kangaroos,8 ,"Burgoyne, Shaun",7,3,4,11,4, , ,1, , , ,1, , , ,4,6, ,1,1, , ,100
+2003,8,Port Adelaide,Kangaroos,9 ,"Carr, Josh",1, ,2,3, , ,1, , , ,1, , , , ,2,1, , , , , ,35
+2003,8,Port Adelaide,Kangaroos,26 ,"Cochrane, Stuart",9,6,4,13, , , ,4,1,2,3, ,1, , ,6,8, , ,2, , ,86
+2003,8,Port Adelaide,Kangaroos,12 ,"Cockatoo-Collins, Che",13,11,5,18,1,1, ,1,1,3, ,3,1,1, ,4,15,1,2,2,2,1,100
+2003,8,Port Adelaide,Kangaroos,35 ,"Cornes, Chad",10,5,5,15,2,1, ,1, ,4,1,4, ,1, ,6,9, ,2,1, , ,100
+2003,8,Port Adelaide,Kangaroos,18 ,"Cornes, Kane",14,7,6,20, ,1, ,1, ,2,2,1, ,1, ,7,12, ,2, ,1, ,77
+2003,8,Port Adelaide,Kangaroos,34 ,"Guerra, Brent",3,1,2,5,1,1, ,1, ,2, ,1,1,1, ,2,3, , , , , ,33
+2003,8,Port Adelaide,Kangaroos,11 ,"Hardwick, Damien",10,3,6,16, , , ,1,3,1, ,2,1, , ,5,10, , ,1,1, ,100
+2003,8,Port Adelaide,Kangaroos,38 ,"James, Roger",15,3,2,17, ,1, ,4,3,4,7,2, , , ,10,7, , ,2,3, ,67
+2003,8,Port Adelaide,Kangaroos,29 ,"Kingsley, Adam",15,7,6,21, , , ,3,4,5,3,2,1,1, ,8,14, , ,3,3, ,95
+2003,8,Port Adelaide,Kangaroos,5 ,"Lade, Brendon",10,10,8,18, , ,24, ,3,1,4,4,3,3, ,5,14, , ,2, ,1,67
+2003,8,Port Adelaide,Kangaroos,14 ,"Paxman, Stephen",2,1,1,3, , , , ,1, ,1, , , , ,1,1, , ,1, , ,67
+2003,8,Port Adelaide,Kangaroos,15 ,"Pickett, Byron",8,4,3,11,3, , ,3, ,5,1,2,1,1, ,5,7,1,1,3, , ,86
+2003,8,Port Adelaide,Kangaroos,6 ,"Schofield, Jarrad",13,4,1,14,1,1, ,1,2,4,3, , , , ,5,7, , , ,1, ,76
+2003,8,Port Adelaide,Kangaroos,36 ,"Stevens, Nick",18,2,8,26, , , , ,3,5,8,3,2, , ,14,10, , ,2, , ,96
+2003,8,Port Adelaide,Kangaroos,16 ,"Tredrea, Warren",13,7,5,18,2,3, ,4, ,9, ,2,1,1, ,10,8,2,2,2, ,3,100
+2003,8,Port Adelaide,Kangaroos,2 ,"Wakelin, Darryl",5,2,4,9, , , ,1,2, , , ,1, , ,5,4,1, ,4, , ,82
+2003,8,Port Adelaide,Kangaroos,4 ,"Wanganeen, Gavin",19,10,5,24,1,2, ,1,4,3,1,1,2, ,3,11,13,1,3,1,1,1,100
+2003,8,Port Adelaide,Kangaroos,21 ,"Wilson, Michael",7,2,3,10, , , ,3,3,1,1,3, ,2, ,5,3, , , , , ,97

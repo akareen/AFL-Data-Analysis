@@ -1,0 +1,7 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Carlton,2015,1,St Kilda,4,W,31,1,,2,3,,,,2,1,,,1,,1,,2,1,,,,,,33
+Carlton,2015,2,Greater Western Sydney,7,L,31,6,2,5,11,,,,,5,,,1,,,,2,8,,,2,,,97
+Carlton,2015,3,Brisbane Lions,20,L,31,5,5,4,9,,,,1,1,1,,2,,1,,2,8,,,6,,,85
+Carlton,2015,4,Melbourne,21,W,31,7,6,4,11,,1,,1,3,2,2,3,,1,,3,8,,,1,,1,90
+Carlton,2015,5,Greater Western Sydney,22,L,31,11,3,8,19,,1,,5,4,2,,3,3,,,8,11,,,2,,,89
+Carlton,2015,6,Hawthorn,23,L,31,10,4,7,17,,,,3,5,,,2,2,,,4,14,,,3,,,88

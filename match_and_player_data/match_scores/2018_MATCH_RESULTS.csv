@@ -1,0 +1,208 @@
+year,round,venue,date,attendance,home_team,away_team,home_q1_g,home_q2_g,home_q3_g,home_q4_g,home_q1_b,home_q2_b,home_q3_b,home_q4_b,away_q1_g,away_q2_g,away_q3_g,away_q4_g,away_q1_b,away_q2_b,away_q3_b,away_q4_b,home_total_g,home_total_b,home_total_score,away_total_g,away_total_b,away_total_score,winning_team,margin
+2018,1,M.C.G.,22-03-2018,90151,Richmond,Carlton,4,2,5,6,4,7,3,5,6,2,4,3,1,2,1,1,17,19,121,15,5,95,Richmond,26
+2018,1,Docklands,23-03-2018,43016,Essendon,Adelaide,4,1,3,6,2,6,2,5,3,1,7,1,5,4,3,3,14,15,99,12,15,87,Essendon,12
+2018,1,Docklands,24-03-2018,23731,St Kilda,Brisbane Lions,6,1,4,5,4,1,3,3,3,2,4,3,3,5,2,0,16,11,107,12,10,82,St Kilda,25
+2018,1,Adelaide,24-03-2018,38324,Port Adelaide,Fremantle,4,4,6,2,3,4,3,4,1,4,2,2,4,0,2,0,16,14,110,9,6,60,Port Adelaide,50
+2018,1,Cazaly's,24-03-2018,3722,Gold Coast,North Melbourne,0,5,0,2,2,4,2,5,1,0,4,0,2,4,1,2,7,13,55,5,9,39,Gold Coast,16
+2018,1,M.C.G.,24-03-2018,58051,Hawthorn,Collingwood,4,6,3,2,4,3,2,2,3,3,1,2,4,0,2,7,15,11,101,9,13,67,Hawthorn,34
+2018,1,Manuka,25-03-2018,10454,Greater Western Sydney,Western Bulldogs,4,7,6,3,2,2,0,9,3,1,1,2,3,1,2,3,20,13,133,7,9,51,Greater Western Sydney,82
+2018,1,M.C.G.,25-03-2018,54112,Melbourne,Geelong,6,2,4,1,1,4,4,7,5,7,1,1,3,5,2,3,13,16,94,14,13,97,Geelong,3
+2018,1,Perth,25-03-2018,53553,West Coast,Sydney,4,1,5,3,2,1,4,1,5,4,2,7,1,4,1,1,13,8,86,18,7,115,Sydney,29
+2018,2,Adelaide,29-03-2018,49743,Adelaide,Richmond,4,7,3,4,4,0,3,3,4,5,1,2,2,2,5,1,18,10,118,12,10,82,Adelaide,36
+2018,2,Docklands,30-03-2018,33966,North Melbourne,St Kilda,0,2,4,7,6,4,6,1,1,1,3,0,2,8,1,2,13,17,95,5,13,43,North Melbourne,52
+2018,2,Docklands,31-03-2018,28025,Carlton,Gold Coast,1,3,2,3,1,3,4,5,5,3,4,3,5,2,2,2,9,13,67,15,11,101,Gold Coast,34
+2018,2,M.C.G.,31-03-2018,30941,Collingwood,Greater Western Sydney,3,2,4,3,2,1,4,0,4,2,4,5,1,1,0,3,12,7,79,15,5,95,Greater Western Sydney,16
+2018,2,Gabba,31-03-2018,17141,Brisbane Lions,Melbourne,0,2,3,5,3,3,5,3,5,3,1,5,4,3,4,5,10,14,74,14,16,100,Melbourne,26
+2018,2,Perth,31-03-2018,49021,Fremantle,Essendon,4,4,4,4,2,2,4,2,4,3,2,5,0,2,2,2,16,10,106,14,6,90,Fremantle,16
+2018,2,Docklands,01-04-2018,22868,Western Bulldogs,West Coast,3,0,2,4,3,3,7,3,3,6,3,6,5,4,1,3,9,16,70,18,13,121,West Coast,51
+2018,2,S.C.G.,01-04-2018,34636,Sydney,Port Adelaide,2,4,2,2,4,2,4,1,1,3,7,3,2,2,3,3,10,11,71,14,10,94,Port Adelaide,23
+2018,2,M.C.G.,02-04-2018,73189,Geelong,Hawthorn,5,3,4,6,1,1,5,2,5,6,3,3,3,5,5,3,18,9,117,17,16,118,Hawthorn,1
+2018,3,M.C.G.,06-04-2018,68548,Carlton,Collingwood,3,0,4,4,2,2,4,2,4,5,4,3,0,4,0,0,11,10,76,16,4,100,Collingwood,24
+2018,3,Adelaide,07-04-2018,36363,Port Adelaide,Brisbane Lions,4,3,7,0,6,1,1,5,4,5,2,3,0,6,2,0,14,13,97,14,8,92,Port Adelaide,5
+2018,3,M.C.G.,07-04-2018,35518,Melbourne,North Melbourne,3,6,3,6,2,5,6,2,5,3,2,3,3,1,2,2,18,15,123,13,8,86,Melbourne,37
+2018,3,Perth,07-04-2018,33388,Gold Coast,Fremantle,2,4,3,1,1,3,3,1,4,1,5,3,5,5,3,5,10,8,68,13,18,96,Fremantle,28
+2018,3,Docklands,07-04-2018,19324,St Kilda,Adelaide,2,1,1,3,6,3,3,1,3,2,6,4,2,5,3,4,7,13,55,15,14,104,Adelaide,49
+2018,3,S.C.G.,07-04-2018,34711,Sydney,Greater Western Sydney,3,4,5,4,4,0,1,2,2,3,2,5,5,5,3,2,16,7,103,12,15,87,Sydney,16
+2018,3,M.C.G.,08-04-2018,70701,Richmond,Hawthorn,5,3,4,3,3,4,4,1,2,3,2,6,4,2,2,3,15,12,102,13,11,89,Richmond,13
+2018,3,Docklands,08-04-2018,40499,Western Bulldogs,Essendon,3,5,3,3,9,1,6,4,3,3,3,3,2,4,1,4,14,20,104,12,11,83,Western Bulldogs,21
+2018,3,Perth,08-04-2018,54535,West Coast,Geelong,4,3,0,7,6,3,2,0,2,0,6,3,2,5,3,4,14,11,95,11,14,80,West Coast,15
+2018,4,Adelaide,13-04-2018,45495,Adelaide,Collingwood,1,2,3,3,1,1,1,1,5,3,3,5,2,3,4,1,9,4,58,16,10,106,Collingwood,48
+2018,4,Manuka,14-04-2018,11356,Greater Western Sydney,Fremantle,1,4,3,3,5,4,5,2,3,2,0,2,1,1,4,3,11,16,82,7,9,51,Greater Western Sydney,31
+2018,4,M.C.G.,14-04-2018,32870,Richmond,Brisbane Lions,5,3,3,5,5,5,2,2,0,0,1,1,2,2,0,1,16,14,110,2,5,17,Richmond,93
+2018,4,Docklands,14-04-2018,28058,Western Bulldogs,Sydney,5,2,2,2,3,4,3,3,4,2,4,3,0,3,1,4,11,13,79,13,8,86,Sydney,7
+2018,4,Bellerive,14-04-2018,14266,North Melbourne,Carlton,4,5,5,4,5,1,1,1,1,2,0,1,0,3,1,2,18,8,116,4,6,30,North Melbourne,86
+2018,4,Perth,14-04-2018,51774,West Coast,Gold Coast,4,8,3,6,4,4,4,1,3,1,4,1,1,1,2,1,21,13,139,9,5,59,West Coast,80
+2018,4,Docklands,15-04-2018,30900,Essendon,Port Adelaide,5,4,3,4,2,2,3,3,2,2,4,4,2,5,1,4,16,10,106,12,12,84,Essendon,22
+2018,4,M.C.G.,15-04-2018,41973,Hawthorn,Melbourne,3,4,4,7,5,0,2,0,5,0,0,1,5,4,2,1,18,7,115,6,12,48,Hawthorn,67
+2018,4,Kardinia,15-04-2018,27338,Geelong,St Kilda,4,4,5,2,3,3,2,5,1,2,2,2,4,3,1,6,15,13,103,7,14,56,Geelong,47
+2018,5,S.C.G.,20-04-2018,38017,Sydney,Adelaide,3,3,2,2,3,3,3,6,4,4,1,3,9,1,2,1,10,15,75,12,13,85,Adelaide,10
+2018,5,Docklands,21-04-2018,14956,St Kilda,Greater Western Sydney,2,3,1,4,2,6,4,1,2,2,3,2,5,4,6,4,10,13,73,9,19,73,Match drawn,0
+2018,5,M.C.G.,21-04-2018,27900,Carlton,West Coast,2,2,2,4,1,4,1,3,3,2,4,1,5,6,5,3,10,9,69,10,19,79,West Coast,10
+2018,5,Adelaide,21-04-2018,45372,Port Adelaide,Geelong,1,3,3,0,2,2,1,3,3,2,3,4,2,5,3,2,7,8,50,12,12,84,Geelong,34
+2018,5,Perth,21-04-2018,43056,Fremantle,Western Bulldogs,4,2,6,4,0,3,3,6,1,2,1,4,2,1,1,2,16,12,108,8,6,54,Fremantle,54
+2018,5,Docklands,22-04-2018,27981,North Melbourne,Hawthorn,7,4,1,2,5,4,2,3,2,1,6,2,0,0,2,2,14,14,98,11,4,70,North Melbourne,28
+2018,5,Gabba,22-04-2018,16087,Brisbane Lions,Gold Coast,2,2,3,3,3,4,2,2,4,3,3,1,2,1,3,4,10,11,71,11,10,76,Gold Coast,5
+2018,5,M.C.G.,24-04-2018,77071,Melbourne,Richmond,1,1,3,3,5,1,2,0,2,3,3,7,2,6,1,3,8,8,56,15,12,102,Richmond,46
+2018,5,M.C.G.,25-04-2018,91440,Collingwood,Essendon,4,2,2,6,4,5,5,3,3,1,0,3,3,1,4,2,14,17,101,7,10,52,Collingwood,49
+2018,6,Docklands,27-04-2018,33915,Western Bulldogs,Carlton,4,3,2,2,5,3,4,2,3,1,2,2,1,2,3,5,11,14,80,8,11,59,Western Bulldogs,21
+2018,6,Kardinia,28-04-2018,31036,Geelong,Sydney,2,4,3,1,3,4,1,1,4,0,1,7,6,1,3,4,10,9,69,12,14,86,Sydney,17
+2018,6,Docklands,28-04-2018,17617,North Melbourne,Port Adelaide,2,2,2,4,1,4,2,2,4,4,4,3,5,1,2,4,10,9,69,15,12,102,Port Adelaide,33
+2018,6,Sydney,28-04-2018,10046,Greater Western Sydney,Brisbane Lions,3,3,2,2,4,5,2,6,0,1,3,1,5,1,3,4,10,17,77,5,13,43,Greater Western Sydney,34
+2018,6,York,28-04-2018,15741,Hawthorn,St Kilda,3,1,3,6,7,2,0,2,0,3,2,2,4,3,3,2,13,11,89,7,12,54,Hawthorn,35
+2018,6,Adelaide,28-04-2018,44835,Adelaide,Gold Coast,4,6,3,3,4,3,2,5,2,1,4,2,1,3,2,2,16,14,110,9,8,62,Adelaide,48
+2018,6,Docklands,29-04-2018,35964,Essendon,Melbourne,2,3,1,4,3,4,2,3,1,3,7,5,3,4,3,2,10,12,72,16,12,108,Melbourne,36
+2018,6,M.C.G.,29-04-2018,72157,Collingwood,Richmond,2,3,2,3,2,5,2,1,3,1,4,8,4,5,5,3,10,10,70,16,17,113,Richmond,43
+2018,6,Perth,29-04-2018,56521,Fremantle,West Coast,4,1,4,3,3,1,3,2,1,5,4,3,1,5,1,4,12,9,81,13,11,89,West Coast,8
+2018,7,Kardinia,04-05-2018,25079,Geelong,Greater Western Sydney,4,3,5,2,1,1,1,6,1,1,0,2,0,5,2,1,14,9,93,4,8,32,Geelong,61
+2018,7,Eureka,05-05-2018,6833,Western Bulldogs,Gold Coast,1,4,3,3,2,3,2,8,2,3,3,2,6,3,1,2,11,15,81,10,12,72,Western Bulldogs,9
+2018,7,M.C.G.,05-05-2018,53018,Essendon,Hawthorn,4,1,0,5,2,3,1,1,2,2,6,3,4,0,3,5,10,7,67,13,12,90,Hawthorn,23
+2018,7,Perth,05-05-2018,50516,West Coast,Port Adelaide,4,5,4,3,1,2,1,2,2,1,5,1,1,1,0,4,16,6,102,9,6,60,West Coast,42
+2018,7,S.C.G.,05-05-2018,29124,Sydney,North Melbourne,2,2,2,3,1,3,4,4,3,2,2,2,3,2,5,4,9,12,66,9,14,68,North Melbourne,2
+2018,7,Adelaide,05-05-2018,47422,Adelaide,Carlton,7,2,6,4,2,1,5,3,2,4,1,3,1,3,4,2,19,11,125,10,10,70,Adelaide,55
+2018,7,M.C.G.,06-05-2018,43240,Richmond,Fremantle,4,3,0,8,5,6,5,4,1,0,3,0,1,2,5,1,15,20,110,4,9,33,Richmond,77
+2018,7,Docklands,06-05-2018,25496,St Kilda,Melbourne,2,1,4,2,5,3,2,3,5,3,5,3,1,5,4,0,9,13,67,16,10,106,Melbourne,39
+2018,7,Gabba,06-05-2018,21850,Brisbane Lions,Collingwood,3,7,4,4,0,0,2,4,4,6,5,4,2,1,1,3,18,6,114,19,7,121,Collingwood,7
+2018,8,M.C.G.,11-05-2018,32784,Hawthorn,Sydney,4,1,4,1,3,1,2,5,4,2,1,5,1,3,3,0,10,11,71,12,7,79,Sydney,8
+2018,8,Sydney,12-05-2018,9253,Greater Western Sydney,West Coast,2,3,3,0,3,5,2,3,2,5,3,2,6,1,4,3,8,13,61,12,14,86,West Coast,25
+2018,8,M.C.G.,12-05-2018,44669,Carlton,Essendon,4,2,4,4,1,1,4,1,3,2,2,3,2,7,5,4,14,7,91,10,18,78,Carlton,13
+2018,8,Gabba,12-05-2018,6060,Gold Coast,Melbourne,3,2,4,2,5,2,2,2,4,4,5,8,5,6,6,3,11,11,77,21,20,146,Melbourne,69
+2018,8,Adelaide,12-05-2018,50967,Port Adelaide,Adelaide,1,3,7,3,3,3,5,0,4,4,2,4,2,1,2,1,14,11,95,14,6,90,Port Adelaide,5
+2018,8,Docklands,12-05-2018,20865,Western Bulldogs,Brisbane Lions,4,5,3,4,3,2,3,3,4,2,2,6,1,4,3,1,16,11,107,14,9,93,Western Bulldogs,14
+2018,8,Perth,12-05-2018,41752,Fremantle,St Kilda,3,4,2,4,2,3,4,2,1,0,6,1,2,3,2,4,13,11,89,8,11,59,Fremantle,30
+2018,8,Docklands,13-05-2018,29153,North Melbourne,Richmond,2,3,4,2,0,2,1,3,3,5,1,3,4,0,3,3,11,6,72,12,10,82,Richmond,10
+2018,8,M.C.G.,13-05-2018,44602,Collingwood,Geelong,1,0,3,1,3,3,5,4,2,2,3,2,4,3,3,2,5,15,45,9,12,66,Geelong,21
+2018,9,Adelaide,18-05-2018,39407,Adelaide,Western Bulldogs,3,0,3,3,1,2,3,3,0,1,0,1,3,4,3,4,9,9,63,2,14,26,Adelaide,37
+2018,9,Bellerive,19-05-2018,7194,North Melbourne,Greater Western Sydney,5,2,7,3,4,1,3,2,1,6,1,1,5,5,1,4,17,10,112,9,15,69,North Melbourne,43
+2018,9,Jiangwan,19-05-2018,10689,Gold Coast,Port Adelaide,4,1,1,0,2,1,3,0,5,1,2,3,5,4,5,2,6,6,42,11,16,82,Port Adelaide,40
+2018,9,M.C.G.,19-05-2018,50228,Essendon,Geelong,5,4,1,2,2,3,6,1,2,0,1,4,2,1,2,3,12,12,84,7,8,50,Essendon,34
+2018,9,Docklands,19-05-2018,33994,St Kilda,Collingwood,3,4,2,1,5,2,2,3,3,4,7,1,3,3,1,3,10,12,72,15,10,100,Collingwood,28
+2018,9,S.C.G.,19-05-2018,27481,Sydney,Fremantle,3,4,4,6,3,1,2,3,0,1,1,5,4,3,2,1,17,9,111,7,10,52,Sydney,59
+2018,9,M.C.G.,20-05-2018,44142,Carlton,Melbourne,3,2,2,0,1,2,3,2,3,7,8,7,4,0,2,3,7,8,50,25,9,159,Melbourne,109
+2018,9,Gabba,20-05-2018,20628,Brisbane Lions,Hawthorn,4,5,4,7,1,0,5,3,5,2,2,2,0,2,1,4,20,9,129,11,7,73,Brisbane Lions,56
+2018,9,Perth,20-05-2018,57616,West Coast,Richmond,6,1,7,6,1,1,4,4,2,4,3,3,3,5,0,3,20,10,130,12,11,83,West Coast,47
+2018,10,Docklands,25-05-2018,37985,Collingwood,Western Bulldogs,1,4,4,4,1,2,5,4,5,3,0,0,2,1,2,2,13,12,90,8,7,55,Collingwood,35
+2018,10,M.C.G.,26-05-2018,48850,Richmond,St Kilda,3,3,4,5,3,1,5,6,2,2,5,3,0,3,2,0,15,15,105,12,5,77,Richmond,28
+2018,10,Gabba,26-05-2018,18702,Brisbane Lions,Sydney,2,0,2,2,2,1,4,6,3,2,3,2,0,3,3,1,6,13,49,10,7,67,Sydney,18
+2018,10,Kardinia,26-05-2018,31090,Geelong,Carlton,4,1,2,4,0,3,2,2,2,0,2,1,1,6,4,4,11,7,73,5,15,45,Geelong,28
+2018,10,Sydney,26-05-2018,10789,Greater Western Sydney,Essendon,2,3,2,1,3,3,3,3,5,2,1,6,2,1,5,3,8,12,60,14,11,95,Essendon,35
+2018,10,Docklands,27-05-2018,28077,Hawthorn,West Coast,3,3,2,1,1,2,3,0,3,3,3,2,2,1,3,3,9,6,60,11,9,75,West Coast,15
+2018,10,Traeger,27-05-2018,6989,Melbourne,Adelaide,7,5,6,5,1,1,4,2,3,1,1,3,1,1,2,3,23,8,146,8,7,55,Melbourne,91
+2018,10,Perth,27-05-2018,37575,Fremantle,North Melbourne,3,2,1,2,4,1,3,2,1,3,3,5,8,4,1,1,8,10,58,12,14,86,North Melbourne,28
+2018,11,S.C.G.,01-06-2018,27351,Sydney,Carlton,3,2,5,3,5,2,2,4,3,3,0,3,1,1,4,1,13,13,91,9,7,61,Sydney,30
+2018,11,Docklands,02-06-2018,28485,Western Bulldogs,Melbourne,3,1,2,1,3,3,2,1,2,5,4,4,1,3,3,3,7,9,51,15,10,100,Melbourne,49
+2018,11,York,02-06-2018,13007,Hawthorn,Port Adelaide,1,4,2,2,2,1,4,3,5,0,1,3,2,1,3,1,9,10,64,9,7,61,Hawthorn,3
+2018,11,Carrara,02-06-2018,17490,Gold Coast,Geelong,2,0,2,0,4,1,6,1,3,7,3,4,5,6,4,4,4,12,36,17,19,121,Geelong,85
+2018,11,M.C.G.,02-06-2018,81046,Essendon,Richmond,1,3,1,1,3,2,1,1,5,4,6,2,4,2,4,2,6,7,43,17,12,114,Richmond,71
+2018,11,Perth,02-06-2018,54188,West Coast,St Kilda,5,5,5,1,0,1,2,2,2,3,2,7,1,2,0,1,16,5,101,14,4,88,West Coast,13
+2018,11,Docklands,03-06-2018,22133,North Melbourne,Brisbane Lions,5,7,4,5,7,2,5,1,0,3,4,5,4,4,3,4,21,15,141,12,15,87,North Melbourne,54
+2018,11,M.C.G.,03-06-2018,34542,Collingwood,Fremantle,3,5,6,7,6,2,1,3,2,1,2,7,3,1,0,1,21,12,138,12,5,77,Collingwood,61
+2018,11,Adelaide,03-06-2018,44120,Adelaide,Greater Western Sydney,4,2,3,2,3,4,3,5,3,6,2,3,5,2,3,3,11,15,81,14,13,97,Greater Western Sydney,16
+2018,12,Adelaide,08-06-2018,39936,Port Adelaide,Richmond,2,7,1,0,2,3,2,5,3,2,2,1,3,3,2,2,10,12,72,8,10,58,Port Adelaide,14
+2018,12,Kardinia,09-06-2018,31265,Geelong,North Melbourne,4,2,3,5,4,3,1,4,1,1,4,2,6,0,2,3,14,12,96,8,11,59,Geelong,37
+2018,12,Sydney,09-06-2018,7131,Greater Western Sydney,Gold Coast,2,7,8,3,6,3,3,2,1,2,1,0,0,1,0,1,20,14,134,4,2,26,Greater Western Sydney,108
+2018,12,Docklands,09-06-2018,27569,St Kilda,Sydney,1,2,1,3,1,7,2,3,9,5,3,2,1,2,4,5,7,13,55,19,12,126,Sydney,71
+2018,12,Gabba,10-06-2018,20476,Brisbane Lions,Essendon,2,1,2,3,4,3,2,5,4,3,1,4,0,4,7,1,8,14,62,12,12,84,Essendon,22
+2018,12,Perth,10-06-2018,33421,Fremantle,Adelaide,5,0,4,1,2,4,2,3,1,6,0,2,4,2,3,5,10,11,71,9,14,68,Fremantle,3
+2018,12,M.C.G.,11-06-2018,83518,Melbourne,Collingwood,2,5,4,3,0,2,3,2,5,4,6,5,5,4,2,2,14,7,91,20,13,133,Collingwood,42
+2018,13,Adelaide,14-06-2018,26137,Port Adelaide,Western Bulldogs,5,3,6,6,5,1,3,3,0,4,4,3,1,4,2,2,20,12,132,11,9,75,Port Adelaide,57
+2018,13,S.C.G.,15-06-2018,36402,Sydney,West Coast,0,5,5,0,3,0,3,6,1,1,3,2,3,4,3,5,10,12,72,7,15,57,Sydney,15
+2018,13,Docklands,16-06-2018,21430,Carlton,Fremantle,0,0,3,3,4,3,0,3,6,6,2,1,3,2,5,3,6,10,46,15,13,103,Fremantle,57
+2018,13,Carrara,16-06-2018,10181,Gold Coast,St Kilda,4,5,2,0,2,5,5,0,3,1,2,5,2,4,5,3,11,12,78,11,14,80,St Kilda,2
+2018,13,M.C.G.,16-06-2018,26693,Hawthorn,Adelaide,2,1,7,2,5,4,2,5,1,2,0,1,2,3,0,3,12,16,88,4,8,32,Hawthorn,56
+2018,13,M.C.G.,17-06-2018,46423,Geelong,Richmond,4,1,3,1,2,3,2,4,1,4,3,4,5,2,1,3,9,11,65,12,11,83,Richmond,18
+2018,14,Perth,21-06-2018,51409,West Coast,Essendon,0,1,1,4,1,5,6,4,6,2,1,3,2,2,3,1,6,16,52,12,8,80,Essendon,28
+2018,14,Adelaide,22-06-2018,40751,Port Adelaide,Melbourne,1,3,4,3,3,3,1,2,3,1,5,0,5,3,1,2,11,9,75,9,11,65,Port Adelaide,10
+2018,14,York,23-06-2018,9007,Hawthorn,Gold Coast,2,3,3,5,1,6,6,5,3,0,0,2,4,2,3,4,13,18,96,5,13,43,Hawthorn,53
+2018,14,Gabba,23-06-2018,11267,Brisbane Lions,Greater Western Sydney,3,1,3,5,2,2,2,4,5,3,2,6,2,2,5,4,12,10,82,16,13,109,Greater Western Sydney,27
+2018,14,Docklands,23-06-2018,26301,Western Bulldogs,North Melbourne,2,4,2,3,1,2,4,2,1,2,5,4,1,2,2,0,11,9,75,12,5,77,North Melbourne,2
+2018,14,M.C.G.,24-06-2018,53706,Collingwood,Carlton,3,2,3,3,2,6,4,1,3,1,3,2,2,1,1,1,11,13,79,9,5,59,Collingwood,20
+2018,15,Docklands,28-06-2018,43519,Richmond,Sydney,6,1,4,3,1,1,3,4,3,2,5,1,1,0,0,0,14,9,93,11,1,67,Richmond,26
+2018,15,Docklands,29-06-2018,29499,Western Bulldogs,Geelong,4,5,4,3,2,2,1,2,4,4,5,2,3,1,3,4,16,7,103,15,11,101,Western Bulldogs,2
+2018,15,M.C.G.,30-06-2018,26562,Carlton,Port Adelaide,5,1,2,2,0,2,5,2,3,5,0,5,6,3,0,3,10,9,69,13,12,90,Port Adelaide,21
+2018,15,Adelaide,30-06-2018,44771,Adelaide,West Coast,1,2,3,6,3,5,2,6,2,3,5,2,4,1,1,0,12,16,88,12,6,78,Adelaide,10
+2018,15,Carrara,30-06-2018,13637,Gold Coast,Collingwood,3,1,3,1,2,2,3,5,4,6,3,1,3,3,5,4,8,12,60,14,15,99,Collingwood,39
+2018,15,Sydney,30-06-2018,10866,Greater Western Sydney,Hawthorn,5,1,5,2,3,8,4,2,1,4,4,4,3,1,1,1,13,17,95,13,6,84,Greater Western Sydney,11
+2018,15,M.C.G.,01-07-2018,38910,Melbourne,St Kilda,4,5,2,7,2,1,3,3,4,7,3,4,3,3,4,1,18,9,117,18,11,119,St Kilda,2
+2018,15,Docklands,01-07-2018,45580,Essendon,North Melbourne,6,7,2,4,2,4,2,3,7,3,3,3,2,2,4,4,19,11,125,16,12,108,Essendon,17
+2018,15,Perth,01-07-2018,41674,Fremantle,Brisbane Lions,1,2,3,3,4,2,3,1,4,3,6,5,3,3,2,3,9,10,64,18,11,119,Brisbane Lions,55
+2018,16,S.C.G.,05-07-2018,34363,Sydney,Geelong,2,1,4,2,2,0,2,1,1,3,1,3,4,7,5,7,9,5,59,8,23,71,Geelong,12
+2018,16,M.C.G.,06-07-2018,54934,Richmond,Adelaide,2,5,2,6,3,5,2,3,1,3,3,1,3,1,2,2,15,13,103,8,8,56,Richmond,47
+2018,16,Gabba,07-07-2018,21074,Brisbane Lions,Carlton,3,5,6,4,1,6,4,1,2,0,2,3,5,1,2,5,18,12,120,7,13,55,Brisbane Lions,65
+2018,16,Adelaide,07-07-2018,36253,Port Adelaide,St Kilda,3,2,3,4,1,5,6,2,0,2,2,3,5,1,0,2,12,14,86,7,8,50,Port Adelaide,36
+2018,16,Docklands,07-07-2018,35320,Western Bulldogs,Hawthorn,4,3,0,2,1,3,1,0,6,1,7,5,0,2,4,2,9,5,59,19,8,122,Hawthorn,63
+2018,16,Marrara,07-07-2018,8689,Melbourne,Fremantle,2,3,4,4,9,6,3,6,2,2,2,1,0,2,3,1,13,24,102,7,6,48,Melbourne,54
+2018,16,Docklands,08-07-2018,14389,North Melbourne,Gold Coast,4,3,5,2,2,2,2,5,1,4,1,2,0,5,2,3,14,11,95,8,10,58,North Melbourne,37
+2018,16,M.C.G.,08-07-2018,69868,Essendon,Collingwood,1,3,3,2,2,3,1,2,4,0,3,5,1,3,1,1,9,8,62,12,6,78,Collingwood,16
+2018,16,Perth,08-07-2018,52105,West Coast,Greater Western Sydney,1,5,4,3,2,1,0,5,2,1,4,3,2,6,4,3,13,8,86,10,15,75,West Coast,11
+2018,17,Adelaide,12-07-2018,46095,Adelaide,Geelong,4,3,6,3,3,6,6,1,3,3,4,4,3,4,2,4,16,16,112,14,13,97,Adelaide,15
+2018,17,Docklands,13-07-2018,33780,St Kilda,Carlton,4,4,6,2,5,5,4,6,3,2,1,1,3,2,3,2,16,20,116,7,10,52,St Kilda,64
+2018,17,York,14-07-2018,12557,Hawthorn,Brisbane Lions,2,4,3,0,5,2,3,1,2,3,6,4,1,1,4,2,9,11,65,15,8,98,Brisbane Lions,33
+2018,17,M.C.G.,14-07-2018,31053,Melbourne,Western Bulldogs,3,3,8,4,4,5,0,2,4,2,3,1,1,5,3,0,18,11,119,10,9,69,Melbourne,50
+2018,17,Carrara,14-07-2018,13061,Gold Coast,Essendon,2,2,0,2,8,3,3,1,2,2,4,5,4,2,4,7,6,15,51,13,17,95,Essendon,44
+2018,17,Sydney,14-07-2018,14456,Greater Western Sydney,Richmond,4,3,3,1,3,3,4,3,2,4,0,4,6,4,5,2,11,13,79,10,17,77,Greater Western Sydney,2
+2018,17,M.C.G.,15-07-2018,53439,Collingwood,West Coast,4,2,2,1,4,5,1,3,3,5,4,3,0,1,7,4,9,13,67,15,12,102,West Coast,35
+2018,17,Docklands,15-07-2018,25633,North Melbourne,Sydney,5,1,6,3,1,1,3,3,3,5,2,6,1,2,3,2,15,8,98,16,8,104,Sydney,6
+2018,17,Perth,15-07-2018,33190,Fremantle,Port Adelaide,1,0,4,3,0,7,3,1,2,0,2,3,3,0,3,2,8,11,59,7,8,50,Fremantle,9
+2018,18,Docklands,20-07-2018,36269,St Kilda,Richmond,1,1,3,3,2,1,4,2,6,5,3,2,4,3,3,5,8,9,57,16,15,111,Richmond,54
+2018,18,M.C.G.,21-07-2018,50393,Collingwood,North Melbourne,7,6,2,5,2,1,2,5,2,3,2,2,3,3,1,3,20,10,130,9,10,64,Collingwood,66
+2018,18,S.C.G.,21-07-2018,32565,Sydney,Gold Coast,6,0,0,2,4,3,3,6,1,6,2,3,5,2,5,4,8,16,64,12,16,88,Gold Coast,24
+2018,18,Docklands,21-07-2018,31564,Essendon,Fremantle,2,2,5,4,5,6,5,5,4,3,3,1,0,1,3,0,13,21,99,11,4,70,Essendon,29
+2018,18,Gabba,21-07-2018,20475,Brisbane Lions,Adelaide,4,4,1,4,1,1,5,3,3,6,3,1,4,3,4,4,13,10,88,13,15,93,Adelaide,5
+2018,18,Kardinia,21-07-2018,30125,Geelong,Melbourne,2,3,3,8,1,2,1,0,2,3,6,3,3,5,1,5,16,4,100,14,14,98,Geelong,2
+2018,18,Docklands,22-07-2018,30405,Carlton,Hawthorn,0,1,4,2,0,2,5,3,4,4,3,7,3,4,6,3,7,10,52,18,16,124,Hawthorn,72
+2018,18,Perth,22-07-2018,46854,West Coast,Western Bulldogs,6,2,1,5,4,5,6,1,2,1,1,2,2,3,3,2,14,16,100,6,10,46,West Coast,54
+2018,18,Adelaide,22-07-2018,34693,Port Adelaide,Greater Western Sydney,1,2,4,1,0,5,3,2,4,3,2,2,3,4,5,2,8,10,58,11,14,80,Greater Western Sydney,22
+2018,19,Docklands,27-07-2018,42251,Essendon,Sydney,2,4,5,4,3,4,4,8,3,3,4,0,3,1,1,1,15,19,109,10,6,66,Essendon,43
+2018,19,M.C.G.,28-07-2018,88180,Richmond,Collingwood,5,3,3,5,2,1,3,3,2,5,4,1,1,0,1,3,16,9,105,12,5,77,Richmond,28
+2018,19,Kardinia,28-07-2018,28226,Geelong,Brisbane Lions,2,5,4,7,4,2,5,1,2,3,2,4,4,3,2,3,18,12,120,11,12,78,Geelong,42
+2018,19,Sydney,28-07-2018,12014,Greater Western Sydney,St Kilda,2,3,6,2,0,2,3,3,1,2,3,2,6,4,1,2,13,8,86,8,13,61,Greater Western Sydney,25
+2018,19,Carrara,28-07-2018,10776,Gold Coast,Carlton,3,0,1,1,3,3,2,6,1,2,7,2,2,2,2,1,5,14,44,12,7,79,Carlton,35
+2018,19,Adelaide,28-07-2018,45880,Adelaide,Melbourne,4,2,1,3,4,4,2,7,3,2,7,1,1,6,4,1,10,17,77,13,12,90,Melbourne,13
+2018,19,Bellerive,29-07-2018,11176,North Melbourne,West Coast,1,4,4,3,4,0,3,2,2,3,1,0,0,1,1,3,12,9,81,6,5,41,North Melbourne,40
+2018,19,Eureka,29-07-2018,6450,Western Bulldogs,Port Adelaide,2,2,1,0,0,0,4,0,2,2,3,4,2,2,2,6,5,4,34,11,12,78,Port Adelaide,44
+2018,19,Perth,29-07-2018,41845,Fremantle,Hawthorn,3,0,1,3,3,2,3,3,5,3,6,3,2,4,2,2,7,11,53,17,10,112,Hawthorn,59
+2018,20,M.C.G.,03-08-2018,67054,Richmond,Geelong,4,2,4,2,2,4,5,2,2,3,2,5,4,3,1,2,12,13,85,12,10,82,Richmond,3
+2018,20,M.C.G.,04-08-2018,68857,Hawthorn,Essendon,3,6,4,3,1,2,2,6,3,4,5,4,3,1,1,2,16,11,107,16,7,103,Hawthorn,4
+2018,20,Gabba,04-08-2018,18395,Brisbane Lions,North Melbourne,6,3,4,3,0,2,2,4,5,7,2,2,1,5,3,2,16,8,104,16,11,107,North Melbourne,3
+2018,20,Adelaide,04-08-2018,50377,Adelaide,Port Adelaide,5,2,2,4,3,5,6,4,5,4,1,4,3,2,4,0,13,18,96,14,9,93,Adelaide,3
+2018,20,S.C.G.,04-08-2018,39238,Sydney,Collingwood,3,1,5,2,2,2,2,1,4,3,0,3,1,2,3,5,11,7,73,10,11,71,Sydney,2
+2018,20,Docklands,04-08-2018,20748,St Kilda,Western Bulldogs,4,3,0,2,2,2,5,5,0,6,8,1,5,1,6,1,9,14,68,15,13,103,Western Bulldogs,35
+2018,20,Docklands,05-08-2018,16697,Carlton,Greater Western Sydney,1,3,2,1,2,1,1,0,5,7,4,7,5,1,4,3,7,4,46,23,13,151,Greater Western Sydney,105
+2018,20,M.C.G.,05-08-2018,23072,Melbourne,Gold Coast,9,5,2,5,3,3,6,5,1,3,1,2,0,2,2,1,21,17,143,7,5,47,Melbourne,96
+2018,20,Perth,05-08-2018,57375,West Coast,Fremantle,4,5,7,5,4,3,3,6,1,3,4,5,2,2,2,0,21,16,142,13,6,84,West Coast,58
+2018,21,Docklands,10-08-2018,37483,Essendon,St Kilda,5,5,4,4,3,5,5,1,4,2,1,4,4,4,2,3,18,14,122,11,13,79,Essendon,43
+2018,21,M.C.G.,11-08-2018,59529,Hawthorn,Geelong,0,5,4,1,4,4,2,1,2,0,3,3,4,2,2,4,10,11,71,8,12,60,Hawthorn,11
+2018,21,Carrara,11-08-2018,18102,Gold Coast,Richmond,1,2,0,4,1,4,3,1,4,4,7,4,4,1,4,2,7,9,51,19,11,125,Richmond,74
+2018,21,Adelaide,11-08-2018,32534,Port Adelaide,West Coast,5,1,3,0,1,1,0,2,1,2,3,3,1,1,3,3,9,4,58,9,8,62,West Coast,4
+2018,21,Manuka,11-08-2018,13249,Greater Western Sydney,Adelaide,4,2,5,4,4,5,5,2,4,3,3,3,3,4,2,5,15,16,106,13,14,92,Greater Western Sydney,14
+2018,21,Docklands,11-08-2018,33390,Collingwood,Brisbane Lions,1,4,6,3,3,4,7,6,3,2,3,3,4,0,0,3,14,20,104,11,7,73,Collingwood,31
+2018,21,Docklands,12-08-2018,27031,North Melbourne,Western Bulldogs,2,7,2,1,2,3,5,3,1,3,8,1,4,3,2,5,12,13,85,13,14,92,Western Bulldogs,7
+2018,21,M.C.G.,12-08-2018,51424,Melbourne,Sydney,2,1,4,3,6,6,2,4,1,6,6,0,1,1,4,3,10,18,78,13,9,87,Sydney,9
+2018,21,Perth,12-08-2018,40028,Fremantle,Carlton,1,4,7,3,4,3,3,1,3,4,0,3,6,2,2,2,15,11,101,10,12,72,Fremantle,29
+2018,22,M.C.G.,17-08-2018,76424,Richmond,Essendon,4,1,5,2,0,6,2,1,2,2,3,4,3,1,1,2,12,9,81,11,7,73,Richmond,8
+2018,22,M.C.G.,18-08-2018,46286,Collingwood,Port Adelaide,4,5,1,7,2,5,4,2,4,3,2,1,1,1,2,0,17,13,115,10,4,64,Collingwood,51
+2018,22,Kardinia,18-08-2018,24507,Geelong,Fremantle,1,10,6,7,5,1,3,5,3,0,0,0,2,0,3,2,24,14,158,3,7,25,Geelong,133
+2018,22,Sydney,18-08-2018,21433,Greater Western Sydney,Sydney,3,3,1,1,3,3,3,3,1,3,1,6,2,1,6,5,8,12,60,11,14,80,Sydney,20
+2018,22,Docklands,18-08-2018,24795,St Kilda,Hawthorn,1,5,4,1,3,3,3,1,4,3,5,0,4,1,1,2,11,10,76,12,8,80,Hawthorn,4
+2018,22,Carrara,18-08-2018,11907,Gold Coast,Brisbane Lions,1,5,2,3,2,2,2,2,3,3,1,3,5,5,5,3,11,8,74,10,18,78,Brisbane Lions,4
+2018,22,Docklands,19-08-2018,24143,Carlton,Western Bulldogs,2,2,1,2,2,2,2,1,2,2,2,4,1,1,2,2,7,7,49,10,6,66,Western Bulldogs,17
+2018,22,Perth,19-08-2018,55824,West Coast,Melbourne,3,2,6,3,0,4,2,1,4,3,5,4,4,2,2,4,14,7,91,16,12,108,Melbourne,17
+2018,22,Adelaide,19-08-2018,41444,Adelaide,North Melbourne,3,4,3,2,5,4,4,1,3,0,3,5,2,3,2,4,12,14,86,11,11,77,Adelaide,9
+2018,23,Adelaide,24-08-2018,39168,Port Adelaide,Essendon,1,4,4,4,1,5,1,4,6,3,6,2,4,3,1,1,13,11,89,17,9,111,Essendon,22
+2018,23,Kardinia,25-08-2018,28004,Geelong,Gold Coast,4,8,5,5,6,2,0,2,2,1,1,1,1,1,6,2,22,10,142,5,10,40,Geelong,102
+2018,23,M.C.G.,25-08-2018,56998,Richmond,Western Bulldogs,5,2,5,3,1,6,1,0,6,2,3,3,0,3,3,5,15,8,98,14,11,95,Richmond,3
+2018,23,Perth,25-08-2018,41320,Fremantle,Collingwood,5,1,2,1,2,4,2,5,3,3,2,3,2,1,5,2,9,13,67,11,10,76,Collingwood,9
+2018,23,Docklands,25-08-2018,17000,Carlton,Adelaide,1,4,2,1,4,1,3,5,5,8,7,6,4,2,2,1,8,13,61,26,9,165,Adelaide,104
+2018,23,S.C.G.,25-08-2018,39660,Sydney,Hawthorn,2,4,2,2,3,4,1,6,2,1,4,5,4,2,2,3,10,14,74,12,11,83,Hawthorn,9
+2018,23,Gabba,26-08-2018,16367,Brisbane Lions,West Coast,4,0,3,4,0,2,4,0,5,4,3,2,4,3,5,2,11,6,72,14,14,98,West Coast,26
+2018,23,M.C.G.,26-08-2018,37285,Melbourne,Greater Western Sydney,4,3,5,3,2,4,3,3,4,1,0,3,1,4,3,1,15,12,102,8,9,57,Melbourne,45
+2018,23,Docklands,26-08-2018,19866,St Kilda,North Melbourne,3,3,5,3,3,1,2,4,6,5,3,3,7,2,2,4,14,10,94,17,15,117,North Melbourne,23
+2018,QF,M.C.G.,06-09-2018,91446,Richmond,Hawthorn,2,3,5,3,2,5,6,4,2,1,2,4,3,2,3,2,13,17,95,9,10,64,Richmond,31
+2018,EF,M.C.G.,07-09-2018,91767,Melbourne,Geelong,5,0,1,4,3,6,4,2,0,2,1,3,2,2,4,2,10,15,75,6,10,46,Melbourne,29
+2018,EF,S.C.G.,08-09-2018,40350,Sydney,Greater Western Sydney,1,1,0,2,4,0,2,0,2,2,3,3,3,4,4,8,4,6,30,10,19,79,Greater Western Sydney,49
+2018,QF,Perth,08-09-2018,59585,West Coast,Collingwood,3,3,1,5,3,4,4,3,1,6,2,1,3,1,5,1,12,14,86,10,10,70,West Coast,16
+2018,SF,M.C.G.,14-09-2018,90152,Hawthorn,Melbourne,3,0,3,4,1,6,2,2,3,3,6,4,1,1,3,3,10,11,71,16,8,104,Melbourne,33
+2018,SF,M.C.G.,15-09-2018,72504,Collingwood,Greater Western Sydney,3,1,2,3,6,3,3,3,0,4,3,2,2,0,1,2,9,15,69,9,5,59,Collingwood,10
+2018,PF,M.C.G.,21-09-2018,94959,Richmond,Collingwood,1,1,4,2,3,5,2,0,5,5,2,3,2,2,3,0,8,10,58,15,7,97,Collingwood,39
+2018,PF,Perth,22-09-2018,59608,West Coast,Melbourne,4,6,5,3,8,1,1,3,0,0,5,2,3,3,3,4,18,13,121,7,13,55,West Coast,66
+2018,GF,M.C.G.,29-09-2018,100022,West Coast,Collingwood,2,2,4,3,2,1,4,6,5,1,2,3,1,2,4,1,11,13,79,11,8,74,West Coast,5

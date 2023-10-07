@@ -1,0 +1,56 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Port Adelaide,2006,1,Western Bulldogs,19,W,26,3,2,7,10,,,,1,,,,1,1,1,,3,7,,,1,1,,86
+Port Adelaide,2006,2,Collingwood,20,L,26,4,1,7,11,,,,,1,,,1,,,,1,10,,,1,,,64
+Port Adelaide,2006,3,Adelaide,21,W,26,5,,,5,,,,2,1,,,1,,,,2,3,,,1,,,75
+Port Adelaide,2006,4,Fremantle,22,L,26,3,1,3,6,,,,3,,,2,1,1,,,1,6,,,1,,,66
+Port Adelaide,2008,5,Geelong,12,L,26,2,,9,11,,,,2,,,2,5,1,5,,4,7,,,2,1,,82
+Port Adelaide,2008,6,Richmond,13,L,26,4,1,6,10,,,,3,,1,2,,1,,,3,8,,,1,2,,81
+Port Adelaide,2008,7,Western Bulldogs,14,L,26,6,3,9,15,,1,,2,,2,3,2,1,1,,6,9,1,1,2,2,,84
+Port Adelaide,2008,8,North Melbourne,15,L,26,7,5,9,16,,,,3,2,,,1,1,,,5,11,,,2,2,,83
+Port Adelaide,2008,9,Adelaide,16,W,26,6,1,7,13,,,,2,1,1,3,,,,,7,6,,,6,,,81
+Port Adelaide,2008,10,Fremantle,17,L,26,4,,6,10,,,,6,3,2,6,3,2,2,,4,6,,,2,2,,85
+Port Adelaide,2008,11,St Kilda,18,L,26,5,4,11,16,,,,1,4,,1,1,1,,,4,11,,,5,3,,74
+Port Adelaide,2008,12,Carlton,19,L,26,6,6,13,19,,,,1,1,2,1,1,1,1,,4,15,,,2,1,,79
+Port Adelaide,2008,13,Collingwood,20,L,26,3,3,7,10,,,,2,2,,1,1,1,1,,4,6,1,,3,1,,80
+Port Adelaide,2008,14,Melbourne,21,W,26,4,2,11,15,,,,4,3,2,,5,1,2,,3,13,,,5,,,76
+Port Adelaide,2008,15,North Melbourne,22,W,26,6,5,9,15,,1,,2,4,2,1,1,1,1,,7,8,2,,2,,,79
+Port Adelaide,2009,16,St Kilda,5,L,26,12,2,6,18,,1,,2,2,3,1,2,1,,,5,12,1,,4,,,71
+Port Adelaide,2009,17,Fremantle,11,W,26,5,1,11,16,,,,1,2,1,2,,1,,,10,6,,,6,,,87
+Port Adelaide,2009,18,Geelong,13,L,26,6,1,6,12,,,,1,2,,1,4,,2,,4,9,1,,2,,,83
+Port Adelaide,2009,19,West Coast,16,W,26,8,4,7,15,,,,1,3,,1,1,1,,,4,10,,,1,,,70
+Port Adelaide,2009,20,Adelaide,17,L,26,6,,6,12,,,,4,4,,,2,1,1,,4,8,,,2,,,83
+Fremantle,2011,21,Brisbane Lions,1,W,34,13,5,9,22,1,1,,6,,5,5,4,1,2,,12,12,,2,4,2,,90
+Fremantle,2011,22,Geelong,2,L,34,5,2,3,8,,1,1,3,,,3,2,,,,4,4,1,1,2,,,45
+Fremantle,2011,23,Adelaide,3,W,34,6,1,15,21,,,,6,,2,4,6,1,5,,10,11,,,2,1,,88
+Fremantle,2011,24,Western Bulldogs,5,W,34,9,3,10,19,1,,,4,3,3,1,3,1,,,8,10,1,1,3,,1,71
+Fremantle,2011,25,Richmond,7,L,34,7,,6,13,1,,,4,1,2,2,1,3,1,,10,4,,,2,,,76
+Fremantle,2011,26,West Coast,8,L,34,5,5,5,10,,1,,1,2,2,,4,,1,,4,6,1,,3,1,,51
+Fremantle,2011,27,Port Adelaide,9,W,34,13,8,15,28,1,1,,5,1,6,4,3,2,1,2,12,16,1,3,1,,2,89
+Fremantle,2011,28,St Kilda,10,L,34,6,6,7,13,,,1,8,,1,1,,,,,5,9,,1,1,,,80
+Fremantle,2011,29,Hawthorn,11,L,34,11,4,7,18,,,,7,2,2,,2,2,,,6,11,,,1,1,,85
+Fremantle,2011,30,Essendon,12,W,34,9,5,11,20,,,,3,2,3,,2,3,,,10,12,2,,6,1,,79
+Fremantle,2011,31,Melbourne,13,L,34,6,4,9,15,,,,5,1,1,1,3,,2,,7,9,2,,1,,,88
+Fremantle,2011,32,Brisbane Lions,14,W,34,12,3,6,18,1,,,5,2,3,1,5,2,4,,8,11,1,,2,,,86
+Fremantle,2011,33,Gold Coast,15,W,34,8,5,11,19,1,,,1,1,2,,3,1,1,,9,11,1,,3,,,84
+Fremantle,2011,34,Sydney,17,W,34,20,3,10,30,1,3,,8,1,4,3,2,3,1,,16,13,2,1,2,,,89
+Fremantle,2011,35,West Coast,18,L,34,11,3,3,14,,,,5,2,2,3,4,1,1,,5,9,,,,,,68
+Fremantle,2011,36,Hawthorn,19,L,34,9,1,9,18,,,1,4,1,2,5,2,3,,,10,7,,,1,,,75
+Fremantle,2011,37,St Kilda,20,L,34,9,5,13,22,,,1,7,1,3,4,2,2,1,,10,12,,,3,2,,81
+Fremantle,2011,38,Carlton,21,L,34,2,1,2,4,,,,1,,,,2,,2,,2,2,,,,,,56
+Fremantle,2011,39,Collingwood,23,L,34,19,3,18,37,1,,,4,,3,11,8,1,3,,19,18,,,5,,1,87
+Fremantle,2012,40,Essendon,13,L,10,15,3,15,30,,,,8,2,1,8,6,2,1,,15,14,,,2,,1,67
+Fremantle,2012,41,Collingwood,14,L,10,11,2,8,19,,,,9,,3,4,4,2,2,,8,12,,,1,,,74
+Fremantle,2012,42,Western Bulldogs,15,W,10,13,3,8,21,1,,,5,2,2,6,,1,,,11,10,,1,,,,65
+Western Bulldogs,2013,43,Brisbane Lions,1,W,33,11,2,2,13,,1,,3,,5,3,3,,2,,5,8,,,3,,1,83
+Western Bulldogs,2013,44,Fremantle,2,L,33,10,6,1,11,1,,,3,1,1,1,2,,1,,5,6,1,1,,,,79
+Western Bulldogs,2013,45,Richmond,3,L,33,7,3,3,10,,,,3,3,2,1,2,1,2,,2,6,,,1,,,77
+Western Bulldogs,2013,46,Adelaide,4,L,33,9,3,6,15,,,,2,1,,1,2,1,1,,7,6,1,,3,,,98
+Western Bulldogs,2013,47,Geelong,5,L,33,11,3,7,18,,,,3,1,1,1,4,1,2,,7,10,,,,,,78
+Western Bulldogs,2013,48,West Coast,6,L,33,10,2,6,16,1,,,8,,3,5,4,1,4,,9,8,,,,,,83
+Western Bulldogs,2013,49,North Melbourne,7,L,33,8,2,8,16,,,,15,,4,2,2,1,1,,6,9,,,1,,,81
+Western Bulldogs,2013,50,Gold Coast,8,L,33,10,4,14,24,,,,4,1,,1,2,2,1,,10,15,,1,3,,,90
+Western Bulldogs,2013,51,St Kilda,9,W,33,6,2,5,11,,,,8,,1,1,7,1,5,,5,6,,,1,,1,78
+Western Bulldogs,2013,52,Port Adelaide,10,W,33,7,1,10,17,,,,8,3,1,5,3,,2,,10,11,,,6,,,83
+Western Bulldogs,2013,53,Collingwood,12,L,33,11,7,9,20,,1,,3,2,3,1,3,,1,,5,15,,,1,,,92
+Western Bulldogs,2013,54,Richmond,13,L,33,2,1,3,5,,,,2,1,1,,,,,,1,5,,,2,,,86
+Western Bulldogs,2013,55,Melbourne,14,L,33,6,2,7,13,,,,6,2,4,5,4,1,3,,7,7,,,,,,85

@@ -1,0 +1,111 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Collingwood,2018,1,Hawthorn,1,L,35,10,4,6,16,,,,3,2,4,1,3,1,2,,5,12,,,1,,1,74
+Collingwood,2018,2,Greater Western Sydney,2,L,35,8,2,5,13,,,,4,,3,,,1,,,4,10,,,2,,1,81
+Collingwood,2018,3,Carlton,3,W,35,3,2,3,6,,,,3,1,2,,,,,,1,5,,,1,,,70
+Collingwood,2018,4,Adelaide,4,W,35,7,4,6,13,5,1,,3,,2,,1,1,,,7,5,2,2,,,,77
+Collingwood,2018,5,Essendon,5,W,35,12,5,3,15,2,2,,4,,3,,1,1,,,4,10,,1,,1,,75
+Collingwood,2018,6,Richmond,6,L,35,7,2,6,13,1,,,6,1,2,,3,3,,,2,14,,1,1,1,,78
+Collingwood,2018,7,Brisbane Lions,7,W,35,13,6,8,21,2,,,1,1,3,3,5,,1,,5,14,2,1,1,,,84
+Collingwood,2018,8,Geelong,8,L,35,4,2,7,11,,,,2,1,,1,,,,,4,7,,,3,,,90
+Collingwood,2018,9,St Kilda,9,W,35,8,6,10,18,2,1,,2,,1,,2,1,1,,4,14,,1,3,,1,89
+Collingwood,2018,10,Western Bulldogs,10,W,35,6,4,5,11,1,1,,3,1,2,,2,,,,4,6,,2,2,3,2,80
+Collingwood,2018,11,Fremantle,11,W,35,3,2,2,5,1,,,4,1,2,,3,,,,2,3,,,2,,,75
+Collingwood,2018,12,Melbourne,12,W,35,10,5,2,12,4,3,,6,,1,,3,2,2,,5,10,,4,1,1,,85
+Collingwood,2018,13,Carlton,14,W,35,5,5,3,8,3,1,,2,,2,,,,,,1,7,1,3,,,1,74
+Collingwood,2018,14,Gold Coast,15,W,35,9,2,4,13,3,2,,2,,5,,2,1,2,,6,7,1,2,,,,83
+Collingwood,2018,15,Essendon,16,W,35,10,8,5,15,1,2,,1,,3,,4,1,2,,3,12,,3,,,,84
+Collingwood,2018,16,West Coast,17,L,35,6,6,5,11,,1,,,,3,,2,1,,,3,9,,1,2,,1,89
+Collingwood,2018,17,North Melbourne,18,W,35,8,3,3,11,3,,,2,1,1,1,1,2,,,4,7,,1,,1,,77
+Collingwood,2018,18,Richmond,19,L,35,7,1,2,9,,2,,3,,5,,2,2,1,,3,5,,,1,3,2,79
+Collingwood,2018,19,Sydney,20,L,35,7,4,2,9,,1,,8,,4,,3,,1,,2,6,1,,1,,1,82
+Collingwood,2018,20,Brisbane Lions,21,W,35,19,8,6,25,2,,,2,1,5,,,2,,2,5,20,,1,2,,,76
+Collingwood,2018,21,Port Adelaide,22,W,35,8,3,1,9,2,2,,1,,1,,1,,1,,3,8,,,1,,,76
+Collingwood,2018,22,Fremantle,23,W,35,6,3,2,8,2,1,,3,,,,1,,,,3,5,,3,2,,,87
+Collingwood,2018,23,West Coast,QF,L,35,9,5,6,15,1,1,,2,1,4,,2,1,1,,7,8,1,1,3,,,70
+Collingwood,2018,24,Greater Western Sydney,SF,W,35,7,2,3,10,,3,,3,,,1,,1,,,4,7,,,,,,72
+Collingwood,2018,25,Richmond,PF,W,35,7,5,7,14,1,,,2,,3,,,,,,4,9,1,1,1,,,80
+Collingwood,2018,26,West Coast,GF,L,35,6,2,3,9,2,,,3,1,2,,2,,,,3,5,,,,,,73
+Collingwood,2019,27,Geelong,1,L,1,12,7,4,16,,1,,2,3,1,1,5,,1,,6,9,,1,,,,82
+Collingwood,2019,28,Richmond,2,W,1,12,9,5,17,2,,,1,1,1,,1,,,,5,13,1,1,2,1,3,77
+Collingwood,2019,29,West Coast,3,L,1,10,4,4,14,,1,,2,2,3,,2,1,,,3,10,1,1,,1,1,78
+Collingwood,2019,30,Western Bulldogs,4,W,1,11,5,6,17,2,1,,2,3,,,2,,2,,3,14,,,,,1,88
+Collingwood,2019,31,Brisbane Lions,5,W,1,14,9,4,18,2,1,,1,,3,,3,1,2,,5,13,2,7,1,,3,88
+Collingwood,2019,32,Essendon,6,W,1,10,6,4,14,1,2,,,,2,,,,,,5,9,1,2,,,1,87
+Collingwood,2019,33,Port Adelaide,7,W,1,12,6,2,14,4,2,,4,,2,1,1,1,,,8,6,2,3,1,,1,83
+Collingwood,2019,34,Carlton,8,W,1,11,7,3,14,2,,,1,1,,,,1,,,7,7,1,5,3,,,88
+Collingwood,2019,35,St Kilda,9,W,1,11,8,6,17,3,,,1,,4,,4,,,,4,14,1,3,3,,1,89
+Collingwood,2019,36,Sydney,10,W,1,9,4,4,13,1,1,,6,,1,,4,2,,,6,6,,3,,,,87
+Collingwood,2019,37,Fremantle,11,L,1,9,4,3,12,1,,,3,,,,4,,1,,3,10,,1,2,,,79
+Collingwood,2019,38,Melbourne,12,W,1,16,9,3,19,3,3,,3,2,3,,5,,1,1,7,12,2,6,2,,2,85
+Collingwood,2019,39,Geelong,QF,W,1,11,10,7,18,1,1,,1,1,4,1,1,,,,6,12,,2,1,,2,89
+Collingwood,2019,40,Greater Western Sydney,PF,L,1,10,5,6,16,2,,,2,,4,,3,,,,4,10,,1,2,,,82
+Collingwood,2020,41,St Kilda,3,W,1,5,3,1,6,2,,,,,,,,,,,2,4,,2,1,,1,81
+Collingwood,2020,42,Greater Western Sydney,4,L,1,7,4,3,10,2,2,,3,,1,,2,,1,,5,5,,4,,,,91
+Collingwood,2020,43,Essendon,5,L,1,8,6,4,12,3,,,3,,5,,1,1,,,5,8,1,3,,,,85
+Collingwood,2020,44,Hawthorn,6,W,1,9,2,6,15,,,,4,3,3,,3,1,2,,3,12,,,1,,1,86
+Collingwood,2020,45,Geelong,7,W,1,5,3,5,10,,,,3,,2,,2,,1,,3,7,,1,,,,81
+Collingwood,2020,46,West Coast,8,L,1,6,3,7,13,,,,3,,2,,,1,,,2,12,,1,2,,2,91
+Collingwood,2020,47,Fremantle,9,L,1,6,3,6,12,1,1,,1,,1,,2,,1,,3,10,,1,,,,83
+Collingwood,2020,48,Sydney,10,W,1,8,5,2,10,,2,,2,1,2,,,,,,2,8,,1,1,,,93
+Collingwood,2020,49,Adelaide,11,W,1,3,1,1,4,2,,,1,,1,,2,,2,,2,4,,1,1,,1,93
+Collingwood,2020,50,Carlton,14,W,1,10,5,1,11,2,4,,2,,1,,2,1,,,3,8,1,4,1,,1,86
+Collingwood,2020,51,Brisbane Lions,15,L,1,2,1,6,8,,,,1,,1,,2,,1,,4,5,,,1,2,,83
+Collingwood,2020,52,Port Adelaide,18,L,1,6,3,2,8,1,,,1,1,,,2,,1,,2,7,,,1,,,80
+Collingwood,2020,53,West Coast,EF,W,1,8,6,2,10,,1,,,,4,,1,,,,1,9,,,1,1,,79
+Collingwood,2020,54,Geelong,SF,L,1,2,2,1,3,1,,,1,,,,,,,,1,2,,1,,,,75
+North Melbourne,2021,55,Port Adelaide,1,L,2,17,5,16,33,,2,,7,4,5,5,4,3,1,,9,22,,1,1,1,,76
+North Melbourne,2021,56,Gold Coast,2,L,2,8,4,6,14,,1,,2,1,1,2,5,,2,,3,12,,,1,,1,84
+North Melbourne,2021,57,Western Bulldogs,3,L,2,15,4,4,19,2,,,1,2,1,3,2,,,,8,10,,2,,,,86
+North Melbourne,2021,58,Adelaide,4,L,2,12,3,5,17,2,2,,4,3,4,1,4,,,,2,14,,,,1,,84
+North Melbourne,2021,59,Geelong,5,L,2,14,9,2,16,2,1,,2,2,3,1,3,,1,,2,12,,2,2,,,81
+North Melbourne,2021,60,Fremantle,6,L,2,15,5,3,18,2,,,2,,4,1,1,2,,,5,13,,,1,,,78
+North Melbourne,2021,61,Melbourne,7,L,2,13,7,5,18,,1,,2,1,6,,2,1,1,,4,14,,2,2,,3,88
+North Melbourne,2021,62,Collingwood,8,L,2,11,6,8,19,2,2,,1,1,4,,2,2,1,,7,13,,1,,1,,83
+North Melbourne,2021,63,Greater Western Sydney,13,D,2,15,8,3,18,1,1,,1,2,4,,2,1,,,3,15,,2,,,,80
+North Melbourne,2021,64,Brisbane Lions,14,L,2,6,3,4,10,1,,,2,1,2,,3,1,1,,4,6,1,1,1,,,80
+North Melbourne,2021,65,Gold Coast,15,W,2,16,4,4,20,,2,,7,1,4,2,3,1,,,5,14,,2,1,,,83
+North Melbourne,2021,66,Western Bulldogs,16,L,2,12,5,5,17,,1,,2,,5,,4,1,,,3,13,,,,1,1,86
+North Melbourne,2021,67,West Coast,17,W,2,22,10,16,38,1,,,4,3,4,3,5,,,3,12,24,2,1,2,,2,86
+North Melbourne,2021,68,Essendon,18,L,2,13,4,5,18,,2,,1,,7,2,1,1,1,,6,11,1,1,,1,1,78
+North Melbourne,2021,69,Carlton,19,W,2,16,8,8,24,3,1,,2,,4,2,3,,,,6,18,,3,2,,,77
+North Melbourne,2021,70,Geelong,20,L,2,14,8,5,19,,,,2,1,3,2,3,,1,,5,14,,,,,,78
+North Melbourne,2021,71,Richmond,21,L,2,10,4,6,16,,2,,2,,6,1,3,,,,3,13,,,1,,,83
+North Melbourne,2021,72,Sydney,22,L,2,13,8,4,17,1,,,,,2,1,1,1,,,5,14,,1,3,,,76
+North Melbourne,2021,73,Adelaide,23,L,2,7,4,10,17,,1,,4,,5,3,2,2,1,,5,12,,,,2,,83
+North Melbourne,2022,74,Hawthorn,1,L,2,6,4,5,11,,,,4,2,2,1,5,,1,,2,10,,1,2,,,83
+North Melbourne,2022,75,Brisbane Lions,3,L,2,12,3,10,22,,,,2,1,6,5,1,,,,11,11,,1,1,1,,87
+North Melbourne,2022,76,Sydney,4,L,2,16,7,8,24,,1,,8,2,3,4,,4,,,8,16,,1,1,1,2,77
+North Melbourne,2022,77,Western Bulldogs,5,L,2,13,2,2,15,1,,,3,1,7,3,5,2,2,,6,10,,,,,1,78
+North Melbourne,2022,78,Carlton,7,L,2,13,4,2,15,,,,2,3,3,2,3,,,,3,13,,,4,1,2,73
+North Melbourne,2022,79,Fremantle,8,L,2,8,1,6,14,,,,2,3,,2,2,,,,4,7,,,,,,69
+North Melbourne,2022,80,Port Adelaide,9,L,2,10,3,7,17,,2,,4,,2,2,4,,,,5,10,,1,,,,83
+North Melbourne,2022,81,Greater Western Sydney,13,L,2,2,1,3,5,,1,,1,,,,2,,2,,2,3,,,2,,,83
+North Melbourne,2022,82,Adelaide,15,L,2,10,5,4,14,,,,4,3,2,1,4,,,,2,12,,1,1,1,,78
+North Melbourne,2022,83,Geelong,16,L,2,19,8,6,25,,,,1,9,,,3,,,,1,16,,,1,,,75
+North Melbourne,2022,84,Collingwood,17,L,2,10,2,2,12,,,,,4,1,1,3,,2,,2,10,,,1,,1,60
+North Melbourne,2022,85,Richmond,18,W,2,21,4,2,23,1,,,1,12,1,1,,1,,,4,10,,,,1,1,81
+North Melbourne,2022,86,Hawthorn,19,L,2,8,6,10,18,1,,,3,,2,2,2,1,1,,5,14,1,1,,,1,87
+North Melbourne,2022,87,Essendon,20,L,2,19,5,15,34,,,,3,7,1,2,2,1,1,,8,17,,,1,,1,85
+North Melbourne,2022,88,Sydney,21,L,2,19,8,12,31,,,,3,6,,,3,,1,,3,20,,,,,,78
+North Melbourne,2022,89,Adelaide,22,L,2,6,4,3,9,,1,,1,,3,,,,,,3,6,,,,,1,47
+North Melbourne,2023,90,West Coast,1,W,2,4,2,4,8,,1,,5,2,1,,3,,,,1,7,,1,,,,66
+North Melbourne,2023,91,Fremantle,2,W,2,7,2,6,13,2,,,,,3,2,1,,,,4,8,,,,,,75
+North Melbourne,2023,92,Hawthorn,3,L,2,6,3,5,11,,,,1,,4,,,,,,5,6,,,,,1,80
+North Melbourne,2023,93,Carlton,4,L,2,10,5,4,14,3,,,1,1,5,2,3,,2,,5,10,,2,,2,,77
+North Melbourne,2023,94,Brisbane Lions,5,L,2,8,2,1,9,4,,,2,,2,,1,3,,,4,5,,2,,1,,73
+North Melbourne,2023,95,Gold Coast,6,L,2,8,3,4,12,2,2,,2,,3,,1,1,,,8,4,,1,,,2,79
+North Melbourne,2023,96,Melbourne,7,L,2,6,5,4,10,,,,,,2,,5,,1,,1,8,,1,3,,,83
+North Melbourne,2023,97,St Kilda,8,L,2,9,6,3,12,1,,,,,2,1,4,,,,5,6,2,1,,,,74
+North Melbourne,2023,98,Port Adelaide,9,L,2,7,3,7,14,2,1,,2,1,,,3,,3,,4,11,,1,1,1,1,88
+North Melbourne,2023,99,Sydney,10,L,2,4,1,1,5,1,,,4,,2,,,,,,2,4,,,2,,,80
+North Melbourne,2023,100,Collingwood,11,L,2,10,9,4,14,2,2,,2,,3,,1,,,,3,11,1,3,1,,,76
+North Melbourne,2023,101,Essendon,12,L,2,10,5,2,12,1,1,,1,,4,,3,,2,,5,8,1,,1,,,86
+North Melbourne,2023,102,Greater Western Sydney,13,L,2,8,6,3,11,,,,,1,1,,2,,,,1,10,,1,,1,,78
+North Melbourne,2023,103,Western Bulldogs,14,L,2,7,3,6,13,3,,,2,1,2,,3,1,,,5,8,1,2,1,2,1,82
+North Melbourne,2023,104,Adelaide,16,L,2,5,5,2,7,2,,,1,1,1,,3,,2,,1,6,,1,,,1,82
+North Melbourne,2023,105,Geelong,17,L,2,6,3,3,9,1,,,1,,2,1,1,,,,2,7,,,,1,,77
+North Melbourne,2023,106,Hawthorn,18,L,2,7,3,6,13,,1,,3,,1,1,1,,1,,4,9,,,,,,89
+North Melbourne,2023,107,St Kilda,19,L,2,2,1,6,8,,,1,6,1,2,,1,1,1,,3,7,,,1,,1,74
+North Melbourne,2023,108,West Coast,20,L,2,6,3,2,8,,,,5,1,4,1,2,,,,2,6,,1,,3,1,83
+North Melbourne,2023,109,Melbourne,21,L,2,6,2,4,10,,2,,1,,1,1,2,,,,2,9,,,1,,,73
+North Melbourne,2023,110,Essendon,22,L,2,10,3,3,13,2,,,2,,2,,,1,,,2,10,,1,2,,1,77

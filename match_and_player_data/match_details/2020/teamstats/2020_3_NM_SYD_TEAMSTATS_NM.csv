@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2020,3,North Melbourne,Sydney,15 ,"Ahern, Paul",5,1,5,10,1, , , ,1, , ,1, , , ,2,8, ,1,1, ,1,53
+2020,3,North Melbourne,Sydney,3 ,"Anderson, Jed",10,3,4,14, , , ,5, ,1,2,2, , , ,7,8, ,1,3, , ,68
+2020,3,North Melbourne,Sydney,18 ,"Atley, Shaun",6,2,6,12, , , ,3,2, , ,3,1,2, ,6,6, , , , , ,92
+2020,3,North Melbourne,Sydney,16 ,"Bonar, Aiden",3, ,5,8, , , ,4,1,1,2, , , , ,4,4, , ,1, , ,49
+2020,3,North Melbourne,Sydney,50 ,"Brown, Ben",6,3, ,6,3,2, , , , , , ,2, , ,7,1,2,2,2, , ,100
+2020,3,North Melbourne,Sydney,14 ,"Dumont, Trent",9,3,8,17,1,1, ,3,3,1,1,2, , , ,5,12,1,2,1, , ,91
+2020,3,North Melbourne,Sydney,22 ,"Goldstein, Todd",7,2,11,18, ,1,35,2,1,2,9,3,4, , ,13,5,1, ,1, , ,96
+2020,3,North Melbourne,Sydney,43 ,"Hall, Aaron",15,4,6,21,1,3, ,2,1,6,2,1, , , ,6,12,1,1,1,2, ,78
+2020,3,North Melbourne,Sydney,37 ,"Hayden, Kyron",2,1,4,6, , , ,4, , ,1,3, ,3, ,5,3, , ,1, , ,79
+2020,3,North Melbourne,Sydney,4 ,"Higgins, Shaun",4,2,7,11, , , ,2, ,2,1,1,1, , ,2,9, , ,1, , ,89
+2020,3,North Melbourne,Sydney,34 ,"Macmillan, Jamie",4,2,5,9, , , ,3,2, , , ,1, , ,3,5, , ,2, , ,66
+2020,3,North Melbourne,Sydney,11 ,"McDonald, Luke",5, ,7,12, , , ,2,3, , ,5,1,3, ,4,7, , ,4, , ,87
+2020,3,North Melbourne,Sydney,17 ,"Pittard, Jasper",13,3,6,19, , , ,3,6,2, ,5,1,1, ,4,11, ,1,9,3, ,88
+2020,3,North Melbourne,Sydney,13 ,"Polec, Jared",5, ,7,12, , , ,3,2,1,2,1, , , ,5,8, , , , ,1,86
+2020,3,North Melbourne,Sydney,12 ,"Simpkin, Jy",13,2,13,26,1,1, ,4,1,5,8,2,5,1,3,14,14, , ,1, , ,88
+2020,3,North Melbourne,Sydney,25 ,"Tarrant, Robbie",10,2,4,14, , , ,2,5,3, ,4,1,1, ,4,8, , ,6, , ,94
+2020,3,North Melbourne,Sydney,31 ,"Taylor, Curtis",5,2,5,10, , , , ,1,2,1,2,2,1, ,4,7, , ,1, , ,76
+2020,3,North Melbourne,Sydney,26 ,"Thomas, Tarryn",2, ,5,7, , , ,2, ,2,1,2,1,1, ,4,4, , ,1, ,1,76
+2020,3,North Melbourne,Sydney,19 ,"Walker, Josh",5,2,5,10, , , ,1,2,2, , ,1, , ,7,5,2, ,4, , ,94
+2020,3,North Melbourne,Sydney,32 ,"Wood, Mason",2,1,7,9, , , ,2, ,2, , ,1, , ,3,6, , ,2, , ,74
+2020,3,North Melbourne,Sydney,7 ,"Ziebell, Jack",7,7,7,14, ,2, ,3, ,4,2,2, , , ,7,8,2,3, , ,1,88
+2020,3,North Melbourne,Sydney,44 ,"Zurhaar, Cameron",5,3,2,7,1,1, ,2, ,3, ,1,1,1, ,4,4,1,1, ,2,1,87

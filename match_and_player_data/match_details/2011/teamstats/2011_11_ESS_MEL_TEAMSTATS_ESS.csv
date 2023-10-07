@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2011,11,Essendon,Melbourne,44 ↓,"Bellchambers, Tom",3,3,3,6, , ,11, , ,1,1,3,1,3, ,5,2,2, ,1, , ,53
+2011,11,Essendon,Melbourne,24 ↑,"Browne, Alex",2, ,1,3, , , ,1, ,1,2, , , , ,3, , , , , , ,29
+2011,11,Essendon,Melbourne,32 ,"Colyer, Travis",9,3,4,13, , , ,1,2,3,2,1, , , ,6,7, , ,2, ,1,81
+2011,11,Essendon,Melbourne,45 ,"Crameri, Stewart",9,7,8,17,1,3, ,3, ,1, ,1, ,1, ,9,9,3,4,2, , ,91
+2011,11,Essendon,Melbourne,31 ,"Fletcher, Dustin",12,3,3,15, , , ,2,5,1, , ,1, , ,6,7, , ,4, , ,97
+2011,11,Essendon,Melbourne,34 ,"Hardingham, Kyle",7,3,2,9,1, , ,2,1,1, , , , , ,3,5, , ,9, , ,97
+2011,11,Essendon,Melbourne,21 ,"Heppell, Dyson",13,7,8,21, , , ,1,3,4,1,2,1, , ,7,16, , ,2,2,2,75
+2011,11,Essendon,Melbourne,43 ,"Hibberd, Michael",14,6,9,23, , , ,1,6,1,1,1,1, , ,6,16, , ,7, , ,83
+2011,11,Essendon,Melbourne,19 ,"Hille, David",6,3,7,13,1, ,20,1, ,1,5,4,2,3, ,9,6, , ,4, , ,88
+2011,11,Essendon,Melbourne,26 ,"Hooker, Cale",9,7,5,14, , , ,2,2, , ,2, ,1, ,4,8,2, ,5,1, ,95
+2011,11,Essendon,Melbourne,40 ,"Howlett, Ben",14,3,8,22,1, , ,5,1,8,6,3,1,1, ,9,12, , ,2, , ,78
+2011,11,Essendon,Melbourne,7 ,"Jetta, Leroy",10,4,3,13, , , , , ,4, ,3,1,1, ,5,9, , ,2, ,1,82
+2011,11,Essendon,Melbourne,14 ,"Lonergan, Sam",15,5,14,29, , , ,2,1,5,5,3, ,2, ,13,17, , , , ,2,83
+2011,11,Essendon,Melbourne,42 ,"Lovett-Murray, Nathan",8, ,8,16, , , ,4,1,3,3,3, ,1, ,5,11, , ,2, , ,77
+2011,11,Essendon,Melbourne,10 ,"McVeigh, Mark",9,4,6,15, , , ,3, ,2, ,5, ,2, ,3,13, , ,2, , ,96
+2011,11,Essendon,Melbourne,17 ,"Melksham, Jake",20,8,5,25,1,1, ,4,1,7,1,1, , , ,3,19, , ,1,1, ,75
+2011,11,Essendon,Melbourne,6 ,"Monfries, Angus",9,5,9,18,1,2, ,5, ,4, ,1,1, , ,5,12, ,2, ,1,1,83
+2011,11,Essendon,Melbourne,23 ,"Myers, David",14,6,8,22, , , ,3,2,1,4,2, ,1, ,8,13, , ,4, , ,91
+2011,11,Essendon,Melbourne,30 ,"Ryder, Paddy",6,2,2,8,2, ,8,3, ,3, ,2,1,1, ,6,2,1,2,2, ,1,93
+2011,11,Essendon,Melbourne,20 ,"Slattery, Henry",5,4,9,14, , , ,4,2,1,2,2, ,2, ,4,10, , , , , ,84
+2011,11,Essendon,Melbourne,5 ,"Stanton, Brent",11,5,10,21,1,1, ,3, ,3,2,1, , , ,7,13,1,1, , ,1,84
+2011,11,Essendon,Melbourne,11 ,"Zaharakis, David",10,5,5,15,1, , ,1, ,5,2,1, , , ,7,9,1, ,3, , ,84

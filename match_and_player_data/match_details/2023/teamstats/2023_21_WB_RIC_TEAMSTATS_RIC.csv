@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2023,21,Richmond,Western Bulldogs,7 ,"Baker, Liam",11,3,7,18,1,1, ,2, ,5,3,3, , , ,8,9, , ,3, ,2,84
+2023,21,Richmond,Western Bulldogs,21 ,"Balta, Noah",10,7,5,15, , , ,3,6,1, ,2,1, , ,8,8,2, ,7,2, ,90
+2023,21,Richmond,Western Bulldogs,41 ,"Banks, Sam",7,2,6,13, , , ,1,4,1, ,1, ,1, ,2,10, , ,2, ,1,82
+2023,21,Richmond,Western Bulldogs,43 ,"Bauer, Jacob",3,2,1,4,1, , ,1, ,1, ,3, ,2, ,1,4, ,1,2, , ,76
+2023,21,Richmond,Western Bulldogs,29 ,"Bolton, Shai",7,2,5,12,1,1, , , ,4,4,2,2,2, ,7,6, , ,1, , ,88
+2023,21,Richmond,Western Bulldogs,35 ,"Broad, Nathan",6,4,7,13, , , ,5,1, , ,2, , , ,2,10, , ,6, , ,95
+2023,21,Richmond,Western Bulldogs,26 ,"Coulthard, Matthew",8,1,4,12, ,2, ,3,1,3,3,1,3, , ,8,5, , , , , ,70
+2023,21,Richmond,Western Bulldogs,38 ,"Cumberland, Noah",8,6,5,13,1,2, ,4, ,4, ,7,2,2, ,4,9,1,2,1, , ,82
+2023,21,Richmond,Western Bulldogs,34 ,"Graham, Jack",7,2,4,11, , , ,5,2,1, ,4, ,2, ,5,6, , ,1, , ,79
+2023,21,Richmond,Western Bulldogs,22 ↓,"Hopper, Jacob",2, ,3,5, , , ,1, ,1,2,2, , , ,1,3, , , , , ,22
+2023,21,Richmond,Western Bulldogs,31 ↑,"Mansell, Rhyan",2,3, ,2, , , ,2, ,1, , , , , , ,3, , ,1, , ,47
+2023,21,Richmond,Western Bulldogs,33 ,"McIntosh, Kamdyn",12,2,3,15, ,1, ,2,3,3, ,4, , , ,1,13, , ,3,1, ,83
+2023,21,Richmond,Western Bulldogs,25 ,"Nankervis, Toby",5, ,10,15, , ,32,1,2, ,4,5,2,1, ,12,3, , ,3, , ,87
+2023,21,Richmond,Western Bulldogs,50 ,"Pickett, Marlion",6,1,6,12,1, , ,5, ,4,2,4,1,2, ,10,5, , ,4, ,1,81
+2023,21,Richmond,Western Bulldogs,3 ,"Prestia, Dion",8,2,13,21, , , ,4,6,1,7,3, , , ,9,11, , ,2, ,1,73
+2023,21,Richmond,Western Bulldogs,8 ,"Riewoldt, Jack",8,7, ,8,3,2, ,1, ,2, ,3, ,2, ,1,7,1,5,1, , ,89
+2023,21,Richmond,Western Bulldogs,17 ,"Rioli, Daniel",7,4,8,15, , , ,2,3,2, ,4, ,2, ,1,14, , ,1,3,1,74
+2023,21,Richmond,Western Bulldogs,5 ,"Ross, Jack",10,6,5,15,2, , ,1,3,3,4,2, ,1, ,6,9, ,1,1, , ,85
+2023,21,Richmond,Western Bulldogs,15 ,"Short, Jayden",20,7,5,25, , , ,1,5,3,3,2, , , ,5,20, , , , , ,85
+2023,21,Richmond,Western Bulldogs,20 ,"Soldo, Ivan",5,1,4,9, , ,22,4,1,2,3,6,4,2, ,8,1, , , , , ,71
+2023,21,Richmond,Western Bulldogs,14 ,"Taranto, Tim",13,3,12,25, , , ,7,2,3,6,4,2,1, ,11,13, ,1,1, , ,84
+2023,21,Richmond,Western Bulldogs,1 ,"Vlastuin, Nick",11,8,6,17, , , , ,2, , , ,2, , ,4,11,1, ,3, , ,92
+2023,21,Richmond,Western Bulldogs,45 ,"Young, Tylar",5,3,1,6, , , ,1,2,1, ,3,1,2, , ,6, , ,8, , ,82

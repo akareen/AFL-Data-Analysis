@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2023,19,Adelaide,Melbourne,41 ↓,"Butts, Jordon",6,4,2,8, , , ,1,4, , ,3, ,1, ,2,5,1, ,6, , ,61
+2023,19,Adelaide,Melbourne,15 ,"Cook, Brayden",10,5,6,16, ,1, ,2,4,2,2,1, ,1, ,4,14, ,1,1, ,1,84
+2023,19,Adelaide,Melbourne,5 ,"Crouch, Matt",7, ,15,22, , , ,9, ,3,7,4,1,2, ,8,12, , ,1, , ,76
+2023,19,Adelaide,Melbourne,12 ,"Dawson, Jordan",12,2,10,22, , , ,11,4,2,5,3, ,3, ,9,12,1, ,2,1,1,86
+2023,19,Adelaide,Melbourne,32 ,"Fogarty, Darcy",4,3,5,9,1,2, ,2, ,2, ,2,2,2, ,5,5, ,2,1, , ,94
+2023,19,Adelaide,Melbourne,6 ↑,"Hately, Jackson", ,1,4,4, , , , , , ,1,1, ,1, ,1,3, , ,1, , ,26
+2023,19,Adelaide,Melbourne,20 ,"Hinge, Mitch",19,9,3,22, , , ,2,8,3, ,3,1, , ,5,14,2, ,3, , ,92
+2023,19,Adelaide,Melbourne,1 ,"Jones, Chayce",10,1,5,15, ,1, ,4,3,2,1,3, , , ,6,6, , ,1, , ,89
+2023,19,Adelaide,Melbourne,2 ,"Keays, Ben",7,4,12,19,2, , ,4, ,1,3,2, ,1, ,9,8, , ,1, ,1,84
+2023,19,Adelaide,Melbourne,23 ,"McAdam, Shane",8,8,3,11,1,1, ,1, ,3, , ,1, , ,4,7,2,2,2, ,2,82
+2023,19,Adelaide,Melbourne,30 ,"Milera, Wayne",9,4,10,19, , , ,2,4,2, ,2,1, , ,7,11,1, , ,1, ,85
+2023,19,Adelaide,Melbourne,4 ,"Murphy, Lachlan",7,3,6,13,1,1, ,2, ,2,1,3,1,1, ,9,6, ,1,2, , ,68
+2023,19,Adelaide,Melbourne,28 ,"Murray, Nick",8,7,4,12, ,1, , , ,3, , ,1, , ,4,7,2,1,4, , ,64
+2023,19,Adelaide,Melbourne,27 ,"Nankervis, Luke",13,6,3,16, , , ,1,2,3, ,2, , , ,3,12,1, , , , ,79
+2023,19,Adelaide,Melbourne,43 ,"OBrien, Reilly",2,5,7,9, ,1,20,4, , , ,1, ,1, ,4,6,2, ,2, , ,79
+2023,19,Adelaide,Melbourne,10 ,"Pedlar, Luke",6,2,1,7, ,2, ,5, ,2, ,4, ,3, ,3,5, ,1,1, , ,84
+2023,19,Adelaide,Melbourne,22 ,"Rankine, Izak",14,3,6,20,3,3, ,4, ,4,3, , , ,2,7,11, ,2,1,2,1,90
+2023,19,Adelaide,Melbourne,26 ,"Schoenberg, Harry",11,4,12,23, ,1, ,3, ,4,5, ,2, , ,10,12, , , ,2,1,78
+2023,19,Adelaide,Melbourne,9 ,"Sloane, Rory",14,4,6,20, , , ,7,2,4,3,7, ,4, ,9,11,2, , , ,1,68
+2023,19,Adelaide,Melbourne,33 ,"Smith, Brodie",14,2,6,20,1, , ,3,3,4, ,1, , , ,4,14, , ,1, , ,90
+2023,19,Adelaide,Melbourne,7 ,"Thilthorpe, Riley",4,3,7,11, , ,8, ,1,2, , ,1, , ,7,5,2, ,2, , ,65
+2023,19,Adelaide,Melbourne,13 ,"Walker, Taylor",7,3,2,9,4, , ,1, ,4,1, , , , ,5,3,1,2, , , ,86
+2023,19,Adelaide,Melbourne,24 ,"Worrell, Josh",10,6,2,12, , , ,1,2,2, ,3,1,1, ,3,8,1, ,5, , ,91

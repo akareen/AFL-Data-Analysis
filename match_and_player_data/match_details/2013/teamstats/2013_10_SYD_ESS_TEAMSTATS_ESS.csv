@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2013,10,Essendon,Sydney,46 ,"Baguley, Mark",9,5,6,15, , , ,3,3,1,1, ,3, , ,7,8, , ,3, , ,95
+2013,10,Essendon,Sydney,2 ,"Bellchambers, Tom",6,3,2,8,1,1,37,2, , , ,1, , , ,5,3,2,2,1, ,1,83
+2013,10,Essendon,Sydney,22 ,"Carlisle, Jake",11,5,1,12,2,1, ,2,1,3,1,2, , , ,4,7,1,3,5, ,1,98
+2013,10,Essendon,Sydney,12 ,"Crameri, Stewart",9,2,4,13,2,1, ,2, ,2, ,2,1, , ,6,7, ,1,4, , ,93
+2013,10,Essendon,Sydney,15 ,"Dempsey, Courtenay",10,3,1,11, , , ,1,2, , ,1, , , ,4,6, , , , , ,43
+2013,10,Essendon,Sydney,31 ,"Fletcher, Dustin",14,3,1,15, , , ,1,4,1, ,1, , , ,1,7, , ,9, , ,94
+2013,10,Essendon,Sydney,9 ,"Goddard, Brendon",11,5,7,18,2, , ,4, ,3,2,1, , , ,8,10, ,1,1, , ,86
+2013,10,Essendon,Sydney,3 ↓,"Gumbleton, Scott", , ,1,1, , , , , , , , , , , ,1, , , , , , ,39
+2013,10,Essendon,Sydney,41 ↑,"Hams, Will",1, ,3,4, , , ,1, ,1,1,2, ,1, ,2,2, , ,1, , ,43
+2013,10,Essendon,Sydney,21 ,"Heppell, Dyson",17,3,10,27, , ,4,5,2,5,6,3, , , ,16,10,1, ,1, , ,86
+2013,10,Essendon,Sydney,1 ,"Hibberd, Michael",18,3,12,30,1, , ,2,2,4,1,4,1,1, ,11,15, , ,9, , ,95
+2013,10,Essendon,Sydney,39 ,"Hocking, Heath",7, ,8,15, , , ,4,4,3,3,4, ,2, ,8,4, , , , , ,86
+2013,10,Essendon,Sydney,26 ,"Hooker, Cale",9,7,6,15, , , ,2,1,2, ,1, , , ,6,9,1, ,5, , ,99
+2013,10,Essendon,Sydney,7 ,"Jetta, Leroy",10,2,4,14, , , ,7,1,3,2, , , , ,5,8, , ,1,1, ,77
+2013,10,Essendon,Sydney,38 ,"Kommer, Nick",4,2,4,8, , , ,3,1,1,1,2,1,1, ,4,4, , , , , ,86
+2013,10,Essendon,Sydney,17 ,"Melksham, Jake",15,2,5,20,1,1, ,3,1,6,6,3, , , ,12,7, , ,2, , ,77
+2013,10,Essendon,Sydney,23 ,"Myers, David",8,2,7,15, , , ,5,3,4,2,2,1, , ,8,6, ,1,4, , ,83
+2013,10,Essendon,Sydney,30 ,"Ryder, Paddy",5,2,3,8, , ,28, , ,2,3,2,2,2, ,7,2, , ,2, , ,88
+2013,10,Essendon,Sydney,5 ,"Stanton, Brent",28,7,8,36, , , ,6,1,8,7,4,4, , ,18,18, , ,1,1, ,82
+2013,10,Essendon,Sydney,4 ,"Watson, Jobe",13,2,10,23, , , ,5,3,6,6,2, , , ,10,10, , ,1, ,2,85
+2013,10,Essendon,Sydney,8 ,"Winderlich, Jason",7,5,7,14,1,1, ,2, ,2, , , , , ,8,6,1,2,3, , ,92
+2013,10,Essendon,Sydney,11 ,"Zaharakis, David",16,2,11,27, ,1, ,4,4,4,9,1, , , ,15,10, , ,2, ,1,90

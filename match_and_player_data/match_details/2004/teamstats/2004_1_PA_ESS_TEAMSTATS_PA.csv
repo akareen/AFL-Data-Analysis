@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2004,1,Port Adelaide,Essendon,19 ,"Bishop, Matthew",1, ,4,5, , , , ,6, , ,4, ,2, ,2,3, , ,6, , ,100
+2004,1,Port Adelaide,Essendon,20 ,"Brogan, Dean",8,6,10,18,1,1,15, , ,1,6,1,1,1, ,13,6,2,1,4, , ,79
+2004,1,Port Adelaide,Essendon,7 ,"Burgoyne, Peter",18,5,11,29,2,1, ,3,3,3,6,5,2,1,3,14,17,1,4,1,1,1,92
+2004,1,Port Adelaide,Essendon,8 ,"Burgoyne, Shaun",3,1,11,14,1,1, ,1, ,1,2,2, ,1, ,6,8, , ,2,2, ,100
+2004,1,Port Adelaide,Essendon,9 ,"Carr, Josh",22,10,7,29,1, , ,3,1,8,3,4,2,2, ,8,19, , ,2,2, ,71
+2004,1,Port Adelaide,Essendon,25 ,"Cassisi, Domenic",6,4,7,13,1,2, ,3, ,3, , , , , ,4,9, ,1, , ,2,76
+2004,1,Port Adelaide,Essendon,26 ,"Cochrane, Stuart",5,3,11,16, , , ,3, ,2,1,3, ,1, ,6,10, , , , , ,100
+2004,1,Port Adelaide,Essendon,35 ,"Cornes, Chad",13,10,9,22,1, ,1,1,6,2,2, ,1, ,1,9,13,4,1,3, ,1,96
+2004,1,Port Adelaide,Essendon,18 ,"Cornes, Kane",14,8,9,23, ,1, ,1,3,2,3,1, , , ,7,16, ,2, ,1, ,87
+2004,1,Port Adelaide,Essendon,17 ,"Dew, Stuart",12,2,5,17,6, , , , ,3,3, ,2, , ,9,7,1,1, ,3,1,95
+2004,1,Port Adelaide,Essendon,29 ,"Kingsley, Adam",15,7,8,23, , , , ,5,7,4,1,1, , ,6,19, , ,1,1,1,72
+2004,1,Port Adelaide,Essendon,5 ,"Lade, Brendon",1,4,7,8, , ,17,1, , ,2,1,1,1, ,5,3,2, ,1, , ,47
+2004,1,Port Adelaide,Essendon,3 ,"Montgomery, Brett",9,5,13,22, ,1, ,3,2,2, ,3, ,1, ,7,14,1,1,5, , ,100
+2004,1,Port Adelaide,Essendon,36 ,"Pettigrew, Michael",4,1,3,7, , , ,1,3, ,1, ,1, , ,2,3, , ,2,1, ,91
+2004,1,Port Adelaide,Essendon,15 ,"Pickett, Byron",9,3,4,13,3,3, ,3, ,1, ,3, ,1, ,3,10,1,3,1,1,2,98
+2004,1,Port Adelaide,Essendon,31 ,"Salopek, Steven",11,4,5,16, ,1, ,1,2,4,3,2, , , ,7,10, , ,2, , ,57
+2004,1,Port Adelaide,Essendon,6 ,"Schofield, Jarrad",14,8,8,22, ,2, ,3,3,6,1,1, , , ,2,22, ,2, ,9,1,72
+2004,1,Port Adelaide,Essendon,39 ,"Surjan, Jacob",7,2,1,8, ,1, ,2, ,4, ,1, , , ,5,3,1,1, , , ,54
+2004,1,Port Adelaide,Essendon,28 ,"Thurstans, Toby",2,2,1,3, , , ,1, , , , ,1, , ,2,3, , ,1, , ,49
+2004,1,Port Adelaide,Essendon,16 ,"Tredrea, Warren",15,9,7,22,6,2, ,2, ,7, ,2,1, ,2,14,8,3,5,2, ,1,87
+2004,1,Port Adelaide,Essendon,4 ,"Wanganeen, Gavin",12,4,4,16,1, , ,1, ,5, , ,1, , ,3,13, , ,2,3,1,89
+2004,1,Port Adelaide,Essendon,21 ,"Wilson, Michael",13,7,7,20, , , ,1,6,2, , , , , ,5,15, , ,4,1, ,88

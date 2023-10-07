@@ -1,0 +1,28 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Richmond,2021,1,North Melbourne,21,W,49,4,,2,6,1,,,2,,1,,2,1,,,1,3,,,1,,,70
+Richmond,2021,2,Greater Western Sydney,22,L,49,3,1,,3,1,,,2,,1,,3,,1,,,3,,,,,1,74
+Richmond,2022,3,West Coast,7,W,49,7,3,7,14,3,,,4,,,,2,1,1,,8,7,,2,2,,,68
+Richmond,2022,4,Collingwood,8,W,49,8,3,6,14,,,,2,,5,,3,1,,,8,6,,,2,,3,73
+Richmond,2022,5,Hawthorn,9,W,49,2,1,2,4,,,,2,,,,4,,1,,2,2,,,1,,1,65
+Richmond,2022,6,Essendon,10,W,49,6,2,4,10,2,,,5,,2,,1,1,1,,3,6,,2,,,,76
+Richmond,2022,7,Sydney,11,L,49,5,1,3,8,1,1,,,,2,,4,,2,,4,2,,,1,,1,71
+Richmond,2022,8,Carlton,14,W,49,3,1,1,4,,1,,1,,1,,,,,,1,3,,,,,1,17
+Richmond,2022,9,Geelong,15,L,49,6,3,,6,2,,,1,,2,,1,,,,1,5,,3,4,1,,80
+Richmond,2022,10,West Coast,16,W,49,5,3,2,7,1,,,2,1,1,,2,,1,,1,4,,1,,1,,80
+Richmond,2022,11,Gold Coast,17,L,49,1,1,2,3,,1,,3,,1,,1,,1,,2,2,,1,1,,1,65
+Richmond,2022,12,Fremantle,19,D,49,1,,1,2,,,,2,,,,1,1,1,,2,,,,,,,11
+Richmond,2022,13,Brisbane Lions,20,W,49,2,,1,3,,1,,1,,1,,2,,,,,2,,,,2,1,39
+Richmond,2022,14,Port Adelaide,21,W,49,5,1,7,12,1,1,,6,,4,,6,1,2,,7,8,,,3,1,,76
+Richmond,2022,15,Hawthorn,22,W,49,10,3,2,12,2,1,,4,,2,1,5,2,1,,4,9,,2,2,1,1,72
+Richmond,2022,16,Essendon,23,W,49,8,4,3,11,1,,,4,,2,,3,,,,1,10,,3,1,1,,80
+Richmond,2022,17,Brisbane Lions,EF,L,49,7,4,5,12,1,1,,4,,3,,1,1,,,6,6,1,2,2,1,1,79
+Richmond,2023,18,Carlton,1,D,10,7,2,4,11,2,,,3,,2,1,3,1,1,,4,9,,,1,1,,74
+Richmond,2023,19,Adelaide,2,W,10,5,,,5,,,,2,,,,1,,,,,4,,,,1,1,77
+Richmond,2023,20,Collingwood,3,L,10,6,1,2,8,,,,2,,2,1,3,2,1,,3,5,,,2,,1,81
+Richmond,2023,21,Sydney,5,L,10,2,1,1,3,,,,3,,,,1,,,,,2,,1,1,,,40
+Richmond,2023,22,Melbourne,6,L,10,3,,4,7,,1,,2,1,,,3,1,1,,3,5,,,,,,69
+Richmond,2023,23,St Kilda,14,W,10,5,2,1,6,,1,,4,,2,,,,,,3,4,,,1,,1,70
+Richmond,2023,24,Sydney,17,W,10,4,3,4,8,,2,,2,,,,,,,,3,5,,2,1,,1,72
+Richmond,2023,25,West Coast,18,W,10,4,3,2,6,,1,,,,,,1,,1,,1,5,,,,,1,59
+Richmond,2023,26,North Melbourne,23,W,10,1,1,2,3,,,,1,1,1,,1,1,,,5,1,,,2,,,20
+Richmond,2023,27,Port Adelaide,24,L,10,3,1,2,5,,,,2,,1,1,1,,1,,2,4,,,,2,,38

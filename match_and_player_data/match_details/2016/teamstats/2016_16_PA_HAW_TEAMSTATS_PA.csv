@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2016,16,Port Adelaide,Hawthorn,15 ,"Amon, Karl",9,3,7,16,2,1, ,2,1,1, ,1,1,1, ,6,10, ,1,4, ,1,79
+2016,16,Port Adelaide,Hawthorn,25 ,"Austin, Logan",5,3,3,8, , , ,1, ,1, ,2, ,1, , ,8, , ,13, , ,87
+2016,16,Port Adelaide,Hawthorn,1 ,"Boak, Travis",11,4,12,23, , , ,6,2,3,3,3,1, , ,9,13, , , , , ,81
+2016,16,Port Adelaide,Hawthorn,5 ,"Broadbent, Matthew",14,8,14,28, ,1, ,5,1,3,4,1,2, , ,10,17, , ,1, , ,71
+2016,16,Port Adelaide,Hawthorn,33 ,"Byrne-Jones, Darcy",9,3,6,15, , , ,1,2,2, ,1,3,1, ,4,12, , ,5,2, ,83
+2016,16,Port Adelaide,Hawthorn,17 ,"Clurey, Tom",8,4,1,9, , , ,3,3,1, ,1,1,1, ,2,6, , ,7, , ,96
+2016,16,Port Adelaide,Hawthorn,22 ,"Dixon, Charlie",9,3,5,14, , , ,1, ,5, ,5,2,2, ,8,5,1, ,1, , ,83
+2016,16,Port Adelaide,Hawthorn,7 ,"Ebert, Brad",2,1, ,2, , , ,2,1, , ,3, ,1, ,2,1,1, ,1, , ,18
+2016,16,Port Adelaide,Hawthorn,9 ,"Gray, Robbie",12,3,17,29,2, , ,6,3,6,10,3,3,1,1,19,12, , ,1, , ,81
+2016,16,Port Adelaide,Hawthorn,8 ,"Hartlett, Hamish",15,4,7,22, , , ,4,2,1,1,6,3,1, ,7,13,1, , , , ,85
+2016,16,Port Adelaide,Hawthorn,24 ,"Impey, Jarman",8,3,9,17, , , ,3, ,2,2,2,2,2, ,11,8,1, , ,1, ,87
+2016,16,Port Adelaide,Hawthorn,48 ,"Krakouer, Nathan",16,6,3,19, , , ,3,4,5, ,5,1,3, ,7,11,1, ,3, , ,82
+2016,16,Port Adelaide,Hawthorn,2 ,"Mitchell, Kane",5,3,12,17, , , , , ,1, ,5, ,3, ,2,15, , ,1, , ,93
+2016,16,Port Adelaide,Hawthorn,3 ,"Neade, Jake",3,2,5,8, , , ,1, ,3, ,4,1,2, ,4,6, , ,1, , ,85
+2016,16,Port Adelaide,Hawthorn,13 ,"OShea, Cameron",7,2,5,12, , , ,2, ,1, ,5,2,5, ,4,7, , ,1, , ,76
+2016,16,Port Adelaide,Hawthorn,29 ,"Pittard, Jasper",15,3,5,20, ,1, ,1,5,1,1,1,1, , ,4,12, , ,6, ,1,93
+2016,16,Port Adelaide,Hawthorn,28 ,"Schulz, Jay",3,3,4,7,2, , , , , , ,1, ,1, ,5,2,1,2,1, ,1,87
+2016,16,Port Adelaide,Hawthorn,12 ,"Trengove, Jackson",6,2,8,14, , ,15,4, ,1,4,5,1,2, ,10,5, , ,6, , ,83
+2016,16,Port Adelaide,Hawthorn,39 ,"Westhoff, Justin",11,4,6,17,1, ,3,3,2, ,2,4,2,2, ,6,11, , ,3, , ,93
+2016,16,Port Adelaide,Hawthorn,16 ,"Wines, Ollie",10,2,15,25,2, ,6,3,1,6,3,4, , , ,10,16, , ,1, ,1,77
+2016,16,Port Adelaide,Hawthorn,20 ,"Wingard, Chad",6,1,8,14,3,1, , , ,1,3,2, ,1, ,8,7, , ,2, , ,98
+2016,16,Port Adelaide,Hawthorn,40 ,"Young, Aaron",7,2,7,14, , , ,4, ,3, ,1,2, , ,7,7,1, ,1,1,1,82

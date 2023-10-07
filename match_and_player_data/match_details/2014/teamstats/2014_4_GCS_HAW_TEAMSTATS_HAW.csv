@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2014,4,Hawthorn,Gold Coast,14 ,"Birchall, Grant",11,7,16,27, , , ,1,1,1,1,1, , , ,6,21, , ,2, , ,69
+2014,4,Hawthorn,Gold Coast,22 ,"Breust, Luke",6,2,14,20,2,1, ,3,1,2,1, , , , ,11,9, , , , ,1,88
+2014,4,Hawthorn,Gold Coast,9 ,"Burgoyne, Shaun",13,7,12,25, , , ,2,2,5,2,1, , , ,10,15, , ,3,1, ,81
+2014,4,Hawthorn,Gold Coast,18 ,"Ceglar, Jonathon",5,1,12,17, , ,19,1, ,2,6, ,3, , ,12,5, , ,4, , ,78
+2014,4,Hawthorn,Gold Coast,13 ,"Cheney, Kyle",11,6,4,15, , , ,1,3,1, ,2, , , ,7,9,1, ,13, , ,98
+2014,4,Hawthorn,Gold Coast,8 ,"Duryea, Taylor",11,3,7,18, , , ,3,5,2, ,5,1,1, ,7,12, , ,3,1, ,90
+2014,4,Hawthorn,Gold Coast,6 ,"Gibson, Josh",17,10,14,31, , , ,1,4, , ,2,3, , ,7,23, , ,11, ,1,98
+2014,4,Hawthorn,Gold Coast,19 ,"Gunston, Jack",19,10,6,25,5, , ,2,2,4,1,2,1, ,3,4,19, ,2,2, ,1,89
+2014,4,Hawthorn,Gold Coast,20 ,"Hale, David",4,1,3,7,1,1,15,1, ,2,1,1,2, , ,5,2, , ,1, , ,85
+2014,4,Hawthorn,Gold Coast,10 ,"Hill, Bradley",15,6,8,23,1, , ,7,4,6,2,2, ,1, ,7,16, , ,2,2,3,85
+2014,4,Hawthorn,Gold Coast,15 ,"Hodge, Luke",23,9,9,32, , , ,3,5,6,4,3,1, ,1,4,25, , ,5, , ,81
+2014,4,Hawthorn,Gold Coast,29 ,"Langford, Will",8,1,11,19, , , ,4,2,1,4,3,1,2, ,10,8, , ,1, , ,87
+2014,4,Hawthorn,Gold Coast,3 ,"Lewis, Jordan",16,12,10,26, ,2,4,3,2,7,2,4, ,1, ,7,19, ,2,1, ,1,87
+2014,4,Hawthorn,Gold Coast,5 ,"Mitchell, Sam",15,6,21,36,2, , ,2,4,4,6,2, ,1,2,13,24, ,1,6,1,1,91
+2014,4,Hawthorn,Gold Coast,28 ,"Puopolo, Paul",6, ,6,12,1,1, ,7, ,3,1,5,2,4, ,5,5, , ,2, , ,82
+2014,4,Hawthorn,Gold Coast,33 ,"Rioli, Cyril",8,4,3,11,2, , ,2,1,1,3,1,1, , ,7,5,1,3,3, , ,83
+2014,4,Hawthorn,Gold Coast,2 ,"Roughead, Jarryd",11,2,6,17,4,1,1,1, ,3,2,3,1,1, ,11,6, ,1,1, ,2,92
+2014,4,Hawthorn,Gold Coast,26 ,"Shiels, Liam",19,3,7,26,1, ,2,4, ,5,5,4,1,2, ,10,19, ,1,5, ,1,84
+2014,4,Hawthorn,Gold Coast,32 ↑,"Simpkin, Jonathan",11,3,3,14,1, , , , ,4,1,1,1, , ,3,11, , , , ,2,33
+2014,4,Hawthorn,Gold Coast,16 ,"Smith, Isaac",16,4,8,24,1,1,3,2,3,3, ,3,1,1, ,10,14, , ,1,3, ,84
+2014,4,Hawthorn,Gold Coast,27 ↓,"Spangher, Matthew",7,3,3,10, , , ,1,1,2, ,1, ,1, ,5,5,1, ,5, , ,50
+2014,4,Hawthorn,Gold Coast,4 ,"Suckling, Matt",18,4,12,30,2, , ,1,3,5,1,2, , , ,14,15, , ,1,2, ,87

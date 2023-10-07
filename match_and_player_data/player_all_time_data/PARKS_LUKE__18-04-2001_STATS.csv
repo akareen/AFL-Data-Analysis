@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Carlton,2021,1,Fremantle,3,W,26,11,3,2,13,,,,3,3,4,,3,,,,4,8,1,,4,,,85
+Carlton,2021,2,Gold Coast,4,W,26,2,1,1,3,,,,3,,1,,,1,,,1,2,,,4,,,69
+Carlton,2021,3,Essendon,7,W,26,6,3,3,9,,,,4,4,2,,1,3,1,,4,5,,,4,,,72
+Carlton,2021,4,Western Bulldogs,8,L,26,6,3,6,12,,,,2,1,,,2,1,1,,5,6,1,,3,,,80
+Carlton,2021,5,Melbourne,9,L,26,3,1,2,5,,,,,1,,,2,,1,,2,4,,,3,,,77
+Carlton,2021,6,Greater Western Sydney,14,L,26,2,1,1,3,,,,,,,,4,,2,,1,2,,,2,,,64
+Carlton,2022,7,Port Adelaide,5,W,26,4,2,3,7,,,,,3,,,2,,1,,4,4,,,5,,,77
+Carlton,2022,8,Fremantle,6,L,26,4,3,5,9,,,,1,1,,,1,,,,4,5,,,7,,,82

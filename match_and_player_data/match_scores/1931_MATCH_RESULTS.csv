@@ -1,0 +1,113 @@
+year,round,venue,date,attendance,home_team,away_team,home_q1_g,home_q2_g,home_q3_g,home_q4_g,home_q1_b,home_q2_b,home_q3_b,home_q4_b,away_q1_g,away_q2_g,away_q3_g,away_q4_g,away_q1_b,away_q2_b,away_q3_b,away_q4_b,home_total_g,home_total_b,home_total_score,away_total_g,away_total_b,away_total_score,winning_team,margin
+1931,1,Princes,02-05-1931,26500,Carlton,Richmond,7,1,2,5,3,2,1,2,1,1,5,7,4,10,5,4,15,8,98,14,23,107,Richmond,9
+1931,1,Victoria,02-05-1931,16000,Collingwood,Geelong,4,3,4,2,3,3,4,4,2,5,1,4,3,6,3,3,13,14,92,12,15,87,Collingwood,5
+1931,1,Junction,02-05-1931,19000,St Kilda,Essendon,5,2,3,3,6,2,3,3,4,3,1,3,0,7,6,1,13,14,92,11,14,80,St Kilda,12
+1931,1,M.C.G.,02-05-1931,19500,Melbourne,Fitzroy,3,4,5,3,4,2,3,7,2,3,5,4,1,4,3,2,15,16,106,14,10,94,Melbourne,12
+1931,1,Western,02-05-1931,12000,Footscray,Hawthorn,2,0,6,0,2,5,5,1,3,3,2,1,2,1,0,3,8,13,61,9,6,60,Footscray,1
+1931,1,Arden,02-05-1931,10000,North Melbourne,South Melbourne,5,1,2,3,5,6,4,2,5,4,5,5,5,4,7,5,11,17,83,19,21,135,South Melbourne,52
+1931,2,Brunswick,09-05-1931,35000,Fitzroy,Carlton,5,0,4,4,5,1,5,4,3,5,3,8,3,7,4,5,13,15,93,19,19,133,Carlton,40
+1931,2,Glenferrie,09-05-1931,15000,Hawthorn,Collingwood,3,2,1,2,7,3,4,3,3,3,0,5,1,7,3,7,8,17,65,11,18,84,Collingwood,19
+1931,2,Windy,09-05-1931,15000,Essendon,Melbourne,2,3,3,4,2,2,0,1,2,2,4,2,5,2,4,2,12,5,77,10,13,73,Essendon,4
+1931,2,Lake,09-05-1931,20000,South Melbourne,Footscray,4,3,3,3,2,4,2,5,7,4,2,3,5,6,2,2,13,13,91,16,15,111,Footscray,20
+1931,2,Corio,09-05-1931,9500,Geelong,St Kilda,6,5,2,7,2,2,2,0,1,3,2,1,2,5,3,2,20,6,126,7,12,54,Geelong,72
+1931,2,Punt,09-05-1931,11000,Richmond,North Melbourne,5,12,5,8,7,2,5,5,0,0,2,2,1,3,1,2,30,19,199,4,7,31,Richmond,168
+1931,3,Princes,16-05-1931,20000,Carlton,Essendon,6,2,4,6,3,5,6,4,1,0,3,1,1,6,2,5,18,18,126,5,14,44,Carlton,82
+1931,3,Victoria,16-05-1931,15000,Collingwood,South Melbourne,2,1,4,6,1,2,5,8,3,3,1,3,5,4,3,1,13,16,94,10,13,73,Collingwood,21
+1931,3,Arden,16-05-1931,7000,North Melbourne,Fitzroy,2,1,3,0,9,0,2,1,1,8,1,2,2,3,5,6,6,12,48,12,16,88,Fitzroy,40
+1931,3,Western,16-05-1931,30000,Footscray,Richmond,0,5,0,2,0,4,3,3,1,3,6,3,10,1,2,3,7,10,52,13,16,94,Richmond,42
+1931,3,M.C.G.,16-05-1931,19767,Melbourne,Geelong,3,2,4,3,3,2,6,4,3,4,2,2,2,6,4,5,12,15,87,11,17,83,Melbourne,4
+1931,3,Junction,16-05-1931,14000,St Kilda,Hawthorn,5,3,1,1,3,5,2,2,4,1,2,3,2,2,4,0,10,12,72,10,8,68,St Kilda,4
+1931,4,Corio,23-05-1931,12500,Geelong,Carlton,2,6,2,1,4,9,1,0,4,2,1,4,2,1,3,2,11,14,80,11,8,74,Geelong,6
+1931,4,Punt,23-05-1931,40000,Richmond,Collingwood,3,2,2,3,1,8,0,3,1,3,3,2,3,4,6,1,10,12,72,9,14,68,Richmond,4
+1931,4,Windy,23-05-1931,10000,Essendon,North Melbourne,5,2,4,1,5,3,4,1,3,2,1,3,1,3,1,4,12,13,85,9,9,63,Essendon,22
+1931,4,Brunswick,23-05-1931,14000,Fitzroy,Footscray,2,5,1,2,5,8,0,2,4,2,2,4,2,2,5,3,10,15,75,12,12,84,Footscray,9
+1931,4,Glenferrie,23-05-1931,10000,Hawthorn,Melbourne,4,2,6,1,7,3,6,0,2,7,1,6,1,4,1,7,13,16,94,16,13,109,Melbourne,15
+1931,4,Lake,23-05-1931,18000,South Melbourne,St Kilda,7,2,3,6,5,6,1,7,6,3,4,3,2,1,7,0,18,19,127,16,10,106,South Melbourne,21
+1931,5,Princes,30-05-1931,35000,Carlton,Collingwood,2,6,2,6,5,3,0,3,5,1,5,2,4,3,5,1,16,11,107,13,13,91,Carlton,16
+1931,5,Windy,30-05-1931,15000,Essendon,Richmond,2,6,0,2,0,8,1,3,4,1,5,1,5,1,12,2,10,12,72,11,20,86,Richmond,14
+1931,5,Corio,30-05-1931,9000,Geelong,Fitzroy,4,5,8,3,4,6,7,5,1,5,1,5,3,4,1,1,20,22,142,12,9,81,Geelong,61
+1931,5,M.C.G.,30-05-1931,20244,Melbourne,Footscray,3,5,3,2,1,1,2,5,2,4,2,2,4,1,3,3,13,9,87,10,11,71,Melbourne,16
+1931,5,Glenferrie,30-05-1931,11000,Hawthorn,South Melbourne,5,2,3,1,3,2,3,2,0,5,3,3,3,3,2,5,11,10,76,11,13,79,South Melbourne,3
+1931,5,Junction,30-05-1931,10000,St Kilda,North Melbourne,3,4,3,3,4,7,5,3,1,0,2,4,4,2,1,3,13,19,97,7,10,52,St Kilda,45
+1931,6,Victoria,08-06-1931,16000,Collingwood,St Kilda,4,1,2,8,1,3,2,4,2,4,2,2,5,4,5,3,15,10,100,10,17,77,Collingwood,23
+1931,6,Lake,08-06-1931,30000,South Melbourne,Geelong,0,0,2,4,0,1,4,3,5,2,2,4,4,4,4,3,6,8,44,13,15,93,Geelong,49
+1931,6,Arden,08-06-1931,7000,North Melbourne,Melbourne,3,0,4,0,2,3,8,4,6,4,1,4,2,2,1,3,7,17,59,15,8,98,Melbourne,39
+1931,6,Western,27-06-1931,24000,Footscray,Carlton,2,1,3,2,4,2,2,0,0,3,1,4,0,8,2,1,8,8,56,8,11,59,Carlton,3
+1931,6,Brunswick,27-06-1931,12000,Fitzroy,Essendon,1,4,0,2,1,6,3,4,6,0,2,2,3,1,5,1,7,14,56,10,10,70,Essendon,14
+1931,6,Punt,27-06-1931,19000,Richmond,Hawthorn,2,2,4,1,6,0,6,3,1,5,0,2,2,3,2,3,9,15,69,8,10,58,Richmond,11
+1931,7,Junction,13-06-1931,24000,St Kilda,Carlton,3,3,0,2,2,6,1,2,5,2,3,2,1,7,8,2,8,11,59,12,18,90,Carlton,31
+1931,7,M.C.G.,13-06-1931,26436,Melbourne,Collingwood,3,1,0,3,2,4,2,4,2,2,1,5,7,1,2,1,7,12,54,10,11,71,Collingwood,17
+1931,7,Windy,13-06-1931,10000,Essendon,Hawthorn,3,2,2,1,4,2,4,2,3,3,1,5,2,3,2,1,8,12,60,12,8,80,Hawthorn,20
+1931,7,Brunswick,13-06-1931,12000,Fitzroy,South Melbourne,4,2,5,3,9,1,2,2,5,3,3,5,0,5,5,5,14,14,98,16,15,111,South Melbourne,13
+1931,7,Western,13-06-1931,11000,Footscray,North Melbourne,1,3,4,5,2,2,2,2,1,1,0,3,8,2,3,0,13,8,86,5,13,43,Footscray,43
+1931,7,Corio,13-06-1931,18250,Geelong,Richmond,4,2,4,2,4,3,5,3,2,4,1,1,2,3,3,4,12,15,87,8,12,60,Geelong,27
+1931,8,Princes,20-06-1931,25000,Carlton,Melbourne,2,6,4,6,1,9,1,3,5,0,3,1,1,0,3,0,18,14,122,9,4,58,Carlton,64
+1931,8,Victoria,20-06-1931,6000,Collingwood,North Melbourne,8,1,8,5,10,5,4,3,1,4,1,3,1,5,0,4,22,22,154,9,10,64,Collingwood,90
+1931,8,Windy,20-06-1931,10000,Essendon,Geelong,1,5,0,1,1,7,0,5,5,2,5,1,3,4,0,4,7,13,55,13,11,89,Geelong,34
+1931,8,Glenferrie,20-06-1931,8000,Hawthorn,Fitzroy,0,5,1,6,1,2,0,5,1,1,4,1,8,2,3,1,12,8,80,7,14,56,Hawthorn,24
+1931,8,Junction,20-06-1931,17000,St Kilda,Footscray,2,2,2,1,1,2,2,5,3,1,2,5,1,5,2,3,7,10,52,11,11,77,Footscray,25
+1931,8,Punt,20-06-1931,18000,Richmond,South Melbourne,4,2,4,2,3,2,5,2,1,2,2,2,3,7,3,2,12,12,84,7,15,57,Richmond,27
+1931,9,Arden,04-07-1931,10000,North Melbourne,Carlton,1,4,0,2,2,1,1,4,7,1,4,8,4,3,1,2,7,8,50,20,10,130,Carlton,80
+1931,9,Western,04-07-1931,21500,Footscray,Collingwood,0,1,2,1,4,3,5,4,3,2,1,0,4,0,4,0,4,16,40,6,8,44,Collingwood,4
+1931,9,Lake,04-07-1931,11000,South Melbourne,Essendon,2,4,3,1,3,2,3,5,0,2,4,3,6,2,0,1,10,13,73,9,9,63,South Melbourne,10
+1931,9,Brunswick,04-07-1931,15000,Fitzroy,Richmond,3,1,2,2,4,4,1,4,5,2,4,3,3,9,1,4,8,13,61,14,17,101,Richmond,40
+1931,9,Corio,04-07-1931,9500,Geelong,Hawthorn,2,5,3,3,3,3,1,2,2,1,5,1,5,0,2,0,13,9,87,9,7,61,Geelong,26
+1931,9,M.C.G.,04-07-1931,15826,Melbourne,St Kilda,0,1,1,2,1,5,5,1,2,2,3,2,3,4,1,1,4,12,36,9,9,63,St Kilda,27
+1931,10,Lake,11-07-1931,16000,South Melbourne,Carlton,1,2,4,3,5,4,2,1,3,3,3,2,4,3,2,2,10,12,72,11,11,77,Carlton,5
+1931,10,Windy,11-07-1931,10000,Essendon,Collingwood,3,4,2,3,4,3,1,1,2,0,2,4,3,1,4,1,12,9,81,8,9,57,Essendon,24
+1931,10,Brunswick,11-07-1931,11000,Fitzroy,St Kilda,4,0,1,3,3,5,1,1,1,4,3,4,4,6,3,5,8,10,58,12,18,90,St Kilda,32
+1931,10,Corio,11-07-1931,9000,Geelong,Footscray,1,3,3,0,5,2,1,2,1,1,0,1,2,0,3,0,7,10,52,3,5,23,Geelong,29
+1931,10,Glenferrie,11-07-1931,4000,Hawthorn,North Melbourne,5,2,4,3,2,3,4,3,0,2,1,0,1,2,1,2,14,12,96,3,6,24,Hawthorn,72
+1931,10,Punt,11-07-1931,11000,Richmond,Melbourne,1,3,1,3,2,7,5,4,3,0,1,3,2,3,4,2,8,18,66,7,11,53,Richmond,13
+1931,11,Princes,18-07-1931,17000,Carlton,Hawthorn,4,2,6,4,6,0,8,1,2,1,1,1,2,4,0,2,16,15,111,5,8,38,Carlton,73
+1931,11,Victoria,18-07-1931,12000,Collingwood,Fitzroy,5,1,4,4,6,4,6,4,2,2,2,2,2,5,1,2,14,20,104,8,10,58,Collingwood,46
+1931,11,Western,18-07-1931,19000,Footscray,Essendon,2,5,1,0,3,2,1,4,2,2,5,3,6,2,2,3,8,10,58,12,13,85,Essendon,27
+1931,11,Arden,18-07-1931,4000,North Melbourne,Geelong,2,3,4,0,1,3,6,0,6,6,2,5,2,4,1,10,9,10,64,19,17,131,Geelong,67
+1931,11,M.C.G.,18-07-1931,15258,Melbourne,South Melbourne,1,1,0,2,2,2,0,3,4,2,3,3,3,2,3,2,4,7,31,12,10,82,South Melbourne,51
+1931,11,Junction,18-07-1931,24000,St Kilda,Richmond,2,2,1,1,3,3,3,3,3,2,2,4,3,5,6,5,6,12,48,11,19,85,Richmond,37
+1931,12,Punt,25-07-1931,36000,Richmond,Carlton,3,1,3,1,4,4,5,4,1,1,0,4,3,4,1,4,8,17,65,6,12,48,Richmond,17
+1931,12,Corio,25-07-1931,15000,Geelong,Collingwood,0,2,0,2,7,6,4,2,1,2,1,0,2,0,2,2,4,19,43,4,6,30,Geelong,13
+1931,12,Windy,25-07-1931,15000,Essendon,St Kilda,2,7,2,4,5,3,3,3,3,3,3,0,1,0,3,1,15,14,104,9,5,59,Essendon,45
+1931,12,Brunswick,25-07-1931,8000,Fitzroy,Melbourne,1,4,2,4,1,6,3,1,2,1,6,0,6,2,1,3,11,11,77,9,12,66,Fitzroy,11
+1931,12,Glenferrie,25-07-1931,8000,Hawthorn,Footscray,4,3,1,0,4,1,0,0,2,1,1,2,1,10,4,4,8,5,53,6,19,55,Footscray,2
+1931,12,Lake,25-07-1931,7500,South Melbourne,North Melbourne,4,2,6,1,4,3,5,4,1,4,1,3,0,5,0,7,13,16,94,9,12,66,South Melbourne,28
+1931,13,Princes,01-08-1931,18500,Carlton,Fitzroy,2,8,6,2,0,6,2,5,4,2,4,3,5,2,4,0,18,13,121,13,11,89,Carlton,32
+1931,13,Victoria,01-08-1931,9000,Collingwood,Hawthorn,5,4,2,4,1,2,6,4,2,1,2,2,5,4,5,2,15,13,103,7,16,58,Collingwood,45
+1931,13,M.C.G.,01-08-1931,13828,Melbourne,Essendon,1,5,2,3,2,1,3,0,2,2,1,5,1,2,5,3,11,6,72,10,11,71,Melbourne,1
+1931,13,Western,01-08-1931,18500,Footscray,South Melbourne,1,1,3,4,5,5,3,1,1,1,0,3,3,1,4,3,9,14,68,5,11,41,Footscray,27
+1931,13,Junction,01-08-1931,16000,St Kilda,Geelong,2,2,1,2,1,1,6,2,4,2,5,4,5,1,0,4,7,10,52,15,10,100,Geelong,48
+1931,13,Arden,01-08-1931,8000,North Melbourne,Richmond,4,2,0,3,1,4,2,8,1,3,7,5,4,6,0,2,9,15,69,16,12,108,Richmond,39
+1931,14,Windy,08-08-1931,20000,Essendon,Carlton,2,5,3,8,5,1,2,6,5,3,2,1,4,7,8,3,18,14,122,11,22,88,Essendon,34
+1931,14,Lake,08-08-1931,14000,South Melbourne,Collingwood,1,1,3,1,8,2,8,5,3,3,2,0,1,3,2,7,6,23,59,8,13,61,Collingwood,2
+1931,14,Brunswick,08-08-1931,8000,Fitzroy,North Melbourne,3,5,5,8,2,3,3,4,4,1,2,1,0,5,5,2,21,12,138,8,12,60,Fitzroy,78
+1931,14,Punt,08-08-1931,25000,Richmond,Footscray,0,3,3,1,4,5,1,2,3,2,4,1,7,2,7,2,7,12,54,10,18,78,Footscray,24
+1931,14,Corio,08-08-1931,9250,Geelong,Melbourne,5,4,1,1,3,1,6,1,1,3,2,0,0,2,0,7,11,11,77,6,9,45,Geelong,32
+1931,14,Glenferrie,08-08-1931,8000,Hawthorn,St Kilda,3,2,3,3,3,1,3,2,1,6,1,3,2,6,2,1,11,9,75,11,11,77,St Kilda,2
+1931,15,Princes,22-08-1931,18000,Carlton,Geelong,2,0,2,1,5,1,3,0,1,1,0,1,0,4,2,4,5,9,39,3,10,28,Carlton,11
+1931,15,Victoria,22-08-1931,15000,Collingwood,Richmond,2,1,1,2,5,1,3,1,3,0,2,5,0,3,4,3,6,10,46,10,10,70,Richmond,24
+1931,15,Arden,22-08-1931,4000,North Melbourne,Essendon,1,1,3,4,2,1,3,1,1,3,3,4,5,2,4,6,9,7,61,11,17,83,Essendon,22
+1931,15,Western,22-08-1931,8000,Footscray,Fitzroy,1,3,1,5,1,7,0,4,3,0,3,0,2,1,3,0,10,12,72,6,6,42,Footscray,30
+1931,15,M.C.G.,22-08-1931,3614,Melbourne,Hawthorn,1,5,4,3,2,6,4,3,1,0,1,0,1,1,2,2,13,15,93,2,6,18,Melbourne,75
+1931,15,Junction,22-08-1931,6000,St Kilda,South Melbourne,1,4,0,1,1,7,1,9,4,1,3,0,6,0,7,1,6,18,54,8,14,62,South Melbourne,8
+1931,16,Victoria,29-08-1931,20000,Collingwood,Carlton,5,6,4,5,6,1,4,4,0,2,3,5,4,3,2,5,20,15,135,10,14,74,Collingwood,61
+1931,16,Punt,29-08-1931,16000,Richmond,Essendon,9,3,8,3,5,2,4,3,3,6,2,4,3,3,2,3,23,14,152,15,11,101,Richmond,51
+1931,16,Brunswick,29-08-1931,8000,Fitzroy,Geelong,2,2,4,1,0,3,3,2,2,1,4,2,7,5,3,7,9,8,62,9,22,76,Geelong,14
+1931,16,Western,29-08-1931,12000,Footscray,Melbourne,2,2,4,2,2,4,2,4,0,2,3,0,4,2,1,1,10,12,72,5,8,38,Footscray,34
+1931,16,Lake,29-08-1931,4500,South Melbourne,Hawthorn,1,4,5,2,4,3,4,7,0,5,2,2,0,2,2,1,12,18,90,9,5,59,South Melbourne,31
+1931,16,Arden,29-08-1931,4000,North Melbourne,St Kilda,2,3,1,1,3,3,1,1,3,4,2,2,5,3,3,4,7,8,50,11,15,81,St Kilda,31
+1931,17,Princes,05-09-1931,39000,Carlton,Footscray,1,2,0,3,0,5,5,4,1,3,2,1,3,4,5,0,6,14,50,7,12,54,Footscray,4
+1931,17,Junction,05-09-1931,17000,St Kilda,Collingwood,6,3,5,7,3,5,3,5,5,3,7,5,3,3,0,2,21,16,142,20,8,128,St Kilda,14
+1931,17,Windy,05-09-1931,10000,Essendon,Fitzroy,5,1,4,5,2,4,1,0,4,2,2,4,3,1,3,1,15,7,97,12,8,80,Essendon,17
+1931,17,Corio,05-09-1931,10500,Geelong,South Melbourne,3,3,5,5,3,3,2,4,1,0,3,4,4,5,2,0,16,12,108,8,11,59,Geelong,49
+1931,17,Glenferrie,05-09-1931,11000,Hawthorn,Richmond,4,1,0,0,1,6,4,2,4,2,3,4,5,4,4,8,5,13,43,13,21,99,Richmond,56
+1931,17,M.C.G.,05-09-1931,3944,Melbourne,North Melbourne,5,4,3,6,4,2,5,4,1,7,3,0,8,1,3,1,18,15,123,11,13,79,Melbourne,44
+1931,18,Princes,12-09-1931,25000,Carlton,St Kilda,3,1,3,3,3,0,2,1,3,3,0,0,4,4,0,4,10,6,66,6,12,48,Carlton,18
+1931,18,Victoria,12-09-1931,14000,Collingwood,Melbourne,1,8,4,5,4,7,1,7,4,2,1,1,2,0,6,1,18,19,127,8,9,57,Collingwood,70
+1931,18,Glenferrie,12-09-1931,5000,Hawthorn,Essendon,2,0,1,5,2,6,1,6,2,1,5,1,4,0,5,3,8,15,63,9,12,66,Essendon,3
+1931,18,Lake,12-09-1931,4500,South Melbourne,Fitzroy,2,0,1,2,5,0,5,4,1,5,2,2,3,9,0,2,5,14,44,10,14,74,Fitzroy,30
+1931,18,Arden,12-09-1931,9000,North Melbourne,Footscray,0,1,2,0,11,1,4,0,1,1,1,2,1,6,2,4,3,16,34,5,13,43,Footscray,9
+1931,18,Punt,12-09-1931,15000,Richmond,Geelong,2,3,3,0,3,1,3,1,6,1,2,2,4,4,2,7,8,8,56,11,17,83,Geelong,27
+1931,SF,M.C.G.,19-09-1931,51140,Carlton,Collingwood,3,5,3,9,1,0,2,7,1,0,3,1,7,2,2,1,20,10,130,5,12,42,Carlton,88
+1931,SF,M.C.G.,26-09-1931,48353,Geelong,Richmond,5,2,2,1,2,0,1,3,5,3,4,3,0,6,2,1,10,6,66,15,9,99,Richmond,33
+1931,PF,M.C.G.,03-10-1931,36653,Geelong,Carlton,0,8,2,1,0,9,1,7,7,1,2,1,5,1,5,0,11,17,83,11,11,77,Geelong,6
+1931,GF,M.C.G.,10-10-1931,60712,Geelong,Richmond,2,3,3,1,3,3,5,3,1,3,1,2,2,3,0,1,9,14,68,7,6,48,Geelong,20

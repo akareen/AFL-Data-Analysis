@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2020,5,Essendon,Collingwood,13 ,"Fantasia, Orazio",7,4,2,9, , , ,1,3, , ,3, ,1, ,2,7, , ,2, , ,73
+2020,5,Essendon,Collingwood,8 ,"Gleeson, Martin",8,4,3,11, , , ,2,1,2, ,2, ,1, ,2,9, , ,3, , ,81
+2020,5,Essendon,Collingwood,33 ,"Ham, Brayden",10,2,5,15, , , ,2,2,6,2,1, , , ,5,10, ,1,2,1,1,78
+2020,5,Essendon,Collingwood,46 ,"Hibberd, Mitchell",5,2,5,10, , , , ,3,1,1,2, ,1, ,3,7, , , , , ,80
+2020,5,Essendon,Collingwood,26 ,"Hooker, Cale",6,6,5,11, , , ,1,2, , ,2,1, , ,5,6,1, ,6, , ,94
+2020,5,Essendon,Collingwood,18 ,"Hurley, Michael",11,7,6,17, , , ,1,2,1, , ,1, , ,4,12, , ,4, , ,94
+2020,5,Essendon,Collingwood,4 ,"Langford, Kyle",10,6,6,16, , , ,1,2,1,1,3, ,1, ,7,10,1,1,1, , ,80
+2020,5,Essendon,Collingwood,15 ,"Laverde, Jayden",4,2,2,6, , , ,3, ,1, ,1, ,1, ,1,5,1,1,2, ,2,74
+2020,5,Essendon,Collingwood,43 ,"McDonald-Tipungwuti, Anthony",7,3,3,10,2,1, ,7, , ,2,3,1,3, ,7,4,1,1,3, , ,81
+2020,5,Essendon,Collingwood,1 ,"McGrath, Andrew",11,1,8,19, , , ,4,1, ,5,3, ,1, ,14,8, , ,3, , ,83
+2020,5,Essendon,Collingwood,44 ,"McKernan, Shaun",4,2,1,5,1, , , , , ,1,4,1,2, ,4,2, ,1,2, , ,73
+2020,5,Essendon,Collingwood,3 ,"Parish, Darcy",5,3,7,12,1, , , , ,3,2,1, , , ,5,7, ,1, , , ,76
+2020,5,Essendon,Collingwood,34 ,"Phillips, Andrew",6,2,5,11, , ,13,5,2,1,6,4,2,3, ,12,2,1, ,11, , ,93
+2020,5,Essendon,Collingwood,27 ,"Redman, Mason",6,1,2,8, , , ,1,1, , ,1, , , ,3,2, , ,3, , ,82
+2020,5,Essendon,Collingwood,14 ,"Ridley, Jordan",12,7,6,18, , , ,3,5,2,1,2,1,1, ,5,12,1, ,8, , ,92
+2020,5,Essendon,Collingwood,42 ,"Saad, Adam",11,4,7,18, , , ,2,2,4,1,1, , , ,3,13, , ,3, , ,83
+2020,5,Essendon,Collingwood,9 ,"Shiel, Dylan",19,4,10,29,1, , ,5,2,6,6,2, ,1,3,12,15, , ,1, ,1,77
+2020,5,Essendon,Collingwood,5 ,"Smith, Devon",10,1,3,13, , , ,6,2,1,3, ,1, , ,3,10, , ,1, , ,80
+2020,5,Essendon,Collingwood,40 ,"Snelling, Will",7, ,9,16, , , ,6,2,3,4,5,1,2, ,9,7, , ,2, ,1,85
+2020,5,Essendon,Collingwood,25 ,"Stringer, Jake",8,3,2,10,3, , ,7, ,2,2,3,2,1,2,6,5, ,2, , , ,80
+2020,5,Essendon,Collingwood,20 ,"Townsend, Jacob",5,2,1,6,1,1, ,7, ,1, ,2,1,2, ,2,3, ,1,2, , ,80
+2020,5,Essendon,Collingwood,11 ,"Zaharakis, David",1,1,1,2,1, , ,1, , ,1, , , , ,2,1, ,1,1, , ,79

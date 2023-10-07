@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2020,11,Gold Coast,Essendon,9 ,"Ainsworth, Ben",5,2,4,9,1, , , ,1,2, , ,1, , ,3,6, ,1,1, , ,82
+2020,11,Gold Coast,Essendon,15 ,"Anderson, Noah",9,3,6,15, , , ,2,1,2,4,1, ,1, ,6,10, , ,1, , ,73
+2020,11,Gold Coast,Essendon,10 ,"Ballard, Charlie",10,7, ,10, , , , ,3,2, ,4,1,1, ,3,5,3, ,3, , ,98
+2020,11,Gold Coast,Essendon,3 ,"Bowes, Jack",13,4,3,16,1, , ,1,3,2, , ,1, , ,6,9, , ,2, ,1,83
+2020,11,Gold Coast,Essendon,35 ,"Budarick, Connor",5,2,1,6, , , ,2,2,1, , , , , ,2,4, , , , , ,85
+2020,11,Gold Coast,Essendon,25 ,"Collins, Sam",3,2,2,5, , , ,1,2, , , , , , ,1,4, , ,11, , ,96
+2020,11,Gold Coast,Essendon,19 ,"Corbett, Josh",7,5,4,11, ,1, ,1,1,1, ,1,2,1, ,5,8, , , , , ,86
+2020,11,Gold Coast,Essendon,12 ,"Day, Sam",7,6,3,10,2, ,1,1, ,3,1,2,1,1, ,5,4,2,3,2, ,1,80
+2020,11,Gold Coast,Essendon,4 ,"Ellis, Brandon",12,5,6,18, ,1, ,1,3,2, ,2,1,1, ,5,14, , ,1,1, ,82
+2020,11,Gold Coast,Essendon,8 ,"Fiorini, Brayden",10,5,3,13,1, , ,1,4,1, , ,1, , ,6,6, ,1, , , ,80
+2020,11,Gold Coast,Essendon,26 ,"Flanders, Sam",3, ,5,8, , , ,5, ,3, ,2, , , ,5,2, , ,1, , ,59
+2020,11,Gold Coast,Essendon,21 ,"Greenwood, Hugh",11,1,7,18,1, , ,3, ,2,8,5, ,1,3,13,5,1,1,1, , ,78
+2020,11,Gold Coast,Essendon,5 ,"Harbrow, Jarrod",6,3,1,7, , , , ,2,1,2,3, ,2, ,3,5, , ,1, , ,85
+2020,11,Gold Coast,Essendon,34 ,"King, Ben",7,3,1,8,2,1, , , ,2, ,2, ,1, ,3,4, ,2, , , ,94
+2020,11,Gold Coast,Essendon,23 ,"Lemmens, Sean",5,2,3,8, , , ,4, ,3,1,4,1,2, ,4,4, , , , , ,69
+2020,11,Gold Coast,Essendon,13 ,"Lukosius, Jack",8,2,3,11, , , ,3,3,1, , , , , ,3,3, , ,4,1, ,89
+2020,11,Gold Coast,Essendon,11 ,"Miller, Touk",7,2,4,11, , , ,4,1,2,5,3, ,1, ,7,5, , ,3, , ,82
+2020,11,Gold Coast,Essendon,27 ,"Powell, Wil",5,4,2,7, , , ,4,4,1, ,1, , , ,2,5, , ,3, , ,66
+2020,11,Gold Coast,Essendon,22 ,"Rankine, Izak",10,3,4,14,1,2, , ,1,4,3,2, ,1, ,10,4,1,1, , ,1,85
+2020,11,Gold Coast,Essendon,24 ,"Swallow, David",6,2,7,13, , , ,4,1,2,3,3, , , ,8,5, ,1, , ,1,75
+2020,11,Gold Coast,Essendon,14 ,"Weller, Lachie",10,1,8,18,2,1, ,3,3,3,3,1,1, ,1,8,10, , ,1, ,1,83
+2020,11,Gold Coast,Essendon,28 ,"Witts, Jarrod",6, ,5,11, , ,31,2,1,3,2,4,2,3, ,6,4, , ,4, ,1,92

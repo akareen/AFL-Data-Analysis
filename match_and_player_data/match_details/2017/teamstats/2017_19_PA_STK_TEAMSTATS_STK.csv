@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2017,19,St Kilda,Port Adelaide,8 ,"Acres, Blake",7,2,15,22,1, , ,2,2,3,2,4, ,1, ,9,14,1,1,1, , ,86
+2017,19,St Kilda,Port Adelaide,15 ,"Billings, Jack",9,2,10,19, ,2, ,6,2,3,1,2,3, , ,11,9, , ,1, , ,84
+2017,19,St Kilda,Port Adelaide,22 ,"Brown, Nathan",1, ,3,4, , , ,3,2, , ,3, ,2, ,3,1, , ,8, , ,93
+2017,19,St Kilda,Port Adelaide,27 ,"Bruce, Josh",7,6,4,11, ,3,1,1,1,1, ,3,2,2, ,6,4,4,3,1, ,1,93
+2017,19,St Kilda,Port Adelaide,2 ,"Carlisle, Jake",10,8,6,16, , , ,2,6, , ,2, , ,1,8,7,4, ,9, , ,100
+2017,19,St Kilda,Port Adelaide,7 ,"Dunstan, Luke",18,4,9,27,1, , ,8,3,7,6,4, ,2, ,9,14, , ,3, ,1,68
+2017,19,St Kilda,Port Adelaide,14 ,"Geary, Jarryn",7,1,5,12, , , , ,1,1, ,1,1, , ,6,6, , ,6, , ,93
+2017,19,St Kilda,Port Adelaide,4 ,"Gresham, Jade",6,1,1,7,1,2, ,5, ,1,2,1,1,1, ,3,4, ,1, , , ,72
+2017,19,St Kilda,Port Adelaide,18 ,"Longer, Billy", , ,5,5, , ,32,8, ,1,2,1,3,1, ,3,2, , ,3, , ,88
+2017,19,St Kilda,Port Adelaide,13 ,"Lonie, Jack",6,1,2,8,1,1, ,4, ,3,1,1,5,1, ,5,4, , , , , ,63
+2017,19,St Kilda,Port Adelaide,36 ,"McKenzie, Daniel",7, ,6,13, , , ,2,3,3,3,4,1,2, ,8,5, , ,3, , ,76
+2017,19,St Kilda,Port Adelaide,28 ,"Membrey, Tim",7,4,3,10,3, , , ,1,1,1,1,2, , ,7,4,1,2,4, , ,81
+2017,19,St Kilda,Port Adelaide,16 ,"Newnes, Jack",7,3,12,19, , , ,5,3,1,2,3,4,1, ,6,13, , , , , ,78
+2017,19,St Kilda,Port Adelaide,17 ,"Roberton, Dylan",18,4,6,24, , , , ,7,2,1,5,1,1, ,7,14, , ,4, , ,84
+2017,19,St Kilda,Port Adelaide,6 ,"Ross, Sebastian",16,3,15,31, ,1, ,6,1,6,6,3, ,1, ,14,18, , ,1, , ,90
+2017,19,St Kilda,Port Adelaide,5 ,"Savage, Shane",16,3,5,21, , , , ,7,5,1,2,1, , ,6,13, , ,5,5, ,89
+2017,19,St Kilda,Port Adelaide,35 ,"Sinclair, Jack",13,5,8,21,1,1, ,6,1,1,2,4,1, , ,9,13, , ,4, , ,88
+2017,19,St Kilda,Port Adelaide,9 ,"Steele, Jack",9,2,13,22, ,1, ,7,1,3,2,5, ,3, ,8,10, , ,1, , ,73
+2017,19,St Kilda,Port Adelaide,3 ,"Steven, Jack",9,3,13,22, , , ,5, ,5,6,3, , , ,7,13, , , , ,2,79
+2017,19,St Kilda,Port Adelaide,29 ,"Webster, Jimmy",10,4,12,22, , , ,3,3,2, ,2,1, , ,8,14,2, ,1, ,1,90
+2017,19,St Kilda,Port Adelaide,44 ,"Weller, Maverick",5,2,5,10, , , ,2,1,3,4,2,1,1, ,7,4, ,1,1, , ,82
+2017,19,St Kilda,Port Adelaide,31 ,"White, Brandon",10,4,3,13, , , , ,5,2,1,1,1, , ,3,11,1, ,2, , ,52

@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2018,5,North Melbourne,Hawthorn,3 ,"Anderson, Jed",6, ,9,15, , , ,9, ,2,5,4, ,1, ,8,5, , ,3, , ,76
+2018,5,North Melbourne,Hawthorn,18 ,"Atley, Shaun",6,1,14,20,1,1, ,1, ,4,3,2,1,1, ,8,12, , ,1,1,2,77
+2018,5,North Melbourne,Hawthorn,50 ,"Brown, Ben",8,7,2,10,4,1, ,2, ,1, ,1,1,1, ,3,7,1,5,2, , ,100
+2018,5,North Melbourne,Hawthorn,13 ,"Clarke, Ryan",17,10,9,26, , , ,2,4, ,1,6, ,1, ,4,21, , , , , ,81
+2018,5,North Melbourne,Hawthorn,10 ,"Cunnington, Ben",15,3,15,30, , , ,6,2,2,6,1,1, ,3,18,9, , ,2, ,1,83
+2018,5,North Melbourne,Hawthorn,1 ,"Daw, Majak",9,4,4,13, , ,4,1,4,1,1,2,2, , ,8,4,2, ,6, ,1,85
+2018,5,North Melbourne,Hawthorn,14 ,"Dumont, Trent",13, ,10,23,1, , ,2, ,2,2,6,5,2, ,12,11, , ,1, , ,76
+2018,5,North Melbourne,Hawthorn,22 ,"Goldstein, Todd",5,3,7,12, , ,31,2,1,2,1,2,2, , ,4,9, , ,2, , ,90
+2018,5,North Melbourne,Hawthorn,39 ,"Hartung, Billy",10,4,8,18,1,1, ,3,3,3,3,5, ,1, ,6,12, , , ,1,1,89
+2018,5,North Melbourne,Hawthorn,4 ,"Higgins, Shaun",9,5,4,13, ,1, ,1, ,4,2, , , , ,1,13, , , , , ,51
+2018,5,North Melbourne,Hawthorn,5 ,"Jacobs, Ben",5, ,14,19, , , ,5,1,1,7,4,3,1, ,11,8, , ,1, , ,84
+2018,5,North Melbourne,Hawthorn,34 ,"Macmillan, Jamie",15,6,5,20, ,1, ,3,5,3, , ,2, , ,2,15, , , ,2, ,83
+2018,5,North Melbourne,Hawthorn,11 ,"McDonald, Luke",10,4,8,18, , , ,3,1,2, ,3, , , ,7,11, , ,2, ,1,75
+2018,5,North Melbourne,Hawthorn,12 ,"Simpkin, Jy",4, ,7,11, , , ,2, ,1,3,3, ,1, ,6,5, , ,2, , ,78
+2018,5,North Melbourne,Hawthorn,25 ,"Tarrant, Robbie",18,16,2,20, , , ,4,7,1, ,2, ,1,2,4,16,3, ,6, , ,95
+2018,5,North Melbourne,Hawthorn,16 ,"Thompson, Scott",15,11,5,20, , , ,2,3,3, ,2,2,1, ,4,16, , ,8,1,1,95
+2018,5,North Melbourne,Hawthorn,28 ,"Turner, Kayne",9,4,6,15, , , ,4,1,5,1,2,1, , ,7,8,1,3,1, ,1,86
+2018,5,North Melbourne,Hawthorn,33 ,"Vickers-Willis, Ed",7,3,1,8, , , ,2,1,1,1,2, ,1, ,3,6, , ,5, , ,45
+2018,5,North Melbourne,Hawthorn,30 ,"Waite, Jarrad",13,8,3,16,3,5, ,2, ,3, , , , ,1,10,7,4,4,1, , ,100
+2018,5,North Melbourne,Hawthorn,2 ,"Williams, Marley",8,5,5,13, , , ,1,3,2, ,3,1,1, ,4,9, , ,5, ,1,87
+2018,5,North Melbourne,Hawthorn,7 ,"Ziebell, Jack",16,5,2,18,2,2, ,7,1,2, ,4,2,1, ,7,10,1,3, , ,1,85
+2018,5,North Melbourne,Hawthorn,44 ,"Zurhaar, Cameron",11,2,4,15,2,1, ,2,1,3,1,5,1,3, ,8,6, ,1,1, ,1,79

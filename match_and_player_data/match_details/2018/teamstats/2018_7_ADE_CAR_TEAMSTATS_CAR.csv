@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2018,7,Carlton,Adelaide,41 ,"Casboult, Levi",4,3,2,6,2, , ,1, , , ,4, ,1, ,3,3,1,1,4, , ,88
+2018,7,Carlton,Adelaide,9 ,"Cripps, Patrick",10,3,15,25, ,2, ,3,2,1,5,4,2,1, ,18,7,1,1,2, , ,91
+2018,7,Carlton,Adelaide,35 ,"Curnow, Ed",13,3,13,26,1, , ,14,2,3,6,1,1, , ,12,13, ,1, , ,1,96
+2018,7,Carlton,Adelaide,2 ,"Dow, Paddy",11,2,4,15,1, , ,5, ,1,5,3,1, , ,5,9, , , ,1,1,71
+2018,7,Carlton,Adelaide,25 ,"Fisher, Zac",8,1,9,17, , , ,3, ,1,4,2, , , ,6,11, , , ,1,1,78
+2018,7,Carlton,Adelaide,21 ,"Garlett, Jarrod",10,6, ,10, ,1, ,5, ,1,2,2, ,2, ,4,6,1,1, , , ,83
+2018,7,Carlton,Adelaide,32 ,"Graham, Nick",11,5,2,13,1, , , ,1,5,1, , , , ,3,10,1,1, , , ,76
+2018,7,Carlton,Adelaide,14 ,"Jones, Liam",8,7,3,11, , , ,3,3,1, ,3, ,1, ,2,8,1, ,10, , ,96
+2018,7,Carlton,Adelaide,7 ,"Kennedy, Matthew",5,1,6,11, , , ,4, ,1,4,1, , , ,8,3, , ,1, , ,69
+2018,7,Carlton,Adelaide,11 ,"Kerridge, Sam",8,9,13,21, , , ,3,4, ,2,1, , , ,5,16, , ,1, , ,84
+2018,7,Carlton,Adelaide,8 ,"Kreuzer, Matthew",7, ,4,11,1, ,19,6, ,3,2,5,1,3, ,6,4, , ,1, , ,76
+2018,7,Carlton,Adelaide,10 ,"McKay, Harry",7,4,2,9,2, , ,1, ,3, ,2, , , ,3,6,1,2, , ,1,76
+2018,7,Carlton,Adelaide,18 ,"Mullett, Aaron",15,7,2,17, ,1, ,1,2,2, ,1,2, , ,2,12, , ,2, ,1,75
+2018,7,Carlton,Adelaide,4 ,"OBrien, Lochie",12,8,3,15, , , , ,1, , ,7, ,3, ,5,11, , , , , ,83
+2018,7,Carlton,Adelaide,24 ,"OShea, Cameron",12,8,4,16, , , ,2,2,4, ,3, ,2, ,1,14, , ,5, ,1,87
+2018,7,Carlton,Adelaide,5 ,"Petrevski-Seton, Sam",12,4,2,14, ,1, ,3,2,2,1,3,1, , ,6,7,1, ,1, , ,65
+2018,7,Carlton,Adelaide,34 ,"Phillips, Andrew",4, ,3,7,1, ,22, ,1,2,1,4,1,3, ,5,2, , ,4, , ,71
+2018,7,Carlton,Adelaide,20 ,"Plowman, Lachie",10,7,1,11, , , ,2,2, , ,1,1, , ,1,9, , ,4, , ,78
+2018,7,Carlton,Adelaide,17 ,"Rowe, Sam",5,5,4,9, , , ,1, , , ,2, ,1, ,3,6,1, ,7, , ,94
+2018,7,Carlton,Adelaide,6 ,"Simpson, Kade",19,11,7,26, , , ,2,4,3, ,5, , , ,6,17,2, ,2,3, ,93
+2018,7,Carlton,Adelaide,39 ,"Thomas, Dale",20,10,6,26, , , ,5,6,3, ,3,1, , ,4,20, , ,4, , ,80
+2018,7,Carlton,Adelaide,46 ,"Wright, Matthew",9,3,7,16,1,1, ,2,1,1,3,1, ,1, ,11,4,1,2,1, , ,90

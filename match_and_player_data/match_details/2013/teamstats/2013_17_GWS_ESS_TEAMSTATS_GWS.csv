@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2013,17,Greater Western Sydney,Essendon,11 ,"Adams, Taylor",14,3,14,28, , , ,2, ,4,10,8,2,2, ,13,16, , , , ,1,79
+2013,17,Greater Western Sydney,Essendon,50 ,"Brogan, Dean",5,3,7,12, , ,19,1, ,4,1,4,2,4, ,6,7, , ,2, , ,90
+2013,17,Greater Western Sydney,Essendon,47 ,"Bruce, Josh",11,5,2,13, , , ,4,5,1, ,4, , , ,3,10, , ,10,1, ,93
+2013,17,Greater Western Sydney,Essendon,14 ,"Bugg, Tomas",9,2,6,15, , , ,4,1,3,1,2,2,1, ,8,7, , ,2, ,1,87
+2013,17,Greater Western Sydney,Essendon,18 ,"Cameron, Jeremy",10,5,3,13,4,5, ,3, ,2, ,3,2,3, ,6,7, ,3,1,1,1,88
+2013,17,Greater Western Sydney,Essendon,13 ,"Darley, Sam",8,2,8,16, , , ,3,1, ,1,1,1,1, ,5,12, , ,2, , ,86
+2013,17,Greater Western Sydney,Essendon,1 ,"Davis, Phil",5,5,6,11, ,1, ,1,1, ,1,1,1,1, ,4,7,1, ,2, , ,89
+2013,17,Greater Western Sydney,Essendon,26 ,"Giles, Jonathan",8,3,2,10,4, ,27,1,4, ,1,1,1,1, ,6,3,2,3,3, , ,91
+2013,17,Greater Western Sydney,Essendon,4 ,"Greene, Toby",16,4,12,28, ,1, ,4,1,4,8,6,2,1, ,13,15, , ,2, , ,81
+2013,17,Greater Western Sydney,Essendon,2 ,"Hampton, Curtly",4,3,13,17, , , ,3,1,1, ,1,1, , ,8,9,1, ,1,2,1,77
+2013,17,Greater Western Sydney,Essendon,19 ,"Haynes, Nick",12,5,1,13, , , ,3,5, ,1,1, , , ,4,9, , ,5,1, ,86
+2013,17,Greater Western Sydney,Essendon,33 ↑,"Hoskin-Elliott, Will",6,1,3,9, ,1, ,1, ,3,1,2, , , ,3,6, , ,1,3, ,29
+2013,17,Greater Western Sydney,Essendon,39 ,"Mohr, Tim",15,4,6,21, , , ,3,7,1, ,2, ,1, ,9,11,2, ,6,1, ,91
+2013,17,Greater Western Sydney,Essendon,5 ,"Shiel, Dylan",11, ,17,28, ,1,1,2,1,7,5,2, , ,1,12,13, , ,1,1,1,84
+2013,17,Greater Western Sydney,Essendon,10 ,"Smith, Devon",9,4,4,13, , , ,5,1,1,2,2, ,2, ,4,9, ,1, , , ,86
+2013,17,Greater Western Sydney,Essendon,20 ,"Tomlinson, Adam",13,9,10,23,1, , ,4,2,3,1,3,2, , ,8,15, ,1, , ,2,88
+2013,17,Greater Western Sydney,Essendon,17 ,"Treloar, Adam",9,4,8,17,1, , ,3,1,3,1,3,2,1, ,7,10,1, , , , ,82
+2013,17,Greater Western Sydney,Essendon,32 ↓,"Ugle, Gerald",5,2,3,8, , , ,2,1, ,1,5, ,2, ,4,4, , , , , ,61
+2013,17,Greater Western Sydney,Essendon,8 ,"Ward, Callan",9,4,10,19, , ,2,5,3,2,4,2, , , ,11,7,2, ,2,4, ,92
+2013,17,Greater Western Sydney,Essendon,42 ,"Whiley, Mark",9,1,1,10, , , ,12,1,1,4,3,1,3, ,4,6, , , , , ,79
+2013,17,Greater Western Sydney,Essendon,6 ,"Whitfield, Lachie",7,7,6,13,1, , , ,2, ,1,5,1,1, ,4,10, ,1,1, , ,85
+2013,17,Greater Western Sydney,Essendon,51 ,"Williams, Zac",7,1,11,18, , , ,4,1, ,3,1,1, , ,10,9,1, ,1, , ,78

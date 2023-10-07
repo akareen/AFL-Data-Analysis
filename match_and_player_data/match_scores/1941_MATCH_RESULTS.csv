@@ -1,0 +1,113 @@
+year,round,venue,date,attendance,home_team,away_team,home_q1_g,home_q2_g,home_q3_g,home_q4_g,home_q1_b,home_q2_b,home_q3_b,home_q4_b,away_q1_g,away_q2_g,away_q3_g,away_q4_g,away_q1_b,away_q2_b,away_q3_b,away_q4_b,home_total_g,home_total_b,home_total_score,away_total_g,away_total_b,away_total_score,winning_team,margin
+1941,1,Princes,26-04-1941,21000,Carlton,Essendon,5,6,2,2,7,1,2,2,3,4,5,3,3,1,3,2,15,12,102,15,9,99,Carlton,3
+1941,1,Victoria,26-04-1941,17500,Collingwood,Richmond,2,3,2,4,5,2,4,0,3,2,6,2,3,7,2,5,11,11,77,13,17,95,Richmond,18
+1941,1,M.C.G.,26-04-1941,14740,Melbourne,Fitzroy,4,4,5,0,3,3,2,4,5,3,4,5,2,1,5,4,13,12,90,17,12,114,Fitzroy,24
+1941,1,Western,26-04-1941,10500,Footscray,Hawthorn,4,0,6,3,6,2,6,1,1,3,0,3,1,6,1,2,13,15,93,7,10,52,Footscray,41
+1941,1,Arden,26-04-1941,8000,North Melbourne,Geelong,3,7,1,4,1,6,2,9,8,1,5,1,6,2,8,1,15,18,108,15,17,107,North Melbourne,1
+1941,1,Junction,26-04-1941,15000,St Kilda,South Melbourne,4,1,5,2,4,1,12,3,2,5,1,4,2,7,0,6,12,20,92,12,15,87,St Kilda,5
+1941,2,Punt,03-05-1941,28000,Richmond,Carlton,2,3,5,3,2,3,1,6,3,6,2,1,4,2,2,0,13,12,90,12,8,80,Richmond,10
+1941,2,Glenferrie,03-05-1941,9000,Hawthorn,Collingwood,2,6,2,3,3,4,4,6,4,4,3,6,6,2,4,4,13,17,95,17,16,118,Collingwood,23
+1941,2,Windy,03-05-1941,13000,Essendon,North Melbourne,1,3,7,11,2,3,2,6,6,4,5,1,4,3,4,1,22,13,145,16,12,108,Essendon,37
+1941,2,Brunswick,03-05-1941,17000,Fitzroy,Footscray,1,6,1,2,3,3,5,4,8,2,4,2,4,4,4,5,10,15,75,16,17,113,Footscray,38
+1941,2,Kardinia,03-05-1941,8500,Geelong,St Kilda,4,3,6,0,4,1,1,3,0,5,3,3,4,3,5,7,13,9,87,11,19,85,Geelong,2
+1941,2,Lake,03-05-1941,12000,South Melbourne,Melbourne,3,3,3,4,4,2,1,8,5,3,2,4,4,6,7,0,13,15,93,14,17,101,Melbourne,8
+1941,3,Princes,10-05-1941,9000,Carlton,Hawthorn,6,3,6,3,4,2,4,2,1,6,0,3,1,3,2,7,18,12,120,10,13,73,Carlton,47
+1941,3,Brunswick,10-05-1941,14000,Fitzroy,Collingwood,5,2,6,2,4,0,1,2,0,7,1,10,4,5,0,6,15,7,97,18,15,123,Collingwood,26
+1941,3,Junction,10-05-1941,19000,St Kilda,Essendon,2,3,2,0,4,4,5,3,5,3,3,5,3,0,2,2,7,16,58,16,7,103,Essendon,45
+1941,3,Western,10-05-1941,15000,Footscray,South Melbourne,3,5,4,4,1,2,1,0,2,2,1,2,3,4,3,6,16,4,100,7,16,58,Footscray,42
+1941,3,Kardinia,10-05-1941,7800,Geelong,Melbourne,2,5,2,4,4,6,3,6,5,2,6,3,1,3,3,5,13,19,97,16,12,108,Melbourne,11
+1941,3,Punt,10-05-1941,13000,Richmond,North Melbourne,5,3,4,6,2,5,5,3,2,5,2,5,3,3,0,5,18,15,123,14,11,95,Richmond,28
+1941,4,Arden,17-05-1941,14000,North Melbourne,Carlton,2,5,1,7,5,2,2,6,3,3,9,1,7,7,4,5,15,15,105,16,23,119,Carlton,14
+1941,4,Victoria,17-05-1941,16000,Collingwood,Footscray,3,4,5,2,4,2,3,2,4,3,4,3,4,1,3,2,14,11,95,14,10,94,Collingwood,1
+1941,4,Windy,17-05-1941,20000,Essendon,Richmond,4,5,4,2,3,6,3,2,4,3,4,3,3,1,1,3,15,14,104,14,8,92,Essendon,12
+1941,4,Lake,17-05-1941,10500,South Melbourne,Fitzroy,2,6,3,4,4,5,5,5,2,3,5,2,4,1,2,3,15,19,109,12,10,82,South Melbourne,27
+1941,4,Glenferrie,17-05-1941,6000,Hawthorn,Geelong,5,4,3,1,5,4,4,3,2,3,2,4,4,5,3,1,13,16,94,11,13,79,Hawthorn,15
+1941,4,M.C.G.,17-05-1941,13082,Melbourne,St Kilda,4,2,2,5,2,3,6,4,3,6,2,2,1,3,3,4,13,15,93,13,11,89,Melbourne,4
+1941,5,Junction,31-05-1941,15000,St Kilda,Carlton,3,5,3,2,0,3,4,5,2,3,2,8,7,1,6,4,13,12,90,15,18,108,Carlton,18
+1941,5,Victoria,31-05-1941,15000,Collingwood,Melbourne,3,4,7,5,1,2,4,6,8,11,3,4,2,5,2,2,19,13,127,26,11,167,Melbourne,40
+1941,5,Glenferrie,31-05-1941,10000,Hawthorn,Essendon,2,5,1,0,4,2,2,4,3,9,8,3,3,2,5,8,8,12,60,23,18,156,Essendon,96
+1941,5,Punt,31-05-1941,13000,Richmond,Fitzroy,6,2,5,4,6,2,7,3,2,4,3,6,1,3,1,3,17,18,120,15,8,98,Richmond,22
+1941,5,Western,31-05-1941,12000,Footscray,North Melbourne,1,3,4,6,3,7,3,8,2,3,3,0,3,0,4,1,14,21,105,8,8,56,Footscray,49
+1941,5,Kardinia,31-05-1941,6000,Geelong,South Melbourne,2,5,2,5,2,7,0,3,3,2,7,1,10,3,8,4,14,12,96,13,25,103,South Melbourne,7
+1941,6,Princes,07-06-1941,18500,Carlton,Collingwood,2,4,6,1,4,7,4,6,1,2,2,6,4,4,3,5,13,21,99,11,16,82,Carlton,17
+1941,6,Lake,07-06-1941,15000,South Melbourne,Essendon,1,3,2,2,4,2,1,6,3,2,6,2,4,4,6,4,8,13,61,13,18,96,Essendon,35
+1941,6,Brunswick,07-06-1941,7000,Fitzroy,Geelong,6,5,3,3,2,2,5,5,2,3,0,5,4,3,6,2,17,14,116,10,15,75,Fitzroy,41
+1941,6,Western,07-06-1941,16000,Footscray,Melbourne,1,11,3,5,2,5,1,4,5,1,5,3,8,5,5,2,20,12,132,14,20,104,Footscray,28
+1941,6,Punt,07-06-1941,8500,Richmond,Hawthorn,3,3,4,7,2,6,3,4,2,2,1,3,4,3,4,3,17,15,117,8,14,62,Richmond,55
+1941,6,Arden,07-06-1941,6500,North Melbourne,St Kilda,3,8,4,2,1,7,2,2,4,0,1,3,2,0,3,9,17,12,114,8,14,62,North Melbourne,52
+1941,7,Victoria,14-06-1941,10000,Collingwood,North Melbourne,5,3,2,7,6,4,4,5,2,3,8,3,3,5,5,2,17,19,121,16,15,111,Collingwood,10
+1941,7,Windy,14-06-1941,14000,Essendon,Fitzroy,1,3,3,2,5,3,9,7,1,0,2,1,2,4,1,5,9,24,78,4,12,36,Essendon,42
+1941,7,Junction,14-06-1941,20000,St Kilda,Footscray,1,3,5,6,4,5,3,2,4,0,4,1,3,2,0,3,15,14,104,9,8,62,St Kilda,42
+1941,7,Kardinia,14-06-1941,7000,Geelong,Richmond,6,1,2,1,6,3,2,3,3,2,4,1,3,5,2,5,10,14,74,10,15,75,Richmond,1
+1941,7,Glenferrie,14-06-1941,7000,Hawthorn,South Melbourne,1,1,3,1,7,4,4,5,2,5,2,4,1,6,2,3,6,20,56,13,12,90,South Melbourne,34
+1941,7,M.C.G.,16-06-1941,28407,Melbourne,Carlton,5,1,5,3,4,4,4,1,2,7,4,6,1,2,2,5,14,13,97,19,10,124,Carlton,27
+1941,8,Princes,21-06-1941,4000,Carlton,Fitzroy,6,1,1,2,8,1,5,3,1,6,2,3,0,8,2,3,10,17,77,12,13,85,Fitzroy,8
+1941,8,Victoria,21-06-1941,6000,Collingwood,Essendon,1,4,1,2,2,4,4,2,2,1,2,2,4,1,4,1,8,12,60,7,10,52,Collingwood,8
+1941,8,Kardinia,21-06-1941,5000,Geelong,Footscray,3,1,4,2,5,5,2,6,2,8,2,1,4,5,1,5,10,18,78,13,15,93,Footscray,15
+1941,8,Glenferrie,21-06-1941,2000,Hawthorn,Melbourne,2,1,1,2,2,2,2,2,3,5,2,2,1,3,4,4,6,8,44,12,12,84,Melbourne,40
+1941,8,Lake,21-06-1941,5000,South Melbourne,North Melbourne,2,1,3,2,5,4,5,2,1,3,0,2,2,2,1,1,8,16,64,6,6,42,South Melbourne,22
+1941,8,Punt,21-06-1941,6000,Richmond,St Kilda,6,2,1,1,6,1,5,1,0,3,1,2,0,6,2,3,10,13,73,6,11,47,Richmond,26
+1941,9,Western,28-06-1941,21000,Footscray,Carlton,4,2,5,1,2,6,2,4,4,4,3,4,3,2,1,5,12,14,86,15,11,101,Carlton,15
+1941,9,Junction,28-06-1941,16000,St Kilda,Collingwood,3,3,2,4,3,3,1,4,5,3,5,3,2,3,3,2,12,11,83,16,10,106,Collingwood,23
+1941,9,Windy,28-06-1941,10000,Essendon,Geelong,2,3,8,5,4,4,2,2,4,2,5,0,3,3,3,4,18,12,120,11,13,79,Essendon,41
+1941,9,Brunswick,28-06-1941,7000,Fitzroy,Hawthorn,3,4,7,7,4,3,5,7,4,1,4,1,8,6,1,5,21,19,145,10,20,80,Fitzroy,65
+1941,9,Arden,28-06-1941,5000,North Melbourne,Melbourne,2,4,4,7,4,2,5,3,9,4,3,4,2,3,3,1,17,14,116,20,9,129,Melbourne,13
+1941,9,Punt,28-06-1941,15000,Richmond,South Melbourne,5,4,3,3,1,7,3,2,1,3,1,4,4,2,5,5,15,13,103,9,16,70,Richmond,33
+1941,10,Princes,05-07-1941,7000,Carlton,Geelong,1,6,1,4,7,7,3,8,5,1,6,1,5,1,4,1,12,25,97,13,11,89,Carlton,8
+1941,10,Victoria,05-07-1941,7500,Collingwood,South Melbourne,1,4,2,3,1,6,3,2,4,2,4,1,2,1,1,9,10,12,72,11,13,79,South Melbourne,7
+1941,10,M.C.G.,05-07-1941,17559,Melbourne,Essendon,3,5,4,4,5,3,3,6,1,2,1,5,4,0,3,4,16,17,113,9,11,65,Melbourne,48
+1941,10,Junction,05-07-1941,7000,St Kilda,Fitzroy,2,4,4,2,1,0,1,2,3,4,3,2,1,2,1,2,12,4,76,12,6,78,Fitzroy,2
+1941,10,Western,05-07-1941,14000,Footscray,Richmond,5,1,3,3,2,3,5,3,5,5,4,0,2,6,1,2,12,13,85,14,11,95,Richmond,10
+1941,10,Arden,05-07-1941,3000,North Melbourne,Hawthorn,1,4,3,5,0,11,3,6,4,0,1,1,6,0,6,2,13,20,98,6,14,50,North Melbourne,48
+1941,11,Lake,12-07-1941,14000,South Melbourne,Carlton,5,3,5,3,1,4,4,4,5,4,4,1,3,0,5,1,16,13,109,14,9,93,South Melbourne,16
+1941,11,Kardinia,12-07-1941,7500,Geelong,Collingwood,2,3,0,2,7,3,2,4,4,3,6,1,3,2,4,3,7,16,58,14,12,96,Collingwood,38
+1941,11,Windy,12-07-1941,15000,Essendon,Footscray,6,2,4,3,8,4,2,0,1,1,4,3,2,5,1,3,15,14,104,9,11,65,Essendon,39
+1941,11,Brunswick,12-07-1941,8000,Fitzroy,North Melbourne,5,4,3,6,1,4,6,4,5,5,4,4,5,6,2,3,18,15,123,18,16,124,North Melbourne,1
+1941,11,Glenferrie,12-07-1941,4000,Hawthorn,St Kilda,5,4,1,3,2,5,2,3,3,0,3,3,5,4,3,3,13,12,90,9,15,69,Hawthorn,21
+1941,11,M.C.G.,12-07-1941,20765,Melbourne,Richmond,3,3,4,4,3,5,7,9,2,2,2,2,1,4,4,4,14,24,108,8,13,61,Melbourne,47
+1941,12,Windy,19-07-1941,14000,Essendon,Carlton,3,3,4,2,5,2,1,3,5,6,1,6,5,3,5,1,12,11,83,18,14,122,Carlton,39
+1941,12,Punt,19-07-1941,15000,Richmond,Collingwood,2,0,5,3,3,1,8,2,4,2,0,7,5,6,1,2,10,14,74,13,14,92,Collingwood,18
+1941,12,Brunswick,19-07-1941,8000,Fitzroy,Melbourne,4,5,3,4,2,0,3,3,3,4,6,5,5,7,4,2,16,8,104,18,18,126,Melbourne,22
+1941,12,Glenferrie,19-07-1941,5000,Hawthorn,Footscray,3,2,2,4,3,6,5,0,3,4,3,5,4,3,3,2,11,14,80,15,12,102,Footscray,22
+1941,12,Kardinia,19-07-1941,4500,Geelong,North Melbourne,4,1,6,2,4,4,4,9,4,3,2,5,4,3,2,2,13,21,99,14,11,95,Geelong,4
+1941,12,Lake,19-07-1941,10000,South Melbourne,St Kilda,3,3,4,4,2,5,3,2,0,3,3,2,2,1,2,1,14,12,96,8,6,54,South Melbourne,42
+1941,13,Princes,26-07-1941,27000,Carlton,Richmond,3,4,4,1,2,4,2,3,4,1,2,4,7,4,3,4,12,11,83,11,18,84,Richmond,1
+1941,13,Victoria,26-07-1941,4000,Collingwood,Hawthorn,7,4,8,3,8,7,3,2,1,5,2,4,2,5,2,4,22,20,152,12,13,85,Collingwood,67
+1941,13,Arden,26-07-1941,10000,North Melbourne,Essendon,2,5,3,2,4,1,4,5,3,5,4,5,1,0,3,4,12,14,86,17,8,110,Essendon,24
+1941,13,Western,26-07-1941,10000,Footscray,Fitzroy,4,4,2,5,5,3,7,5,1,3,3,2,2,1,1,0,15,20,110,9,4,58,Footscray,52
+1941,13,Junction,26-07-1941,4000,St Kilda,Geelong,2,9,1,6,4,4,2,4,1,2,4,4,5,0,7,3,18,14,122,11,15,81,St Kilda,41
+1941,13,M.C.G.,26-07-1941,23110,Melbourne,South Melbourne,5,3,6,4,2,4,5,5,2,2,6,0,4,1,4,4,18,16,124,10,13,73,Melbourne,51
+1941,14,Glenferrie,02-08-1941,7500,Hawthorn,Carlton,3,2,1,5,2,6,0,7,7,2,4,3,5,10,5,5,11,15,81,16,25,121,Carlton,40
+1941,14,Victoria,02-08-1941,9000,Collingwood,Fitzroy,3,3,1,4,4,0,3,2,0,3,3,2,3,3,0,3,11,9,75,8,9,57,Collingwood,18
+1941,14,Windy,02-08-1941,10000,Essendon,St Kilda,2,5,5,4,4,2,6,5,3,1,2,0,2,5,3,3,16,17,113,6,13,49,Essendon,64
+1941,14,Lake,02-08-1941,20000,South Melbourne,Footscray,1,1,2,3,6,1,3,3,2,1,3,4,6,5,5,5,7,13,55,10,21,81,Footscray,26
+1941,14,M.C.G.,02-08-1941,6669,Melbourne,Geelong,1,6,5,7,4,1,2,7,3,2,2,2,6,5,5,2,19,14,128,9,18,72,Melbourne,56
+1941,14,Arden,02-08-1941,10000,North Melbourne,Richmond,2,5,0,2,1,4,2,3,2,2,5,1,5,0,1,1,9,10,64,10,7,67,Richmond,3
+1941,15,Princes,09-08-1941,10000,Carlton,North Melbourne,9,5,4,7,5,2,8,4,4,4,6,3,1,4,1,9,25,19,169,17,15,117,Carlton,52
+1941,15,Western,09-08-1941,16000,Footscray,Collingwood,2,2,1,2,3,3,2,2,2,5,0,3,7,3,4,7,7,10,52,10,21,81,Collingwood,29
+1941,15,Punt,09-08-1941,26000,Richmond,Essendon,8,2,2,2,0,2,5,4,1,3,3,5,2,9,3,2,14,11,95,12,16,88,Richmond,7
+1941,15,Brunswick,09-08-1941,8000,Fitzroy,South Melbourne,3,4,4,5,8,1,4,4,2,6,3,0,3,3,5,3,16,17,113,11,14,80,Fitzroy,33
+1941,15,Kardinia,09-08-1941,4500,Geelong,Hawthorn,6,6,7,3,4,0,5,3,2,7,4,6,4,5,1,5,22,12,144,19,15,129,Geelong,15
+1941,15,Junction,09-08-1941,7000,St Kilda,Melbourne,4,3,3,2,9,0,2,2,3,6,2,3,4,4,6,3,12,13,85,14,17,101,Melbourne,16
+1941,16,Princes,16-08-1941,8000,Carlton,St Kilda,5,4,4,7,7,1,4,5,2,4,2,3,6,4,3,1,20,17,137,11,14,80,Carlton,57
+1941,16,M.C.G.,16-08-1941,30544,Melbourne,Collingwood,3,6,4,4,1,3,1,3,1,4,5,1,8,4,6,3,17,8,110,11,21,87,Melbourne,23
+1941,16,Windy,16-08-1941,7000,Essendon,Hawthorn,7,3,5,4,4,5,4,4,4,4,1,5,2,1,1,5,19,17,131,14,9,93,Essendon,38
+1941,16,Brunswick,16-08-1941,11000,Fitzroy,Richmond,6,3,2,3,5,4,3,3,1,5,2,4,6,3,6,1,14,15,99,12,16,88,Fitzroy,11
+1941,16,Arden,16-08-1941,8000,North Melbourne,Footscray,2,5,3,5,0,5,4,5,3,3,4,1,7,6,4,5,15,14,104,11,22,88,North Melbourne,16
+1941,16,Lake,16-08-1941,4000,South Melbourne,Geelong,3,2,2,3,2,3,3,2,4,4,2,0,2,1,4,2,10,10,70,10,9,69,South Melbourne,1
+1941,17,Victoria,23-08-1941,30000,Collingwood,Carlton,2,1,3,4,1,6,10,4,4,2,1,4,1,8,3,5,10,21,81,11,17,83,Carlton,2
+1941,17,Windy,23-08-1941,9000,Essendon,South Melbourne,2,3,2,5,4,6,8,5,2,0,1,4,1,1,0,2,12,23,95,7,4,46,Essendon,49
+1941,17,Kardinia,23-08-1941,4500,Geelong,Fitzroy,3,2,4,4,2,6,5,3,3,5,2,6,3,6,2,2,13,16,94,16,13,109,Fitzroy,15
+1941,17,M.C.G.,23-08-1941,11232,Melbourne,Footscray,4,5,6,2,4,5,2,9,3,6,3,4,5,1,2,1,17,20,122,16,9,105,Melbourne,17
+1941,17,Glenferrie,23-08-1941,8000,Hawthorn,Richmond,2,4,2,0,4,5,0,3,4,4,6,4,6,3,5,8,8,12,60,18,22,130,Richmond,70
+1941,17,Junction,23-08-1941,6000,St Kilda,North Melbourne,5,3,5,3,6,4,4,4,2,5,8,6,2,4,1,3,16,18,114,21,10,136,North Melbourne,22
+1941,18,Princes,30-08-1941,29000,Carlton,Melbourne,4,3,6,3,4,3,7,3,2,1,3,5,10,7,2,3,16,17,113,11,22,88,Carlton,25
+1941,18,Arden,30-08-1941,5000,North Melbourne,Collingwood,3,1,6,2,3,0,1,4,1,4,3,5,4,8,4,4,12,8,80,13,20,98,Collingwood,18
+1941,18,Brunswick,30-08-1941,11000,Fitzroy,Essendon,1,4,5,5,5,3,2,6,5,5,4,4,3,1,5,5,15,16,106,18,14,122,Essendon,16
+1941,18,Western,30-08-1941,7000,Footscray,St Kilda,3,7,2,4,4,8,0,2,4,1,5,3,2,2,6,7,16,14,110,13,17,95,Footscray,15
+1941,18,Punt,30-08-1941,9000,Richmond,Geelong,3,6,6,5,3,3,1,5,2,5,4,1,5,3,0,3,20,12,132,12,11,83,Richmond,49
+1941,18,Lake,30-08-1941,3000,South Melbourne,Hawthorn,1,2,2,2,3,3,6,0,4,1,3,3,3,8,4,2,7,12,54,11,17,83,Hawthorn,29
+1941,SF,M.C.G.,06-09-1941,59368,Richmond,Essendon,2,5,1,3,4,3,4,4,8,2,3,8,1,3,3,2,11,15,81,21,9,135,Essendon,54
+1941,SF,M.C.G.,13-09-1941,59435,Carlton,Melbourne,2,1,3,5,2,3,4,7,7,2,4,3,5,3,3,2,11,16,82,16,13,109,Melbourne,27
+1941,PF,M.C.G.,20-09-1941,65106,Carlton,Essendon,2,0,2,5,2,4,6,2,2,4,6,1,6,2,4,3,9,14,68,13,15,93,Essendon,25
+1941,GF,M.C.G.,27-09-1941,79687,Melbourne,Essendon,6,5,3,5,6,3,2,2,1,1,4,7,1,5,6,8,19,13,127,13,20,98,Melbourne,29

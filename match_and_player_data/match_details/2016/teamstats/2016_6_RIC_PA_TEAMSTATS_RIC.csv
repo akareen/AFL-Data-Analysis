@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2016,6,Richmond,Port Adelaide,12 ,"Astbury, David",7,4,9,16, , , , ,6, , , ,1, , ,7,9, , ,6, , ,94
+2016,6,Richmond,Port Adelaide,11 ,"Batchelor, Jake",9,4,4,13, , , ,2,5,1, ,2,1,2, ,4,8, , ,6, , ,81
+2016,6,Richmond,Port Adelaide,46 ,"Castagna, Jason",6,2,5,11, , , ,2, ,3, ,2,1,1, ,6,7, , ,2, , ,81
+2016,6,Richmond,Port Adelaide,25 ,"Chaplin, Troy",10,6,5,15, , , ,4,4,1, ,1, , , ,5,10,1, ,1, , ,91
+2016,6,Richmond,Port Adelaide,9 ,"Cotchin, Trent",10, ,9,19, , , ,2, ,6,6,2,1, , ,12,7, , ,1, , ,82
+2016,6,Richmond,Port Adelaide,3 ,"Deledio, Brett",10,2,12,22,1,1, ,6,2,3,1, , , , ,6,16,1,1, ,6, ,72
+2016,6,Richmond,Port Adelaide,10 ,"Edwards, Shane",10,3,17,27, , , ,3,2,6,10,3,2,1, ,17,10,1, ,1, , ,80
+2016,6,Richmond,Port Adelaide,5 ,"Ellis, Brandon",17,9,9,26, ,2, ,5,3,4,1,3, ,1, ,6,20, , ,1,5, ,89
+2016,6,Richmond,Port Adelaide,32 ,"Ellis, Corey",12,3,11,23, , , ,4,5,3,1,2, , , ,7,13, , ,1, ,1,82
+2016,6,Richmond,Port Adelaide,6 ,"Grigg, Shaun",17,4,15,32,2,2,1,6,3,5,9,1,1, ,1,15,17,1,1,1, , ,88
+2016,6,Richmond,Port Adelaide,16 ,"Hampson, Shaun",1,1,6,7, , ,39,2, , ,3,2,1,1, ,5,4, , ,5, ,1,80
+2016,6,Richmond,Port Adelaide,14 ,"Houli, Bachar",19,7,15,34, , , ,3,8,3, ,3, , , ,7,23, , ,4,1, ,93
+2016,6,Richmond,Port Adelaide,23 ,"Lambert, Kane",2, ,2,4, , , ,1,1, ,2, , , , ,2,1, , , , , ,11
+2016,6,Richmond,Port Adelaide,27 ,"Lloyd, Sam",9,2,5,14, ,2, ,3, ,1, ,5,1,1, ,4,9, , ,1, , ,88
+2016,6,Richmond,Port Adelaide,20 ,"Maric, Ivan",3,1,1,4, , ,22,1, ,1,1,3,1,3, ,3,1, , ,1, , ,76
+2016,6,Richmond,Port Adelaide,4 ,"Martin, Dustin",19,5,12,31,1, , ,4,5,7,6,5,2,2, ,16,14, ,1,2, ,1,85
+2016,6,Richmond,Port Adelaide,37 ,"Menadue, Connor",4,2,9,13, , , ,3, , , ,1,2, , ,7,6, , ,1, ,1,85
+2016,6,Richmond,Port Adelaide,26 ,"Miles, Anthony",8,4,14,22, , , ,3, ,2,3,2, ,1, ,8,13, , ,2, , ,77
+2016,6,Richmond,Port Adelaide,38 ,"Morris, Steven",4,2,8,12, , , ,4,1,1, , ,1, , ,6,7, , ,2, , ,86
+2016,6,Richmond,Port Adelaide,8 ,"Riewoldt, Jack",8,5,5,13,3, ,2,1, ,3, ,5, ,2, ,6,8, ,2, , , ,100
+2016,6,Richmond,Port Adelaide,17 ,"Rioli, Daniel",3,2,4,7, , , ,7, ,2, ,4,1,1, ,5,2,1,1, , ,1,90
+2016,6,Richmond,Port Adelaide,29 ,"Vickery, Ty",4,4,8,12,1,1, ,5, ,1,2,1,2,1, ,7,6,2, ,5, ,1,89

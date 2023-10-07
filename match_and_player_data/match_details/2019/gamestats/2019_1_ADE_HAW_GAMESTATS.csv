@@ -1,0 +1,2 @@
+year,round,venue,date,attendance,home_team,away_team,home_q1_g,home_q2_g,home_q3_g,home_q4_g,home_q1_b,home_q2_b,home_q3_b,home_q4_b,away_q1_g,away_q2_g,away_q3_g,away_q4_g,away_q1_b,away_q2_b,away_q3_b,away_q4_b,home_total_g,home_total_b,home_total_score,away_total_g,away_total_b,away_total_score,winning_team,margin
+2019,1,Adelaide,23-03-2019,50180,Adelaide,Hawthorn,1,4,0,2,2,2,2,7,2,4,3,3,4,3,7,1,7,13,55,12,15,87,Hawthorn,32

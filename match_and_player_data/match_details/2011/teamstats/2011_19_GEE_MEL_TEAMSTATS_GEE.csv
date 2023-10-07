@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2011,19,Geelong,Melbourne,3 ,"Bartel, Jimmy",17,6,12,29,2, ,1,5,2,3,2,2,1, , ,9,19,1,1,4, , ,87
+2011,19,Geelong,Melbourne,35 ,"Chapman, Paul",18,6,10,28, , , ,4,1,6,7,3,1,3, ,11,16, , ,3, ,2,80
+2011,19,Geelong,Melbourne,28 ↑,"Christensen, Allen",8,1,7,15,1,1, ,7, ,7,1, , , , ,1,14, , ,2,1,4,43
+2011,19,Geelong,Melbourne,11 ,"Corey, Joel",13,10,22,35,2, ,3,9,1,3,10,2,3,1, ,17,18,2,2,1, ,3,86
+2011,19,Geelong,Melbourne,22 ,"Duncan, Mitch",10,3,17,27,3, , ,1, ,2,1,1,1, , ,6,22, ,1,3, ,2,85
+2011,19,Geelong,Melbourne,44 ,"Enright, Corey",20,16,16,36, , , ,4,4,3,2,2, , ,1,7,27,2,1,6,1, ,86
+2011,19,Geelong,Melbourne,26 ,"Hawkins, Tom",6,5,11,17,5, ,1,3, , , ,7, ,5, ,11,5,2,5,2, , ,92
+2011,19,Geelong,Melbourne,20 ,"Johnson, Steve",21,9,13,34,7,1, ,4, ,6,5,2,2,2,2,13,22,3,6,1,1,10,90
+2011,19,Geelong,Melbourne,9 ,"Kelly, James",16,6,16,32, ,1, ,7,1,4,3,4,2,2, ,7,25, , ,1, , ,77
+2011,19,Geelong,Melbourne,45 ,"Ling, Cameron",11,5,11,22,1,1, ,4, ,6,1, , , , ,6,17, , ,1, ,1,88
+2011,19,Geelong,Melbourne,13 ,"Lonergan, Tom",3,4,7,10, , , ,1,1, , , ,2, , ,5,5, , ,5, , ,86
+2011,19,Geelong,Melbourne,4 ,"Mackie, Andrew",12,3,10,22,1, , ,1,2,5,1,2,1,2, ,8,13,1, ,3,1, ,84
+2011,19,Geelong,Melbourne,39 ,"Milburn, Darren",13,5,14,27, , , ,2,2,2,1,3,2, , ,5,22, , ,4, , ,85
+2011,19,Geelong,Melbourne,21 ,"Mooney, Cameron",9,5,3,12,5,3, ,3, , ,1, , , , ,4,10, ,5,2, , ,92
+2011,19,Geelong,Melbourne,6 ,"Ottens, Brad",2,4,11,13,1, ,28,4, , ,2, , , , ,7,7,1,1,1, , ,84
+2011,19,Geelong,Melbourne,30 ,"Scarlett, Matthew",14,6,8,22, , , ,3,4,2, ,3,1,1, ,7,16,1, ,4,1, ,95
+2011,19,Geelong,Melbourne,14 ,"Selwood, Joel",20,7,23,43,1, ,1,11,2,7,6,4,3,1,3,20,24, ,1, , ,3,84
+2011,19,Geelong,Melbourne,27 ,"Stokes, Mathew",10,5,12,22,3, , ,7, ,1,3,2,1,1, ,8,14, ,1,1, ,1,84
+2011,19,Geelong,Melbourne,7 ↓,"Taylor, Harry",7,2,3,10, , , ,2,2, , ,2, , , ,2,8, , ,2, , ,43
+2011,19,Geelong,Melbourne,5 ,"Varcoe, Travis",10,5,13,23,3,1, ,3,2,7, , ,2, , ,3,21, ,3,2,2,3,78
+2011,19,Geelong,Melbourne,12 ,"West, Trent",7,3,4,11,2, ,17,6, ,4,4,3,2,2, ,5,6, ,1,3, ,1,82
+2011,19,Geelong,Melbourne,40 ,"Wojcinski, David",4,3,16,20, , , , ,1,1,1,2,2,1, ,9,12, , ,7,2, ,90

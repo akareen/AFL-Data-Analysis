@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2008,7,Port Adelaide,Essendon,10 ,"Boak, Travis",13,7,8,21,1, , ,3,1,3,5,3,3,2, ,9,13, ,1, , ,1,87
+2008,7,Port Adelaide,Essendon,20 ,"Brogan, Dean",4,7,7,11,1, ,24,1,1,1, ,2, ,2, ,2,9, , ,3,1,2,76
+2008,7,Port Adelaide,Essendon,7 ,"Burgoyne, Peter",16,7,11,27, , , ,1,3,1,2,5,1,2, ,6,22, , , , , ,89
+2008,7,Port Adelaide,Essendon,8 ,"Burgoyne, Shaun",15,2,12,27,2,1, ,5,2,6,9,4,1,1, ,11,14, ,1,3,3, ,91
+2008,7,Port Adelaide,Essendon,27 ,"Carlile, Alipate",12,11,7,19, , , , ,1, , ,2, ,2, ,3,16, , ,1,1, ,98
+2008,7,Port Adelaide,Essendon,25 ,"Cassisi, Domenic",13,6,7,20,1, , ,3, ,3,4,1,3,1, ,8,12, ,1,2, ,1,89
+2008,7,Port Adelaide,Essendon,30 ,"Chaplin, Troy",9,7,11,20,1, ,1,2,2,2,1,1,1, , ,7,12, , ,1, , ,93
+2008,7,Port Adelaide,Essendon,18 ,"Cornes, Kane",14,8,16,30, , , ,2,1,1,1,7,1,3, ,9,22,2, ,2, , ,84
+2008,7,Port Adelaide,Essendon,33 ,"Ebert, Brett",11,9,3,14,2,3, ,1, ,3, ,1, ,1, ,3,11,2,7, , ,2,87
+2008,7,Port Adelaide,Essendon,17 ,"Gray, Robbie",8,5,2,10,3,1, ,1, ,1,3,2,1,1, ,5,6, ,3, ,1, ,63
+2008,7,Port Adelaide,Essendon,5 ,"Lade, Brendon",7,8,6,13, ,2,20,1,1, ,1,1,1, ,1,6,8,3,2,1, ,2,73
+2008,7,Port Adelaide,Essendon,44 ,"Logan, Tom",16,8,2,18, , , ,1,3, , , , , , ,1,18, , ,1, , ,82
+2008,7,Port Adelaide,Essendon,4 ,"Motlop, Daniel",12,7,2,14,7,2,1,5, ,3,1, ,1, ,2,4,9,1,6, ,1,1,79
+2008,7,Port Adelaide,Essendon,16 ,"Pearce, Danyle",11,4,7,18, , , ,6, ,6,1,1,1, , ,6,11, , ,1,4,3,78
+2008,7,Port Adelaide,Essendon,36 ,"Pettigrew, Michael",6,3,4,10, , , ,2,2,1, ,3, , , ,2,8, , ,1, , ,86
+2008,7,Port Adelaide,Essendon,15 ,"Rodan, David",7,3,6,13,1, , ,1,1,3,5,1,1, , ,5,7, , ,1,5, ,81
+2008,7,Port Adelaide,Essendon,3 ,"Salopek, Steven",21,11,12,33,3,1, ,1,3,11, ,1,1, ,3,6,26, , ,1,4,1,82
+2008,7,Port Adelaide,Essendon,9 ,"Surjan, Jacob",8,5,8,16, , , , , ,4,2,3, ,2, ,3,13, , , ,5, ,79
+2008,7,Port Adelaide,Essendon,6 ,"Thomson, Adam",8,6,10,18, , , ,2, ,4,3,2, ,1, ,5,12, , ,3, ,1,71
+2008,7,Port Adelaide,Essendon,28 ,"Thurstans, Toby",7,6,6,13, , , ,4, ,2, ,2, ,1, ,4,9,2, ,2, , ,87
+2008,7,Port Adelaide,Essendon,1 ,"Tredrea, Warren",6,4,3,9,1,2, ,1,1,2, , , , , ,3,6, ,2,1,1,2,56
+2008,7,Port Adelaide,Essendon,39 ,"Westhoff, Justin",8,4,5,13,1, ,1,4, ,3, ,2,1, , ,4,9,1,2, , , ,90

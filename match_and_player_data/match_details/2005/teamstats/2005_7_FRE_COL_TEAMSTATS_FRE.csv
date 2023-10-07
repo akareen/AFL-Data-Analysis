@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2005,7,Fremantle,Collingwood,32 ,"Bell, Peter",23,9,5,28,2,2, ,4,3,4,3,1,2, ,2,5,23,1,1,2,2,1,91
+2005,7,Fremantle,Collingwood,21 ,"Black, Heath",12,8,15,27,1, , ,1,1,3,1, , , , ,4,24, ,1,1,2,3,89
+2005,7,Fremantle,Collingwood,2 ,"Carr, Josh",24,9,15,39, , ,1,1, ,8,5,4,2, ,1,12,27, , ,1,4,2,93
+2005,7,Fremantle,Collingwood,9 ,"Carr, Matthew",18,4,11,29,2, , , , ,5, , , , , ,8,22, , , ,2, ,86
+2005,7,Fremantle,Collingwood,10 ,"Cook, Troy",9,3,9,18, , , ,3,2,3,2, , , , ,5,13, , ,2,3, ,72
+2005,7,Fremantle,Collingwood,33 ,"Farmer, Jeff",11,4,1,12,1,2, ,2, ,3,2,9,1,4, ,3,9, ,2,1, ,2,88
+2005,7,Fremantle,Collingwood,14 ,"Grover, Antoni",9,3,10,19, , , ,2,3,1,1, , , , ,8,12,1, ,1, , ,97
+2005,7,Fremantle,Collingwood,42 ,"Haddrill, Robert",5,3,2,7, , , , , , , ,1,1,1, ,2,5, , ,3, , ,62
+2005,7,Fremantle,Collingwood,4 ,"Hasleby, Paul",13,3,13,26, , , ,2,2,4,11, ,1, , ,10,17, , ,2,1, ,91
+2005,7,Fremantle,Collingwood,11 ,"Headland, Des",10,11,6,16,5,2, ,3,1,2, ,1,1,1, ,4,12,2,6, , , ,69
+2005,7,Fremantle,Collingwood,37 ,"Johnson, Michael",3,2,4,7, , ,6,2, ,1,1,1,1,1, ,4,3,1, , , , ,59
+2005,7,Fremantle,Collingwood,18 ,"McPharlin, Luke",8,7,1,9,5,1, ,1, , , ,1,1, , ,4,6,1,6,1, ,2,94
+2005,7,Fremantle,Collingwood,34 ,"Medhurst, Paul",16,9,1,17,3,2, , , ,7,1,2, , , ,6,11,1,1,1,1,2,97
+2005,7,Fremantle,Collingwood,16 ,"Mundy, David",9,5,10,19, , , ,1,1,2,2, , , , ,11,7, , ,5, ,1,85
+2005,7,Fremantle,Collingwood,23 ,"Parker, Shane",3,1,6,9, , , , ,4, , ,2, ,2, ,6,3, , , , , ,96
+2005,7,Fremantle,Collingwood,29 ,"Pavlich, Matthew",16,10,5,21,6,2, ,1, ,7, ,3,1,1,3,7,14,1,6,3, ,2,92
+2005,7,Fremantle,Collingwood,31 ,"Sandilands, Aaron",2,1,2,4, , ,41,1,1,1,3, ,2, , ,3,1, , ,5, , ,69
+2005,7,Fremantle,Collingwood,35 ,"Siegert, Andrew",12,7,14,26,2, , ,2,2,3,2, , , , ,9,17,1,1,2,2,1,86
+2005,7,Fremantle,Collingwood,13 ,"Smith, Dylan",4,3,7,11, , , ,2,2, ,1,1, , , ,1,10, , , ,1, ,65
+2005,7,Fremantle,Collingwood,22 ,"Thornton, Scott",7,4,7,14, , , , ,6,1, , , , , ,3,11, , ,1, ,1,84
+2005,7,Fremantle,Collingwood,19 ,"Walker, James",9,2,4,13, , , ,3, ,3,1,2, ,1, ,3,10, , ,1,2, ,51
+2005,7,Fremantle,Collingwood,1 ,"Webster, Luke",7,5,12,19,1, , ,3,2,4,3, , , , ,7,12,1,1,1, ,1,85

@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2023,12,Greater Western Sydney,Richmond,9 ,"Angwin, Ryan",4,3,5,9, , , ,2, ,3,1,2, , , ,4,5, , , ,2, ,78
+2023,12,Greater Western Sydney,Richmond,7 ,"Ash, Lachie",18,4,15,33, , , ,1,3,2, ,4, ,1, ,5,22, , ,2,2, ,77
+2023,12,Greater Western Sydney,Richmond,14 ,"Bedford, Toby",8, ,11,19,1,2, ,9, ,3,4,1,2, , ,12,8, , ,1, ,1,90
+2023,12,Greater Western Sydney,Richmond,32 ,"Briggs, Kieren",6,3,5,11,2,1,30,9,1, ,6,3,1, , ,8,3,1, ,4, , ,78
+2023,12,Greater Western Sydney,Richmond,46 ,"Brown, Callum",7,6,3,10,1, , ,1, ,3,1,1, , , ,2,8, , , , , ,71
+2023,12,Greater Western Sydney,Richmond,44 ,"Buckley, Jack",7,8,6,13, , , ,3,1,1, ,1,1, , ,6,8,2, ,4,2, ,94
+2023,12,Greater Western Sydney,Richmond,5 ,"Cadman, Aaron",2,2, ,2,1, , ,2, , , , , , , ,1,1,1,1, , , ,57
+2023,12,Greater Western Sydney,Richmond,17 ,"Callaghan, Finn",11,2,12,23,1, , ,4,1,7,2,2, , , ,6,17, ,1, , ,3,84
+2023,12,Greater Western Sydney,Richmond,3 ,"Coniglio, Stephen",15,2,8,23, ,1, ,8,1,3,4,3,1, , ,5,16, ,1, , , ,82
+2023,12,Greater Western Sydney,Richmond,16 ↓,"Daniels, Brent",7,1, ,7,1, , ,2, ,4,2, ,1, , ,4,2, ,1,1,1, ,35
+2023,12,Greater Western Sydney,Richmond,34 ↑,"Fahey, Josh",3,1,1,4,1, , , ,1,2, ,3, ,1, ,2,3, , ,1, , ,32
+2023,12,Greater Western Sydney,Richmond,4 ,"Greene, Toby",8,3,6,14,3, , ,3, ,4,1,3,2,1, ,7,7, , ,2, ,1,94
+2023,12,Greater Western Sydney,Richmond,12 ,"Green, Tom",13,6,22,35, , , ,4,2,8,8,8,1,1,2,15,20, ,1, , ,2,87
+2023,12,Greater Western Sydney,Richmond,27 ,"Himmelberg, Harry",15,7,3,18, , ,2,4,7,4,1, ,1, , ,4,10,1, ,2, , ,87
+2023,12,Greater Western Sydney,Richmond,23 ,"Hogan, Jesse",5,4,4,9,1,1, ,1, ,1, ,1, , , ,2,7,1,2, , , ,84
+2023,12,Greater Western Sydney,Richmond,39 ,"Idun, Connor",8,3,9,17, , , ,1,2,1, ,1, , , ,7,9, , ,5,1, ,92
+2023,12,Greater Western Sydney,Richmond,25 ,"Keeffe, Lachlan",5,4,3,8, , , , ,1,1, ,2, ,1, ,2,6,1, ,8, , ,78
+2023,12,Greater Western Sydney,Richmond,38 ,"Lloyd, Daniel",13,3,5,18, ,2, ,3, ,7,1,4,2, , ,10,9, , ,2, , ,82
+2023,12,Greater Western Sydney,Richmond,33 ,"OHalloran, Xavier",9,3,7,16,1,2, ,7,1,4,1,1,1, , ,8,7,1,1,1, , ,89
+2023,12,Greater Western Sydney,Richmond,36 ,"Perryman, Harry",7,2,13,20, , , ,1,2,2,1,3,1,1, ,10,10, , ,4, , ,86
+2023,12,Greater Western Sydney,Richmond,26 ,"Riccardi, Jake",4,2,7,11,1, , ,3, , ,2,3,1, , ,5,6,1,1,1, ,1,78
+2023,12,Greater Western Sydney,Richmond,8 ,"Ward, Callan",20,6,12,32,1,1, ,7,2,7,2,3, ,1, ,7,25, , ,2,2,1,80
+2023,12,Greater Western Sydney,Richmond,6 ,"Whitfield, Lachie",19,6,14,33, , , , ,6,3,1,7, ,3,1,10,18, , ,2, ,1,85

@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2012,4,Port Adelaide,Collingwood,10 ,"Boak, Travis",18,7,13,31, ,1, ,1,3,8,7, , , , ,13,18, , ,1, ,1,78
+2012,4,Port Adelaide,Collingwood,5 ,"Broadbent, Matthew",8,5,7,15, ,1, ,4,1,4,2,4,1,1, ,3,12, , , ,3, ,84
+2012,4,Port Adelaide,Collingwood,32 ,"Butcher, John",5,3,3,8,1, , ,1, ,3, ,1,1, , ,4,4, , ,2,1, ,87
+2012,4,Port Adelaide,Collingwood,27 ,"Carlile, Alipate",7,4,5,12, , , , ,1, ,1,1,1,1, ,6,9, , ,5, , ,87
+2012,4,Port Adelaide,Collingwood,1 ,"Cassisi, Domenic",8,6,15,23, , , ,8,1,2,5,2,2,2, ,13,10, , ,1, , ,77
+2012,4,Port Adelaide,Collingwood,30 ,"Chaplin, Troy",8,4,2,10, , , ,5, , , ,1,2, , ,4,6,1, ,9, , ,95
+2012,4,Port Adelaide,Collingwood,18 ,"Cornes, Kane",19,6,18,37, ,1, ,2,3,5,3,5, ,2,2,6,31,1, ,1,4, ,81
+2012,4,Port Adelaide,Collingwood,7 ,"Ebert, Brad",12,7,9,21,1,2,1,4,1,1,2, , , , ,6,15,1, ,1,1, ,88
+2012,4,Port Adelaide,Collingwood,17 ,"Gray, Robbie",6,4,11,17,2, , ,4, ,3,3,3,3,2, ,8,10,1,2, , ,1,86
+2012,4,Port Adelaide,Collingwood,8 ,"Hartlett, Hamish",14,6,10,24, , , ,6,3,5,3,3,1, , ,10,14, , ,1,1, ,89
+2012,4,Port Adelaide,Collingwood,16 ,"Jacobs, Ben",6,2,15,21, , , ,2, , ,2,1,2, , ,10,11, , ,2, ,1,92
+2012,4,Port Adelaide,Collingwood,35 ,"McCarthy, John",16,6,14,30, , , , ,1,3,2,4, ,4, ,7,25, , ,2, ,1,81
+2012,4,Port Adelaide,Collingwood,6 ,"Pearce, Danyle",16, ,8,24, ,2, ,1,6,8, ,2,1, , ,7,17, , ,2,8,2,88
+2012,4,Port Adelaide,Collingwood,31 ,"Pfeiffer, Darren",8,4,12,20,1, , ,3, ,1,2,1,1,1, ,6,14, ,1,1, , ,78
+2012,4,Port Adelaide,Collingwood,4 ↓,"Renouf, Brent",3,2,5,8, , ,17,2, ,2, ,1,1,1, ,3,3,1, ,2, , ,62
+2012,4,Port Adelaide,Collingwood,28 ,"Schulz, Jay",8,8,2,10,2,1, , , ,2, ,2,1,1, ,5,5,3,3,3, , ,90
+2012,4,Port Adelaide,Collingwood,43 ,"Stewart, Daniel",5,5,6,11,1,2,7, , , ,1,1, , , ,6,6,1,2,3, , ,77
+2012,4,Port Adelaide,Collingwood,14 ,"Stewart, Paul",12,2,5,17,1, , , ,3,2, ,1, , , ,6,11,1, ,3, , ,85
+2012,4,Port Adelaide,Collingwood,9 ,"Surjan, Jacob",10,7,10,20, , , ,4,4,1, ,3, , , ,5,13,1, ,1,4, ,97
+2012,4,Port Adelaide,Collingwood,12 ,"Trengove, Jackson",7,4,8,15, , , ,3, ,2, , ,1, , ,4,11,1, ,5, , ,91
+2012,4,Port Adelaide,Collingwood,39 ,"Westhoff, Justin",9,7,9,18,1, ,1,1, ,2,1,1,1,1, ,6,11, ,1,2, , ,90
+2012,4,Port Adelaide,Collingwood,20 ↑,"Wingard, Chad",2,1,4,6, ,1,1,1,1,1, ,1, ,1, ,1,5, , , , ,1,17

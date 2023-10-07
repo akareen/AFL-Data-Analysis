@@ -1,0 +1,113 @@
+year,round,venue,date,attendance,home_team,away_team,home_q1_g,home_q2_g,home_q3_g,home_q4_g,home_q1_b,home_q2_b,home_q3_b,home_q4_b,away_q1_g,away_q2_g,away_q3_g,away_q4_g,away_q1_b,away_q2_b,away_q3_b,away_q4_b,home_total_g,home_total_b,home_total_score,away_total_g,away_total_b,away_total_score,winning_team,margin
+1929,1,Princes,27-04-1929,7000,Carlton,Essendon,2,4,8,5,6,2,4,5,2,3,2,1,3,3,2,2,19,17,131,8,10,58,Carlton,73
+1929,1,Victoria,27-04-1929,25000,Collingwood,Richmond,4,5,4,2,0,0,0,2,3,1,5,2,1,3,3,2,15,2,92,11,9,75,Collingwood,17
+1929,1,Western,27-04-1929,17000,Footscray,Fitzroy,3,3,3,1,7,0,9,2,1,5,1,3,1,1,1,6,10,18,78,10,9,69,Footscray,9
+1929,1,Arden,27-04-1929,7000,North Melbourne,Geelong,1,3,2,2,2,4,0,0,3,4,2,3,8,1,7,4,8,6,54,12,20,92,Geelong,38
+1929,1,Junction,27-04-1929,13000,St Kilda,Hawthorn,0,5,2,5,1,4,4,1,3,2,2,1,7,1,0,2,12,10,82,8,10,58,St Kilda,24
+1929,1,M.C.G.,27-04-1929,16843,Melbourne,South Melbourne,4,1,5,2,1,2,3,2,1,1,1,4,4,3,5,4,12,8,80,7,16,58,Melbourne,22
+1929,2,Punt,04-05-1929,36000,Richmond,Carlton,4,5,3,4,5,5,3,10,5,4,5,2,6,2,4,1,16,23,119,16,13,109,Richmond,10
+1929,2,Glenferrie,04-05-1929,12000,Hawthorn,Collingwood,3,3,2,3,3,1,1,2,3,3,5,7,3,6,4,5,11,7,73,18,18,126,Collingwood,53
+1929,2,Windy,04-05-1929,20000,Essendon,Footscray,5,7,3,2,4,2,2,2,4,4,4,4,1,2,2,3,17,10,112,16,8,104,Essendon,8
+1929,2,Brunswick,04-05-1929,13000,Fitzroy,North Melbourne,3,8,2,1,8,3,4,8,1,4,0,3,1,2,2,2,14,23,107,8,7,55,Fitzroy,52
+1929,2,Corio,04-05-1929,11000,Geelong,Melbourne,2,5,0,5,1,6,1,7,1,1,1,0,3,0,6,1,12,15,87,3,10,28,Geelong,59
+1929,2,Lake,04-05-1929,21270,South Melbourne,St Kilda,1,2,3,6,1,7,2,7,4,2,3,0,5,0,3,1,12,17,89,9,9,63,South Melbourne,26
+1929,3,Princes,11-05-1929,17000,Carlton,Hawthorn,4,7,0,2,3,8,5,12,1,4,1,3,9,0,3,2,13,28,106,9,14,68,Carlton,38
+1929,3,Victoria,11-05-1929,18000,Collingwood,South Melbourne,6,1,6,6,6,5,4,5,1,0,3,0,2,6,1,5,19,20,134,4,14,38,Collingwood,96
+1929,3,Windy,11-05-1929,25000,Essendon,Richmond,0,5,3,1,2,1,4,2,2,4,5,4,5,5,5,2,9,9,63,15,17,107,Richmond,44
+1929,3,M.C.G.,11-05-1929,18920,Melbourne,Fitzroy,1,5,3,6,2,4,4,7,5,1,3,3,1,0,3,0,15,17,107,12,4,76,Melbourne,31
+1929,3,Western,11-05-1929,15000,Footscray,North Melbourne,1,1,3,3,4,7,2,3,1,2,1,3,3,2,4,2,8,16,64,7,11,53,Footscray,11
+1929,3,Junction,11-05-1929,21000,St Kilda,Geelong,2,2,3,1,5,3,1,0,1,3,0,4,1,7,2,2,8,9,57,8,12,60,Geelong,3
+1929,4,Lake,18-05-1929,25000,South Melbourne,Carlton,2,2,1,4,3,4,6,6,1,6,0,3,6,5,6,2,9,19,73,10,19,79,Carlton,6
+1929,4,Corio,18-05-1929,20499,Geelong,Collingwood,2,2,2,0,4,0,5,4,3,4,1,4,0,6,3,4,6,13,49,12,13,85,Collingwood,36
+1929,4,Glenferrie,18-05-1929,12000,Hawthorn,Essendon,3,2,2,3,0,4,3,3,3,1,3,3,7,2,3,3,10,10,70,10,15,75,Essendon,5
+1929,4,Brunswick,18-05-1929,14000,Fitzroy,St Kilda,6,2,2,2,2,2,1,3,5,1,3,7,10,3,4,4,12,8,80,16,21,117,St Kilda,37
+1929,4,Punt,18-05-1929,22000,Richmond,Footscray,1,7,5,1,5,2,3,9,2,3,4,2,5,2,5,7,14,19,103,11,19,85,Richmond,18
+1929,4,Arden,18-05-1929,9000,North Melbourne,Melbourne,3,2,0,1,1,2,1,1,3,2,5,4,6,3,4,2,6,5,41,14,15,99,Melbourne,58
+1929,5,Princes,25-05-1929,30000,Carlton,Geelong,1,3,1,5,3,7,1,2,3,2,3,0,3,2,0,2,10,13,73,8,7,55,Carlton,18
+1929,5,Victoria,25-05-1929,18000,Collingwood,Fitzroy,5,3,4,4,6,6,4,3,1,3,2,2,2,1,1,7,16,19,115,8,11,59,Collingwood,56
+1929,5,Windy,25-05-1929,15000,Essendon,South Melbourne,1,3,5,1,6,5,4,3,2,1,2,2,2,2,3,3,10,18,78,7,10,52,Essendon,26
+1929,5,Western,25-05-1929,15500,Footscray,Melbourne,0,7,1,2,0,5,3,7,5,1,2,3,5,1,3,0,10,15,75,11,9,75,Match drawn,0
+1929,5,Punt,25-05-1929,14000,Richmond,Hawthorn,1,8,3,4,2,9,3,8,3,5,3,1,1,1,3,0,16,22,118,12,5,77,Richmond,41
+1929,5,Junction,25-05-1929,15000,St Kilda,North Melbourne,6,2,8,2,2,2,7,2,1,3,0,3,3,5,1,4,18,13,121,7,13,55,St Kilda,66
+1929,6,Brunswick,01-06-1929,25000,Fitzroy,Carlton,0,5,4,1,1,3,5,4,4,7,5,4,4,2,4,2,10,13,73,20,12,132,Carlton,59
+1929,6,Arden,01-06-1929,10000,North Melbourne,Collingwood,3,3,3,2,6,0,7,2,6,6,2,6,4,2,1,5,11,15,81,20,12,132,Collingwood,51
+1929,6,Lake,01-06-1929,24000,South Melbourne,Richmond,5,1,1,4,7,5,0,2,3,4,0,3,1,6,7,3,11,14,80,10,17,77,South Melbourne,3
+1929,6,Corio,03-06-1929,13250,Geelong,Essendon,0,4,0,3,1,8,0,4,4,0,4,0,5,3,4,0,7,13,55,8,12,60,Essendon,5
+1929,6,Western,03-06-1929,14000,Footscray,Hawthorn,7,1,7,1,7,0,16,1,2,1,0,4,2,9,0,4,16,24,120,7,15,57,Footscray,63
+1929,6,M.C.G.,03-06-1929,38104,Melbourne,St Kilda,3,1,1,3,4,0,4,5,3,3,2,0,1,4,4,2,8,13,61,8,11,59,Melbourne,2
+1929,7,Princes,15-06-1929,18000,Carlton,North Melbourne,5,3,4,3,4,3,4,6,1,1,3,2,4,3,1,2,15,17,107,7,10,52,Carlton,55
+1929,7,Victoria,15-06-1929,22000,Collingwood,Melbourne,4,4,0,4,1,5,1,4,1,2,4,2,0,2,1,2,12,11,83,9,5,59,Collingwood,24
+1929,7,Windy,15-06-1929,15000,Essendon,Fitzroy,3,6,3,6,6,5,7,7,4,2,2,4,4,1,1,2,18,25,133,12,8,80,Essendon,53
+1929,7,Junction,15-06-1929,20000,St Kilda,Footscray,1,6,3,3,2,2,1,9,3,2,1,2,6,3,2,2,13,14,92,8,13,61,St Kilda,31
+1929,7,Punt,15-06-1929,19000,Richmond,Geelong,7,2,3,1,5,0,4,6,2,4,2,4,2,4,2,5,13,15,93,12,13,85,Richmond,8
+1929,7,Glenferrie,15-06-1929,10000,Hawthorn,South Melbourne,3,5,3,4,2,4,2,0,3,1,4,3,5,2,3,3,15,8,98,11,13,79,Hawthorn,19
+1929,8,M.C.G.,22-06-1929,26591,Melbourne,Carlton,0,2,0,3,3,5,0,4,4,2,4,0,4,4,5,4,5,12,42,10,17,77,Carlton,35
+1929,8,Junction,22-06-1929,27000,St Kilda,Collingwood,2,2,2,1,1,4,2,1,2,1,3,1,2,4,2,4,7,8,50,7,12,54,Collingwood,4
+1929,8,Arden,22-06-1929,9000,North Melbourne,Essendon,1,0,2,1,8,0,4,2,0,6,2,2,4,4,1,3,4,14,38,10,12,72,Essendon,34
+1929,8,Brunswick,22-06-1929,14000,Fitzroy,Richmond,1,7,2,3,0,3,2,3,9,1,7,2,4,3,4,2,13,8,86,19,13,127,Richmond,41
+1929,8,Western,22-06-1929,11000,Footscray,South Melbourne,1,7,2,1,1,3,1,4,0,4,1,3,6,1,2,4,11,9,75,8,13,61,Footscray,14
+1929,8,Corio,22-06-1929,4000,Geelong,Hawthorn,4,1,2,1,1,1,4,2,0,1,0,1,4,5,1,3,8,8,56,2,13,25,Geelong,31
+1929,9,Princes,29-06-1929,32000,Carlton,St Kilda,2,4,2,4,9,5,5,3,1,3,0,3,3,4,5,3,12,22,94,7,15,57,Carlton,37
+1929,9,Victoria,29-06-1929,18000,Collingwood,Footscray,4,4,7,5,5,6,3,5,4,1,2,7,1,5,2,2,20,19,139,14,10,94,Collingwood,45
+1929,9,Windy,29-06-1929,15000,Essendon,Melbourne,1,3,6,1,3,2,2,3,2,3,4,3,1,5,3,1,11,10,76,12,10,82,Melbourne,6
+1929,9,Glenferrie,29-06-1929,10000,Hawthorn,Fitzroy,3,5,1,4,3,5,6,1,5,0,1,2,3,3,1,3,13,15,93,8,10,58,Hawthorn,35
+1929,9,Lake,29-06-1929,12000,South Melbourne,Geelong,6,0,4,0,2,1,7,3,1,6,0,3,2,5,1,7,10,13,73,10,15,75,Geelong,2
+1929,9,Punt,29-06-1929,11000,Richmond,North Melbourne,4,6,7,2,4,5,3,3,4,3,1,3,2,3,1,4,19,15,129,11,10,76,Richmond,53
+1929,10,Victoria,06-07-1929,33000,Collingwood,Carlton,4,7,3,1,1,4,7,3,4,4,3,0,6,1,0,3,15,15,105,11,10,76,Collingwood,29
+1929,10,Junction,06-07-1929,12500,St Kilda,Essendon,1,3,4,1,3,3,2,1,3,0,3,1,2,2,1,1,9,9,63,7,6,48,St Kilda,15
+1929,10,Brunswick,06-07-1929,6000,Fitzroy,South Melbourne,4,2,3,3,4,2,3,5,2,3,4,8,0,5,3,0,12,14,86,17,8,110,South Melbourne,24
+1929,10,Western,06-07-1929,9000,Footscray,Geelong,2,1,3,3,2,3,5,3,4,2,3,0,1,2,1,1,9,13,67,9,5,59,Footscray,8
+1929,10,Arden,06-07-1929,4500,North Melbourne,Hawthorn,3,3,1,1,2,0,1,3,2,1,3,2,2,9,5,2,8,6,54,8,18,66,Hawthorn,12
+1929,10,M.C.G.,06-07-1929,18048,Melbourne,Richmond,2,3,2,3,1,4,1,2,2,3,2,2,3,1,4,3,10,8,68,9,11,65,Melbourne,3
+1929,11,Princes,13-07-1929,20000,Carlton,Footscray,2,3,2,8,5,7,4,4,1,0,4,1,1,2,1,3,15,20,110,6,7,43,Carlton,67
+1929,11,Windy,13-07-1929,17000,Essendon,Collingwood,5,2,2,2,2,1,3,1,1,4,4,4,3,4,1,6,11,7,73,13,14,92,Collingwood,19
+1929,11,Corio,13-07-1929,7500,Geelong,Fitzroy,2,5,4,4,0,2,3,1,3,2,2,3,6,1,2,2,15,6,96,10,11,71,Geelong,25
+1929,11,Glenferrie,13-07-1929,8000,Hawthorn,Melbourne,3,0,2,0,2,2,7,2,2,1,1,3,1,5,0,5,5,13,43,7,11,53,Melbourne,10
+1929,11,Lake,13-07-1929,8000,South Melbourne,North Melbourne,4,4,4,5,3,4,2,5,3,1,4,4,6,0,3,0,17,14,116,12,9,81,South Melbourne,35
+1929,11,Punt,13-07-1929,20000,Richmond,St Kilda,3,1,7,2,1,6,4,2,2,0,3,2,0,2,1,8,13,13,91,7,11,53,Richmond,38
+1929,12,Windy,20-07-1929,22000,Essendon,Carlton,3,3,2,0,0,2,3,2,1,3,2,1,3,5,4,5,8,7,55,7,17,59,Carlton,4
+1929,12,Punt,20-07-1929,33000,Richmond,Collingwood,5,2,2,2,5,0,3,1,3,3,3,7,1,11,2,7,11,9,75,16,21,117,Collingwood,42
+1929,12,Brunswick,20-07-1929,10000,Fitzroy,Footscray,1,3,4,1,5,2,4,4,2,3,4,3,2,5,4,5,9,15,69,12,16,88,Footscray,19
+1929,12,Corio,20-07-1929,7000,Geelong,North Melbourne,4,2,3,2,5,2,7,0,1,2,1,4,1,1,1,3,11,14,80,8,6,54,Geelong,26
+1929,12,Glenferrie,20-07-1929,12000,Hawthorn,St Kilda,0,1,1,5,2,3,2,2,7,3,3,2,6,3,2,1,7,9,51,15,12,102,St Kilda,51
+1929,12,Lake,20-07-1929,15000,South Melbourne,Melbourne,5,1,4,2,3,3,2,2,1,3,4,1,4,3,4,4,12,10,82,9,15,69,South Melbourne,13
+1929,13,Princes,27-07-1929,27000,Carlton,Richmond,3,1,1,3,5,1,3,0,2,3,1,7,1,7,3,4,8,9,57,13,15,93,Richmond,36
+1929,13,Victoria,27-07-1929,7000,Collingwood,Hawthorn,10,2,6,4,2,2,2,4,1,2,2,2,3,5,2,4,22,10,142,7,14,56,Collingwood,86
+1929,13,Western,27-07-1929,14000,Footscray,Essendon,3,2,2,4,3,6,1,1,3,1,3,3,7,4,7,0,11,11,77,10,18,78,Essendon,1
+1929,13,Arden,27-07-1929,5000,North Melbourne,Fitzroy,5,0,3,4,5,1,3,4,4,3,3,5,0,6,4,2,12,13,85,15,12,102,Fitzroy,17
+1929,13,M.C.G.,27-07-1929,12834,Melbourne,Geelong,2,1,2,1,3,3,7,1,3,1,0,2,3,4,3,2,6,14,50,6,12,48,Melbourne,2
+1929,13,Junction,27-07-1929,18500,St Kilda,South Melbourne,3,3,3,6,3,5,0,1,1,1,1,5,2,2,2,2,15,9,99,8,8,56,St Kilda,43
+1929,14,Glenferrie,03-08-1929,6000,Hawthorn,Carlton,2,1,1,1,1,1,1,4,4,1,0,2,2,3,3,0,5,7,37,7,8,50,Carlton,13
+1929,14,Lake,03-08-1929,20000,South Melbourne,Collingwood,2,3,0,1,0,3,1,3,1,1,4,4,2,2,2,4,6,7,43,10,10,70,Collingwood,27
+1929,14,Punt,03-08-1929,22000,Richmond,Essendon,3,3,4,0,4,1,6,3,2,4,1,3,1,5,2,6,10,14,74,10,14,74,Match drawn,0
+1929,14,Brunswick,03-08-1929,8000,Fitzroy,Melbourne,1,1,1,2,3,2,4,2,2,1,6,2,3,2,3,3,5,11,41,11,11,77,Melbourne,36
+1929,14,Arden,03-08-1929,7000,North Melbourne,Footscray,5,0,4,0,4,1,3,0,1,3,0,3,1,1,0,5,9,8,62,7,7,49,North Melbourne,13
+1929,14,Corio,03-08-1929,10500,Geelong,St Kilda,4,1,3,1,0,2,2,2,4,4,2,1,2,2,1,0,9,6,60,11,5,71,St Kilda,11
+1929,15,Princes,10-08-1929,20000,Carlton,South Melbourne,5,2,6,4,7,4,4,2,1,3,3,4,3,4,4,4,17,17,119,11,15,81,Carlton,38
+1929,15,Victoria,10-08-1929,14000,Collingwood,Geelong,2,1,5,5,1,4,3,1,1,5,1,1,6,2,0,4,13,9,87,8,12,60,Collingwood,27
+1929,15,Windy,10-08-1929,11000,Essendon,Hawthorn,5,2,7,1,4,1,5,0,2,3,3,5,2,3,2,7,15,10,100,13,14,92,Essendon,8
+1929,15,Junction,10-08-1929,14500,St Kilda,Fitzroy,5,7,2,7,4,4,1,7,5,1,3,1,4,2,3,6,21,16,142,10,15,75,St Kilda,67
+1929,15,Western,10-08-1929,13000,Footscray,Richmond,1,5,1,4,0,2,1,3,3,4,7,0,6,3,5,1,11,6,72,14,15,99,Richmond,27
+1929,15,M.C.G.,10-08-1929,8436,Melbourne,North Melbourne,3,2,6,4,4,5,1,7,3,1,1,1,8,1,2,3,15,17,107,6,14,50,Melbourne,57
+1929,16,Corio,17-08-1929,10000,Geelong,Carlton,2,0,0,0,5,2,3,3,0,1,1,3,2,4,1,2,2,13,25,5,9,39,Carlton,14
+1929,16,Brunswick,17-08-1929,13000,Fitzroy,Collingwood,1,3,4,0,1,4,1,1,5,3,2,6,4,5,1,5,8,7,55,16,15,111,Collingwood,56
+1929,16,Lake,17-08-1929,15000,South Melbourne,Essendon,2,5,5,2,4,0,2,4,3,3,4,3,2,3,4,1,14,10,94,13,10,88,South Melbourne,6
+1929,16,M.C.G.,17-08-1929,13891,Melbourne,Footscray,0,4,5,2,3,8,3,2,3,1,1,1,1,0,0,4,11,16,82,6,5,41,Melbourne,41
+1929,16,Glenferrie,17-08-1929,12500,Hawthorn,Richmond,1,3,3,1,6,0,2,2,1,4,4,2,3,3,4,4,8,10,58,11,14,80,Richmond,22
+1929,16,Arden,17-08-1929,9000,North Melbourne,St Kilda,3,1,2,3,4,2,1,1,5,5,4,6,5,5,1,1,9,8,62,20,12,132,St Kilda,70
+1929,17,Princes,24-08-1929,13000,Carlton,Fitzroy,2,3,6,4,3,7,5,3,1,3,1,4,5,4,4,2,15,18,108,9,15,69,Carlton,39
+1929,17,Victoria,24-08-1929,6000,Collingwood,North Melbourne,5,3,7,6,3,1,4,4,0,4,2,2,3,6,3,1,21,12,138,8,13,61,Collingwood,77
+1929,17,Windy,24-08-1929,9000,Essendon,Geelong,3,0,1,3,1,4,2,4,2,1,2,1,5,2,5,3,7,11,53,6,15,51,Essendon,2
+1929,17,Glenferrie,24-08-1929,4000,Hawthorn,Footscray,1,3,3,3,3,5,3,6,3,0,2,0,1,0,1,1,10,17,77,5,3,33,Hawthorn,44
+1929,17,Junction,24-08-1929,35000,St Kilda,Melbourne,1,3,2,3,0,4,4,4,2,1,2,1,8,0,5,0,9,12,66,6,13,49,St Kilda,17
+1929,17,Punt,24-08-1929,12000,Richmond,South Melbourne,4,4,6,4,13,4,9,2,1,3,2,4,2,1,1,1,18,28,136,10,5,65,Richmond,71
+1929,18,Arden,31-08-1929,8000,North Melbourne,Carlton,4,0,4,0,5,0,3,0,0,5,0,3,1,5,3,6,8,8,56,8,15,63,Carlton,7
+1929,18,M.C.G.,31-08-1929,41316,Melbourne,Collingwood,1,2,1,1,2,1,3,4,2,2,5,5,4,3,4,1,5,10,40,14,12,96,Collingwood,56
+1929,18,Brunswick,31-08-1929,8500,Fitzroy,Essendon,2,1,2,6,1,6,3,8,3,1,2,1,5,0,5,1,11,18,84,7,11,53,Fitzroy,31
+1929,18,Western,31-08-1929,10000,Footscray,St Kilda,3,0,0,1,8,1,6,3,0,3,3,3,1,9,0,3,4,18,42,9,13,67,St Kilda,25
+1929,18,Corio,31-08-1929,6500,Geelong,Richmond,2,2,2,6,2,4,1,3,1,2,2,0,3,2,6,1,12,10,82,5,12,42,Geelong,40
+1929,18,Lake,31-08-1929,8000,South Melbourne,Hawthorn,6,3,4,0,3,1,3,3,1,8,1,1,1,2,0,2,13,10,88,11,5,71,South Melbourne,17
+1929,SF,M.C.G.,07-09-1929,58481,Carlton,St Kilda,4,1,3,4,5,0,3,1,0,4,3,4,1,3,2,1,12,9,81,11,7,73,Carlton,8
+1929,SF,M.C.G.,14-09-1929,51069,Collingwood,Richmond,2,0,4,2,5,3,5,0,4,5,3,6,2,5,1,7,8,13,61,18,15,123,Richmond,62
+1929,PF,M.C.G.,21-09-1929,60653,Carlton,Richmond,6,1,5,2,1,1,2,3,4,4,3,4,1,5,0,1,14,7,91,15,7,97,Richmond,6
+1929,GF,M.C.G.,28-09-1929,63336,Collingwood,Richmond,6,1,2,2,3,3,0,7,2,1,2,2,0,3,2,3,11,13,79,7,8,50,Collingwood,29

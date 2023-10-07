@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2020,11,Melbourne,North Melbourne,10 ,"Brayshaw, Angus",17,4,12,29,1,1, ,3,3,8,2,2, ,1,1,7,23, , ,2, , ,80
+2020,11,Melbourne,North Melbourne,31 ,"Fritsch, Bayley",11,4,3,14,2,4, ,1,1,3, ,1,2, , ,6,8, ,2,1, ,2,72
+2020,11,Melbourne,North Melbourne,19 ,"Hannan, Mitch",8,4,5,13,1,1, , , ,5, , , , , ,5,8,1, ,2, , ,82
+2020,11,Melbourne,North Melbourne,4 ,"Harmes, James",3,1,5,8, , , ,1,1, , ,5,1,2, ,5,5, , , , , ,78
+2020,11,Melbourne,North Melbourne,14 ,"Hibberd, Michael",12,5,7,19, , , ,2,5, , ,3, ,2, ,5,11,1, , , , ,85
+2020,11,Melbourne,North Melbourne,6 ,"Jackson, Luke",2,1,9,11, , ,5,3, , ,2, , , , ,8,4,1, ,4, , ,69
+2020,11,Melbourne,North Melbourne,2 ,"Jones, Nathan",8,1,5,13, ,1, , , ,3, ,4, ,1, ,4,9, , , , ,2,73
+2020,11,Melbourne,North Melbourne,15 ,"Langdon, Ed",12,4,11,23, , , ,2, ,6,1,3, , , ,5,19, , ,1,2,1,92
+2020,11,Melbourne,North Melbourne,8 ,"Lever, Jake",10,7,2,12, , , ,2,1,2, , ,1, , ,6,6,2, ,8, , ,95
+2020,11,Melbourne,North Melbourne,1 ,"May, Steven",10,4, ,10, , , , ,1,1, ,1, , , ,2,6, , ,3, , ,93
+2020,11,Melbourne,North Melbourne,25 ,"McDonald, Tom",9,3,4,13,1, ,2,7,1,2, ,1,2, , ,6,7, , ,3, , ,84
+2020,11,Melbourne,North Melbourne,18 ,"Melksham, Jake",5,4,2,7,1, , ,2, ,2, , , , , , ,8, ,2,1, ,1,85
+2020,11,Melbourne,North Melbourne,13 ,"Oliver, Clayton",17,3,14,31,1, , ,5,2,8,6,4,1,3,2,12,20, , ,1, ,1,85
+2020,11,Melbourne,North Melbourne,5 ,"Petracca, Christian",13,5,16,29,1,2, ,3,1,3,4,2,3, ,3,17,14, ,2,1,1,1,83
+2020,11,Melbourne,North Melbourne,36 ,"Pickett, Kysaiah",7,3,5,12,1,2, ,3, ,3,1,6, ,2, ,8,4, ,1,1, ,1,84
+2020,11,Melbourne,North Melbourne,24 ,"Rivers, Trent",6,6,8,14, , , , ,2,2, ,1, , , ,4,10,2, ,1, , ,74
+2020,11,Melbourne,North Melbourne,3 ,"Salem, Christian",10,2,8,18, , , ,2,3, , ,4,2,2, ,6,10, , ,1, , ,84
+2020,11,Melbourne,North Melbourne,9 ,"Spargo, Charlie",8,5,4,12,1, , ,1,1,3, ,3,1,2, ,4,9, ,1, , ,1,77
+2020,11,Melbourne,North Melbourne,32 ,"Sparrow, Tom",9,3,8,17,1, , ,4, ,3,1,1, , , ,6,11, , , , , ,67
+2020,11,Melbourne,North Melbourne,20 ,"Tomlinson, Adam",6,2,7,13, , , , ,1,2, ,1, ,1, ,4,10, , ,4, , ,91
+2020,11,Melbourne,North Melbourne,22 ,"Vandenberg, Aaron",6,6,5,11, , , ,3,2,2,1,6, ,2, ,4,8,1, ,3, , ,75
+2020,11,Melbourne,North Melbourne,26 ,"Weideman, Sam",5,5,8,13,2,3, , , , , ,2, ,1, ,6,7,3,5,2, , ,92

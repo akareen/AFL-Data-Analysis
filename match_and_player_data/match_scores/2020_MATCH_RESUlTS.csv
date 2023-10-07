@@ -1,0 +1,163 @@
+year,round,venue,date,attendance,home_team,away_team,home_q1_g,home_q2_g,home_q3_g,home_q4_g,home_q1_b,home_q2_b,home_q3_b,home_q4_b,away_q1_g,away_q2_g,away_q3_g,away_q4_g,away_q1_b,away_q2_b,away_q3_b,away_q4_b,home_total_g,home_total_b,home_total_score,away_total_g,away_total_b,away_total_score,winning_team,margin
+2020,1,M.C.G.,19-03-2020,0,Richmond,Carlton,7,4,3,2,2,1,2,4,2,1,5,4,1,4,2,2,16,9,105,12,9,81,Richmond,24
+2020,1,Docklands,20-03-2020,0,Western Bulldogs,Collingwood,1,3,1,0,0,0,2,2,5,3,2,3,2,4,1,1,5,4,34,13,8,86,Collingwood,52
+2020,1,Docklands,21-03-2020,0,Essendon,Fremantle,5,2,1,1,2,3,3,1,2,1,1,4,1,2,3,3,9,9,63,8,9,57,Essendon,6
+2020,1,Adelaide,21-03-2020,0,Adelaide,Sydney,6,1,2,2,0,1,1,3,3,5,3,0,0,3,1,4,11,5,71,11,8,74,Sydney,3
+2020,1,Carrara,21-03-2020,0,Gold Coast,Port Adelaide,1,2,1,0,1,1,3,0,4,5,0,1,2,4,3,7,4,5,29,10,16,76,Port Adelaide,47
+2020,1,Sydney,21-03-2020,0,Greater Western Sydney,Geelong,5,4,4,4,0,1,2,0,4,2,2,3,2,4,1,0,17,3,105,11,7,73,Greater Western Sydney,32
+2020,1,Docklands,22-03-2020,0,North Melbourne,St Kilda,1,1,4,2,1,1,5,1,3,3,0,1,3,4,4,1,8,8,56,7,12,54,North Melbourne,2
+2020,1,M.C.G.,22-03-2020,0,Hawthorn,Brisbane Lions,3,3,4,4,1,1,0,4,3,1,3,2,3,2,2,1,14,6,90,9,8,62,Hawthorn,28
+2020,1,Perth,22-03-2020,0,West Coast,Melbourne,5,2,4,1,1,2,3,0,0,3,2,2,4,2,3,0,12,6,78,7,9,51,West Coast,27
+2020,2,M.C.G.,11-06-2020,0,Collingwood,Richmond,4,1,0,0,1,2,1,2,0,3,2,0,1,0,1,4,5,6,36,5,6,36,Match drawn,0
+2020,2,Kardinia,12-06-2020,0,Geelong,Hawthorn,5,2,6,4,2,2,2,0,4,2,1,0,1,3,1,0,17,6,108,7,5,47,Geelong,61
+2020,2,Gabba,13-06-2020,0,Brisbane Lions,Fremantle,4,4,3,1,2,0,3,4,3,4,1,2,0,3,2,4,12,9,81,10,9,69,Brisbane Lions,12
+2020,2,Docklands,13-06-2020,0,Carlton,Melbourne,0,2,2,3,0,5,1,5,5,2,1,0,2,2,1,1,7,11,53,8,6,54,Melbourne,1
+2020,2,Adelaide,13-06-2020,2240,Port Adelaide,Adelaide,4,4,6,3,2,2,3,1,2,1,1,1,1,1,1,2,17,8,110,5,5,35,Port Adelaide,75
+2020,2,Carrara,13-06-2020,0,Gold Coast,West Coast,2,4,5,3,0,2,2,2,1,4,1,0,4,1,3,2,14,6,90,6,10,46,Gold Coast,44
+2020,2,Sydney,14-06-2020,350,Greater Western Sydney,North Melbourne,1,1,3,3,4,2,4,2,1,1,4,6,2,4,2,0,8,12,60,12,8,80,North Melbourne,20
+2020,2,S.C.G.,14-06-2020,337,Sydney,Essendon,2,3,4,2,0,3,1,3,5,1,4,2,2,1,3,1,11,7,73,12,7,79,Essendon,6
+2020,2,Docklands,14-06-2020,0,St Kilda,Western Bulldogs,3,4,5,2,1,2,1,0,2,1,2,2,4,0,2,1,14,4,88,7,7,49,St Kilda,39
+2020,3,M.C.G.,18-06-2020,0,Richmond,Hawthorn,0,2,1,2,1,0,2,6,5,2,3,1,3,0,2,0,5,9,39,11,5,71,Hawthorn,32
+2020,3,Docklands,19-06-2020,0,Western Bulldogs,Greater Western Sydney,2,2,3,1,5,1,2,1,1,0,2,1,2,2,1,4,8,9,57,4,9,33,Western Bulldogs,24
+2020,3,Docklands,20-06-2020,0,North Melbourne,Sydney,2,1,2,3,3,6,2,1,2,3,5,0,1,2,5,3,8,12,60,10,11,71,Sydney,11
+2020,3,M.C.G.,20-06-2020,0,Collingwood,St Kilda,5,5,1,1,3,1,3,2,2,2,1,0,1,1,4,1,12,9,81,5,7,37,Collingwood,44
+2020,3,Kardinia,20-06-2020,0,Geelong,Carlton,1,3,2,5,2,4,1,4,5,4,3,0,3,2,1,1,11,11,77,12,7,79,Carlton,2
+2020,3,Gabba,20-06-2020,1965,Brisbane Lions,West Coast,1,1,5,3,2,4,3,5,2,1,2,1,1,3,0,4,10,14,74,6,8,44,Brisbane Lions,30
+2020,3,Carrara,21-06-2020,1997,Gold Coast,Adelaide,2,4,4,2,7,0,1,2,0,1,0,3,0,2,2,1,12,10,82,4,5,29,Gold Coast,53
+2020,3,Carrara,21-06-2020,180,Fremantle,Port Adelaide,4,0,1,1,1,0,1,3,3,5,1,1,1,4,2,3,6,5,41,10,10,70,Port Adelaide,29
+2020,4,S.C.G.,25-06-2020,605,Sydney,Western Bulldogs,0,1,1,3,1,2,5,1,3,3,1,3,2,1,1,3,5,9,39,10,7,67,Western Bulldogs,28
+2020,4,Sydney,26-06-2020,487,Greater Western Sydney,Collingwood,1,3,4,2,3,1,2,0,2,2,4,1,2,2,1,5,10,6,66,9,10,64,Greater Western Sydney,2
+2020,4,Carrara,27-06-2020,450,Port Adelaide,West Coast,4,2,4,3,4,3,4,0,1,1,3,1,2,2,0,1,13,11,89,6,5,41,Port Adelaide,48
+2020,4,Docklands,27-06-2020,0,St Kilda,Richmond,5,3,4,3,2,0,0,1,4,2,3,1,1,2,2,2,15,3,93,10,7,67,St Kilda,26
+2020,4,M.C.G.,27-06-2020,0,Essendon,Carlton,2,2,2,2,1,0,1,1,3,2,0,2,0,3,5,2,8,3,51,7,10,52,Carlton,1
+2020,4,Carrara,27-06-2020,5106,Gold Coast,Fremantle,2,5,1,2,0,0,2,2,3,3,2,0,0,0,2,1,10,4,64,8,3,51,Gold Coast,13
+2020,4,Gabba,28-06-2020,7354,Brisbane Lions,Adelaide,3,4,0,3,3,7,5,8,1,1,4,1,0,0,3,1,10,23,83,7,4,46,Brisbane Lions,37
+2020,4,M.C.G.,28-06-2020,0,Melbourne,Geelong,0,2,1,3,1,2,2,3,2,0,4,1,1,1,2,1,6,8,44,7,5,47,Geelong,3
+2020,4,Docklands,28-06-2020,0,Hawthorn,North Melbourne,2,3,2,1,3,3,0,4,2,2,0,4,1,2,0,3,8,10,58,8,6,54,Hawthorn,4
+2020,5,Docklands,02-07-2020,0,Carlton,St Kilda,1,1,3,3,1,3,2,1,4,3,2,2,3,1,1,2,8,7,55,11,7,73,St Kilda,18
+2020,5,M.C.G.,03-07-2020,0,Collingwood,Essendon,3,0,0,4,0,1,4,1,3,2,3,2,0,0,2,1,7,6,48,10,3,63,Essendon,15
+2020,5,Carrara,04-07-2020,2238,West Coast,Sydney,3,2,3,3,1,3,5,2,3,1,1,1,3,2,1,1,11,11,77,6,7,43,West Coast,34
+2020,5,Kardinia,04-07-2020,0,Geelong,Gold Coast,4,1,5,3,3,3,1,4,1,4,3,0,1,1,2,0,13,11,89,8,4,52,Geelong,37
+2020,5,Docklands,04-07-2020,0,Western Bulldogs,North Melbourne,2,3,5,3,2,3,1,3,1,1,1,2,2,1,2,3,13,9,87,5,8,38,Western Bulldogs,49
+2020,5,Gabba,04-07-2020,10161,Brisbane Lions,Port Adelaide,2,6,3,1,1,5,5,2,1,1,2,2,6,1,3,2,12,13,85,6,12,48,Brisbane Lions,37
+2020,5,Carrara,05-07-2020,418,Adelaide,Fremantle,0,1,3,0,3,3,2,2,3,1,1,3,0,1,2,3,4,10,34,8,6,54,Fremantle,20
+2020,5,M.C.G.,05-07-2020,0,Melbourne,Richmond,3,0,2,3,1,1,0,2,3,4,2,3,2,1,4,0,8,4,52,12,7,79,Richmond,27
+2020,5,Sydney,05-07-2020,5674,Greater Western Sydney,Hawthorn,4,1,6,2,1,1,1,2,0,3,4,0,2,2,2,1,13,5,83,7,7,49,Greater Western Sydney,34
+2020,6,S.C.G.,09-07-2020,1311,Geelong,Brisbane Lions,1,2,7,1,4,0,3,0,1,3,0,2,6,2,1,1,11,7,73,6,10,46,Geelong,27
+2020,6,Sydney,10-07-2020,1772,Collingwood,Hawthorn,5,1,1,1,1,4,3,3,1,1,0,1,0,1,1,7,8,11,59,3,9,27,Collingwood,32
+2020,6,Carrara,11-07-2020,638,Fremantle,St Kilda,1,5,3,3,2,2,3,0,7,1,0,3,2,3,0,2,12,7,79,11,7,73,Fremantle,6
+2020,6,Gabba,11-07-2020,210,West Coast,Adelaide,2,2,4,2,3,1,3,0,1,1,1,2,1,0,2,1,10,7,67,5,4,34,West Coast,33
+2020,6,Sydney,11-07-2020,250,Melbourne,Gold Coast,2,4,2,4,1,4,3,0,3,2,3,1,2,2,1,4,12,8,80,9,9,63,Melbourne,17
+2020,6,Carrara,11-07-2020,4271,Essendon,North Melbourne,2,3,3,1,5,6,0,2,3,1,2,1,4,3,4,0,9,13,67,7,11,53,Essendon,14
+2020,6,Carrara,12-07-2020,368,Port Adelaide,Greater Western Sydney,1,3,1,4,2,2,2,3,0,2,2,2,1,4,4,1,9,9,63,6,10,46,Port Adelaide,17
+2020,6,Gabba,12-07-2020,3606,Richmond,Sydney,3,0,1,0,3,2,2,3,1,1,0,1,3,0,2,3,4,10,34,3,8,26,Richmond,8
+2020,6,Carrara,12-07-2020,2178,Carlton,Western Bulldogs,5,3,2,6,2,3,1,1,2,3,2,0,1,1,4,3,16,7,103,7,9,51,Carlton,52
+2020,7,Perth,16-07-2020,22077,Geelong,Collingwood,1,0,2,2,1,2,2,0,2,2,1,3,2,1,4,2,5,5,35,8,9,57,Collingwood,22
+2020,7,Carrara,17-07-2020,4949,Essendon,Western Bulldogs,3,1,0,3,3,0,3,3,4,2,5,3,1,3,3,2,7,9,51,14,9,93,Western Bulldogs,42
+2020,7,Sydney,18-07-2020,3168,Greater Western Sydney,Brisbane Lions,2,2,4,2,3,1,1,3,4,3,3,3,4,1,1,4,10,8,68,13,10,88,Brisbane Lions,20
+2020,7,S.C.G.,18-07-2020,6000,Sydney,Gold Coast,2,3,4,0,1,2,0,3,2,4,4,3,3,4,6,1,9,6,60,13,14,92,Gold Coast,32
+2020,7,Carrara,18-07-2020,4337,Richmond,North Melbourne,4,2,3,2,3,2,2,4,0,2,0,0,0,3,3,5,11,11,77,2,11,23,Richmond,54
+2020,7,Gabba,19-07-2020,3510,Carlton,Port Adelaide,4,1,1,3,2,2,2,1,4,2,1,2,1,3,2,4,9,7,61,9,10,64,Port Adelaide,3
+2020,7,Sydney,19-07-2020,750,Hawthorn,Melbourne,1,1,2,3,2,1,3,0,3,4,4,3,2,1,3,1,7,6,48,14,7,91,Melbourne,43
+2020,7,Perth,19-07-2020,25306,Fremantle,West Coast,2,2,0,1,0,1,0,1,2,4,2,1,2,2,3,1,5,2,32,9,8,62,West Coast,30
+2020,7,Adelaide,20-07-2020,13579,Adelaide,St Kilda,1,3,1,3,2,0,4,1,3,4,1,4,2,2,0,2,8,7,55,12,6,78,St Kilda,23
+2020,8,Carrara,23-07-2020,4039,Gold Coast,Western Bulldogs,2,1,2,1,1,3,2,4,2,1,2,2,3,3,2,1,6,10,46,7,9,51,Western Bulldogs,5
+2020,8,Sydney,24-07-2020,5500,Greater Western Sydney,Richmond,3,2,3,1,4,0,2,2,2,1,3,0,6,3,1,4,9,8,62,6,14,50,Greater Western Sydney,12
+2020,8,Gabba,25-07-2020,3655,North Melbourne,Carlton,1,4,3,1,2,0,0,1,5,2,1,1,1,1,5,3,9,3,57,9,10,64,Carlton,7
+2020,8,S.C.G.,25-07-2020,4264,Sydney,Hawthorn,2,3,3,1,1,0,1,4,3,2,1,1,3,0,3,5,9,6,60,7,11,53,Sydney,7
+2020,8,Adelaide,25-07-2020,16727,Port Adelaide,St Kilda,2,2,2,0,1,3,2,2,1,4,2,5,1,0,0,0,6,8,44,12,1,73,St Kilda,29
+2020,8,Adelaide,26-07-2020,15155,Adelaide,Essendon,2,2,3,1,1,2,2,6,2,3,3,1,1,3,1,3,8,11,59,9,8,62,Essendon,3
+2020,8,Perth,26-07-2020,24824,West Coast,Collingwood,2,5,6,5,0,2,0,1,4,1,0,1,2,1,3,3,18,3,111,6,9,45,West Coast,66
+2020,8,Carrara,26-07-2020,3011,Melbourne,Brisbane Lions,2,1,1,3,2,1,3,1,2,3,2,0,2,3,1,5,7,7,49,7,11,53,Brisbane Lions,4
+2020,8,Perth,27-07-2020,20251,Fremantle,Geelong,0,0,1,1,2,1,0,1,1,1,1,3,2,7,0,3,2,4,16,6,12,48,Geelong,32
+2020,9,Carrara,29-07-2020,2824,Western Bulldogs,Richmond,1,2,1,3,1,4,2,0,4,6,1,2,3,1,6,2,7,7,49,13,12,90,Richmond,41
+2020,9,Gabba,30-07-2020,323,Melbourne,Port Adelaide,0,1,2,1,2,1,2,3,3,3,4,2,2,4,3,2,4,8,32,12,11,83,Port Adelaide,51
+2020,9,Perth,31-07-2020,12304,Carlton,Hawthorn,5,1,1,2,1,1,2,0,2,6,3,3,0,3,1,1,9,4,58,14,5,89,Hawthorn,31
+2020,9,Carrara,31-07-2020,4860,Essendon,Brisbane Lions,1,1,1,0,3,0,1,6,5,0,5,4,3,2,1,1,3,10,28,14,7,91,Brisbane Lions,63
+2020,9,Carrara,01-08-2020,522,North Melbourne,Adelaide,4,5,3,7,1,0,1,3,0,3,3,1,2,1,4,1,19,5,119,7,8,50,North Melbourne,69
+2020,9,Gabba,01-08-2020,2978,St Kilda,Sydney,3,4,2,6,3,1,2,5,2,1,2,1,1,5,4,2,15,11,101,6,12,48,St Kilda,53
+2020,9,Perth,01-08-2020,26211,West Coast,Geelong,3,1,3,4,0,2,4,1,4,3,2,1,0,0,2,2,11,7,73,10,4,64,West Coast,9
+2020,9,Carrara,02-08-2020,4363,Gold Coast,Greater Western Sydney,0,2,0,2,3,1,3,4,2,2,1,4,4,1,2,0,4,11,35,9,7,61,Greater Western Sydney,26
+2020,9,Perth,02-08-2020,20912,Fremantle,Collingwood,0,4,2,4,0,1,0,0,1,1,4,1,2,2,1,2,10,1,61,7,7,49,Fremantle,12
+2020,10,Adelaide,03-08-2020,14159,Port Adelaide,Western Bulldogs,1,2,4,1,2,0,3,2,2,1,0,2,5,0,1,6,8,7,55,5,12,42,Port Adelaide,13
+2020,10,Carrara,04-08-2020,5651,Richmond,Brisbane Lions,3,5,1,3,3,2,1,4,2,1,0,1,3,5,7,2,12,10,82,4,17,41,Richmond,41
+2020,10,Gabba,05-08-2020,2282,Geelong,North Melbourne,4,1,3,5,2,6,3,1,3,0,2,4,1,1,0,1,13,12,90,9,3,57,Geelong,33
+2020,10,Adelaide,05-08-2020,12022,Adelaide,Melbourne,2,2,0,1,4,1,2,0,3,2,1,7,2,2,3,3,5,7,37,13,10,88,Melbourne,51
+2020,10,Gabba,06-08-2020,4146,Collingwood,Sydney,0,2,3,1,6,4,1,3,1,4,0,1,0,0,2,3,6,14,50,6,5,41,Collingwood,9
+2020,10,Carrara,06-08-2020,3095,Gold Coast,St Kilda,2,4,2,3,1,4,2,1,3,3,3,3,2,0,2,2,11,8,74,12,6,78,St Kilda,4
+2020,10,Carrara,07-08-2020,1178,Essendon,Greater Western Sydney,0,6,1,1,2,1,2,2,0,2,2,4,2,3,2,4,8,7,55,8,11,59,Greater Western Sydney,4
+2020,11,Adelaide,08-08-2020,10256,Port Adelaide,Richmond,4,4,2,3,4,2,5,4,3,4,4,0,3,0,3,0,13,15,93,11,6,72,Port Adelaide,21
+2020,11,Gabba,08-08-2020,11061,Brisbane Lions,Western Bulldogs,3,6,4,1,4,4,2,2,3,2,3,3,1,1,0,4,14,12,96,11,6,72,Brisbane Lions,24
+2020,11,Perth,09-08-2020,19092,West Coast,Carlton,2,1,5,3,2,1,1,2,2,3,1,1,0,4,1,3,11,6,72,7,8,50,West Coast,22
+2020,11,Adelaide,09-08-2020,2172,Melbourne,North Melbourne,1,3,3,6,4,3,1,6,3,1,1,0,2,0,2,1,13,14,92,5,5,35,Melbourne,57
+2020,11,Gabba,10-08-2020,3903,St Kilda,Geelong,2,2,0,0,1,5,2,2,2,5,4,3,4,1,2,2,4,10,34,14,9,93,Geelong,59
+2020,11,Perth,10-08-2020,18512,Fremantle,Hawthorn,3,1,3,0,1,3,0,2,1,1,0,2,1,3,2,2,7,6,48,4,8,32,Fremantle,16
+2020,11,Adelaide,11-08-2020,8577,Adelaide,Collingwood,2,1,0,2,1,3,4,0,1,1,5,3,0,1,0,1,5,8,38,10,2,62,Collingwood,24
+2020,11,Carrara,12-08-2020,4303,Gold Coast,Essendon,3,4,2,2,1,3,1,2,1,3,3,4,3,0,2,2,11,7,73,11,7,73,Match drawn,0
+2020,12,Perth,13-08-2020,6464,Sydney,Greater Western Sydney,3,2,1,4,1,1,3,1,0,1,1,1,1,2,3,1,10,6,66,3,7,25,Sydney,41
+2020,12,Carrara,14-08-2020,3378,Geelong,Port Adelaide,2,2,3,7,3,0,4,0,0,1,2,1,1,5,1,0,14,7,91,4,7,31,Geelong,60
+2020,12,Carrara,15-08-2020,2722,North Melbourne,Brisbane Lions,1,2,1,4,3,0,0,1,1,2,2,2,5,1,3,2,8,4,52,7,11,53,Brisbane Lions,1
+2020,12,Gabba,15-08-2020,5338,Melbourne,Collingwood,3,7,2,4,3,1,0,0,1,4,1,0,1,1,4,2,16,4,100,6,8,44,Melbourne,56
+2020,12,Perth,15-08-2020,24114,Fremantle,Carlton,3,1,1,0,2,1,1,2,0,2,2,1,1,2,5,2,5,6,36,5,10,40,Carlton,4
+2020,12,Carrara,16-08-2020,613,Western Bulldogs,Adelaide,6,2,4,4,3,5,4,3,4,1,0,3,1,2,2,1,16,15,111,8,6,54,Western Bulldogs,57
+2020,12,Gabba,16-08-2020,4686,St Kilda,Essendon,4,3,2,1,4,1,0,3,1,1,2,1,0,0,1,2,10,8,68,5,3,33,St Kilda,35
+2020,12,Perth,16-08-2020,22870,West Coast,Hawthorn,3,3,5,1,4,1,2,2,0,2,3,2,0,3,3,1,12,9,81,7,7,49,West Coast,32
+2020,12,Gabba,17-08-2020,4062,Richmond,Gold Coast,2,0,3,3,1,1,0,3,2,1,0,1,1,5,2,0,8,5,53,4,8,32,Richmond,21
+2020,13,Marrara,21-08-2020,5172,Gold Coast,Carlton,0,2,1,1,0,0,2,1,1,4,1,1,4,3,4,7,4,3,27,7,18,60,Carlton,33
+2020,13,Carrara,22-08-2020,1765,Western Bulldogs,Melbourne,2,2,6,2,4,0,1,3,1,4,0,2,3,2,3,2,12,8,80,7,10,52,Western Bulldogs,28
+2020,13,Adelaide,22-08-2020,11740,Port Adelaide,Hawthorn,2,4,1,2,3,2,5,4,4,1,3,1,1,1,2,0,9,14,68,9,4,58,Port Adelaide,10
+2020,13,Marrara,22-08-2020,5401,Essendon,Richmond,1,2,3,4,1,0,0,0,1,2,4,3,5,3,2,3,10,1,61,10,13,73,Richmond,12
+2020,13,Perth,22-08-2020,24714,Fremantle,Sydney,1,3,1,2,1,3,3,1,1,0,0,1,2,2,0,3,7,8,50,2,7,19,Fremantle,31
+2020,13,Adelaide,23-08-2020,10431,Adelaide,Geelong,1,2,2,0,3,1,2,1,3,1,2,3,2,3,4,2,5,7,37,9,11,65,Geelong,28
+2020,13,Gabba,23-08-2020,13750,Brisbane Lions,St Kilda,2,1,3,0,5,1,7,1,1,2,3,1,0,2,1,3,6,14,50,7,6,48,Brisbane Lions,2
+2020,13,Perth,23-08-2020,27339,West Coast,Greater Western Sydney,4,1,3,1,3,1,3,0,0,1,2,4,1,5,0,1,9,7,61,7,7,49,West Coast,12
+2020,13,Gabba,24-08-2020,2443,Collingwood,North Melbourne,1,3,4,2,2,1,0,2,2,1,2,0,1,3,1,0,10,5,65,5,5,35,Collingwood,30
+2020,14,Adelaide,27-08-2020,4973,Hawthorn,Essendon,3,4,1,2,4,6,0,1,1,1,5,6,3,1,3,2,10,11,71,13,9,87,Essendon,16
+2020,14,Carrara,27-08-2020,3628,Richmond,West Coast,1,4,6,3,1,1,0,2,1,3,4,1,0,2,4,1,14,4,88,9,7,61,Richmond,27
+2020,14,Carrara,28-08-2020,2156,Western Bulldogs,Geelong,6,0,1,2,3,3,1,0,0,3,2,5,3,3,3,3,9,7,61,10,12,72,Geelong,11
+2020,14,Adelaide,29-08-2020,11801,Port Adelaide,Sydney,4,4,0,3,3,0,1,3,3,0,2,2,1,0,3,1,11,7,73,7,5,47,Port Adelaide,26
+2020,14,Perth,29-08-2020,24406,Fremantle,Greater Western Sydney,1,1,3,3,1,2,0,2,4,2,5,3,2,2,3,0,8,5,53,14,7,91,Greater Western Sydney,38
+2020,14,Traeger,29-08-2020,1917,Melbourne,St Kilda,4,1,2,1,0,1,2,1,1,3,2,1,3,2,1,1,8,4,52,7,7,49,Melbourne,3
+2020,14,Gabba,30-08-2020,9033,Carlton,Collingwood,2,5,0,0,0,2,2,2,2,3,1,4,2,4,2,4,7,6,48,10,12,72,Collingwood,24
+2020,14,Carrara,30-08-2020,3353,Gold Coast,North Melbourne,3,4,1,4,4,4,6,5,2,2,0,0,1,0,3,0,12,19,91,4,4,28,Gold Coast,63
+2020,15,Adelaide,01-09-2020,6191,Hawthorn,Adelaide,1,3,2,1,3,0,2,1,2,4,3,3,4,2,3,2,7,6,48,12,11,83,Adelaide,35
+2020,15,Gabba,01-09-2020,1932,West Coast,Essendon,4,3,2,0,1,2,2,1,1,3,1,1,4,1,3,1,9,6,60,6,9,45,West Coast,15
+2020,15,Carrara,02-09-2020,1818,Richmond,Fremantle,2,2,0,4,2,1,1,4,1,0,2,1,0,2,2,1,8,8,56,4,5,29,Richmond,27
+2020,15,Cazaly's,03-09-2020,3199,Sydney,Melbourne,2,5,0,3,0,2,2,3,2,0,1,3,3,1,3,3,10,7,67,6,10,46,Sydney,21
+2020,15,Carrara,03-09-2020,1469,Greater Western Sydney,Carlton,1,0,1,4,5,4,2,1,4,0,1,0,0,3,5,1,6,12,48,5,9,39,Greater Western Sydney,9
+2020,15,Gabba,04-09-2020,15036,Brisbane Lions,Collingwood,0,5,1,0,2,1,2,1,1,1,1,2,1,2,0,1,6,6,42,5,4,34,Brisbane Lions,8
+2020,16,Carrara,05-09-2020,592,North Melbourne,Port Adelaide,1,1,2,2,2,0,2,2,4,0,6,1,2,3,3,4,6,6,42,11,12,78,Port Adelaide,36
+2020,16,Carrara,06-09-2020,2740,St Kilda,Hawthorn,4,1,2,4,4,4,5,1,5,0,1,3,1,4,1,6,11,14,80,9,12,66,St Kilda,14
+2020,16,Gabba,06-09-2020,5011,Geelong,Essendon,6,6,2,3,2,1,1,2,1,1,1,2,2,2,4,4,17,6,108,5,12,42,Geelong,66
+2020,16,Carrara,06-09-2020,532,Western Bulldogs,West Coast,0,3,1,2,3,5,2,3,4,0,1,2,1,1,1,2,6,13,49,7,5,47,Western Bulldogs,2
+2020,16,Cazaly's,07-09-2020,3279,Melbourne,Fremantle,0,1,1,2,1,2,1,5,1,0,3,2,6,3,0,2,4,9,33,6,11,47,Fremantle,14
+2020,16,Adelaide,08-09-2020,12436,Adelaide,Greater Western Sydney,3,0,5,0,3,4,0,4,1,2,3,1,1,2,0,2,8,11,59,7,5,47,Adelaide,12
+2020,16,Carrara,08-09-2020,1580,Carlton,Sydney,0,4,2,2,4,0,5,0,3,4,1,0,0,2,1,1,8,9,57,8,4,52,Carlton,5
+2020,16,Gabba,09-09-2020,11292,Brisbane Lions,Gold Coast,5,3,3,2,4,2,4,0,1,3,1,1,0,3,2,2,13,10,88,6,7,43,Brisbane Lions,45
+2020,17,Gabba,10-09-2020,1925,St Kilda,West Coast,3,0,0,3,5,0,4,5,2,3,0,4,1,5,3,2,6,14,50,9,11,65,West Coast,15
+2020,17,Carrara,11-09-2020,7061,Geelong,Richmond,0,1,0,3,3,1,1,2,2,1,2,2,5,0,8,2,4,7,31,7,15,57,Richmond,26
+2020,17,Carrara,12-09-2020,308,North Melbourne,Fremantle,1,1,1,2,0,2,2,1,3,4,4,4,3,1,2,3,5,5,35,15,9,99,Fremantle,64
+2020,17,Adelaide,12-09-2020,17482,Port Adelaide,Essendon,1,5,1,4,2,5,6,0,2,0,1,1,1,2,0,2,11,13,79,4,5,29,Port Adelaide,50
+2020,17,Gabba,12-09-2020,1204,Greater Western Sydney,Melbourne,2,5,3,1,3,2,2,1,5,2,2,3,2,3,1,1,11,8,74,12,7,79,Melbourne,5
+2020,17,Carrara,13-09-2020,2735,Carlton,Adelaide,0,1,3,4,2,1,2,3,5,3,0,2,3,2,3,4,8,8,56,10,12,72,Adelaide,16
+2020,17,Adelaide,13-09-2020,2625,Hawthorn,Western Bulldogs,1,0,4,1,1,1,1,1,4,3,2,2,1,5,1,3,6,4,40,11,10,76,Western Bulldogs,36
+2020,17,Cazaly's,13-09-2020,3700,Sydney,Brisbane Lions,2,0,1,3,0,0,3,2,1,2,2,6,1,2,1,3,6,5,41,11,7,73,Brisbane Lions,32
+2020,17,Gabba,14-09-2020,2896,Collingwood,Gold Coast,2,2,3,3,2,3,0,3,3,0,2,1,1,4,1,4,10,8,68,6,10,46,Collingwood,22
+2020,18,Carrara,17-09-2020,724,North Melbourne,West Coast,2,0,1,1,4,2,4,0,0,3,1,3,0,1,3,3,4,10,34,7,7,49,West Coast,15
+2020,18,Gabba,18-09-2020,1528,St Kilda,Greater Western Sydney,3,2,3,4,3,2,4,1,1,2,0,0,5,3,2,2,12,10,82,3,12,30,St Kilda,52
+2020,18,Carrara,19-09-2020,2175,Essendon,Melbourne,2,0,1,4,0,2,1,4,1,5,1,3,4,2,1,1,7,7,49,10,8,68,Melbourne,19
+2020,18,Adelaide,19-09-2020,17710,Adelaide,Richmond,2,0,1,1,2,2,1,4,3,2,4,3,0,0,5,0,4,9,33,12,5,77,Richmond,44
+2020,18,Gabba,19-09-2020,14563,Brisbane Lions,Carlton,3,5,1,2,2,3,2,5,4,0,2,4,0,1,0,0,11,12,78,10,1,61,Brisbane Lions,17
+2020,18,Adelaide,20-09-2020,2136,Hawthorn,Gold Coast,7,2,4,4,1,2,3,0,1,2,2,3,1,4,0,4,17,6,108,8,9,57,Hawthorn,51
+2020,18,Carrara,20-09-2020,2798,Sydney,Geelong,5,0,2,2,4,4,1,0,4,0,3,3,1,2,4,2,9,9,63,10,9,69,Geelong,6
+2020,18,Cazaly's,20-09-2020,3114,Fremantle,Western Bulldogs,2,3,1,0,2,2,1,3,2,5,1,3,3,1,4,0,6,8,44,11,8,74,Western Bulldogs,30
+2020,18,Gabba,21-09-2020,5424,Collingwood,Port Adelaide,2,2,2,1,0,0,1,2,2,3,3,1,2,1,4,0,7,3,45,9,7,61,Port Adelaide,16
+2020,QF,Adelaide,01-10-2020,22755,Port Adelaide,Geelong,2,2,3,2,1,1,2,0,1,2,1,1,4,3,1,4,9,4,58,5,12,42,Port Adelaide,16
+2020,QF,Gabba,02-10-2020,22104,Brisbane Lions,Richmond,3,4,2,1,1,1,4,3,4,1,1,2,1,0,2,3,10,9,69,8,6,54,Brisbane Lions,15
+2020,EF,Gabba,03-10-2020,10561,St Kilda,Western Bulldogs,2,3,4,1,2,2,2,1,3,1,1,4,1,2,3,4,10,7,67,9,10,64,St Kilda,3
+2020,EF,Perth,03-10-2020,32865,West Coast,Collingwood,1,4,2,4,2,2,2,3,4,2,3,3,0,1,3,0,11,9,75,12,4,76,Collingwood,1
+2020,SF,Carrara,09-10-2020,13778,Richmond,St Kilda,5,4,1,2,1,0,3,4,2,1,2,1,2,4,5,2,12,8,80,6,13,49,Richmond,31
+2020,SF,Gabba,10-10-2020,21396,Geelong,Collingwood,4,5,0,6,4,2,2,2,1,0,0,4,0,0,1,1,15,10,100,5,2,32,Geelong,68
+2020,PF,Adelaide,16-10-2020,24292,Port Adelaide,Richmond,2,1,1,2,3,0,1,0,2,1,1,2,1,2,3,4,6,4,40,6,10,46,Richmond,6
+2020,PF,Gabba,17-10-2020,29121,Brisbane Lions,Geelong,2,2,1,1,0,3,2,1,2,2,3,4,5,3,3,5,6,6,42,11,16,82,Geelong,40
+2020,GF,Gabba,24-10-2020,29707,Richmond,Geelong,2,1,4,5,1,1,2,5,2,3,1,1,2,3,3,0,12,9,81,7,8,50,Richmond,31

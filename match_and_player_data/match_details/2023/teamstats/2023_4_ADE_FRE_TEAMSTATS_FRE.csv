@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2023,4,Fremantle,Adelaide,11 ,"Aish, James",7,1,10,17, , , ,5, ,3,3,2,1,1, ,6,11, , , , , ,88
+2023,4,Fremantle,Adelaide,24 ,"Amiss, Jye",4,2,4,8,1,2, ,1, , , ,2,1, , ,3,4,1,1,1, , ,72
+2023,4,Fremantle,Adelaide,41 ,"Banfield, Bailey",8,2,5,13,2,1, , , ,3, , ,1, , ,5,8, ,1,2,1, ,83
+2023,4,Fremantle,Adelaide,8 ,"Brayshaw, Andrew",13,2,18,31, , , ,7,2,5,5,3,2,1, ,12,18, , ,1,1, ,82
+2023,4,Fremantle,Adelaide,6 ,"Clark, Jordan",10,3,8,18, , , ,6,3,4,1,3,3,2, ,7,9,1, ,2,1,1,82
+2023,4,Fremantle,Adelaide,36 ,"Cox, Brennan",10,7,4,14, , , ,2,3,1, ,2, ,1, ,6,8,3, ,12, , ,93
+2023,4,Fremantle,Adelaide,4 ,"Darcy, Sean",7,3,10,17, , ,38,2, ,3,4,2,2,2, ,10,8,1, ,3, , ,84
+2023,4,Fremantle,Adelaide,23 ,"Henry, Liam",9,4,4,13,1, , ,2,1,1, ,2,1,2, ,2,12, , , , , ,82
+2023,4,Fremantle,Adelaide,15 ,"Hughes, Ethan",7,1,12,19,1, , ,2,2,3,1,2,3, , ,4,14, , ,2, , ,84
+2023,4,Fremantle,Adelaide,9 ,"Jackson, Luke",6,3,8,14,1,1,8,4,1,1,3,1, , , ,7,7,2,1,2, , ,82
+2023,4,Fremantle,Adelaide,44 ↑,"Johnson, Matthew",2, ,3,5, , , ,1,1, ,2, , , , ,5, , , , , , ,29
+2023,4,Fremantle,Adelaide,30 ↓,"ODriscoll, Nathan",3, ,2,5, , , ,2,1,1, , , , , ,2,3, , ,2, , ,52
+2023,4,Fremantle,Adelaide,2 ,"OMeara, Jaeger",7,2,12,19, , , ,4, ,2,9,1, ,1, ,12,8, , , , , ,61
+2023,4,Fremantle,Adelaide,25 ,"Pearce, Alex",6,3,5,11, , , , ,5, , ,5,1, , ,5,5, , ,6, , ,95
+2023,4,Fremantle,Adelaide,13 ,"Ryan, Luke",18,6,4,22, , , ,4,7,2,1,1,3,1, ,6,10, , ,3, , ,84
+2023,4,Fremantle,Adelaide,5 ,"Schultz, Lachie",8,5,4,12,2, , ,6, ,2,1,2,1,1, ,3,9, ,2,1, ,2,77
+2023,4,Fremantle,Adelaide,3 ,"Serong, Caleb",14,2,14,28, ,1, ,7,1,4,10,5,4,1,1,16,14, , ,1, ,1,82
+2023,4,Fremantle,Adelaide,39 ,"Switkowski, Sam",2, ,9,11, , , ,5, ,3,2, , , , ,4,8, , ,3, , ,76
+2023,4,Fremantle,Adelaide,20 ,"Taberner, Matthew",5,5,4,9,2, , ,1, ,2, ,3, ,3, ,2,7,1,1,2, , ,83
+2023,4,Fremantle,Adelaide,31 ,"Walker, Brandon",7,2,5,12, , , , ,3,1, ,5,1,2, ,5,7, , ,4, , ,75
+2023,4,Fremantle,Adelaide,10 ,"Walters, Michael",6, ,3,9, ,2, ,1, ,2, ,7,2,3, ,7,2, , , ,1,1,85
+2023,4,Fremantle,Adelaide,14 ,"Wilson, Nathan",10,2, ,10, , , ,1,2,4,1,1,2, , ,4,5,1, ,2, , ,82
+2023,4,Fremantle,Adelaide,26 ,"Young, Hayden",10,6,7,17, , , ,4,1,4,1,1, , , ,4,12,1, ,3, , ,88

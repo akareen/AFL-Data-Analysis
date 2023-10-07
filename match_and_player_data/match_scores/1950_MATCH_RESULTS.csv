@@ -1,0 +1,113 @@
+year,round,venue,date,attendance,home_team,away_team,home_q1_g,home_q2_g,home_q3_g,home_q4_g,home_q1_b,home_q2_b,home_q3_b,home_q4_b,away_q1_g,away_q2_g,away_q3_g,away_q4_g,away_q1_b,away_q2_b,away_q3_b,away_q4_b,home_total_g,home_total_b,home_total_score,away_total_g,away_total_b,away_total_score,winning_team,margin
+1950,1,M.C.G.,22-04-1950,33077,Melbourne,Carlton,4,3,2,4,1,10,1,1,2,3,3,2,5,0,4,2,13,13,91,10,11,71,Melbourne,20
+1950,1,Lake,22-04-1950,20000,South Melbourne,Collingwood,5,2,2,5,3,2,3,4,0,4,5,2,2,3,3,2,14,12,96,11,10,76,South Melbourne,20
+1950,1,Brunswick,22-04-1950,20000,Fitzroy,Essendon,3,2,3,1,1,1,4,4,2,4,2,1,6,4,3,3,9,10,64,9,16,70,Essendon,6
+1950,1,Western,22-04-1950,13500,Footscray,St Kilda,1,2,5,1,7,3,7,3,2,4,2,4,5,3,0,3,9,20,74,12,11,83,St Kilda,9
+1950,1,Glenferrie,22-04-1950,10000,Hawthorn,Geelong,1,0,0,3,2,6,3,4,6,2,9,1,5,3,1,2,4,15,39,18,11,119,Geelong,80
+1950,1,Arden,22-04-1950,20000,North Melbourne,Richmond,2,4,2,3,1,3,1,3,5,2,1,1,3,0,6,1,11,8,74,9,10,64,North Melbourne,10
+1950,2,Princes,29-04-1950,30500,Carlton,North Melbourne,4,6,6,2,5,5,2,6,7,5,2,2,3,2,5,4,18,18,126,16,14,110,Carlton,16
+1950,2,Victoria,29-04-1950,22300,Collingwood,Fitzroy,6,4,1,5,4,4,3,0,2,2,1,4,3,0,5,3,16,11,107,9,11,65,Collingwood,42
+1950,2,Windy,29-04-1950,22000,Essendon,South Melbourne,7,6,4,12,1,2,1,3,3,3,2,2,5,5,4,2,29,7,181,10,16,76,Essendon,105
+1950,2,Kardinia,29-04-1950,20200,Geelong,Footscray,2,7,6,3,2,10,0,5,5,1,3,4,7,1,2,4,18,17,125,13,14,92,Geelong,33
+1950,2,Junction,29-04-1950,10000,St Kilda,Hawthorn,4,6,5,5,12,1,9,2,0,4,0,1,1,1,1,2,20,24,144,5,5,35,St Kilda,109
+1950,2,Punt,29-04-1950,25000,Richmond,Melbourne,2,3,2,3,1,4,2,5,2,2,3,3,5,3,3,2,10,12,72,10,13,73,Melbourne,1
+1950,3,Victoria,06-05-1950,30000,Collingwood,Carlton,1,2,2,3,9,5,5,3,1,3,4,4,1,2,3,3,8,22,70,12,9,81,Carlton,11
+1950,3,Kardinia,06-05-1950,23000,Geelong,Essendon,0,2,4,2,3,6,3,4,2,5,7,4,2,0,4,5,8,16,64,18,11,119,Essendon,55
+1950,3,Punt,06-05-1950,17000,Richmond,Fitzroy,3,1,4,1,5,3,4,3,0,4,0,4,2,4,2,3,9,15,69,8,11,59,Richmond,10
+1950,3,Western,06-05-1950,10000,Footscray,Hawthorn,3,5,1,4,6,5,5,8,1,1,1,1,2,1,2,4,13,24,102,4,9,33,Footscray,69
+1950,3,Arden,06-05-1950,18000,North Melbourne,Melbourne,4,3,3,2,4,3,1,3,3,1,1,2,5,6,2,4,12,11,83,7,17,59,North Melbourne,24
+1950,3,Lake,06-05-1950,20000,South Melbourne,St Kilda,4,2,3,2,5,5,3,2,6,2,1,6,0,4,1,8,11,15,81,15,13,103,St Kilda,22
+1950,4,Princes,13-05-1950,29000,Carlton,Richmond,3,2,7,5,6,7,1,1,6,1,6,3,5,1,2,2,17,15,117,16,10,106,Carlton,11
+1950,4,Glenferrie,13-05-1950,9000,Hawthorn,Collingwood,2,3,1,0,1,3,5,3,3,1,1,2,7,8,5,5,6,12,48,7,25,67,Collingwood,19
+1950,4,Windy,13-05-1950,18000,Essendon,Footscray,6,7,5,3,2,1,3,3,2,1,1,5,4,2,1,3,21,9,135,9,10,64,Essendon,71
+1950,4,Brunswick,13-05-1950,12500,Fitzroy,South Melbourne,3,4,5,4,7,6,4,10,3,2,2,1,1,2,4,2,16,27,123,8,9,57,Fitzroy,66
+1950,4,M.C.G.,13-05-1950,22894,Melbourne,Geelong,1,3,2,4,1,4,1,1,4,1,3,1,3,2,5,6,10,7,67,9,16,70,Geelong,3
+1950,4,Junction,13-05-1950,30000,St Kilda,North Melbourne,5,6,0,1,4,0,2,2,2,3,3,2,2,3,6,7,12,8,80,10,18,78,St Kilda,2
+1950,5,Junction,20-05-1950,47000,St Kilda,Carlton,0,5,2,3,4,6,1,3,2,1,2,3,4,0,1,2,10,14,74,8,7,55,St Kilda,19
+1950,5,Kardinia,20-05-1950,23000,Geelong,Collingwood,2,3,0,5,3,5,7,4,4,6,1,1,2,0,4,2,10,19,79,12,8,80,Collingwood,1
+1950,5,Punt,20-05-1950,33000,Richmond,Essendon,5,1,2,2,6,7,1,4,3,6,4,4,0,1,6,1,10,18,78,17,8,110,Essendon,32
+1950,5,Brunswick,20-05-1950,8500,Fitzroy,Hawthorn,3,6,4,6,3,4,4,4,0,1,1,2,5,8,5,6,19,15,129,4,24,48,Fitzroy,81
+1950,5,Western,20-05-1950,12500,Footscray,Melbourne,2,6,3,2,3,3,0,5,5,4,4,3,5,0,4,0,13,11,89,16,9,105,Melbourne,16
+1950,5,Arden,20-05-1950,14000,North Melbourne,South Melbourne,3,2,7,2,4,3,0,5,2,3,6,3,3,4,1,1,14,12,96,14,9,93,North Melbourne,3
+1950,6,Princes,27-05-1950,16500,Carlton,Footscray,5,4,3,4,6,3,2,2,3,6,4,3,1,3,3,3,16,13,109,16,10,106,Carlton,3
+1950,6,Victoria,27-05-1950,24000,Collingwood,Richmond,4,2,5,3,7,3,3,1,3,3,5,5,1,3,1,6,14,14,98,16,11,107,Richmond,9
+1950,6,Arden,27-05-1950,25000,North Melbourne,Essendon,2,4,3,4,1,2,2,3,4,1,5,1,3,0,1,1,13,8,86,11,5,71,North Melbourne,15
+1950,6,M.C.G.,27-05-1950,21311,Melbourne,Fitzroy,1,5,2,5,6,1,5,5,1,3,0,2,3,1,4,0,13,17,95,6,8,44,Melbourne,51
+1950,6,Kardinia,27-05-1950,24000,Geelong,St Kilda,4,6,4,6,4,2,4,5,3,0,2,0,1,5,1,4,20,15,135,5,11,41,Geelong,94
+1950,6,Lake,27-05-1950,9500,South Melbourne,Hawthorn,4,2,9,5,7,2,1,4,1,1,4,4,1,6,1,6,20,14,134,10,14,74,South Melbourne,60
+1950,7,Lake,03-06-1950,22000,South Melbourne,Carlton,1,3,1,4,2,5,4,3,0,3,5,3,3,0,3,2,9,14,68,11,8,74,Carlton,6
+1950,7,Western,03-06-1950,19000,Footscray,Collingwood,4,1,3,2,4,1,2,0,2,5,5,7,8,10,4,3,10,7,67,19,25,139,Collingwood,72
+1950,7,Windy,03-06-1950,27000,Essendon,St Kilda,1,6,6,6,6,1,2,4,5,0,3,1,2,2,2,3,19,13,127,9,9,63,Essendon,64
+1950,7,Brunswick,03-06-1950,14000,Fitzroy,North Melbourne,1,2,1,3,0,4,2,1,3,4,2,4,8,2,0,5,7,7,49,13,15,93,North Melbourne,44
+1950,7,Punt,03-06-1950,26000,Richmond,Geelong,2,1,6,3,5,0,1,1,2,5,0,2,2,5,4,9,12,7,79,9,20,74,Richmond,5
+1950,7,Glenferrie,03-06-1950,8000,Hawthorn,Melbourne,1,2,1,2,2,4,2,4,2,4,3,5,4,4,2,2,6,12,48,14,12,96,Melbourne,48
+1950,8,Princes,10-06-1950,46500,Carlton,Essendon,2,4,3,2,1,1,1,2,2,5,2,1,5,6,2,3,11,5,71,10,16,76,Essendon,5
+1950,8,Western,10-06-1950,13000,Footscray,South Melbourne,2,7,6,4,4,1,5,1,2,5,2,0,3,0,1,4,19,11,125,9,8,62,Footscray,63
+1950,8,Glenferrie,10-06-1950,14000,Hawthorn,Richmond,1,2,3,3,2,1,1,3,3,4,2,5,1,3,4,1,9,7,61,14,9,93,Richmond,32
+1950,8,M.C.G.,12-06-1950,55002,Melbourne,Collingwood,5,2,4,5,2,2,5,0,2,2,1,3,4,2,0,5,16,9,105,8,11,59,Melbourne,46
+1950,8,Junction,12-06-1950,22000,St Kilda,Fitzroy,3,4,4,3,2,5,2,8,2,3,6,3,7,4,1,0,14,17,101,14,12,96,St Kilda,5
+1950,8,Arden,12-06-1950,30000,North Melbourne,Geelong,3,3,2,2,4,2,7,4,2,4,1,1,2,5,0,5,10,17,77,8,12,60,North Melbourne,17
+1950,9,Kardinia,17-06-1950,23500,Geelong,Carlton,4,4,4,1,5,4,8,3,1,4,4,6,2,5,0,2,13,20,98,15,9,99,Carlton,1
+1950,9,Victoria,17-06-1950,24500,Collingwood,North Melbourne,3,2,2,2,1,6,2,3,4,2,3,5,4,3,3,4,9,12,66,14,14,98,North Melbourne,32
+1950,9,Windy,17-06-1950,14000,Essendon,Hawthorn,4,5,5,8,4,2,3,6,1,2,2,4,1,0,3,3,22,15,147,9,7,61,Essendon,86
+1950,9,Brunswick,17-06-1950,13000,Fitzroy,Footscray,1,2,5,3,3,5,5,5,2,2,0,2,6,0,3,6,11,18,84,6,15,51,Fitzroy,33
+1950,9,Lake,17-06-1950,16000,South Melbourne,Melbourne,0,2,2,4,3,6,2,1,3,1,5,4,7,1,4,4,8,12,60,13,16,94,Melbourne,34
+1950,9,Punt,17-06-1950,28000,Richmond,St Kilda,2,7,5,0,4,3,3,3,3,2,4,1,2,3,3,3,14,13,97,10,11,71,Richmond,26
+1950,10,Glenferrie,24-06-1950,10000,Hawthorn,Carlton,4,3,6,3,5,2,6,2,4,6,1,5,3,2,8,7,16,15,111,16,20,116,Carlton,5
+1950,10,Victoria,24-06-1950,17500,Collingwood,St Kilda,4,3,3,5,1,3,2,6,1,3,4,1,3,5,3,3,15,12,102,9,14,68,Collingwood,34
+1950,10,M.C.G.,24-06-1950,55682,Melbourne,Essendon,3,1,2,2,7,3,3,2,2,3,3,2,2,5,3,2,8,15,63,10,12,72,Essendon,9
+1950,10,Brunswick,24-06-1950,12000,Fitzroy,Geelong,1,1,2,3,1,5,1,4,3,2,1,3,5,3,4,7,7,11,53,9,19,73,Geelong,20
+1950,10,Western,24-06-1950,17300,Footscray,North Melbourne,4,3,2,4,5,3,3,1,3,5,2,2,3,3,7,9,13,12,90,12,22,94,North Melbourne,4
+1950,10,Lake,24-06-1950,15500,South Melbourne,Richmond,2,4,1,7,3,5,5,4,3,3,3,4,2,1,4,1,14,17,101,13,8,86,South Melbourne,15
+1950,11,Princes,01-07-1950,19000,Carlton,Fitzroy,2,1,1,6,4,5,3,1,4,4,3,4,2,3,1,2,10,13,73,15,8,98,Fitzroy,25
+1950,11,Windy,01-07-1950,22000,Essendon,Collingwood,4,2,3,3,5,5,5,3,2,1,1,2,2,3,6,1,12,18,90,6,12,48,Essendon,42
+1950,11,Punt,01-07-1950,17000,Richmond,Footscray,5,1,5,4,3,4,8,3,2,3,2,1,1,8,3,2,15,18,108,8,14,62,Richmond,46
+1950,11,Kardinia,01-07-1950,16500,Geelong,South Melbourne,4,5,8,2,10,0,6,5,1,1,1,5,1,3,1,2,19,21,135,8,7,55,Geelong,80
+1950,11,Arden,01-07-1950,10000,North Melbourne,Hawthorn,1,7,0,6,2,4,2,8,1,0,1,0,6,0,6,1,14,16,100,2,13,25,North Melbourne,75
+1950,11,Junction,01-07-1950,23000,St Kilda,Melbourne,1,1,4,0,9,4,3,1,0,6,0,3,2,3,5,3,6,17,53,9,13,67,Melbourne,14
+1950,12,Princes,08-07-1950,21500,Carlton,Melbourne,1,5,0,2,4,6,2,3,4,0,5,1,4,0,9,1,8,15,63,10,14,74,Melbourne,11
+1950,12,Victoria,08-07-1950,14500,Collingwood,South Melbourne,4,3,4,5,5,2,10,4,3,2,0,4,5,8,4,3,16,21,117,9,20,74,Collingwood,43
+1950,12,Windy,08-07-1950,19000,Essendon,Fitzroy,2,5,4,1,5,5,3,4,2,2,1,4,1,3,2,1,12,17,89,9,7,61,Essendon,28
+1950,12,Junction,08-07-1950,14000,St Kilda,Footscray,1,3,1,3,3,2,3,3,4,1,3,3,2,1,4,3,8,11,59,11,10,76,Footscray,17
+1950,12,Kardinia,08-07-1950,13000,Geelong,Hawthorn,3,5,5,3,5,4,2,4,0,0,1,3,2,4,3,3,16,15,111,4,12,36,Geelong,75
+1950,12,Punt,08-07-1950,23000,Richmond,North Melbourne,3,3,2,2,2,3,2,3,0,2,3,3,3,3,3,0,10,10,70,8,9,57,Richmond,13
+1950,13,Arden,15-07-1950,25000,North Melbourne,Carlton,3,1,3,5,3,6,3,6,3,2,3,3,6,3,4,1,12,18,90,11,14,80,North Melbourne,10
+1950,13,Brunswick,15-07-1950,17000,Fitzroy,Collingwood,5,6,4,1,4,2,1,5,0,6,4,2,6,3,1,3,16,12,108,12,13,85,Fitzroy,23
+1950,13,Lake,15-07-1950,16000,South Melbourne,Essendon,4,1,0,3,5,2,2,0,6,4,7,5,4,4,5,4,8,9,57,22,17,149,Essendon,92
+1950,13,Western,15-07-1950,16000,Footscray,Geelong,2,3,1,5,3,6,0,1,2,2,5,1,6,3,5,5,11,10,76,10,19,79,Geelong,3
+1950,13,Glenferrie,15-07-1950,9000,Hawthorn,St Kilda,3,1,3,3,3,4,3,1,2,5,4,1,3,2,3,4,10,11,71,12,12,84,St Kilda,13
+1950,13,M.C.G.,15-07-1950,37000,Melbourne,Richmond,3,3,2,5,2,8,3,3,5,0,2,2,3,2,4,1,13,16,94,9,10,64,Melbourne,30
+1950,14,Windy,22-07-1950,18000,Essendon,Geelong,1,1,1,5,4,5,2,3,1,1,2,2,4,2,3,0,8,14,62,6,9,45,Essendon,17
+1950,14,Brunswick,22-07-1950,14000,Fitzroy,Richmond,0,2,4,0,4,1,5,0,0,4,0,1,3,3,0,0,6,10,46,5,6,36,Fitzroy,10
+1950,14,M.C.G.,22-07-1950,34665,Melbourne,North Melbourne,1,0,3,0,1,2,2,3,3,1,2,1,3,3,4,3,4,8,32,7,13,55,North Melbourne,23
+1950,14,Princes,29-07-1950,30500,Carlton,Collingwood,5,4,2,1,3,1,2,1,5,1,5,6,4,4,3,3,12,7,79,17,14,116,Collingwood,37
+1950,14,Glenferrie,29-07-1950,9000,Hawthorn,Footscray,3,4,1,3,3,1,4,4,3,2,5,1,2,3,7,2,11,12,78,11,14,80,Footscray,2
+1950,14,Junction,29-07-1950,18000,St Kilda,South Melbourne,3,2,1,4,1,7,6,4,1,4,4,4,1,2,3,4,10,18,78,13,10,88,South Melbourne,10
+1950,15,Punt,05-08-1950,18000,Richmond,Carlton,3,6,1,4,3,8,3,6,4,0,2,3,4,1,7,4,14,20,104,9,16,70,Richmond,34
+1950,15,Victoria,05-08-1950,9000,Collingwood,Hawthorn,4,4,1,7,5,8,6,2,0,0,1,1,2,2,3,1,16,21,117,2,8,20,Collingwood,97
+1950,15,Western,05-08-1950,13000,Footscray,Essendon,7,1,2,0,6,0,2,1,0,4,1,5,2,5,0,4,10,9,69,10,11,71,Essendon,2
+1950,15,Lake,05-08-1950,9000,South Melbourne,Fitzroy,2,3,2,4,0,7,0,1,4,3,3,1,1,4,1,5,11,8,74,11,11,77,Fitzroy,3
+1950,15,Kardinia,05-08-1950,15500,Geelong,Melbourne,2,3,3,5,3,7,1,3,4,2,2,1,5,3,2,2,13,14,92,9,12,66,Geelong,26
+1950,15,Arden,05-08-1950,9000,North Melbourne,St Kilda,3,5,4,3,4,2,6,2,3,0,1,3,1,1,1,2,15,14,104,7,5,47,North Melbourne,57
+1950,16,Princes,12-08-1950,10500,Carlton,St Kilda,6,2,3,1,2,4,5,0,4,3,1,3,3,4,4,6,12,11,83,11,17,83,Match drawn,0
+1950,16,Victoria,12-08-1950,26000,Collingwood,Geelong,4,1,4,1,4,3,4,4,1,4,3,3,4,5,3,3,10,15,75,11,15,81,Geelong,6
+1950,16,Windy,12-08-1950,24000,Essendon,Richmond,6,6,3,5,3,5,4,3,4,2,2,3,2,4,4,2,20,15,135,11,12,78,Essendon,57
+1950,16,Glenferrie,12-08-1950,7000,Hawthorn,Fitzroy,1,4,3,3,3,2,5,4,5,3,6,9,4,5,4,3,11,14,80,23,16,154,Fitzroy,74
+1950,16,M.C.G.,12-08-1950,17315,Melbourne,Footscray,1,5,6,3,2,2,5,2,1,5,4,4,4,3,4,3,15,11,101,14,14,98,Melbourne,3
+1950,16,Lake,12-08-1950,11000,South Melbourne,North Melbourne,2,1,5,5,1,1,5,4,7,7,6,1,3,5,2,4,13,11,89,21,14,140,North Melbourne,51
+1950,17,Western,19-08-1950,10000,Footscray,Carlton,2,7,1,3,3,2,4,5,4,1,5,2,1,4,1,1,13,14,92,12,7,79,Footscray,13
+1950,17,Punt,19-08-1950,16000,Richmond,Collingwood,2,6,4,3,6,7,4,2,4,1,5,5,2,2,3,3,15,19,109,15,10,100,Richmond,9
+1950,17,Windy,19-08-1950,33500,Essendon,North Melbourne,3,5,4,3,6,2,3,1,1,2,3,7,2,5,3,6,15,12,102,13,16,94,Essendon,8
+1950,17,Brunswick,19-08-1950,12500,Fitzroy,Melbourne,1,3,1,2,4,1,3,2,1,1,1,3,2,3,4,2,7,10,52,6,11,47,Fitzroy,5
+1950,17,Junction,19-08-1950,12000,St Kilda,Geelong,1,2,2,3,3,2,0,1,2,0,2,2,1,2,5,4,8,6,54,6,12,48,St Kilda,6
+1950,17,Glenferrie,19-08-1950,6500,Hawthorn,South Melbourne,4,3,4,3,3,2,3,2,4,3,6,3,2,1,1,3,14,10,94,16,7,103,South Melbourne,9
+1950,18,Princes,26-08-1950,10000,Carlton,South Melbourne,3,2,4,4,0,0,2,2,4,1,3,2,0,7,2,1,13,4,82,10,10,70,Carlton,12
+1950,18,Victoria,26-08-1950,12000,Collingwood,Footscray,2,0,3,4,5,1,4,0,3,2,1,2,6,2,2,4,9,10,64,8,14,62,Collingwood,2
+1950,18,Junction,26-08-1950,27000,St Kilda,Essendon,4,0,2,2,1,1,4,1,1,8,1,11,2,3,4,1,8,7,55,21,10,136,Essendon,81
+1950,18,Arden,26-08-1950,16000,North Melbourne,Fitzroy,2,4,0,3,1,4,0,7,6,1,5,1,3,1,4,4,9,12,66,13,12,90,Fitzroy,24
+1950,18,Kardinia,26-08-1950,22500,Geelong,Richmond,4,2,2,2,2,2,4,6,3,2,4,3,4,5,3,2,10,14,74,12,14,86,Richmond,12
+1950,18,M.C.G.,26-08-1950,10255,Melbourne,Hawthorn,8,2,4,9,3,3,4,8,0,4,3,2,0,4,1,1,23,18,156,9,6,60,Melbourne,96
+1950,SF,M.C.G.,02-09-1950,54817,Melbourne,Geelong,2,1,2,1,2,0,2,4,1,3,4,5,1,4,1,4,6,8,44,13,10,88,Geelong,44
+1950,SF,M.C.G.,09-09-1950,75433,Essendon,North Melbourne,5,1,3,2,5,3,3,3,0,5,3,3,3,4,2,2,11,14,80,11,11,77,Essendon,3
+1950,PF,M.C.G.,16-09-1950,73539,North Melbourne,Geelong,1,3,6,4,0,8,3,5,7,1,3,1,3,1,3,4,14,16,100,12,11,83,North Melbourne,17
+1950,GF,M.C.G.,23-09-1950,85869,Essendon,North Melbourne,7,0,3,3,3,3,5,3,4,1,2,0,0,5,4,3,13,14,92,7,12,54,Essendon,38

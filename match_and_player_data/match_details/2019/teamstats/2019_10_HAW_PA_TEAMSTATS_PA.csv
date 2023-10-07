@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2019,10,Port Adelaide,Hawthorn,15 ,"Amon, Karl",13,4,7,20,1, , ,9,1,3,2,3,2,1, ,5,15, , ,1, ,1,84
+2019,10,Port Adelaide,Hawthorn,10 ,"Boak, Travis",10,1,16,26, , , ,5, ,5,4,3,1,2, ,12,13, , ,1, , ,84
+2019,10,Port Adelaide,Hawthorn,5 ,"Broadbent, Matthew",18,7,10,28, , , ,1,3,2,3,3,1, , ,12,15,1, ,1, , ,82
+2019,10,Port Adelaide,Hawthorn,18 ,"Butters, Zak",5,2,12,17, ,2, ,4,1, ,2,3, ,1, ,6,10, ,1, , , ,85
+2019,10,Port Adelaide,Hawthorn,33 ,"Byrne-Jones, Darcy",20,8,8,28, , , ,6,2,1,1,2,2, , ,11,18, , ,2, ,1,83
+2019,10,Port Adelaide,Hawthorn,17 ,"Clurey, Tom",7,6,4,11, , , ,1,4,2, , ,1, , ,4,6,1, ,10, , ,96
+2019,10,Port Adelaide,Hawthorn,21 ,"Duursma, Xavier",12,5,10,22,1,2, ,4,1,4,4, ,4, , ,11,10, ,1, , ,1,69
+2019,10,Port Adelaide,Hawthorn,24 ,"Farrell, Kane",4,1,5,9, , , ,2, ,2, ,1,1, , ,6,3, , ,1, , ,79
+2019,10,Port Adelaide,Hawthorn,14 ,"Frampton, Billy",2, ,7,9, ,1,1,1, , , ,5, ,4, ,5,4, , ,6, ,1,85
+2019,10,Port Adelaide,Hawthorn,9 ,"Gray, Robbie",11,7,16,27,1, , ,2,3,4,2,2,2, , ,12,15, ,2,2, , ,77
+2019,10,Port Adelaide,Hawthorn,46 ,"Gray, Sam",8,3,13,21, , , ,4, ,3,2,3,2,1, ,3,18, , , , , ,85
+2019,10,Port Adelaide,Hawthorn,43 ,"Houston, Dan",16,5,11,27, , , ,1,3,3,1,1, , , ,8,18, , ,3, , ,84
+2019,10,Port Adelaide,Hawthorn,32 ,"Howard, Dougal",9,5,8,17, ,1, ,3,3, ,2, ,1, , ,6,9,2, ,6, , ,92
+2019,10,Port Adelaide,Hawthorn,42 ,"Jonas, Tom",12,3,6,18, , , ,5,4,2,2,1,1,1, ,6,10,1, ,3, , ,85
+2019,10,Port Adelaide,Hawthorn,38 ,"Ladhams, Peter",6,1,7,13,1,1,9, ,1, ,2,2,3,1, ,8,8, ,1,4, , ,85
+2019,10,Port Adelaide,Hawthorn,40 ,"Lienert, Jarrod",17,7,7,24, ,1, , ,6,2,2,2,2,1, ,6,16, , ,1, , ,79
+2019,10,Port Adelaide,Hawthorn,6 ,"Motlop, Steven",8,4,8,16, ,2, ,2, ,4,1,2, ,1, ,4,15, , ,1, , ,79
+2019,10,Port Adelaide,Hawthorn,2 ,"Powell-Pepper, Sam",7,4,14,21,1, , ,8,2,4,4,6,2,2,1,9,13, ,2,1, , ,85
+2019,10,Port Adelaide,Hawthorn,11 ,"Rockliff, Tom",12,2,13,25, , , ,6,2,4,8,5,2,1, ,13,10, , , , , ,52
+2019,10,Port Adelaide,Hawthorn,20 ,"Rozee, Connor",4,2,8,12,1, , ,1, ,2,1,2, ,1, ,5,9, ,1,3, ,2,83
+2019,10,Port Adelaide,Hawthorn,4 ,"Ryder, Paddy",5,4,4,9, , ,24,3,1,3,4,1, ,1, ,7,2,2, ,2, , ,81
+2019,10,Port Adelaide,Hawthorn,39 ,"Westhoff, Justin",12,4,5,17, ,2,2,7,3, , ,1, , , ,1,15, , ,3, , ,86

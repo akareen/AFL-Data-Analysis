@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2018,6,Sydney,Geelong,7 ,"Cunningham, Harry",7,5,9,16, ,1, ,5,1,2,1,2,1,1, ,3,13, , ,2, ,1,79
+2018,6,Sydney,Geelong,13 ,"Florent, Oliver",10,6,4,14,2, , ,1,1,3,3,2,1,1, ,5,9,2,2,1,1, ,75
+2018,6,Sydney,Geelong,42 ,"Fox, Robbie",7,3,2,9,2, ,3,1, ,1, ,3, ,2, ,4,5,1,1,5, , ,69
+2018,6,Sydney,Geelong,39 ,"Grundy, Heath",13,12,10,23, , , ,1,5,1, ,3, ,2, ,6,17,2, ,8, , ,94
+2018,6,Sydney,Geelong,9 ,"Hayward, Will",9,4,2,11,3, , ,4,1,3, ,2,1,1, ,3,9, ,1,5, , ,75
+2018,6,Sydney,Geelong,5 ,"Heeney, Isaac",11,4,10,21, ,2, ,7,1,2,8,4,2,2, ,12,9,1,1,2, ,1,89
+2018,6,Sydney,Geelong,29 ,"Hewett, George",7,1,9,16, , , ,6,1,3,5,1,4,1, ,11,5, , , , ,1,75
+2018,6,Sydney,Geelong,15 ,"Jack, Kieren",12,1,4,16, ,1, ,9,2,3,5,2,1, , ,10,6, , , , ,2,77
+2018,6,Sydney,Geelong,10 ,"Jones, Zak",10,2,9,19,1, , ,4,2,3,1,4, ,3, ,4,16, , ,2, , ,76
+2018,6,Sydney,Geelong,12 ,"Kennedy, Josh",16,4,17,33, , , ,4, ,9,13,1,1, ,3,17,19, , ,1, , ,84
+2018,6,Sydney,Geelong,44 ,"Lloyd, Jake",24,10,5,29, , , ,2,7,2,2,4, , , ,2,25, , ,2,1,1,85
+2018,6,Sydney,Geelong,31 ,"Marsh, Harrison",3,2,3,6, , , ,3,1,1, ,1, ,1, , ,5, , ,5, , ,81
+2018,6,Sydney,Geelong,3 ,"McVeigh, Jarrad",13,5,8,21, , , ,3,3, , ,1,1, , ,1,18, , ,6, , ,85
+2018,6,Sydney,Geelong,14 ,"Mills, Callum",11,3,8,19, , , ,5,5,1,2, ,1, , ,9,10, , ,2,1, ,91
+2018,6,Sydney,Geelong,11 ,"Papley, Tom",9,6,4,13, ,2, ,4,1,2,2, ,1, , ,7,7,1,1,2, ,2,81
+2018,6,Sydney,Geelong,26 ,"Parker, Luke",10,5,9,19,1,2, ,6,1,4,4,6, ,5, ,10,9,3,2,1, , ,91
+2018,6,Sydney,Geelong,24 ,"Rampe, Dane",8,8,7,15, , , ,1,6, , ,2, ,1, ,4,11, , ,4, , ,95
+2018,6,Sydney,Geelong,27 ,"Robinson, Dan",3,1,5,8, , , ,2,1,2, ,2, , , ,5,3, ,1,3, , ,74
+2018,6,Sydney,Geelong,16 ,"Rohan, Gary",7,2,4,11,1,1, ,4, ,3, ,6,2,3, ,9,2,1,1,2, , ,83
+2018,6,Sydney,Geelong,25 ,"Ronke, Ben",9, ,6,15,2,1, ,7, ,4, ,1,1,1, ,8,7, , , , , ,69
+2018,6,Sydney,Geelong,18 ,"Sinclair, Callum",10,6,8,18, , ,39,2, ,2,4,2, ,1,1,14,6,2, ,2, , ,89
+2018,6,Sydney,Geelong,40 ,"Smith, Nick",10,6,7,17, ,1, ,4,3,1, , , , , ,5,12,2, ,2, , ,84

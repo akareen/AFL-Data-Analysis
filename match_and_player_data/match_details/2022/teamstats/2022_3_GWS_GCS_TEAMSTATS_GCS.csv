@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2022,3,Gold Coast,Greater Western Sydney,9 ,"Ainsworth, Ben",8,4,7,15, , , ,3, ,4, ,4, ,2, ,5,11, ,1,2, ,1,86
+2022,3,Gold Coast,Greater Western Sydney,15 ,"Anderson, Noah",13,1,5,18, ,1, ,2,4,4,4,5, ,2, ,7,6, ,1,2,3, ,84
+2022,3,Gold Coast,Greater Western Sydney,2 ,"Atkins, Rory",6,1,5,11, , , ,4,1,1,1,3, ,1, ,4,9, , , , , ,64
+2022,3,Gold Coast,Greater Western Sydney,10 ,"Ballard, Charlie",9,6,2,11, , , ,1,3, , ,2,1,1, ,5,8,1, ,5, , ,92
+2022,3,Gold Coast,Greater Western Sydney,30 ,"Casboult, Levi",7,5,4,11,3, , , , ,1, ,3,1,2, ,5,6,3,3,5, , ,96
+2022,3,Gold Coast,Greater Western Sydney,1 ,"Chol, Mabior",6,2,4,10,3,1,10, , ,1,3,5,5,2, ,8,3,1,1,2, , ,68
+2022,3,Gold Coast,Greater Western Sydney,25 ,"Collins, Sam",7,4,4,11, , , ,2,2, , , ,3, , ,8,4,2, ,10, , ,95
+2022,3,Gold Coast,Greater Western Sydney,19 ,"Corbett, Josh", , , , , , , , , , , , , , , , , , , , , , , 
+2022,3,Gold Coast,Greater Western Sydney,5 ,"Davies, Alex",6,1,2,8, ,1, ,1,2,1,2,2,1,1, ,2,6, , , , , ,74
+2022,3,Gold Coast,Greater Western Sydney,4 ,"Ellis, Brandon",13,3,5,18, , , , ,4,5,1,4,1,2, ,4,14, , , , , ,86
+2022,3,Gold Coast,Greater Western Sydney,8 ,"Fiorini, Brayden",13,5,12,25, , , ,2,1,5,4,2, , , ,11,13, , ,2, , ,79
+2022,3,Gold Coast,Greater Western Sydney,46 ,"Graham, Caleb",1, ,2,3, , , , , , , ,2, ,1, ,2,2, , ,7, , ,65
+2022,3,Gold Coast,Greater Western Sydney,7 ,"Holman, Nick",6,5,3,9,1, , ,3, ,3, ,2, , , ,4,6,1,1, , , ,85
+2022,3,Gold Coast,Greater Western Sydney,23 ,"Lemmens, Sean",6,6,5,11, , , ,1,4, , ,1,2,1, ,4,8, , ,3, , ,85
+2022,3,Gold Coast,Greater Western Sydney,13 ,"Lukosius, Jack",13,7,4,17, , , ,1, ,8,1,4, ,2, ,3,11, , , , ,2,89
+2022,3,Gold Coast,Greater Western Sydney,11 ,"Miller, Touk",10,3,7,17, ,2, ,3,1,1,3,3,1, , ,8,10, , , ,1, ,87
+2022,3,Gold Coast,Greater Western Sydney,27 ,"Powell, Wil",9,1,3,12, , , ,3,7,1, ,3,1,1, ,5,3, , ,3, , ,86
+2022,3,Gold Coast,Greater Western Sydney,18 ,"Rowell, Matt",5, ,13,18, , , ,13,1,1,5,3, ,2, ,11,7, , , , ,1,87
+2022,3,Gold Coast,Greater Western Sydney,6 ,"Sexton, Alex",4,2,2,6,1,1, , , ,1,1, ,1, , ,2,4, ,1, , , ,65
+2022,3,Gold Coast,Greater Western Sydney,20 ,"Sharp, Jeremy",14,4,7,21, , , ,4, ,6,1,3, , , ,6,13, , ,2,3, ,84
+2022,3,Gold Coast,Greater Western Sydney,24 ,"Swallow, David",11,2,7,18, ,1, ,2,3,4,2,1,1, , ,7,12, , ,1, , ,89
+2022,3,Gold Coast,Greater Western Sydney,14 ,"Weller, Lachie",13,6,8,21, , , , ,7,2,1,7,2,1, ,4,16, , ,4,1, ,81
+2022,3,Gold Coast,Greater Western Sydney,28 ,"Witts, Jarrod",5,2,4,9, , ,31,4, ,1,5,5, ,4, ,6,3, , ,4, , ,72

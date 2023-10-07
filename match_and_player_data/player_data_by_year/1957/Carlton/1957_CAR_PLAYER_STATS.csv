@@ -1,0 +1,3 @@
+first_name,last_name,born_date,debut_date,height,weight,stats_file_name,personal_file_name
+John,Nicholls,13-08-1939,15-04-1957,189,105,match_and_player_data/player_all_time_data/NICHOLLS_JOHN__13-08-1939_STATS.csv,match_and_player_data/player_all_time_data/NICHOLLS_JOHN__13-08-1939_PERSONAL.csv
+Brian,Buckley,03-08-1935,29-07-1956,185,83,match_and_player_data/player_all_time_data/BUCKLEY_BRIAN__03-08-1935_STATS.csv,match_and_player_data/player_all_time_data/BUCKLEY_BRIAN__03-08-1935_PERSONAL.csv

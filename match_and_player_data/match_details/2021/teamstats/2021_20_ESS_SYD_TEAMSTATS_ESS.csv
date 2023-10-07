@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2021,20,Essendon,Sydney,37 ,"Clarke, Dylan",5,4,8,13,1, , ,1, ,3,2,2,1,2, ,5,9,1,1,1, , ,80
+2021,20,Essendon,Sydney,13 ,"Cox, Nik",8,2,5,13, , , ,2,2,2,1,5,1,3, ,3,11, , ,2,2, ,87
+2021,20,Essendon,Sydney,12 ,"Cutler, Tom",7,2,4,11,1, , ,1,2,1, ,3, , , ,7,5, , ,4, ,1,91
+2021,20,Essendon,Sydney,2 ,"Draper, Sam",7,4,4,11, ,1,23,1,2,3,5,2,1,1, ,10,3,2,1,6, , ,79
+2021,20,Essendon,Sydney,42 ,"Durham, Sam",6,1,5,11, , , ,1, ,3,1,2,1, , ,4,7, , ,2, , ,82
+2021,20,Essendon,Sydney,10 ,"Francis, Aaron",7,4,3,10, ,1, ,1, ,2, ,6,2,2, ,4,6,2, ,2, ,1,85
+2021,20,Essendon,Sydney,33 ↑,"Ham, Brayden", , , , , , , , , , , , , , , , , , , , , , ,2
+2021,20,Essendon,Sydney,21 ,"Heppell, Dyson",17,5,8,25, , , ,3,5,2, ,4,1, , ,4,20, , ,6, ,1,87
+2021,20,Essendon,Sydney,19 ,"Hind, Nick",10,1,5,15,1, , ,1,3, ,1, ,2, , ,6,9, , , ,2, ,84
+2021,20,Essendon,Sydney,4 ,"Langford, Kyle",13,7,4,17,3, , ,3,1,3, ,3, ,1, ,2,15, ,2,3, ,1,79
+2021,20,Essendon,Sydney,15 ↓,"Laverde, Jayden",4,3,1,5, , , ,2,3, , ,3,1,2, ,2,3,1, ,6, , ,82
+2021,20,Essendon,Sydney,43 ,"McDonald-Tipungwuti, Anthony",4,2,1,5,1, , ,1, ,2, ,1,1,1, ,2,4, ,1,2, , ,67
+2021,20,Essendon,Sydney,7 ,"Merrett, Zach",20,7,15,35,2, , ,5,3,6,3,2,2,1,2,10,25, ,2,1, ,4,85
+2021,20,Essendon,Sydney,3 ,"Parish, Darcy",12,1,22,34, , , ,4,1,7,8,4,1,1, ,19,16, ,1,2, , ,86
+2021,20,Essendon,Sydney,16 ,"Perkins, Archie",2,2,2,4, , , ,1, ,1, ,2, ,1, ,2,2,1, , , , ,61
+2021,20,Essendon,Sydney,27 ,"Redman, Mason",5,3,3,8, , , ,1, ,2, ,2, ,1, ,4,6,1, ,2, , ,82
+2021,20,Essendon,Sydney,14 ,"Ridley, Jordan",9,3,1,10, , , , ,2, , , , , , ,1,6,1, ,2, , ,90
+2021,20,Essendon,Sydney,9 ,"Shiel, Dylan",12,2,10,22,1,1, ,2, ,2,3,3,1,1, ,10,10,1, ,1,1, ,65
+2021,20,Essendon,Sydney,5 ,"Smith, Devon",6,4,10,16,2,1, ,1, ,1, ,2, ,1, ,5,12, ,2,1, , ,84
+2021,20,Essendon,Sydney,40 ,"Snelling, Will",9,3,8,17, , , ,3,1,6,2,3,1,2, ,5,12, , ,1, , ,89
+2021,20,Essendon,Sydney,17 ,"Stewart, James",3,3,5,8, , , , ,2, , ,6,1,5, ,4,3,1, ,1, , ,85
+2021,20,Essendon,Sydney,25 ,"Stringer, Jake",13,3,6,19,2, , ,5, ,4,9,4,5,2, ,13,7, ,1,1, ,3,86
+2021,20,Essendon,Sydney,20 ,"Wright, Peter",7,4,8,15,2,1,5, ,1, ,1,3,1,1, ,8,7, ,3,2, ,2,83

@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2011,14,Collingwood,Sydney,12 ,"Ball, Luke",10,4,14,24,1,1,1,12, ,3,8,3,1,2, ,11,13,1, ,4, ,3,80
+2011,14,Collingwood,Sydney,11 ,"Blair, Jarryd",6,3,6,12,1, , ,4, ,3,1,1,3, , ,6,6, ,1,1, ,1,73
+2011,14,Collingwood,Sydney,15 ,"Brown, Leigh",2,2,5,7, , ,8, , , ,1,1, ,1, ,5,3,1, ,6, , ,71
+2011,14,Collingwood,Sydney,32 ,"Cloke, Travis",18,8, ,18,6,4, ,4, ,4, , ,2, ,3,10,7,7,6,2, ,1,94
+2011,14,Collingwood,Sydney,1 ,"Davis, Leon",14,1,3,17, ,3, ,6,4,4, ,4,1,3, ,7,8,1, ,2,1,1,96
+2011,14,Collingwood,Sydney,31 ,"Dawes, Chris",7,6,6,13,1,2, ,1, , , , ,2, , ,9,4,3,3,1, , ,91
+2011,14,Collingwood,Sydney,4 ↓,"Didak, Alan",7,1,2,9, , , , , ,3,2,1,1,1, ,3,6, , ,1, ,1,39
+2011,14,Collingwood,Sydney,6 ,"Goldsack, Tyson",1,2,10,11, , , ,6, , ,2, ,1, , ,6,6, , ,1, , ,78
+2011,14,Collingwood,Sydney,7 ,"Krakouer, Andrew",10,3,3,13, , , ,4,1,3,2,2,3,1, ,8,6, , ,2, , ,77
+2011,14,Collingwood,Sydney,8 ,"Lumumba, Heritier",7,3,6,13, ,1, ,2, ,4,1,1,1,1, ,3,11, , ,4,1,1,97
+2011,14,Collingwood,Sydney,5 ,"Maxwell, Nick",11,6,7,18, ,1,1,2,4,1, ,2,2,1, ,6,10, ,1,5, , ,84
+2011,14,Collingwood,Sydney,3 ↑,"McCarthy, John",3,2,4,7, , , , , ,2,1,1, , , ,2,5, , , , , ,40
+2011,14,Collingwood,Sydney,10 ,"Pendlebury, Scott",14,4,11,25,1, , ,7,1,7,3,3, ,1, ,12,12, , ,2, ,1,87
+2011,14,Collingwood,Sydney,20 ,"Reid, Ben",11,8,5,16, , , ,1,2,2, ,1,1, , ,5,12,1, ,5, , ,94
+2011,14,Collingwood,Sydney,39 ,"Shaw, Heath",13,4,5,18, , , ,1,2,5,1,1, ,1, ,6,10,1, ,3,3, ,94
+2011,14,Collingwood,Sydney,22 ,"Sidebottom, Steele",4,2,8,12,1,1, ,4,1,3,2,2, ,2, ,5,8, , ,3,1, ,77
+2011,14,Collingwood,Sydney,36 ,"Swan, Dane",23,8,10,33,1,4, ,1,5,6,8,3,1,1,2,16,18, ,2, ,3,1,87
+2011,14,Collingwood,Sydney,2 ,"Tarrant, Chris",4,4,4,8, , , ,1,2, , ,1,2,1, ,4,4,1, ,12, , ,99
+2011,14,Collingwood,Sydney,13 ,"Thomas, Dale",13,4,5,18, ,3, ,5,1,4,2,3,2,1, ,11,7,2,2,1,1, ,89
+2011,14,Collingwood,Sydney,34 ,"Toovey, Alan",5,3,5,10, , , ,6,2,1,1,1, ,1, ,4,5,1, , ,1, ,93
+2011,14,Collingwood,Sydney,21 ,"Wellingham, Sharrod",8,4,5,13,1, , ,4, ,2, ,2, , , ,3,10, , ,1, , ,80
+2011,14,Collingwood,Sydney,19 ,"Wood, Cameron",3,2,6,9, , ,21,2, ,1, ,2, ,1, ,2,6,1, ,6, , ,78

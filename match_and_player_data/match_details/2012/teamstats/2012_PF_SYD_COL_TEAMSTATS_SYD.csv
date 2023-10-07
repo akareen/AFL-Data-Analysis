@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2012,PF,Sydney,Collingwood,14 ,"Bird, Craig",12,5,6,18,1,2, ,4,1,1, ,1,1, , ,7,11, ,3,2, ,1,85
+2012,PF,Sydney,Collingwood,24 ,"Bolton, Jude",5,3,13,18,2, , ,3, ,3,1,4,1, , ,10,7, ,1, , ,1,86
+2012,PF,Sydney,Collingwood,37 ,"Goodes, Adam",21,9,4,25,1,2, ,4,1,5,6,4,1, , ,12,11,4,4,1, , ,91
+2012,PF,Sydney,Collingwood,39 ,"Grundy, Heath",10,5,6,16, , , , ,2,2, ,1, , , ,1,14, , ,5, , ,100
+2012,PF,Sydney,Collingwood,4 ,"Hannebery, Dan",11,3,22,33, , , ,5,2,2,5,2, , , ,14,18, , ,3, , ,79
+2012,PF,Sydney,Collingwood,15 ,"Jack, Kieren",11, ,14,25, ,2, ,6, ,3,7,4, ,1, ,12,13, , ,2, , ,84
+2012,PF,Sydney,Collingwood,32 ,"Jetta, Lewis",10,5,6,16,3, , ,1,2,5,1,1, , , ,3,13, , ,1,4,1,79
+2012,PF,Sydney,Collingwood,34 ,"Johnson, Alex",6,2,5,11, , , ,2,2, ,1, ,1, , ,6,4, , ,5, , ,86
+2012,PF,Sydney,Collingwood,12 ,"Kennedy, Josh",13,4,17,30,2,2, ,5,1,5,10,7,2,2, ,19,12,1,2,3, ,1,85
+2012,PF,Sydney,Collingwood,9 ,"Malceski, Nick",10,3,4,14, , , ,3,3,4, ,2, , , ,4,8,1, ,6, , ,73
+2012,PF,Sydney,Collingwood,29 ,"Mattner, Martin",7,2,4,11, , , ,1,3,1, ,1,2, , ,4,8, , ,6, , ,91
+2012,PF,Sydney,Collingwood,3 ,"McVeigh, Jarrad",18,7,12,30, ,1, ,1,2,4,4,1, , , ,9,22, , ,1, , ,86
+2012,PF,Sydney,Collingwood,10 ↑,"Morton, Mitch",6,2,2,8, ,1, ,7, ,4, ,5,1,2, ,3,5, , , , ,1,60
+2012,PF,Sydney,Collingwood,41 ,"Mumford, Shane",3,3,11,14,1, ,32,4,1,1, ,2, ,1, ,8,6,3,1,7, , ,95
+2012,PF,Sydney,Collingwood,5 ,"OKeefe, Ryan",20,5,14,34,1, , ,11,1,3,9,4,1, , ,17,18, , ,2, , ,89
+2012,PF,Sydney,Collingwood,26 ↓,"Parker, Luke",3,2, ,3, , , , , , , , , , , , ,3, , , , , ,21
+2012,PF,Sydney,Collingwood,38 ,"Pyke, Mike",6,3,4,10, ,1,16, , ,2,2,1,1, , ,6,4,1,1,3, , ,90
+2012,PF,Sydney,Collingwood,20 ,"Reid, Sam",2,3,2,4, , , ,1, ,1, ,2, , , ,2,3, , ,5, , ,84
+2012,PF,Sydney,Collingwood,25 ,"Richards, Ted",7,4,3,10, , , , ,1,2, ,1, , , ,5,4,3, ,10, , ,79
+2012,PF,Sydney,Collingwood,30 ,"Roberts-Thomson, Lewis",6,4,4,10,2,1, ,5, ,2, , ,1, , ,6,5,2,1,2, , ,89
+2012,PF,Sydney,Collingwood,2 ,"Shaw, Rhyce",23,7,4,27, , , , ,6,3, ,5, ,1, ,6,23,2, ,3,9, ,80
+2012,PF,Sydney,Collingwood,40 ,"Smith, Nick",5,3,5,10, ,1, ,4,1, , ,1,1,1, ,6,5,1, ,4, , ,90

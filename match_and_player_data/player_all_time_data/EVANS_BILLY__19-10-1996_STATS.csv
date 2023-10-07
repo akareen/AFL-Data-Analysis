@@ -1,0 +1,8 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Brisbane Lions,2015,1,Gold Coast,19,L,46,,,12,12,,,,1,,,1,,,,,6,6,,,,,,52
+Brisbane Lions,2015,2,Carlton,20,W,46,2,1,5,7,,,,,,,2,1,1,1,,3,4,,1,,,,16
+Brisbane Lions,2015,3,Adelaide,21,L,46,5,5,9,14,,,,6,1,1,1,2,,,,4,10,,,,,,64
+Brisbane Lions,2015,4,Hawthorn,22,L,46,6,2,7,13,,1,,7,,1,2,1,1,1,,4,10,,1,,,,63
+Brisbane Lions,2015,5,Western Bulldogs,23,W,46,4,1,7,11,1,1,,,,2,2,,1,,,3,7,,,1,,,71
+Brisbane Lions,2016,6,Geelong,3,L,46,5,4,5,10,,,,3,1,1,,1,,,,2,8,,,,,,68
+Brisbane Lions,2016,7,Melbourne,9,L,46,1,,9,10,,,,5,,,2,2,2,1,,7,3,,,1,,,65

@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2018,17,Port Adelaide,Fremantle,15 ,"Amon, Karl",9,1,13,22, , , ,4,3, ,5,3, , , ,8,16, , , ,1, ,70
+2018,17,Port Adelaide,Fremantle,1 ,"Boak, Travis",12,3,10,22,1, , ,4,1,3,2,3,1, , ,9,12, ,1,1, , ,93
+2018,17,Port Adelaide,Fremantle,26 ,"Bonner, Riley",6, ,6,12, , , ,2,4,1,1,2,1,1, ,8,4, , ,3, , ,75
+2018,17,Port Adelaide,Fremantle,33 ,"Byrne-Jones, Darcy",13,6,4,17, , , ,4,1,1, ,2, ,1, ,3,13, , ,2, , ,82
+2018,17,Port Adelaide,Fremantle,17 ,"Clurey, Tom",9,4,3,12, , , ,1,5, , ,4,1,2, ,4,8, , ,6, , ,90
+2018,17,Port Adelaide,Fremantle,22 ,"Dixon, Charlie",8,3,8,16, , ,18,3, ,2,3,6,1,2, ,8,5,1, ,2,1,1,100
+2018,17,Port Adelaide,Fremantle,7 ,"Ebert, Brad",9,2,7,16, , , ,4,1,2,2,5, ,2, ,9,7,1,1,2, , ,88
+2018,17,Port Adelaide,Fremantle,9 ,"Gray, Robbie",2, ,7,9, , , ,1, ,1,2, ,1, , ,8,1, , ,1,1, ,46
+2018,17,Port Adelaide,Fremantle,46 ,"Gray, Sam",7,4,9,16,1,1, ,2, ,1, ,3,2,2, ,4,10, ,2, , , ,86
+2018,17,Port Adelaide,Fremantle,36 ,"Hombsch, Jack",8,6,3,11, , , ,2,1, , ,1,1,1, ,3,8, , ,5, , ,91
+2018,17,Port Adelaide,Fremantle,43 ,"Houston, Dan",10,4,9,19, , , ,2,6, ,1,2, , , ,5,12, , ,8, , ,83
+2018,17,Port Adelaide,Fremantle,32 ,"Howard, Dougal",8,4,3,11, , , , ,5, , ,6, ,2, ,5,6, , ,14, , ,97
+2018,17,Port Adelaide,Fremantle,6 ,"Motlop, Steven",9, ,9,18, , , ,1,1,4,2,4,1,2, ,4,14, , ,1,1, ,82
+2018,17,Port Adelaide,Fremantle,21 ,"Polec, Jared",18,7,8,26, ,1, ,1,4,3,2,5, ,1, ,8,18,1,1,2,1,2,91
+2018,17,Port Adelaide,Fremantle,2 ,"Powell-Pepper, Sam",12,3,16,28,1, , ,2,5,3,1,4, ,3, ,10,18, ,1, ,2, ,83
+2018,17,Port Adelaide,Fremantle,11 ,"Rockliff, Tom",14,3,11,25, ,1, ,3,1,4,4,3, ,2, ,11,13, , , , ,2,76
+2018,17,Port Adelaide,Fremantle,4 ,"Ryder, Paddy", ,1,3,3, , ,18,6, , , , , , , ,2,1, , , , , ,31
+2018,17,Port Adelaide,Fremantle,48 ,"Thomas, Lindsay",10,3,3,13, , , ,3, ,1, ,5, , , ,3,9, ,1,1, , ,87
+2018,17,Port Adelaide,Fremantle,23 ,"Watts, Jack",6,7,11,17,1,1, ,5, ,1, ,1, ,1, ,6,11, ,2,1, ,1,86
+2018,17,Port Adelaide,Fremantle,39 ,"Westhoff, Justin",11,6,7,18,1,1,5,4,2,3,1,3,1, , ,8,11,1, ,6, , ,93
+2018,17,Port Adelaide,Fremantle,16 ,"Wines, Ollie",15,4,15,30, ,1, ,7,1,5,5,1,2, ,1,15,15,2, ,2, ,1,79
+2018,17,Port Adelaide,Fremantle,20 ,"Wingard, Chad",14, ,10,24,2, , ,6,2,4,7,6,2,1, ,14,11, , , , , ,91

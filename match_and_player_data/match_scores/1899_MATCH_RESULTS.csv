@@ -1,0 +1,58 @@
+year,round,venue,date,attendance,home_team,away_team,home_q1_g,home_q2_g,home_q3_g,home_q4_g,home_q1_b,home_q2_b,home_q3_b,home_q4_b,away_q1_g,away_q2_g,away_q3_g,away_q4_g,away_q1_b,away_q2_b,away_q3_b,away_q4_b,home_total_g,home_total_b,home_total_score,away_total_g,away_total_b,away_total_score,winning_team,margin
+1899,1,Lake,13-05-1899,0,South Melbourne,Carlton,2,2,3,3,3,4,6,0,0,0,0,2,0,2,1,3,10,13,73,2,6,18,South Melbourne,55
+1899,1,Corio,13-05-1899,0,Geelong,Collingwood,3,3,0,2,2,1,0,3,0,1,2,0,2,3,2,2,8,6,54,3,9,27,Geelong,27
+1899,1,Brunswick,13-05-1899,0,Fitzroy,Essendon,2,0,1,3,1,3,4,3,0,0,0,0,3,2,1,3,6,11,47,0,9,9,Fitzroy,38
+1899,1,M.C.G.,13-05-1899,0,Melbourne,St Kilda,1,8,3,4,1,8,4,7,2,0,0,1,4,0,1,0,16,20,116,3,5,23,Melbourne,93
+1899,2,Princes,20-05-1899,0,Carlton,Geelong,0,0,1,0,1,1,2,1,2,1,0,2,0,3,1,2,1,5,11,5,6,36,Geelong,25
+1899,2,Victoria,20-05-1899,0,Collingwood,Melbourne,0,1,1,2,2,0,0,1,2,1,3,1,4,3,1,4,4,3,27,7,12,54,Melbourne,27
+1899,2,Junction,20-05-1899,0,St Kilda,Essendon,1,0,1,1,1,0,1,0,1,3,1,3,0,9,5,4,3,2,20,8,18,66,Essendon,46
+1899,2,Lake,20-05-1899,0,South Melbourne,Fitzroy,0,2,1,2,3,2,1,2,1,1,4,0,1,3,1,1,5,8,38,6,6,42,Fitzroy,4
+1899,3,Victoria,24-05-1899,0,Collingwood,St Kilda,6,2,3,2,3,3,2,1,1,0,1,0,0,2,2,2,13,9,87,2,6,18,Collingwood,69
+1899,3,Princes,24-05-1899,0,Carlton,Melbourne,0,1,0,2,1,0,0,0,1,1,2,2,1,1,6,1,3,1,19,6,9,45,Melbourne,26
+1899,3,East,24-05-1899,0,Essendon,South Melbourne,0,0,0,1,3,0,4,2,0,0,0,0,3,4,0,2,1,9,15,0,9,9,Essendon,6
+1899,3,Corio,24-05-1899,0,Geelong,Fitzroy,0,0,0,0,4,0,3,1,0,2,1,1,0,5,0,3,0,8,8,4,8,32,Fitzroy,24
+1899,4,East,27-05-1899,0,Essendon,Carlton,1,2,2,1,2,1,7,2,0,1,0,0,1,0,0,2,6,12,48,1,3,9,Essendon,39
+1899,4,Lake,27-05-1899,0,South Melbourne,Collingwood,1,0,2,0,2,0,0,2,1,1,0,1,3,6,2,0,3,4,22,3,11,29,Collingwood,7
+1899,4,Brunswick,27-05-1899,0,Fitzroy,St Kilda,2,1,3,1,5,2,5,2,3,1,0,1,0,2,0,1,7,14,56,5,3,33,Fitzroy,23
+1899,4,M.C.G.,27-05-1899,0,Melbourne,Geelong,3,1,0,0,2,0,4,2,0,1,1,2,1,0,1,1,4,8,32,4,3,27,Melbourne,5
+1899,5,Princes,03-06-1899,0,Carlton,Collingwood,3,0,0,0,1,0,1,1,1,2,2,2,2,4,4,0,3,3,21,7,10,52,Collingwood,31
+1899,5,Corio,03-06-1899,0,Geelong,Essendon,1,0,1,1,1,1,2,6,1,0,1,1,4,2,0,0,3,10,28,3,6,24,Geelong,4
+1899,5,M.C.G.,03-06-1899,0,Melbourne,Fitzroy,2,1,1,0,3,4,3,1,0,2,1,0,2,2,2,0,4,11,35,3,6,24,Melbourne,11
+1899,5,Junction,03-06-1899,0,St Kilda,South Melbourne,1,1,1,1,3,5,0,1,5,2,1,2,2,1,3,4,4,9,33,10,10,70,South Melbourne,37
+1899,6,Junction,10-06-1899,0,St Kilda,Carlton,3,1,0,0,4,0,0,1,0,0,1,3,0,7,0,0,4,5,29,4,7,31,Carlton,2
+1899,6,Victoria,10-06-1899,0,Collingwood,Fitzroy,1,0,0,0,4,1,0,2,1,2,1,1,0,2,2,1,1,7,13,5,5,35,Fitzroy,22
+1899,6,East,10-06-1899,0,Essendon,Melbourne,2,0,1,1,3,0,3,0,0,0,1,0,1,6,0,3,4,6,30,1,10,16,Essendon,14
+1899,6,Lake,10-06-1899,0,South Melbourne,Geelong,0,2,0,3,3,1,1,0,2,0,1,0,0,1,0,0,5,5,35,3,1,19,South Melbourne,16
+1899,7,Brunswick,17-06-1899,0,Fitzroy,Carlton,1,0,3,1,3,3,3,6,1,0,0,0,2,1,1,3,5,15,45,1,7,13,Fitzroy,32
+1899,7,Victoria,17-06-1899,0,Collingwood,Essendon,1,4,0,1,5,4,0,3,2,1,0,1,1,1,2,0,6,12,48,4,4,28,Collingwood,20
+1899,7,Junction,17-06-1899,0,St Kilda,Geelong,1,1,1,0,2,4,2,5,6,1,5,0,1,1,2,2,3,13,31,12,6,78,Geelong,47
+1899,7,M.C.G.,17-06-1899,0,Melbourne,South Melbourne,0,3,2,2,0,3,3,2,2,2,1,1,1,1,3,2,7,8,50,6,7,43,Melbourne,7
+1899,8,Princes,24-06-1899,0,Carlton,South Melbourne,0,1,1,1,3,1,1,1,0,0,0,0,1,1,3,0,3,6,24,0,5,5,Carlton,19
+1899,8,Victoria,24-06-1899,0,Collingwood,Geelong,1,1,0,0,5,1,2,0,0,1,2,6,2,2,1,2,2,8,20,9,7,61,Geelong,41
+1899,8,East,24-06-1899,0,Essendon,Fitzroy,3,1,1,1,6,0,5,4,1,5,1,3,0,3,0,0,6,15,51,10,3,63,Fitzroy,12
+1899,8,Junction,24-06-1899,0,St Kilda,Melbourne,2,0,0,0,3,1,3,1,2,0,1,2,1,2,3,1,2,8,20,5,7,37,Melbourne,17
+1899,9,Corio,08-07-1899,0,Geelong,Carlton,2,6,0,1,1,2,2,4,2,0,2,1,2,0,0,1,9,9,63,5,3,33,Geelong,30
+1899,9,M.C.G.,08-07-1899,0,Melbourne,Collingwood,1,0,0,0,4,1,1,1,0,2,1,0,0,1,0,2,1,7,13,3,3,21,Collingwood,8
+1899,9,East,08-07-1899,0,Essendon,St Kilda,4,1,5,1,6,4,6,3,1,0,0,0,0,0,0,0,11,19,85,1,0,6,Essendon,79
+1899,9,Brunswick,08-07-1899,0,Fitzroy,South Melbourne,2,3,0,4,1,3,3,1,1,1,1,1,1,0,2,2,9,8,62,4,5,29,Fitzroy,33
+1899,10,M.C.G.,15-07-1899,0,Melbourne,Carlton,2,1,1,3,6,1,4,1,0,3,0,0,0,2,0,2,7,12,54,3,4,22,Melbourne,32
+1899,10,Junction,15-07-1899,0,St Kilda,Collingwood,0,0,1,0,0,3,1,1,4,2,2,5,1,3,5,7,1,5,11,13,16,94,Collingwood,83
+1899,10,Lake,15-07-1899,0,South Melbourne,Essendon,0,2,1,2,0,2,0,3,2,2,2,1,2,2,4,1,5,5,35,7,9,51,Essendon,16
+1899,10,Brunswick,15-07-1899,0,Fitzroy,Geelong,0,0,1,2,0,3,2,0,1,2,4,1,2,3,2,3,3,5,23,8,10,58,Geelong,35
+1899,11,Princes,22-07-1899,0,Carlton,Essendon,0,2,0,1,1,0,4,3,0,2,1,5,3,3,2,1,3,8,26,8,9,57,Essendon,31
+1899,11,Victoria,22-07-1899,0,Collingwood,South Melbourne,2,3,0,0,3,6,0,0,0,0,4,1,0,2,3,1,5,9,39,5,6,36,Collingwood,3
+1899,11,Junction,22-07-1899,0,St Kilda,Fitzroy,2,1,0,1,1,2,1,2,3,3,2,4,4,1,6,1,4,6,30,12,12,84,Fitzroy,54
+1899,11,Corio,22-07-1899,0,Geelong,Melbourne,1,2,1,1,2,2,2,0,0,2,0,0,3,3,4,0,5,6,36,2,10,22,Geelong,14
+1899,12,Victoria,29-07-1899,0,Collingwood,Carlton,2,0,2,1,2,4,2,5,1,0,2,1,0,0,1,2,5,13,43,4,3,27,Collingwood,16
+1899,12,East,29-07-1899,0,Essendon,Geelong,4,1,2,3,2,0,4,1,0,6,0,0,1,4,0,2,10,7,67,6,7,43,Essendon,24
+1899,12,Brunswick,29-07-1899,0,Fitzroy,Melbourne,2,4,0,0,1,2,2,0,3,0,0,1,3,3,1,2,6,5,41,4,9,33,Fitzroy,8
+1899,12,Lake,29-07-1899,0,South Melbourne,St Kilda,0,2,3,3,2,3,1,3,1,0,1,1,1,0,3,2,8,9,57,3,6,24,South Melbourne,33
+1899,13,Princes,05-08-1899,0,Carlton,St Kilda,1,1,3,1,4,4,2,1,0,0,1,0,0,1,0,1,6,11,47,1,2,8,Carlton,39
+1899,13,Brunswick,05-08-1899,0,Fitzroy,Collingwood,0,1,0,2,2,2,2,1,1,2,1,1,3,1,3,0,3,7,25,5,7,37,Collingwood,12
+1899,13,M.C.G.,05-08-1899,0,Melbourne,Essendon,1,2,0,0,1,3,2,1,1,1,3,0,2,1,4,1,3,7,25,5,8,38,Essendon,13
+1899,13,Corio,05-08-1899,0,Geelong,South Melbourne,0,5,1,1,0,5,0,7,1,0,1,1,2,0,5,2,7,12,54,3,9,27,Geelong,27
+1899,14,Princes,12-08-1899,0,Carlton,Fitzroy,0,1,1,0,2,1,1,0,2,0,1,2,3,2,2,2,2,4,16,5,9,39,Fitzroy,23
+1899,14,East,12-08-1899,0,Essendon,Collingwood,0,4,0,0,0,2,3,2,2,2,0,4,1,1,1,2,4,7,31,8,5,53,Collingwood,22
+1899,14,Corio,12-08-1899,0,Geelong,St Kilda,2,6,4,4,4,6,6,7,0,0,0,0,1,0,0,1,16,23,119,0,2,2,Geelong,117
+1899,14,Lake,12-08-1899,0,South Melbourne,Melbourne,3,1,1,1,4,3,6,0,0,4,0,2,3,1,0,2,6,13,49,6,6,42,South Melbourne,7
+1899,GF,Junction,16-09-1899,4823,Fitzroy,South Melbourne,0,2,0,1,1,3,2,3,2,0,1,0,3,0,4,1,3,9,27,3,8,26,Fitzroy,1

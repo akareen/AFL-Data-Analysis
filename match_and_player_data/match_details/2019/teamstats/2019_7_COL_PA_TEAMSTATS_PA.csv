@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2019,7,Port Adelaide,Collingwood,15 ,"Amon, Karl",10,2,5,15, , , ,4,3,2,3,2,1,1, ,6,8, , ,1, ,1,81
+2019,7,Port Adelaide,Collingwood,10 ,"Boak, Travis",14,1,18,32,1, , ,6,1,3,5,5, ,1, ,17,14, , , , , ,75
+2019,7,Port Adelaide,Collingwood,26 ,"Bonner, Riley",13,3,1,14, , , ,1,5,2,1,2, , , ,3,5, , , ,1, ,86
+2019,7,Port Adelaide,Collingwood,3 ,"Burton, Ryan",8,5,11,19,1, , ,1,3,1,1, , , , ,8,9,1, ,1, , ,76
+2019,7,Port Adelaide,Collingwood,18 ,"Butters, Zak",6,3,3,9, , , , , ,2,1,1,1, , ,3,6, ,1,1, ,2,72
+2019,7,Port Adelaide,Collingwood,33 ,"Byrne-Jones, Darcy",14,6,6,20, , , ,6,3,2,2,2, , , ,6,16, , ,4, , ,86
+2019,7,Port Adelaide,Collingwood,17 ,"Clurey, Tom",10,2,3,13, , , ,2,4,1, ,1, , , ,5,7, , ,7, , ,97
+2019,7,Port Adelaide,Collingwood,28 ,"Drew, Willem",4,1,8,12, , , ,8,1,2,1,1,1, , ,4,10, , ,3, , ,83
+2019,7,Port Adelaide,Collingwood,21 ,"Duursma, Xavier",9,4,7,16, , , ,5,1,1,1,1, , , ,8,8, , , , , ,88
+2019,7,Port Adelaide,Collingwood,7 ,"Ebert, Brad",3,2,2,5, , , ,3, ,1, , , , , ,1,4, , ,1, ,1,53
+2019,7,Port Adelaide,Collingwood,46 ,"Gray, Sam",5,1,5,10,1, , ,6, ,1, ,1, , , ,5,5, ,1,1, , ,84
+2019,7,Port Adelaide,Collingwood,43 ,"Houston, Dan",15,5,4,19, , , ,1,7,2,1,3, , , ,5,11,1, ,6, , ,85
+2019,7,Port Adelaide,Collingwood,32 ,"Howard, Dougal",8,7,4,12, , , ,2,3,1, ,2, ,2, ,3,10,2, ,7, , ,85
+2019,7,Port Adelaide,Collingwood,40 ,"Lienert, Jarrod",13,6,4,17, , , ,2,7,1,2,2, ,1, ,5,9, , ,1, , ,84
+2019,7,Port Adelaide,Collingwood,29 ,"Lycett, Scott",6,1,5,11,2, ,14,1, ,4,3,3,1, , ,6,7, ,1,3, , ,84
+2019,7,Port Adelaide,Collingwood,13 ,"Marshall, Todd",7,4,3,10,1, , ,3, ,1, ,3,1, , ,5,4,2,2,1, , ,84
+2019,7,Port Adelaide,Collingwood,2 ,"Powell-Pepper, Sam",12,5,2,14,1,2, ,4,1,5,2,5,1,3, ,6,11, ,1,2, , ,85
+2019,7,Port Adelaide,Collingwood,11 ,"Rockliff, Tom",13,2,9,22, , , ,2, ,2,4,2,1,1, ,7,15, , , , , ,75
+2019,7,Port Adelaide,Collingwood,20 ,"Rozee, Connor",6,3,8,14,1,1, ,6, ,2,1,1, , , ,6,8, , ,2, , ,79
+2019,7,Port Adelaide,Collingwood,4 ,"Ryder, Paddy",10,3,4,14,1, ,25,3,1,3,4,3,4,1, ,9,6,2,1,4, , ,89
+2019,7,Port Adelaide,Collingwood,39 ,"Westhoff, Justin",18,8,11,29,1,3, ,1,2,4,2,6,1,1, ,16,13,2,4,9, ,3,91
+2019,7,Port Adelaide,Collingwood,16 ,"Wines, Ollie",9,4,19,28, ,1, ,5, ,2,6,7, , , ,14,14, , ,1, ,1,78

@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2014,6,Essendon,Collingwood,14 ,"Ashby, Jason",7,1,8,15, , , ,5,1,3,1,1,1,1, ,2,13, , ,3, , ,88
+2014,6,Essendon,Collingwood,12 ,"Baguley, Mark",9,4,12,21, , , ,2,1,3,1,3,1,2, ,11,8, , ,1, , ,94
+2014,6,Essendon,Collingwood,22 ,"Carlisle, Jake",5,4,3,8, , ,4,1,1,2, ,3, ,1, ,4,5,1,1,2, , ,86
+2014,6,Essendon,Collingwood,3 ,"Chapman, Paul",11,6,10,21, ,1, ,2,1,2,2,4, ,1, ,9,12,1,1,1, , ,79
+2014,6,Essendon,Collingwood,6 ,"Daniher, Joe",7,8,4,11,1, ,5, , ,3,1,2,2,2, ,5,7,2,1, , , ,77
+2014,6,Essendon,Collingwood,15 ↑,"Dempsey, Courtenay",6,1,4,10, , , ,1,2,1,1,2, ,2, ,4,7,1, ,1,1, ,41
+2014,6,Essendon,Collingwood,31 ,"Fletcher, Dustin",12,5,5,17, , , , ,5,1, ,1,1,1, ,3,11, , ,7, , ,84
+2014,6,Essendon,Collingwood,35 ,"Gleeson, Martin",11,6,2,13, ,2, ,3,1,4,2,1, , , ,3,10, , , ,1, ,85
+2014,6,Essendon,Collingwood,34 ↓,"Hardingham, Kyle",1,1,1,2, , , ,2, ,1, ,1, ,1, , ,2, , ,2, , ,53
+2014,6,Essendon,Collingwood,21 ,"Heppell, Dyson",13,2,20,33, , ,2,11,1,2,6,3,1,1,1,12,21,1, ,2, , ,82
+2014,6,Essendon,Collingwood,1 ,"Hibberd, Michael",11,2,14,25, , , ,5,4,2, , ,2, , ,9,16, , ,7, , ,93
+2014,6,Essendon,Collingwood,26 ,"Hooker, Cale",4,3,12,16, , , ,1,4, , ,2, , , ,9,8,1, ,9, , ,98
+2014,6,Essendon,Collingwood,40 ,"Howlett, Ben",7,4,16,23, , , ,6, ,5,5,4, ,2, ,12,11,1,1,2, , ,76
+2014,6,Essendon,Collingwood,18 ,"Hurley, Michael",11,5,6,17, , , ,1,3,1,1,1, ,1, ,4,9, , ,4, , ,91
+2014,6,Essendon,Collingwood,17 ,"Melksham, Jake",14,6,9,23,1,1, ,2,2,4,5,6,1,3, ,13,11,1,1,3, , ,87
+2014,6,Essendon,Collingwood,20 ,"Merrett, Jackson",7,5,10,17,1,1, ,5, ,2,2,1, ,1, ,4,13, ,2,1, , ,85
+2014,6,Essendon,Collingwood,27 ,"Merrett, Zach",7,2,6,13,1, , ,5, ,2, , , , , ,3,10,1, , , ,1,82
+2014,6,Essendon,Collingwood,30 ,"Ryder, Paddy",9,3,6,15,1,1,36,4,1,2,7,2,4, , ,10,4,1,1,6, ,1,86
+2014,6,Essendon,Collingwood,5 ,"Stanton, Brent",22,7,10,32,1, , ,7,1,9,5,4,2, , ,7,24, , , ,1, ,87
+2014,6,Essendon,Collingwood,4 ,"Watson, Jobe",7,2,12,19,1, , ,9, ,2,8,1,2,1, ,14,6, , ,2,1,2,75
+2014,6,Essendon,Collingwood,8 ,"Winderlich, Jason",5,4,7,12,1,2, ,3, ,1, ,1, ,1, ,4,8, ,3,1, ,2,86
+2014,6,Essendon,Collingwood,11 ,"Zaharakis, David",11,3,7,18, ,1, ,6,1,4,2,2,1,1, ,6,12,1,1,1, , ,85

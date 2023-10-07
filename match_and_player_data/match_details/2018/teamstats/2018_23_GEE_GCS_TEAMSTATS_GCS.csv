@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2018,23,Gold Coast,Geelong,13 ,"Ah Chee, Callum",10,2,11,21, , , ,3,2,2,1,5, ,1, ,5,18, , ,4, , ,89
+2018,23,Gold Coast,Geelong,20 ,"Barlow, Michael",18,9,17,35, ,2, ,5,3,5,5,7,2,3, ,13,21, ,1,4, , ,88
+2018,23,Gold Coast,Geelong,29 ,"Bowes, Jack",12,3,13,25, , , ,4,3,1,4,4,1,1, ,14,14, , ,4, , ,86
+2018,23,Gold Coast,Geelong,32 ,"Crossley, Brayden",4,4,8,12,1, ,3,1, ,1,1,2,1,1, ,4,8,1,1,1, , ,90
+2018,23,Gold Coast,Geelong,8 ,"Fiorini, Brayden",12,4,11,23, ,1, ,4,2,3,3,3,1,1, ,4,20, , ,1,1,1,76
+2018,23,Gold Coast,Geelong,5 ,"Harbrow, Jarrod",19,6,7,26, , , ,6,2,1,1,6,1,1, ,3,24, , , , , ,88
+2018,23,Gold Coast,Geelong,40 ,"Heron, Jacob",3,3,4,7, , , ,2,1, ,2,1, ,1, ,3,4, , ,2, , ,87
+2018,23,Gold Coast,Geelong,39 ,"Holman, Nick",7,2,8,15, , , ,2, ,3,3,3,1,1, ,6,9, , , , , ,87
+2018,23,Gold Coast,Geelong,38 ,"Joyce, Jesse",10,5,10,20, , , , ,2, , ,2, , , ,4,15, , ,4, , ,84
+2018,23,Gold Coast,Geelong,23 ,"Lemmens, Sean",5,4,5,10, , , ,2, ,1, ,3, ,1, ,2,8, , , , , ,83
+2018,23,Gold Coast,Geelong,21 ,"Leslie, Jack", , ,2,2, , , , , , , ,1, , , ,2, , , , , , ,14
+2018,23,Gold Coast,Geelong,25 ,"Lyons, Jarryd",14,4,9,23,1,1, ,4,3,2,3,3,1, , ,7,15, , ,1,1, ,79
+2018,23,Gold Coast,Geelong,17 ,"May, Steven",13,5,6,19, , , ,2,6, ,1,4,1,3, ,7,10,1, ,8, , ,100
+2018,23,Gold Coast,Geelong,11 ,"Miller, Touk",10,6,13,23, ,1, ,3,4, ,2,3,1,1, ,8,14, ,1,1, , ,86
+2018,23,Gold Coast,Geelong,35 ,"Rischitelli, Michael",7,4,8,15, , , ,2,3,1, ,1,1, , ,3,12, , ,3, , ,79
+2018,23,Gold Coast,Geelong,18 ,"Scheer, Brad",9,4,4,13,1, , ,3, ,2,2,2,2,1, ,9,5,1,1,3, , ,86
+2018,23,Gold Coast,Geelong,36 ,"Schoenfeld, Josh",5,4,5,10,1, , ,1, , , , , , , ,3,7, ,1,1, , ,79
+2018,23,Gold Coast,Geelong,6 ,"Sexton, Alex",14,6,3,17,1,3, ,1,1,5,1,4, , , ,3,15,1,2,1,2, ,88
+2018,23,Gold Coast,Geelong,24 ,"Swallow, David",10,5,10,20, , , ,6, , ,4,1,3,1, ,10,11, , , , , ,76
+2018,23,Gold Coast,Geelong,14 ,"Weller, Lachie",7,4,15,22, , , ,2,1,2,2,3,2,1, ,9,14, , ,2,1, ,83
+2018,23,Gold Coast,Geelong,28 ,"Witts, Jarrod",4,1,2,6, , ,43,5, , ,4, , , , ,4,2, , ,1, , ,90
+2018,23,Gold Coast,Geelong,15 ,"Young, Aaron",7,3,6,13, ,1, ,2, ,5, ,3, ,1, ,3,10,1,1,2,1,1,83

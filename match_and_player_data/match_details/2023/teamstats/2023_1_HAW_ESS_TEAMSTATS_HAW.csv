@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2023,1,Hawthorn,Essendon,10 ,"Amon, Karl",12,4,8,20,1, , ,1,3,1,1,2, , , ,3,18, , , ,1,1,80
+2023,1,Hawthorn,Essendon,36 ,"Blanck, James",3,3,4,7, , , ,2,1, , ,2, ,1, ,3,4,1, ,5, , ,83
+2023,1,Hawthorn,Essendon,16 ,"Bramble, Lachlan",12,8,6,18, , , ,2,3,1, ,3, ,1, ,4,10,1, ,1,2, ,87
+2023,1,Hawthorn,Essendon,22 ,"Breust, Luke",8,5,3,11,3,1, ,2, ,2, , ,1, , ,4,8,1,3,3, , ,80
+2023,1,Hawthorn,Essendon,12 ,"Day, Will",12,8,10,22, , , ,4,3,7, ,3,2, , ,2,20, , , ,1,1,88
+2023,1,Hawthorn,Essendon,8 ,"Frost, Sam",7,5,7,14, , , ,2,3, , ,4, ,1, ,6,7, , ,3, , ,91
+2023,1,Hawthorn,Essendon,26 ,"Greene, Fergus",5,2,1,6,1, , , , ,3, ,3,1, , ,3,3, ,1, , , ,82
+2023,1,Hawthorn,Essendon,15 ,"Hardwick, Blake",12,9,5,17,2, , ,5,3,1, ,4, ,1, ,3,13,1,3,4, ,1,90
+2023,1,Hawthorn,Essendon,4 ,"Impey, Jarman",12,7,6,18, , , ,2,1,2, ,2,1,1, ,4,16,1, , ,1, ,75
+2023,1,Hawthorn,Essendon,9 ,"Jiath, Changkuoth",11,3,8,19,1, , , ,2,3, ,5, ,2, ,4,14, , ,4,4, ,76
+2023,1,Hawthorn,Essendon,23 ↓,"Koschitzke, Jacob",3, ,1,4, ,1, ,2,1,1, , ,2, , ,4, , , , , , ,49
+2023,1,Hawthorn,Essendon,31 ,"Macdonald, Connor",15,11,5,20, , , ,1,1,2, ,1, ,1, ,3,18, , , , , ,79
+2023,1,Hawthorn,Essendon,28 ,"Mackenzie, Cam",13,4,5,18, , , ,3,2,3,3, ,2, , ,9,9,1, , , ,1,80
+2023,1,Hawthorn,Essendon,32 ,"Maginness, Finn",9,6,3,12, , , ,1,1,2, ,3, ,2, , ,12, , , , , ,96
+2023,1,Hawthorn,Essendon,17 ,"Meek, Lloyd",3,6,6,9, , ,12, ,1, ,2,1,1,1, ,3,7, , ,1, , ,71
+2023,1,Hawthorn,Essendon,13 ,"Moore, Dylan",10,9,10,20, , , ,2, ,2, ,2,1, , ,7,13, ,1,1, , ,80
+2023,1,Hawthorn,Essendon,11 ↑,"Nash, Conor",6,1,6,12, , , ,2, ,2,3,2, , , ,6,6, , ,2, , ,41
+2023,1,Hawthorn,Essendon,3 ,"Newcombe, Jai",8,3,11,19, , , ,3,2,3,4,5, , , ,10,9,1, ,1,1, ,86
+2023,1,Hawthorn,Essendon,7 ,"Reeves, Ned",3,1,3,6, , ,18, ,1,1, ,2,1,1, ,3,3, , ,5, , ,71
+2023,1,Hawthorn,Essendon,6 ,"Sicily, James",22,15,8,30, ,1, ,1,10,1,3,5,1,1, ,9,19,2, ,3,1, ,93
+2023,1,Hawthorn,Essendon,25 ,"Ward, Josh",12,8,14,26, ,1, ,4,6,2,3,1, ,1, ,5,22, , ,1, , ,83
+2023,1,Hawthorn,Essendon,20 ,"Wingard, Chad",8,3,5,13,1,2, ,1, ,3, ,2,1, , ,5,8, , , , , ,59
+2023,1,Hawthorn,Essendon,5 ,"Worpel, James",18,3,11,29, ,2, ,3,1,7,7,2,3,2, ,14,15, , , , ,2,81

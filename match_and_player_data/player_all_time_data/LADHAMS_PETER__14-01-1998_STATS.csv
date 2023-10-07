@@ -1,0 +1,53 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Port Adelaide,2019,1,Hawthorn,10,L,38,6,1,7,13,1,1,9,,1,,2,2,3,1,,8,8,,1,4,,,85
+Port Adelaide,2019,2,Western Bulldogs,15,L,38,4,2,8,12,1,,15,3,,,,3,,1,,9,5,,1,4,,,71
+Port Adelaide,2019,3,Essendon,20,W,38,7,2,11,18,,,22,2,2,5,7,1,2,1,,10,8,,,3,,1,75
+Port Adelaide,2019,4,Sydney,21,W,38,12,4,11,23,,1,19,2,2,6,7,,2,,,12,11,1,,5,,1,73
+Port Adelaide,2019,5,North Melbourne,22,L,38,3,,4,7,,,9,3,1,,1,2,,1,,5,1,,,2,,,82
+Port Adelaide,2020,6,Carlton,7,W,38,9,3,12,21,,,16,2,,1,4,3,1,,1,6,14,,,,,,83
+Port Adelaide,2020,7,St Kilda,8,L,38,6,3,14,20,,,14,,3,,4,6,4,4,,14,7,,,3,,,92
+Port Adelaide,2020,8,Melbourne,9,W,38,4,1,9,13,,1,10,1,,1,3,6,1,5,,7,7,,,,,,81
+Port Adelaide,2020,9,Western Bulldogs,10,W,38,7,3,11,18,1,,32,3,1,3,5,1,2,,1,14,4,2,1,4,,,84
+Port Adelaide,2020,10,Richmond,11,W,38,6,5,6,12,2,,11,6,,1,,2,1,1,,10,3,4,2,2,,,74
+Port Adelaide,2020,11,Geelong,12,L,38,8,3,4,12,,,9,2,1,2,,1,1,1,,4,8,1,,1,,1,70
+Port Adelaide,2020,12,Essendon,17,W,38,3,,5,8,1,,10,2,1,2,3,1,1,1,,6,2,,,2,,,84
+Port Adelaide,2020,13,Collingwood,18,W,38,6,2,2,8,,,4,1,,1,1,6,1,3,,5,4,2,,1,,,80
+Port Adelaide,2020,14,Geelong,QF,W,38,7,1,7,14,1,1,4,1,,3,1,3,1,2,,5,7,,1,1,,,85
+Port Adelaide,2020,15,Richmond,PF,L,38,4,,2,6,1,,14,1,,1,,5,4,5,,6,,,,1,,,87
+Port Adelaide,2021,16,North Melbourne,1,W,38,7,4,8,15,,,7,2,,3,2,2,,1,,4,10,,2,,,1,83
+Port Adelaide,2021,17,Essendon,2,W,38,8,3,3,11,2,,10,2,,1,1,2,2,1,,7,5,1,1,5,,,90
+Port Adelaide,2021,18,West Coast,3,L,38,2,,3,5,,,6,4,,1,2,5,2,2,,3,2,,,1,,,64
+Port Adelaide,2021,19,Richmond,4,W,38,2,1,5,7,,,5,,,,1,,1,,,4,4,,,1,,,75
+Port Adelaide,2021,20,Western Bulldogs,9,L,38,14,3,4,18,,,37,3,4,5,2,10,2,4,,6,10,,,5,,,86
+Port Adelaide,2021,21,Collingwood,10,W,38,12,9,9,21,,,10,1,2,5,3,1,,,,9,11,4,,3,,,86
+Port Adelaide,2021,22,Fremantle,11,W,38,11,4,9,20,2,,21,3,1,5,4,3,1,2,,9,12,1,1,1,,1,89
+Port Adelaide,2021,23,Geelong,13,L,38,5,3,12,17,,,29,1,,2,4,3,3,2,,10,7,,,1,,,85
+Port Adelaide,2021,24,Gold Coast,14,W,38,5,3,10,15,,1,14,6,,2,3,2,2,1,,11,5,3,,3,,,74
+Port Adelaide,2021,25,St Kilda,18,W,38,7,1,5,12,,,10,5,1,2,1,3,3,1,,7,6,,,1,,1,80
+Port Adelaide,2021,26,Collingwood,19,W,38,13,5,4,17,2,,6,1,,4,2,4,1,,,9,6,2,3,3,,2,85
+Port Adelaide,2021,27,Greater Western Sydney,20,W,38,9,3,4,13,3,1,12,1,,2,2,6,1,2,,5,8,,1,1,,1,79
+Port Adelaide,2021,28,Adelaide,21,W,38,9,5,3,12,,2,4,3,,,,3,,1,,8,5,3,2,1,,,80
+Port Adelaide,2021,29,Carlton,22,W,38,9,6,8,17,1,1,23,4,1,2,1,,3,,,12,5,3,2,2,,,77
+Port Adelaide,2021,30,Western Bulldogs,23,W,38,4,4,4,8,2,,5,1,,2,1,,,,,4,3,1,2,1,,,77
+Port Adelaide,2021,31,Geelong,QF,W,38,7,4,7,14,1,,11,2,1,1,1,3,2,2,,7,6,,1,2,,,78
+Port Adelaide,2021,32,Western Bulldogs,PF,L,38,5,,4,9,,,18,1,,2,2,3,1,1,,6,1,,,5,,,74
+Sydney,2022,33,North Melbourne,4,W,19,5,4,7,12,,,27,1,1,1,3,7,1,5,,2,9,,,5,,,70
+Sydney,2022,34,West Coast,5,W,19,13,4,11,24,1,,25,2,1,5,5,5,3,1,2,13,11,,,5,,,86
+Sydney,2022,35,Hawthorn,6,W,19,10,7,9,19,,1,34,2,,5,6,2,1,2,2,8,10,1,,5,,,81
+Sydney,2022,36,Brisbane Lions,7,L,19,8,4,15,23,,1,25,3,2,,4,6,2,3,,12,13,,1,5,,,84
+Sydney,2022,37,Gold Coast,8,L,19,7,2,9,16,,,16,2,1,5,4,6,4,4,,9,8,,,3,,,74
+Sydney,2022,38,Essendon,9,W,19,8,4,4,12,,2,14,1,,,,2,2,1,,6,7,1,2,2,,,73
+Sydney,2022,39,Carlton,10,L,19,4,,8,12,,,10,2,,1,1,5,3,3,,7,5,,,1,,,56
+Sydney,2022,40,Richmond,11,W,19,11,1,8,19,,,26,2,2,3,9,5,4,3,,16,4,,1,3,,1,80
+Sydney,2022,41,Melbourne,12,W,19,6,1,7,13,,,16,1,1,2,5,3,2,3,,9,5,1,,5,,,77
+Sydney,2022,42,Port Adelaide,14,L,19,7,1,3,10,1,,23,,,1,4,6,3,4,,9,3,,,1,,,76
+Sydney,2022,43,Western Bulldogs,17,W,19,3,1,,3,,,10,,,,,1,,,,4,1,,,3,,,27
+Sydney,2023,44,Gold Coast,1,W,19,7,4,13,20,,,15,3,1,1,5,5,1,3,,7,13,,,2,,,74
+Sydney,2023,45,Hawthorn,2,W,19,8,3,5,13,,,17,2,1,3,4,5,3,1,,7,5,,,1,,,75
+Sydney,2023,46,Melbourne,3,L,19,8,6,8,16,,,17,2,,5,5,5,,2,,8,8,1,1,2,,,80
+Sydney,2023,47,Port Adelaide,4,L,19,8,2,8,16,1,,25,2,1,5,7,4,5,2,,13,5,,,4,,,80
+Sydney,2023,48,Richmond,5,W,19,10,1,7,17,,,30,1,3,3,8,8,1,2,,11,6,,,3,,2,80
+Sydney,2023,49,Geelong,6,L,19,11,5,3,14,,,28,3,,4,3,4,1,2,,2,10,,,5,,,74
+Sydney,2023,50,Greater Western Sydney,7,L,19,13,5,11,24,1,,34,4,1,6,4,4,1,1,,12,12,1,1,2,,1,75
+Sydney,2023,51,Collingwood,8,L,19,5,1,6,11,,1,9,1,,1,1,3,,,,5,6,1,1,2,,,51
+Sydney,2023,52,North Melbourne,10,W,19,5,2,1,6,2,,7,,1,1,,4,1,1,,3,3,,1,3,,,52

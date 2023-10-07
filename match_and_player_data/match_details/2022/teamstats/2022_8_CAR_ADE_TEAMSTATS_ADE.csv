@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2022,8,Adelaide,Carlton,21 ,"Berry, Sam",9,5,12,21, , , ,9,7,2,1,6,1, , ,8,15, ,1,1, ,1,69
+2022,8,Adelaide,Carlton,16 ,"Brown, Luke",12,6,6,18, , , , ,5,1, ,2,1, , ,6,11, , ,3, , ,86
+2022,8,Adelaide,Carlton,41 ,"Butts, Jordon",9,6,4,13, , , , ,3, , ,4, ,3, ,4,8,1, ,3, , ,85
+2022,8,Adelaide,Carlton,15 ,"Cook, Brayden",4,2,4,8,1, , ,3, ,2,1, , , , ,3,5, , ,1,1, ,68
+2022,8,Adelaide,Carlton,12 ,"Dawson, Jordan",23,10,7,30,1, , ,3,7,3,2,3, ,1, ,7,20, , ,1, , ,92
+2022,8,Adelaide,Carlton,39 ,"Doedee, Tom",13,5,3,16, , , ,1,3,2, ,1,2,1, ,4,10, , ,5, , ,97
+2022,8,Adelaide,Carlton,22 ,"Frampton, Billy",14,6,1,15,1, , , ,7,1, ,3,1,3, ,1,9, , ,9, ,1,93
+2022,8,Adelaide,Carlton,44 ,"Gollant, Lachlan",7,3,2,9, ,1, , , ,2, ,2,2,1, ,2,7, , ,1, , ,73
+2022,8,Adelaide,Carlton,17 ,"Hamill, Will",7,4,8,15, , , , ,3,1,1,2, ,1, ,7,8,1, ,6, ,1,69
+2022,8,Adelaide,Carlton,6 ,"Hately, Jackson",10,3,5,15, , , ,6, ,5,4,4,3,3, ,8,7,1,1,1, , ,86
+2022,8,Adelaide,Carlton,34 ,"Himmelberg, Elliott",4,2,5,9,1, ,6,2, ,2, ,2,2,2, ,4,5, , ,1, , ,84
+2022,8,Adelaide,Carlton,20 ,"Hinge, Mitch",13,8,4,17, ,1, ,2,3,1, ,7,1,2, ,4,12, , ,5, , ,75
+2022,8,Adelaide,Carlton,1 ,"Jones, Chayce",11,3,7,18, ,1, ,2,5,5,3,5, ,3, ,7,12, , ,1,1,2,87
+2022,8,Adelaide,Carlton,2 ,"Keays, Ben",11,3,18,29, , , ,6,1,3,2,5,2,2, ,11,18, , ,1, , ,83
+2022,8,Adelaide,Carlton,29 ,"Laird, Rory",14,5,19,33, , , ,7,2,5,8,5,2,1, ,12,22, , , , , ,75
+2022,8,Adelaide,Carlton,23 ,"McAdam, Shane",7,5,4,11,2,1, ,3, ,1,1,2,3,1, ,6,6,2,3,1,1, ,76
+2022,8,Adelaide,Carlton,4 ↓,"Murphy, Lachlan",7,4,2,9, , , ,1,3,3, ,2,1, , ,4,4, , , , , ,62
+2022,8,Adelaide,Carlton,43 ,"OBrien, Reilly",3, ,4,7, , ,38,2, , ,5,2,1,1, ,7,1, , ,5, , ,77
+2022,8,Adelaide,Carlton,8 ,"Rachele, Josh",10,2,2,12,1,2, ,2,1, , ,3, , , ,3,11, , ,1, , ,85
+2022,8,Adelaide,Carlton,31 ↑,"Rowe, James",2,1,3,5, , , , , , , ,1, , , ,1,4, , ,1, , ,23
+2022,8,Adelaide,Carlton,26 ,"Schoenberg, Harry",9,3,13,22,1, , ,6,3,2,2,7,1,1, ,8,15, , ,1, , ,78
+2022,8,Adelaide,Carlton,38 ,"Sholl, Lachlan",9,4,6,15, , , , ,4,2,1,2, ,1, ,3,12, , , , ,1,83
+2022,8,Adelaide,Carlton,13 ,"Walker, Taylor",10,3,6,16,2,1,2,1, ,6, ,2,1,2, ,8,10, ,1,2, ,1,93

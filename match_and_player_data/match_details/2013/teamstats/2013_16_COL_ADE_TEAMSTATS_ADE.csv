@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2013,16,Adelaide,Collingwood,16 ,"Brown, Luke",11,6,8,19, , , ,3,5,2,1, ,1, , ,7,13, , ,6,1, ,88
+2013,16,Adelaide,Collingwood,2 ,"Crouch, Brad",13,7,9,22, ,1, ,7,1,3,3, ,1, , ,6,17,1, , ,1, ,84
+2013,16,Adelaide,Collingwood,32 ,"Dangerfield, Patrick",10,4,5,15, ,1,1,4, ,6,3,3, , , ,7,8,1,1, , ,1,75
+2013,16,Adelaide,Collingwood,26 ,"Douglas, Richard",14,6,10,24,1,2, ,4,2,5, ,3,2,2, ,8,15,1,3,3, , ,84
+2013,16,Adelaide,Collingwood,45 ,"Henderson, Ricky",18,7,7,25, , , ,4,5,1, ,1,1, , ,7,16,1, , ,1, ,84
+2013,16,Adelaide,Collingwood,24 ,"Jacobs, Sam",8,7,6,14, , ,18,1,2,2,2,2,1,1, ,7,7,3, ,3, , ,85
+2013,16,Adelaide,Collingwood,10 ↑,"Jaensch, Matthew",2,1,1,3, , , , , , , ,1,1, , ,2,2, , , , , ,23
+2013,16,Adelaide,Collingwood,4 ,"Jenkins, Josh",6,4,1,7, ,3,6,2, ,1, , , , , ,4,3,2,2,3, , ,88
+2013,16,Adelaide,Collingwood,46 ,"Laird, Rory",11,4,11,22, , , ,1,2, ,1, ,1, , ,7,15,1, ,1, , ,74
+2013,16,Adelaide,Collingwood,27 ,"Lynch, Tom",15,11,7,22,4,1, ,1,1,2, ,1,1, ,1,3,18, ,1,1, , ,89
+2013,16,Adelaide,Collingwood,31 ,"Lyons, Jarryd",10,3,7,17,4,1, ,2,1,2,3,1,1, , ,9,8, ,1, , , ,84
+2013,16,Adelaide,Collingwood,14 ,"Mackay, David",10,5,8,18, , , ,1, ,3, ,2,1,2, ,5,13, , ,1,1, ,89
+2013,16,Adelaide,Collingwood,22 ,"Otten, Andy",3,3,1,4, , , ,2, , , ,1,1,1, ,2,3, , ,2, ,1,87
+2013,16,Adelaide,Collingwood,40 ,"Porplyzia, Jason",13,7,6,19,3,1, ,2, ,4,1,4, ,1, ,12,8,1,2,1, , ,86
+2013,16,Adelaide,Collingwood,25 ,"Rutten, Ben",10,4,2,12, , , , ,3, , ,1,2,1, ,5,7, , ,5, , ,90
+2013,16,Adelaide,Collingwood,9 ,"Sloane, Rory",8,6,10,18, , , ,5,3,1,3,1, , , ,8,10,1,1,1, ,1,87
+2013,16,Adelaide,Collingwood,33 ,"Smith, Brodie",16,10,4,20, , , ,1,4,4,1,3, ,2, ,1,19, , ,3, , ,87
+2013,16,Adelaide,Collingwood,12 ,"Talia, Daniel",5,4,4,9, , , , ,1, , ,1,1,1, ,4,6,1, ,8, , ,97
+2013,16,Adelaide,Collingwood,5 ,"Thompson, Scott",10,4,13,23, , , ,4, ,4,3,5, ,1, ,11,13, , ,1, , ,87
+2013,16,Adelaide,Collingwood,7 ,"van Berlo, Nathan",12,4,2,14, ,1, ,8,3,3,3,3,1,1, ,6,8, , ,2, , ,86
+2013,16,Adelaide,Collingwood,17 ,"Vince, Bernie",17,6,4,21, , , ,3,4,5,2,1,1, , ,6,14, , ,1, ,2,87
+2013,16,Adelaide,Collingwood,11 ↓,"Wright, Matthew",2,3,8,10, , , ,1,2, , ,4, , , ,5,5,1, ,1, , ,60

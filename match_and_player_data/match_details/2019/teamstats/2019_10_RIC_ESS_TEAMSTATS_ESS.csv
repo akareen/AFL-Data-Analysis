@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2019,10,Essendon,Richmond,29 ,"Ambrose, Patrick",7,4,6,13, ,2, ,2,2,1, ,3, ,2, ,8,4,2,2,7, ,1,87
+2019,10,Essendon,Richmond,16 ,"Begley, Josh",7,1,2,9,1,2, ,1, ,3, ,2, ,1, ,7,3,1,1,3, , ,94
+2019,10,Essendon,Richmond,2 ,"Bellchambers, Tom",10,4,5,15,1, ,39,4,2,5,4,6,3,2,2,12,5,3,2,6, , ,84
+2019,10,Essendon,Richmond,10 ,"Francis, Aaron",3,3,9,12, , , ,4, ,1, ,4,1,2, ,8,6, , ,1, , ,89
+2019,10,Essendon,Richmond,35 ,"Guelfi, Matt",9,3,3,12, , , ,5,1,2, ,3, , , ,7,4,1, , , , ,73
+2019,10,Essendon,Richmond,21 ,"Heppell, Dyson",13,3,13,26, ,1, ,1,4,2,3,6,1,2, ,11,13, , ,1, ,1,89
+2019,10,Essendon,Richmond,26 ,"Hooker, Cale",9,4,5,14, , , ,2,10, ,1,5,3,1, ,10,4,2, ,10, , ,90
+2019,10,Essendon,Richmond,18 ,"Hurley, Michael",13,2,4,17, , , , ,5,1,1,4,1, , ,4,10, , ,5, , ,90
+2019,10,Essendon,Richmond,4 ,"Langford, Kyle",13,5,9,22,3, , ,3, ,4,2,3, ,2, ,10,10,1,1, , , ,79
+2019,10,Essendon,Richmond,15 ,"Laverde, Jayden",5,2,5,10,1,1, ,6, ,1,1,1,2,1, ,6,5, ,1,3, , ,85
+2019,10,Essendon,Richmond,43 ,"McDonald-Tipungwuti, Anthony",4,1,2,6, ,1, ,4,2,2, ,2,2,1, ,4,4, , ,3, ,1,75
+2019,10,Essendon,Richmond,1 ,"McGrath, Andrew",12, ,10,22, , , ,3,1,7,1,3,1, , ,9,14, , ,5, , ,74
+2019,10,Essendon,Richmond,45 ,"McKenna, Conor",12,2,5,17, , , , ,4,4,2,2, , , ,3,11, , ,2,3, ,89
+2019,10,Essendon,Richmond,44 ,"McKernan, Shaun",8,5,4,12, , ,8,2, ,3,2,3, ,1, ,8,5,3, ,4, , ,86
+2019,10,Essendon,Richmond,41 ,"McNiece, Ben",2,1,2,4, , , ,1, , , ,4,1,1, ,4,1,1, ,4, , ,88
+2019,10,Essendon,Richmond,7 ,"Merrett, Zach",17,3,13,30, ,2, ,8,4,4,8,7, ,1, ,15,13, , ,3, ,1,79
+2019,10,Essendon,Richmond,3 ,"Parish, Darcy",18, ,13,31, , , ,5,1,5,9,2,1, , ,19,12, , ,1, , ,83
+2019,10,Essendon,Richmond,27 ,"Redman, Mason",8,2,5,13, ,1, ,3,3, ,1,4,1, , ,5,9,1, ,3, , ,92
+2019,10,Essendon,Richmond,42 ,"Saad, Adam",11,2,6,17, , , ,6,8,1, ,6, ,2, ,6,7, , ,3, , ,91
+2019,10,Essendon,Richmond,9 ,"Shiel, Dylan",14,1,9,23, , , ,4,3,3,4,5,2, , ,11,8, , , , , ,64
+2019,10,Essendon,Richmond,25 ,"Stringer, Jake",4,1,3,7, ,2, ,4,1,1,1,1,1,1, ,6,2, ,1,1, , ,37
+2019,10,Essendon,Richmond,11 ,"Zaharakis, David",17,5,2,19, , , ,3,4,1,2,4,2,1, ,7,12, , , , , ,83

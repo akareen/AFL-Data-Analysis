@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2012,7,Essendon,West Coast,44 ,"Bellchambers, Tom",7,6,6,13,1, ,22, , ,1,3,3, ,3, ,4,8,2,1,3, , ,91
+2012,7,Essendon,West Coast,22 ,"Carlisle, Jake",9,4,3,12, ,2, ,2,1,1, ,1, , , ,4,7,1,1,7, , ,94
+2012,7,Essendon,West Coast,32 ↑,"Colyer, Travis",1, ,1,2, , , ,2, ,2, , , , , , ,2, , , , , ,24
+2012,7,Essendon,West Coast,12 ,"Crameri, Stewart",9,7,8,17,3,2, ,1, ,3, ,3,2,2, ,9,7,1,4, , ,1,89
+2012,7,Essendon,West Coast,29 ,"Davey, Alwyn",9,3,3,12,3,2, ,3, ,2, , ,2, , ,4,9, ,1, , ,1,73
+2012,7,Essendon,West Coast,15 ,"Dempsey, Courtenay",15,5,4,19, , , ,2,1, , ,1,2, , ,5,14, , ,4, , ,81
+2012,7,Essendon,West Coast,2 ,"Dyson, Ricky",16,8,4,20,1, , ,1,4,5,1, , , , ,3,16, , ,2, ,2,82
+2012,7,Essendon,West Coast,31 ,"Fletcher, Dustin",17,6,1,18, , , ,2,3,1, , ,1, , ,3,10,1, ,6, , ,92
+2012,7,Essendon,West Coast,34 ,"Hardingham, Kyle",8,6,4,12, , , ,1,4,1,1, , , , ,8,4,3, ,6, , ,90
+2012,7,Essendon,West Coast,21 ,"Heppell, Dyson",9,6,9,18, ,1, , ,2,2, ,2, ,1, ,3,15, , ,3,1, ,84
+2012,7,Essendon,West Coast,39 ,"Hocking, Heath",5,2,7,12, , , ,5, ,2,2,2,1,1, ,5,7, , , , , ,82
+2012,7,Essendon,West Coast,26 ,"Hooker, Cale",11,11,8,19, , , , ,5, , ,1, ,1, ,5,14,3, ,3, , ,92
+2012,7,Essendon,West Coast,40 ,"Howlett, Ben",11,4,10,21, , , ,7,1,7,6,4, ,3, ,14,7, , ,1, ,1,84
+2012,7,Essendon,West Coast,7 ,"Jetta, Leroy",6,3,4,10,2,1, ,3, ,5, , , , , ,2,7, ,1,2,1,2,86
+2012,7,Essendon,West Coast,14 ,"Lonergan, Sam",7,2,6,13, , , ,2, ,4,4, , , , ,7,6, ,1, , , ,81
+2012,7,Essendon,West Coast,42 ↓,"Lovett-Murray, Nathan",6,1,6,12,1, ,2,3, ,2,1,1,1,1, ,3,9, , , , , ,57
+2012,7,Essendon,West Coast,17 ,"Melksham, Jake",20,5,2,22,1,1,1,4,2,6,2,8,6,2, ,13,8,2,1,3, ,2,82
+2012,7,Essendon,West Coast,6 ,"Monfries, Angus",9,6,8,17, , , ,3, ,3,1, , , , ,3,14, , , , ,1,86
+2012,7,Essendon,West Coast,30 ,"Ryder, Paddy",13,9,4,17,2,2,7,1, ,4,2,1, ,1,1,9,8,4,4,4, ,1,87
+2012,7,Essendon,West Coast,5 ,"Stanton, Brent",20,9,16,36,2,1, ,3,4,4,5,2,2,2,3,15,23,1,3, , , ,89
+2012,7,Essendon,West Coast,4 ,"Watson, Jobe",19,5,17,36, ,1, ,2,4,4,11,1,2,1,2,20,17, , , ,1, ,85
+2012,7,Essendon,West Coast,11 ,"Zaharakis, David",20,3,12,32, ,1, ,3,2,4,3,2, , , ,8,24, , ,1,1,1,90

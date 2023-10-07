@@ -1,0 +1,35 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Gold Coast,2020,1,Hawthorn,18,L,50,3,2,3,6,1,,,1,,,,,,,,2,5,,,1,,,60
+Gold Coast,2021,2,Western Bulldogs,5,L,50,15,8,6,21,,,,2,3,1,,2,,1,,7,13,,,5,,,85
+Gold Coast,2021,3,Sydney,6,W,50,9,7,5,14,,,,4,1,,,,,,,4,10,1,,1,,,84
+Gold Coast,2021,4,Collingwood,7,W,50,6,3,7,13,,,,,,2,,1,,1,,3,10,,,,,,83
+Gold Coast,2021,5,St Kilda,8,L,50,10,8,5,15,,,,1,2,,,1,,,,4,11,1,,2,,,85
+Gold Coast,2021,6,Brisbane Lions,9,L,50,4,3,2,6,,,,4,1,,,,,,,2,5,,,5,2,,86
+Gold Coast,2021,7,Hawthorn,11,W,50,4,3,3,7,,,,,1,1,,5,,1,,2,5,1,,1,,,77
+Gold Coast,2021,8,Melbourne,20,L,50,9,7,10,19,,,,,3,1,,2,,,,4,15,,,7,5,,84
+Gold Coast,2021,9,Carlton,21,W,50,13,4,5,18,,,,1,5,,,2,,,,4,14,,,3,,,67
+Gold Coast,2021,10,Essendon,22,L,50,12,7,5,17,,,,,3,,,3,,,,3,14,,,3,,,73
+Gold Coast,2021,11,Sydney,23,L,50,8,6,7,15,,,,2,1,2,,4,1,2,,3,14,,,3,2,1,87
+Gold Coast,2022,12,Carlton,4,W,50,,,3,3,,,,1,1,,,1,,1,,2,1,,,2,,,26
+Gold Coast,2022,13,St Kilda,5,L,50,8,8,7,15,,,,1,7,2,,,1,,,4,13,,,4,2,,82
+Gold Coast,2022,14,Collingwood,7,L,50,4,4,4,8,,,,4,1,,,6,1,3,,3,6,,,2,2,,74
+Gold Coast,2022,15,Sydney,8,W,50,11,8,4,15,,,,,1,2,,2,,,,3,11,1,,4,,,75
+Gold Coast,2022,16,Fremantle,9,W,50,6,2,7,13,,,,1,1,2,,2,,1,,6,6,,,2,1,,68
+Gold Coast,2022,17,Western Bulldogs,10,L,50,13,6,1,14,1,,,2,4,1,,,1,,,3,8,,,2,,,38
+Gold Coast,2022,18,North Melbourne,12,W,50,15,4,2,17,,,,1,3,3,1,2,1,,,8,10,,,4,1,,83
+Gold Coast,2022,19,Adelaide,14,W,50,11,5,4,15,,,,2,3,2,,3,1,3,,6,6,1,,3,,,72
+Gold Coast,2022,20,Port Adelaide,15,L,50,3,,1,4,,,,3,1,,,2,,,,2,1,,,3,1,,73
+Gold Coast,2022,21,Brisbane Lions,19,L,50,11,6,,11,,,,1,4,2,1,,,,,1,8,,,3,2,,82
+Gold Coast,2022,22,West Coast,20,W,50,6,3,2,8,,,,1,,1,,1,,,,1,7,1,,3,1,,83
+Gold Coast,2022,23,Hawthorn,21,L,50,17,6,3,20,,,,3,8,5,,1,,,,5,13,,,3,2,,80
+Gold Coast,2022,24,Geelong,22,L,50,13,8,5,18,,,,1,6,1,1,1,,,,4,14,,,5,3,,91
+Gold Coast,2022,25,North Melbourne,23,W,50,5,4,5,10,,,,,2,,,5,,3,,4,7,,,4,1,,83
+Gold Coast,2023,26,Sydney,1,L,50,11,3,7,18,,,,3,7,2,,5,2,1,,8,10,,,6,,,86
+Gold Coast,2023,27,Geelong,3,W,50,7,4,7,14,,1,,2,2,1,1,3,2,1,,9,6,1,,4,2,,73
+Gold Coast,2023,28,Western Bulldogs,11,W,50,4,1,,4,,,,2,,2,,1,2,1,,3,1,,1,,,,13
+Gold Coast,2023,29,Adelaide,12,W,50,5,3,5,10,,,,,3,,,2,,1,,4,5,,,1,,,75
+Gold Coast,2023,30,Port Adelaide,17,L,50,2,1,4,6,,,,1,,2,,1,,,,4,2,1,,1,1,,34
+Gold Coast,2023,31,Greater Western Sydney,19,L,50,4,,2,6,,,,,,2,,2,1,,,3,3,,,,,,25
+Gold Coast,2023,32,Brisbane Lions,20,W,50,2,1,,2,1,,,,,1,,,,,,1,1,,1,3,,,18
+Gold Coast,2023,33,Adelaide,21,L,50,5,5,1,6,,,,8,1,2,,2,1,,,4,4,1,,2,1,,72
+Gold Coast,2023,34,Sydney,22,L,50,8,3,3,11,,,,1,4,1,,3,2,2,,4,7,,,2,,,74

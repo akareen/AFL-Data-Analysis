@@ -1,2 +1,0 @@
-class Match:
-    pass

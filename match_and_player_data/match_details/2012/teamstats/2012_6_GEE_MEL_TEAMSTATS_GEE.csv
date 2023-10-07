@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2012,6,Geelong,Melbourne,3 ↓,"Bartel, Jimmy",8,1,8,16,2, ,1,5,1,3,2,3,2,1, ,8,9, ,1, , , ,62
+2012,6,Geelong,Melbourne,1 ,"Brown, Mitch",6,3,3,9, ,2, ,3, ,1, , , , , ,2,7, ,1, ,3,1,85
+2012,6,Geelong,Melbourne,17 ,"Byrnes, Shannon",5,4,11,16, ,1, ,6, ,4,3, , , , ,4,12, , ,1, ,1,78
+2012,6,Geelong,Melbourne,35 ,"Chapman, Paul",15,9,7,22,3, , ,5,1,4,3,2,1,2, ,5,17, ,3, , ,1,88
+2012,6,Geelong,Melbourne,28 ,"Christensen, Allen",10,4,12,22, ,1, ,1,2,1,2, , , , ,5,16,1,1, , , ,78
+2012,6,Geelong,Melbourne,11 ,"Corey, Joel",10,2,24,34, ,2,2,3, ,2,10,2,3, ,2,16,17, ,1,3,1,1,84
+2012,6,Geelong,Melbourne,22 ,"Duncan, Mitch",15,8,16,31, ,1, ,4,1,5,1,1,1,1, ,10,20,3,1, , ,1,83
+2012,6,Geelong,Melbourne,44 ,"Enright, Corey",13,6,18,31, , , ,3,3,1, ,3,1, , ,8,21, , ,5, , ,90
+2012,6,Geelong,Melbourne,25 ,"Gillies, Tom",11,8,8,19, , , ,3,6,2, ,2, ,1, ,6,14,1, ,1,1, ,95
+2012,6,Geelong,Melbourne,29 ↑,"Guthrie, Cameron",1,1,2,3, , , , ,1, , , , , , ,1,2, , ,2, , ,31
+2012,6,Geelong,Melbourne,26 ,"Hawkins, Tom",13,10,3,16,1,2,7, , ,5,2,1,1, , ,5,12, ,4,2, ,1,86
+2012,6,Geelong,Melbourne,8 ,"Hunt, Josh",13,4,6,19, , , ,3,3,4,1,3, ,1, ,3,15, , ,4, , ,83
+2012,6,Geelong,Melbourne,20 ,"Johnson, Steve",18,10,17,35,3,2, ,7,2,6,4,3, ,1,3,11,23,2,4,2, ,2,90
+2012,6,Geelong,Melbourne,9 ,"Kelly, James",14,3,10,24,1,1, ,3, ,2,6,1, ,1, ,4,17, , ,1, , ,78
+2012,6,Geelong,Melbourne,4 ,"Mackie, Andrew",10,6,8,18,2, , ,2,3,2,1,2, ,1, ,5,13,1, ,6, , ,88
+2012,6,Geelong,Melbourne,32 ,"Motlop, Steven",17,3,11,28,1, , ,2,2,7,1,5, ,1,1,8,17, , ,3,3,1,89
+2012,6,Geelong,Melbourne,31 ,"Podsiadly, James",16,9,3,19,3, , ,3, ,6,1,1,2, , ,8,12,2,1,3, ,2,96
+2012,6,Geelong,Melbourne,30 ,"Scarlett, Matthew",15,8,6,21, , , ,3,5, , ,1, ,1, ,4,15,2, ,6,1,1,98
+2012,6,Geelong,Melbourne,2 ,"Smedts, Billie",8,5,3,11, ,1, ,1, ,3, ,1, , , ,3,8, , ,1,1, ,76
+2012,6,Geelong,Melbourne,41 ,"Stringer, Jesse",8,3,10,18,1,1, ,4,1,2,1,3, ,2, ,5,14, ,1,2, , ,73
+2012,6,Geelong,Melbourne,7 ,"Taylor, Harry",9,7,16,25, , , ,2,2,1,2,1,1, , ,7,18, , ,6, , ,92
+2012,6,Geelong,Melbourne,12 ,"West, Trent",2,1,4,6, , ,20,1,1,1, ,2, ,2, ,1,5, , ,6, , ,79

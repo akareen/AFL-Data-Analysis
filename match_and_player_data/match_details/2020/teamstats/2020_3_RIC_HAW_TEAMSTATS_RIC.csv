@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2020,3,Richmond,Hawthorn,12 ,"Astbury, David",9,6,8,17, , , , ,1,1, ,5,1,2, ,8,10,1, ,2, , ,91
+2020,3,Richmond,Hawthorn,29 ,"Bolton, Shai",6,3,3,9,1,1, ,1,1,3, ,5, ,2, ,3,6, ,1,1, , ,87
+2020,3,Richmond,Hawthorn,35 ,"Broad, Nathan",7,3,6,13, , ,1,1,2,1, , , , , ,5,8, , ,5, , ,81
+2020,3,Richmond,Hawthorn,22 ,"Caddy, Josh",6,5,7,13, ,1, ,1,1,1,1, , , , ,2,9,1,3, , , ,82
+2020,3,Richmond,Hawthorn,11 ,"Castagna, Jason",4,3,1,5,2,1, ,2, , , ,2, , , , ,5, ,3, , , ,80
+2020,3,Richmond,Hawthorn,9 ,"Cotchin, Trent",9,2,9,18, , , ,3, ,4,3,2,1, , ,10,6, , ,1, , ,77
+2020,3,Richmond,Hawthorn,10 ,"Edwards, Shane",4, ,8,12,1, , , , ,2,2,2,1, , ,6,7, , ,1, , ,83
+2020,3,Richmond,Hawthorn,34 ,"Graham, Jack",8,5,4,12, , , , ,1,2,1,2, ,1, ,3,11, , ,1, , ,76
+2020,3,Richmond,Hawthorn,2 ,"Grimes, Dylan",12,7,6,18, , , , ,1,1, ,1,3, , ,6,10,1, ,6,1, ,100
+2020,3,Richmond,Hawthorn,13 ,"Higgins, Jack",14,2,1,15, ,1, ,2,1,4, ,3,4,1, ,7,8, , , , ,1,82
+2020,3,Richmond,Hawthorn,14 ,"Houli, Bachar",10,6,15,25, , , ,2,2,3,1,3, , , ,7,17,1, , ,2, ,86
+2020,3,Richmond,Hawthorn,23 ,"Lambert, Kane",8,2,6,14, , , ,1, ,3,3,4,1,2, ,8,6, , ,2, , ,69
+2020,3,Richmond,Hawthorn,19 ,"Lynch, Tom",5,5,1,6,1,1,1, , ,2, , , , , ,4,2,3,2, , ,1,97
+2020,3,Richmond,Hawthorn,50 ,"Pickett, Marlion",7,2,3,10, , , ,2,1,2, ,4, ,1, ,4,7, , ,2, , ,62
+2020,3,Richmond,Hawthorn,3 ,"Prestia, Dion",10,2,7,17, , , , ,2,2,3,3,2, , ,10,8, , ,3, , ,79
+2020,3,Richmond,Hawthorn,8 ,"Riewoldt, Jack",10,4,1,11, ,2, ,1, ,4, ,5,1, , ,3,6,1,3,1, , ,100
+2020,3,Richmond,Hawthorn,17 ,"Rioli, Daniel",2, ,4,6, , , ,3, , , ,1, , , ,3,2, , , , ,1,72
+2020,3,Richmond,Hawthorn,5 ,"Ross, Jack",5, ,6,11, , , ,3,1,2,3,2,3, , ,7,5, , ,1, , ,69
+2020,3,Richmond,Hawthorn,15 ,"Short, Jayden",11,7,7,18, , , , ,3,3, , ,2, , ,7,11,1, ,1,1,1,77
+2020,3,Richmond,Hawthorn,20 ,"Soldo, Ivan",3, ,4,7, , ,9,3, ,1, ,4,1,3, ,3,3, , ,2, , ,78
+2020,3,Richmond,Hawthorn,44 ,"Stack, Sydney",7,4,11,18, , , ,2,2,1, ,6,1,5, ,7,14, , ,2, , ,78
+2020,3,Richmond,Hawthorn,1 ,"Vlastuin, Nick",14,6,8,22, , , , ,5,1, ,5,2,2, ,8,14, , ,2,1, ,94

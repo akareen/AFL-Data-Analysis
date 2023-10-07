@@ -1,0 +1,31 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Richmond,2009,1,Adelaide,14,L,37,7,6,5,12,,,,1,5,1,,4,,,,2,10,,,3,1,,93
+Richmond,2009,2,Carlton,15,L,37,8,7,4,12,,2,,4,,2,,2,,,,3,8,1,4,,,1,92
+Richmond,2009,3,North Melbourne,16,D,37,9,3,1,10,,3,1,1,1,4,,2,,,,5,6,2,1,,4,,85
+Richmond,2009,4,Essendon,17,W,37,8,7,6,14,2,,1,2,,,,1,,,,1,13,,2,2,,,87
+Richmond,2009,5,Melbourne,18,W,37,6,4,6,12,,1,,1,1,,1,,1,,,3,9,,1,3,1,,94
+Richmond,2009,6,Sydney,19,L,37,1,1,3,4,,,,1,1,,,1,1,,,3,1,1,,4,,,83
+Richmond,2009,7,West Coast,22,L,37,2,2,8,10,,,,,2,,,,,,,2,6,,,2,,,84
+Richmond,2010,8,Western Bulldogs,2,L,37,4,3,3,7,1,,,1,1,3,,3,,,,1,7,,1,1,,,90
+Richmond,2010,9,Sydney,3,L,37,4,3,3,7,,,1,1,,1,,1,,,,3,4,1,,1,1,,78
+Richmond,2010,10,Melbourne,4,L,37,3,2,5,8,,,,2,2,,,,1,,,1,7,,,3,,,89
+Richmond,2010,11,Collingwood,17,L,37,,3,8,8,,,,,,,,1,,1,,2,6,,,1,,,83
+Richmond,2010,12,Carlton,20,L,37,6,7,7,13,1,,1,1,,2,2,1,,1,,5,7,2,1,4,,,91
+Richmond,2010,13,St Kilda,21,L,37,6,4,3,9,,1,5,1,1,2,,2,1,1,,3,6,,1,2,,,80
+Richmond,2010,14,Port Adelaide,22,L,37,7,4,4,11,1,,7,,1,5,,2,,2,,3,8,1,1,2,,1,90
+Richmond,2011,15,Essendon,9,W,37,5,5,7,12,,1,5,1,1,1,1,2,,1,,5,7,2,2,,,1,93
+Richmond,2011,16,Brisbane Lions,13,W,37,3,4,5,8,,,,,3,,1,,,,,2,6,,,1,,,53
+Richmond,2011,17,Carlton,15,L,37,3,1,4,7,,,2,,1,,,,1,,,4,4,,,5,,,83
+Richmond,2011,18,Essendon,16,L,37,6,3,1,7,,,8,4,,3,,3,1,3,,3,4,1,1,2,,,86
+Richmond,2011,19,Sydney,21,W,37,6,3,6,12,,,,2,1,2,1,1,,,,4,8,,,5,,,87
+Richmond,2011,20,Melbourne,22,W,37,5,4,7,12,,,,1,2,,,,1,,,4,8,1,,7,,,67
+Richmond,2011,21,Adelaide,23,W,37,6,3,3,9,,,,1,2,,,1,,,,4,5,2,,5,,,85
+Richmond,2011,22,North Melbourne,24,L,37,10,5,3,13,,,,2,1,,1,3,1,2,,5,7,1,,2,,,89
+Richmond,2012,23,Carlton,1,L,37,5,3,4,9,,,,1,4,1,,4,1,2,,5,5,1,,6,,,100
+Richmond,2012,24,North Melbourne,17,L,37,5,4,9,14,,,,,3,,2,2,,1,,8,6,3,,12,,,96
+Richmond,2012,25,Carlton,18,L,37,4,4,1,5,,,,,1,,,,,,,2,3,2,,12,,,93
+Richmond,2012,26,Brisbane Lions,19,W,37,5,3,5,10,,,,1,1,1,,,1,,,1,8,1,,2,,,79
+Richmond,2012,27,Western Bulldogs,20,W,37,5,4,1,6,,,,,1,1,,3,1,2,,2,4,1,,,,,69
+Richmond,2012,28,Fremantle,21,L,37,5,8,14,19,,,,1,4,,2,3,,2,,9,11,2,,5,,,91
+Richmond,2012,29,Essendon,22,W,37,8,6,10,18,,,,1,2,1,,2,2,1,,7,11,,,4,,,86
+Richmond,2012,30,Port Adelaide,23,D,37,6,6,7,13,1,,,2,,,,2,,2,,2,11,1,1,2,,,99

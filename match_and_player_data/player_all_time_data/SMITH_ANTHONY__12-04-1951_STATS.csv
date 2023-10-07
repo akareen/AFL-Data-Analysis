@@ -1,0 +1,5 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Richmond,1969,1,Melbourne,17,W,39,1,,,1,,,,,,,,,,,,,,,,,,,
+Richmond,1972,2,Collingwood,12,L,33,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1972,3,North Melbourne,18,W,33,3,,2,5,,,,,,,,,2,2,,,,,,,,,
+Richmond,1972,4,Hawthorn,19,W,33,11,3,4,15,1,,,,,,,,2,5,,,,,,,,,

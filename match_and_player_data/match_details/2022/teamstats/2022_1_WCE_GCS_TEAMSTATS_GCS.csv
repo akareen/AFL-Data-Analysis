@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2022,1,Gold Coast,West Coast,9 ,"Ainsworth, Ben",13,5,5,18,2, , ,4, ,5, ,6,2,2, ,5,14,1,2, , ,2,80
+2022,1,Gold Coast,West Coast,15 ,"Anderson, Noah",13,5,10,23, , , ,5,1,6,4,2, ,1, ,10,15, , , ,1,1,91
+2022,1,Gold Coast,West Coast,10 ,"Ballard, Charlie",11,6,2,13, , , ,2,3,1, ,5, ,3, ,2,11,2, ,6, , ,86
+2022,1,Gold Coast,West Coast,30 ,"Casboult, Levi",5,3,2,7,2,1, ,1, ,1,1,2,2,1, ,5,2,1,2,2, , ,79
+2022,1,Gold Coast,West Coast,1 ,"Chol, Mabior",6,1,2,8,2, ,7,2, ,1, ,4, ,2, ,3,3, , ,1, , ,83
+2022,1,Gold Coast,West Coast,25 ,"Collins, Sam",5,5,5,10, , , , ,1, , ,2,1, , ,5,5,1, ,4, , ,96
+2022,1,Gold Coast,West Coast,5 ,"Davies, Alex",7, ,5,12,1, , ,5,1,2,1,2,2, , ,10,3, , ,1, ,2,70
+2022,1,Gold Coast,West Coast,4 ,"Ellis, Brandon",9,2,10,19, ,1, ,6,2,5,3,1,1,1, ,6,13, , ,1, ,1,83
+2022,1,Gold Coast,West Coast,8 ,"Fiorini, Brayden",16,4,8,24, , , ,5,2,9,5,4, ,1, ,9,15, , ,3, , ,76
+2022,1,Gold Coast,West Coast,46 ,"Graham, Caleb",4,2,3,7, , , , , , , ,2, ,1, ,1,6, , ,8, , ,80
+2022,1,Gold Coast,West Coast,7 ,"Holman, Nick",5,2,9,14,1,1, ,6, ,1, , ,1, , ,9,5, ,1, , ,1,91
+2022,1,Gold Coast,West Coast,23 ,"Lemmens, Sean",9,2,4,13, , , ,3,1,1,1,4,1, , ,6,7, , ,1, , ,83
+2022,1,Gold Coast,West Coast,13 ,"Lukosius, Jack",11,5,1,12,1,2, ,3, ,5, ,4,1,2, ,5,6,1,3, , ,1,89
+2022,1,Gold Coast,West Coast,44 ,"Macpherson, Darcy",5,2,9,14, , , ,1,1,1, ,5, ,1, ,7,7, , , , , ,47
+2022,1,Gold Coast,West Coast,11 ,"Miller, Touk",13,2,16,29,1, , ,5,2,5,8,4,3,2,2,18,11, , ,1, , ,85
+2022,1,Gold Coast,West Coast,27 ,"Powell, Wil",10,4,6,16, , , , ,4,4,1,1,1, , ,6,8,1, ,3, ,2,87
+2022,1,Gold Coast,West Coast,22 ,"Rankine, Izak",18,6,5,23,4,1, ,1,1,1,2,5, ,2,1,7,13, ,5,1, ,2,88
+2022,1,Gold Coast,West Coast,18 ,"Rowell, Matt",17,1,16,33, ,1, ,6,1,5,8,4,6, ,3,22,13, , ,1, , ,88
+2022,1,Gold Coast,West Coast,6 ,"Sexton, Alex", , , , , , , , , , , , , , , , , , , , , , , 
+2022,1,Gold Coast,West Coast,20 ,"Sharp, Jeremy",8,2,3,11,1, , ,1,1,1, ,2,1,1, ,3,7, ,2, , , ,74
+2022,1,Gold Coast,West Coast,24 ,"Swallow, David",6,3,8,14, , , , ,2,2, ,1, , , ,3,11, , , , , ,79
+2022,1,Gold Coast,West Coast,14 ,"Weller, Lachie",13,2,7,20, , , , ,7,2,1,5,1, , ,4,12, , ,2,1, ,88
+2022,1,Gold Coast,West Coast,28 ,"Witts, Jarrod",8,1,7,15,1,1,28,3, ,1,4, ,1, , ,10,3,1,1,3, , ,77

@@ -1,0 +1,19 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Western Bulldogs,2022,1,Adelaide,6,L,27,7,2,4,11,,1,,4,,3,,3,1,,,4,8,,,1,,,80
+Western Bulldogs,2022,2,Essendon,7,W,27,12,4,9,21,2,,,1,2,2,3,5,1,,,7,13,,,,,,80
+Western Bulldogs,2022,3,Port Adelaide,8,L,27,9,3,7,16,,1,,2,,2,1,6,,3,,7,9,,2,1,,3,81
+Western Bulldogs,2022,4,Collingwood,9,W,27,4,2,9,13,,,,1,,3,1,4,1,1,,7,6,,,,,1,80
+Western Bulldogs,2022,5,Gold Coast,10,W,27,5,1,11,16,2,1,,2,,1,1,2,1,,,6,10,,1,2,,1,83
+Western Bulldogs,2022,6,West Coast,11,W,27,6,2,8,14,1,,,2,,3,,,1,,,5,9,,,1,,1,82
+Western Bulldogs,2022,7,Geelong,12,L,27,9,3,4,13,,1,,2,,5,,2,,1,,2,11,,1,,1,2,82
+Western Bulldogs,2022,8,Greater Western Sydney,14,W,27,8,2,7,15,,1,,3,1,4,1,2,,1,,5,12,,1,2,,1,77
+Western Bulldogs,2022,9,Hawthorn,15,W,27,6,2,8,14,1,,,2,1,3,1,1,,,,5,8,,,1,,,75
+Western Bulldogs,2022,10,Brisbane Lions,16,L,27,11,4,6,17,,,,2,1,2,3,6,,1,,6,12,,,1,,,79
+Western Bulldogs,2022,11,Sydney,17,L,27,6,2,3,9,,,,,,1,,3,,2,,2,7,,,,,,49
+Western Bulldogs,2022,12,Melbourne,19,W,27,1,1,2,3,,,,,,,,,,,,2,1,,,1,,,16
+Western Bulldogs,2022,13,Geelong,20,L,27,9,4,10,19,,,,2,1,2,,6,1,1,,7,14,,,1,,,76
+Western Bulldogs,2022,14,Hawthorn,23,W,27,,,,,,,,,,,,,,,,,,,,,,,
+Western Bulldogs,2022,15,Fremantle,EF,L,27,,,,,,,,,,,,1,,1,,,,,,,,,4
+Western Bulldogs,2023,16,St Kilda,2,L,27,1,,2,3,,,,,,,,,,,,2,1,,,1,,,25
+Western Bulldogs,2023,17,Brisbane Lions,3,W,27,1,1,1,2,,,,1,,,,,,,,1,1,1,,,,,14
+Western Bulldogs,2023,18,Richmond,4,W,27,5,3,3,8,1,,,1,,2,1,3,1,2,,3,7,,,1,,,65

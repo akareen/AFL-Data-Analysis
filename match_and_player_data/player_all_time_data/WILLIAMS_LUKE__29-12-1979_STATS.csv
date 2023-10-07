@@ -1,0 +1,52 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Melbourne,1999,1,St Kilda,17,L,49,1,1,,1,,1,,,,,,,,,,1,1,,1,,,,
+Melbourne,1999,2,Geelong,18,L,49,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,2000,3,Brisbane Lions,10,W,49,2,,3,5,,,,,,1,2,1,1,,,4,2,,,,,,
+Melbourne,2000,4,Adelaide,11,L,49,1,2,1,2,,,,,,,,1,,1,,,2,,1,,,,
+Melbourne,2001,5,Adelaide,2,W,26,4,4,5,9,,1,,1,,1,,2,,,,4,6,,3,1,,,
+Melbourne,2001,6,Geelong,3,W,26,5,1,2,7,,,,,,2,,1,,1,,3,3,,,,,,
+Melbourne,2001,7,Carlton,15,W,26,9,2,4,13,2,,,1,1,1,,,3,1,,11,3,,,3,,,
+Melbourne,2001,8,Richmond,16,L,26,8,2,10,18,1,,,5,1,3,1,1,2,,,12,7,,,3,,,
+Melbourne,2001,9,Adelaide,17,L,26,2,1,3,5,,,,1,,,,,,,,2,3,,,,,,
+Melbourne,2001,10,Geelong,18,W,26,1,,3,4,,,,1,,,1,,1,,,3,1,,,,,,
+Melbourne,2001,11,Hawthorn,19,L,26,3,2,8,11,,,,2,,,1,,,,,3,7,,,,,,
+Melbourne,2001,12,Sydney,20,W,26,6,3,,6,,,,2,,2,1,,,1,,2,4,,,,,,
+Melbourne,2001,13,Fremantle,21,W,26,13,5,,13,1,,,3,1,3,1,1,1,1,,4,8,,2,,,,
+Melbourne,2002,14,Hawthorn,1,W,26,2,2,6,8,,,1,4,1,,2,1,1,1,,5,3,,,3,,,
+Melbourne,2002,15,West Coast,4,W,26,6,5,10,16,,,,1,,4,2,1,1,,,8,9,,,1,,,
+Melbourne,2002,16,Western Bulldogs,5,W,26,6,4,2,8,,1,,,,3,,,,,,2,7,,,1,,,
+Melbourne,2002,17,Sydney,6,L,26,5,4,9,14,1,,,1,,4,2,3,,,,6,8,,1,,,,
+Melbourne,2002,18,St Kilda,7,W,26,4,1,3,7,,,,3,1,2,1,1,,1,,1,7,,,1,,,
+Melbourne,2002,19,Fremantle,8,L,26,5,2,2,7,,1,,2,,1,1,2,,2,,2,5,,,,,,
+Melbourne,2002,20,Collingwood,11,L,26,2,1,2,4,,,,1,,2,,,,,,2,2,,,,,,
+Melbourne,2002,21,Carlton,15,W,26,1,1,5,6,,,,1,,1,4,,,,,3,3,,,,,,
+Melbourne,2002,22,Sydney,21,L,26,6,4,7,13,,,,3,,1,,1,,,,4,9,,,3,,,
+Melbourne,2002,23,St Kilda,22,W,26,4,4,6,10,1,,,2,,3,1,1,,1,,2,8,,1,,,,
+Melbourne,2002,24,Kangaroos,EF,W,26,4,2,2,6,,,,5,,2,,1,,1,,2,4,,,1,,,
+Melbourne,2002,25,Adelaide,SF,L,26,3,3,,3,,,,1,,2,,,,,,1,3,1,,1,1,,
+Melbourne,2003,26,Hawthorn,1,W,26,13,5,4,17,,,,1,3,3,,2,1,1,,5,12,,,3,1,,100
+Melbourne,2003,27,Essendon,2,L,26,7,4,5,12,,,,3,4,1,,4,2,1,,5,7,2,,2,,,99
+Melbourne,2003,28,Western Bulldogs,3,W,26,5,3,7,12,,1,,2,4,,2,,,,,4,8,,1,,,,97
+Melbourne,2003,29,Geelong,4,L,26,9,6,6,15,,,,2,5,1,,3,,1,,6,8,1,,6,,,100
+Melbourne,2003,30,Sydney,5,L,26,12,3,5,17,,,,1,5,2,1,,4,,,9,8,1,,1,,,99
+Melbourne,2003,31,West Coast,6,L,26,6,4,7,13,,,,1,6,,,2,1,,,7,6,,,2,,,100
+Melbourne,2003,32,Port Adelaide,7,W,26,8,4,7,15,,,,,2,3,1,,,,,7,8,1,,2,,,100
+Melbourne,2003,33,Richmond,8,L,26,4,1,9,13,,,,1,1,1,,2,1,1,,9,5,,,,,,100
+Melbourne,2003,34,Fremantle,9,L,26,12,9,8,20,,,,3,3,2,,3,,1,,5,15,1,,3,2,,100
+Melbourne,2003,35,Brisbane Lions,10,L,26,5,3,10,15,,1,,2,2,,1,1,,1,,6,9,1,1,4,1,,100
+Melbourne,2003,36,Collingwood,11,L,26,7,5,8,15,,,,1,1,4,,1,,,,5,10,,,4,,,100
+Melbourne,2003,37,Adelaide,12,L,26,8,6,7,15,,1,,,1,4,,2,,,,6,9,1,,1,1,,71
+Melbourne,2003,38,Carlton,14,W,26,2,1,1,3,,,,,,1,,1,,,,,2,,,,,,27
+Melbourne,2003,39,Kangaroos,15,L,26,11,5,6,17,1,,,1,1,3,,3,1,,,6,13,1,,2,,,85
+Melbourne,2003,40,Hawthorn,16,L,26,4,3,9,13,,,,2,2,1,,,,,,6,7,,,3,1,,100
+Melbourne,2003,41,Essendon,17,L,26,5,,5,10,,,,1,2,,,4,2,1,,5,4,,,1,1,,74
+Melbourne,2003,42,Western Bulldogs,18,L,26,5,2,9,14,,,,2,5,,1,1,1,,,4,10,,,3,2,,100
+Melbourne,2003,43,Geelong,19,L,26,2,,2,4,,,,2,2,,,,,,,1,3,,,2,,,66
+Melbourne,2003,44,Port Adelaide,20,L,26,3,2,1,4,1,,,1,,1,,,,,,1,3,,1,,,1,56
+Melbourne,2003,45,West Coast,21,L,26,10,7,7,17,,,,1,6,1,1,,,,,4,13,,,2,,,96
+Melbourne,2003,46,Sydney,22,L,26,3,2,1,4,2,,,,,1,,,1,,,2,2,,1,,,,46
+Melbourne,2004,47,Hawthorn,1,L,26,2,2,1,3,,,,1,1,,,2,,,,1,2,1,,,,,82
+Melbourne,2004,48,Sydney,20,L,26,2,,3,5,,,,2,1,,2,1,1,1,,4,,,,2,,,77
+Melbourne,2005,49,Adelaide,7,W,26,6,2,6,12,,,,3,5,3,1,,,,,5,7,,,2,2,,100
+Melbourne,2005,50,Hawthorn,8,L,26,8,7,3,11,,,,4,2,1,,3,1,,,4,7,,,5,1,,100
+Melbourne,2005,51,Sydney,16,L,26,,,2,2,,,,2,,,,1,,,,1,1,,,1,,,44

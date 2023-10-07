@@ -1,0 +1,140 @@
+year,round,venue,date,attendance,home_team,away_team,home_q1_g,home_q2_g,home_q3_g,home_q4_g,home_q1_b,home_q2_b,home_q3_b,home_q4_b,away_q1_g,away_q2_g,away_q3_g,away_q4_g,away_q1_b,away_q2_b,away_q3_b,away_q4_b,home_total_g,home_total_b,home_total_score,away_total_g,away_total_b,away_total_score,winning_team,margin
+1977,1,Kardinia,02-04-1977,25317,Geelong,Carlton,2,1,2,1,1,1,2,5,3,1,6,7,7,6,3,5,6,9,45,17,21,123,Carlton,78
+1977,1,Victoria,02-04-1977,27815,Collingwood,Footscray,7,4,6,2,6,2,3,5,5,4,2,7,1,2,2,6,19,16,130,18,11,119,Collingwood,11
+1977,1,Windy,02-04-1977,17625,Essendon,St Kilda,5,7,1,1,4,7,9,5,3,2,1,4,3,6,4,4,14,25,109,10,17,77,Essendon,32
+1977,1,Junction,02-04-1977,17725,Fitzroy,Richmond,8,5,3,5,5,6,2,4,5,8,3,2,3,7,7,4,21,17,143,18,21,129,Fitzroy,14
+1977,1,Princes,02-04-1977,20943,Hawthorn,North Melbourne,5,3,4,1,5,1,2,6,0,8,5,10,3,6,1,4,13,14,92,23,14,152,North Melbourne,60
+1977,1,M.C.G.,02-04-1977,22108,Melbourne,South Melbourne,4,2,2,2,3,5,1,3,6,5,4,6,1,1,7,6,10,12,72,21,15,141,South Melbourne,69
+1977,2,Princes,09-04-1977,25302,Carlton,Fitzroy,1,6,5,4,6,2,6,3,3,2,5,2,3,2,2,2,16,17,113,12,9,81,Carlton,32
+1977,2,Arden,09-04-1977,28073,North Melbourne,Collingwood,1,3,7,5,1,3,1,1,4,4,2,3,4,7,0,4,16,6,102,13,15,93,North Melbourne,9
+1977,2,Lake,09-04-1977,23770,South Melbourne,Essendon,9,5,4,9,3,5,2,3,4,3,5,3,1,2,3,2,27,13,175,15,8,98,South Melbourne,77
+1977,2,Western,11-04-1977,18297,Footscray,Melbourne,7,2,4,5,2,2,1,3,4,1,5,2,3,5,11,4,18,8,116,12,23,95,Footscray,21
+1977,2,Moorabbin,11-04-1977,20338,St Kilda,Geelong,4,2,2,3,3,3,5,6,6,4,3,4,3,1,5,8,11,17,83,17,17,119,Geelong,36
+1977,2,M.C.G.,11-04-1977,42192,Richmond,Hawthorn,1,10,3,5,3,2,1,0,4,1,6,6,5,2,2,8,19,6,120,17,17,119,Richmond,1
+1977,3,Princes,16-04-1977,19596,Carlton,St Kilda,4,8,6,6,10,2,7,7,3,3,1,2,2,3,0,4,24,26,170,9,9,63,Carlton,107
+1977,3,Victoria,16-04-1977,26727,Collingwood,Essendon,4,12,1,7,4,3,5,10,3,3,7,3,5,4,9,1,24,22,166,16,19,115,Collingwood,51
+1977,3,Waverley,16-04-1977,17415,Footscray,Fitzroy,4,4,5,7,1,4,2,9,2,5,6,3,3,6,3,0,20,16,136,16,12,108,Footscray,28
+1977,3,Kardinia,16-04-1977,19548,Geelong,Hawthorn,2,0,3,1,3,3,5,3,3,1,4,7,2,7,2,4,6,14,50,15,15,105,Hawthorn,55
+1977,3,M.C.G.,16-04-1977,19543,Melbourne,North Melbourne,4,3,3,4,3,5,5,5,5,4,3,4,2,1,3,3,14,18,102,16,9,105,North Melbourne,3
+1977,3,Lake,16-04-1977,25768,South Melbourne,Richmond,5,1,2,3,4,2,3,4,3,5,2,3,3,2,5,3,11,13,79,13,13,91,Richmond,12
+1977,4,Princes,23-04-1977,30505,Hawthorn,Carlton,3,3,5,2,4,6,3,5,3,4,3,2,5,2,3,1,13,18,96,12,11,83,Hawthorn,13
+1977,4,Windy,23-04-1977,14529,Essendon,Melbourne,5,6,2,6,7,1,0,2,1,6,4,5,4,5,10,5,19,10,124,16,24,120,Essendon,4
+1977,4,Moorabbin,23-04-1977,13401,St Kilda,Fitzroy,2,9,3,5,6,2,5,7,3,3,6,2,5,2,3,4,19,20,134,14,14,98,St Kilda,36
+1977,4,Arden,23-04-1977,17239,North Melbourne,Footscray,6,7,1,2,5,6,2,8,2,0,6,4,4,2,3,1,16,21,117,12,10,82,North Melbourne,35
+1977,4,M.C.G.,25-04-1977,92436,Richmond,Collingwood,4,3,5,2,3,1,5,7,4,5,5,3,7,4,6,7,14,16,100,17,24,126,Collingwood,26
+1977,4,Waverley,25-04-1977,27136,South Melbourne,Geelong,2,6,1,3,2,4,2,7,7,3,4,2,4,5,8,1,12,15,87,16,18,114,Geelong,27
+1977,5,Princes,30-04-1977,21825,Carlton,South Melbourne,5,6,6,4,3,0,2,3,3,4,4,5,2,3,3,3,21,8,134,16,11,107,Carlton,27
+1977,5,Victoria,30-04-1977,24281,Collingwood,Geelong,5,5,3,5,6,2,6,2,4,4,2,5,4,4,6,5,18,16,124,15,19,109,Collingwood,15
+1977,5,Waverley,30-04-1977,22323,North Melbourne,Essendon,3,3,5,7,7,3,5,2,1,7,1,6,2,8,1,4,18,17,125,15,15,105,North Melbourne,20
+1977,5,Junction,30-04-1977,10428,Fitzroy,Hawthorn,2,4,3,3,3,5,1,5,1,4,7,9,7,4,2,3,12,14,86,21,16,142,Hawthorn,56
+1977,5,Western,30-04-1977,15463,Footscray,St Kilda,7,3,3,4,3,4,5,2,3,3,7,4,5,3,2,4,17,14,116,17,14,116,Match drawn,0
+1977,5,M.C.G.,30-04-1977,22272,Melbourne,Richmond,4,3,3,3,6,3,10,5,3,8,4,4,6,5,4,2,13,24,102,19,17,131,Richmond,29
+1977,6,Waverley,07-05-1977,64256,Collingwood,Carlton,3,7,9,3,5,2,8,5,3,1,0,3,2,1,3,2,22,20,152,7,8,50,Collingwood,102
+1977,6,Windy,07-05-1977,19399,Essendon,Footscray,6,3,2,2,6,0,3,2,5,7,6,11,1,4,6,4,13,11,89,29,15,189,Footscray,100
+1977,6,Lake,07-05-1977,11802,South Melbourne,Fitzroy,6,6,3,6,4,7,5,3,4,4,7,4,3,4,2,3,21,19,145,19,12,126,South Melbourne,19
+1977,6,Kardinia,07-05-1977,17219,Geelong,Melbourne,6,5,2,8,3,3,6,5,4,3,2,4,3,6,4,2,21,17,143,13,15,93,Geelong,50
+1977,6,Princes,07-05-1977,12698,Hawthorn,St Kilda,5,5,5,10,11,13,8,9,2,8,1,5,0,3,2,2,25,41,191,16,7,103,Hawthorn,88
+1977,6,M.C.G.,07-05-1977,34408,Richmond,North Melbourne,3,7,5,4,3,2,2,8,5,5,4,0,2,6,1,3,19,15,129,14,12,96,Richmond,33
+1977,7,M.C.G.,14-05-1977,27456,Melbourne,Carlton,3,2,5,4,2,4,2,4,5,6,3,2,7,6,3,4,14,12,96,16,20,116,Carlton,20
+1977,7,Junction,14-05-1977,20733,Fitzroy,Collingwood,3,3,1,4,5,3,4,2,4,6,1,4,4,8,3,8,11,14,80,15,23,113,Collingwood,33
+1977,7,Waverley,14-05-1977,32326,Essendon,Richmond,5,3,4,3,2,1,5,1,4,5,2,3,1,7,1,6,15,9,99,14,15,99,Match drawn,0
+1977,7,Western,14-05-1977,17935,Footscray,Hawthorn,0,2,1,5,0,6,3,4,4,6,7,3,7,0,4,0,8,13,61,20,11,131,Hawthorn,70
+1977,7,Arden,14-05-1977,17259,North Melbourne,Geelong,7,5,9,2,2,1,6,2,1,5,1,5,3,2,0,7,23,11,149,12,12,84,North Melbourne,65
+1977,7,Moorabbin,14-05-1977,18563,St Kilda,South Melbourne,2,3,2,7,3,5,4,2,3,2,7,2,4,4,5,1,14,14,98,14,14,98,Match drawn,0
+1977,8,Princes,21-05-1977,22570,Carlton,North Melbourne,2,1,4,1,6,3,7,1,2,3,0,4,1,5,1,1,8,17,65,9,8,62,Carlton,3
+1977,8,Victoria,21-05-1977,21598,Collingwood,St Kilda,6,5,3,5,2,8,5,6,3,0,5,3,3,2,6,1,19,21,135,11,12,78,Collingwood,57
+1977,8,Kardinia,21-05-1977,15674,Geelong,Essendon,6,4,1,2,6,3,3,4,1,2,6,4,3,2,2,2,13,16,94,13,9,87,Geelong,7
+1977,8,Waverley,21-05-1977,11259,Melbourne,Fitzroy,1,6,4,8,4,8,7,7,2,2,5,5,3,1,1,3,19,26,140,14,8,92,Melbourne,48
+1977,8,M.C.G.,21-05-1977,21519,Richmond,Footscray,3,3,2,8,8,2,3,5,4,5,3,1,6,3,6,2,16,18,114,13,17,95,Richmond,19
+1977,8,Lake,21-05-1977,11443,South Melbourne,Hawthorn,5,2,0,0,2,4,0,7,2,4,7,5,1,1,4,1,7,13,55,18,7,115,Hawthorn,60
+1977,9,Windy,28-05-1977,21840,Essendon,Carlton,4,3,4,3,5,3,2,2,2,2,2,4,6,3,3,5,14,12,96,10,17,77,Essendon,19
+1977,9,Princes,28-05-1977,35042,Hawthorn,Collingwood,4,1,4,7,1,2,5,4,6,6,5,5,4,1,3,2,16,12,108,22,10,142,Collingwood,34
+1977,9,Arden,28-05-1977,8904,North Melbourne,Fitzroy,4,1,1,6,3,4,1,4,3,2,3,2,3,3,7,1,12,12,84,10,14,74,North Melbourne,10
+1977,9,Lake,28-05-1977,12104,South Melbourne,Footscray,1,4,6,3,4,5,1,4,3,4,4,0,4,1,6,2,14,14,98,11,13,79,South Melbourne,19
+1977,9,Waverley,28-05-1977,26007,Richmond,Geelong,7,2,6,3,5,2,4,2,1,3,0,6,0,6,2,3,18,13,121,10,11,71,Richmond,50
+1977,9,Moorabbin,28-05-1977,15254,St Kilda,Melbourne,9,3,4,2,5,6,7,1,2,8,2,8,1,4,2,5,18,19,127,20,12,132,Melbourne,5
+1977,10,Princes,04-06-1977,29918,Carlton,Richmond,7,2,4,3,1,2,2,4,5,5,5,4,2,2,5,2,16,9,105,19,11,125,Richmond,20
+1977,10,Victoria,04-06-1977,24309,Collingwood,South Melbourne,3,6,1,5,4,3,3,10,7,3,7,3,2,7,5,2,15,20,110,20,16,136,South Melbourne,26
+1977,10,Junction,04-06-1977,13148,Fitzroy,Essendon,2,4,5,3,2,7,3,4,5,7,8,3,2,5,3,6,14,16,100,23,16,154,Essendon,54
+1977,10,Western,04-06-1977,15093,Footscray,Geelong,4,2,5,10,2,7,2,3,4,4,4,3,2,3,5,3,21,14,140,15,13,103,Footscray,37
+1977,10,M.C.G.,04-06-1977,21586,Melbourne,Hawthorn,4,4,4,4,8,0,6,5,6,2,4,7,3,5,5,0,16,19,115,19,13,127,Hawthorn,12
+1977,10,Waverley,04-06-1977,19199,North Melbourne,St Kilda,3,7,4,7,4,8,2,2,3,0,3,1,4,2,5,4,21,16,142,7,15,57,North Melbourne,85
+1977,11,Waverley,11-06-1977,25745,Carlton,Footscray,4,2,6,5,3,3,4,4,1,3,1,3,3,5,6,5,17,14,116,8,19,67,Carlton,49
+1977,11,Kardinia,11-06-1977,14664,Geelong,Fitzroy,7,2,4,7,5,1,4,3,1,4,3,3,5,2,6,3,20,13,133,11,16,82,Geelong,51
+1977,11,Lake,11-06-1977,20764,South Melbourne,North Melbourne,3,2,5,2,3,2,3,1,3,3,0,3,2,2,4,3,12,9,81,9,11,65,South Melbourne,16
+1977,11,M.C.G.,13-06-1977,63966,Melbourne,Collingwood,4,3,1,3,3,7,6,4,4,2,6,5,2,3,6,6,11,20,86,17,17,119,Collingwood,33
+1977,11,Princes,13-06-1977,26770,Hawthorn,Essendon,5,7,4,7,8,5,9,3,0,3,3,2,2,4,2,1,23,25,163,8,9,57,Hawthorn,106
+1977,11,Moorabbin,13-06-1977,23979,St Kilda,Richmond,7,1,5,0,4,3,0,3,3,5,3,5,0,1,2,2,13,10,88,16,5,101,Richmond,13
+1977,12,Princes,18-06-1977,11481,Carlton,Geelong,1,0,2,0,4,3,4,2,0,0,0,2,3,1,2,6,3,13,31,2,12,24,Carlton,7
+1977,12,Western,18-06-1977,11921,Footscray,Collingwood,2,1,2,0,0,0,5,1,2,3,1,3,2,5,2,6,5,6,36,9,15,69,Collingwood,33
+1977,12,Waverley,18-06-1977,14337,St Kilda,Essendon,1,2,1,1,0,2,3,7,2,0,3,0,7,3,5,1,5,12,42,5,16,46,Essendon,4
+1977,12,M.C.G.,18-06-1977,12877,Richmond,Fitzroy,4,4,1,4,3,3,5,4,3,1,0,2,3,0,2,0,13,15,93,6,5,41,Richmond,52
+1977,12,Arden,18-06-1977,9027,North Melbourne,Hawthorn,3,1,1,1,3,1,5,2,3,0,1,2,1,4,3,4,6,11,47,6,12,48,Hawthorn,1
+1977,12,Lake,18-06-1977,8588,South Melbourne,Melbourne,3,2,2,1,5,7,3,7,3,2,4,0,4,3,1,2,8,22,70,9,10,64,South Melbourne,6
+1977,13,Junction,25-06-1977,10848,Fitzroy,Carlton,3,1,4,3,4,1,4,0,0,3,4,2,3,3,3,5,11,9,75,9,14,68,Fitzroy,7
+1977,13,Victoria,25-06-1977,28097,Collingwood,North Melbourne,2,3,4,4,7,5,4,3,3,1,1,3,2,2,0,4,13,19,97,8,8,56,Collingwood,41
+1977,13,Windy,25-06-1977,16308,Essendon,South Melbourne,3,3,2,1,4,2,1,2,1,2,3,0,5,3,4,3,9,9,63,6,15,51,Essendon,12
+1977,13,M.C.G.,25-06-1977,12566,Melbourne,Footscray,2,3,0,2,3,4,0,2,3,7,2,3,4,0,7,1,7,9,51,15,12,102,Footscray,51
+1977,13,Kardinia,25-06-1977,13428,Geelong,St Kilda,3,1,5,2,4,0,3,2,1,6,2,3,2,7,2,2,11,9,75,12,13,85,St Kilda,10
+1977,13,Waverley,25-06-1977,34820,Hawthorn,Richmond,2,2,2,3,6,0,5,1,1,2,1,3,4,1,3,2,9,12,66,7,10,52,Hawthorn,14
+1977,14,Princes,02-07-1977,26363,Carlton,Hawthorn,3,4,1,1,3,4,1,0,2,1,1,3,1,1,1,3,9,8,62,7,6,48,Carlton,14
+1977,14,Victoria,02-07-1977,32782,Collingwood,Richmond,5,6,6,5,2,4,3,0,2,2,2,5,6,1,1,4,22,9,141,11,12,78,Collingwood,63
+1977,14,M.C.G.,02-07-1977,21743,Melbourne,Essendon,4,1,1,3,3,5,3,5,1,5,1,1,2,1,3,5,9,16,70,8,11,59,Melbourne,11
+1977,14,Waverley,02-07-1977,17028,Fitzroy,St Kilda,3,2,3,2,4,4,4,0,3,2,4,5,2,3,5,2,10,12,72,14,12,96,St Kilda,24
+1977,14,Western,02-07-1977,17151,Footscray,North Melbourne,4,2,2,1,2,1,4,3,1,6,2,2,3,4,1,7,9,10,64,11,15,81,North Melbourne,17
+1977,14,Kardinia,02-07-1977,14943,Geelong,South Melbourne,1,2,2,2,3,5,5,2,3,2,0,4,2,4,0,4,7,15,57,9,10,64,South Melbourne,7
+1977,15,Moorabbin,09-07-1977,21391,St Kilda,Carlton,0,9,2,6,1,7,0,4,4,4,6,4,1,3,9,1,17,12,114,18,14,122,Carlton,8
+1977,15,Windy,09-07-1977,27042,Essendon,Collingwood,5,1,5,3,3,3,7,6,2,4,6,5,2,3,4,3,14,19,103,17,12,114,Collingwood,11
+1977,15,Junction,09-07-1977,8682,Fitzroy,Footscray,6,2,6,1,2,2,7,2,3,3,2,3,2,8,3,6,15,13,103,11,19,85,Fitzroy,18
+1977,15,Princes,09-07-1977,10016,Hawthorn,Geelong,6,6,9,7,5,7,2,9,5,0,5,3,1,3,1,1,28,23,191,13,6,84,Hawthorn,107
+1977,15,Arden,09-07-1977,11253,North Melbourne,Melbourne,5,5,5,3,5,3,6,5,2,2,3,4,4,2,3,1,18,19,127,11,10,76,North Melbourne,51
+1977,15,Waverley,09-07-1977,34291,Richmond,South Melbourne,2,5,4,3,4,4,6,2,2,2,4,2,1,3,2,5,14,16,100,10,11,71,Richmond,29
+1977,16,Lake,16-07-1977,17058,South Melbourne,Carlton,1,4,6,1,1,0,2,1,3,3,3,4,3,0,2,2,12,4,76,13,7,85,Carlton,9
+1977,16,Waverley,16-07-1977,26029,Geelong,Collingwood,2,5,5,4,0,4,1,1,5,2,3,2,7,5,6,7,16,6,102,12,25,97,Geelong,5
+1977,16,Windy,16-07-1977,17849,Essendon,North Melbourne,4,4,6,3,3,3,3,5,4,1,5,1,4,0,4,3,17,14,116,11,11,77,Essendon,39
+1977,16,Princes,16-07-1977,8234,Hawthorn,Fitzroy,4,5,6,5,4,4,4,2,1,4,1,5,4,2,1,5,20,14,134,11,12,78,Hawthorn,56
+1977,16,Moorabbin,16-07-1977,12659,St Kilda,Footscray,3,1,3,3,5,3,0,8,5,3,4,1,5,3,8,2,10,16,76,13,18,96,Footscray,20
+1977,16,M.C.G.,16-07-1977,20050,Richmond,Melbourne,4,5,1,0,3,2,3,3,3,3,1,6,5,2,3,2,10,11,71,13,12,90,Melbourne,19
+1977,17,Princes,23-07-1977,38343,Carlton,Collingwood,4,2,3,2,5,1,1,1,2,3,5,5,3,5,2,6,11,8,74,15,16,106,Collingwood,32
+1977,17,Western,23-07-1977,17834,Footscray,Essendon,3,2,4,3,4,4,6,7,4,1,3,3,3,5,1,1,12,21,93,11,10,76,Footscray,17
+1977,17,Junction,23-07-1977,10188,Fitzroy,South Melbourne,0,1,3,3,4,4,2,3,5,4,4,3,5,6,4,6,7,13,55,16,21,117,South Melbourne,62
+1977,17,M.C.G.,23-07-1977,15896,Melbourne,Geelong,6,2,5,2,4,5,3,6,5,7,3,5,5,3,4,2,15,18,108,20,14,134,Geelong,26
+1977,17,Waverley,23-07-1977,20469,St Kilda,Hawthorn,4,2,3,2,5,3,1,2,4,3,8,9,7,5,4,3,11,11,77,24,19,163,Hawthorn,86
+1977,17,Arden,23-07-1977,15359,North Melbourne,Richmond,7,2,4,2,2,2,4,3,3,4,2,5,2,5,1,6,15,11,101,14,14,98,North Melbourne,3
+1977,18,Waverley,30-07-1977,18832,Carlton,Melbourne,7,3,2,5,2,0,5,4,2,2,1,2,0,2,0,2,17,11,113,7,4,46,Carlton,67
+1977,18,Victoria,30-07-1977,16885,Collingwood,Fitzroy,6,3,6,3,4,4,1,5,2,3,6,2,2,3,4,2,18,14,122,13,11,89,Collingwood,33
+1977,18,M.C.G.,30-07-1977,33085,Richmond,Essendon,4,5,4,3,3,5,2,5,3,1,0,5,2,3,2,4,16,15,111,9,11,65,Richmond,46
+1977,18,Princes,30-07-1977,10348,Hawthorn,Footscray,4,3,6,5,1,2,1,6,4,4,4,3,7,1,3,3,18,10,118,15,14,104,Hawthorn,14
+1977,18,Kardinia,30-07-1977,17898,Geelong,North Melbourne,1,2,2,1,3,2,6,4,6,3,3,2,0,4,3,4,6,15,51,14,11,95,North Melbourne,44
+1977,18,Lake,30-07-1977,12906,South Melbourne,St Kilda,6,7,2,6,3,2,3,4,2,1,5,4,1,5,5,0,21,12,138,12,11,83,South Melbourne,55
+1977,19,Arden,06-08-1977,22160,North Melbourne,Carlton,1,2,5,0,7,2,3,3,2,1,1,2,1,2,0,4,8,15,63,6,7,43,North Melbourne,20
+1977,19,Moorabbin,06-08-1977,21876,St Kilda,Collingwood,2,4,1,4,2,1,1,5,2,4,7,1,6,3,6,2,11,9,75,14,17,101,Collingwood,26
+1977,19,Windy,06-08-1977,13664,Essendon,Geelong,2,4,4,5,6,2,2,10,6,4,4,4,3,5,5,3,15,20,110,18,16,124,Geelong,14
+1977,19,Junction,06-08-1977,7575,Fitzroy,Melbourne,7,3,10,3,2,2,1,3,2,2,1,7,1,2,4,5,23,8,146,12,12,84,Fitzroy,62
+1977,19,Western,06-08-1977,16897,Footscray,Richmond,5,7,3,4,2,6,1,6,3,1,7,4,5,1,4,1,19,15,129,15,11,101,Footscray,28
+1977,19,Waverley,06-08-1977,30253,Hawthorn,South Melbourne,4,3,2,1,2,6,8,2,5,1,5,5,2,3,1,1,10,18,78,16,7,103,South Melbourne,25
+1977,20,Princes,13-08-1977,19944,Carlton,Essendon,7,4,6,5,4,2,5,3,6,4,4,2,5,2,3,5,22,14,146,16,15,111,Carlton,35
+1977,20,Victoria,13-08-1977,33558,Collingwood,Hawthorn,3,4,3,3,5,5,5,6,6,2,2,5,5,3,4,3,13,21,99,15,15,105,Hawthorn,6
+1977,20,Waverley,13-08-1977,12350,Fitzroy,North Melbourne,3,4,1,1,2,4,2,3,5,1,3,1,7,5,5,2,9,11,65,10,19,79,North Melbourne,14
+1977,20,Western,13-08-1977,18514,Footscray,South Melbourne,4,1,3,1,3,3,8,5,2,4,3,5,3,6,1,2,9,19,73,14,12,96,South Melbourne,23
+1977,20,Kardinia,13-08-1977,17018,Geelong,Richmond,1,1,2,1,4,5,5,2,3,7,4,5,4,8,3,3,5,16,46,19,18,132,Richmond,86
+1977,20,M.C.G.,13-08-1977,12967,Melbourne,St Kilda,7,6,4,10,4,4,3,2,2,3,5,5,6,6,1,1,27,13,175,15,14,104,Melbourne,71
+1977,21,M.C.G.,20-08-1977,49134,Richmond,Carlton,6,1,6,2,2,3,4,4,1,5,5,3,2,5,4,5,15,13,103,14,16,100,Richmond,3
+1977,21,Lake,20-08-1977,28192,South Melbourne,Collingwood,4,0,1,3,0,7,0,2,4,0,7,1,3,4,6,4,8,9,57,12,17,89,Collingwood,32
+1977,21,Windy,20-08-1977,10180,Essendon,Fitzroy,4,3,3,0,4,2,7,0,7,3,2,8,5,7,1,4,10,13,73,20,17,137,Fitzroy,64
+1977,21,Waverley,20-08-1977,11010,Geelong,Footscray,4,1,2,3,2,2,1,3,1,4,3,3,5,5,5,4,10,8,68,11,19,85,Footscray,17
+1977,21,Princes,20-08-1977,8880,Hawthorn,Melbourne,4,4,6,2,6,2,6,0,1,5,3,5,4,6,1,4,16,14,110,14,15,99,Hawthorn,11
+1977,21,Moorabbin,20-08-1977,11506,St Kilda,North Melbourne,1,4,4,2,3,3,2,4,4,3,2,6,5,4,2,5,11,12,78,15,16,106,North Melbourne,28
+1977,22,Western,27-08-1977,22426,Footscray,Carlton,3,3,5,4,3,0,9,1,0,5,0,7,1,7,2,3,15,13,103,12,13,85,Footscray,18
+1977,22,Waverley,27-08-1977,36306,Collingwood,Melbourne,4,6,5,2,2,3,5,3,2,2,5,5,4,4,3,6,17,13,115,14,17,101,Collingwood,14
+1977,22,Windy,27-08-1977,14325,Essendon,Hawthorn,5,4,6,4,4,2,4,6,6,4,8,7,6,6,4,2,19,16,130,25,18,168,Hawthorn,38
+1977,22,Junction,27-08-1977,7644,Fitzroy,Geelong,4,3,5,7,6,7,3,11,6,3,4,1,6,4,4,2,19,27,141,14,16,100,Fitzroy,41
+1977,22,Arden,27-08-1977,19012,North Melbourne,South Melbourne,3,3,7,1,5,1,2,1,2,5,2,6,0,7,2,4,14,9,93,15,13,103,South Melbourne,10
+1977,22,M.C.G.,27-08-1977,24362,Richmond,St Kilda,5,6,5,9,6,2,9,4,6,7,2,2,4,4,2,0,25,21,171,17,10,112,Richmond,59
+1977,QF,M.C.G.,03-09-1977,64068,Hawthorn,North Melbourne,4,4,6,5,5,0,6,0,2,3,1,6,2,7,3,3,19,11,125,12,15,87,Hawthorn,38
+1977,EF,Waverley,03-09-1977,63663,Richmond,South Melbourne,5,2,4,2,4,2,2,2,2,4,0,1,3,4,3,2,13,10,88,7,12,54,Richmond,34
+1977,SF,M.C.G.,10-09-1977,87421,Collingwood,Hawthorn,4,3,4,6,0,3,3,4,6,0,3,7,5,3,5,1,17,10,112,16,14,110,Collingwood,2
+1977,SF,Waverley,10-09-1977,48105,North Melbourne,Richmond,3,4,3,6,5,7,2,0,0,2,2,5,3,1,3,2,16,14,110,9,9,63,North Melbourne,47
+1977,PF,Waverley,17-09-1977,61242,Hawthorn,North Melbourne,2,2,0,1,3,6,3,3,4,3,6,3,4,3,5,4,5,15,45,16,16,112,North Melbourne,67
+1977,GF,M.C.G.,24-09-1977,108224,Collingwood,North Melbourne,1,3,5,1,5,3,4,4,4,0,0,5,4,6,5,7,10,16,76,9,22,76,Match drawn,0
+1977,GF,M.C.G.,01-10-1977,98491,Collingwood,North Melbourne,3,5,4,7,4,3,0,3,5,4,6,6,5,7,7,6,19,10,124,21,25,151,North Melbourne,27

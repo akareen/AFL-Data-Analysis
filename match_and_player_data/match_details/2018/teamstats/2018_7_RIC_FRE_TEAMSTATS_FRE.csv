@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2018,7,Fremantle,Richmond,1 ,"Ballantyne, Hayden",11,4,3,14,1,2, ,2,1,1, ,2,1,1, ,3,10,1,2,2, , ,85
+2018,7,Fremantle,Richmond,41 ,"Banfield, Bailey",12,5,8,20, , , ,2,1,4,3,5,1,1, ,6,13, , ,1, , ,84
+2018,7,Fremantle,Richmond,19 ,"Blakely, Connor",6,3,15,21, , , ,2,2, , ,5, ,2, ,8,16,1, ,1, , ,81
+2018,7,Fremantle,Richmond,8 ,"Brayshaw, Andrew",8,5,6,14,1, , ,6,1,2,2,3, ,1, ,5,8, , ,1, , ,69
+2018,7,Fremantle,Richmond,5 ,"Cerra, Adam",10,3,8,18, , , ,6,4,5,5,3,2,1, ,8,10, , ,1, ,1,63
+2018,7,Fremantle,Richmond,36 ,"Cox, Brennan",6,4,2,8,1, ,1,1, ,3,1, , , , ,4,5,2,1,2, ,2,86
+2018,7,Fremantle,Richmond,12 ,"Crowden, Mitch",2, ,6,8, , , ,2, ,2,1, , , , ,2,6, , ,2, , ,84
+2018,7,Fremantle,Richmond,44 ,"Duman, Taylin",6,2,2,8, , , ,1,1, , ,4, ,2, ,3,7,1, ,5, , ,87
+2018,7,Fremantle,Richmond,7 ,"Fyfe, Nat",17,8,16,33, ,1,7,4, ,4,11,7,3,2,3,26,11,6, ,2, , ,83
+2018,7,Fremantle,Richmond,21 ,"Hamling, Joel",7,3,5,12, , , ,1,5, , ,1,2, , ,6,7, , ,11, , ,96
+2018,7,Fremantle,Richmond,32 ,"Hill, Stephen",7,1,5,12, , , , ,2,1,2,3,1,1, ,3,9, , ,2, ,1,70
+2018,7,Fremantle,Richmond,15 ,"Hughes, Ethan",5,2,7,12, , , ,1,2,1, ,1,3, , ,6,7,1, ,3, , ,76
+2018,7,Fremantle,Richmond,26 ,"Langdon, Ed",11,3,11,22, , , ,2,2,1,1,6,2,2, ,6,17, , ,1, , ,82
+2018,7,Fremantle,Richmond,3 ,"Matera, Brandon",9,1,5,14, ,1, ,2, ,3, ,4,2, , ,6,8, , , , , ,81
+2018,7,Fremantle,Richmond,23 ,"McCarthy, Cam",5,2,2,7,1,1, ,1,1,2, ,1,1,1, ,3,3, ,1, , , ,94
+2018,7,Fremantle,Richmond,16 ,"Mundy, David",6,4,12,18, ,1, ,1,1,4,1,4,1,1, ,7,11, , , , , ,91
+2018,7,Fremantle,Richmond,27 ,"Neale, Lachie",14,3,21,35, , , ,2,1,1,10,1,1, , ,18,16, , ,1,1, ,77
+2018,7,Fremantle,Richmond,25 ,"Pearce, Alex",6,5,6,12, , , ,2, , , ,3, ,2, ,4,8, , ,3, , ,97
+2018,7,Fremantle,Richmond,38 ,"Ryan, Luke",9,5,4,13, , , , ,3,1, ,1, ,1, ,5,8, , ,3, , ,86
+2018,7,Fremantle,Richmond,31 ,"Sandilands, Aaron",2,1,9,11, , ,49, , ,3,5, ,2, , ,10,1,1, ,3, , ,82
+2018,7,Fremantle,Richmond,18 ,"Tucker, Darcy",7,3,8,15, ,2, ,3,3,1,1,2,1, , ,4,12, , ,1, , ,61
+2018,7,Fremantle,Richmond,14 ,"Wilson, Nathan",14,6,5,19, , , , ,7,3, ,6,1,1, ,4,13, , ,3, , ,85

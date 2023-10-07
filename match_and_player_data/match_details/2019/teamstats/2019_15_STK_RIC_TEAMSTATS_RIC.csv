@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2019,15,Richmond,St Kilda,12 ,"Astbury, David",12,9,8,20, , , ,2,1, , ,1,1, , ,6,15,1, ,4, , ,97
+2019,15,Richmond,St Kilda,29 ,"Bolton, Shai",5,3,8,13,1, , , ,1,1,1,3, ,2, ,7,7,1, ,1, , ,85
+2019,15,Richmond,St Kilda,35 ,"Broad, Nathan",5,4,4,9, , , ,4, ,2, ,1,1, , ,3,6, , ,3,1, ,84
+2019,15,Richmond,St Kilda,22 ,"Caddy, Josh",9,4,8,17,1, , ,2, ,2, ,2,2,1, ,6,13,1, , , ,2,76
+2019,15,Richmond,St Kilda,11 ,"Castagna, Jason",6,3,6,12,1, , ,1,1, , ,1, , , ,4,8, ,1, ,1,2,85
+2019,15,Richmond,St Kilda,41 ,"Chol, Mabior",13,9,3,16,3, ,7,2,2,4,1,1,1, ,1,8,10,2,1,4, ,1,69
+2019,15,Richmond,St Kilda,9 ,"Cotchin, Trent",10,2,9,19, , , ,3,2,5,3,5,1,3, ,9,10, , , , , ,76
+2019,15,Richmond,St Kilda,10 ,"Edwards, Shane",5,2,9,14, , , ,1,2,1,2,1, ,1, ,6,7, , , , , ,88
+2019,15,Richmond,St Kilda,5 ,"Ellis, Brandon",4,2,7,11,1, , ,3,2,1, ,1, ,1, ,4,9, , ,1, , ,89
+2019,15,Richmond,St Kilda,34 ,"Graham, Jack",7,4,11,18,1, , ,9,1,4,1,6,1,3, ,5,12, , ,2, , ,70
+2019,15,Richmond,St Kilda,2 ,"Grimes, Dylan",6,5,7,13, , , ,3,3,1, ,1, ,1, ,3,10,1, ,7, , ,89
+2019,15,Richmond,St Kilda,14 ,"Houli, Bachar",9,7,12,21, , , , ,3,1,1,3, , , ,4,16,1, ,4, , ,82
+2019,15,Richmond,St Kilda,23 ,"Lambert, Kane",8,4,15,23, , , ,4, ,3,1,3,1,2, ,9,14, , ,1, , ,78
+2019,15,Richmond,St Kilda,19 ,"Lynch, Tom",8,6,1,9,3,3, ,1, ,1, ,2,2,2, ,6,3,3,5,3, ,1,90
+2019,15,Richmond,St Kilda,4 ,"Martin, Dustin",25,7,11,36, ,1, ,3, ,5,6,5, ,1,3,13,20,1,1,1,1,2,91
+2019,15,Richmond,St Kilda,33 ,"McIntosh, Kamdyn",6,2,8,14, , , ,3,1,2, ,5,1,1, ,4,12, , ,3, , ,87
+2019,15,Richmond,St Kilda,3 ,"Prestia, Dion",15,5,14,29, ,1, ,5,5,3,4,3,1, , ,11,18, ,1,1, ,1,81
+2019,15,Richmond,St Kilda,17 ,"Rioli, Daniel",4,2,6,10,1, , ,5, ,3, , ,2, , ,4,7, ,1,2, ,1,81
+2019,15,Richmond,St Kilda,15 ,"Short, Jayden",19,3,3,22, , , , ,6,4, ,2, , , ,2,17, , ,2, , ,72
+2019,15,Richmond,St Kilda,47 ,"Soldo, Ivan",4,2,6,10, , ,20,1,1, ,2,2,4,2, ,6,4, , ,2, , ,54
+2019,15,Richmond,St Kilda,44 ,"Stack, Sydney",8,5,7,15,4, , ,4,1,4, ,1,1, , ,6,9,1,2,3, , ,89
+2019,15,Richmond,St Kilda,1 ,"Vlastuin, Nick",12,11,14,26, , , ,3,5,1,2,2,1,2, ,9,15,1, ,3, , ,88

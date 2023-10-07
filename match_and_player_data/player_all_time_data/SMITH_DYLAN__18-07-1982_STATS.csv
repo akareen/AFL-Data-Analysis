@@ -1,0 +1,22 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Kangaroos,2001,1,Essendon,1,L,13,5,,4,9,,,,3,,5,1,1,2,,,6,3,,,,,,
+Kangaroos,2001,2,Brisbane Lions,2,L,13,7,3,5,12,,1,,2,,2,2,,1,,,5,8,,,,,,
+Kangaroos,2001,3,Sydney,3,L,13,,,1,1,,,,,,,,,,,,,1,,,,,,
+Kangaroos,2001,4,Richmond,6,L,13,1,1,2,3,,,,1,,,,1,,1,,1,2,,,1,,,
+Kangaroos,2002,5,Collingwood,13,L,13,,,1,1,,,,2,,,,1,,1,,,1,,,,,,
+Kangaroos,2002,6,St Kilda,14,W,13,7,1,9,16,1,,,5,,3,7,,2,,,7,9,,,2,,,
+Kangaroos,2002,7,Fremantle,15,W,13,3,1,2,5,,,,3,,1,,2,1,1,,3,2,,,3,,,
+Kangaroos,2002,8,Port Adelaide,16,W,13,2,,1,3,,,,2,,,,,,,,3,1,,,,,,
+Kangaroos,2002,9,Carlton,20,W,13,4,,6,10,,,,4,,1,6,1,,1,,6,4,,,4,,,
+Kangaroos,2002,10,Hawthorn,21,W,13,2,1,1,3,,,,1,,,1,3,,2,,3,2,,,,,,
+Kangaroos,2002,11,West Coast,22,L,13,5,,1,6,,,,7,,2,2,,,,,4,2,,,2,,,
+Fremantle,2004,12,Carlton,18,W,13,2,2,6,8,1,1,,3,1,,1,3,,3,,6,3,,1,1,,,57
+Fremantle,2004,13,Collingwood,19,L,13,6,2,7,13,1,,,5,,3,8,1,,,,11,2,1,1,,,,60
+Fremantle,2004,14,Geelong,20,L,13,19,2,5,24,,,,6,4,1,7,1,1,,,16,7,,,3,1,,81
+Fremantle,2004,15,West Coast,21,L,13,5,1,6,11,,,,2,,1,,1,,1,,4,6,,,,,,35
+Fremantle,2005,16,Carlton,5,W,13,6,,9,15,,2,,2,,2,5,,1,,,9,6,,,2,,,37
+Fremantle,2005,17,Melbourne,6,W,13,2,2,7,9,,,,2,2,,2,1,1,,,3,6,,,3,,,36
+Fremantle,2005,18,Collingwood,7,W,13,4,3,7,11,,,,2,2,,1,1,,,,1,10,,,,1,,65
+Fremantle,2005,19,Essendon,8,L,13,8,3,4,12,,,,2,1,4,2,1,,,,3,10,,,1,,,38
+Fremantle,2005,20,Sydney,12,L,13,6,2,6,12,1,,,,1,2,3,1,2,,,6,6,,1,,,,61
+Fremantle,2005,21,Carlton,16,W,13,4,1,8,12,,,,,1,4,2,,,,,7,5,,,5,,,50

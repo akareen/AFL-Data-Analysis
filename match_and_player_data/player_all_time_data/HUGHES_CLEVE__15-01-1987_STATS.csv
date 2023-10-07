@@ -1,0 +1,17 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Richmond,2006,1,Carlton,5,W,34,3,2,3,6,,1,,1,,1,,1,2,,,4,2,,2,,,,56
+Richmond,2006,2,Essendon,6,W,34,4,,1,5,2,1,,,,,,,2,,,4,1,,,2,,,63
+Richmond,2006,3,Sydney,7,L,34,1,,,1,1,,,1,,,,1,1,1,,1,,,,,,,59
+Richmond,2007,4,West Coast,5,L,34,8,6,4,12,3,,,1,1,3,,,,,,4,8,1,1,1,,,95
+Richmond,2007,5,Geelong,6,L,34,12,8,2,14,3,3,,,,,,1,2,,,6,8,,2,,,,98
+Richmond,2007,6,Port Adelaide,7,L,34,3,3,3,6,,1,,1,,1,,,,,,1,5,,1,,,,84
+Richmond,2007,7,Fremantle,11,L,34,6,4,6,12,,1,,,,1,1,,1,,,3,9,1,1,,,,53
+Richmond,2007,8,Melbourne,12,W,34,,,2,2,,,2,3,,,,1,,1,,,2,,,1,,,39
+Richmond,2007,9,Sydney,17,L,34,4,3,2,6,2,,,3,1,,,3,1,1,,4,3,1,1,,,,77
+Richmond,2007,10,Geelong,18,L,34,,,1,1,,,,1,,,,,,,,1,,,,,,,51
+Richmond,2008,11,Carlton,1,W,34,7,6,3,10,,2,,,1,2,,4,1,,,4,6,2,1,1,,1,69
+Richmond,2008,12,North Melbourne,2,L,34,4,5,3,7,1,2,,,,1,,,,,,1,6,1,2,1,,,78
+Richmond,2008,13,Port Adelaide,13,W,34,7,5,2,9,6,1,,,,,,,1,,,4,5,1,5,,,,83
+Richmond,2008,14,Carlton,14,L,34,6,7,2,8,3,1,,2,,1,,1,,,,1,7,1,4,,,,91
+Richmond,2008,15,West Coast,15,W,34,3,3,3,6,1,,,,1,,,,2,,,3,3,,1,,1,,66
+Richmond,2008,16,Essendon,16,W,34,1,,1,2,1,,,,,,,1,1,,,1,1,,,,,,50

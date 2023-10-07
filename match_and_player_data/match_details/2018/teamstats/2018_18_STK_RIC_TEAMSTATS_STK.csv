@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2018,18,St Kilda,Richmond,20 ,"Armitage, David",9,2,11,20,1, , ,1,1,2,3,2,1,1, ,9,13, , ,1, , ,65
+2018,18,St Kilda,Richmond,26 ,"Battle, Josh",4,2,3,7, ,1, ,2, ,2, ,1, , , ,2,4, , ,2, , ,76
+2018,18,St Kilda,Richmond,15 ,"Billings, Jack",8,4,12,20, ,1, ,6, ,3,3,3,1, , ,10,10, ,1, , ,1,81
+2018,18,St Kilda,Richmond,2 ,"Carlisle, Jake",9,8,10,19, , , , ,2,1,1,2,1, , ,5,13, , ,5, , ,97
+2018,18,St Kilda,Richmond,11 ,"Clark, Hunter",12,6,8,20, , , ,1,3, , ,1, , , ,1,19, , ,2, , ,79
+2018,18,St Kilda,Richmond,7 ,"Dunstan, Luke",10,6,11,21, ,1, ,2,1, ,3, ,2, , ,8,14, ,2, , , ,77
+2018,18,St Kilda,Richmond,14 ,"Geary, Jarryn",11,5,10,21, , , ,5, ,3,1,3,3, , ,8,13,1, ,2, ,1,85
+2018,18,St Kilda,Richmond,19 ,"Gilbert, Sam",6,4,5,11, , , ,3,3, , ,3, ,2, ,3,8, , ,4, , ,90
+2018,18,St Kilda,Richmond,4 ,"Gresham, Jade",16,2,8,24,2, , ,5,2,6,7,4,2, , ,10,13,1, , ,1,1,85
+2018,18,St Kilda,Richmond,1 ,"Hickey, Tom",4,6,13,17, ,1,24, ,1,1,4,3,1,1, ,10,7,2,1,2, , ,77
+2018,18,St Kilda,Richmond,43 ,"Marshall, Rowan",11,7,4,15,1, ,14,2, ,3,1,5,1,1, ,5,10,1,2,5, , ,90
+2018,18,St Kilda,Richmond,36 ,"McKenzie, Daniel",7,4,6,13, , , ,1,3,2, ,1,4, , ,4,9, , ,5, , ,88
+2018,18,St Kilda,Richmond,28 ,"Membrey, Tim",7,5,3,10,2,1, , , ,1, ,1,1, , ,3,8, ,3,3, , ,86
+2018,18,St Kilda,Richmond,16 ,"Newnes, Jack",8,1,6,14, , , ,3,1,3,1,1,1,1, ,5,9, , , , , ,84
+2018,18,St Kilda,Richmond,30 ,"Phillips, Ed",4,6,10,14, , , ,1, , , ,1,1,1, ,4,10, , ,2, , ,67
+2018,18,St Kilda,Richmond,37 ,"Rice, Bailey",4,4,7,11, , , ,3,2, ,1,3, ,1, ,2,9, , ,6, , ,77
+2018,18,St Kilda,Richmond,6 ,"Ross, Sebastian",16,6,17,33, , , ,6,4,5,4,2, ,1, ,8,24, , , ,1, ,85
+2018,18,St Kilda,Richmond,5 ,"Savage, Shane",8,5,11,19, , , ,1,1, ,1,2, , , ,2,15, , ,1,1, ,84
+2018,18,St Kilda,Richmond,35 ,"Sinclair, Jack",6,5,11,17, , , ,2, ,3,2,1,1,1, ,7,10, , , , ,1,91
+2018,18,St Kilda,Richmond,9 ,"Steele, Jack",13,5,12,25, , , ,4,4,3,2,2,2,1, ,8,17, ,1, , , ,83
+2018,18,St Kilda,Richmond,3 ,"Steven, Jack",12,2,11,23,1, , ,1,3,3,3,8,2,2, ,6,17, , , ,2, ,71
+2018,18,St Kilda,Richmond,44 ,"Weller, Maverick",7,5,4,11,1,1, ,4,1,1, , , , , ,2,9,1,1,1, , ,83

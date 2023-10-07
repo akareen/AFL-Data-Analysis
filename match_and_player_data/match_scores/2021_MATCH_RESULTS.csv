@@ -1,0 +1,208 @@
+year,round,venue,date,attendance,home_team,away_team,home_q1_g,home_q2_g,home_q3_g,home_q4_g,home_q1_b,home_q2_b,home_q3_b,home_q4_b,away_q1_g,away_q2_g,away_q3_g,away_q4_g,away_q1_b,away_q2_b,away_q3_b,away_q4_b,home_total_g,home_total_b,home_total_score,away_total_g,away_total_b,away_total_score,winning_team,margin
+2021,1,M.C.G.,18-03-2021,49218,Richmond,Carlton,3,5,2,5,3,2,3,7,3,3,2,3,2,4,6,2,15,15,105,11,14,80,Richmond,25
+2021,1,M.C.G.,19-03-2021,46051,Collingwood,Western Bulldogs,1,3,1,2,2,4,1,4,3,3,3,1,2,3,2,2,7,11,53,10,9,69,Western Bulldogs,16
+2021,1,M.C.G.,20-03-2021,21365,Melbourne,Fremantle,4,3,2,2,4,2,2,6,0,3,3,2,4,4,1,1,11,14,80,8,10,58,Melbourne,22
+2021,1,Adelaide,20-03-2021,26985,Adelaide,Geelong,4,7,2,2,4,3,2,4,2,3,5,3,3,2,3,5,15,13,103,13,13,91,Adelaide,12
+2021,1,Docklands,20-03-2021,25128,Essendon,Hawthorn,2,8,1,2,4,2,4,3,3,1,8,2,1,2,0,5,13,13,91,14,8,92,Hawthorn,1
+2021,1,Gabba,20-03-2021,22762,Brisbane Lions,Sydney,3,5,2,4,3,1,3,3,2,6,9,2,4,0,2,5,14,10,94,19,11,125,Sydney,31
+2021,1,Docklands,21-03-2021,13050,North Melbourne,Port Adelaide,2,1,2,4,4,2,2,3,2,8,4,3,2,2,4,7,9,11,65,17,15,117,Port Adelaide,52
+2021,1,Sydney,21-03-2021,5014,Greater Western Sydney,St Kilda,2,2,4,3,3,2,4,3,1,4,4,4,2,4,0,2,11,12,78,13,8,86,St Kilda,8
+2021,1,Perth,21-03-2021,38493,West Coast,Gold Coast,3,2,2,5,3,1,3,4,2,2,3,1,4,1,3,2,12,11,83,8,10,58,West Coast,25
+2021,2,M.C.G.,25-03-2021,51723,Carlton,Collingwood,3,5,4,1,2,1,1,3,6,5,2,3,2,3,2,3,13,7,85,16,10,106,Collingwood,21
+2021,2,Kardinia,26-03-2021,20070,Geelong,Brisbane Lions,5,3,3,1,3,2,3,1,2,2,3,4,5,4,2,3,12,9,81,11,14,80,Geelong,1
+2021,2,S.C.G.,27-03-2021,23946,Sydney,Adelaide,4,5,6,3,1,5,5,2,3,1,2,5,2,4,8,8,18,13,121,11,22,88,Sydney,33
+2021,2,Adelaide,27-03-2021,29978,Port Adelaide,Essendon,6,5,4,3,1,5,4,1,1,3,2,3,4,3,1,3,18,11,119,9,11,65,Port Adelaide,54
+2021,2,Docklands,27-03-2021,25903,St Kilda,Melbourne,3,3,2,3,2,1,1,3,3,3,3,3,4,3,6,6,11,7,73,12,19,91,Melbourne,18
+2021,2,Carrara,27-03-2021,6661,Gold Coast,North Melbourne,3,6,2,3,4,2,4,4,1,1,3,0,2,2,1,4,14,14,98,5,9,39,Gold Coast,59
+2021,2,M.C.G.,28-03-2021,41051,Hawthorn,Richmond,1,4,1,1,1,1,1,4,4,4,1,2,4,3,1,4,7,7,49,11,12,78,Richmond,29
+2021,2,Docklands,28-03-2021,21391,Western Bulldogs,West Coast,3,3,3,5,3,7,2,4,3,3,6,2,2,1,3,3,14,16,100,14,9,93,Western Bulldogs,7
+2021,2,Perth,28-03-2021,27625,Fremantle,Greater Western Sydney,4,1,4,2,6,6,4,5,1,0,2,4,5,4,3,2,11,21,87,7,14,56,Fremantle,31
+2021,3,Docklands,01-04-2021,28057,Collingwood,Brisbane Lions,4,3,2,2,2,1,2,1,2,4,2,3,1,0,2,4,11,6,72,11,7,73,Brisbane Lions,1
+2021,3,Docklands,02-04-2021,28483,North Melbourne,Western Bulldogs,2,1,0,2,2,2,4,1,4,5,6,10,2,4,4,7,5,9,39,25,17,167,Western Bulldogs,128
+2021,3,Adelaide,02-04-2021,30175,Adelaide,Gold Coast,5,3,3,3,0,2,4,5,5,0,4,3,6,3,2,2,14,11,95,12,13,85,Adelaide,10
+2021,3,M.C.G.,03-04-2021,43637,Richmond,Sydney,1,3,3,3,3,3,3,3,2,8,5,2,5,5,2,3,10,12,72,17,15,117,Sydney,45
+2021,3,Docklands,03-04-2021,29234,Essendon,St Kilda,6,6,4,6,4,2,4,1,3,1,2,3,3,2,4,5,22,11,143,9,14,68,Essendon,75
+2021,3,Perth,03-04-2021,42090,West Coast,Port Adelaide,5,5,3,3,4,3,1,4,1,1,4,5,1,2,0,2,16,12,108,11,5,71,West Coast,37
+2021,3,Docklands,04-04-2021,24551,Carlton,Fremantle,3,6,4,3,5,4,2,2,3,1,2,3,1,3,3,3,16,13,109,9,10,64,Carlton,45
+2021,3,Manuka,04-04-2021,9563,Greater Western Sydney,Melbourne,5,2,1,3,1,0,0,1,2,4,4,5,3,2,2,5,11,2,68,15,12,102,Melbourne,34
+2021,3,M.C.G.,05-04-2021,50030,Geelong,Hawthorn,3,3,3,1,3,1,3,2,2,1,2,4,1,4,2,3,10,9,69,9,10,64,Geelong,5
+2021,4,S.C.G.,08-04-2021,28039,Sydney,Essendon,2,5,2,2,5,4,2,6,4,3,3,2,1,3,2,2,11,17,83,12,8,80,Sydney,3
+2021,4,Adelaide,09-04-2021,33742,Port Adelaide,Richmond,3,3,3,2,3,7,2,1,4,2,2,3,2,1,4,4,11,13,79,11,11,77,Port Adelaide,2
+2021,4,Eureka,10-04-2021,7387,Western Bulldogs,Brisbane Lions,3,4,2,1,3,3,4,3,2,1,3,2,1,3,2,0,10,13,73,8,6,54,Western Bulldogs,19
+2021,4,Docklands,10-04-2021,16710,St Kilda,West Coast,4,1,5,5,2,3,6,1,6,4,3,0,2,1,0,1,15,12,102,13,4,82,St Kilda,20
+2021,4,Carrara,10-04-2021,11618,Gold Coast,Carlton,1,3,4,0,2,2,4,3,2,4,2,1,4,2,3,7,8,11,59,9,16,70,Carlton,11
+2021,4,M.C.G.,10-04-2021,29866,Collingwood,Greater Western Sydney,1,3,3,2,2,3,1,0,2,4,4,4,2,1,0,3,9,6,60,14,6,90,Greater Western Sydney,30
+2021,4,Docklands,11-04-2021,13479,North Melbourne,Adelaide,2,4,3,1,2,1,4,1,5,3,0,8,2,4,3,4,10,8,68,16,13,109,Adelaide,41
+2021,4,M.C.G.,11-04-2021,33728,Melbourne,Geelong,2,4,3,3,4,4,1,4,1,2,5,1,1,2,0,3,12,13,85,9,6,60,Melbourne,25
+2021,4,Perth,11-04-2021,29490,Fremantle,Hawthorn,5,1,4,3,6,5,1,6,0,5,3,4,2,2,4,1,13,18,96,12,9,81,Fremantle,15
+2021,5,Docklands,15-04-2021,32056,St Kilda,Richmond,3,1,2,1,4,1,1,0,3,5,7,5,3,3,6,2,7,6,48,20,14,134,Richmond,86
+2021,5,Perth,16-04-2021,54159,West Coast,Collingwood,3,6,5,2,1,4,1,1,5,2,0,4,4,1,2,3,16,7,103,11,10,76,West Coast,27
+2021,5,Docklands,17-04-2021,18920,Western Bulldogs,Gold Coast,4,7,2,4,1,3,5,7,0,1,6,1,2,1,1,4,17,16,118,8,8,56,Western Bulldogs,62
+2021,5,S.C.G.,17-04-2021,33541,Sydney,Greater Western Sydney,3,3,2,2,3,1,4,1,1,2,2,4,4,3,4,6,10,9,69,9,17,71,Greater Western Sydney,2
+2021,5,M.C.G.,17-04-2021,32893,Carlton,Port Adelaide,3,1,2,3,3,2,5,4,4,4,6,1,2,2,1,1,9,14,68,15,6,96,Port Adelaide,28
+2021,5,Gabba,17-04-2021,23544,Brisbane Lions,Essendon,4,3,5,3,2,3,1,6,0,1,3,2,3,2,1,3,15,12,102,6,9,45,Brisbane Lions,57
+2021,5,Adelaide,18-04-2021,31454,Adelaide,Fremantle,2,3,3,3,1,4,1,0,2,1,5,4,1,4,2,5,11,6,72,12,12,84,Fremantle,12
+2021,5,M.C.G.,18-04-2021,36337,Hawthorn,Melbourne,4,1,1,2,3,0,3,0,2,2,3,8,5,2,3,4,8,6,54,15,14,104,Melbourne,50
+2021,5,Kardinia,18-04-2021,21282,Geelong,North Melbourne,1,2,4,3,3,6,3,5,3,0,2,2,1,2,1,1,10,17,77,7,5,47,Geelong,30
+2021,6,Manuka,23-04-2021,10064,Greater Western Sydney,Western Bulldogs,1,3,2,3,1,4,3,3,2,3,1,9,3,4,4,3,9,11,65,15,14,104,Western Bulldogs,39
+2021,6,Kardinia,24-04-2021,21282,Geelong,West Coast,2,10,6,3,3,1,3,3,3,0,1,1,2,1,1,5,21,10,136,5,9,39,Geelong,97
+2021,6,Carrara,24-04-2021,9819,Gold Coast,Sydney,4,4,5,2,2,0,4,4,3,1,1,4,1,3,1,1,15,10,100,9,6,60,Gold Coast,40
+2021,6,Docklands,24-04-2021,29576,Carlton,Brisbane Lions,3,2,4,3,5,2,4,2,2,7,4,2,3,6,3,1,12,13,85,15,13,103,Brisbane Lions,18
+2021,6,M.C.G.,24-04-2021,56418,Melbourne,Richmond,2,4,4,2,2,4,2,2,3,0,2,1,3,4,1,4,12,10,82,6,12,48,Melbourne,34
+2021,6,Perth,24-04-2021,0,Fremantle,North Melbourne,3,4,4,3,4,5,4,2,2,1,2,1,2,3,4,3,14,15,99,6,12,48,Fremantle,51
+2021,6,York,25-04-2021,9007,Hawthorn,Adelaide,5,4,4,2,2,3,1,6,4,10,2,0,0,0,1,2,15,12,102,16,3,99,Hawthorn,3
+2021,6,M.C.G.,25-04-2021,78113,Collingwood,Essendon,4,4,3,2,1,0,4,2,4,4,3,5,4,3,3,3,13,7,85,16,13,109,Essendon,24
+2021,6,Adelaide,25-04-2021,33125,Port Adelaide,St Kilda,4,4,3,3,1,2,5,1,1,1,1,2,4,1,2,2,14,9,93,5,9,39,Port Adelaide,54
+2021,7,M.C.G.,30-04-2021,52402,Richmond,Western Bulldogs,1,1,5,4,4,4,2,1,3,2,1,1,6,3,1,3,11,11,77,7,13,55,Richmond,22
+2021,7,M.C.G.,01-05-2021,24397,Collingwood,Gold Coast,2,0,3,2,3,5,3,2,2,4,3,3,2,1,0,4,7,13,55,12,7,79,Gold Coast,24
+2021,7,Adelaide,01-05-2021,28853,Adelaide,Greater Western Sydney,1,1,1,1,1,3,5,6,1,5,4,5,8,4,2,2,4,15,39,15,16,106,Greater Western Sydney,67
+2021,7,Docklands,01-05-2021,26433,St Kilda,Hawthorn,5,5,4,5,4,5,2,3,0,4,2,3,0,2,1,2,19,14,128,9,5,59,St Kilda,69
+2021,7,S.C.G.,01-05-2021,29123,Sydney,Geelong,2,5,3,4,1,1,4,0,6,1,3,2,5,3,2,6,14,6,90,12,16,88,Sydney,2
+2021,7,Gabba,01-05-2021,20007,Brisbane Lions,Port Adelaide,4,4,3,2,5,3,7,0,1,1,1,2,2,4,3,5,13,15,93,5,14,44,Brisbane Lions,49
+2021,7,Bellerive,02-05-2021,6009,North Melbourne,Melbourne,4,5,1,1,1,4,1,1,3,3,6,4,2,2,3,0,11,7,73,16,7,103,Melbourne,30
+2021,7,M.C.G.,02-05-2021,57447,Essendon,Carlton,6,2,4,4,4,3,1,3,4,4,6,5,2,3,2,2,16,11,107,19,9,123,Carlton,16
+2021,7,Perth,02-05-2021,0,West Coast,Fremantle,4,7,6,3,2,2,4,4,4,5,2,0,0,3,2,2,20,12,132,11,7,73,West Coast,59
+2021,8,M.C.G.,07-05-2021,54857,Richmond,Geelong,4,3,1,1,3,4,2,0,1,5,8,5,3,1,4,4,9,9,63,19,12,126,Geelong,63
+2021,8,Carrara,08-05-2021,9271,Gold Coast,St Kilda,1,2,4,0,4,3,2,3,0,3,1,4,3,4,5,3,7,12,54,8,15,63,St Kilda,9
+2021,8,Sydney,08-05-2021,8526,Greater Western Sydney,Essendon,6,1,7,2,2,2,4,3,2,3,5,6,2,5,0,2,16,11,107,16,9,105,Greater Western Sydney,2
+2021,8,Docklands,08-05-2021,22329,North Melbourne,Collingwood,2,1,5,3,2,4,1,3,3,5,4,2,2,4,4,0,11,10,76,14,10,94,Collingwood,18
+2021,8,M.C.G.,08-05-2021,35567,Melbourne,Sydney,3,2,3,2,1,5,0,1,3,0,3,2,3,4,1,2,10,7,67,8,10,58,Melbourne,9
+2021,8,Adelaide,08-05-2021,43069,Port Adelaide,Adelaide,2,2,5,3,4,2,4,5,1,0,3,1,0,4,1,3,12,15,87,5,8,38,Port Adelaide,49
+2021,8,M.C.G.,09-05-2021,15277,Hawthorn,West Coast,0,3,2,3,3,3,4,2,0,7,4,3,5,4,2,3,8,12,60,14,14,98,West Coast,38
+2021,8,Docklands,09-05-2021,27663,Western Bulldogs,Carlton,4,2,4,6,3,3,2,3,3,5,4,1,3,3,4,3,16,11,107,13,13,91,Western Bulldogs,16
+2021,8,Gabba,09-05-2021,15403,Brisbane Lions,Fremantle,5,3,4,2,4,3,2,2,2,1,4,3,1,2,4,4,14,11,95,10,11,71,Brisbane Lions,24
+2021,9,Docklands,14-05-2021,26712,St Kilda,Geelong,0,3,1,1,7,4,2,4,2,2,2,4,1,1,4,2,5,17,47,10,8,68,Geelong,21
+2021,9,S.C.G.,15-05-2021,31448,Sydney,Collingwood,1,3,3,3,2,1,4,5,4,0,0,1,2,2,2,6,10,12,72,5,12,42,Sydney,30
+2021,9,York,15-05-2021,9121,Hawthorn,North Melbourne,5,3,1,3,3,3,2,0,1,4,4,4,1,1,5,2,12,8,80,13,9,87,North Melbourne,7
+2021,9,Carrara,15-05-2021,12636,Gold Coast,Brisbane Lions,2,1,0,4,3,3,1,2,3,5,8,3,3,2,2,3,7,9,51,19,10,124,Brisbane Lions,73
+2021,9,Docklands,15-05-2021,18798,Richmond,Greater Western Sydney,3,3,4,3,0,2,3,4,4,5,1,2,3,2,3,3,13,9,87,12,11,83,Richmond,4
+2021,9,Adelaide,15-05-2021,32787,Port Adelaide,Western Bulldogs,2,6,1,3,1,0,3,1,6,2,4,3,2,0,3,1,12,5,77,15,6,96,Western Bulldogs,19
+2021,9,Docklands,16-05-2021,26357,Essendon,Fremantle,3,2,2,3,2,0,4,2,2,2,3,1,2,4,3,4,10,8,68,8,13,61,Essendon,7
+2021,9,M.C.G.,16-05-2021,38581,Melbourne,Carlton,4,4,4,1,3,3,3,7,3,3,2,2,2,3,2,1,13,16,94,10,8,68,Melbourne,26
+2021,9,Perth,16-05-2021,43427,West Coast,Adelaide,2,7,5,2,5,1,1,3,2,2,4,3,3,4,1,2,16,10,106,11,10,76,West Coast,30
+2021,10,Gabba,21-05-2021,31127,Brisbane Lions,Richmond,3,4,4,4,5,4,2,1,5,2,1,3,1,1,3,3,15,12,102,11,8,74,Brisbane Lions,28
+2021,10,M.C.G.,22-05-2021,45741,Carlton,Hawthorn,4,4,4,1,1,2,1,4,2,5,1,1,3,3,3,0,13,8,86,9,9,63,Carlton,23
+2021,10,Kardinia,22-05-2021,22055,Geelong,Gold Coast,4,2,4,4,0,1,2,4,1,2,1,4,1,5,2,1,14,7,91,8,9,57,Geelong,34
+2021,10,Adelaide,22-05-2021,31373,Adelaide,Melbourne,4,4,3,4,2,2,1,1,5,3,3,3,1,3,4,3,15,6,96,14,11,95,Adelaide,1
+2021,10,Docklands,22-05-2021,28720,Western Bulldogs,St Kilda,3,7,5,6,5,5,3,5,2,1,1,1,0,1,1,1,21,18,144,5,3,33,Western Bulldogs,111
+2021,10,Perth,22-05-2021,29134,Fremantle,Sydney,3,3,4,2,2,4,5,3,4,5,0,4,0,3,1,2,12,14,86,13,6,84,Fremantle,2
+2021,10,Sydney,23-05-2021,9046,Greater Western Sydney,West Coast,4,3,3,3,2,6,5,2,3,4,3,1,4,3,2,2,13,15,93,11,11,77,Greater Western Sydney,16
+2021,10,M.C.G.,23-05-2021,23415,Collingwood,Port Adelaide,3,1,2,2,1,5,3,1,0,2,2,4,1,2,5,3,8,10,58,8,11,59,Port Adelaide,1
+2021,10,Docklands,23-05-2021,33121,Essendon,North Melbourne,6,5,4,7,4,1,1,3,2,1,5,2,1,2,5,1,22,9,141,10,9,69,Essendon,72
+2021,11,Docklands,28-05-2021,0,Western Bulldogs,Melbourne,2,4,0,2,2,3,3,3,6,3,3,1,5,1,2,1,8,11,59,13,9,87,Melbourne,28
+2021,11,M.C.G.,29-05-2021,0,Collingwood,Geelong,0,0,1,5,3,4,4,4,2,3,0,3,3,5,3,2,6,15,51,8,13,61,Geelong,10
+2021,11,Gabba,29-05-2021,22038,Brisbane Lions,Greater Western Sydney,6,4,4,5,4,3,3,5,1,3,1,5,0,1,2,2,19,15,129,10,5,65,Brisbane Lions,64
+2021,11,Docklands,29-05-2021,0,St Kilda,North Melbourne,3,4,4,1,6,5,3,2,1,2,2,5,0,4,3,1,12,16,88,10,8,68,St Kilda,20
+2021,11,Perth,29-05-2021,41883,West Coast,Essendon,3,6,1,1,0,0,5,0,2,3,4,3,4,3,1,7,11,5,71,12,15,87,Essendon,16
+2021,11,S.C.G.,29-05-2021,1241,Gold Coast,Hawthorn,4,6,3,4,5,3,2,1,3,3,2,3,2,2,1,5,17,11,113,11,10,76,Gold Coast,37
+2021,11,Sydney,30-05-2021,4236,Richmond,Adelaide,3,5,6,3,1,2,3,3,6,1,1,4,3,4,2,2,17,9,111,12,11,83,Richmond,28
+2021,11,S.C.G.,30-05-2021,29882,Sydney,Carlton,5,3,3,4,3,1,2,4,4,4,2,1,3,2,4,3,15,10,100,11,12,78,Sydney,22
+2021,11,Adelaide,30-05-2021,26759,Port Adelaide,Fremantle,7,5,2,4,5,0,0,2,0,6,2,1,7,3,3,2,18,7,115,9,15,69,Port Adelaide,46
+2021,12,Sydney,04-06-2021,3772,Melbourne,Brisbane Lions,2,3,5,4,3,1,5,4,4,4,2,1,4,2,2,1,14,13,97,11,9,75,Melbourne,22
+2021,12,S.C.G.,05-06-2021,19020,Sydney,St Kilda,4,2,4,3,6,1,4,3,3,2,4,3,4,3,0,4,13,14,92,12,11,83,Sydney,9
+2021,12,Adelaide,05-06-2021,30446,Adelaide,Collingwood,1,4,3,2,1,5,4,3,5,2,4,1,0,0,3,3,10,13,73,12,6,78,Collingwood,5
+2021,12,Perth,05-06-2021,55656,Essendon,Richmond,1,4,3,4,2,2,6,2,4,4,4,7,3,4,1,1,12,12,84,19,9,123,Richmond,39
+2021,12,S.C.G.,06-06-2021,5137,Carlton,West Coast,3,3,3,1,6,3,1,3,4,4,4,2,1,4,3,3,10,13,73,14,11,95,West Coast,22
+2021,12,Perth,06-06-2021,32875,Fremantle,Western Bulldogs,2,2,3,2,2,2,4,3,3,3,2,5,3,5,2,5,9,11,65,13,15,93,Western Bulldogs,28
+2021,13,Adelaide,10-06-2021,28718,Port Adelaide,Geelong,5,3,2,4,1,1,2,3,4,4,3,6,3,2,3,2,14,7,91,17,10,112,Geelong,21
+2021,13,S.C.G.,11-06-2021,25904,Sydney,Hawthorn,3,2,1,1,2,1,1,5,4,5,1,4,2,1,1,1,7,9,51,14,5,89,Hawthorn,38
+2021,13,Perth,12-06-2021,27318,Fremantle,Gold Coast,2,1,6,2,2,2,3,3,1,0,4,1,3,5,1,4,11,10,76,6,13,49,Fremantle,27
+2021,13,Cazaly's,12-06-2021,5969,St Kilda,Adelaide,4,3,1,0,3,3,3,3,0,2,4,3,0,6,0,6,8,12,60,9,12,66,Adelaide,6
+2021,13,Bellerive,13-06-2021,3462,North Melbourne,Greater Western Sydney,5,4,4,1,1,3,3,3,4,4,0,6,1,3,5,1,14,10,94,14,10,94,Match drawn,0
+2021,13,Perth,13-06-2021,50834,West Coast,Richmond,3,4,1,5,0,1,2,4,2,5,2,3,2,3,4,0,13,7,85,12,9,81,West Coast,4
+2021,13,S.C.G.,14-06-2021,16453,Melbourne,Collingwood,2,2,4,1,2,2,2,3,1,5,2,3,4,4,3,3,9,9,63,11,14,80,Collingwood,17
+2021,14,Kardinia,18-06-2021,6583,Geelong,Western Bulldogs,1,5,3,3,4,2,4,1,1,4,4,2,4,1,3,4,12,11,83,11,12,78,Geelong,5
+2021,14,Carrara,19-06-2021,7117,Gold Coast,Port Adelaide,1,1,0,2,0,1,3,3,3,4,4,1,3,2,3,1,4,7,31,12,9,81,Port Adelaide,50
+2021,14,Bellerive,19-06-2021,5060,North Melbourne,Brisbane Lions,1,3,1,1,2,1,3,3,2,1,3,3,4,3,2,5,6,9,45,9,14,68,Brisbane Lions,23
+2021,14,Sydney,19-06-2021,7035,Greater Western Sydney,Carlton,5,3,3,5,3,1,0,2,2,1,4,2,1,3,6,2,16,6,102,9,12,66,Greater Western Sydney,36
+2021,14,York,20-06-2021,14834,Hawthorn,Essendon,1,3,4,2,3,4,1,5,3,2,4,4,2,1,2,3,10,13,73,13,8,86,Essendon,13
+2021,15,Gabba,24-06-2021,29024,Brisbane Lions,Geelong,4,4,3,2,7,2,4,3,0,3,2,2,1,4,1,2,13,16,94,7,8,50,Brisbane Lions,44
+2021,15,M.C.G.,25-06-2021,14787,Richmond,St Kilda,0,1,1,0,5,1,1,3,3,2,3,1,2,1,4,1,2,10,22,9,8,62,St Kilda,40
+2021,15,Docklands,26-06-2021,11570,Collingwood,Fremantle,2,2,3,5,2,2,2,1,3,4,3,4,3,2,1,1,12,7,79,14,7,91,Fremantle,12
+2021,15,Bellerive,26-06-2021,6719,North Melbourne,Gold Coast,4,1,3,1,4,4,7,3,3,4,1,1,0,4,0,5,9,18,72,9,9,63,North Melbourne,9
+2021,15,Adelaide,26-06-2021,29631,Port Adelaide,Sydney,4,3,3,2,3,1,2,3,5,1,1,3,3,3,3,2,12,9,81,10,11,71,Port Adelaide,10
+2021,15,M.C.G.,26-06-2021,19414,Essendon,Melbourne,2,2,2,2,3,2,2,2,1,3,4,1,5,3,4,2,8,9,57,9,14,68,Melbourne,11
+2021,15,M.C.G.,27-06-2021,9897,Greater Western Sydney,Hawthorn,5,0,3,3,1,3,2,0,2,4,2,5,3,3,3,3,11,6,72,13,12,90,Hawthorn,18
+2021,15,Perth,27-06-2021,0,West Coast,Western Bulldogs,1,1,3,1,1,3,2,1,2,2,3,6,8,4,3,5,6,7,43,13,20,98,Western Bulldogs,55
+2021,15,Docklands,27-06-2021,14930,Carlton,Adelaide,2,8,2,0,0,4,2,5,2,3,3,2,6,0,3,4,12,11,83,10,13,73,Carlton,10
+2021,16,Docklands,01-07-2021,9327,Gold Coast,Richmond,2,3,3,2,7,3,4,3,2,3,3,2,1,3,1,2,10,17,77,10,7,67,Gold Coast,10
+2021,16,Kardinia,02-07-2021,15579,Geelong,Essendon,1,8,2,4,1,2,2,3,4,1,2,1,2,1,5,1,15,8,98,8,9,57,Geelong,41
+2021,16,M.C.G.,03-07-2021,16963,Melbourne,Greater Western Sydney,1,2,2,2,3,3,3,4,2,4,2,1,2,4,2,2,7,13,55,9,10,64,Greater Western Sydney,9
+2021,16,Adelaide,03-07-2021,16178,Adelaide,Brisbane Lions,2,2,3,1,1,3,3,4,3,2,6,6,4,2,1,2,8,11,59,17,9,111,Brisbane Lions,52
+2021,16,M.C.G.,03-07-2021,12103,Fremantle,Carlton,0,4,4,0,4,4,7,1,4,3,3,2,2,0,1,5,8,16,64,12,8,80,Carlton,16
+2021,16,Docklands,03-07-2021,18251,Hawthorn,Port Adelaide,1,0,3,3,4,1,3,3,3,5,1,4,2,3,2,2,7,11,53,13,9,87,Port Adelaide,34
+2021,16,Kardinia,04-07-2021,9520,Sydney,West Coast,5,6,2,5,2,2,4,2,1,0,2,0,3,0,2,3,18,10,118,3,8,26,Sydney,92
+2021,16,M.C.G.,04-07-2021,18082,Collingwood,St Kilda,1,0,2,5,2,3,2,6,3,1,6,0,1,4,3,2,8,13,61,10,10,70,St Kilda,9
+2021,16,Docklands,04-07-2021,18216,Western Bulldogs,North Melbourne,5,4,4,3,1,5,2,4,3,2,2,4,1,2,2,8,16,12,108,11,13,79,Western Bulldogs,29
+2021,17,Adelaide,08-07-2021,30908,Port Adelaide,Melbourne,2,3,2,1,2,1,2,2,3,5,2,2,2,2,5,5,8,7,55,12,14,86,Melbourne,31
+2021,17,Docklands,09-07-2021,23604,Essendon,Adelaide,2,4,3,2,5,3,4,6,0,1,1,0,2,1,4,2,11,18,84,2,9,21,Essendon,63
+2021,17,York,10-07-2021,9111,Hawthorn,Fremantle,2,2,1,1,0,5,2,3,5,3,3,5,5,2,5,0,6,10,46,16,12,108,Fremantle,62
+2021,17,M.C.G.,10-07-2021,31834,Carlton,Geelong,1,0,1,3,5,4,4,1,2,1,3,4,1,3,3,3,5,14,44,10,10,70,Geelong,26
+2021,17,Carrara,10-07-2021,9075,Brisbane Lions,St Kilda,1,3,3,1,5,3,0,7,1,5,3,5,3,3,3,2,8,15,63,14,11,95,St Kilda,32
+2021,17,Eureka,11-07-2021,2952,Greater Western Sydney,Gold Coast,2,1,5,1,4,0,6,0,1,4,2,3,1,2,0,2,9,10,64,10,5,65,Gold Coast,1
+2021,17,Docklands,11-07-2021,24817,Western Bulldogs,Sydney,3,2,1,2,2,3,1,6,4,3,2,2,2,2,4,5,8,12,60,11,13,79,Sydney,19
+2021,17,M.C.G.,11-07-2021,29437,Richmond,Collingwood,4,3,3,1,0,2,1,2,1,3,2,7,1,2,4,2,11,5,71,13,9,87,Collingwood,16
+2021,17,Perth,12-07-2021,30515,West Coast,North Melbourne,2,1,0,5,5,5,2,0,2,1,3,4,0,2,3,5,8,12,60,10,10,70,North Melbourne,10
+2021,18,Perth,15-07-2021,35271,Fremantle,Geelong,1,0,2,0,3,4,3,3,3,5,3,3,5,3,4,4,3,13,31,14,16,100,Geelong,69
+2021,18,Carrara,16-07-2021,4119,Richmond,Brisbane Lions,4,3,5,4,2,2,2,4,3,5,2,3,1,3,3,1,16,10,106,13,8,86,Richmond,20
+2021,18,Docklands,17-07-2021,0,St Kilda,Port Adelaide,2,1,3,2,4,1,4,4,1,3,3,3,0,6,5,3,8,13,61,10,14,74,Port Adelaide,13
+2021,18,Carrara,17-07-2021,8244,Gold Coast,Western Bulldogs,4,2,2,3,1,4,2,6,3,5,3,3,2,2,1,1,11,13,79,14,6,90,Western Bulldogs,11
+2021,18,M.C.G.,17-07-2021,0,Melbourne,Hawthorn,4,2,3,2,4,3,3,3,1,4,5,2,2,0,1,4,11,13,79,12,7,79,Match drawn,0
+2021,18,Carrara,18-07-2021,5114,North Melbourne,Essendon,4,2,1,4,4,0,4,0,3,1,4,5,0,6,4,4,11,8,74,13,14,92,Essendon,18
+2021,18,M.C.G.,18-07-2021,0,Collingwood,Carlton,3,3,3,0,2,2,1,3,1,3,3,6,3,3,3,4,9,8,62,13,13,91,Carlton,29
+2021,18,Adelaide,18-07-2021,24554,Adelaide,West Coast,1,3,2,2,3,1,2,2,0,4,5,5,3,3,3,5,8,8,56,14,14,98,West Coast,42
+2021,18,Carrara,18-07-2021,2374,Greater Western Sydney,Sydney,6,3,0,2,1,1,3,1,1,5,6,3,2,2,2,2,11,6,72,15,8,98,Sydney,26
+2021,19,Docklands,23-07-2021,0,Port Adelaide,Collingwood,2,4,5,3,4,4,3,2,3,0,5,2,3,4,1,1,14,13,97,10,9,69,Port Adelaide,28
+2021,19,Docklands,24-07-2021,0,Carlton,North Melbourne,2,3,0,6,5,1,4,1,3,2,7,6,1,3,2,2,11,11,77,18,8,116,North Melbourne,39
+2021,19,Gabba,24-07-2021,16660,Brisbane Lions,Gold Coast,2,2,5,8,4,5,5,4,3,6,0,1,3,3,2,3,17,18,120,10,11,71,Brisbane Lions,49
+2021,19,Perth,24-07-2021,43657,West Coast,St Kilda,2,6,3,3,2,4,1,3,2,2,3,6,1,1,4,2,14,10,94,13,8,86,West Coast,8
+2021,19,M.C.G.,24-07-2021,0,Melbourne,Western Bulldogs,1,1,5,2,4,3,2,2,3,3,4,3,2,2,1,2,9,11,65,13,7,85,Western Bulldogs,20
+2021,19,Docklands,24-07-2021,0,Adelaide,Hawthorn,6,3,3,4,1,0,3,2,4,2,4,3,1,3,0,1,16,6,102,13,5,83,Adelaide,19
+2021,19,Carrara,25-07-2021,2875,Sydney,Fremantle,3,3,5,3,3,5,3,3,4,2,0,2,4,1,1,4,14,14,98,8,10,58,Sydney,40
+2021,19,M.C.G.,25-07-2021,0,Geelong,Richmond,3,5,2,5,0,3,0,2,1,0,2,5,2,2,3,2,15,5,95,8,9,57,Geelong,38
+2021,19,Carrara,25-07-2021,2681,Essendon,Greater Western Sydney,4,2,0,1,3,1,4,3,2,1,4,2,4,2,4,2,7,11,53,9,12,66,Greater Western Sydney,13
+2021,20,Docklands,30-07-2021,0,St Kilda,Carlton,3,2,2,5,1,2,4,2,5,5,5,3,1,0,1,2,12,9,81,18,4,112,Carlton,31
+2021,20,Eureka,31-07-2021,0,Western Bulldogs,Adelaide,5,4,1,5,3,6,2,4,3,1,1,3,3,1,2,2,15,15,105,8,8,56,Western Bulldogs,49
+2021,20,Bellerive,31-07-2021,8033,North Melbourne,Geelong,3,1,1,1,2,2,2,0,2,3,1,2,4,2,5,3,6,6,42,8,14,62,Geelong,20
+2021,20,M.C.G.,31-07-2021,0,Collingwood,West Coast,4,6,1,3,1,0,3,2,0,1,1,4,4,1,2,2,14,6,90,6,9,45,Collingwood,45
+2021,20,Docklands,01-08-2021,0,Gold Coast,Melbourne,3,0,0,1,2,1,0,3,6,6,5,1,4,4,6,6,4,6,30,18,20,128,Melbourne,98
+2021,20,York,01-08-2021,5381,Hawthorn,Brisbane Lions,4,3,6,1,3,1,1,3,0,3,1,8,1,3,2,2,14,8,92,12,8,80,Hawthorn,12
+2021,20,M.C.G.,01-08-2021,0,Essendon,Sydney,3,3,5,5,3,2,0,1,2,2,7,6,1,4,2,0,16,6,102,17,7,109,Sydney,7
+2021,20,Perth,01-08-2021,24979,Fremantle,Richmond,2,0,3,2,6,4,2,1,1,0,2,3,1,7,6,1,7,13,55,6,15,51,Fremantle,4
+2021,20,Docklands,01-08-2021,0,Greater Western Sydney,Port Adelaide,1,6,3,1,1,1,3,2,3,5,3,4,4,0,2,4,11,7,73,15,10,100,Port Adelaide,27
+2021,21,Kardinia,06-08-2021,0,Geelong,Greater Western Sydney,1,2,2,3,3,6,1,7,4,3,4,2,3,1,1,1,8,17,65,13,6,84,Greater Western Sydney,19
+2021,21,Docklands,07-08-2021,0,Carlton,Gold Coast,3,2,1,2,2,3,3,1,1,2,4,4,4,4,1,1,8,9,57,11,10,76,Gold Coast,19
+2021,21,M.C.G.,07-08-2021,0,Richmond,North Melbourne,0,2,7,4,3,1,2,5,3,2,2,1,4,2,2,0,13,11,89,8,8,56,Richmond,33
+2021,21,Adelaide,07-08-2021,14736,Adelaide,Port Adelaide,1,3,2,1,3,3,2,1,1,0,3,3,2,3,5,3,7,9,51,7,13,55,Port Adelaide,4
+2021,21,Docklands,07-08-2021,0,St Kilda,Sydney,5,3,4,2,0,2,2,5,4,1,3,2,1,1,2,0,14,9,93,10,4,64,St Kilda,29
+2021,21,M.C.G.,08-08-2021,0,Hawthorn,Collingwood,4,4,5,2,2,1,2,2,2,1,5,4,2,1,2,1,15,7,97,12,6,78,Hawthorn,19
+2021,21,Docklands,08-08-2021,0,Western Bulldogs,Essendon,3,3,2,4,3,2,6,1,1,6,4,4,2,0,2,3,12,12,84,15,7,97,Essendon,13
+2021,21,Perth,08-08-2021,29589,Fremantle,Brisbane Lions,2,1,3,2,1,2,0,3,6,4,4,4,4,2,2,2,8,6,54,18,10,118,Brisbane Lions,64
+2021,21,Perth,09-08-2021,31584,West Coast,Melbourne,2,2,1,4,0,5,1,3,4,1,5,0,2,1,5,4,9,9,63,10,12,72,Melbourne,9
+2021,22,Docklands,13-08-2021,0,Greater Western Sydney,Richmond,7,5,3,1,3,2,3,2,2,2,2,4,2,1,1,3,16,10,106,10,7,67,Greater Western Sydney,39
+2021,22,York,14-08-2021,7822,Hawthorn,Western Bulldogs,0,3,4,2,2,5,1,2,1,1,3,0,3,1,2,1,9,10,64,5,7,37,Hawthorn,27
+2021,22,Adelaide,14-08-2021,13943,Port Adelaide,Carlton,2,6,4,9,2,4,5,3,2,3,0,0,6,3,3,3,21,14,140,5,15,45,Port Adelaide,95
+2021,22,Kardinia,14-08-2021,0,Geelong,St Kilda,2,4,4,3,0,2,3,2,5,2,3,1,1,1,1,2,13,7,85,11,5,71,Geelong,14
+2021,22,Gabba,14-08-2021,15146,Brisbane Lions,Collingwood,4,7,7,4,2,2,2,4,3,2,1,2,2,1,4,2,22,10,142,8,9,57,Brisbane Lions,85
+2021,22,Docklands,14-08-2021,0,North Melbourne,Sydney,2,1,4,5,2,1,1,1,5,3,2,3,2,2,4,5,12,5,77,13,13,91,Sydney,14
+2021,22,M.C.G.,15-08-2021,0,Melbourne,Adelaide,3,4,5,4,3,1,3,1,1,2,5,1,6,1,1,1,16,8,104,9,9,63,Melbourne,41
+2021,22,Kardinia,15-08-2021,0,Gold Coast,Essendon,2,1,0,1,2,2,2,0,2,6,4,2,2,6,4,2,4,6,30,14,14,98,Essendon,68
+2021,22,Perth,15-08-2021,51692,Fremantle,West Coast,8,2,1,1,2,0,0,5,3,1,3,2,2,5,2,1,12,7,79,9,10,64,Fremantle,15
+2021,23,Docklands,20-08-2021,0,Western Bulldogs,Port Adelaide,4,1,4,1,1,2,0,1,1,0,5,3,3,5,2,2,10,4,64,9,12,66,Port Adelaide,2
+2021,23,M.C.G.,21-08-2021,0,Richmond,Hawthorn,3,1,2,6,2,4,4,1,2,4,3,3,2,4,2,3,12,11,83,12,11,83,Match drawn,0
+2021,23,Docklands,21-08-2021,0,Sydney,Gold Coast,6,3,4,8,4,3,0,3,0,3,2,1,4,4,1,4,21,10,136,6,13,49,Sydney,87
+2021,23,Gabba,21-08-2021,21845,Brisbane Lions,West Coast,7,3,3,6,2,2,2,5,3,5,2,3,3,2,2,2,19,11,125,13,9,87,Brisbane Lions,38
+2021,23,Kardinia,21-08-2021,0,Geelong,Melbourne,2,8,2,0,1,1,1,2,2,1,3,6,3,2,2,2,12,5,77,12,9,81,Melbourne,4
+2021,23,Docklands,21-08-2021,0,Carlton,Greater Western Sydney,2,4,1,4,4,2,1,2,1,5,3,3,3,2,5,7,11,9,75,12,17,89,Greater Western Sydney,14
+2021,23,Bellerive,22-08-2021,3082,St Kilda,Fremantle,3,3,4,7,0,2,3,0,1,2,1,2,4,1,3,5,17,5,107,6,13,49,St Kilda,58
+2021,23,M.C.G.,22-08-2021,0,Essendon,Collingwood,5,6,2,3,2,0,3,1,4,1,2,2,2,2,4,2,16,6,102,9,10,64,Essendon,38
+2021,23,Adelaide,22-08-2021,13103,Adelaide,North Melbourne,4,1,3,5,6,3,6,5,2,0,3,3,1,2,1,2,13,20,98,8,6,54,Adelaide,44
+2021,QF,Adelaide,27-08-2021,19712,Port Adelaide,Geelong,4,4,1,3,3,4,3,4,2,1,0,2,5,3,3,2,12,14,86,5,13,43,Port Adelaide,43
+2021,EF,York,28-08-2021,8635,Sydney,Greater Western Sydney,3,2,3,2,2,2,2,7,3,6,2,0,2,1,4,1,10,13,73,11,8,74,Greater Western Sydney,1
+2021,QF,Adelaide,28-08-2021,13784,Melbourne,Brisbane Lions,5,4,0,4,4,6,2,3,4,1,2,2,2,2,1,1,13,15,93,9,6,60,Melbourne,33
+2021,EF,York,29-08-2021,9760,Western Bulldogs,Essendon,2,3,3,5,1,3,1,2,1,3,0,0,4,3,3,2,13,7,85,4,12,36,Western Bulldogs,49
+2021,SF,Perth,03-09-2021,44091,Geelong,Greater Western Sydney,2,3,5,5,5,3,1,4,0,3,2,5,3,2,2,1,15,13,103,10,8,68,Geelong,35
+2021,SF,Gabba,04-09-2021,30647,Brisbane Lions,Western Bulldogs,5,1,3,2,3,2,4,3,3,3,1,4,4,2,5,2,11,12,78,11,13,79,Western Bulldogs,1
+2021,PF,Perth,10-09-2021,58599,Melbourne,Geelong,5,4,8,2,3,3,2,3,1,4,0,1,0,1,1,4,19,11,125,6,6,42,Melbourne,83
+2021,PF,Adelaide,11-09-2021,26400,Port Adelaide,Western Bulldogs,1,2,2,1,1,3,4,1,7,5,2,3,2,6,4,2,6,9,45,17,14,116,Western Bulldogs,71
+2021,GF,Perth,25-09-2021,61118,Melbourne,Western Bulldogs,4,1,7,9,5,4,2,3,1,6,2,1,2,3,0,1,21,14,140,10,6,66,Melbourne,74

@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2019,9,St Kilda,Collingwood,8 ,"Acres, Blake",5,1,8,13, ,1, ,5, ,1,1,3, , , ,5,10, , ,2, , ,69
+2019,9,St Kilda,Collingwood,26 ,"Battle, Josh",7,4,5,12,1, , ,2,1,1, ,1,1, , ,5,7,1,1,6, , ,82
+2019,9,St Kilda,Collingwood,15 ,"Billings, Jack",18,8,11,29, , , ,1,2,4,3,3, , , ,7,22,1, , , ,2,85
+2019,9,St Kilda,Collingwood,22 ,"Brown, Nathan",5,4,3,8, , , ,2,2,1,1,1, ,1, ,3,7, , ,13, , ,88
+2019,9,St Kilda,Collingwood,27 ,"Bruce, Josh",5,3,2,7,1, , ,3, , , ,1,2, , ,5,4, ,2,1, , ,91
+2019,9,St Kilda,Collingwood,7 ,"Dunstan, Luke",15,1,15,30, , , ,5, ,5,9,3,2, , ,17,13, , , ,2,2,73
+2019,9,St Kilda,Collingwood,4 ,"Gresham, Jade",13,3,10,23, , , ,3, ,9,5,1,1, , ,9,13, , , ,1,1,77
+2019,9,St Kilda,Collingwood,25 ,"Kent, Dean",8,6,3,11, ,1, ,5, ,5, ,1, , , ,5,6,1,1,1, , ,80
+2019,9,St Kilda,Collingwood,43 ,"Marsh, Jonathon",9,6,3,12, , , ,2,4,2, ,3, ,2, ,7,7,3, ,2, , ,86
+2019,9,St Kilda,Collingwood,19 ,"Marshall, Rowan",7,3,9,16,1, ,24,2,1,2,5,3,1,2, ,11,5,1,1,2, , ,86
+2019,9,St Kilda,Collingwood,36 ,"McKenzie, Daniel",8,5,6,14, , , ,1,1,2, ,4, ,2, ,4,13,1, ,1, , ,86
+2019,9,St Kilda,Collingwood,28 ,"Membrey, Tim",6,6,5,11,4, , ,4, ,1,1,1, , , ,4,8,1,3,3, , ,86
+2019,9,St Kilda,Collingwood,16 ,"Newnes, Jack",6,3,5,11, ,1, ,4,2,1,1,2, ,1, ,5,6, ,1, , , ,85
+2019,9,St Kilda,Collingwood,34 ,"Parker, Matthew",5,1,3,8, , , ,5,2,1, ,5, ,4, ,3,7, , , , , ,71
+2019,9,St Kilda,Collingwood,33 ,"Paton, Ben",7,2,4,11, , , ,3,2, , ,2,1,1, ,3,8, , ,1, , ,68
+2019,9,St Kilda,Collingwood,30 ,"Phillips, Ed",6,3,7,13, , , , ,1, , ,1,1,1, ,6,8, , , , , ,64
+2019,9,St Kilda,Collingwood,6 ,"Ross, Sebastian",13,1,9,22, ,1, ,4,1,3,2,4, ,2, ,7,17, ,1,1, , ,94
+2019,9,St Kilda,Collingwood,5 ,"Savage, Shane",16,4,9,25,1,2, ,4,5,6,2,1,1, , ,5,16, , ,5, ,1,96
+2019,9,St Kilda,Collingwood,35 ,"Sinclair, Jack",8,3,6,14, ,2, ,4, ,4,1,3, ,1, ,6,7, , ,1,1,1,85
+2019,9,St Kilda,Collingwood,9 ,"Steele, Jack",6,4,19,25, , , ,7,1,1,4,2, ,1, ,9,17, , ,1, , ,86
+2019,9,St Kilda,Collingwood,44 ,"Wilkie, Callum",9,6,4,13, , , ,2,3, , ,3, ,1, ,4,8,2, , , , ,90
+2019,9,St Kilda,Collingwood,41 ,"Young, Robbie",6,2,2,8,2,1, ,4, ,3, ,2,1,1, ,2,5, , ,1, ,2,73

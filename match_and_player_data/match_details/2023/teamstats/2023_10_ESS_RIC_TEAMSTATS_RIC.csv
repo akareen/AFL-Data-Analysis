@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2023,10,Richmond,Essendon,7 ,"Baker, Liam",12,1,4,16, , , ,2,1,4, ,3, , , ,2,14, , ,1, , ,86
+2023,10,Richmond,Essendon,21 ,"Balta, Noah",14,8,4,18, , , , ,6,1, ,2, , , ,7,9,3, ,2,4, ,94
+2023,10,Richmond,Essendon,29 ,"Bolton, Shai",15,3,13,28,2, , ,7,1,7,5,2, , ,2,13,15, , ,2,2, ,90
+2023,10,Richmond,Essendon,35 ,"Broad, Nathan",7,4,6,13, , , ,2,3,1, ,1,1, , ,6,6,2, ,3,1, ,97
+2023,10,Richmond,Essendon,42 ↑,"Clarke, Judson",3, , ,3,1, , , , , ,1,1, , , ,2, , , , , , ,30
+2023,10,Richmond,Essendon,9 ,"Cotchin, Trent",10,3,8,18, ,1, ,1,1,5,1,2, , , ,6,11, , , , , ,74
+2023,10,Richmond,Essendon,27 ↓,"Dow, Thomson",4,1,2,6, ,1, ,1,2,1,2,1,1,1, ,3,3, , , , , ,41
+2023,10,Richmond,Essendon,34 ,"Graham, Jack",10,3,7,17,1, , ,2,1,2,1,2, , , ,3,13, , , , , ,87
+2023,10,Richmond,Essendon,2 ,"Grimes, Dylan",11,6,3,14, , , ,3,2,2, ,4,1,1, ,5,9,1, ,3, , ,79
+2023,10,Richmond,Essendon,31 ,"Mansell, Rhyan",6,2,3,9,2, , ,4, , , ,2,2, , ,5,5, ,1,2, , ,77
+2023,10,Richmond,Essendon,4 ,"Martin, Dustin",14,3,10,24,2,1, ,4, ,4,2,3, , , ,9,14,1,1,2, , ,86
+2023,10,Richmond,Essendon,33 ,"McIntosh, Kamdyn",12,8,1,13, , , ,1,3,2,1,4, ,1, ,2,11,1, , , , ,81
+2023,10,Richmond,Essendon,25 ,"Nankervis, Toby",10,5,7,17, , ,16,6,2,1,3,3,1,2, ,5,11,1, ,5, , ,72
+2023,10,Richmond,Essendon,50 ,"Pickett, Marlion",4,2,8,12, ,1, ,3, , , ,3,1, , ,9,3,1, , , ,1,75
+2023,10,Richmond,Essendon,3 ,"Prestia, Dion",4,1,7,11, ,1, , , ,2,2,1, , , ,5,6, , , , ,1,77
+2023,10,Richmond,Essendon,13 ,"Ralphsmith, Hugo",8,3,5,13, , , , ,3,3, ,4, , , ,3,7,1, , , , ,62
+2023,10,Richmond,Essendon,8 ,"Riewoldt, Jack",8,3,3,11, ,1,1, , ,3, ,7, ,1, ,4,4,2, ,1, , ,88
+2023,10,Richmond,Essendon,17 ,"Rioli, Daniel",20,8,6,26, ,1, ,4,5,4, ,4,1, , ,7,15, , , ,3,1,93
+2023,10,Richmond,Essendon,5 ,"Ross, Jack",13,10,13,26, , , ,2,4,6, ,3, , , ,4,22, ,2,2,1,2,78
+2023,10,Richmond,Essendon,32 ,"Ryan, Samson",7,3,3,10,1, ,5, , , , ,1, , , ,4,5,2,1,3, , ,76
+2023,10,Richmond,Essendon,15 ,"Short, Jayden",15,7,9,24, , , ,5,3,3,2,3,1,2, ,11,14, , ,1, , ,82
+2023,10,Richmond,Essendon,14 ,"Taranto, Tim",19,5,14,33,1,1, ,3,4,6,9,1,1, , ,12,18, ,2,1, , ,87
+2023,10,Richmond,Essendon,1 ,"Vlastuin, Nick",17,11,5,22, , , ,2,5,3, ,5, ,1, ,6,14,2, ,4, , ,89

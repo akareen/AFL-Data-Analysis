@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2023,2,Sydney,Hawthorn,36 ↓,"Amartey, Joel",10,9,1,11,4,2, ,1, ,3, ,1,2, ,3,3,9,2,6,2, ,1,50
+2023,2,Sydney,Hawthorn,22 ,"Blakey, Nick",18,3,6,24, , , ,2,8,1, ,2,1,1, ,7,11,1, ,3,3,1,80
+2023,2,Sydney,Hawthorn,16 ,"Campbell, Braeden",13,5,2,15, , , ,5,2,1, ,1,1,1, ,2,12, , ,1, , ,86
+2023,2,Sydney,Hawthorn,7 ,"Cunningham, Harry",4,1,5,9, , , ,1, ,2,1,1,1,1, ,3,6, , , ,2,1,89
+2023,2,Sydney,Hawthorn,13 ,"Florent, Oliver",11,6,14,25, , , ,2,1,4, ,1,1,1, ,7,18,1, ,1, ,3,86
+2023,2,Sydney,Hawthorn,21 ,"Gulden, Errol",19,7,9,28, ,1, ,3,6,4,3,4,1,2,2,9,19, , ,1, ,1,85
+2023,2,Sydney,Hawthorn,9 ,"Hayward, Will",10,5,4,14,1,2, ,5, ,2,1,2,1, , ,8,5,2,1,1, ,1,88
+2023,2,Sydney,Hawthorn,5 ,"Heeney, Isaac",9,6,4,13,2, , ,4,2,3, ,4,1,1, ,6,8,1,2, ,1,2,85
+2023,2,Sydney,Hawthorn,19 ,"Ladhams, Peter",8,3,5,13, , ,17,2,1,3,4,5,3,1, ,7,5, , ,1, , ,75
+2023,2,Sydney,Hawthorn,44 ,"Lloyd, Jake",16,7,8,24, , , ,2,4,4,1,2, , , ,5,16, , ,4, , ,83
+2023,2,Sydney,Hawthorn,39 ,"McCartin, Paddy",8,5,5,13, , , , ,3,2, , , , , ,4,10, , ,4, , ,80
+2023,2,Sydney,Hawthorn,30 ,"McCartin, Tom",4,3,8,12, , , ,3,1, , ,3, ,1, ,6,6,1, ,3, , ,90
+2023,2,Sydney,Hawthorn,6 ,"McDonald, Logan",10,5,3,13,5,1, , , ,2, ,1,2, ,1,6,7,1,3, , , ,84
+2023,2,Sydney,Hawthorn,27 ,"McInerney, Justin",7,5,9,16, ,1, ,2,1,1,2,1,1,1, ,4,12, , ,1,1, ,80
+2023,2,Sydney,Hawthorn,2 ,"McLean, Hayden",4,2,2,6, ,1,5,4, ,2,1,5, ,4, ,3,4,1, , , ,1,70
+2023,2,Sydney,Hawthorn,14 ,"Mills, Callum",14,6,14,28,2, , ,3,3,4, ,3, ,1, ,9,19, , , , , ,82
+2023,2,Sydney,Hawthorn,11 ,"Papley, Tom",12,9,5,17,2,3, , , ,6,1,2, ,1, ,8,11,3,5, , ,2,76
+2023,2,Sydney,Hawthorn,26 ,"Parker, Luke",11,5,16,27,1, , ,4, ,5,4,4,1, , ,11,16, ,1,1, , ,82
+2023,2,Sydney,Hawthorn,24 ,"Rampe, Dane",9,6,6,15, , , ,1,2, , , , , , ,2,12, , ,9, , ,93
+2023,2,Sydney,Hawthorn,34 ↑,"Roberts, Matt",4, ,1,5, ,1, , , ,1, ,1, , , ,3,2, , , , , ,26
+2023,2,Sydney,Hawthorn,8 ,"Rowbottom, James",7, ,7,14, ,1, ,6,1,3,5,3,2,1, ,10,3, , , , , ,78
+2023,2,Sydney,Hawthorn,3 ,"Stephens, Dylan",10,1,5,15, ,1, ,2,2,2,1,3,1, , ,6,11, , ,3, ,1,78
+2023,2,Sydney,Hawthorn,1 ,"Warner, Chad",7,2,8,15, ,1, ,4,1,3,4,1,1, , ,11,6, , , , , ,81

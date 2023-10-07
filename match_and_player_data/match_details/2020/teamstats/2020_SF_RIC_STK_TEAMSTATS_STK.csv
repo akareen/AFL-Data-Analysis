@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2020,SF,St Kilda,Richmond,26 ,"Battle, Josh",8,5,1,9,1,1, ,1,3, ,1,2, , , ,3,7,1,2, , , ,62
+2020,SF,St Kilda,Richmond,15 ,"Billings, Jack",11,5,5,16, ,1, ,3,1, , ,1,1, , ,3,12, ,1, , , ,78
+2020,SF,St Kilda,Richmond,16 ,"Butler, Dan",8,2,5,13,1, , ,6, ,2,1,1,1, , ,2,9, , ,2, ,1,92
+2020,SF,St Kilda,Richmond,11 ,"Clark, Hunter",11,3,6,17, , , ,2,2,6,1,2,1, , ,7,12, , , , , ,77
+2020,SF,St Kilda,Richmond,1 ,"Coffield, Nick",11,9,6,17, , , ,1,3,1, ,1,1, , ,6,10,2, ,1, , ,91
+2020,SF,St Kilda,Richmond,14 ,"Geary, Jarryn",3,3,11,14, , , ,4,1,2,1,3, ,1, ,7,8, , ,2, , ,85
+2020,SF,St Kilda,Richmond,10 ,"Hannebery, Dan",9,1,11,20, , , ,1,1,3,5,2, ,1, ,7,13, , ,1, , ,73
+2020,SF,St Kilda,Richmond,8 ,"Hill, Bradley",7, ,4,11, , , ,3,2,1, ,4, , , ,2,7, , ,1,1, ,83
+2020,SF,St Kilda,Richmond,20 ,"Howard, Dougal",8,2,4,12, , ,2,1,4, ,1,6, ,5, ,4,6,1, ,9, , ,88
+2020,SF,St Kilda,Richmond,3 ,"Jones, Zak",5,2,9,14, , , ,3, ,3,2,3,1,1, ,6,8, , ,1, , ,87
+2020,SF,St Kilda,Richmond,25 ,"Kent, Dean",7,4,4,11,1, , ,2, , ,1,2,1,1, ,5,5, , , , , ,71
+2020,SF,St Kilda,Richmond,12 ,"King, Max",7,5,5,12, ,3,2,1, ,1, ,3, ,2, ,5,7,1,2, , ,2,94
+2020,SF,St Kilda,Richmond,13 ,"Lonie, Jack",5,4,1,6, , , , , ,3, , , , , ,2,4, , ,1, , ,66
+2020,SF,St Kilda,Richmond,43 ,"Marsh, Jonathon",8, ,5,13, ,2,2,1, ,3,3,2,1, , ,8,4, , ,1, , ,79
+2020,SF,St Kilda,Richmond,19 ,"Marshall, Rowan",10,5,6,16, ,1,20,2,2,4,2,5,3,2, ,9,10,1, , , , ,90
+2020,SF,St Kilda,Richmond,28 ,"Membrey, Tim",7,8,5,12, , , , ,1,3, , , , , ,4,8,2,1,1, ,1,82
+2020,SF,St Kilda,Richmond,33 ,"Paton, Ben",5,1,2,7, , , ,1,3,1, ,1,1,1, ,3,4, , , , , ,65
+2020,SF,St Kilda,Richmond,6 ,"Ross, Sebastian",10,3,15,25,1, , ,1,4,2,3,5,1,3, ,11,15, , ,3, ,1,89
+2020,SF,St Kilda,Richmond,5 ,"Savage, Shane",13,4,4,17,1, , ,1,3,1, , , , , ,3,11, , ,4, , ,80
+2020,SF,St Kilda,Richmond,35 ,"Sinclair, Jack",7,2,4,11, ,1, , ,1,1,2, , , , ,5,6, ,1,1,1, ,81
+2020,SF,St Kilda,Richmond,9 ,"Steele, Jack",10,5,15,25,1, , ,4,4,3,3,3,3,2, ,12,14, , ,1, , ,89
+2020,SF,St Kilda,Richmond,44 ,"Wilkie, Callum",7,4,3,10, , , , ,3, , , , , , ,3,6, , ,3, , ,100

@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2011,5,Collingwood,Essendon,12 ,"Ball, Luke",14,5,8,22,1, , ,9,2,1,4,4,2,2, ,10,12, , , , , ,71
+2011,5,Collingwood,Essendon,17 ↓,"Beams, Dayne",8,5,4,12,2, , , , ,3,1, , , , ,5,7,1,1,2,1,1,58
+2011,5,Collingwood,Essendon,11 ,"Blair, Jarryd",12,3,7,19, ,1, , , ,5,2,3, , , ,10,8, ,1,2,1,1,85
+2011,5,Collingwood,Essendon,15 ,"Brown, Leigh",12,4, ,12,1, ,9,4, ,3,1,1, ,1, ,7,4,2,1,2, , ,71
+2011,5,Collingwood,Essendon,32 ,"Cloke, Travis",15,10,2,17,3,1,2,4, ,8, , ,2, ,1,11,6,6,3,2, ,1,95
+2011,5,Collingwood,Essendon,1 ,"Davis, Leon",21,7,7,28, ,1, ,5,3,1,2,5,1,3, ,13,12,2, , ,2,1,91
+2011,5,Collingwood,Essendon,31 ,"Dawes, Chris",8,4,7,15,2,1,1,4, ,1,1,3,2,2, ,10,5,1,1,2, , ,93
+2011,5,Collingwood,Essendon,33 ↑,"Dick, Brad", , ,3,3, , , ,2, , , , , , , ,1,2, , , , , ,25
+2011,5,Collingwood,Essendon,4 ,"Didak, Alan",10,1,10,20,1,1, ,2, ,2, ,4, , , ,5,14, , , , , ,87
+2011,5,Collingwood,Essendon,26 ,"Johnson, Ben",9,2,5,14, , , , ,2,2, ,1, , , ,1,12, , , ,4, ,86
+2011,5,Collingwood,Essendon,18 ,"Jolly, Darren",7,2,9,16,1,1,34,4,1,3,7,1,1,1, ,13,5,1, ,6, , ,75
+2011,5,Collingwood,Essendon,8 ,"Lumumba, Heritier",12,5,6,18, , , ,1,3,3,1,3, ,3, ,8,12, , ,6,3, ,95
+2011,5,Collingwood,Essendon,5 ,"Maxwell, Nick",8,3,4,12, , ,1,2,5, , ,1,1, , ,4,7, , ,11,1, ,87
+2011,5,Collingwood,Essendon,10 ,"Pendlebury, Scott",23,10,11,34,3, , ,8,4,5,8,3,1,2,3,13,19, ,2,1, , ,87
+2011,5,Collingwood,Essendon,20 ,"Reid, Ben",13,10,7,20, , , , ,5,1, ,1, ,1, ,8,12,2, ,6, , ,96
+2011,5,Collingwood,Essendon,39 ,"Shaw, Heath",22,9,6,28, , , ,2,4,5,1,4, ,1, ,6,21,1, ,6,7, ,97
+2011,5,Collingwood,Essendon,22 ,"Sidebottom, Steele",5,2,8,13,1, , ,8,2,1,1,2, ,1, ,5,8, ,1, , , ,73
+2011,5,Collingwood,Essendon,36 ,"Swan, Dane",13,4,11,24,1,2, ,7,1,2,8,2,1,2, ,14,10, ,1,1, , ,84
+2011,5,Collingwood,Essendon,2 ,"Tarrant, Chris",4,3,8,12, , , ,4,1,1,1,2,1,1, ,8,4, , ,14, , ,100
+2011,5,Collingwood,Essendon,13 ,"Thomas, Dale",15,4,10,25, , ,1,3,3,3,3,3,1,2, ,10,15, , ,4,1, ,84
+2011,5,Collingwood,Essendon,34 ,"Toovey, Alan",10,2,6,16, , , ,1,3,2, ,1,1,1, ,10,5, , ,7,2,1,87
+2011,5,Collingwood,Essendon,21 ,"Wellingham, Sharrod",11,2,12,23, , , ,8,2,6,3,1,2,1, ,16,7,2, ,1, ,2,75

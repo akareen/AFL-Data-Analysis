@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2021,13,Sydney,Hawthorn,36 ,"Amartey, Joel",9,4,3,12,2,1,8,7, ,2,5,3,1,1, ,7,4,2,3,4, , ,79
+2021,13,Sydney,Hawthorn,32 ,"Bell, James",8,3,6,14, , , ,5, ,2,3,2,2,1, ,6,8, , , , , ,82
+2021,13,Sydney,Hawthorn,7 ,"Cunningham, Harry",2,1,3,5, , , ,4, ,1, ,1,1,1, ,4,1, , ,2, , ,69
+2021,13,Sydney,Hawthorn,34 ,"Dawson, Jordan",9,2,8,17, , , ,5,5,2, ,2, , , ,4,13, , ,1,1, ,75
+2021,13,Sydney,Hawthorn,13 ,"Florent, Oliver",10,2,6,16,1, , ,2,2,3,1,5, ,1, ,4,14, , ,4,2, ,79
+2021,13,Sydney,Hawthorn,42 ,"Fox, Robbie",4, ,7,11, , , ,2,3,1, ,3, , , ,6,6, , ,12, ,1,86
+2021,13,Sydney,Hawthorn,23 ,"Franklin, Lance",4,3,5,9,1, , ,2, ,3, ,3, ,3, ,7,2,2,1, , ,1,95
+2021,13,Sydney,Hawthorn,9 ↓,"Hayward, Will",2,2,2,4,1, , ,2, ,1, ,1, ,1, ,1,4, ,1,1, , ,35
+2021,13,Sydney,Hawthorn,5 ,"Heeney, Isaac",3,1,7,10,1, , ,2,1,1, ,3, , , ,5,5, , ,2, , ,79
+2021,13,Sydney,Hawthorn,29 ,"Hewett, George",4,2,7,11, , , ,3,2,1,2, ,2, , ,7,5, , ,2, , ,82
+2021,13,Sydney,Hawthorn,31 ,"Hickey, Tom",8,2,7,15, , ,26,2,2,3,3,3, ,3, ,9,7,1, ,6, , ,83
+2021,13,Sydney,Hawthorn,12 ,"Kennedy, Josh",10,7,18,28, , , ,8,1,3,7,3, , , ,12,17, , ,4, , ,75
+2021,13,Sydney,Hawthorn,44 ,"Lloyd, Jake",17,4,13,30, , , ,1,2,2,1,4, ,3, ,7,20, , ,3, ,1,89
+2021,13,Sydney,Hawthorn,30 ,"McCartin, Tom",4,3,9,13, , , ,1,3,1, , , , , ,4,9,1, ,6, , ,94
+2021,13,Sydney,Hawthorn,6 ,"McDonald, Logan",5,3,5,10, , , ,2,2,2, ,1,2, , ,3,7, , ,1, ,2,75
+2021,13,Sydney,Hawthorn,27 ,"McInerney, Justin",14,4,5,19, , , , ,3,4,1,2, ,1, ,2,16, , , , , ,81
+2021,13,Sydney,Hawthorn,14 ,"Mills, Callum",15,1,18,33, , , ,7,4,4,5,2,1, , ,11,22, , ,2, ,1,84
+2021,13,Sydney,Hawthorn,11 ,"Papley, Tom",5,6,5,10, , , ,2, ,2, ,2,1,2, ,4,8, ,1, , , ,82
+2021,13,Sydney,Hawthorn,26 ,"Parker, Luke",14,4,15,29, ,1, ,6,2,6,6,4, ,1, ,10,19, ,1,2, , ,76
+2021,13,Sydney,Hawthorn,24 ,"Rampe, Dane",19,9,10,29, , , ,2,10,1, ,3, ,1, ,6,22,1, ,6, , ,100
+2021,13,Sydney,Hawthorn,8 ,"Rowbottom, James",11,4,10,21, ,1, ,11,1,3,5,6, ,3, ,8,14, ,1, , , ,72
+2021,13,Sydney,Hawthorn,28 ↑,"Taylor, Lewis",6,4, ,6, ,1, ,1, , , ,1, ,1, ,3,5, ,1,1, , ,40
+2021,13,Sydney,Hawthorn,45 ,"Wicks, Sam",8,4,8,16,1,2, ,4, ,2, ,6, ,3, ,9,8,1,2,1, , ,89

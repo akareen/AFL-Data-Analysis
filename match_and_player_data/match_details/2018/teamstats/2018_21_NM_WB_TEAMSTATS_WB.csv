@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2018,21,Western Bulldogs,North Melbourne,4 ,"Bontempelli, Marcus",19,4,16,35,2,1, ,2,2,7,4,3,1,1,2,10,24, , ,4,2,1,88
+2018,21,Western Bulldogs,North Melbourne,12 ,"Cordy, Zaine",3,3,1,4, , , ,1, ,1, , , , , ,2,2,1, ,1, , ,28
+2018,21,Western Bulldogs,North Melbourne,9 ,"Crozier, Hayden",11,8,13,24, , , ,1,5,3, ,5,1,3, ,2,21, , ,5, ,1,78
+2018,21,Western Bulldogs,North Melbourne,35 ,"Daniel, Caleb",24,4,16,40, , , ,2,4,4,2,6,1, ,1,9,31, , ,2,1,1,82
+2018,21,Western Bulldogs,North Melbourne,29 ,"Dickson, Tory",7,4,7,14,3,1, , , ,3, ,2, , , ,5,11,1,2,2, , ,85
+2018,21,Western Bulldogs,North Melbourne,5 ,"Dunkley, Josh",12,5,14,26, , , ,4, ,5,6,2,1, , ,9,16, ,1,5, ,1,78
+2018,21,Western Bulldogs,North Melbourne,26 ,"Gowers, Billy",6,2,5,11,1,1,1,3, ,4, ,5, ,1, ,2,10, , ,1, , ,85
+2018,21,Western Bulldogs,North Melbourne,30 ,"Greene, Fergus",9,6,2,11,1,4, ,1, ,1, ,3,1, , ,1,10,1,5,1, , ,85
+2018,21,Western Bulldogs,North Melbourne,7 ,"Hunter, Lachie",24,8,20,44, ,1, ,2,3,3,1,2, ,1,3,10,32, ,1, ,6,1,93
+2018,21,Western Bulldogs,North Melbourne,39 ,"Johannisen, Jason",14,5,10,24,1, , ,3,6,4,1,5, ,2, ,5,18, , ,1,2, ,83
+2018,21,Western Bulldogs,North Melbourne,46 ,"Jong, Lin",7,3,8,15,1, , ,1,1,2,1,3,2,2, ,8,6,1,1,5, , ,79
+2018,21,Western Bulldogs,North Melbourne,27 ,"Lipinski, Patrick",8,4,10,18,1,1, ,2, ,3,1,2, ,1, ,9,9, , ,2, , ,80
+2018,21,Western Bulldogs,North Melbourne,36 ,"Lynch, Brad",5,1,3,8, ,1, , , , , , , , , ,4,4, ,1,1,1,2,79
+2018,21,Western Bulldogs,North Melbourne,11 ,"Macrae, Jack",15,6,25,40, , , ,2,5,4,8,3,3,2, ,16,25, , ,2, ,3,90
+2018,21,Western Bulldogs,North Melbourne,16 ,"McLean, Toby",10,4,16,26,1,1, ,4, ,5,4, ,1, , ,9,18,1, ,1, ,1,84
+2018,21,Western Bulldogs,North Melbourne,38 ,"Morris, Dale",3,5,5,8, , , ,4,1, , ,2, ,2, ,2,6,1, ,5, , ,98
+2018,21,Western Bulldogs,North Melbourne,33 ,"Naughton, Aaron",6,4,4,10, , , ,1,2, , ,4,1,2, ,6,3,2, ,8, , ,95
+2018,21,Western Bulldogs,North Melbourne,20 ,"Richards, Ed",3,2,14,17, , , , ,1,2, ,2, ,1, ,4,12, , , ,3, ,79
+2018,21,Western Bulldogs,North Melbourne,23 ,"Roughead, Jordan",6,3,6,12, , ,9,4, ,2,4,4,1,2, ,7,6, , ,2, ,1,79
+2018,21,Western Bulldogs,North Melbourne,13 ,"Schache, Josh",10,5,4,14,2,1, ,1, ,1, ,3,1,1, ,4,9, ,1, , , ,84
+2018,21,Western Bulldogs,North Melbourne,8 ,"Trengove, Jackson",7,6,14,21, , ,20, ,1,1,3,2,1,2, ,10,11, , ,3,1, ,84
+2018,21,Western Bulldogs,North Melbourne,3 ,"Wallis, Mitch",7,3,15,22, , , ,1,1,1,4,1,2,1, ,11,13, , ,1, , ,83

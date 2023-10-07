@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2022,15,Fremantle,Carlton,11 ,"Aish, James",13,3,10,23, , , ,2,2,7,3,2,1, , ,7,16, , , , ,2,81
+2022,15,Fremantle,Carlton,41 ,"Banfield, Bailey",8,4,3,11,1, , ,1, ,1, ,3, ,2, ,4,8,1,2, , ,2,86
+2022,15,Fremantle,Carlton,8 ,"Brayshaw, Andrew",9,2,18,27, ,1, ,3,1,2,5,4,1,1, ,11,17, , ,3, , ,83
+2022,15,Fremantle,Carlton,17 ,"Brodie, Will",12,3,24,36, , , ,6,2,5,5,7,3,1,1,16,19, , ,2, , ,76
+2022,15,Fremantle,Carlton,6 ,"Clark, Jordan",11,5,9,20, , , ,3,4,3, , ,2, , ,8,12, , ,2, , ,82
+2022,15,Fremantle,Carlton,33 ,"Colyer, Travis",3,2,1,4,1, , , , ,1, ,1, , , ,1,3, ,1,1, ,1,83
+2022,15,Fremantle,Carlton,36 ,"Cox, Brennan",13,5,5,18, , , , ,8, , ,2, ,2, ,4,10,1, ,4, , ,86
+2022,15,Fremantle,Carlton,12 ,"Crowden, Mitch", , , , , , , , , , , , , , , , , , , , , , , 
+2022,15,Fremantle,Carlton,4 ,"Darcy, Sean",7,1,8,15, , ,35,3,2,1,4,2,2,1, ,10,5,1,1,1, , ,84
+2022,15,Fremantle,Carlton,32 ,"Frederick, Michael",6,5,3,9, , , , , ,2, ,1, , , ,2,7, , ,1, , ,83
+2022,15,Fremantle,Carlton,7 ,"Fyfe, Nat",6,3,5,11, , , ,5, ,4,2,5, ,2, ,7,4,1, ,1, , ,73
+2022,15,Fremantle,Carlton,23 ,"Henry, Liam",12,6,3,15,1, , ,3, ,1, ,2,1, , ,3,12,1,1,1, , ,71
+2022,15,Fremantle,Carlton,15 ,"Hughes, Ethan",8,7,10,18, , , ,2,3, ,2,1, , , ,4,13, , ,1,1, ,79
+2022,15,Fremantle,Carlton,37 ,"Lobb, Rory",5,4,6,11,1,1,10,3, ,2, ,1, , , ,4,7,1,2,3, ,1,100
+2022,15,Fremantle,Carlton,2 ,"Logue, Griffin",5,1,3,8, , , ,1,2,1,1,2, ,2, ,6,2, , ,16, , ,96
+2022,15,Fremantle,Carlton,16 ,"Mundy, David",9,3,4,13, , , ,3,3, , ,6,1,1, ,2,10, , , , , ,61
+2022,15,Fremantle,Carlton,25 ,"Pearce, Alex",10,5,3,13, , , , ,4,2, ,1,2,1, ,5,6,1, ,8, , ,95
+2022,15,Fremantle,Carlton,13 ,"Ryan, Luke",12,3,4,16, , , , ,7, , ,3, ,1, ,1,8, , ,2, , ,79
+2022,15,Fremantle,Carlton,5 ,"Schultz, Lachie",6,2,6,12,1,1, ,3, ,1, ,4,3,1, ,7,5,1,1,2, , ,83
+2022,15,Fremantle,Carlton,3 ,"Serong, Caleb",10,1,10,20, ,3, ,1,3,2,5,2,3,1, ,9,11, , ,2, , ,77
+2022,15,Fremantle,Carlton,20 ,"Taberner, Matthew",10,8,2,12,2, , , , ,2, ,3, ,1, ,6,6,5,2,1, , ,79
+2022,15,Fremantle,Carlton,31 ,"Walker, Brandon",8,4,6,14, , , ,3,2,1,1, , , , ,2,12, , ,4, , ,78
+2022,15,Fremantle,Carlton,26 ,"Young, Hayden",14,5,11,25, , , ,1,8,2,2,3,1,1, ,8,17,2, ,2, , ,84

@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2012,23,Fremantle,Melbourne,1 ,"Ballantyne, Hayden",9,5,2,11,3, , ,4, ,5, ,4,1,2, ,3,8, ,1, ,2,1,81
+2012,23,Fremantle,Melbourne,21 ,"Barlow, Michael",16,6,16,32, , ,1,2,1,4,2,1,1, , ,14,19, , , , ,1,83
+2012,23,Fremantle,Melbourne,15 ,"Crowley, Ryan",9,4,4,13, ,1,1,6, ,4,3,5,3,2, ,4,8, , , , ,1,82
+2012,23,Fremantle,Melbourne,3 ,"Dawson, Zac",7,7,5,12, ,1, ,1, ,1, ,1, , , ,1,10, , ,8, , ,97
+2012,23,Fremantle,Melbourne,41 ,"Duffield, Paul",18,9,5,23, , , ,5,1,3,1,3,1,1, ,7,15, , ,2, , ,90
+2012,23,Fremantle,Melbourne,7 ,"Fyfe, Nat",13,9,17,30, , , ,3,1,4,4,3,2,1,3,18,12,2, ,2, ,1,82
+2012,23,Fremantle,Melbourne,12 ,"Griffin, Jonathon",6,4,2,8,2, ,13,1, ,1, ,1, , , ,1,7, ,1,4, , ,84
+2012,23,Fremantle,Melbourne,32 ,"Hill, Stephen",12,4,10,22, ,1, ,3,1,4,4,1, , , ,10,13, ,1,1,1, ,78
+2012,23,Fremantle,Melbourne,5 ,"Ibbotson, Garrick",11,6,4,15, , , , ,3,2,1,2,1, , ,6,9, , ,4, , ,87
+2012,23,Fremantle,Melbourne,37 ,"Johnson, Michael",17,10,7,24, , , ,1,2,3, ,1,2, , ,4,21, , ,9, , ,96
+2012,23,Fremantle,Melbourne,23 ,"Mayne, Chris",10,5,5,15,1,1, ,3, ,4,2, ,2, , ,7,8,1,1,2,2,2,88
+2012,23,Fremantle,Melbourne,18 ↓,"McPharlin, Luke",10,8,2,12, , , , , , , ,2, ,1, ,1,11,1, ,1, , ,59
+2012,23,Fremantle,Melbourne,9 ,"McPhee, Adam",15,10,4,19, , , ,2,4,1, ,3,2,1, ,4,15, , ,1, , ,96
+2012,23,Fremantle,Melbourne,16 ,"Mundy, David",20,5,11,31,1,2, ,2,1,9,9,4,1,1,2,15,15, ,1,3,2, ,74
+2012,23,Fremantle,Melbourne,13 ,"Mzungu, Tendai",16,7,5,21,2,2, ,4,3,3,3,3,1,2, ,7,15,1,2,3, ,1,83
+2012,23,Fremantle,Melbourne,29 ,"Pavlich, Matthew",9,8,6,15,2,3, ,3, ,2,2,1,1, , ,6,9,1,3,1, ,1,84
+2012,23,Fremantle,Melbourne,46 ,"Pearce, Clancee",13,5,10,23, , , ,1,1,2,3,4,2,2, ,6,17, ,1,2, ,1,80
+2012,23,Fremantle,Melbourne,31 ,"Sandilands, Aaron",6,4,9,15,2, ,34,2, ,1,5, ,4, ,1,13,2,3,2,4, , ,78
+2012,23,Fremantle,Melbourne,11 ↑,"Sheridan, Tom",3,1,2,5, , , ,1, ,1, ,3,1, , ,1,4, , ,1, , ,35
+2012,23,Fremantle,Melbourne,34 ,"Spurr, Lee",6,4,5,11, , , ,1,3,1, ,1, , , ,1,10, , ,2, , ,93
+2012,23,Fremantle,Melbourne,8 ,"Suban, Nick",11,4,4,15, , , ,5,2,4,2,1, , , ,1,10, , ,2, , ,93
+2012,23,Fremantle,Melbourne,38 ,"Walters, Michael",7,5,9,16,1,2, ,2, ,1, , ,1, , ,5,11, ,2, , , ,81

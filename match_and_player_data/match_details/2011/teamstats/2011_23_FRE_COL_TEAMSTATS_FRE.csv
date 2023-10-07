@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2011,23,Fremantle,Collingwood,22 ,"Anthony, John",9,7,7,16, , ,1, ,3,1, ,3,2,3, ,7,9,2, ,4, , ,92
+2011,23,Fremantle,Collingwood,21 ,"Barlow, Michael",11,3,21,32, ,1, , ,4,2,3,2,2, , ,9,22, , , , ,1,87
+2011,23,Fremantle,Collingwood,26 ,"Bradley, Kepler",5,3,1,6,2,1, ,2, , , ,1, ,1, ,2,3,1,1, , , ,84
+2011,23,Fremantle,Collingwood,6 ,"Broughton, Greg",8,2,10,18, , , ,3,1,3,1,2,3,1, ,8,10, , ,3, , ,94
+2011,23,Fremantle,Collingwood,30 ,"Clarke, Zac",4, ,12,16, , ,13,2, ,4,4,4,1,2, ,6,10, , ,3, , ,83
+2011,23,Fremantle,Collingwood,15 ,"Crowley, Ryan",4,4,5,9,2, , ,2, ,2, ,3, ,1, ,5,4,2,2,1, ,1,95
+2011,23,Fremantle,Collingwood,41 ,"Duffield, Paul",12,7,8,20, , , ,2,3,3,2,2,1,1, ,7,13, , ,2, ,1,90
+2011,23,Fremantle,Collingwood,28 ,"Faulks, Peter",1,3,5,6, , , ,2, , , ,1, ,1, ,1,5, , ,6, , ,49
+2011,23,Fremantle,Collingwood,7 ,"Fyfe, Nat",11,2,16,27,2, , ,5,2,4,6,4,1, , ,12,14,1, ,1,1, ,89
+2011,23,Fremantle,Collingwood,32 ,"Hill, Stephen",9,5,21,30, , , , ,1,1,5,4,1, , ,12,17,1, ,3,1, ,87
+2011,23,Fremantle,Collingwood,19 ↑,"Hinkley, Clayton",8,3,8,16, , , ,4,1,2,1,3,1,1, ,3,13, , ,2, ,1,54
+2011,23,Fremantle,Collingwood,5 ↓,"Ibbotson, Garrick",6,2,1,7, , , , ,3, , , ,1, , ,2,5, , , ,1, ,28
+2011,23,Fremantle,Collingwood,37 ,"Johnson, Michael",7,5,10,17, , , , ,1,3, ,2, , , ,6,10, , ,5, , ,90
+2011,23,Fremantle,Collingwood,34 ,"Lower, Nick",19,3,18,37,1, , ,4, ,3,11,8,1,3, ,19,18, , ,5, ,1,87
+2011,23,Fremantle,Collingwood,23 ,"Mayne, Chris",5,3,9,14, , , ,5, ,1,1,3, ,1, ,4,9, , ,5, , ,91
+2011,23,Fremantle,Collingwood,18 ,"McPharlin, Luke",8,5,5,13, , , ,1,4, , ,4,1,2, ,3,9, , ,1,1, ,98
+2011,23,Fremantle,Collingwood,13 ,"Mzungu, Tendai",12,6,6,18, , , ,4,1,1, ,8, ,2, ,4,14,1, ,3,1, ,78
+2011,23,Fremantle,Collingwood,10 ,"Palmer, Rhys",15,6,9,24, , , ,4,4,1,1,4, , , ,2,22, , , , , ,89
+2011,23,Fremantle,Collingwood,46 ,"Pearce, Clancee",8,4,9,17, ,1, ,1,1,3, ,3,1,1, ,4,13, , , , ,1,85
+2011,23,Fremantle,Collingwood,31 ,"Sandilands, Aaron",8,5,16,24,1, ,37, ,1,2,10,7,2,5, ,17,8,3,2,2, , ,84
+2011,23,Fremantle,Collingwood,3 ,"Schammer, Byron",6,3,6,12, , , ,2, ,1,1,1, , , ,4,9, , ,1, , ,77
+2011,23,Fremantle,Collingwood,8 ,"Suban, Nick",14,2,5,19, , , ,1,7, ,1,5, ,2, ,3,13, , ,2,3, ,89

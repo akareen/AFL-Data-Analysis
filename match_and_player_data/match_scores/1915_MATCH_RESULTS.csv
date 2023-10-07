@@ -1,0 +1,77 @@
+year,round,venue,date,attendance,home_team,away_team,home_q1_g,home_q2_g,home_q3_g,home_q4_g,home_q1_b,home_q2_b,home_q3_b,home_q4_b,away_q1_g,away_q2_g,away_q3_g,away_q4_g,away_q1_b,away_q2_b,away_q3_b,away_q4_b,home_total_g,home_total_b,home_total_score,away_total_g,away_total_b,away_total_score,winning_team,margin
+1915,1,Princes,24-04-1915,0,Carlton,Fitzroy,1,2,0,2,3,2,2,4,1,3,2,0,3,1,1,0,5,11,41,6,5,41,Match drawn,0
+1915,1,Victoria,24-04-1915,0,Collingwood,Essendon,0,2,2,3,2,5,0,3,0,0,3,0,2,1,4,1,7,10,52,3,8,26,Collingwood,26
+1915,1,M.C.G.,24-04-1915,7385,Melbourne,Richmond,0,1,5,6,2,6,1,1,2,3,4,2,3,1,3,0,12,10,82,11,7,73,Melbourne,9
+1915,1,Junction,24-04-1915,0,St Kilda,South Melbourne,1,3,2,2,1,8,0,7,1,0,1,2,5,2,5,1,8,16,64,4,13,37,St Kilda,27
+1915,2,Lake,01-05-1915,0,South Melbourne,Carlton,2,0,1,3,1,4,1,5,3,2,3,0,3,3,3,3,6,11,47,8,12,60,Carlton,13
+1915,2,Punt,01-05-1915,0,Richmond,Collingwood,2,2,0,0,2,1,3,0,3,4,0,5,2,1,3,5,4,6,30,12,11,83,Collingwood,53
+1915,2,Brunswick,01-05-1915,0,Fitzroy,Melbourne,2,3,3,6,2,3,7,5,1,5,2,1,1,1,0,0,14,17,101,9,2,56,Fitzroy,45
+1915,2,Corio,01-05-1915,0,Geelong,St Kilda,2,2,3,0,4,5,3,2,1,2,0,3,3,3,5,7,7,14,56,6,18,54,Geelong,2
+1915,3,Junction,08-05-1915,0,St Kilda,Collingwood,3,2,1,1,10,1,0,3,1,4,3,2,2,5,3,6,7,14,56,10,16,76,Collingwood,20
+1915,3,East,08-05-1915,0,Essendon,Fitzroy,1,1,2,0,1,1,4,4,4,5,2,5,2,1,1,2,4,10,34,16,6,102,Fitzroy,68
+1915,3,M.C.G.,08-05-1915,6156,Melbourne,Geelong,2,6,3,4,2,2,3,5,3,4,2,3,4,2,3,2,15,12,102,12,11,83,Melbourne,19
+1915,3,Punt,08-05-1915,0,Richmond,South Melbourne,0,6,2,1,2,3,5,5,4,2,1,1,5,2,5,7,9,15,69,8,19,67,Richmond,2
+1915,4,Princes,15-05-1915,0,Carlton,Essendon,0,1,2,0,1,4,6,2,2,0,3,3,2,3,1,2,3,13,31,8,8,56,Essendon,25
+1915,4,Victoria,15-05-1915,0,Collingwood,Melbourne,2,3,3,1,6,0,3,4,2,0,2,1,3,0,4,2,9,13,67,5,9,39,Collingwood,28
+1915,4,Brunswick,15-05-1915,0,Fitzroy,St Kilda,1,1,0,3,4,6,2,7,0,0,1,1,1,0,5,0,5,19,49,2,6,18,Fitzroy,31
+1915,4,Corio,15-05-1915,0,Geelong,Richmond,2,0,2,0,2,3,2,3,2,1,3,4,2,5,2,2,4,10,34,10,11,71,Richmond,37
+1915,5,M.C.G.,22-05-1915,9302,Melbourne,Carlton,1,2,2,3,0,3,0,0,4,1,1,4,3,2,5,2,8,3,51,10,12,72,Carlton,21
+1915,5,Victoria,22-05-1915,0,Collingwood,Geelong,2,1,2,3,2,4,5,3,0,1,0,2,3,2,3,4,8,14,62,3,12,30,Collingwood,32
+1915,5,East,22-05-1915,0,Essendon,St Kilda,2,1,3,1,5,0,4,1,1,4,1,0,1,0,3,0,7,10,52,6,4,40,Essendon,12
+1915,5,Lake,22-05-1915,0,South Melbourne,Fitzroy,1,4,1,2,1,5,1,1,2,0,2,2,1,1,2,0,8,8,56,6,4,40,South Melbourne,16
+1915,6,Corio,29-05-1915,0,Geelong,Carlton,1,1,1,2,2,4,3,1,3,0,3,3,4,3,2,4,5,10,40,9,13,67,Carlton,27
+1915,6,East,29-05-1915,0,Essendon,South Melbourne,1,4,1,2,0,3,1,3,1,0,5,2,10,3,3,0,8,7,55,8,16,64,South Melbourne,9
+1915,6,Punt,29-05-1915,0,Richmond,Fitzroy,0,2,1,4,1,4,2,5,2,4,2,0,3,3,3,3,7,12,54,8,12,60,Fitzroy,6
+1915,6,Junction,29-05-1915,0,St Kilda,Melbourne,2,1,4,2,4,3,4,0,2,5,0,6,2,2,3,4,9,11,65,13,11,89,Melbourne,24
+1915,7,Lake,05-06-1915,0,South Melbourne,Melbourne,1,2,3,1,2,2,1,0,1,3,3,3,3,2,3,0,7,5,47,10,8,68,Melbourne,21
+1915,7,Punt,05-06-1915,0,Richmond,St Kilda,4,0,1,2,3,0,3,0,2,2,0,1,3,11,2,4,7,6,48,5,20,50,St Kilda,2
+1915,7,Princes,07-06-1915,0,Carlton,Collingwood,2,2,5,2,4,1,2,2,2,4,1,3,2,2,6,3,11,9,75,10,13,73,Carlton,2
+1915,7,East,07-06-1915,0,Essendon,Geelong,3,4,4,1,3,0,2,1,0,5,1,6,2,4,0,2,12,6,78,12,8,80,Geelong,2
+1915,8,Princes,12-06-1915,0,Carlton,Richmond,2,5,2,6,4,6,1,6,4,0,3,1,2,0,3,0,15,17,107,8,5,53,Carlton,54
+1915,8,Brunswick,12-06-1915,0,Fitzroy,Collingwood,1,1,2,2,2,3,0,9,5,2,2,2,1,2,5,0,6,14,50,11,8,74,Collingwood,24
+1915,8,M.C.G.,12-06-1915,8914,Melbourne,Essendon,3,2,1,4,1,6,1,4,5,0,1,0,8,2,5,2,10,12,72,6,17,53,Melbourne,19
+1915,8,Lake,12-06-1915,0,South Melbourne,Geelong,4,1,1,8,1,9,2,5,5,2,5,1,0,0,5,0,14,17,101,13,5,83,South Melbourne,18
+1915,9,Junction,19-06-1915,0,St Kilda,Carlton,1,0,0,0,1,0,0,0,2,0,0,3,3,5,2,5,1,1,7,5,15,45,Carlton,38
+1915,9,Victoria,19-06-1915,0,Collingwood,South Melbourne,3,0,0,2,5,3,1,4,0,1,1,1,1,3,3,3,5,13,43,3,10,28,Collingwood,15
+1915,9,East,19-06-1915,0,Essendon,Richmond,2,3,0,0,0,3,1,2,2,2,1,0,0,2,2,4,5,6,36,5,8,38,Richmond,2
+1915,9,Corio,19-06-1915,0,Geelong,Fitzroy,0,2,1,1,2,7,2,1,2,1,5,2,5,1,6,0,4,12,36,10,12,72,Fitzroy,36
+1915,10,Brunswick,26-06-1915,0,Fitzroy,Carlton,3,0,3,1,4,2,1,1,1,2,0,2,0,4,2,2,7,8,50,5,8,38,Fitzroy,12
+1915,10,East,26-06-1915,0,Essendon,Collingwood,0,1,1,3,3,6,2,1,3,0,2,6,5,4,3,0,5,12,42,11,12,78,Collingwood,36
+1915,10,Punt,26-06-1915,0,Richmond,Melbourne,2,0,5,1,3,2,7,0,1,6,1,2,2,3,1,5,8,12,60,10,11,71,Melbourne,11
+1915,10,Lake,26-06-1915,0,South Melbourne,St Kilda,3,1,3,2,2,4,4,1,4,1,0,2,2,0,3,0,9,11,65,7,5,47,South Melbourne,18
+1915,11,Princes,03-07-1915,0,Carlton,South Melbourne,0,3,2,2,6,3,4,2,1,2,3,1,1,0,2,2,7,15,57,7,5,47,Carlton,10
+1915,11,Victoria,03-07-1915,0,Collingwood,Richmond,0,2,6,2,5,6,2,7,2,3,1,0,1,3,0,3,10,20,80,6,7,43,Collingwood,37
+1915,11,M.C.G.,03-07-1915,11745,Melbourne,Fitzroy,4,4,1,3,3,4,5,1,3,2,2,3,4,3,1,5,12,13,85,10,13,73,Melbourne,12
+1915,11,Junction,03-07-1915,0,St Kilda,Geelong,3,0,6,3,5,2,8,2,1,3,0,4,0,4,1,2,12,17,89,8,7,55,St Kilda,34
+1915,12,Victoria,10-07-1915,0,Collingwood,St Kilda,1,3,7,6,3,5,4,8,0,2,0,1,1,2,3,0,17,20,122,3,6,24,Collingwood,98
+1915,12,Brunswick,10-07-1915,0,Fitzroy,Essendon,0,1,2,3,2,5,2,3,4,1,0,0,2,1,2,0,6,12,48,5,5,35,Fitzroy,13
+1915,12,Corio,10-07-1915,0,Geelong,Melbourne,2,1,1,1,2,3,1,3,2,4,2,3,1,1,5,6,5,9,39,11,13,79,Melbourne,40
+1915,12,Lake,10-07-1915,0,South Melbourne,Richmond,1,5,1,3,2,7,1,2,3,1,2,1,5,0,5,1,10,12,72,7,11,53,South Melbourne,19
+1915,13,East,17-07-1915,0,Essendon,Carlton,2,1,1,1,4,1,9,1,1,4,4,3,2,4,4,5,5,15,45,12,15,87,Carlton,42
+1915,13,M.C.G.,17-07-1915,19645,Melbourne,Collingwood,2,2,2,2,0,2,3,1,5,0,3,4,8,2,6,5,8,6,54,12,21,93,Collingwood,39
+1915,13,Junction,17-07-1915,0,St Kilda,Fitzroy,2,4,0,1,2,2,0,3,3,3,4,4,5,1,5,3,7,7,49,14,14,98,Fitzroy,49
+1915,13,Punt,17-07-1915,0,Richmond,Geelong,2,3,3,4,6,2,5,2,4,2,3,3,2,2,2,1,12,15,87,12,7,79,Richmond,8
+1915,14,Princes,24-07-1915,0,Carlton,Melbourne,4,3,3,1,2,0,2,4,1,1,0,3,4,2,3,6,11,8,74,5,15,45,Carlton,29
+1915,14,Corio,24-07-1915,0,Geelong,Collingwood,4,1,2,0,1,0,5,3,2,5,3,3,5,1,2,5,7,9,51,13,13,91,Collingwood,40
+1915,14,Junction,24-07-1915,0,St Kilda,Essendon,0,1,5,4,1,2,6,1,0,2,0,1,3,5,1,4,10,10,70,3,13,31,St Kilda,39
+1915,14,Brunswick,24-07-1915,0,Fitzroy,South Melbourne,1,2,4,1,2,3,1,0,2,1,0,4,1,1,2,2,8,6,54,7,6,48,Fitzroy,6
+1915,15,Princes,31-07-1915,0,Carlton,Geelong,2,5,2,0,5,5,7,3,3,2,3,0,3,1,5,3,9,20,74,8,12,60,Carlton,14
+1915,15,Lake,31-07-1915,0,South Melbourne,Essendon,1,5,2,5,7,5,4,3,2,0,1,3,2,0,2,0,13,19,97,6,4,40,South Melbourne,57
+1915,15,Brunswick,31-07-1915,0,Fitzroy,Richmond,1,8,3,6,6,6,2,3,0,0,5,2,1,1,3,2,18,17,125,7,7,49,Fitzroy,76
+1915,15,M.C.G.,31-07-1915,6006,Melbourne,St Kilda,0,4,3,2,3,8,2,6,1,2,4,0,1,3,0,2,9,19,73,7,6,48,Melbourne,25
+1915,16,Victoria,07-08-1915,0,Collingwood,Carlton,3,3,3,0,0,2,3,3,1,4,1,3,1,3,4,1,9,8,62,9,9,63,Carlton,1
+1915,16,Corio,07-08-1915,0,Geelong,Essendon,2,1,3,1,5,3,2,1,1,2,2,1,3,1,3,2,7,11,53,6,9,45,Geelong,8
+1915,16,M.C.G.,07-08-1915,6752,Melbourne,South Melbourne,1,2,1,0,2,4,3,3,1,2,1,1,4,3,2,4,4,12,36,5,13,43,South Melbourne,7
+1915,16,Junction,07-08-1915,0,St Kilda,Richmond,3,1,2,0,5,0,9,4,0,2,1,1,1,4,0,1,6,18,54,4,6,30,St Kilda,24
+1915,17,Punt,14-08-1915,0,Richmond,Carlton,2,2,0,3,1,4,0,2,5,3,7,2,5,4,6,0,7,7,49,17,15,117,Carlton,68
+1915,17,Victoria,14-08-1915,0,Collingwood,Fitzroy,1,1,2,4,3,3,5,2,3,3,1,1,5,2,2,2,8,13,61,8,11,59,Collingwood,2
+1915,17,East,14-08-1915,0,Essendon,Melbourne,2,5,0,3,1,6,3,5,3,1,3,0,7,1,6,0,10,15,75,7,14,56,Essendon,19
+1915,17,Corio,14-08-1915,0,Geelong,South Melbourne,2,1,2,2,2,3,5,0,2,2,2,4,5,4,2,3,7,10,52,10,14,74,South Melbourne,22
+1915,18,Princes,21-08-1915,0,Carlton,St Kilda,4,5,2,3,4,5,3,4,2,1,3,0,3,2,2,1,14,16,100,6,8,44,Carlton,56
+1915,18,Lake,21-08-1915,0,South Melbourne,Collingwood,0,0,2,2,3,1,2,3,1,2,2,2,5,2,1,1,4,9,33,7,9,51,Collingwood,18
+1915,18,Punt,21-08-1915,0,Richmond,Essendon,5,1,5,3,4,2,7,2,1,5,0,0,2,4,0,5,14,15,99,6,11,47,Richmond,52
+1915,18,Brunswick,21-08-1915,0,Fitzroy,Geelong,3,7,4,4,4,4,1,4,1,2,0,1,2,1,2,2,18,13,121,4,7,31,Fitzroy,90
+1915,SF,M.C.G.,28-08-1915,14446,Carlton,Melbourne,2,2,3,4,1,8,1,2,3,1,4,2,5,0,2,0,11,12,78,10,7,67,Carlton,11
+1915,SF,M.C.G.,04-09-1915,26100,Collingwood,Fitzroy,1,3,0,0,3,5,2,2,1,2,4,2,8,1,3,4,4,12,36,9,16,70,Fitzroy,34
+1915,PF,M.C.G.,11-09-1915,30678,Carlton,Fitzroy,3,0,2,1,3,5,4,6,1,3,0,1,2,3,1,2,6,18,54,5,8,38,Carlton,16
+1915,GF,M.C.G.,18-09-1915,39343,Collingwood,Carlton,3,1,1,1,0,2,7,0,2,4,0,5,5,1,2,4,6,9,45,11,12,78,Carlton,33

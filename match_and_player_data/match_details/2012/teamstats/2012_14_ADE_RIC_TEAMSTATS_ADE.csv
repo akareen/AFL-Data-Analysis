@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2012,14,Adelaide,Richmond,37 ,"Callinan, Ian",4,1,1,5,1, , , , ,1, ,2, , , ,2,3, ,1,2, , ,65
+2012,14,Adelaide,Richmond,32 ,"Dangerfield, Patrick",11,3,12,23, , ,1,5,1,5,8,6, ,1, ,16,7,1, ,4, , ,82
+2012,14,Adelaide,Richmond,11 ,"Doughty, Michael",9,3,5,14, , , ,3,2, , ,2,1, , ,4,9,1, ,3, , ,85
+2012,14,Adelaide,Richmond,26 ,"Douglas, Richard",17,6,4,21,2,1, ,2, ,7,7,2, ,2, ,9,10, ,2, , ,2,81
+2012,14,Adelaide,Richmond,24 ,"Jacobs, Sam",8,5,6,14, , ,32,2,1,1,2,1, , , ,7,7,2, ,1, , ,92
+2012,14,Adelaide,Richmond,21 ,"Knights, Chris",10,3,9,19,2, , ,4,4,2,2,6,1,2, ,6,14, ,2,3,1,1,86
+2012,14,Adelaide,Richmond,14 ,"Mackay, David",4,3,11,15,1, , ,2,4,1,1,1, , , ,5,10,2, ,4, , ,82
+2012,14,Adelaide,Richmond,36 ↑,"Martin, Brodie",8,3,3,11, ,1, ,1,1,2, , ,2, , ,3,9, , , ,1, ,41
+2012,14,Adelaide,Richmond,23 ,"Petrenko, Jared",2,2,2,4, ,1, ,5, ,1, , , , , ,2,2, ,1, , ,1,79
+2012,14,Adelaide,Richmond,40 ,"Porplyzia, Jason",13,6,10,23,2, , ,2, , ,2,4,3,1, ,14,7,3,2,1, ,1,87
+2012,14,Adelaide,Richmond,3 ,"Reilly, Brent",9,2,6,15, , , ,1,4,2, ,1, , , ,3,13, , ,4,1, ,89
+2012,14,Adelaide,Richmond,25 ,"Rutten, Ben",8,8,6,14, , , ,1,2, , , , , , ,5,9,2, ,4, , ,98
+2012,14,Adelaide,Richmond,34 ,"Shaw, Sam",8, ,1,9, , ,1,2,4, ,3,2, ,1, ,6,2, , ,6, , ,92
+2012,14,Adelaide,Richmond,9 ,"Sloane, Rory",12,3,8,20,1, , ,2,1,7,2,4,1,3, ,10,11,2, , , ,1,85
+2012,14,Adelaide,Richmond,33 ,"Smith, Brodie",6,3,8,14, , , ,2,5, , ,4, ,1, ,7,6, , ,3, , ,84
+2012,14,Adelaide,Richmond,12 ,"Talia, Daniel",3,4,5,8, , , ,1, ,1, ,1, ,1, ,4,4,1, ,10, ,1,97
+2012,14,Adelaide,Richmond,5 ,"Thompson, Scott",16,6,16,32, , ,1,10,2,5,3,7,1,4,3,11,23, , ,1, , ,86
+2012,14,Adelaide,Richmond,4 ,"Tippett, Kurt",8,6,2,10,3, ,8,4, ,2, , , , , ,7,3,3,2, , , ,92
+2012,14,Adelaide,Richmond,7 ↓,"van Berlo, Nathan",3, ,1,4, , , , ,1,1,1,2, ,1, ,1,3, , , , , ,29
+2012,14,Adelaide,Richmond,17 ,"Vince, Bernie",14,2,9,23, , , ,3,3,4,5,5, ,1, ,10,13, , , , , ,85
+2012,14,Adelaide,Richmond,13 ,"Walker, Taylor",11,4,4,15,5,1, ,1, ,2, ,3,2,1, ,9,6,1,3,2, ,1,96
+2012,14,Adelaide,Richmond,47 ,"Wright, Matthew",13,4,6,19, , , ,5,4,3,6,3, ,1, ,9,11, , ,1, , ,89

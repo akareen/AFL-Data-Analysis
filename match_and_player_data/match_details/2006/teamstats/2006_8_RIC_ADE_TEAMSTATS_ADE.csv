@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2006,8,Adelaide,Richmond,8 ,"Bassett, Nathan",8,4,8,16, , , ,2,2,2, , ,1, , ,3,13, , ,7,2, ,100
+2006,8,Adelaide,Richmond,35 ,"Biglands, Rhett",4,2, ,4, ,1,8,3, ,3,1,2,2,2, ,2,2, , ,1, , ,65
+2006,8,Adelaide,Richmond,10 ,"Bode, Matthew", ,1,5,5, , , ,6, , ,1,2,1,2, ,2,4, , ,1, , ,74
+2006,8,Adelaide,Richmond,24 ,"Burton, Brett",12,6,3,15,2,1, ,1,1,3,1,5, ,3, ,6,11,3,1,1,1,2,94
+2006,8,Adelaide,Richmond,4 ,"Clarke, Matthew",2,1,2,4, , ,7,2, , , ,2,2,1, ,3,1, , ,2, ,1,48
+2006,8,Adelaide,Richmond,11 ,"Doughty, Michael",11,6,11,22, , , ,2,2,3, ,1, ,1, ,5,16, , ,1, , ,94
+2006,8,Adelaide,Richmond,9 ,"Edwards, Tyson",15,7,15,30,1, , ,3,3,5,3, , , ,1,7,22, , ,2,5, ,84
+2006,8,Adelaide,Richmond,36 ,"Goodwin, Simon",12,7,11,23, , , ,2,3,3, ,2, , , ,2,20, , , , ,1,100
+2006,8,Adelaide,Richmond,34 ,"Hart, Ben",3,2,1,4, , ,1, , , , ,1, , , ,1,3,1, ,1, , ,22
+2006,8,Adelaide,Richmond,37 ,"Hentschel, Trent",7,8,3,10,2,3, , , ,2, , , , , ,1,9, ,5,1, , ,100
+2006,8,Adelaide,Richmond,18 ,"Johncock, Graham",12,3,4,16,1, , ,2,5,3, ,2, ,1, ,1,13, ,1,1,7, ,100
+2006,8,Adelaide,Richmond,3 ,"Massie, Kris",8,6,3,11, , , ,1, ,3, ,2, , , ,1,10, ,1,1, , ,80
+2006,8,Adelaide,Richmond,39 ,"Mattner, Martin",4,3,7,11,1,1, ,2,1,2,1,1,1,1, ,5,7, ,1, , , ,97
+2006,8,Adelaide,Richmond,16 ,"McGregor, Ken",10,10,4,14, ,2, ,1, ,1, ,3,1,2, ,2,12,1,4,2, , ,87
+2006,8,Adelaide,Richmond,23 ,"McLeod, Andrew",16,2,10,26,1, , ,5,4,6, , ,2, , ,10,17, , ,4,8, ,100
+2006,8,Adelaide,Richmond,33 ,"Reilly, Brent",7,4,9,16, , , ,8,1,1,4,3,1,1, ,8,8, , ,3,1, ,62
+2006,8,Adelaide,Richmond,32 ,"Ricciuto, Mark",3,2,1,4,1,1, , , ,2, ,2,1,2, ,2,2, , ,1, , ,100
+2006,8,Adelaide,Richmond,25 ,"Rutten, Ben",8,6,6,14, , , ,1,7,1, ,1, , , ,3,11, , , ,1,1,100
+2006,8,Adelaide,Richmond,12 ,"Shirley, Robert",5,3,11,16, , , ,3,1,1,1,3,1, , ,5,11, , ,2, , ,69
+2006,8,Adelaide,Richmond,27 ,"Stevens, Scott",10,10,9,19, , , ,2, ,2, , ,2, , ,3,16, , ,1, , ,100
+2006,8,Adelaide,Richmond,5 ,"Thompson, Scott",12,8,6,18, , , ,1,2,3,2,5, ,3, ,4,15, , ,3,2, ,85
+2006,8,Adelaide,Richmond,7 ,"van Berlo, Nathan",3,1,3,6, , , ,3, ,1, ,1, , , ,3,3, , , , , ,41

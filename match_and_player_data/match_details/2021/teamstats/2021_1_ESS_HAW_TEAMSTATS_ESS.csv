@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2021,1,Essendon,Hawthorn,28 ,"Cahill, Ned",6,1,4,10, , , ,2,4,1, ,3, ,1, ,5,5, , ,1, , ,75
+2021,1,Essendon,Hawthorn,6 ,"Caldwell, Jye",9,4,13,22, ,1, ,9, ,2,3,4,2, , ,8,13, ,1,1, ,1,74
+2021,1,Essendon,Hawthorn,13 ,"Cox, Nik",5,3,4,9, , , ,1,1,3, ,4, ,3, ,2,7, , ,2, , ,76
+2021,1,Essendon,Hawthorn,12 ,"Cutler, Tom", , , , , , , , , , , , , , , , , , , , , , , 
+2021,1,Essendon,Hawthorn,2 ,"Draper, Sam",5,2,5,10,1,1,24,5,1,3,4,4,2,2,3,8,3,2,1,4, , ,84
+2021,1,Essendon,Hawthorn,10 ,"Francis, Aaron",5,3,9,14, , , ,1, ,1, ,4,1,1, ,6,8,1, ,2, , ,86
+2021,1,Essendon,Hawthorn,33 ,"Ham, Brayden",7,2,10,17, , , ,4, ,2,1,2, , , ,4,12, , ,1, , ,87
+2021,1,Essendon,Hawthorn,21 ,"Heppell, Dyson",13,6,12,25, , , , ,2,3,1,1,2, , ,8,20,1, ,5, ,1,82
+2021,1,Essendon,Hawthorn,19 ,"Hind, Nick",18,6,7,25, , , ,4,6,8,1,5,1,1, ,6,16, , ,4, , ,84
+2021,1,Essendon,Hawthorn,26 ,"Hooker, Cale",3,3,5,8,1,1,1,1, , , , ,1, , ,5,4,1,1,1, , ,85
+2021,1,Essendon,Hawthorn,23 ,"Jones, Harry",9,5,4,13, ,3, ,2, , , ,2,2, , ,4,9, ,3,3, , ,68
+2021,1,Essendon,Hawthorn,4 ,"Langford, Kyle",10,5,9,19, , , ,3, ,1,3,2,1, , ,8,12, , ,2, ,1,85
+2021,1,Essendon,Hawthorn,15 ,"Laverde, Jayden",4,2,8,12, , , ,2,3,1, ,2,1,1, ,5,7, , ,8, , ,94
+2021,1,Essendon,Hawthorn,43 ,"McDonald-Tipungwuti, Anthony",9,4,7,16,2,1, ,1, ,4, ,1,1, , ,4,12, ,1,1,2,2,75
+2021,1,Essendon,Hawthorn,1 ,"McGrath, Andrew",17,2,16,33,1,1, ,11,4,7,5,3,4,1, ,13,19, , ,3,1, ,81
+2021,1,Essendon,Hawthorn,7 ,"Merrett, Zach",18,4,13,31,1, , ,3,4,8,2,7,1, ,1,10,22, ,1,3,1,1,74
+2021,1,Essendon,Hawthorn,3 ,"Parish, Darcy",9,4,9,18,1,1, ,4, ,6,3,1,1, , ,10,10, ,2,1, ,1,82
+2021,1,Essendon,Hawthorn,27 ,"Redman, Mason",9,4,6,15, ,1, , ,2,2, ,1, , , ,4,10, , ,1, , ,80
+2021,1,Essendon,Hawthorn,14 ,"Ridley, Jordan",16,6,5,21, , , ,3,10, , , ,2, , ,2,12, , ,7,5, ,100
+2021,1,Essendon,Hawthorn,9 ,"Shiel, Dylan",8,2,9,17,2, , ,4, ,4,4, , , , ,5,12, ,1,3, ,1,81
+2021,1,Essendon,Hawthorn,5 ,"Smith, Devon",7,2,5,12,2,1, ,4, ,3,1,2,1,1, ,5,6, , , , ,1,77
+2021,1,Essendon,Hawthorn,40 ,"Snelling, Will",5,2,9,14,1, , ,5, ,2, ,2, , , ,7,8, , ,2, , ,83
+2021,1,Essendon,Hawthorn,20 ,"Wright, Peter",9,3,7,16,1, ,6, ,2,3,1,4,2,1, ,7,9,2,1,4, ,1,88

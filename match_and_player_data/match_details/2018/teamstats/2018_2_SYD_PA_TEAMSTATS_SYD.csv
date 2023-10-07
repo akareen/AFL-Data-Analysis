@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2018,2,Sydney,Port Adelaide,7 ,"Cunningham, Harry",14,2,7,21,1,1, ,2,1,2,2,2, ,1, ,7,12, ,1,2, , ,78
+2018,2,Sydney,Port Adelaide,13 ,"Florent, Oliver",15,4,5,20, ,1, ,4,1,4,4,2,2,1, ,10,7, , ,2, , ,82
+2018,2,Sydney,Port Adelaide,42 ,"Fox, Robbie",7,1,5,12, , , ,1,2,1, ,3,1, , ,7,5, , ,10, , ,80
+2018,2,Sydney,Port Adelaide,23 ,"Franklin, Lance",15,5, ,15,4,2, ,2, ,6,1,4, ,1, ,5,8,2,2, ,1,1,96
+2018,2,Sydney,Port Adelaide,39 ,"Grundy, Heath",7,4,9,16, , , ,2,5, , ,2,1, , ,5,11,1, ,6, , ,78
+2018,2,Sydney,Port Adelaide,4 ,"Hannebery, Dan",9,3,9,18, , , ,6,1,3,3,2,1,2, ,9,8, , ,2, , ,62
+2018,2,Sydney,Port Adelaide,9 ,"Hayward, Will",3, ,5,8,1, , ,2, , ,1,2, ,1, ,4,4, , , , , ,77
+2018,2,Sydney,Port Adelaide,5 ,"Heeney, Isaac",13,2,9,22,1, , ,5,1,4,4,5,2,1, ,18,6,1, ,1, ,1,81
+2018,2,Sydney,Port Adelaide,29 ,"Hewett, George",7,1,13,20, , , ,4, ,1,2,3, ,1, ,13,8, , , , ,1,80
+2018,2,Sydney,Port Adelaide,15 ,"Jack, Kieren",12,2,4,16, ,1, ,4, ,4,3,2,2,1, ,7,7, , ,1, ,1,71
+2018,2,Sydney,Port Adelaide,12 ,"Kennedy, Josh",16,3,17,33, ,1, ,4,1,7,8,8, ,1, ,20,14,1, ,4, , ,86
+2018,2,Sydney,Port Adelaide,44 ,"Lloyd, Jake",11,5,9,20, , , ,2,2,1,3,2,1, , ,8,12, , ,2, , ,89
+2018,2,Sydney,Port Adelaide,3 ,"McVeigh, Jarrad",18,6,10,28, , , ,2,3,4,2,5,1,2, ,9,18, , ,3,1,2,81
+2018,2,Sydney,Port Adelaide,43 ,"Melican, Lewis",8,3,3,11, , , ,3,2, , ,1, , , ,2,9, , ,7, , ,87
+2018,2,Sydney,Port Adelaide,14 ,"Mills, Callum",8,4,6,14, , , ,2,3,2, ,5, ,2, ,3,12,1, ,1, , ,87
+2018,2,Sydney,Port Adelaide,11 ,"Papley, Tom",10,4,6,16,1,2, ,2,2,2,1,3,1,2, ,4,12, ,2,3, , ,86
+2018,2,Sydney,Port Adelaide,26 ,"Parker, Luke",11,1,16,27,1, ,1,6,1,5,12,3,1,1,1,17,5, , ,1, , ,87
+2018,2,Sydney,Port Adelaide,24 ,"Rampe, Dane",5,2,3,8, , , ,1,2, , ,3, , , ,1,5, , ,7, , ,85
+2018,2,Sydney,Port Adelaide,16 ,"Rohan, Gary",5,3,2,7, ,1, ,5, , , ,2,1,1, ,2,4,1,1,2, , ,74
+2018,2,Sydney,Port Adelaide,18 ,"Sinclair, Callum",6,1,5,11, ,1,44,4,1,2,3,4,1, , ,10,3, ,1,6, , ,80
+2018,2,Sydney,Port Adelaide,40 ,"Smith, Nick",11,4,10,21, , , ,5,4,2,1,3,2, , ,9,12, , ,1, , ,97
+2018,2,Sydney,Port Adelaide,22 ,"Towers, Dean",6,5,10,16,1, ,6,3,3,2,2,3, ,2, ,5,12, ,1,1, , ,74

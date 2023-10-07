@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2005,16,Sydney,Melbourne,20 ,"Ablett, Luke",8,3,4,12, , ,1,2, ,5,4,1, , , ,4,7, , , , , ,80
+2005,16,Sydney,Melbourne,27 ,"Ball, Jason",13,6,2,15, , ,17, ,2,3,2,1,1,1, ,6,8,2, ,3, ,1,72
+2005,16,Sydney,Melbourne,21 ,"Barry, Leo",5,3,4,9, , , ,1,1, , ,4,1,3, ,4,5, , ,5,2, ,100
+2005,16,Sydney,Melbourne,6 ,"Bolton, Craig",8,4,2,10, , , ,4,6, ,1,1, ,1, ,3,5,1, ,4,1, ,100
+2005,16,Sydney,Melbourne,24 ,"Bolton, Jude",12,3,3,15, , ,1,8,1,7,4,2,1,1, ,7,9, , ,4,1, ,77
+2005,16,Sydney,Melbourne,32 ,"Buchanan, Amon",5, ,8,13,1, , ,6,1,3,3,4,2,4, ,11,3, , ,3,1,1,85
+2005,16,Sydney,Melbourne,28 ,"Crouch, Jared", , ,2,2, , , ,1, , , ,1, , , ,1,1, , ,1, , ,100
+2005,16,Sydney,Melbourne,2 ,"Davis, Nick",7,4,4,11,2, , , ,1,2,1,1, ,1, ,3,9, ,1, ,2, ,82
+2005,16,Sydney,Melbourne,26 ,"Dempster, Sean",1,1,1,2, , , ,1, , , , , , , ,1,1, , ,1, , ,29
+2005,16,Sydney,Melbourne,12 ,"Fosdike, Nic",4,1,2,6, , , , , ,2,4,3, ,3, ,4,3, , ,1,2,1,61
+2005,16,Sydney,Melbourne,37 ,"Goodes, Adam",16,10,6,22,1, ,1,1,4,3,4, ,1, ,1,9,12,1,1,4, ,2,97
+2005,16,Sydney,Melbourne,1 ,"Hall, Barry",12,8,4,16,7, , ,1, ,1, ,1,1, ,2,8,9,2,5,2, , ,99
+2005,16,Sydney,Melbourne,16 ,"Jolly, Darren",4, ,3,7,1,1,14, , ,3,2, ,4, , ,5,2, , , , ,1,79
+2005,16,Sydney,Melbourne,17 ,"Kennelly, Tadhg",8,2,3,11, , , ,2,7,2, ,2, , , ,3,5, , ,5,1, ,100
+2005,16,Sydney,Melbourne,31 ,"Kirk, Brett",17,6,12,29,1, , ,7,2,6,3,4,2,1,3,13,17, ,1,2, ,2,93
+2005,16,Sydney,Melbourne,40 ,"Malceski, Nick",2,2,2,4, , , , , , , , , , , ,1,3, , , , , ,35
+2005,16,Sydney,Melbourne,4 ,"Mathews, Ben",4,2,3,7,1, , ,3,1,1, ,1, ,1, ,1,6, ,1,3, , ,68
+2005,16,Sydney,Melbourne,5 ,"OKeefe, Ryan",13,3,6,19,1,1, ,5, ,8,4,3, ,2, ,13,6,1, ,2,1, ,91
+2005,16,Sydney,Melbourne,19 ,"OLoughlin, Michael",9,4,6,15,1,1, ,1, ,2, ,1, , , ,5,10,1,4,1, ,3,93
+2005,16,Sydney,Melbourne,30 ,"Roberts-Thomson, Lewis",5,3,4,9, ,1,2,4,4, ,1, ,3, , ,8,2,1,1,2,2, ,100
+2005,16,Sydney,Melbourne,13 ,"Schneider, Adam",12,4,3,15, , , ,2,3,1, ,5, , , ,2,11, , , ,1, ,91
+2005,16,Sydney,Melbourne,10 ,"Williams, Paul",8,3,3,11, , , ,3,2,1,1,1, , , ,5,6, , , , , ,69

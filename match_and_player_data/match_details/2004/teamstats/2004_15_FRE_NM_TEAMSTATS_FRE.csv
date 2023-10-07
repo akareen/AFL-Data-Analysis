@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2004,15,Fremantle,Kangaroos,32 ,"Bell, Peter",15,6,15,30,2, , ,1,5,3,3,3,3, , ,12,19, ,1,1,2, ,100
+2004,15,Fremantle,Kangaroos,36 ,"Browne, Andrew",5,1,2,7, ,1, ,3, ,2,1,1, ,1, ,4,2, , ,1,4, ,69
+2004,15,Fremantle,Kangaroos,10 ,"Cook, Troy",7,2,7,14, , , ,1,1,2,2,1, , , ,4,10, , ,1, , ,63
+2004,15,Fremantle,Kangaroos,33 ,"Farmer, Jeff",7,1,4,11,2,2, , , , ,3,2,1,1, ,8,4,1, , , ,2,90
+2004,15,Fremantle,Kangaroos,14 ,"Grover, Antoni",8,2,2,10,1, , ,1,4,1, ,1,4, , ,5,6,1, ,2, , ,57
+2004,15,Fremantle,Kangaroos,42 ,"Haddrill, Robert",7,4,6,13, , , ,3,2,3, , , , , ,7,6,3, ,3, , ,93
+2004,15,Fremantle,Kangaroos,4 ,"Hasleby, Paul",3, ,11,14, , , ,3, ,2,4,4,2,2, ,12,3, , ,2, ,1,91
+2004,15,Fremantle,Kangaroos,43 ,"Hayden, Roger",9,4,5,14, ,1, , ,2,3, ,1, , , ,3,11,1, ,2, , ,60
+2004,15,Fremantle,Kangaroos,11 ,"Headland, Des",17,5,7,24,2, , ,2, ,9,3,4, , , ,7,18,1,1, ,2, ,83
+2004,15,Fremantle,Kangaroos,20 ,"Longmuir, Justin",7,6,8,15,1, ,15,4,1,5,2,3,1,1, ,12,3,5,1,2, ,1,88
+2004,15,Fremantle,Kangaroos,8 ,"McManus, Shaun",9,1,10,19,2, , ,2, ,2,2,2,1,2, ,4,14, , ,1,1, ,86
+2004,15,Fremantle,Kangaroos,18 ,"McPharlin, Luke",6,4,7,13, , , , ,1,2,1,1, ,1, ,8,6,2, , ,1, ,70
+2004,15,Fremantle,Kangaroos,34 ,"Medhurst, Paul",4,2,4,8, , , , , ,1, ,1, ,1, ,3,5, , , ,1, ,83
+2004,15,Fremantle,Kangaroos,23 ,"Parker, Shane",10,6,6,16, , , ,2,5,1, ,2, , , ,4,13, , , , , ,100
+2004,15,Fremantle,Kangaroos,29 ,"Pavlich, Matthew",14,2,9,23,2,1, ,1,3,7,4,2,1,1, ,10,14, , ,3, , ,100
+2004,15,Fremantle,Kangaroos,12 ,"Polak, Graham",4,2,5,9, , , , ,1, , ,1,1,1, ,4,6,1, ,2, , ,72
+2004,15,Fremantle,Kangaroos,31 ,"Sandilands, Aaron",2,3,4,6, , ,18, ,1, ,1,1,1, , ,2,4, , , , , ,62
+2004,15,Fremantle,Kangaroos,3 ,"Schammer, Byron",17,6,13,30, ,1, ,2,2,3,7,2, , ,2,7,24, , ,1,1, ,87
+2004,15,Fremantle,Kangaroos,2 ,"Simmonds, Troy",6,3,6,12, , ,3,1, ,6,1,1, ,1, ,4,9, , ,1, ,1,93
+2004,15,Fremantle,Kangaroos,22 ,"Thornton, Scott",4,1,5,9, , , , ,3, ,1,1,1,1, ,4,4, , ,8, , ,80
+2004,15,Fremantle,Kangaroos,19 ,"Walker, James",3, ,11,14, , , ,2,1, ,1, , , , ,8,6, , ,3, , ,100
+2004,15,Fremantle,Kangaroos,6 ,"Woods, Dion",6,3,2,8, , , ,1,3,2,1,3, ,1, ,3,5, , ,5,1, ,74

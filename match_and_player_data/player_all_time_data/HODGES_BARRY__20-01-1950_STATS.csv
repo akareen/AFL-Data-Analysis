@@ -1,0 +1,8 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Melbourne,1970,1,Richmond,19,W,32,15,4,2,17,,,,,,,,,3,3,,,,,,,,,
+Melbourne,1970,2,St Kilda,20,L,32,6,2,2,8,,,,,,,,,1,1,,,,,,,,,
+Melbourne,1970,3,Geelong,21,L,32,7,3,1,8,,,,,,,,,,4,,,,,,,,,
+Melbourne,1971,4,Essendon,15,W,32,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,1971,5,Fitzroy,16,L,32,12,5,2,14,,,,,,,,,5,2,,,,,,,,,
+Melbourne,1971,6,Collingwood,17,L,32,3,1,1,4,,,,,,,,,1,,,,,,,,,,
+Melbourne,1971,7,North Melbourne,18,D,32,9,2,1,10,1,,,,,,,,2,3,,,,,,,,,

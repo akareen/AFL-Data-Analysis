@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2013,9,Essendon,Richmond,46 ,"Baguley, Mark",5,2,4,9, , , ,2, ,2, , ,1, , ,2,7, , , , , ,89
+2013,9,Essendon,Richmond,2 ,"Bellchambers, Tom",1,3,6,7, , ,25, , , ,1,2,1,2, ,2,5,1, , , , ,92
+2013,9,Essendon,Richmond,22 ,"Carlisle, Jake",10,8,3,13, , , ,1,2, , ,1,1,1, ,6,9,3, ,3, , ,98
+2013,9,Essendon,Richmond,12 ,"Crameri, Stewart",7,7,2,9,3,1, ,1, ,3,1,3, ,3, ,5,5,2,4,2, , ,86
+2013,9,Essendon,Richmond,15 ,"Dempsey, Courtenay",20,8,8,28, , , ,7,2,1,1,4,2,2, ,9,20, , ,1, , ,92
+2013,9,Essendon,Richmond,31 ,"Fletcher, Dustin",11,8,1,12, , , , ,5, , ,1, ,1, ,1,9, , ,3, , ,91
+2013,9,Essendon,Richmond,9 ,"Goddard, Brendon",22,11,12,34, , , ,2,2,7,2, , , ,1,3,31, , ,2, ,1,86
+2013,9,Essendon,Richmond,21 ,"Heppell, Dyson",12,4,15,27, ,2,1,4,1,7,3,4,1,2, ,13,16,1, ,2, , ,79
+2013,9,Essendon,Richmond,1 ,"Hibberd, Michael",19,8,10,29,1, , ,1,4,4,2,1,2, ,2,9,20,1, ,1,1, ,87
+2013,9,Essendon,Richmond,39 ,"Hocking, Heath",7,6,11,18, , , ,5,1,2,1, , , , ,4,13, , , , , ,84
+2013,9,Essendon,Richmond,26 ,"Hooker, Cale",7,3,5,12, , , ,1,2, , , ,2, , ,4,6, , ,5, ,1,97
+2013,9,Essendon,Richmond,40 ,"Howlett, Ben",9,4,6,15,1, , ,8,2,5,4,1, ,1, ,8,7,1, ,1, , ,78
+2013,9,Essendon,Richmond,18 ↓,"Hurley, Michael",3,3,2,5, ,1, , , , , ,2, ,1, ,2,3,1, ,2, , ,40
+2013,9,Essendon,Richmond,7 ,"Jetta, Leroy",4, ,7,11, ,2, ,3, ,1,1,1,1,1, ,7,5, , ,1, ,1,80
+2013,9,Essendon,Richmond,38 ,"Kommer, Nick",10,7,6,16, , , ,3, ,6,2,1, , , ,4,11,1, ,2, ,2,81
+2013,9,Essendon,Richmond,17 ↑,"Melksham, Jake",4,4,3,7,1, , ,1,1,1, ,4, ,2, , ,8, , , , , ,40
+2013,9,Essendon,Richmond,23 ,"Myers, David",7,2,11,18, , , ,2, ,4,5, , , , ,9,9, ,1,1, ,1,82
+2013,9,Essendon,Richmond,30 ,"Ryder, Paddy",10,7,7,17, , ,16,2,3,1,4,1,2, , ,9,8,1, ,1, , ,84
+2013,9,Essendon,Richmond,5 ,"Stanton, Brent",28,6,11,39,1,1, ,4,2,7,5,3, ,1, ,8,30, , ,1,1, ,88
+2013,9,Essendon,Richmond,4 ,"Watson, Jobe",15,4,13,28,3,1, ,5,1,1,6,2, , ,3,18,12, ,2,2,1,3,80
+2013,9,Essendon,Richmond,8 ,"Winderlich, Jason",9,7,2,11,1, , ,4,1,2, , ,1, , ,2,9,1,1, , ,1,83
+2013,9,Essendon,Richmond,11 ,"Zaharakis, David",14,4,4,18,2, , ,5,1,5,1,3, ,1, ,7,11, , , ,2, ,84

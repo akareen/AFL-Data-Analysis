@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2023,24,West Coast,Adelaide,12 ,"Allen, Oscar",6,2,6,12,4,1, ,4, ,2, , ,2, , ,9,3,1,1, , , ,93
+2023,24,West Coast,Adelaide,28 ,"Cole, Tom",11,7,5,16,1, , ,3,4,2, ,2,1,1, ,4,12, ,1,1, , ,83
+2023,24,West Coast,Adelaide,15 ,"Cripps, Jamie",8,1,3,11,1, , ,2,1,1, ,2, , , ,3,11, , ,3, , ,92
+2023,24,West Coast,Adelaide,27 ,"Darling, Jack",9,6,8,17,3,1, ,3, ,2, ,1,1, , ,9,8,2,3,1,1, ,100
+2023,24,West Coast,Adelaide,14 ,"Duggan, Liam",19,9,10,29, , , ,2,2,5,3,1,1, , ,9,20, , ,4,1,1,94
+2023,24,West Coast,Adelaide,16 ↓,"Edwards, Luke",3,1,4,7, , , ,1, , , ,2, ,1, ,1,5, , , , , ,50
+2023,24,West Coast,Adelaide,3 ,"Gaff, Andrew",5,3,12,17, , , ,1, ,2,1, ,2, , ,5,13,1,1, , , ,75
+2023,24,West Coast,Adelaide,8 ,"Hewett, Elijah",5,1,7,12, , , ,3,1,1,3,2, ,1, ,6,4, ,1, , , ,71
+2023,24,West Coast,Adelaide,19 ,"Hough, Brady",16,12,10,26, , , ,1,8, ,1,3, ,1, ,4,22,1, ,4, , ,88
+2023,24,West Coast,Adelaide,5 ,"Hunt, Jayden",6,4,3,9, , , ,1,2,1,1, ,1, , ,4,6, , ,2, , ,97
+2023,24,West Coast,Adelaide,25 ,"Hurn, Shannon",18,6,4,22, , , ,2,7, ,1,2,1, , ,2,10, , ,3, , ,83
+2023,24,West Coast,Adelaide,31 ↑,"Jones, Jamaine",11,2,2,13,1, , ,1,6, , , ,1, , ,3,9, , ,2, , ,35
+2023,24,West Coast,Adelaide,11 ,"Kelly, Tim",22,6,13,35, , , , ,3,12,8,5,4,1,2,15,19, , , ,2,3,84
+2023,24,West Coast,Adelaide,44 ,"Long, Noah",7,2,8,15, , , ,2,1,1,2,3, , , ,6,8, ,1,1, ,1,83
+2023,24,West Coast,Adelaide,41 ,"Maric, Ryan",6,5,3,9, , , ,2,1, , , ,2, , ,2,8, , , , ,1,71
+2023,24,West Coast,Adelaide,20 ,"McGovern, Jeremy",11,5,5,16, , , ,2,4,1, ,1, , , ,5,8,1, ,4, , ,85
+2023,24,West Coast,Adelaide,10 ,"Petrevski-Seton, Sam",6,3,12,18, , , ,3,2, , ,3,1, , ,6,12, , ,1, ,1,61
+2023,24,West Coast,Adelaide,21 ,"Petruccelle, Jack",4,3,6,10, ,1, ,2, ,1, , , , , ,2,8, , , , , ,66
+2023,24,West Coast,Adelaide,35 ,"Rotham, Josh",7,5,3,10, , ,3,3,1,1, ,3,1,2, ,3,8, , ,6, , ,82
+2023,24,West Coast,Adelaide,13 ,"Shuey, Luke",18,4,7,25,1, , ,4,1,6,5,5,2,1, ,10,16, , ,1,2, ,64
+2023,24,West Coast,Adelaide,32 ,"Williams, Bailey",5,3,5,10, ,2,25,2, ,2,4,4,2,2, ,9,1,2,2,4, , ,84
+2023,24,West Coast,Adelaide,34 ,"Williams, Jack",2,1,2,4,1, , ,2, ,1,1,1, ,1, ,2,2, ,1,2, , ,68
+2023,24,West Coast,Adelaide,23 ,"Witherden, Alex",11,5,4,15, , , ,1,5, , , , , , ,2,7, , ,3, , ,90

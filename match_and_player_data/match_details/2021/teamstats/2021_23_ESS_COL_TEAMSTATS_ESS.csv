@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2021,23,Essendon,Collingwood,37 ,"Clarke, Dylan",6,4,8,14, , , ,2, ,3,1,2,1, , ,3,13, , ,2, , ,79
+2021,23,Essendon,Collingwood,13 ,"Cox, Nik", , , , , , , , , , , , , , , , , , , , , , , 
+2021,23,Essendon,Collingwood,12 ,"Cutler, Tom",18,9,6,24, , , , ,3,2, ,1,1, , ,5,16, , , ,1,2,85
+2021,23,Essendon,Collingwood,2 ,"Draper, Sam",6,1,1,7, , ,20,1,1,2,4,4,2,3, ,6, ,1, ,1, , ,79
+2021,23,Essendon,Collingwood,42 ,"Durham, Sam",4,4,6,10, , , ,2, ,3, ,1,1,1, ,3,8, , ,1,1, ,73
+2021,23,Essendon,Collingwood,10 ,"Francis, Aaron",6,5,3,9, ,1,1, , ,4, ,2, , , ,2,7,1, ,5, ,2,81
+2021,23,Essendon,Collingwood,35 ,"Guelfi, Matt",14,4,6,20, ,1, ,2, ,6,1,6,2,2, ,9,11,1,1,2, , ,70
+2021,23,Essendon,Collingwood,21 ,"Heppell, Dyson",13,8,9,22, , , ,5,2,4, , ,2, , ,3,20, , , , ,1,78
+2021,23,Essendon,Collingwood,19 ,"Hind, Nick",22,8,1,23, , , ,2,4,4, ,2, , , ,2,20, , ,3,2,1,88
+2021,23,Essendon,Collingwood,15 ,"Laverde, Jayden",11,6,7,18, , , ,1,4,1,1,2,2,1, ,5,12, , ,2, , ,92
+2021,23,Essendon,Collingwood,1 ,"McGrath, Andrew",11,4,10,21, , , ,2,2,1, , ,1, , ,3,18, , , , ,1,83
+2021,23,Essendon,Collingwood,7 ,"Merrett, Zach",9,4,18,27, , , ,4,1,1,3,3,2,1, ,11,18, , ,3,1, ,83
+2021,23,Essendon,Collingwood,3 ,"Parish, Darcy",6,1,15,21, ,1, ,3,2,3,3,1, , , ,7,14, , , , , ,85
+2021,23,Essendon,Collingwood,16 ,"Perkins, Archie",7,3,5,12,1, , ,1, ,3, ,5,1,1, ,5,7,1, ,1,1,1,78
+2021,23,Essendon,Collingwood,27 ,"Redman, Mason",16,10,5,21,2, , ,1,5,3, ,1,1,1, ,3,15,1, ,3,1, ,84
+2021,23,Essendon,Collingwood,14 ,"Ridley, Jordan",16,9,3,19, , , ,1,6, , ,2,1,1, ,1,14, , ,5, , ,88
+2021,23,Essendon,Collingwood,9 ,"Shiel, Dylan",7,5,14,21, , , ,3, ,1,4,2, ,1, ,5,16, , ,1, , ,74
+2021,23,Essendon,Collingwood,5 ,"Smith, Devon",14,7,9,23,2,2, ,4, ,2,2,1, , ,3,6,17,1,4,1,2,4,83
+2021,23,Essendon,Collingwood,40 ,"Snelling, Will",5,4,9,14,1, , ,6, , ,1,3,2,1, ,6,10, ,2, , , ,85
+2021,23,Essendon,Collingwood,17 ,"Stewart, James",9,6,6,15, , , ,1,5,2, ,2, , , ,5,10,1, ,2, , ,85
+2021,23,Essendon,Collingwood,25 ,"Stringer, Jake",17,6,7,24,2,1, ,1,1,6,6,4, ,1, ,10,16,1,3,4, ,1,84
+2021,23,Essendon,Collingwood,45 ,"Waterman, Alec",7,5,6,13,4, , ,2, ,2, ,2,1, ,1,6,6,2,2, , , ,75
+2021,23,Essendon,Collingwood,20 ,"Wright, Peter",9,8,4,13,4, ,3,1, ,1, ,5, , ,2,6,8,4,5,4,1, ,87

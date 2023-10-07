@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2005,14,Adelaide,Fremantle,8 ,"Bassett, Nathan",6,7,8,14, , , ,1,2, , , ,1, , ,4,9,3, ,6,8, ,100
+2005,14,Adelaide,Fremantle,35 ,"Biglands, Rhett",5,3,4,9, , ,13,2,1,3,1,4, ,2, ,2,6, , , , , ,48
+2005,14,Adelaide,Fremantle,44 ,"Bock, Nathan",9,3,4,13, , , , ,3, , ,2, ,2, ,2,11,2, ,4, , ,88
+2005,14,Adelaide,Fremantle,24 ,"Burton, Brett",11,4,9,20, ,1, ,1, ,4,3,3, ,1, ,8,13,1,1,2,1,2,98
+2005,14,Adelaide,Fremantle,11 ,"Doughty, Michael",3,2,5,8, , , , , , ,1,1, , , ,4,3, , ,2, , ,36
+2005,14,Adelaide,Fremantle,9 ,"Edwards, Tyson",16,9,13,29,2, , ,4,1,4, ,5, ,1,2,6,23, ,3, , ,2,100
+2005,14,Adelaide,Fremantle,36 ,"Goodwin, Simon",13,4,10,23, , ,1,2,3,5,3,4,1,2, ,7,16, , ,1,4,1,85
+2005,14,Adelaide,Fremantle,34 ,"Hart, Ben",12,4,4,16, , , ,6,3,2, ,3,1,1, ,7,9,1, ,3,1,1,100
+2005,14,Adelaide,Fremantle,37 ,"Hentschel, Trent",7,4,3,10,2, , ,2,1,1, ,4, ,2, ,2,8, ,1,1,3, ,85
+2005,14,Adelaide,Fremantle,13 ,"Hudson, Ben",2,4,7,9, , ,7,1, ,1,2,3,1,2, ,4,5, , ,2, , ,60
+2005,14,Adelaide,Fremantle,39 ,"Mattner, Martin",8,3,8,16, , , ,5, ,3,1,1,1, , ,4,13, , ,5,1, ,96
+2005,14,Adelaide,Fremantle,16 ,"McGregor, Ken",6,5,8,14,2, , ,3, ,2,1,4,3,3, ,9,6,2,2,1, , ,99
+2005,14,Adelaide,Fremantle,23 ,"McLeod, Andrew",16,6,3,19,1,1, ,3,2,8,1,1,1,1, ,5,15, , ,2,7,1,100
+2005,14,Adelaide,Fremantle,22 ,"Perrie, Ian",12,9,4,16,2,3,1,1, ,4, ,2,1, , ,6,11,1,4,2, , ,92
+2005,14,Adelaide,Fremantle,33 ,"Reilly, Brent",11,7,3,14, , , ,1, ,7,2,4, ,1, ,2,12, ,2,1,2, ,48
+2005,14,Adelaide,Fremantle,32 ,"Ricciuto, Mark",11,8,11,22, , , ,2, ,3,3,1, ,1, ,4,18, , , ,1,1,68
+2005,14,Adelaide,Fremantle,25 ,"Rutten, Ben",7,6,5,12, , , ,1,4,1, ,2, ,1, ,5,7,1,1,2,3, ,100
+2005,14,Adelaide,Fremantle,12 ,"Shirley, Robert",7,1,9,16,2,1, ,5,1,1,5,2, , , ,8,7, , ,2, , ,67
+2005,14,Adelaide,Fremantle,14 ,"Skipworth, Hayden",4,2,7,11, ,1, ,1, ,1,1,2,1,1, ,3,8, ,1, , , ,45
+2005,14,Adelaide,Fremantle,5 ,"Thompson, Scott",9,4,8,17, , , ,3, ,2,4,2,1,1, ,7,11, ,1,1, , ,95
+2005,14,Adelaide,Fremantle,7 ,"van Berlo, Nathan",13,3,3,16, , , ,1,1,5,2,5,1,2, ,2,13, , ,2, , ,90
+2005,14,Adelaide,Fremantle,17 ,"Welsh, Scott",5,4,1,6,3, , ,2, ,1, ,1, ,1, ,2,5,1,3,1, , ,100

@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2019,13,Richmond,Adelaide,48 ,"Baker, Liam",6,1,10,16, ,1, ,7, ,2,2,2,2,1, ,6,10, , , , , ,70
+2019,13,Richmond,Adelaide,38 ,"Balta, Noah", , ,7,7, , ,9,4,1,1,1,1,1,1, ,6,2, , ,2, , ,63
+2019,13,Richmond,Adelaide,35 ,"Broad, Nathan",9,3,4,13, , , ,3,3, , ,1,2, , ,4,8, , ,1, , ,88
+2019,13,Richmond,Adelaide,7 ,"Butler, Dan",6,3,5,11,1,2, , ,1,1, ,1, ,1, ,4,8,1,2, , ,1,91
+2019,13,Richmond,Adelaide,22 ,"Caddy, Josh",7,3,3,10,1, , ,4,1,1,2,1, ,1, ,4,4,1,1,1, , ,88
+2019,13,Richmond,Adelaide,11 ,"Castagna, Jason",10,5,4,14, ,1, ,5, ,5,1,4,1,1, ,6,7, , ,1, , ,88
+2019,13,Richmond,Adelaide,41 ,"Chol, Mabior",6,2,2,8,1,1,13,2,1,1, ,1, , , ,6,1,1, ,6, , ,70
+2019,13,Richmond,Adelaide,5 ,"Ellis, Brandon",15,7,8,23, , , ,4,5,2,2,3, ,1, ,6,17,1, ,3, , ,87
+2019,13,Richmond,Adelaide,42 ,"Garthwaite, Ryan",8,5,5,13, , , ,4,3, , ,2, , , ,1,12, , ,8, , ,98
+2019,13,Richmond,Adelaide,34 ,"Graham, Jack",8,3,15,23, , , ,11,1,2,6,4, ,2, ,11,13, , ,1, , ,79
+2019,13,Richmond,Adelaide,2 ,"Grimes, Dylan",6,8,7,13, , , ,3,3,1, ,6,1,4, ,8,7,2, ,9,1,1,89
+2019,13,Richmond,Adelaide,13 ,"Higgins, Jack",5, ,9,14, , , ,7, ,5, ,3, , , ,5,9, , , , ,1,76
+2019,13,Richmond,Adelaide,14 ,"Houli, Bachar",11,6,12,23, , , ,4,4,1, ,2, ,1, ,2,18, , , ,2, ,81
+2019,13,Richmond,Adelaide,19 ,"Lynch, Tom",10,8,1,11,2,1, ,1, ,3, ,5, ,3, ,7,4,5,4,3, ,2,96
+2019,13,Richmond,Adelaide,4 ,"Martin, Dustin",21,9,11,32,2, , ,4,5,5,3,5, , ,1,7,23, , , , , ,88
+2019,13,Richmond,Adelaide,33 ,"McIntosh, Kamdyn",6,2,5,11, , , ,3, ,2,1,2, , , ,5,6, , , , ,1,75
+2019,13,Richmond,Adelaide,37 ,"Menadue, Connor",9,2,2,11, , , ,3,4, ,1,2,1, , ,4,7, , ,5,2, ,77
+2019,13,Richmond,Adelaide,45 ,"Naish, Patrick",10,4,9,19, , , ,2,5,3,1, , , , ,4,15, , , , , ,60
+2019,13,Richmond,Adelaide,3 ,"Prestia, Dion",20,7,9,29, ,2, ,8,2,4,3,5, ,1, ,8,18, , ,2, , ,86
+2019,13,Richmond,Adelaide,17 ,"Rioli, Daniel",6,3,5,11,2, , ,2, ,3, , ,1, , ,2,9, ,1, , , ,84
+2019,13,Richmond,Adelaide,44 ,"Stack, Sydney",12,6,10,22, ,2, ,4,1,5, , , , , ,7,15,1, ,3, , ,76
+2019,13,Richmond,Adelaide,1 ,"Vlastuin, Nick",10,6,14,24, , , ,4,4,1,1,7,2, , ,8,14,2, ,8, , ,88

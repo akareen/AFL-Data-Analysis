@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2023,7,St Kilda,Port Adelaide,26 ,"Battle, Josh",6,3,2,8, , , , ,2,1, ,2,2,1, ,4,3,1, ,5, , ,92
+2023,7,St Kilda,Port Adelaide,16 ,"Butler, Dan",3,3,3,6,1, , ,4, ,1, ,1,1,1, ,4,4,1,1,2, , ,76
+2023,7,St Kilda,Port Adelaide,13 ,"Byrnes, Ryan",9,5,8,17, , , ,3, ,3,1,1, , , ,1,16, , , , , ,78
+2023,7,St Kilda,Port Adelaide,11 ,"Clark, Hunter",15,4,8,23,1, , ,3,1,7,4,4,2,1, ,11,12, , ,1, , ,62
+2023,7,St Kilda,Port Adelaide,21 ↓,"Cordy, Zaine",1,1, ,1,1, ,3, , , , , , , , , ,1, ,1, , , ,50
+2023,7,St Kilda,Port Adelaide,5 ,"Crouch, Brad",11,1,13,24, ,1, ,4,1,2,8,5,1,1, ,16,10, , ,2, , ,73
+2023,7,St Kilda,Port Adelaide,4 ,"Gresham, Jade",13,7,8,21,2,1, ,3, ,5,1,1, , , ,6,14, ,1, , ,1,87
+2023,7,St Kilda,Port Adelaide,22 ,"Higgins, Jack",7,3,7,14,1,1, , , ,2, ,5,1,2, ,7,9, ,2,1,1,1,84
+2023,7,St Kilda,Port Adelaide,8 ,"Hill, Bradley",10,6,8,18, , , ,3,1,1,1,3, , , ,4,14, ,1,2,1,1,87
+2023,7,St Kilda,Port Adelaide,20 ,"Howard, Dougal",7,3,3,10, , , ,1,1, , , , , , , ,8, , ,7, , ,100
+2023,7,St Kilda,Port Adelaide,19 ,"Marshall, Rowan",19,6,7,26, ,1,28,10,4,2,3,2,4,1,1,13,11,2, ,4, , ,84
+2023,7,St Kilda,Port Adelaide,28 ,"Membrey, Tim",9,5,3,12,1,1, , , ,4, , ,1, , ,4,8, ,1,1, , ,84
+2023,7,St Kilda,Port Adelaide,10 ,"Owens, Mitch",8,3,7,15,2, ,7,1,1,3,2,5,3,1, ,13,5,2,1,3, , ,83
+2023,7,St Kilda,Port Adelaide,33 ,"Paton, Ben",13,7,5,18, , , ,2,2,2, ,3,3, , ,3,15, , ,1,1, ,87
+2023,7,St Kilda,Port Adelaide,25 ,"Phillipou, Mattaes",2,2,10,12, , , ,1, ,2, ,6,1,2, ,2,11, , , , ,1,72
+2023,7,St Kilda,Port Adelaide,6 ,"Ross, Sebastian",13,1,14,27, , , ,2,1,4,5,4,1, , ,10,16, , ,2,1,1,84
+2023,7,St Kilda,Port Adelaide,35 ,"Sinclair, Jack",22,3,11,33, ,1, ,5,7,4,3,4,1, , ,10,14, , ,3, , ,76
+2023,7,St Kilda,Port Adelaide,9 ,"Steele, Jack",10,5,18,28,1,1, ,11,2,1,5,6,2,2,2,15,15, ,1, ,1, ,82
+2023,7,St Kilda,Port Adelaide,14 ,"Stocker, Liam",12,7,3,15, , , ,1,3,1,1,3,1,1, ,7,10,1, ,5, , ,82
+2023,7,St Kilda,Port Adelaide,7 ,"Wanganeen-Milera, Nasiah",16,8,4,20, , , ,5,6,2, ,3,1, , ,6,12, , ,1, , ,67
+2023,7,St Kilda,Port Adelaide,44 ,"Wilkie, Callum",15,9,7,22, , , ,2,4,2, ,2, ,1, ,5,16, , ,5,2,1,94
+2023,7,St Kilda,Port Adelaide,17 ↑,"Windhager, Marcus",1,1,3,4, , , ,2, ,1, , , , , ,2,2, , ,1, ,1,28
+2023,7,St Kilda,Port Adelaide,32 ,"Wood, Mason",16,2,2,18,1, , ,4,1,4,3,3,3, , ,11,7,1, ,4, ,2,86

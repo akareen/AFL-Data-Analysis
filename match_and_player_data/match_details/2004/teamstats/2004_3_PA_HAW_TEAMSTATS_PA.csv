@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2004,3,Port Adelaide,Hawthorn,19 ,"Bishop, Matthew",7,3,3,10, , , ,3,4,3, , ,1, , ,1,10, , ,2,2,1,100
+2004,3,Port Adelaide,Hawthorn,20 ,"Brogan, Dean",8,8,4,12,2, ,12,2, ,3,1,3,1,3, ,4,8,1,2,2, ,1,100
+2004,3,Port Adelaide,Hawthorn,7 ,"Burgoyne, Peter",17,5,11,28,2, , ,3,3,3,3,2, , ,2,6,21, ,1,1,3, ,91
+2004,3,Port Adelaide,Hawthorn,8 ,"Burgoyne, Shaun",9,6,6,15,2,1, ,2, ,2, , ,1, , ,6,8,1,2, , ,1,100
+2004,3,Port Adelaide,Hawthorn,9 ,"Carr, Josh",11,1,6,17,1, ,1,3,2,3,7,1,2,1, ,10,7, , ,1, , ,88
+2004,3,Port Adelaide,Hawthorn,25 ,"Cassisi, Domenic",6,3,4,10, ,2, ,1,1,1,3, ,1, , ,8,3,1,1,3, ,1,100
+2004,3,Port Adelaide,Hawthorn,26 ,"Cochrane, Stuart",8,5,8,16, , ,1, ,1,4,1,2, ,2, ,2,13, , ,4, ,1,77
+2004,3,Port Adelaide,Hawthorn,35 ,"Cornes, Chad",19,8,5,24, , , ,1,11,1, ,5,2,2,3,14,11,3, ,2,1,1,100
+2004,3,Port Adelaide,Hawthorn,18 ,"Cornes, Kane",10,5,5,15, , , ,1, ,5,1,1, ,1, ,3,12, , , ,3, ,89
+2004,3,Port Adelaide,Hawthorn,17 ,"Dew, Stuart",7,2,2,9,2,3, , , ,3,1, , , , ,3,6, ,1,2, ,1,61
+2004,3,Port Adelaide,Hawthorn,33 ,"Ebert, Brett",10,6,4,14,2, , , , ,5,1,1,2, , ,6,8, ,1,1, , ,54
+2004,3,Port Adelaide,Hawthorn,29 ,"Kingsley, Adam",12,5,6,18,1,1, ,1,2,6,5,1,2, , ,7,12, ,1,2,1,1,68
+2004,3,Port Adelaide,Hawthorn,3 ,"Montgomery, Brett",7,7,11,18,2, ,1, ,2,3,1, ,3, , ,5,13,1, ,3,6, ,86
+2004,3,Port Adelaide,Hawthorn,27 ,"Poulton, Jared",9,1,3,12,1, , ,1,4, ,1, , , , ,7,5,1, , , , ,49
+2004,3,Port Adelaide,Hawthorn,1 ,"Primus, Matthew",7,5,5,12,4,1,11,5, ,2,2,4,2,3, ,5,7, ,4, , , ,63
+2004,3,Port Adelaide,Hawthorn,31 ,"Salopek, Steven",9,5,3,12,1, , ,2,3,1,2,2, ,1, ,5,7, ,1,1,1,1,54
+2004,3,Port Adelaide,Hawthorn,6 ,"Schofield, Jarrad",10,2,7,17, , , ,2,5,3,3,2, , , ,7,10, ,1, , ,2,83
+2004,3,Port Adelaide,Hawthorn,28 ,"Thurstans, Toby",5,6,5,10, , ,2,6, ,3, ,1, , , ,2,8,1, , , , ,78
+2004,3,Port Adelaide,Hawthorn,16 ,"Tredrea, Warren",16,9,5,21,4,3, , , ,4, ,3,3, ,1,12,9,2,5, , ,3,100
+2004,3,Port Adelaide,Hawthorn,2 ,"Wakelin, Darryl",6,3,1,7, , , , ,1,1, ,2,1,1, ,2,5, , ,4,5, ,100
+2004,3,Port Adelaide,Hawthorn,4 ,"Wanganeen, Gavin",15,9,11,26,1, , , ,2,3, ,2,3, , ,6,20, ,2,2,8, ,100
+2004,3,Port Adelaide,Hawthorn,21 ,"Wilson, Michael",9,2,4,13,1, ,2,4, ,1,2,2,1,2, ,3,7, , ,1, , ,58

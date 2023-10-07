@@ -1,0 +1,37 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Western Bulldogs,2014,1,Geelong,16,L,43,2,,3,5,,,1,3,,1,1,,,,,4,1,,,2,,,83
+Western Bulldogs,2014,2,Gold Coast,17,W,43,4,3,5,9,1,,3,2,,,1,2,,1,,2,8,,2,1,,,94
+Western Bulldogs,2014,3,Essendon,18,L,43,3,3,3,6,1,,5,,,1,,,,,,2,4,,1,1,,1,90
+Western Bulldogs,2015,4,West Coast,1,W,43,4,1,1,5,1,,1,,,1,1,2,1,1,,2,3,,,2,,,69
+Western Bulldogs,2015,5,Carlton,14,W,43,8,7,1,9,,1,1,3,,1,,1,,,,3,6,3,1,,,,95
+Western Bulldogs,2015,6,Gold Coast,15,W,43,7,4,1,8,3,2,,1,,1,,5,1,2,,5,4,3,3,1,,,90
+Western Bulldogs,2015,7,Geelong,16,L,43,6,5,1,7,1,1,2,10,,2,,,,,,3,4,2,2,2,,,97
+Western Bulldogs,2015,8,Collingwood,17,W,43,7,4,3,10,1,2,3,1,,1,1,4,2,4,,6,5,,3,1,,1,94
+Western Bulldogs,2015,9,Essendon,18,W,43,10,5,3,13,,2,3,2,1,1,1,,3,,,4,10,,2,3,,,95
+Western Bulldogs,2015,10,Port Adelaide,19,W,43,10,9,3,13,4,,3,4,1,4,1,1,1,1,,6,8,3,5,2,,,91
+Western Bulldogs,2015,11,Melbourne,20,W,43,7,2,1,8,2,,4,1,,2,,2,,1,,2,6,,2,2,,3,91
+Western Bulldogs,2015,12,West Coast,21,L,43,6,2,4,10,2,1,8,3,,3,1,5,1,5,,5,4,1,2,2,,1,94
+Western Bulldogs,2015,13,North Melbourne,22,W,43,1,2,4,5,,,4,,,1,,3,,2,,3,4,1,,2,,,94
+Western Bulldogs,2015,14,Brisbane Lions,23,L,43,8,3,5,13,3,,10,2,,1,2,,1,,,9,3,2,1,,,,91
+Western Bulldogs,2015,15,Adelaide,EF,L,43,6,6,1,7,2,,4,3,,4,,,,,,2,5,2,2,2,,,94
+Western Bulldogs,2016,16,Adelaide,7,W,43,8,6,3,11,3,1,,4,,2,,1,1,,,5,7,2,3,,,,86
+Western Bulldogs,2016,17,Melbourne,8,W,43,11,11,3,14,3,1,,2,,1,1,4,1,1,,9,8,5,7,2,,1,82
+Western Bulldogs,2016,18,Collingwood,10,W,43,12,9,5,17,2,,,2,,4,,3,,,,4,14,1,2,,,2,86
+Western Bulldogs,2016,19,West Coast,11,W,43,9,7,2,11,2,2,,1,,3,,1,1,,,6,5,3,3,1,,,85
+Western Bulldogs,2016,20,Port Adelaide,12,W,43,7,7,2,9,4,,,2,,2,,6,,1,,3,6,2,4,1,,1,83
+Western Bulldogs,2016,21,Geelong,13,L,43,4,2,2,6,1,,,1,,,,3,1,1,,3,3,,,,,,84
+Western Bulldogs,2016,22,Sydney,15,W,43,6,3,1,7,1,1,1,,,,,2,,,,2,6,,1,2,,,83
+Western Bulldogs,2016,23,Richmond,16,W,43,10,5,4,14,2,1,4,2,,3,2,,1,,,5,8,1,2,1,,,89
+Western Bulldogs,2016,24,Gold Coast,17,W,43,11,8,2,13,1,4,,,,2,,,1,,,2,10,1,5,1,,,87
+Western Bulldogs,2016,25,St Kilda,18,L,43,1,,3,4,1,,2,2,,,,3,1,2,,2,2,,,,,,63
+Western Bulldogs,2017,26,West Coast,8,L,43,12,10,1,13,3,1,,1,,3,,1,,1,,3,11,2,4,,,,85
+Western Bulldogs,2017,27,Geelong,9,L,43,6,4,1,7,2,1,,1,,2,,2,,2,,1,6,,2,4,,1,80
+Western Bulldogs,2017,28,North Melbourne,14,W,43,9,7,,9,2,1,,1,,2,,2,1,1,,3,6,2,2,1,,,79
+Western Bulldogs,2017,29,West Coast,15,L,43,14,9,3,17,2,1,3,2,1,4,1,4,,,,4,11,1,4,1,,2,90
+Western Bulldogs,2017,30,Adelaide,16,L,43,8,5,4,12,1,3,1,3,,,,3,1,1,,3,8,,4,,,,80
+Western Bulldogs,2017,31,Carlton,17,W,43,3,2,3,6,,,1,1,,2,,3,,2,,2,4,,,1,,1,81
+Western Bulldogs,2017,32,Gold Coast,18,W,43,13,11,5,18,1,1,1,1,,5,1,4,1,,,6,13,2,2,2,,1,83
+Western Bulldogs,2017,33,Brisbane Lions,20,W,43,11,9,1,12,3,4,,,,2,,4,,1,,1,10,1,7,1,,,84
+Western Bulldogs,2017,34,Greater Western Sydney,21,L,43,5,4,1,6,1,1,,1,,1,,2,,,,1,5,,2,1,,,84
+Western Bulldogs,2018,35,Essendon,3,W,43,7,6,3,10,,,,,1,,,2,,1,,2,8,,,1,,,75
+Western Bulldogs,2018,36,Sydney,4,L,43,8,7,1,9,1,,,,2,3,,1,1,1,,2,7,1,1,1,,,82

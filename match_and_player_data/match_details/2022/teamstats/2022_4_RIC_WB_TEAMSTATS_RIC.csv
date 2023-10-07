@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2022,4,Richmond,Western Bulldogs,7 ,"Baker, Liam",10,5,7,17, ,1, , ,1,5, ,2,2, , ,4,13, , ,4, ,1,82
+2022,4,Richmond,Western Bulldogs,21 ,"Balta, Noah",6,3,2,8, , ,8,2,1,3,3,1,1, , ,5,5,1,2,3,1, ,82
+2022,4,Richmond,Western Bulldogs,29 ,"Bolton, Shai",13,4,7,20,2,3, , , ,4,5,3,1,1,1,13,7,1,2,2, , ,87
+2022,4,Richmond,Western Bulldogs,35 ,"Broad, Nathan",17,9,5,22, , , ,1,5,1, ,2, ,1, ,2,20,1, ,1, , ,97
+2022,4,Richmond,Western Bulldogs,11 ,"Castagna, Jason",12,8,6,18,1,1, ,2,2,4, ,4, ,1, ,5,11, , , ,1, ,82
+2022,4,Richmond,Western Bulldogs,9 ,"Cotchin, Trent",7,2,9,16, , , , , ,3,3,4, ,2, ,12,6, , ,4, ,1,72
+2022,4,Richmond,Western Bulldogs,27 ,"Dow, Thomson",7,2,8,15,1, , ,7,1,2,2,1,1, , ,7,8, , ,2, , ,76
+2022,4,Richmond,Western Bulldogs,10 ,"Edwards, Shane",3, ,10,13, , , ,3,1,1,5,3, ,1, ,6,8, , ,1, , ,80
+2022,4,Richmond,Western Bulldogs,28 ,"Gibcus, Josh",8,4,3,11, , , , ,5, , ,3, , , ,2,10, , ,6, , ,78
+2022,4,Richmond,Western Bulldogs,34 ,"Graham, Jack",6,2,6,12, , , ,5,1, , ,2,2,1, ,5,7, , , , , ,79
+2022,4,Richmond,Western Bulldogs,19 ,"Lynch, Tom",7,5,2,9,4, , ,3, ,2, ,4, ,4, ,7,3,4,2,3, , ,92
+2022,4,Richmond,Western Bulldogs,33 ,"McIntosh, Kamdyn",15,8,5,20, , , ,1,5,5,1,4, ,1, ,6,15, , ,3,1, ,84
+2022,4,Richmond,Western Bulldogs,46 ,"Miller, Ben",2,2,7,9, , , ,4,1, , ,2, ,1, ,4,5, , ,9, , ,93
+2022,4,Richmond,Western Bulldogs,25 ,"Nankervis, Toby",6,3,6,12,1, ,26,6, ,1,2,3,3,2, ,5,7, , ,2, , ,77
+2022,4,Richmond,Western Bulldogs,37 ,"Parker, Matthew",5,2,6,11,1,1, ,2,2,2, ,2,1,1, ,5,6, , , , , ,87
+2022,4,Richmond,Western Bulldogs,50 ,"Pickett, Marlion",14,7,6,20,1, , ,1,4,2, ,3,1,1, ,8,11,2,1, , , ,79
+2022,4,Richmond,Western Bulldogs,3 ,"Prestia, Dion",15,7,15,30,1, , ,3,1,2,1,3, , ,3,9,21, , ,1, ,2,69
+2022,4,Richmond,Western Bulldogs,45 ,"Ralphsmith, Hugo",9,7,10,19, , , ,1,6, , ,4, ,2, ,6,12, , ,4, , ,84
+2022,4,Richmond,Western Bulldogs,8 ,"Riewoldt, Jack",10,7,2,12,2,2,2,1, ,3,1,10,1,4, ,8,6,3,4,2, ,1,72
+2022,4,Richmond,Western Bulldogs,17 ,"Rioli, Daniel",19,8,6,25, , , ,2,6, , ,2,1, , ,5,16,1, ,2, , ,73
+2022,4,Richmond,Western Bulldogs,5 ,"Ross, Jack", , , , , , , , , , , , , , , , , , , , , , , 
+2022,4,Richmond,Western Bulldogs,15 ,"Short, Jayden",29,6,6,35,1, , ,1,3,7, ,4,1,1,2,5,23, , ,2,1, ,80
+2022,4,Richmond,Western Bulldogs,6 ,"Tarrant, Robbie",10,6,3,13, , , ,1,5,1,2,3, ,1, ,7,7, , ,4, , ,94

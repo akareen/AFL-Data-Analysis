@@ -1,0 +1,4 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+St Kilda,1965,1,North Melbourne,6,W,37,11,1,2,13,,,,,,,,,1,1,,,,,,,,,
+St Kilda,1965,2,Fitzroy,7,W,37,10,1,1,11,1,,,,,,,,1,2,,,,,,,,,
+St Kilda,1965,3,Geelong,8,L,37,6,1,1,7,,,,,,,,,,,,,,,,,,,

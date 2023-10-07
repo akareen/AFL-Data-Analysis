@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2005,9,Hawthorn,Fremantle,10 ,"Bateman, Chance",16,3,5,21,2, , ,2,2,3,1, ,2, , ,8,14,1, ,2,7,1,82
+2005,9,Hawthorn,Fremantle,17 ,"Brennan, Luke",11,6,8,19,2,2, ,2, ,2, ,3, , , ,6,12,1,1,2, ,2,82
+2005,9,Hawthorn,Fremantle,30 ,"Brown, Campbell",6,1,4,10, ,1, ,2,1,2,2, ,1, , ,3,6, , ,1, , ,100
+2005,9,Hawthorn,Fremantle,25 ,"Clarke, Tim",14,5,7,21,1, , ,4, ,1,4,2,1,1, ,6,14, , ,1, ,1,100
+2005,9,Hawthorn,Fremantle,9 ,"Crawford, Shane",18,6,12,30,2, , ,7,3,2,3,1,2, ,3,6,24, , ,3,1, ,97
+2005,9,Hawthorn,Fremantle,24 ,"Croad, Trent",2,1,4,6, , , ,1, ,1, ,3, ,2, ,2,4, , ,1, , ,51
+2005,9,Hawthorn,Fremantle,19 ,"Dixon, Ben",13,7,3,16,3,2, ,2,1,4,1, ,1, , ,5,10,1,4,2,1,2,98
+2005,9,Hawthorn,Fremantle,1 ,"Everitt, Peter",16,7,6,22, ,3,22,1,2,2,6,3,1,1,1,8,13, ,2,2, , ,94
+2005,9,Hawthorn,Fremantle,38 ,"Franklin, Lance",8,3,3,11, ,1, ,3,1,2,1,4, ,3, ,4,7, , ,2,1,1,68
+2005,9,Hawthorn,Fremantle,29 ,"Greene, Steven",13,8,8,21, , , ,3,2,3,2,2,1,2, ,6,15, , , , , ,73
+2005,9,Hawthorn,Fremantle,3 ,"Hay, Jonathan",2,1,4,6, , , ,2, , , , , , , ,2,4, , ,5, , ,98
+2005,9,Hawthorn,Fremantle,15 ,"Hodge, Luke",19,9,11,30, ,1,1,3,8,5,7,6,3,1, ,13,16, , ,3,2, ,91
+2005,9,Hawthorn,Fremantle,8 ,"Jacobs, Danny",12,8,4,16, , , , ,3, , ,1, , , ,3,13,1, ,3, , ,95
+2005,9,Hawthorn,Fremantle,18 ,"Ladson, Rick",11,8,8,19,2, , , ,1,3,1, , , , ,5,15, ,2, , , ,69
+2005,9,Hawthorn,Fremantle,40 ,"Lewis, Jordan",6,6,8,14,1, , ,1,1, , ,1, , , ,5,9,1,1,1, , ,64
+2005,9,Hawthorn,Fremantle,5 ,"Mitchell, Sam",7,6,22,29, , , ,3,1,3,6,4, ,3,2,12,17, , ,3,2,1,90
+2005,9,Hawthorn,Fremantle,7 ,"Osborne, Michael",11,2,3,14, , , ,1,5,2,1, ,1, , ,8,6, , ,1,3, ,80
+2005,9,Hawthorn,Fremantle,35 ,"Roughead, Jarryd",3,1, ,3, ,1, , , ,1, , ,1, , ,1,2, ,1,2, , ,49
+2005,9,Hawthorn,Fremantle,11 ,"Smith, Joel",12,6,8,20, ,1, ,1,2,2,1,2, , , ,4,16, ,1,3, ,1,96
+2005,9,Hawthorn,Fremantle,43 ,"Taylor, Simon",3,3,5,8, , ,5,3, , ,1, , , , ,3,5, ,1,3, ,1,38
+2005,9,Hawthorn,Fremantle,21 ,"Vandenberg, Richard",5,2,7,12, , , ,3, ,3,1,4, ,3, ,1,11, , , , ,1,86
+2005,9,Hawthorn,Fremantle,6 ,"Williams, Mark",7,7,2,9,5,2, ,2, ,1, ,1, ,1, ,2,7, ,7, , , ,100

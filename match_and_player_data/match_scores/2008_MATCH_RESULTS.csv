@@ -1,0 +1,186 @@
+year,round,venue,date,attendance,home_team,away_team,home_q1_g,home_q2_g,home_q3_g,home_q4_g,home_q1_b,home_q2_b,home_q3_b,home_q4_b,away_q1_g,away_q2_g,away_q3_g,away_q4_g,away_q1_b,away_q2_b,away_q3_b,away_q4_b,home_total_g,home_total_b,home_total_score,away_total_g,away_total_b,away_total_score,winning_team,margin
+2008,1,M.C.G.,20-03-2008,72552,Carlton,Richmond,4,5,1,1,3,3,4,3,4,4,3,6,3,2,0,2,11,13,79,17,7,109,Richmond,30
+2008,1,Football,20-03-2008,28206,Port Adelaide,Geelong,4,2,4,4,0,1,5,6,6,4,2,3,4,4,3,4,14,12,96,15,15,105,Geelong,9
+2008,1,M.C.G.,22-03-2008,45383,Collingwood,Fremantle,3,4,3,6,3,3,4,5,3,4,3,3,1,1,2,3,16,15,111,13,7,85,Collingwood,26
+2008,1,Docklands,22-03-2008,36614,St Kilda,Sydney,4,0,2,0,3,3,4,5,1,3,0,2,1,5,4,3,6,15,51,6,13,49,St Kilda,2
+2008,1,Subiaco,22-03-2008,39591,West Coast,Brisbane Lions,6,1,3,4,2,3,2,1,1,3,5,2,2,2,2,4,14,8,92,11,10,76,West Coast,16
+2008,1,Docklands,23-03-2008,24835,Western Bulldogs,Adelaide,5,1,7,6,4,5,0,3,2,5,5,6,1,7,5,2,19,12,126,18,15,123,Western Bulldogs,3
+2008,1,M.C.G.,23-03-2008,40141,Hawthorn,Melbourne,5,2,8,8,5,5,2,4,1,0,1,4,1,4,5,4,23,16,154,6,14,50,Hawthorn,104
+2008,1,Docklands,24-03-2008,48100,North Melbourne,Essendon,4,2,1,2,3,4,2,4,2,6,7,4,0,2,3,3,9,13,67,19,8,122,Essendon,55
+2008,2,Gabba,28-03-2008,33867,Brisbane Lions,Collingwood,3,5,1,4,5,5,4,4,3,4,5,1,3,2,7,4,13,18,96,13,16,94,Brisbane Lions,2
+2008,2,M.C.G.,29-03-2008,27821,Melbourne,Western Bulldogs,2,3,2,2,4,4,1,3,2,7,9,6,5,4,4,4,9,12,66,24,17,161,Western Bulldogs,95
+2008,2,Football,29-03-2008,38162,Adelaide,West Coast,6,4,3,8,4,1,1,1,2,2,3,1,1,3,1,4,21,7,133,8,9,57,Adelaide,76
+2008,2,Docklands,29-03-2008,43396,St Kilda,Carlton,2,6,4,7,5,2,2,2,4,2,0,6,4,2,4,3,19,11,125,12,13,85,St Kilda,40
+2008,2,Subiaco,29-03-2008,38022,Fremantle,Hawthorn,3,1,6,4,2,2,3,6,3,5,3,5,4,3,4,5,14,13,97,16,16,112,Hawthorn,15
+2008,2,S.C.G.,30-03-2008,24761,Sydney,Port Adelaide,6,4,7,5,2,3,5,4,4,2,1,4,1,6,1,4,22,14,146,11,12,78,Sydney,68
+2008,2,Docklands,30-03-2008,50636,Geelong,Essendon,4,7,6,5,4,5,4,5,1,2,1,2,2,4,4,5,22,18,150,6,15,51,Geelong,99
+2008,2,M.C.G.,30-03-2008,39292,Richmond,North Melbourne,3,4,3,3,1,3,3,1,7,4,7,2,4,0,1,2,13,8,86,20,7,127,North Melbourne,41
+2008,3,Docklands,04-04-2008,38667,Western Bulldogs,St Kilda,1,5,5,8,2,4,3,2,7,2,1,3,3,3,2,1,19,11,125,13,9,87,Western Bulldogs,38
+2008,3,Docklands,05-04-2008,39816,North Melbourne,Hawthorn,4,3,5,1,6,1,1,0,1,6,2,6,3,2,4,3,13,8,86,15,12,102,Hawthorn,16
+2008,3,Subiaco,05-04-2008,39027,West Coast,Fremantle,3,2,3,2,5,4,1,3,3,5,2,2,2,3,3,7,10,13,73,12,15,87,Fremantle,14
+2008,3,M.C.G.,05-04-2008,64388,Essendon,Carlton,6,5,6,6,4,4,3,1,5,4,9,3,2,2,2,2,23,12,150,21,8,134,Essendon,16
+2008,3,Gabba,05-04-2008,29061,Brisbane Lions,Sydney,1,4,2,3,2,2,3,4,3,4,3,3,3,1,2,4,10,11,71,13,10,88,Sydney,17
+2008,3,Kardinia,06-04-2008,23570,Geelong,Melbourne,4,4,5,3,4,7,3,2,3,3,4,2,4,2,2,2,16,16,112,12,10,82,Geelong,30
+2008,3,M.C.G.,06-04-2008,70832,Richmond,Collingwood,1,3,5,2,1,4,5,2,5,6,4,3,2,5,2,5,11,12,78,18,14,122,Collingwood,44
+2008,3,Football,06-04-2008,45524,Adelaide,Port Adelaide,2,2,4,4,3,5,3,2,2,2,3,4,3,4,5,1,12,13,85,11,13,79,Adelaide,6
+2008,4,Docklands,11-04-2008,47641,Essendon,Western Bulldogs,1,6,7,0,2,5,5,2,5,5,3,6,4,2,2,6,14,14,98,19,14,128,Western Bulldogs,30
+2008,4,Docklands,12-04-2008,44368,St Kilda,Geelong,4,3,3,3,7,1,3,5,4,6,7,4,0,6,3,1,13,16,94,21,10,136,Geelong,42
+2008,4,M.C.G.,12-04-2008,23427,North Melbourne,Melbourne,4,4,5,5,8,3,4,4,1,2,2,6,0,6,4,3,18,19,127,11,13,79,North Melbourne,48
+2008,4,Stadium,12-04-2008,44235,Sydney,West Coast,4,4,4,4,2,4,2,3,1,1,2,1,2,1,2,10,16,11,107,5,15,45,Sydney,62
+2008,4,Football,12-04-2008,25205,Port Adelaide,Brisbane Lions,6,4,5,1,3,2,2,1,2,2,5,9,2,4,4,6,16,8,104,18,16,124,Brisbane Lions,20
+2008,4,York,13-04-2008,15124,Hawthorn,Adelaide,3,5,6,3,4,1,3,4,2,3,3,2,2,3,2,3,17,12,114,10,10,70,Hawthorn,44
+2008,4,M.C.G.,13-04-2008,77873,Carlton,Collingwood,6,4,2,5,0,2,4,3,3,3,1,6,4,2,3,1,17,9,111,13,10,88,Carlton,23
+2008,4,Subiaco,13-04-2008,37541,Fremantle,Richmond,3,3,2,2,3,4,2,4,5,5,4,6,7,4,2,4,10,13,73,20,17,137,Richmond,64
+2008,5,Docklands,18-04-2008,46792,St Kilda,Essendon,5,7,2,4,3,6,3,3,3,3,6,2,0,1,0,2,18,15,123,14,3,87,St Kilda,36
+2008,5,Kardinia,19-04-2008,24368,Geelong,Sydney,6,1,1,8,2,6,5,5,1,5,1,3,2,5,2,3,16,18,114,10,12,72,Geelong,42
+2008,5,Football,19-04-2008,39554,Adelaide,Fremantle,3,3,2,4,4,2,7,3,1,1,4,4,1,4,4,2,12,16,88,10,11,71,Adelaide,17
+2008,5,M.C.G.,19-04-2008,51990,Collingwood,North Melbourne,2,6,2,5,4,2,5,4,3,2,4,7,4,5,3,4,15,15,105,16,16,112,North Melbourne,7
+2008,5,Gabba,19-04-2008,30019,Brisbane Lions,Hawthorn,5,4,5,3,3,4,4,5,4,6,4,5,5,4,4,3,17,16,118,19,16,130,Hawthorn,12
+2008,5,M.C.G.,20-04-2008,44759,Melbourne,Carlton,1,3,0,5,3,2,4,5,3,7,2,3,3,3,4,1,9,14,68,15,11,101,Carlton,33
+2008,5,Docklands,20-04-2008,37767,Western Bulldogs,Richmond,4,5,3,7,10,1,3,2,4,5,6,5,2,1,5,2,19,16,130,20,10,130,Match drawn,0
+2008,5,Subiaco,20-04-2008,38302,West Coast,Port Adelaide,3,2,4,7,3,1,1,3,2,8,5,4,7,4,0,3,16,8,104,19,14,128,Port Adelaide,24
+2008,6,M.C.G.,25-04-2008,88999,Collingwood,Essendon,5,6,4,8,3,4,5,4,5,1,1,5,2,4,1,2,23,16,154,12,9,81,Collingwood,73
+2008,6,Subiaco,25-04-2008,38022,Fremantle,Geelong,3,5,4,1,6,0,2,2,1,7,0,5,1,3,3,4,13,10,88,13,11,89,Geelong,1
+2008,6,M.C.G.,26-04-2008,41033,Carlton,Adelaide,5,2,2,2,7,4,2,2,3,3,6,4,3,4,4,4,11,15,81,16,15,111,Adelaide,30
+2008,6,Docklands,26-04-2008,29927,Western Bulldogs,West Coast,7,4,8,1,3,3,4,4,4,4,1,2,1,2,1,4,20,14,134,11,8,74,Western Bulldogs,60
+2008,6,Football,26-04-2008,20517,Port Adelaide,St Kilda,3,3,4,2,2,3,2,3,0,3,4,2,2,2,1,2,12,10,82,9,7,61,Port Adelaide,21
+2008,6,Gabba,27-04-2008,22878,Brisbane Lions,Melbourne,3,7,5,4,6,7,4,6,2,3,3,5,1,1,1,4,19,23,137,13,7,85,Brisbane Lions,52
+2008,6,Docklands,27-04-2008,28392,North Melbourne,Sydney,1,2,4,2,2,5,2,1,3,1,2,2,5,2,3,6,9,10,64,8,16,64,Match drawn,0
+2008,6,M.C.G.,27-04-2008,46076,Hawthorn,Richmond,4,2,4,4,7,5,6,4,4,2,5,4,1,0,3,0,14,22,106,15,4,94,Hawthorn,12
+2008,7,Subiaco,02-05-2008,41254,West Coast,Carlton,2,0,6,2,1,6,2,5,2,8,2,5,4,3,1,1,10,14,74,17,9,111,Carlton,37
+2008,7,M.C.G.,03-05-2008,76048,Hawthorn,Collingwood,5,3,6,10,4,2,3,1,2,3,5,3,0,3,5,3,24,10,154,13,11,89,Hawthorn,65
+2008,7,Kardinia,03-05-2008,23388,Geelong,Brisbane Lions,4,3,4,4,1,5,2,7,5,1,4,1,6,2,1,3,15,15,105,11,12,78,Geelong,27
+2008,7,Docklands,03-05-2008,40585,Richmond,St Kilda,4,5,4,3,1,3,4,3,4,3,6,4,4,1,2,1,16,11,107,17,8,110,St Kilda,3
+2008,7,Football,03-05-2008,41898,Adelaide,North Melbourne,1,5,8,1,8,3,0,6,2,2,1,6,2,1,3,2,15,17,107,11,8,74,Adelaide,33
+2008,7,S.C.G.,04-05-2008,29018,Sydney,Western Bulldogs,5,1,4,4,4,1,5,0,3,7,4,4,1,1,0,2,14,10,94,18,4,112,Western Bulldogs,18
+2008,7,M.C.G.,04-05-2008,19423,Melbourne,Fremantle,1,2,5,9,3,5,7,2,5,6,2,2,6,4,7,6,17,17,119,15,23,113,Melbourne,6
+2008,7,Docklands,04-05-2008,28409,Essendon,Port Adelaide,2,6,4,3,1,0,1,2,6,8,5,5,4,6,3,1,15,4,94,24,14,158,Port Adelaide,64
+2008,8,Docklands,16-05-2008,48417,St Kilda,Collingwood,6,3,3,2,3,2,1,4,5,5,4,2,1,2,2,2,14,10,94,16,7,103,Collingwood,9
+2008,8,M.C.G.,17-05-2008,37275,Richmond,Geelong,3,2,1,4,2,2,3,2,2,2,7,3,1,3,8,3,10,9,69,14,15,99,Geelong,30
+2008,8,York,17-05-2008,15682,Hawthorn,Port Adelaide,2,6,7,2,2,5,2,6,7,4,3,1,4,2,2,4,17,15,117,15,12,102,Hawthorn,15
+2008,8,Docklands,17-05-2008,38675,Carlton,Brisbane Lions,2,2,5,3,2,6,6,6,8,3,5,2,3,5,5,4,12,20,92,18,17,125,Brisbane Lions,33
+2008,8,Carrara,17-05-2008,6354,North Melbourne,West Coast,5,2,4,2,2,0,6,3,4,5,1,2,3,2,2,4,13,11,89,12,11,83,North Melbourne,6
+2008,8,Football,18-05-2008,35649,Adelaide,Melbourne,8,4,3,7,1,5,9,3,4,2,1,4,4,1,2,1,22,18,150,11,8,74,Adelaide,76
+2008,8,Stadium,18-05-2008,34904,Sydney,Essendon,4,2,7,8,5,6,4,2,0,4,3,0,2,5,2,1,21,17,143,7,10,52,Sydney,91
+2008,8,Subiaco,18-05-2008,35624,Fremantle,Western Bulldogs,6,3,5,3,2,3,3,1,6,3,2,6,3,1,4,4,17,9,111,17,12,114,Western Bulldogs,3
+2008,9,M.C.G.,23-05-2008,78206,Collingwood,Geelong,6,5,5,4,4,2,2,6,2,1,3,1,2,1,2,1,20,14,134,7,6,48,Collingwood,86
+2008,9,Docklands,24-05-2008,28955,Carlton,Fremantle,4,3,4,3,3,4,3,3,3,4,6,1,1,0,0,3,14,13,97,14,4,88,Carlton,9
+2008,9,Football,24-05-2008,25013,Port Adelaide,Sydney,6,3,2,3,1,4,2,3,8,3,2,3,1,3,5,0,14,10,94,16,9,105,Sydney,11
+2008,9,Subiaco,24-05-2008,35348,West Coast,Adelaide,1,6,3,4,4,1,5,3,0,1,3,1,3,4,5,5,14,13,97,5,17,47,West Coast,50
+2008,9,M.C.G.,24-05-2008,60333,Essendon,Richmond,0,2,6,2,5,1,2,4,5,5,2,4,3,5,2,4,10,12,72,16,14,110,Richmond,38
+2008,9,Gabba,25-05-2008,27566,Brisbane Lions,St Kilda,3,6,8,4,6,4,1,4,2,1,3,8,4,2,2,3,21,15,141,14,11,95,Brisbane Lions,46
+2008,9,M.C.G.,25-05-2008,41341,Melbourne,Hawthorn,4,2,3,3,3,1,1,1,3,1,6,4,3,4,2,4,12,6,78,14,13,97,Hawthorn,19
+2008,9,Docklands,25-05-2008,34971,Western Bulldogs,North Melbourne,5,6,3,2,3,4,3,4,5,2,5,4,3,4,4,6,16,14,110,16,17,113,North Melbourne,3
+2008,10,Football,30-05-2008,41897,Adelaide,Essendon,1,3,3,2,6,1,9,4,3,2,2,3,3,2,1,3,9,20,74,10,9,69,Adelaide,5
+2008,10,M.C.G.,31-05-2008,52968,Collingwood,West Coast,5,7,7,8,5,3,2,1,1,6,1,2,4,2,2,5,27,11,173,10,13,73,Collingwood,100
+2008,10,York,31-05-2008,19378,Hawthorn,Western Bulldogs,2,3,4,3,2,0,0,0,3,5,4,3,2,6,3,5,12,2,74,15,16,106,Western Bulldogs,32
+2008,10,Docklands,31-05-2008,46231,Geelong,Carlton,2,5,6,6,7,3,8,1,2,4,0,6,2,1,1,1,19,19,133,12,5,77,Geelong,56
+2008,10,Gabba,31-05-2008,22118,Brisbane Lions,North Melbourne,4,7,4,3,7,5,5,4,2,4,6,3,2,0,1,5,18,21,129,15,8,98,Brisbane Lions,31
+2008,10,S.C.G.,01-06-2008,26852,Sydney,Richmond,6,7,3,5,4,3,4,2,0,1,3,4,2,4,1,2,21,13,139,8,9,57,Sydney,82
+2008,10,Docklands,01-06-2008,27854,St Kilda,Melbourne,5,5,2,7,4,2,6,3,2,1,0,4,2,2,2,2,19,15,129,7,8,50,St Kilda,79
+2008,10,Subiaco,01-06-2008,34236,Fremantle,Port Adelaide,5,0,4,1,1,6,6,2,2,6,2,6,1,2,2,2,10,15,75,16,7,103,Port Adelaide,28
+2008,11,Docklands,06-06-2008,38373,North Melbourne,Geelong,3,7,5,2,2,2,3,5,7,4,6,2,0,6,1,6,17,12,114,19,13,127,Geelong,13
+2008,11,M.C.G.,07-06-2008,32767,Richmond,Adelaide,6,3,2,3,2,5,2,3,5,2,8,7,3,2,6,3,14,12,96,22,14,146,Adelaide,50
+2008,11,Docklands,07-06-2008,46377,Essendon,Hawthorn,3,5,2,2,3,1,3,0,4,5,6,4,3,2,6,5,12,7,79,19,16,130,Hawthorn,51
+2008,11,Subiaco,07-06-2008,38802,West Coast,Sydney,6,2,0,3,1,6,4,1,0,2,4,6,4,3,2,2,11,12,78,12,11,83,Sydney,5
+2008,11,Gabba,08-06-2008,24506,Brisbane Lions,Fremantle,2,6,3,3,1,4,5,2,2,1,4,3,3,4,2,5,14,12,96,10,14,74,Brisbane Lions,22
+2008,11,Docklands,08-06-2008,38914,St Kilda,Western Bulldogs,3,1,1,6,6,1,2,4,2,5,4,4,0,5,8,3,11,13,79,15,16,106,Western Bulldogs,27
+2008,11,Football,08-06-2008,29240,Port Adelaide,Carlton,3,3,2,0,5,3,4,3,1,1,1,7,4,5,3,3,8,15,63,10,15,75,Carlton,12
+2008,11,M.C.G.,09-06-2008,59548,Melbourne,Collingwood,4,3,4,2,1,3,5,8,3,5,7,2,2,3,3,6,13,17,95,17,14,116,Collingwood,21
+2008,12,Docklands,13-06-2008,33386,Essendon,West Coast,4,3,4,5,6,5,3,3,4,2,3,4,1,5,5,2,16,17,113,13,13,91,Essendon,22
+2008,12,M.C.G.,14-06-2008,39320,Western Bulldogs,Brisbane Lions,2,5,5,7,6,6,3,2,3,2,3,2,2,2,0,4,19,17,131,10,8,68,Western Bulldogs,63
+2008,12,Subiaco,14-06-2008,34105,Fremantle,North Melbourne,5,4,4,5,3,5,3,1,0,3,0,6,4,2,4,3,18,12,120,9,13,67,Fremantle,53
+2008,12,S.C.G.,14-06-2008,25996,Sydney,St Kilda,3,4,5,2,5,4,7,2,2,1,5,1,2,5,2,4,14,18,102,9,13,67,Sydney,35
+2008,12,Football,14-06-2008,44559,Adelaide,Hawthorn,2,3,3,2,4,3,3,2,2,3,3,3,3,2,2,3,10,12,72,11,10,76,Hawthorn,4
+2008,12,Kardinia,15-06-2008,21642,Geelong,Port Adelaide,3,4,6,2,5,4,5,4,2,1,1,3,2,4,0,1,15,18,108,7,7,49,Geelong,59
+2008,12,M.C.G.,15-06-2008,80310,Collingwood,Carlton,1,4,4,3,4,4,5,4,2,1,6,8,7,3,3,4,12,17,89,17,17,119,Carlton,30
+2008,12,Docklands,15-06-2008,27348,Richmond,Melbourne,3,8,2,3,6,7,2,5,5,1,5,3,3,2,3,2,16,20,116,14,10,94,Richmond,22
+2008,13,Docklands,20-06-2008,22440,St Kilda,Fremantle,4,2,3,1,3,0,2,0,2,3,2,1,0,2,4,3,10,5,65,8,9,57,St Kilda,8
+2008,13,M.C.G.,21-06-2008,42508,Hawthorn,North Melbourne,2,3,2,3,3,5,4,4,2,5,3,5,4,4,2,3,10,16,76,15,13,103,North Melbourne,27
+2008,13,Football,21-06-2008,20923,Port Adelaide,Richmond,6,5,3,5,2,4,2,1,9,3,7,1,1,2,3,1,19,9,123,20,7,127,Richmond,4
+2008,13,Gabba,21-06-2008,29964,Brisbane Lions,Adelaide,3,1,3,4,3,4,7,3,2,4,2,2,5,2,3,0,11,17,83,10,10,70,Brisbane Lions,13
+2008,13,Subiaco,21-06-2008,38414,West Coast,Geelong,1,1,1,2,5,4,5,3,7,6,10,5,3,3,4,4,5,17,47,28,14,182,Geelong,135
+2008,13,Manuka,22-06-2008,11437,Melbourne,Sydney,2,3,5,1,2,1,2,3,7,3,2,5,2,3,5,2,11,8,74,17,12,114,Sydney,40
+2008,13,M.C.G.,22-06-2008,59177,Carlton,Essendon,1,4,4,6,2,2,2,5,7,1,4,8,5,4,4,3,15,11,101,20,16,136,Essendon,35
+2008,13,Docklands,22-06-2008,44885,Collingwood,Western Bulldogs,1,5,5,2,3,5,1,2,2,3,7,3,2,2,1,4,13,11,89,15,9,99,Western Bulldogs,10
+2008,14,M.C.G.,27-06-2008,29138,Hawthorn,West Coast,4,6,1,7,8,0,7,3,0,4,3,2,4,4,3,4,18,18,126,9,15,69,Hawthorn,57
+2008,14,M.C.G.,28-06-2008,73503,Richmond,Carlton,2,5,3,2,7,2,4,3,1,4,5,7,5,4,3,4,12,16,88,17,16,118,Carlton,30
+2008,14,Carrara,28-06-2008,9128,North Melbourne,St Kilda,4,2,2,1,4,3,4,4,0,4,2,6,3,0,4,5,9,15,69,12,12,84,St Kilda,15
+2008,14,Marrara,28-06-2008,11373,Western Bulldogs,Port Adelaide,3,8,5,4,4,5,3,3,2,2,5,2,2,4,4,5,20,15,135,11,15,81,Western Bulldogs,54
+2008,14,M.C.G.,29-06-2008,23278,Melbourne,Brisbane Lions,5,1,3,5,4,2,2,1,2,3,2,6,3,6,3,2,14,9,93,13,14,92,Melbourne,1
+2008,14,Subiaco,29-06-2008,34239,Fremantle,Essendon,2,5,1,5,5,1,3,4,3,4,4,3,2,3,4,2,13,13,91,14,11,95,Essendon,4
+2008,14,Football,04-07-2008,44377,Adelaide,Geelong,0,2,2,4,1,4,3,0,4,5,3,6,6,2,2,6,8,8,56,18,16,124,Geelong,68
+2008,14,Stadium,05-07-2008,59266,Sydney,Collingwood,1,0,1,4,3,2,2,7,1,4,3,3,5,2,5,1,6,14,50,11,13,79,Collingwood,29
+2008,15,M.C.G.,11-07-2008,55658,Carlton,St Kilda,2,3,3,4,8,1,3,3,2,7,5,4,4,3,2,2,12,15,87,18,11,119,St Kilda,32
+2008,15,M.C.G.,12-07-2008,52592,Collingwood,Adelaide,2,5,3,5,5,3,3,5,4,4,0,3,2,3,2,1,15,16,106,11,8,74,Collingwood,32
+2008,15,Kardinia,12-07-2008,21293,Geelong,Fremantle,4,3,6,5,2,5,3,0,2,0,3,1,1,3,3,1,18,10,118,6,8,44,Geelong,74
+2008,15,Docklands,12-07-2008,40053,Essendon,Brisbane Lions,8,4,5,7,3,3,3,2,4,4,6,4,0,4,4,2,24,11,155,18,10,118,Essendon,37
+2008,15,Football,12-07-2008,19851,Port Adelaide,North Melbourne,4,1,4,1,3,4,4,3,4,2,1,3,6,4,3,3,10,14,74,10,16,76,North Melbourne,2
+2008,15,M.C.G.,13-07-2008,49529,Hawthorn,Sydney,3,6,1,5,4,5,4,3,2,2,4,2,4,2,3,6,15,16,106,10,15,75,Hawthorn,31
+2008,15,Docklands,13-07-2008,27446,Western Bulldogs,Melbourne,3,4,5,2,2,2,3,4,1,3,1,4,0,2,4,4,14,11,95,9,10,64,Western Bulldogs,31
+2008,15,Subiaco,13-07-2008,37085,West Coast,Richmond,3,1,3,4,2,2,5,0,1,11,6,6,3,1,2,2,11,9,75,24,8,152,Richmond,77
+2008,16,Docklands,18-07-2008,46610,North Melbourne,Collingwood,1,4,7,5,4,2,2,4,3,4,3,4,3,4,3,2,17,12,114,14,12,96,North Melbourne,18
+2008,16,M.C.G.,19-07-2008,56746,Richmond,Essendon,5,6,1,4,2,3,4,3,3,4,6,2,2,3,2,7,16,12,108,15,14,104,Richmond,4
+2008,16,Kardinia,19-07-2008,24805,Geelong,Western Bulldogs,3,3,5,8,3,8,1,5,3,4,2,1,3,2,4,1,19,17,131,10,10,70,Geelong,61
+2008,16,Docklands,19-07-2008,41886,St Kilda,Hawthorn,3,3,8,4,1,2,2,6,5,5,2,1,4,3,1,3,18,11,119,13,11,89,St Kilda,30
+2008,16,Gabba,19-07-2008,27784,Brisbane Lions,West Coast,5,6,3,3,4,1,2,4,3,2,3,1,3,3,4,3,17,11,113,9,13,67,Brisbane Lions,46
+2008,16,Docklands,20-07-2008,38401,Carlton,Sydney,5,5,5,3,5,4,0,2,2,6,6,4,1,4,5,3,18,11,119,18,13,121,Sydney,2
+2008,16,Football,20-07-2008,31662,Port Adelaide,Adelaide,4,2,3,4,5,1,7,1,3,3,1,4,0,8,3,3,13,14,92,11,14,80,Port Adelaide,12
+2008,16,Subiaco,20-07-2008,31638,Fremantle,Melbourne,0,5,6,5,2,7,6,3,5,1,1,3,1,2,2,3,16,18,114,10,8,68,Fremantle,46
+2008,17,M.C.G.,25-07-2008,86179,Hawthorn,Geelong,3,3,3,2,2,3,3,3,6,2,1,3,3,7,2,4,11,11,77,12,16,88,Geelong,11
+2008,17,M.C.G.,26-07-2008,64785,Essendon,Collingwood,5,2,5,7,7,3,1,3,1,5,3,2,3,4,3,4,19,14,128,11,14,80,Essendon,48
+2008,17,Subiaco,26-07-2008,34037,West Coast,St Kilda,2,4,3,6,3,2,6,2,4,2,3,3,5,1,3,5,15,13,103,12,14,86,West Coast,17
+2008,17,S.C.G.,26-07-2008,26260,Sydney,Adelaide,2,2,0,2,3,5,4,5,3,5,0,3,6,1,3,1,6,17,53,11,11,77,Adelaide,24
+2008,17,Docklands,26-07-2008,31275,Richmond,Brisbane Lions,2,6,2,8,2,2,3,2,3,4,6,3,6,2,6,4,18,9,117,16,18,114,Richmond,3
+2008,17,Football,27-07-2008,19072,Port Adelaide,Fremantle,0,6,5,4,3,2,1,5,6,2,7,5,3,3,3,0,15,11,101,20,9,129,Fremantle,28
+2008,17,M.C.G.,27-07-2008,21330,Melbourne,North Melbourne,1,2,3,4,3,1,4,2,7,2,2,3,3,3,3,5,10,10,70,14,14,98,North Melbourne,28
+2008,17,Docklands,27-07-2008,37879,Western Bulldogs,Carlton,3,7,5,0,3,1,2,2,2,3,7,6,4,4,5,5,15,8,98,18,18,126,Carlton,28
+2008,18,M.C.G.,01-08-2008,58307,Collingwood,Hawthorn,1,2,3,2,2,6,5,1,6,2,4,5,3,5,3,3,8,14,62,17,14,116,Hawthorn,54
+2008,18,M.C.G.,02-08-2008,46334,Essendon,Melbourne,3,6,5,5,1,5,2,2,2,5,4,6,2,1,2,1,19,10,124,17,6,108,Essendon,16
+2008,18,Football,02-08-2008,40730,Adelaide,Carlton,1,5,6,1,7,4,3,2,4,3,2,3,4,2,2,6,13,16,94,12,14,86,Adelaide,8
+2008,18,Docklands,02-08-2008,42238,Geelong,Richmond,2,6,7,5,6,2,5,1,2,2,2,4,2,4,3,2,20,14,134,10,11,71,Geelong,63
+2008,18,Carrara,02-08-2008,10037,North Melbourne,Brisbane Lions,5,1,4,3,6,3,1,4,3,5,2,1,3,4,6,5,13,14,92,11,18,84,North Melbourne,8
+2008,18,Manuka,03-08-2008,13550,Western Bulldogs,Sydney,3,8,2,4,2,2,3,4,5,1,3,5,3,3,5,2,17,11,113,14,13,97,Western Bulldogs,16
+2008,18,Docklands,03-08-2008,22878,St Kilda,Port Adelaide,4,3,2,5,1,4,5,7,4,4,4,2,1,2,2,4,14,17,101,14,9,93,St Kilda,8
+2008,18,Subiaco,03-08-2008,42096,Fremantle,West Coast,9,4,4,0,2,3,5,4,4,2,4,2,1,5,1,4,17,14,116,12,11,83,Fremantle,33
+2008,19,M.C.G.,08-08-2008,34610,Melbourne,Geelong,0,1,1,3,0,3,3,5,8,4,7,5,5,2,3,3,5,11,41,24,13,157,Geelong,116
+2008,19,Docklands,09-08-2008,29696,Carlton,Port Adelaide,4,4,4,6,7,9,6,2,1,1,3,4,4,1,3,4,18,24,132,9,12,66,Carlton,66
+2008,19,York,09-08-2008,19929,Hawthorn,Brisbane Lions,1,2,4,9,3,4,4,3,1,0,1,3,2,3,5,1,16,14,110,5,11,41,Hawthorn,69
+2008,19,M.C.G.,09-08-2008,52135,Collingwood,St Kilda,4,3,4,3,4,1,4,4,2,1,4,5,2,3,2,4,14,13,97,12,11,83,Collingwood,14
+2008,19,S.C.G.,09-08-2008,20846,Sydney,Fremantle,2,5,6,4,4,2,2,2,3,5,2,5,5,3,5,5,17,10,112,15,18,108,Sydney,4
+2008,19,Docklands,10-08-2008,31957,North Melbourne,Western Bulldogs,6,5,4,6,5,1,1,3,2,3,6,7,3,1,3,1,21,10,136,18,8,116,North Melbourne,20
+2008,19,Football,10-08-2008,37562,Adelaide,Richmond,3,7,5,1,2,2,2,6,1,0,3,2,3,1,2,3,16,12,108,6,9,45,Adelaide,63
+2008,19,Subiaco,10-08-2008,35288,West Coast,Essendon,6,4,2,5,3,3,3,2,3,1,5,7,2,2,3,0,17,11,113,16,7,103,West Coast,10
+2008,20,Football,15-08-2008,23694,Port Adelaide,Collingwood,4,4,2,0,4,1,7,3,5,4,4,3,3,3,1,3,10,15,75,16,10,106,Collingwood,31
+2008,20,Docklands,16-08-2008,32184,Essendon,Adelaide,1,3,2,4,2,5,3,3,3,4,6,6,4,4,2,5,10,13,73,19,15,129,Adelaide,56
+2008,20,M.C.G.,16-08-2008,17958,Melbourne,West Coast,1,4,3,3,3,4,5,1,2,2,1,0,2,3,5,5,11,13,79,5,15,45,Melbourne,34
+2008,20,Gabba,16-08-2008,27315,Brisbane Lions,Western Bulldogs,3,3,2,5,3,1,4,4,4,3,1,2,4,4,6,5,13,12,90,10,19,79,Brisbane Lions,11
+2008,20,Stadium,16-08-2008,44955,Sydney,Geelong,4,2,2,6,1,3,1,5,7,2,7,4,4,4,2,3,14,10,94,20,13,133,Geelong,39
+2008,20,M.C.G.,17-08-2008,44523,Richmond,Hawthorn,5,5,3,3,2,3,1,3,2,2,3,3,5,5,5,1,16,9,105,10,16,76,Richmond,29
+2008,20,Docklands,17-08-2008,43406,Carlton,North Melbourne,6,3,1,4,2,1,2,1,5,8,4,5,2,3,3,1,14,6,90,22,9,141,North Melbourne,51
+2008,20,Subiaco,17-08-2008,34014,Fremantle,St Kilda,4,3,1,1,3,1,7,4,3,3,7,4,5,1,3,1,9,15,69,17,10,112,St Kilda,43
+2008,21,Docklands,22-08-2008,37294,Western Bulldogs,Essendon,3,7,9,4,3,3,2,5,3,2,4,6,4,4,3,4,23,13,151,15,15,105,Western Bulldogs,46
+2008,21,M.C.G.,23-08-2008,24881,Richmond,Fremantle,3,5,3,4,6,2,4,3,5,5,3,2,1,2,2,3,15,15,105,15,8,98,Richmond,7
+2008,21,Football,23-08-2008,18875,Port Adelaide,Melbourne,6,3,1,8,6,4,7,4,1,1,2,3,0,4,4,1,18,21,129,7,9,51,Port Adelaide,78
+2008,21,Gabba,23-08-2008,34327,Brisbane Lions,Carlton,3,4,9,0,4,5,3,1,7,4,1,6,2,1,1,3,16,13,109,18,7,115,Carlton,6
+2008,21,Docklands,23-08-2008,45570,Collingwood,Sydney,8,3,4,3,3,3,2,2,2,2,2,4,3,0,4,6,18,10,118,10,13,73,Collingwood,45
+2008,21,Kardinia,24-08-2008,24288,Geelong,North Melbourne,3,7,3,4,3,3,4,3,4,2,3,4,3,1,0,0,17,13,115,13,4,82,Geelong,33
+2008,21,Docklands,24-08-2008,33811,St Kilda,Adelaide,1,6,2,4,4,2,5,6,3,1,2,0,4,1,4,2,13,17,95,6,11,47,St Kilda,48
+2008,21,Subiaco,24-08-2008,37040,West Coast,Hawthorn,1,3,3,2,1,2,3,2,4,3,9,3,4,2,4,9,9,8,62,19,19,133,Hawthorn,71
+2008,22,Subiaco,29-08-2008,35106,Fremantle,Collingwood,5,2,2,3,0,1,6,1,1,3,2,2,4,1,1,2,12,8,80,8,8,56,Fremantle,24
+2008,22,M.C.G.,30-08-2008,22144,North Melbourne,Port Adelaide,4,3,2,1,3,2,5,2,3,7,8,5,4,1,3,2,10,12,72,23,10,148,Port Adelaide,76
+2008,22,Kardinia,30-08-2008,21752,Geelong,West Coast,4,8,6,6,3,6,3,8,4,2,3,1,3,0,2,0,24,20,164,10,5,65,Geelong,99
+2008,22,Football,30-08-2008,37543,Adelaide,Western Bulldogs,3,1,3,3,1,9,2,4,4,1,2,2,3,5,4,1,10,16,76,9,13,67,Adelaide,9
+2008,22,Docklands,30-08-2008,49057,Carlton,Hawthorn,2,2,4,4,3,2,1,3,6,4,6,8,4,3,6,2,12,9,81,24,15,159,Hawthorn,78
+2008,22,S.C.G.,30-08-2008,24076,Sydney,Brisbane Lions,3,4,5,5,3,5,1,3,1,2,2,1,6,3,4,4,17,12,114,6,17,53,Sydney,61
+2008,22,M.C.G.,31-08-2008,37046,Melbourne,Richmond,2,1,1,2,1,0,3,1,2,6,4,6,5,4,1,3,6,5,41,18,13,121,Richmond,80
+2008,22,Docklands,31-08-2008,46161,Essendon,St Kilda,2,0,3,0,3,3,2,1,5,3,6,7,5,7,3,6,5,9,39,21,21,147,St Kilda,108
+2008,QF,M.C.G.,05-09-2008,76703,Hawthorn,Western Bulldogs,4,6,5,3,5,7,5,2,2,2,3,4,1,3,3,3,18,19,127,11,10,76,Hawthorn,51
+2008,EF,Football,06-09-2008,37685,Adelaide,Collingwood,2,7,2,3,2,4,1,3,4,3,7,5,3,3,3,2,14,10,94,19,11,125,Collingwood,31
+2008,EF,Stadium,06-09-2008,19127,Sydney,North Melbourne,1,3,8,5,5,1,1,1,4,2,4,1,1,3,1,4,17,8,110,11,9,75,Sydney,35
+2008,QF,M.C.G.,07-09-2008,71653,Geelong,St Kilda,3,4,9,1,7,3,5,2,1,2,2,3,1,1,3,8,17,17,119,8,13,61,Geelong,58
+2008,SF,M.C.G.,12-09-2008,42731,Western Bulldogs,Sydney,2,4,5,5,3,2,4,1,2,3,0,4,4,3,6,2,16,10,106,9,15,69,Western Bulldogs,37
+2008,SF,M.C.G.,13-09-2008,76707,St Kilda,Collingwood,4,4,6,3,1,0,1,2,3,1,1,4,4,7,5,2,17,4,106,9,18,72,St Kilda,34
+2008,PF,M.C.G.,19-09-2008,70140,Geelong,Western Bulldogs,5,3,2,2,3,5,1,2,4,1,2,0,3,2,4,3,12,11,83,7,12,54,Geelong,29
+2008,PF,M.C.G.,20-09-2008,77002,Hawthorn,St Kilda,4,7,4,3,4,1,3,2,2,1,4,2,3,3,1,3,18,10,118,9,10,64,Hawthorn,54
+2008,GF,M.C.G.,27-09-2008,100012,Geelong,Hawthorn,5,1,3,2,3,9,6,5,5,3,6,4,2,1,2,2,11,23,89,18,7,115,Hawthorn,26

@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2023,11,North Melbourne,Collingwood,27 ,"Bergman, Miller",8,3,3,11, , , ,3, ,1, ,2,1,1, ,4,9, , ,1, ,1,86
+2023,11,North Melbourne,Collingwood,21 ,"Coleman-Jones, Callum",4,2,6,10, , ,4,1, ,1,2,6, , , ,5,6,1, ,1, ,1,85
+2023,11,North Melbourne,Collingwood,25 ↑,"Curtis, Paul",1,1,1,2, , , ,2, ,1, , , , , ,1,1, , , , ,1,28
+2023,11,North Melbourne,Collingwood,40 ,"Ford, Eddie",9,6,7,16, , , ,1,1,5, , , , , ,5,12,1, ,2,1,1,70
+2023,11,North Melbourne,Collingwood,22 ,"Goldstein, Todd",3,2,12,15, , ,32,3, ,1,2,1,1,1, ,8,7,1, ,5, , ,81
+2023,11,North Melbourne,Collingwood,18 ,"Greenwood, Hugh",10,3,15,25, , , ,11,1,3,10,3,1, , ,16,8,1, ,1, ,1,84
+2023,11,North Melbourne,Collingwood,43 ,"Hall, Aaron",9,5,6,15, , , ,2,1,5, ,2, ,1, ,1,13, , ,1, , ,80
+2023,11,North Melbourne,Collingwood,15 ,"Howe, Daniel",14,5,5,19,1,1, ,2,5,1,1,7, ,3, ,6,16,1, ,1, , ,87
+2023,11,North Melbourne,Collingwood,20 ,"Larkey, Nick",9,8,4,13,5,2, , , ,1, ,2, ,1,2,4,9,1,8,3, , ,98
+2023,11,North Melbourne,Collingwood,35 ,"Lazzaro, Charlie",1,1,4,5, , , ,2,1, , ,1, ,1, ,2,3, , ,1, , ,68
+2023,11,North Melbourne,Collingwood,19 ,"Logue, Griffin",10,6,6,16, , , , ,4, , ,2, , , ,2,14,1, ,10, , ,94
+2023,11,North Melbourne,Collingwood,11 ,"McDonald, Luke",13,5,6,19, , , ,3,6, , ,2,3, , ,7,12,1, ,2, , ,87
+2023,11,North Melbourne,Collingwood,23 ,"McKay, Ben",3,3,2,5, , , , , , , ,1, ,1, ,3,3,1, ,7, , ,96
+2023,11,North Melbourne,Collingwood,29 ,"Phillips, Will",6,2,23,29, , , ,5,1,2,5,3, , , ,10,19, , ,1, , ,67
+2023,11,North Melbourne,Collingwood,24 ,"Powell, Tom",5,3,11,16, , , ,2,1,1,3,2, ,1, ,6,10, , ,1, ,2,82
+2023,11,North Melbourne,Collingwood,8 ,"Scott, Bailey",19,6,11,30,1, , , ,5,8,2,5,1,1, ,8,22, , , , ,1,83
+2023,11,North Melbourne,Collingwood,3 ,"Sheezel, Harry",10,6,11,21, , , ,3,2,2, ,2, , , ,4,17,1,1,1, , ,78
+2023,11,North Melbourne,Collingwood,12 ,"Simpkin, Jy",7,2,15,22, , , ,4, ,2,4,7,2,2, ,12,14, , ,2, , ,84
+2023,11,North Melbourne,Collingwood,36 ↓,"Spicer, Phoenix",1, ,1,2, , , , , , , , , , , ,1,1, , ,1, , ,47
+2023,11,North Melbourne,Collingwood,2 ,"Stephenson, Jaidyn",10,9,4,14,2,2, ,2, ,3, ,1, , , ,3,11,1,3,1, , ,76
+2023,11,North Melbourne,Collingwood,6 ,"Wardlaw, George",9,5,3,12, ,1, ,1, ,1,4,2,1,1, ,3,9, ,1, , , ,66
+2023,11,North Melbourne,Collingwood,7 ,"Ziebell, Jack",19,7,4,23, , , ,1,5,1, ,6,1,1, ,4,14,1, ,2, , ,86
+2023,11,North Melbourne,Collingwood,44 ,"Zurhaar, Cameron",9,3,6,15,1,2, ,1,2,4,2,2,2,1, ,9,7,2, , ,2,1,86

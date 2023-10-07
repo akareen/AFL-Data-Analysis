@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2021,6,West Coast,Geelong,33 ↑,"Ainsworth, Brayden", ,1,4,4, , , , , , ,1, , , , ,3,3, , ,1, , ,48
+2021,6,West Coast,Geelong,12 ,"Allen, Oscar",8,3, ,8,2,2, ,3, ,3,1,2,1,1, ,6,2,3,2,1, ,1,85
+2021,6,West Coast,Geelong,37 ,"Barrass, Tom",5,3,4,9, , , , ,2,1, ,2,1,1, ,1,8, , ,6,1, ,89
+2021,6,West Coast,Geelong,10 ,"Brander, Jarrod",6,1,6,12,1, , , ,3,2,2, , , , ,3,9, , ,2, , ,81
+2021,6,West Coast,Geelong,28 ,"Cole, Tom",7,4,2,9, , , ,2,1,1, ,1, ,1, ,1,6, , ,4, , ,87
+2021,6,West Coast,Geelong,15 ,"Cripps, Jamie",7,1,3,10, ,2, ,5, ,2,2,3,2,2, ,8,4, , ,1, , ,77
+2021,6,West Coast,Geelong,27 ,"Darling, Jack",9,8,3,12,1,2,2,4, ,1, ,1,1, , ,6,6,4,3, , ,1,100
+2021,6,West Coast,Geelong,14 ,"Duggan, Liam",6,3,4,10, , , ,2,2, ,1,4, ,1, ,6,4, , ,1, , ,88
+2021,6,West Coast,Geelong,3 ,"Gaff, Andrew",18,7,9,27, , , ,2,1,4,7,5,1,3, ,9,18, , , , , ,84
+2021,6,West Coast,Geelong,31 ,"Jones, Jamaine",4,2,2,6, , , ,5,1,1,1,1,1,1, ,6,3, , ,2, , ,75
+2021,6,West Coast,Geelong,11 ,"Kelly, Tim",8,1,8,16, , , ,3,1,2,2,1, ,1, ,7,9, , ,1, ,1,83
+2021,6,West Coast,Geelong,7 ,"Langdon, Zac",6,4,3,9, , , ,2,1,1, ,4,1,2, ,6,5, ,2,2, , ,76
+2021,6,West Coast,Geelong,20 ↓,"McGovern, Jeremy",5,4,2,7, , , , ,3, , , ,1, , ,4,3,1, ,3, , ,30
+2021,6,West Coast,Geelong,9 ,"Naitanui, Nic",10, ,3,13, , ,25,3,1,4,7,3, ,1, ,12, , , ,2, , ,62
+2021,6,West Coast,Geelong,30 ,"Nelson, Jackson",9,2,4,13, , , , ,4, ,2,3, ,1, ,4,6, , , , , ,89
+2021,6,West Coast,Geelong,24 ,"ONeill, Xavier",8,2,6,14, , , ,2,1,4,4,4,2,1, ,8,7, , ,2, , ,71
+2021,6,West Coast,Geelong,8 ,"Redden, Jack",9,1,11,20, , , ,5,2,5,3,2,1,2, ,10,12, , ,5, , ,84
+2021,6,West Coast,Geelong,35 ,"Rotham, Josh",6, ,2,8, , , , ,3, , ,5, ,3, ,1,6, , ,4, , ,86
+2021,6,West Coast,Geelong,4 ,"Sheed, Dom",9,3,5,14, ,1, ,4, ,4,2,6,2,5, ,8,6, , ,3,1, ,82
+2021,6,West Coast,Geelong,5 ,"Sheppard, Brad",8,2,5,13, , , ,2,1, , ,2, , , ,4,9, , ,2, , ,91
+2021,6,West Coast,Geelong,19 ,"Vardy, Nathan",3,2,1,4,1, ,18,3,1,1, ,2,1,1, ,3,1,1,1,2, , ,72
+2021,6,West Coast,Geelong,2 ,"Waterman, Jake",4,2,2,6, , , ,4, , , ,2, ,2, ,2,4, , , , , ,81
+2021,6,West Coast,Geelong,23 ,"Witherden, Alex",15,8,3,18, , , , ,5,2, ,3, , , ,2,11, , ,1, , ,78

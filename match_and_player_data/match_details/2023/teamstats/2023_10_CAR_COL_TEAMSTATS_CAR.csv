@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2023,10,Carlton,Collingwood,13 ,"Acres, Blake",7,4,18,25, , , ,2, , ,2,3, ,1, ,9,16, , ,2,1, ,82
+2023,10,Carlton,Collingwood,37 ,"Boyd, Jordan",8,3,3,11, , , ,1,1,1,1,2,1, , ,3,8,1, ,3, , ,77
+2023,10,Carlton,Collingwood,5 ,"Cerra, Adam",15,4,18,33, ,2, ,6,2,5,3,1, , , ,4,29, ,1,1, , ,82
+2023,10,Carlton,Collingwood,46 ,"Cottrell, Matthew",7,1,4,11, ,1, ,1,1,4, ,2,2,1, ,3,7, , , , , ,82
+2023,10,Carlton,Collingwood,9 ,"Cripps, Patrick",11,4,15,26, , , ,4, ,5,4,3,1,1, ,7,17, , , , , ,81
+2023,10,Carlton,Collingwood,30 ,"Curnow, Charlie",14,7,2,16,3,2, ,2, ,7, ,2,6, , ,8,9,1, ,2, ,1,94
+2023,10,Carlton,Collingwood,35 ,"Curnow, Ed",11,4,10,21, ,1, ,2,2,4,1,3,1,1, ,6,15, ,1, , , ,88
+2023,10,Carlton,Collingwood,15 ,"Docherty, Sam",25,5,9,34, , , ,4,3,2,5,3, , , ,10,22, , , ,1,1,88
+2023,10,Carlton,Collingwood,19 ,"Durdin, Corey",5, ,4,9, , , ,7, ,2,1,1,1, , ,3,5, , ,1, , ,66
+2023,10,Carlton,Collingwood,29 ↑,"Hewett, George",2,1,9,11, , , ,3, ,1,3, , , , ,5,6, , , , , ,36
+2023,10,Carlton,Collingwood,14 ↓,"Hollands, Oliver",5,2,5,10, , , , ,2,1,2,1,1, , ,3,6, , , , , ,41
+2023,10,Carlton,Collingwood,7 ,"Kennedy, Matthew",11,5,11,22, , , ,2,3,3,2,1, , , ,8,14,1, ,1, , ,73
+2023,10,Carlton,Collingwood,11 ,"McGovern, Mitch",6,2,2,8, , , ,2,4,1, ,4, ,2, ,2,3,1, ,4, , ,77
+2023,10,Carlton,Collingwood,10 ,"McKay, Harry",7,6,1,8,2,2, ,1, ,1, ,1,1, , ,6,3,4,4,3, , ,84
+2023,10,Carlton,Collingwood,3 ,"Motlop, Jesse",5,1,4,9, , , ,2,1,3,1, ,1, , ,5,4, , ,1, , ,73
+2023,10,Carlton,Collingwood,24 ,"Newman, Nic",10,8,9,19, , , ,1,4,1,1,3, ,3, ,6,12, , ,1, , ,89
+2023,10,Carlton,Collingwood,44 ,"Owies, Matthew",7,2,1,8,2,1, , , ,1, , ,1, , ,3,5,1,2, , , ,68
+2023,10,Carlton,Collingwood,27 ,"Pittonet, Marc",9,3,4,13, , ,28,2,1,2,6,5,2,4, ,9,4,1, ,3, ,1,81
+2023,10,Carlton,Collingwood,42 ,"Saad, Adam",8,1,8,16, , , , ,2,2, ,1, , , ,4,9, , ,3,2, ,80
+2023,10,Carlton,Collingwood,1 ,"Silvagni, Jack",7,3,5,12, ,1,3,7,2, ,2,4, ,2, ,5,8, ,1,2, , ,76
+2023,10,Carlton,Collingwood,18 ,"Walsh, Sam",10,2,19,29, , , ,5,2,1,4,7,2,2, ,9,21, , ,1, , ,82
+2023,10,Carlton,Collingwood,23 ,"Weitering, Jacob",6,4,2,8, , , ,1,1,1, ,1,1, , ,3,6,1, ,5, , ,100
+2023,10,Carlton,Collingwood,33 ,"Young, Lewis",8,7,7,15, , , ,2,6,3, ,3,1,1, ,6,8,2, ,8, ,1,100

@@ -1,0 +1,23 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2014,22,Hawthorn,Geelong,14 ,"Birchall, Grant",18,8,4,22, ,1, ,1, ,5, ,1, , , ,2,20, , ,1, ,2,82
+2014,22,Hawthorn,Geelong,22 ,"Breust, Luke",4,3,4,8,1,1, ,3, , , ,2, ,1, ,3,4, ,1,1, , ,84
+2014,22,Hawthorn,Geelong,9 ,"Burgoyne, Shaun",10,2,9,19, , , ,4,4,2, ,2,3,1, ,8,11, , ,2,1, ,81
+2014,22,Hawthorn,Geelong,18 ,"Ceglar, Jonathon",5,4,5,10,1, ,23,3, ,3, , , , , ,3,7,1,1,3, , ,74
+2014,22,Hawthorn,Geelong,6 ,"Gibson, Josh",13,8,15,28, , , ,2,3,3, ,1, , , ,5,24, , ,11, , ,98
+2014,22,Hawthorn,Geelong,19 ,"Gunston, Jack",9,4,4,13,1, , ,1, ,1, ,1,2,1, ,5,8,1,1,2, , ,93
+2014,22,Hawthorn,Geelong,20 ,"Hale, David",7,5,3,10,3, ,15,2,2, ,1,1, , , ,5,5,3,3,2, , ,85
+2014,22,Hawthorn,Geelong,10 ,"Hill, Bradley",10,3,4,14, , , ,4,2,2,1,1, , , ,3,11, , ,1,3,1,83
+2014,22,Hawthorn,Geelong,15 ,"Hodge, Luke",12,8,6,18, , ,4,3,1,1,1,2, ,1, ,2,16, , ,2, , ,85
+2014,22,Hawthorn,Geelong,17 ,"Lake, Brian",11,7,9,20, , , ,2,5,2, ,2, , , ,7,13,1, ,2, , ,96
+2014,22,Hawthorn,Geelong,29 ,"Langford, Will",10,4,13,23,2,1, ,2,2,3,3,1,1, ,1,13,11,1,2,3, ,1,90
+2014,22,Hawthorn,Geelong,3 ,"Lewis, Jordan",13,7,12,25,1,1,4,4,2,3,4,1, ,1,3,9,15, ,2, , ,1,88
+2014,22,Hawthorn,Geelong,5 ,"Mitchell, Sam",12,6,16,28, , , ,2,1,4,9,3,4,1, ,14,13, ,1,1, , ,90
+2014,22,Hawthorn,Geelong,28 ,"Puopolo, Paul",9,5,8,17, ,3, ,4, ,1,1,2,2, , ,4,12, ,1, , , ,84
+2014,22,Hawthorn,Geelong,2 ,"Roughead, Jarryd",5,4,6,11,3, , ,4,1, ,2,1, ,1, ,4,7, ,2,2, , ,94
+2014,22,Hawthorn,Geelong,12 ,"Sewell, Brad",10,2,7,17,1, , ,3,2,3,4,4,1,1, ,6,11, , , , ,2,78
+2014,22,Hawthorn,Geelong,26 ,"Shiels, Liam",12,3,4,16,1, , ,8, ,4,3,2, ,2, ,4,12, , ,2,2,1,82
+2014,22,Hawthorn,Geelong,32 ↑,"Simpkin, Jonathan",11,4,5,16, , , ,3, ,4,2,3, , , ,5,11, , , , , ,43
+2014,22,Hawthorn,Geelong,16 ,"Smith, Isaac",13,2,7,20, ,1,1,2,3,4,3,1, ,1, ,4,14, , , ,3, ,86
+2014,22,Hawthorn,Geelong,27 ,"Spangher, Matthew",3,2,3,6, ,1, ,1, , , ,1, ,1, ,1,5, , ,2, , ,85
+2014,22,Hawthorn,Geelong,24 ,"Stratton, Ben",8,9,11,19, , , ,2,2,1, ,1,2,1, ,7,13,1, ,5,2, ,83
+2014,22,Hawthorn,Geelong,4 ↓,"Suckling, Matt",3,2,3,6, , , , ,1,1, ,1, ,1, ,2,4, , ,3, , ,37

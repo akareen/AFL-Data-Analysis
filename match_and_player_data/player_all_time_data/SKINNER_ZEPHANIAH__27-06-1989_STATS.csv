@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Western Bulldogs,2011,1,Sydney,7,L,26,2,2,,2,,1,,1,,1,,1,,1,,,2,,1,,1,,30
+Western Bulldogs,2012,2,Gold Coast,8,W,26,3,,2,5,1,,,2,,1,,1,1,,,3,2,,,1,,,25
+Western Bulldogs,2012,3,Geelong,9,L,26,2,,1,3,1,1,,1,,1,,1,,,,1,2,,,,,1,31
+Western Bulldogs,2012,4,North Melbourne,19,L,26,2,,6,8,,,1,2,,1,,,,,,4,4,,,2,,2,73
+Western Bulldogs,2012,5,Richmond,20,L,26,7,3,5,12,2,1,4,1,,1,1,5,3,1,,6,6,,2,,,,75
+Western Bulldogs,2012,6,Sydney,21,L,26,3,3,5,8,,1,1,,,,,1,1,,,4,4,1,1,1,1,,74
+Western Bulldogs,2012,7,Geelong,22,L,26,8,4,9,17,1,1,,,,2,,3,,,,9,8,2,1,1,,1,73
+Western Bulldogs,2012,8,Brisbane Lions,23,L,26,1,1,1,2,,,,1,,1,,1,,,,2,1,,,1,,,28

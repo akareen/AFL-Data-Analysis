@@ -1,0 +1,41 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Kangaroos,2004,1,Adelaide,1,W,32,4,,3,7,,1,,1,1,,,,,,,2,5,,,2,,,79
+Kangaroos,2004,2,Hawthorn,2,W,32,8,6,3,11,,,,,4,3,,2,2,2,,2,8,,,,2,,85
+Kangaroos,2004,3,Carlton,3,W,32,6,1,4,10,,1,,2,1,,,3,,1,,3,6,,,1,1,,79
+Kangaroos,2004,4,Sydney,4,L,32,9,2,6,15,,,,2,6,1,,1,1,,,5,7,,,5,3,,100
+Kangaroos,2004,5,St Kilda,5,L,32,10,3,3,13,,,,,5,4,1,2,,2,,3,8,,,1,5,1,87
+Kangaroos,2004,6,Western Bulldogs,6,L,32,1,,,1,,,,,,,,2,,,,,1,,,,,,67
+Kangaroos,2004,7,Melbourne,9,L,32,7,2,2,9,1,,,1,3,1,,2,,1,,2,6,,1,3,1,,63
+Kangaroos,2004,8,Collingwood,10,L,32,6,3,6,12,,,,3,3,1,1,1,1,1,,8,4,,,5,1,,100
+Kangaroos,2004,9,Richmond,11,W,32,8,4,1,9,,,,1,2,1,,,1,,,2,8,,1,4,,1,100
+Kangaroos,2004,10,Geelong,12,L,32,3,1,3,6,,,,1,1,,,1,,1,,4,2,,,3,2,,60
+Kangaroos,2005,11,Sydney,2,W,32,5,3,2,7,1,,,6,,1,1,3,1,1,,3,4,,,3,,,87
+Kangaroos,2005,12,St Kilda,3,W,32,4,2,1,5,2,1,,2,,2,1,2,,2,,2,3,,1,2,1,1,96
+Kangaroos,2005,13,Collingwood,4,W,32,3,2,4,7,1,,,,,1,1,1,,1,,4,3,,,1,,1,63
+Kangaroos,2005,14,Hawthorn,5,W,32,7,4,2,9,,,,1,3,1,,5,1,3,,3,7,,,1,1,1,83
+Kangaroos,2005,15,Adelaide,6,L,32,5,,2,7,,,,,,1,,,,,,4,3,,,1,,,72
+Kangaroos,2005,16,Port Adelaide,7,L,32,6,4,1,7,,2,,3,,,1,1,,1,,4,4,,2,1,1,,62
+Kangaroos,2005,17,Western Bulldogs,8,L,32,5,4,4,9,,2,,2,,1,,2,,1,,3,6,1,2,1,,1,77
+Kangaroos,2005,18,West Coast,15,L,32,5,2,14,19,,,,1,,1,5,3,,2,,10,8,,,,2,1,73
+Kangaroos,2005,19,Hawthorn,16,W,32,5,2,7,12,,,,3,,,2,1,,1,,5,7,,1,2,2,1,64
+Kangaroos,2005,20,Adelaide,17,L,32,4,1,1,5,1,,,2,,1,,,1,,,2,3,,,,,,31
+Kangaroos,2006,21,West Coast,4,L,32,9,8,6,15,,,,1,,3,1,1,1,1,,6,9,1,,,,,73
+Kangaroos,2006,22,Melbourne,5,L,32,6,4,6,12,,,,,,1,,1,,1,,6,6,,1,,,,63
+Kangaroos,2006,23,Richmond,11,L,32,5,3,7,12,,,,5,2,2,,2,1,1,,5,8,1,,,,,66
+Kangaroos,2006,24,West Coast,19,L,32,7,3,13,20,,,,1,2,2,1,4,,1,,5,15,,,1,,,80
+Kangaroos,2006,25,Melbourne,20,L,32,7,5,6,13,1,,,2,,1,1,1,,,,3,10,,,2,,,74
+Kangaroos,2006,26,Hawthorn,21,L,32,7,3,9,16,,1,,2,1,2,1,2,,,,5,10,,2,,,,95
+Kangaroos,2006,27,Collingwood,22,L,32,6,4,5,11,,,,3,,1,1,3,1,1,,3,8,,1,1,,,100
+Kangaroos,2007,28,Hawthorn,3,L,32,13,6,7,20,,,,,,3,2,2,1,,,4,14,,,2,,,86
+Kangaroos,2007,29,Adelaide,12,L,32,6,3,6,12,,1,,,,4,,2,,1,,3,9,,1,,,,96
+Kangaroos,2007,30,Melbourne,16,W,32,10,1,9,19,,1,,4,,5,2,2,2,2,,8,10,,,,,2,79
+Kangaroos,2007,31,Hawthorn,17,W,32,10,4,3,13,2,,,,,3,1,2,,,,4,9,,1,,,,68
+Kangaroos,2007,32,Brisbane Lions,18,L,32,4,2,5,9,1,,,5,1,1,1,1,1,1,,3,6,,1,1,,,82
+Kangaroos,2007,33,West Coast,19,L,32,10,6,8,18,2,1,,4,,6,1,1,1,1,,9,10,,,2,2,1,76
+Kangaroos,2007,34,Geelong,20,L,32,12,2,4,16,1,,,,,3,,3,,1,,4,12,,,1,,1,77
+Kangaroos,2007,35,Carlton,21,W,32,10,5,11,21,3,1,,4,,3,1,3,,1,,10,12,,1,,,,90
+Kangaroos,2007,36,Western Bulldogs,22,W,32,9,3,7,16,5,,,6,1,3,2,2,,2,,4,11,1,1,1,1,,76
+Kangaroos,2007,37,Geelong,QF,L,32,6,2,7,13,,1,,2,,2,,8,,2,,3,10,,,1,1,,78
+Kangaroos,2007,38,Hawthorn,SF,W,32,4,2,10,14,,,,5,1,3,2,3,,2,,5,10,,,3,,,77
+Kangaroos,2007,39,Port Adelaide,PF,L,32,6,2,4,10,,3,,,,2,1,2,1,,,3,6,,,2,,1,71
+North Melbourne,2008,40,Sydney,6,D,32,1,1,3,4,,,,2,,,1,1,,1,,3,3,,1,1,,,85

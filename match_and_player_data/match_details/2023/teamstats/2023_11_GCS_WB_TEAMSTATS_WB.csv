@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2023,11,Western Bulldogs,Gold Coast,13 ,"Baker, Oskar",10,5,5,15, , , ,1, ,2,4,1,1, , ,8,10, , ,3, , ,71
+2023,11,Western Bulldogs,Gold Coast,4 ,"Bontempelli, Marcus",16,1,11,27, , , ,11, ,8,9,6,2,1, ,14,17, , ,3, , ,82
+2023,11,Western Bulldogs,Gold Coast,31 ,"Dale, Bailey",15,2,12,27, ,1, ,2,4,5,4,2, ,1,1,10,14, , ,3, , ,88
+2023,11,Western Bulldogs,Gold Coast,35 ,"Daniel, Caleb",16,3,9,25,1, , ,6,1,5,8,1,1, , ,9,14, , , ,1, ,85
+2023,11,Western Bulldogs,Gold Coast,15 ,"Duryea, Taylor",7,4,6,13, , , ,1,1,2, ,2,1,1, ,7,6, , ,3, , ,78
+2023,11,Western Bulldogs,Gold Coast,44 ,"English, Tim",11,8,6,17, ,1,22,1,3,2,1,2,2,1, ,5,13, ,1,3,1, ,86
+2023,11,Western Bulldogs,Gold Coast,43 ,"Gardner, Ryan",8,3,4,12, , , , ,3,1, ,2,3,1, ,8,6, , ,19, , ,100
+2023,11,Western Bulldogs,Gold Coast,29 ↑,"Hannan, Mitch",2, ,1,3, , , , , ,1, ,1, , , , ,2, , , , , ,18
+2023,11,Western Bulldogs,Gold Coast,32 ,"Jones, Arthur",3,2,10,13, ,1, ,4, , , ,3, ,2, ,3,10, , ,1,1,1,77
+2023,11,Western Bulldogs,Gold Coast,19 ,"Jones, Liam",14,10, ,14, , , , ,7,3, ,3, ,1, ,4,10,2, ,9, ,1,100
+2023,11,Western Bulldogs,Gold Coast,21 ,"Liberatore, Tom",10,2,7,17, , , ,7,1,3,5,2,1,1, ,8,9, , , , , ,81
+2023,11,Western Bulldogs,Gold Coast,7 ,"Lobb, Rory",5,3,9,14, ,1,10,2, ,2,1,1,1, , ,7,7,1,3,6, ,1,84
+2023,11,Western Bulldogs,Gold Coast,11 ,"Macrae, Jack",15,4,18,33, , , ,8,2,7,3,2,1,1, ,11,22, , ,1, , ,82
+2023,11,Western Bulldogs,Gold Coast,30 ↓,"McNeil, Lachlan",3,3,3,6, , , ,2, ,1,1,2, , , ,3,4, , ,1, , ,55
+2023,11,Western Bulldogs,Gold Coast,33 ,"Naughton, Aaron",7,4,6,13,1,2, , , ,2,1,3,2,1, ,9,5,2,2,1, , ,85
+2023,11,Western Bulldogs,Gold Coast,22 ,"OBrien, Tim",13,6,3,16, , , ,2,6,2, ,2, , , ,4,12, , ,3, , ,82
+2023,11,Western Bulldogs,Gold Coast,18 ,"ODonnell, James",6,5,4,10, , , ,1, ,1, ,3, , , ,1,9, , ,3, , ,68
+2023,11,Western Bulldogs,Gold Coast,20 ,"Richards, Ed",12,4,5,17, , , ,1,4,3,2,5,1,2, ,8,10, , ,2, , ,85
+2023,11,Western Bulldogs,Gold Coast,28 ,"Scott, Anthony",6,3,5,11,1, , ,1, ,2, ,3,1, , ,4,7, ,1,1, ,1,79
+2023,11,Western Bulldogs,Gold Coast,6 ,"Smith, Bailey",8,2,15,23,1,1, , , ,3,2,3, , , ,7,16, , ,1, , ,82
+2023,11,Western Bulldogs,Gold Coast,2 ,"Ugle-Hagan, Jamarra",11,9,1,12,3,1,1,1, ,4, ,2,1, , ,3,9, ,4, , , ,86
+2023,11,Western Bulldogs,Gold Coast,3 ,"Weightman, Cody",9,1,1,10,2,1, ,3,1,3, ,3,4, , ,4,5, ,1,1, ,1,66
+2023,11,Western Bulldogs,Gold Coast,34 ,"Williams, Bailey",8,3,9,17,2, , ,3,1,4,1,1, , , ,4,13, , , , ,1,79
