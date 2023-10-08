@@ -1,2 +1,2 @@
 first_name,last_name,born_date,debut_date,height,weight,stats_file_name,personal_file_name
-Bill,Goggin,04-01-1941,29-04-1958,175,70,match_and_player_data/player_all_time_data/GOGGIN_BILL__04-01-1941_STATS.csv,match_and_player_data/player_all_time_data/GOGGIN_BILL__04-01-1941_PERSONAL.csv
+Bill,Goggin,04-01-1941,29-04-1958,175,70,match_and_player_data/player_all_time_data/GOGGIN_BILL_04-01-1941_STATS.csv,match_and_player_data/player_all_time_data/GOGGIN_BILL_04-01-1941_PERSONAL.csv

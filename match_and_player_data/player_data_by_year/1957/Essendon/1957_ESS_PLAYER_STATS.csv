@@ -1,5 +1,5 @@
 first_name,last_name,born_date,debut_date,height,weight,stats_file_name,personal_file_name
-Hugh,Mitchell,22-11-1934,10-08-1953,183,80,match_and_player_data/player_all_time_data/MITCHELL_HUGH__22-11-1934_STATS.csv,match_and_player_data/player_all_time_data/MITCHELL_HUGH__22-11-1934_PERSONAL.csv
-John,Birt,29-01-1937,15-04-1957,174,69,match_and_player_data/player_all_time_data/BIRT_JOHN__29-01-1937_STATS.csv,match_and_player_data/player_all_time_data/BIRT_JOHN__29-01-1937_PERSONAL.csv
-Ken,Timms,23-07-1938,15-04-1957,188,79,match_and_player_data/player_all_time_data/TIMMS_KEN__23-07-1938_STATS.csv,match_and_player_data/player_all_time_data/TIMMS_KEN__23-07-1938_PERSONAL.csv
-Jack,Clarke,14-07-1933,10-07-1951,175,78,match_and_player_data/player_all_time_data/CLARKE_JACK__14-07-1933_STATS.csv,match_and_player_data/player_all_time_data/CLARKE_JACK__14-07-1933_PERSONAL.csv
+Ken,Timms,23-07-1938,15-04-1957,188,79,match_and_player_data/player_all_time_data/TIMMS_KEN_23-07-1938_STATS.csv,match_and_player_data/player_all_time_data/TIMMS_KEN_23-07-1938_PERSONAL.csv
+John,Birt,29-01-1937,15-04-1957,174,69,match_and_player_data/player_all_time_data/BIRT_JOHN_29-01-1937_STATS.csv,match_and_player_data/player_all_time_data/BIRT_JOHN_29-01-1937_PERSONAL.csv
+Hugh,Mitchell,22-11-1934,10-08-1953,183,80,match_and_player_data/player_all_time_data/MITCHELL_HUGH_22-11-1934_STATS.csv,match_and_player_data/player_all_time_data/MITCHELL_HUGH_22-11-1934_PERSONAL.csv
+Jack,Clarke,14-07-1933,10-07-1951,175,78,match_and_player_data/player_all_time_data/CLARKE_JACK_14-07-1933_STATS.csv,match_and_player_data/player_all_time_data/CLARKE_JACK_14-07-1933_PERSONAL.csv

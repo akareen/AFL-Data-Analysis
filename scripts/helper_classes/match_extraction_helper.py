@@ -2,6 +2,11 @@ from datetime import datetime
 
 # Extracts all the relevant information from a match page
 def extract_match_info(rows):
+    """
+    This is used to extract the match information such as teams, venue etc.. goals, behinds, winner
+    :param rows: There are two rows with the information, the home row contains venue details,
+    and the away row contains the link to the team stats for the match
+    """
     match_stats_link = "empty"
 
     # Process home and away rows

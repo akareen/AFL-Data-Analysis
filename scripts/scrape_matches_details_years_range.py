@@ -1,6 +1,5 @@
+import csv, os
 from datetime import datetime
-import csv
-import os
 from tqdm import tqdm
 from urllib.parse import urljoin
 
@@ -15,7 +14,11 @@ from scripts.helper_objects.row_titles import PLAYER_COL_TITLES
 # Peforms the web scraping integrating all the functions stores the data in a CSV file for each year
 def scrape_matches_page_directory(start_year=1897, end_year=datetime.now().year, directory='data/match_details'):
     """
-    Main function that performs the scraping
+    It will scrape all the match details from the start year to the end year
+    The match details include the game stats and team stats for each team
+    :param start_year: start year
+    :param end_year: end year
+    :param directory: directory to store the CSV files
     :return: None
     """
 
@@ -112,7 +115,20 @@ def process_rows(rows, game_stats_directory, team_stats_directory, round_name, y
         process_match_details(full_url, match_info['home_team'], match_info['away_team'], team_stats_directory, year, round_name, home_stats_file_name, away_stats_file_name)
 
 
+# Processes the match details page
 def process_match_details(match_stats_link, home_team, away_team, team_stats_directory, year, round_name, home_file_path, away_file_path):
+    """
+    This function is used to extract the details that have occured in the game such as all player stats for each team
+    :param match_stats_link: link to the match stats page
+    :param home_team: home team name
+    :param away_team: away team name
+    :param team_stats_directory: directory to store the CSV files
+    :param year: year of the round
+    :param round_name: name of the round
+    :param home_file_path: file path for home team stats
+    :param away_file_path: file path for away team stats
+    :return: None
+    """
     match_details_soup = get_soup(match_stats_link)
     if not match_details_soup:
         return
@@ -153,7 +169,6 @@ def process_final_round_section(final_round_section, game_stats_directory, team_
     :param year: year of the round
     :return: None
     """
-    i = 1
     while final_round_section:
         final_round_name = final_round_section.find('b')
         if final_round_name:
@@ -167,4 +182,3 @@ def process_final_round_section(final_round_section, game_stats_directory, team_
                 final_round_section = None
         else:
             final_round_section = final_round_section.find_next_sibling('table')
-        i += 1

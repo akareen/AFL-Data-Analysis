@@ -1,6 +1,6 @@
 first_name,last_name,born_date,debut_date,height,weight,stats_file_name,personal_file_name
-John,Benetti,17-06-1936,21-04-1958,177,93,match_and_player_data/player_all_time_data/BENETTI_JOHN__17-06-1936_STATS.csv,match_and_player_data/player_all_time_data/BENETTI_JOHN__17-06-1936_PERSONAL.csv
-Berkeley,Cox,03-05-1935,03-08-1958,175,76,match_and_player_data/player_all_time_data/COX_BERKELEY__03-05-1935_STATS.csv,match_and_player_data/player_all_time_data/COX_BERKELEY__03-05-1935_PERSONAL.csv
-John,Nicholls,13-08-1939,15-04-1957,189,105,match_and_player_data/player_all_time_data/NICHOLLS_JOHN__13-08-1939_STATS.csv,match_and_player_data/player_all_time_data/NICHOLLS_JOHN__13-08-1939_PERSONAL.csv
-Brian,Buckley,03-08-1935,29-07-1956,185,83,match_and_player_data/player_all_time_data/BUCKLEY_BRIAN__03-08-1935_STATS.csv,match_and_player_data/player_all_time_data/BUCKLEY_BRIAN__03-08-1935_PERSONAL.csv
-Sergio,Silvagni,28-06-1938,19-05-1958,183,92,match_and_player_data/player_all_time_data/SILVAGNI_SERGIO__28-06-1938_STATS.csv,match_and_player_data/player_all_time_data/SILVAGNI_SERGIO__28-06-1938_PERSONAL.csv
+Berkeley,Cox,03-05-1935,03-08-1958,175,76,match_and_player_data/player_all_time_data/COX_BERKELEY_03-05-1935_STATS.csv,match_and_player_data/player_all_time_data/COX_BERKELEY_03-05-1935_PERSONAL.csv
+John,Nicholls,13-08-1939,15-04-1957,189,105,match_and_player_data/player_all_time_data/NICHOLLS_JOHN_13-08-1939_STATS.csv,match_and_player_data/player_all_time_data/NICHOLLS_JOHN_13-08-1939_PERSONAL.csv
+John,Benetti,17-06-1936,21-04-1958,177,93,match_and_player_data/player_all_time_data/BENETTI_JOHN_17-06-1936_STATS.csv,match_and_player_data/player_all_time_data/BENETTI_JOHN_17-06-1936_PERSONAL.csv
+Sergio,Silvagni,28-06-1938,19-05-1958,183,92,match_and_player_data/player_all_time_data/SILVAGNI_SERGIO_28-06-1938_STATS.csv,match_and_player_data/player_all_time_data/SILVAGNI_SERGIO_28-06-1938_PERSONAL.csv
+Brian,Buckley,03-08-1935,29-07-1956,185,83,match_and_player_data/player_all_time_data/BUCKLEY_BRIAN_03-08-1935_STATS.csv,match_and_player_data/player_all_time_data/BUCKLEY_BRIAN_03-08-1935_PERSONAL.csv

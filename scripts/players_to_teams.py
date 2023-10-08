@@ -2,21 +2,27 @@ import os, glob, csv
 from tqdm import tqdm
 import pandas as pd
 from scripts.helper_objects.translation import AFL_TEAM_CODES
+from scripts.helper_objects.row_titles import PLAYER_INFO_HEADER
 
-PLAYER_INFO_HEADER = ['first_name', 'last_name', 'born_date', 'debut_date', 'height', 'weight', 'stats_file_name', 'personal_file_name']
 
 # Goes through the folder with all the player data and creates a new sorted forlder with year/team_name/csv with all players for that year details
-def tie_all_players_to_their_teams():
-    # Specify the directory path
-    directory_path = "match_and_player_data/player_all_time_data"
+def tie_all_players_to_their_teams(search_directory_path = "match_and_player_data/player_all_time_data", output_directory = "match_and_player_data/player_data_by_year"):
+    """
+    This will go through all the player data and tie that data to the team they played for in that year
+    Doing this will allow us to easily get the team stats for each player, through the team stats file
+    It will not copy the details due to the large number of duplication ie: A player plays for 10 years with differing teams
+    Instead it will just copy the file path to the player stats file and the player personal file
+    This will save significant amounts of space and does not deggrade time performance when doing team analysis
+
+    :param search_directory_path: Directory to store the player data
+    """
 
     # Define the pattern to match files ending with "_PERSONAL.csv"
-    file_pattern = os.path.join(directory_path, "*_PERSONAL.csv")
+    file_pattern = os.path.join(search_directory_path, "*_PERSONAL.csv")
 
     # Use glob to get a list of matching files
     matching_files = glob.glob(file_pattern)
 
-    output_directory = "match_and_player_data/player_data_by_year"
     os.makedirs(output_directory, exist_ok=True)
     
     # Iterate through the matching files
@@ -26,6 +32,10 @@ def tie_all_players_to_their_teams():
 
 # Uses the player personal stats file to get the player details and then uses the player stats file to get the year and team
 def tie_player_to_teams(output_directory, player_personal_stats_path):
+    """
+    This will be used by the above function to do the processing for each player
+    """
+
     personal_details = pd.read_csv(player_personal_stats_path).iloc[0].tolist()
 
     stats_data_file_path = player_personal_stats_path.split("_PERSONAL.csv")[0] + "_STATS.csv"

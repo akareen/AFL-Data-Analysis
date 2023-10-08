@@ -1,7 +1,7 @@
 first_name,last_name,born_date,debut_date,height,weight,stats_file_name,personal_file_name
-Ken,Dean,10-08-1938,17-04-1956,178,79,match_and_player_data/player_all_time_data/DEAN_KEN__10-08-1938_STATS.csv,match_and_player_data/player_all_time_data/DEAN_KEN__10-08-1938_PERSONAL.csv
-Michael,Gaudion,20-06-1938,17-06-1957,174,73,match_and_player_data/player_all_time_data/GAUDION_MICHAEL__20-06-1938_STATS.csv,match_and_player_data/player_all_time_data/GAUDION_MICHAEL__20-06-1938_PERSONAL.csv
-Laurie,Dwyer,06-11-1938,22-05-1956,173,65,match_and_player_data/player_all_time_data/DWYER_LAURIE__06-11-1938_STATS.csv,match_and_player_data/player_all_time_data/DWYER_LAURIE__06-11-1938_PERSONAL.csv
-Noel,Teasdale,02-01-1938,10-04-1956,188,98,match_and_player_data/player_all_time_data/TEASDALE_NOEL__02-01-1938_STATS.csv,match_and_player_data/player_all_time_data/TEASDALE_NOEL__02-01-1938_PERSONAL.csv
-John,Dugdale,08-03-1936,03-05-1955,182,82,match_and_player_data/player_all_time_data/DUGDALE_JOHN__08-03-1936_STATS.csv,match_and_player_data/player_all_time_data/DUGDALE_JOHN__08-03-1936_PERSONAL.csv
-John,Waddington,24-05-1938,07-04-1958,183,80,match_and_player_data/player_all_time_data/WADDINGTON_JOHN__24-05-1938_STATS.csv,match_and_player_data/player_all_time_data/WADDINGTON_JOHN__24-05-1938_PERSONAL.csv
+Laurie,Dwyer,06-11-1938,22-05-1956,173,65,match_and_player_data/player_all_time_data/DWYER_LAURIE_06-11-1938_STATS.csv,match_and_player_data/player_all_time_data/DWYER_LAURIE_06-11-1938_PERSONAL.csv
+Michael,Gaudion,20-06-1938,17-06-1957,174,73,match_and_player_data/player_all_time_data/GAUDION_MICHAEL_20-06-1938_STATS.csv,match_and_player_data/player_all_time_data/GAUDION_MICHAEL_20-06-1938_PERSONAL.csv
+Noel,Teasdale,02-01-1938,10-04-1956,188,98,match_and_player_data/player_all_time_data/TEASDALE_NOEL_02-01-1938_STATS.csv,match_and_player_data/player_all_time_data/TEASDALE_NOEL_02-01-1938_PERSONAL.csv
+John,Dugdale,08-03-1936,03-05-1955,182,82,match_and_player_data/player_all_time_data/DUGDALE_JOHN_08-03-1936_STATS.csv,match_and_player_data/player_all_time_data/DUGDALE_JOHN_08-03-1936_PERSONAL.csv
+John,Waddington,24-05-1938,07-04-1958,183,80,match_and_player_data/player_all_time_data/WADDINGTON_JOHN_24-05-1938_STATS.csv,match_and_player_data/player_all_time_data/WADDINGTON_JOHN_24-05-1938_PERSONAL.csv
+Ken,Dean,10-08-1938,17-04-1956,178,79,match_and_player_data/player_all_time_data/DEAN_KEN_10-08-1938_STATS.csv,match_and_player_data/player_all_time_data/DEAN_KEN_10-08-1938_PERSONAL.csv

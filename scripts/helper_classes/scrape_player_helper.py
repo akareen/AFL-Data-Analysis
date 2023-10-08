@@ -1,5 +1,6 @@
 import csv, os
 from datetime import datetime, timedelta
+
 from scripts.helper_classes.helper_functions import get_soup
 from scripts.helper_objects.row_titles import PLAYER_COL_TITLES
 
@@ -82,8 +83,8 @@ def scrape_player_page_for_all_players(player_url, directory):
     last_name = personal_details["last_name"]
     dob = personal_details["born_date"]
 
-    stats_file_name = f"{last_name.upper()}_{first_name.upper()}__{dob}_STATS.csv"
-    personal_file_name = f"{last_name.upper()}_{first_name.upper()}__{dob}_PERSONAL.csv"
+    stats_file_name = f"{last_name.upper()}_{first_name.upper()}_{dob}_STATS.csv"
+    personal_file_name = f"{last_name.upper()}_{first_name.upper()}_{dob}_PERSONAL.csv"
     stats_csv_file_path = os.path.join(directory, stats_file_name) # Create the CSV file path
     personal_csv_file_path = os.path.join(directory, personal_file_name) # Create the CSV file path
     

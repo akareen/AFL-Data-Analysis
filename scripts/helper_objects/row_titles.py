@@ -18,3 +18,5 @@ PLAYER_COL_TITLES = [
     "uncontested_possessions", "contested_marks", "marks_inside_50", 
     "one_percenters%", "bounces", "goal_assist", "%percentage_of_game_played", 
 ]
+
+PLAYER_INFO_HEADER = ['first_name', 'last_name', 'born_date', 'debut_date', 'height', 'weight', 'stats_file_name', 'personal_file_name']

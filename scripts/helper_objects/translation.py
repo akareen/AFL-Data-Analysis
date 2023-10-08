@@ -33,6 +33,7 @@ AFL_CODE_TO_TEAM = {
     'COL': 'Collingwood',
     'ESS': 'Essendon',
     'FIT': 'Fitzroy',
+    'FOO': 'Footscray',
     'FRE': 'Fremantle',
     'GEE': 'Geelong',
     'GCS': 'Gold Coast',

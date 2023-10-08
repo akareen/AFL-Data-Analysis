@@ -1,4 +1,4 @@
 first_name,last_name,born_date,debut_date,height,weight,stats_file_name,personal_file_name
-Ken,Turner,30-06-1935,07-05-1956,178,76,match_and_player_data/player_all_time_data/TURNER_KEN__30-06-1935_STATS.csv,match_and_player_data/player_all_time_data/TURNER_KEN__30-06-1935_PERSONAL.csv
-Brian,Gray,21-02-1938,10-04-1956,175,76,match_and_player_data/player_all_time_data/GRAY_BRIAN__21-02-1938_STATS.csv,match_and_player_data/player_all_time_data/GRAY_BRIAN__21-02-1938_PERSONAL.csv
-Ray,Gabelich,03-07-1933,25-04-1955,193,109,match_and_player_data/player_all_time_data/GABELICH_RAY__03-07-1933_STATS.csv,match_and_player_data/player_all_time_data/GABELICH_RAY__03-07-1933_PERSONAL.csv
+Ray,Gabelich,03-07-1933,25-04-1955,193,109,match_and_player_data/player_all_time_data/GABELICH_RAY_03-07-1933_STATS.csv,match_and_player_data/player_all_time_data/GABELICH_RAY_03-07-1933_PERSONAL.csv
+Ken,Turner,30-06-1935,07-05-1956,178,76,match_and_player_data/player_all_time_data/TURNER_KEN_30-06-1935_STATS.csv,match_and_player_data/player_all_time_data/TURNER_KEN_30-06-1935_PERSONAL.csv
+Brian,Gray,21-02-1938,10-04-1956,175,76,match_and_player_data/player_all_time_data/GRAY_BRIAN_21-02-1938_STATS.csv,match_and_player_data/player_all_time_data/GRAY_BRIAN_21-02-1938_PERSONAL.csv

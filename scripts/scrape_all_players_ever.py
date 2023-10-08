@@ -9,8 +9,10 @@ def scrape_all_players_ever(start_url='https://afltables.com/afl/afl_index.html'
     """
     Main function that performs the scraping
     It will scrape the stats for every player that has ever played in the VFL/AFL
-    The function will store the player stats in a CSV file in the directory for each team
-    they have played in
+    The funtion will store the data in CSV files in the specified directory
+    Duplicate names will not happen as it is saved as {first_name}_{last_name}_{date_of_birth}.csv
+    It will save the player stats and personal details in seperate files,
+    one ends with _PERSONAL.csv and the other ends with _STATS.csv
     :param start_url: URL to start scraping from
     :param directory: Directory to store the CSV files
     :return: None

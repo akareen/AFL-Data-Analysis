@@ -1,5 +1,5 @@
 first_name,last_name,born_date,debut_date,height,weight,stats_file_name,personal_file_name
-John,Peck,07-08-1937,15-04-1954,188,91,match_and_player_data/player_all_time_data/PECK_JOHN__07-08-1937_STATS.csv,match_and_player_data/player_all_time_data/PECK_JOHN__07-08-1937_PERSONAL.csv
-Garry,Young,10-07-1939,29-05-1956,183,84,match_and_player_data/player_all_time_data/YOUNG_GARRY__10-07-1939_STATS.csv,match_and_player_data/player_all_time_data/YOUNG_GARRY__10-07-1939_PERSONAL.csv
-Graham,Arthur,09-06-1936,12-04-1955,180,86,match_and_player_data/player_all_time_data/ARTHUR_GRAHAM__09-06-1936_STATS.csv,match_and_player_data/player_all_time_data/ARTHUR_GRAHAM__09-06-1936_PERSONAL.csv
-John,Fisher,10-10-1937,19-08-1957,179,73,match_and_player_data/player_all_time_data/FISHER_JOHN__10-10-1937_STATS.csv,match_and_player_data/player_all_time_data/FISHER_JOHN__10-10-1937_PERSONAL.csv
+John,Fisher,10-10-1937,19-08-1957,179,73,match_and_player_data/player_all_time_data/FISHER_JOHN_10-10-1937_STATS.csv,match_and_player_data/player_all_time_data/FISHER_JOHN_10-10-1937_PERSONAL.csv
+Graham,Arthur,09-06-1936,12-04-1955,180,86,match_and_player_data/player_all_time_data/ARTHUR_GRAHAM_09-06-1936_STATS.csv,match_and_player_data/player_all_time_data/ARTHUR_GRAHAM_09-06-1936_PERSONAL.csv
+John,Peck,07-08-1937,15-04-1954,188,91,match_and_player_data/player_all_time_data/PECK_JOHN_07-08-1937_STATS.csv,match_and_player_data/player_all_time_data/PECK_JOHN_07-08-1937_PERSONAL.csv
+Garry,Young,10-07-1939,29-05-1956,183,84,match_and_player_data/player_all_time_data/YOUNG_GARRY_10-07-1939_STATS.csv,match_and_player_data/player_all_time_data/YOUNG_GARRY_10-07-1939_PERSONAL.csv

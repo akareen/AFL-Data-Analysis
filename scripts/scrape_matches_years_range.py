@@ -1,6 +1,5 @@
+import csv, os
 from datetime import datetime
-import csv
-import os
 from tqdm import tqdm
 
 from scripts.helper_classes.helper_functions import get_soup
@@ -12,6 +11,7 @@ from scripts.helper_objects.row_titles import MATCH_COL_TITLES
 def scrape_matches_page(start_year=1897, end_year=datetime.now().year, directory='data/match_scores'):
     """
     Main function that performs the scraping
+    It will scrape the match results from the start year to the end year
     :return: None
     """
 
