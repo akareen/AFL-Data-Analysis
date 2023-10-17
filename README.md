@@ -27,7 +27,9 @@ The AFL Data Analysis project provides a comprehensive platform for examining an
 
 The repository currently stores match scores data from 1897 to 2023, in depth personal and game statistics for every player who have ever played in the VFL/AFL and historical odds data from 2009 to 2023. All the data is  conveniently stored in CSV format for seamless access and analysis.
 
-Explore the **/match_and_player_data/** directory for the complete dataset. Contributions are encouraged; don't hesitate to submit a pull request!
+Explore the **/match_and_player_data/** directory for the complete dataset. 
+
+Contributions are encouraged; don't hesitate to submit a pull request or contact me with the details on my GitHub profile.
 
 ## Features
 
@@ -37,9 +39,10 @@ Explore the **/match_and_player_data/** directory for the complete dataset. Cont
 - Historical odds data for strategic tipping and betting
 - Cleansed data, primed for analysis
 - Analytical Jupyter notebooks showcasing potential insights
+- Python classes for players, teams, and matches
 
 **In the Pipeline:**
-- Python classes for players, teams, and matches
+- Expanding the classes to allow for complex analysis
 - Dedicated database system
 - Advanced scoring algorithms
 - Visualization tools for performance metrics
@@ -78,28 +81,16 @@ To start analyzing AFL data, you can use the provided Jupyter notebooks in the "
 
 Please note that the available data ranges from 1897 to the current year.
 
-## Scraping Examples
-While data is readily available in the repository, here's how you can use scraping if needed.
-
-- To scrape match scores data from 1897 to 2023 and store it in the "data/match_scores" directory:
-
-  ```bash
-  python scrape.py data/match_scores matches 1897 2023
-  ```
-
-- To collect data for all players and store it in the "data/all_players" directory:
-
-  ```bash
-  python scrape.py data/all_players all_players
-  ```
-
-
 
 ## Data Guide
 
-### Match Data Explanation
+### Match Data -  Explanation
 
 The repository contains the information for all matches from 1897-2023.
+
+![Match Data Example](/assets/matchdata_example.png)
+
+The above includes part of the data the columns are too numerous to show completely. An example of a selection of the match data can be seen here: [2023_MATCH_RESULTS.csv](match_and_player_data/match_scores/2023_MATCH_RESULTS.csv)
 
 **The columns for each match are as follows:**   
 Year, Round, Venue, Date, Attendance,  
@@ -116,7 +107,7 @@ The **match_and_player_data/match_scores** directory contains the match scores d
 
 The **match_and_player_data/match_details** directory contains the match scores data as well as player statistics for each match in CSV format. The file format is **{YEAR}\_{HOME_TEAM}\_{AWAY_TEAM}\_GAMESTATS.csv** and **{YEAR}\_{HOME_TEAM}\_{AWAY_TEAM}\_TEAMSTATS\_{TEAM}.csv**.
 
-An example of the match data can be seen here: [2023_MATCH_RESULTS.csv](match_and_player_data/match_scores/2023_MATCH_RESULTS.csv)  
+
   
   An example of the match details data (2023 Grand Final) can be seen here:  
  [2023_GF_COL_BRL_GAMESTATS.csv](match_and_player_data/match_details/2023/gamestats/2023_GF_COL_BRL_GAMESTATS.csv),   
@@ -124,16 +115,13 @@ An example of the match data can be seen here: [2023_MATCH_RESULTS.csv](match_an
  [2023_GF_COL_BRL_TEAMSTATS_COL.csv](match_and_player_data/match_details/2023/teamstats/2023_GF_COL_BRL_TEAMSTATS_COL.csv), 
 
 ----
-### Player Data Explanation
-
-#### Player Personal Data
-
-**The columns for each player are as follows:**
-First Name, Last Name, Born Date, Debut Date, Height, Weight
-
-Inside the data all the columns are in **snake case** and the players born date along with first and last name are used to create a unique identifier for each player. The file format is **{FIRST_NAME}\_{LAST_NAME}\_{BORN_DATE}\_PERSONAL.csv**.
+### Player Data - Explanation
 
 #### Player Performance Data
+
+![Player Performance Data Example](/assets/playerstats_example.png)
+
+An example of the player performance data can be seen here: [BONTEMPELLI_MARCUS_24-11-1995_STATS.csv](match_and_player_data/player_all_time_data/BONTEMPELLI_MARCUS_24-11-1995_STATS.csv)
 
 **The columns for each player are as follows:**  
 
@@ -143,9 +131,23 @@ Tackles, Rebound 50s, Inside 50s, Clearances, Clangers, Free Kicks For, Free Kic
 Brownlow Votes, Contested Possessions, Uncontested Possessions, Contested Marks, Marks Inside 50,   
 One Percenters %, Bounces, Goal Assist, % Percentage of Game Played
 
-Inside the data all the columns are in **snake case**. The file format is **{FIRST_NAME}\_{LAST_NAME}\_{BORN_DATE}\_PERFORMANCE.csv**.
+Inside the data all the columns are in **snake case**. The file format is *{FIRST_NAME}\_{LAST_NAME}\_{BORN_DATE}\_PERFORMANCE.csv*.
+
+
+#### Player Personal Data
+
+**The columns for each player are as follows:**
+First Name, Last Name, Born Date, Debut Date, Height, Weight
+
+Inside the data all the columns are in **snake case** and the players born date along with first and last name are used to create a unique identifier for each player. The file format is **{FIRST_NAME}\_{LAST_NAME}\_{BORN_DATE}\_PERSONAL.csv**.
+
+----
 
 ### Team Data Explanation
+
+![Team Data Example](/assets/teamdata_example.png)
+
+An example of the team data can be seen here: [2023_COL_PLAYER_STATS.csv](match_and_player_data/player_data_by_year/2023/Collingwood/2023_COL_PLAYER_STATS.csv)
 
 The team data is stored by year in the **match_and_player_data/player_data_by_year** directory.  
 The information ranges from 1951 to today. It contains all of the player personal data as well as an additional two columns for each player that have the file path to the players personal data and the players performance data. This prevents duplication whilst also allowing for easy access to the data.
@@ -157,10 +159,26 @@ This project uses publicly available AFL data sources, including match scores, p
 - Match and Player Data: [AFL Tables](https://afltables.com/afl/afl_index.html)
 - Historical Odds Data: [AusSportsBetting](https://www.aussportsbetting.com/data/historical-afl-results-and-odds-data/)
 
+## Scraping Examples
+While data is readily available in the repository, here's how you can use scraping if needed.
+
+- To scrape match scores data from 1897 to 2023 and store it in the "data/match_scores" directory:
+
+  ```bash
+  python scrape.py data/match_scores matches 1897 2023
+  ```
+
+- To collect data for all players and store it in the "data/all_players" directory:
+
+  ```bash
+  python scrape.py data/all_players all_players
+  ```
+
+
 ## Contributing
 
 AFL Data Analysis thrives on collaboration! Got a novel analysis idea or data source? Open an issue or send a pull request. Your expertise is invaluable in elevating this project.
 
 ## License
 
-AFL Data Analysis is under the GPL 3 License. Refer to the [LICENSE](LICENSE) file for a complete understanding. This license promotes open-source by allowing modifications while ensuring derivations remain equally open.
+AFL Data Analysis is under the MIT License. Refer to the [LICENSE](LICENSE) file for a complete understanding.
