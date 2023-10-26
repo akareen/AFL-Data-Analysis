@@ -27,7 +27,7 @@ The AFL Data Analysis project provides a comprehensive platform for examining an
 
 The repository currently stores match scores data from 1897 to 2023, in depth personal and game statistics for every player who have ever played in the VFL/AFL and historical odds data from 2009 to 2023. All the data is  conveniently stored in CSV format for seamless access and analysis.
 
-Explore the **/match_and_player_data/** directory for the complete dataset. 
+Download the repository and explore the **/match_and_player_data/** directory for the complete dataset. 
 
 Contributions are encouraged; don't hesitate to submit a pull request or contact me with the details on my GitHub profile.
 
@@ -68,18 +68,6 @@ Contributions are encouraged; don't hesitate to submit a pull request or contact
 ## Usage
 
 I regularly update the CSV data files in the **/match_and_player_data** directory with the latest AFL match and player data. But you can also do your own data scraping using the provided scripts in the "scripts" directory. Scripts, using the Beautiful Soup library, are available for web scraping.
-
-To start analyzing AFL data, you can use the provided Jupyter notebooks in the "notebooks" directory. These notebooks cover a wide range of analyses and visualizations related to AFL match and player data.
-
-### Command Line Options
-
-- `<data_storage_directory>`: Specify the directory where the data will be stored.
-- `<option>`: Choose one of the following options:
-  - `matches <start year> <end year>`: Collect match scores data within the specified year range.
-  - `match_details <start year> <end year>`: Collect match scores data as well as player stats within those matches for the specified year range.
-  - `all_players`: Collect data for all players in the VFL/AFL.
-
-Please note that the available data ranges from 1897 to the current year.
 
 
 ## Data Guide
@@ -174,6 +162,16 @@ While data is readily available in the repository, here's how you can use scrapi
   python scrape.py data/all_players all_players
   ```
 
+
+### Command Line Options
+
+- `<data_storage_directory>`: Specify the directory where the data will be stored.
+- `<option>`: Choose one of the following options:
+  - `matches <start year> <end year>`: Collect match scores data within the specified year range.
+  - `match_details <start year> <end year>`: Collect match scores data as well as player stats within those matches for the specified year range.
+  - `all_players`: Collect data for all players in the VFL/AFL.
+
+Please note that the available data ranges from 1897 to the current year.
 
 ## Contributing
 
