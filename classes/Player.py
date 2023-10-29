@@ -1,5 +1,7 @@
 import pandas as pd
 import math
+import glob
+import os
 from typing import List, Dict, Any, Optional, Union
 
 """
@@ -20,7 +22,20 @@ class Player:
     ]
 
     # Initialises all the variables of the players
-    def __init__(self, personal_page, stats_page) -> None:
+    def __init__(self, full_name, personal_file_name = None, stats_file_name = None) -> None:
+        """
+        Creates the player by finding the CSV files and extracting the data.
+        It can also be created by passing in the CSV files directly.
+
+        Parameters
+        full_name (str): The full name of the player. The format is as follows: "First Last"
+        personal_file_name (str): The name of the personal file. Defaults to None
+        stats_file_name (str): The name of the stats file. Defaults to None
+
+        Returns
+        None
+        """
+
         self.first_name = ""
         self.last_name = ""
         self.full_name = ""
@@ -37,7 +52,51 @@ class Player:
         self.all_time_max_performance = {}
         self.all_time_min_performance = {}
         self.all_time_avg_performance = {}
-        self.create_player(personal_page, stats_page)
+
+        if personal_file_name and stats_file_name:
+            self.create_player(personal_file_name, stats_file_name)
+        else:
+            player_first_name, player_last_name = full_name.split(" ")
+            player_files = self.find_player_files(
+                "match_and_player_data/player_all_time_data", 
+                player_first_name, 
+                player_last_name
+            )
+            if player_files:
+                personal_page, stats_page = player_files
+                self.create_player(personal_page, stats_page)
+
+
+    # Finds the player files in the match_and_player_data/player_all_time_data directory
+    def find_player_files(self, directory, first_name, last_name) -> Optional[List[str]]:
+        """
+        Finds the player files in the match_and_player_data/player_all_time_data directory
+
+        Parameters
+        directory (str): The directory to search for the player files
+        first_name (str): The first name of the player
+        last_name (str): The last name of the player
+        
+        Returns
+        Optional[List[str]]: A list of the player files. The format is as follows: [personal_file, stats_file]
+        """
+
+        name_pattern = f"{last_name.upper()}_{first_name.upper()}"
+
+        potential_personal_file = f"{name_pattern}_*_PERSONAL.csv"
+        potential_stats_file = f"{name_pattern}_*_STATS.csv"
+        
+        personal_files = glob.glob(os.path.join(directory, potential_personal_file))
+        stats_files = glob.glob(os.path.join(directory, potential_stats_file))
+
+        personal_file = personal_files[0] if personal_files else None
+        stats_file = stats_files[0] if stats_files else None
+
+        if personal_file and stats_file:
+            return personal_file, stats_file
+        else:
+            print(f"Files for {first_name} {last_name} not found or incomplete in the directory.")
+            return None, None
 
 
     # ---- The below functions are public functions that can be used to get the data from the player ----
@@ -341,8 +400,5 @@ class Player:
 
 
 if __name__ == "__main__":
-    bruz = Player(
-        "match_and_player_data/player_all_time_data/MAYNARD_BRAYDEN_20-09-1996_PERSONAL.csv", 
-        "match_and_player_data/player_all_time_data/MAYNARD_BRAYDEN_20-09-1996_STATS.csv"
-    )
+    bruz = Player("Brayden Maynard")
     bruz.print_player_summary()

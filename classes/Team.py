@@ -66,8 +66,9 @@ class Team:
             player_game_stats = row['stats_file_name']
             
             player_object = Player.Player(
-                personal_page=player_personal_stats, 
-                stats_page=player_game_stats)
+                "player_name",
+                personal_file_name=player_personal_stats, 
+                stats_file_name=player_game_stats)
             
             player_full_name = player_object.full_name
             player_info[player_full_name] = player_object
