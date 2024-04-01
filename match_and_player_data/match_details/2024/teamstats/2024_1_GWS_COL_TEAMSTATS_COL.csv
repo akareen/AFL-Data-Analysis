@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2024,1,Collingwood,Greater Western Sydney,14 ,"Cameron, Darcy",15,4,5,20,2, ,30,5,2,1,2,6,2, , ,10,8,1, ,1, , ,81
+2024,1,Collingwood,Greater Western Sydney,46 ,"Cox, Mason",2,1,3,5, , ,19, , ,2, ,1, ,1, ,2,3, , ,1, , ,67
+2024,1,Collingwood,Greater Western Sydney,25 ,"Crisp, Jack",9,2,9,18, ,1, ,6,2,3,3,3,2,1, ,9,9, , ,2, ,1,85
+2024,1,Collingwood,Greater Western Sydney,7 ,"Daicos, Josh",16,6,12,28, , , ,5,2,5,3,2,1, , ,6,22, , , , , ,92
+2024,1,Collingwood,Greater Western Sydney,35 ,"Daicos, Nick",19,3,15,34,1,1, ,4,1,8,10,5,1,3, ,16,19, , , ,1, ,80
+2024,1,Collingwood,Greater Western Sydney,2 ,"de Goey, Jordan",11,4,10,21, , , ,1,1,4,7,6,1,3, ,8,11, , , , , ,79
+2024,1,Collingwood,Greater Western Sydney,43 ,"Dean, Charlie",4,3,5,9, , , ,1,4, , , ,1, , ,3,7, , ,6, , ,96
+2024,1,Collingwood,Greater Western Sydney,5 ,"Elliott, Jamie",9,3,7,16, ,2, ,3, ,2,1,5,1,1, ,5,8, ,2, , , ,83
+2024,1,Collingwood,Greater Western Sydney,23 ,"Hill, Bobby",5,1,5,10,2, , ,3, , , ,3, , , ,3,6, ,1, ,1,1,76
+2024,1,Collingwood,Greater Western Sydney,32 ,"Hoskin-Elliott, Will",13,7,1,14, ,1, ,1,3,3, ,5,1,1, ,1,12, ,1,3, ,1,79
+2024,1,Collingwood,Greater Western Sydney,40 ,"Johnson, Ash",2,1, ,2, , , ,1, ,1, ,2,1,1, ,2, ,1, , ,1, ,68
+2024,1,Collingwood,Greater Western Sydney,1 ,"Lipinski, Patrick",12,2,14,26, ,2, ,2,3,3,1,4,1,1, ,9,16, ,1, , , ,84
+2024,1,Collingwood,Greater Western Sydney,37 ,"Markov, Oleg",5,2,11,16, , , , ,1,1,2,3, , , ,7,10,1, ,2, , ,81
+2024,1,Collingwood,Greater Western Sydney,4 ,"Maynard, Brayden",15,9,1,16,1, , ,5,4,3,1,3,2,1, ,2,12, , ,1, , ,85
+2024,1,Collingwood,Greater Western Sydney,31 ,"McCreery, Beau",7,3,2,9,1,1, ,4, ,4, ,3,1,1, ,2,7, , ,1, , ,82
+2024,1,Collingwood,Greater Western Sydney,41 ,"Mihocek, Brody",8,3,6,14,3,2, , , , , ,1, , , ,4,9, ,3,1, , ,93
+2024,1,Collingwood,Greater Western Sydney,6 ↓,"Mitchell, Tom",2, ,7,9,1, , ,2, ,1,2, , , , ,4,5, , , , , ,48
+2024,1,Collingwood,Greater Western Sydney,30 ,"Moore, Darcy",6,4,3,9, , , ,2,3,1, , , , , ,4,4,1, ,10, , ,97
+2024,1,Collingwood,Greater Western Sydney,9 ↑,"Noble, John",4,1,4,8, , , ,3,3,1, ,2, ,1, ,2,6, , ,1, , ,33
+2024,1,Collingwood,Greater Western Sydney,10 ,"Pendlebury, Scott",10,8,8,18, , , ,1, ,2,5, , , , ,6,12, , ,1, ,2,62
+2024,1,Collingwood,Greater Western Sydney,3 ,"Quaynor, Isaac",9,3,6,15, , , ,2,4,3,1,2,2, , ,7,9, , ,5, , ,77
+2024,1,Collingwood,Greater Western Sydney,8 ,"Schultz, Lachie",8,5,8,16, ,3, ,6, ,5, ,3, ,1, ,5,11, ,1,2, , ,81
+2024,1,Collingwood,Greater Western Sydney,22 ,"Sidebottom, Steele",14,6,3,17, , , ,3,2,7,2,3,3, , ,6,13, , ,1, ,2,88

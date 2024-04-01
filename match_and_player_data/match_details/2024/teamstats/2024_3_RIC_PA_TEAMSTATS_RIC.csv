@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2024,3,Richmond,Port Adelaide,7 ,"Baker, Liam",15,4,8,23,3, , ,4,1,7,5,2,1,1, ,11,12, ,2,1, , ,79
+2024,3,Richmond,Port Adelaide,21 ,"Balta, Noah",7,4,4,11,1,1,5,1,2,3,1,5, ,1, ,4,7,1,1, , , ,85
+2024,3,Richmond,Port Adelaide,41 ↓,"Banks, Sam",3,1,2,5, , , ,1, ,1,1,2, ,1, ,1,4, , ,1, , ,60
+2024,3,Richmond,Port Adelaide,29 ,"Bolton, Shai",13,3,9,22,2,2, ,3, ,7,5,5, ,1, ,7,15, , ,1,5,1,84
+2024,3,Richmond,Port Adelaide,30 ,"Brown, Tom",8,1,5,13, , , ,1,2,2, ,1,2, , ,7,6,1, ,1, ,1,77
+2024,3,Richmond,Port Adelaide,44 ,"Campbell, Seth",11,3,3,14, ,1, ,2,1,4, ,1, , , ,5,9, , ,2,1,1,80
+2024,3,Richmond,Port Adelaide,23 ↑,"Clarke, Judson",3,2,1,4, , , , , ,1, ,1, , , ,1,3, , , , , ,19
+2024,3,Richmond,Port Adelaide,27 ,"Dow, Thomson",6,4,6,12, ,1, ,1,2,1,2,3,2,1, ,7,6, ,1,2, , ,76
+2024,3,Richmond,Port Adelaide,2 ,"Grimes, Dylan",3,4,4,7, , , , ,2, , ,2, ,1, ,4,4,1, ,4, , ,82
+2024,3,Richmond,Port Adelaide,42 ,"Lefau, Mykelti",1,1,4,5, , , ,2,1,1, ,1,2, , ,4,1, ,1,1,1,1,79
+2024,3,Richmond,Port Adelaide,19 ,"Lynch, Tom",3, ,4,7,1,1, , , , , ,5, ,2, ,4,2, , , , , ,82
+2024,3,Richmond,Port Adelaide,31 ,"Mansell, Rhyan",12,5,1,13,2,1, ,2, ,3, ,2,1, , ,4,9,1,1, , ,2,76
+2024,3,Richmond,Port Adelaide,4 ,"Martin, Dustin",7,4,9,16, ,1, ,1, ,6, ,1, , , ,7,9, , , , ,2,82
+2024,3,Richmond,Port Adelaide,33 ,"McIntosh, Kamdyn",6,3,3,9, , , ,1,3, , ,2, ,1, ,2,7, , ,1, , ,80
+2024,3,Richmond,Port Adelaide,46 ,"Miller, Ben",10,5,1,11, , , , ,6, , ,3, ,1, ,3,6,1, ,14, , ,98
+2024,3,Richmond,Port Adelaide,25 ,"Nankervis, Toby",11,1,6,17, , ,24,6,1,4,7,9,2,3, ,9,6, , ,6, , ,81
+2024,3,Richmond,Port Adelaide,50 ,"Pickett, Marlion",5,2,6,11,1,1, ,1,1,1, ,5, ,4, ,3,8, , ,1, , ,82
+2024,3,Richmond,Port Adelaide,17 ,"Rioli, Daniel",10,4,11,21,1, , ,1,2,1,1,1, ,1, ,7,12, ,1,1, ,1,83
+2024,3,Richmond,Port Adelaide,5 ,"Ross, Jack",11,6,15,26,1, , , ,4,5,5,3, , , ,9,17,1, , , , ,76
+2024,3,Richmond,Port Adelaide,15 ,"Short, Jayden",19,6,2,21, ,1, , ,4,3, ,4, ,1, ,2,17, , , , , ,82
+2024,3,Richmond,Port Adelaide,14 ,"Taranto, Tim",14,5,12,26,1,2, ,3, ,2,4,3,1,2, ,11,14,1, , , ,2,85
+2024,3,Richmond,Port Adelaide,36 ,"Trezise, James",4,2,10,14, , , ,1,3, , ,2, ,1, ,8,6, , ,3, , ,79
+2024,3,Richmond,Port Adelaide,1 ,"Vlastuin, Nick",14,4,2,16, , , ,1,9, , ,3,2,1, ,4,6, , ,2, , ,94

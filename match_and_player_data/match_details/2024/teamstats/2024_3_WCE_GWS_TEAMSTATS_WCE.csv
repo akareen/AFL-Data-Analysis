@@ -1,0 +1,24 @@
+year,round_name,team_name,opposition_name,jersey_num,player_name,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+2024,3,West Coast,Greater Western Sydney,30 ↓,"Barnett, Harry",3, ,3,6, , ,8,2, ,1, ,3,1,1, ,3,3, , ,1, , ,43
+2024,3,West Coast,Greater Western Sydney,37 ,"Barrass, Tom",7,7,5,12, , , ,1,5, , ,1, ,1, ,3,9,1, ,11, , ,100
+2024,3,West Coast,Greater Western Sydney,10 ,"Brockman, Tyler",3,1,9,12, ,1, ,5, ,2,1,2,2,1, ,6,7, ,1,3, , ,73
+2024,3,West Coast,Greater Western Sydney,18 ,"Chesser, Campbell",7,3,9,16, , , , ,1,2,1,5, ,1, ,7,11, , ,2,1, ,80
+2024,3,West Coast,Greater Western Sydney,28 ,"Cole, Tom",11,6,10,21, , , ,1,7,1,1,5,2, , ,6,16, , ,3, , ,82
+2024,3,West Coast,Greater Western Sydney,15 ,"Cripps, Jamie",9,6,5,14,1,2, ,4, ,3, ,1, ,1, ,3,11, ,2,2, , ,86
+2024,3,West Coast,Greater Western Sydney,27 ,"Darling, Jack",5,1,7,12, ,2, ,3, , , ,2, ,1, ,7,6, , ,2, , ,94
+2024,3,West Coast,Greater Western Sydney,14 ,"Duggan, Liam",18,7,10,28, , , ,3,5,3,2,3,1,1, ,6,18,1, , , , ,85
+2024,3,West Coast,Greater Western Sydney,16 ,"Edwards, Luke",7,3,5,12, , , ,2,1,2,2, , , , ,3,10, , ,1, , ,83
+2024,3,West Coast,Greater Western Sydney,7 ,"Ginbey, Reuben",6,3,16,22, ,1, ,5,1,2,4,6,1,2, ,13,9, , ,1, ,1,77
+2024,3,West Coast,Greater Western Sydney,19 ,"Hough, Brady",10,4,8,18, , , ,1,4,2, ,2,4, , ,6,12, , ,1, , ,81
+2024,3,West Coast,Greater Western Sydney,5 ,"Hunt, Jayden",15,1,7,22,1, , ,6,6,3,2,1,1,1, ,6,13, , ,1,3, ,84
+2024,3,West Coast,Greater Western Sydney,40 ,"Jamieson, Callum",7,2,4,11, , , ,1,2,1, ,1,1, , ,5,7, , ,5, , ,86
+2024,3,West Coast,Greater Western Sydney,31 ,"Jones, Jamaine",6,4,7,13, , , ,2,2, , ,2, ,1, ,5,8, , , ,1, ,82
+2024,3,West Coast,Greater Western Sydney,11 ,"Kelly, Tim",7,4,15,22,1, , ,5,3,3,5,3, ,2, ,7,17, , ,1,3, ,81
+2024,3,West Coast,Greater Western Sydney,13 ,"Long, Noah",6,3,3,9, , , ,4, ,3,1, ,1, , ,2,7, , , , , ,84
+2024,3,West Coast,Greater Western Sydney,41 ↑,"Maric, Ryan",1, ,4,5, , , ,3, ,1, , , , , ,1,4, , ,1, , ,30
+2024,3,West Coast,Greater Western Sydney,20 ,"McGovern, Jeremy",18,7,8,26, , , ,3,10, ,1,2, , , ,9,12, , ,11, , ,83
+2024,3,West Coast,Greater Western Sydney,21 ,"Petruccelle, Jack",7,4,6,13, ,1, , ,1,3,1, ,2, , ,5,8,1,1, ,1,1,76
+2024,3,West Coast,Greater Western Sydney,9 ,"Reid, Harley",4,1,13,17, , , ,4, ,2,3,2,2,1, ,8,9, , , ,1,1,72
+2024,3,West Coast,Greater Western Sydney,2 ,"Waterman, Jake",7,5,4,11,1,2,2,1, ,1, , , , , ,3,9,1,4,1, , ,80
+2024,3,West Coast,Greater Western Sydney,32 ,"Williams, Bailey",3, ,8,11, , ,14,1, ,3,3, , , , ,9,2, , ,2, , ,86
+2024,3,West Coast,Greater Western Sydney,6 ,"Yeo, Elliot",11, ,16,27,1, , ,8,1,6,9,5,1,2, ,15,11, , , ,2, ,70

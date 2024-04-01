@@ -153,13 +153,13 @@ While data is readily available in the repository, here's how you can use scrapi
 - To scrape match scores data from 1897 to 2023 and store it in the "data/match_scores" directory:
 
   ```bash
-  python scrape.py data/match_scores matches 1897 2023
+  python scrape.py match_and_player_data/match_scores matches 1897 2023
   ```
 
 - To collect data for all players and store it in the "data/all_players" directory:
 
   ```bash
-  python scrape.py data/all_players all_players
+  python scrape.py match_and_player_data/player_all_time_data all_players
   ```
 
 
