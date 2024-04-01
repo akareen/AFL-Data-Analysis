@@ -1,0 +1,27 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+St Kilda,2023,1,Fremantle,1,W,25,6,3,10,16,1,,,,1,2,2,1,1,,,8,8,,1,1,,1,74
+St Kilda,2023,2,Western Bulldogs,2,W,25,4,3,3,7,3,,,,,2,1,2,,1,,4,5,1,,2,,,80
+St Kilda,2023,3,Essendon,3,W,25,4,2,10,14,,1,,1,,,1,2,,1,,8,5,1,,,,,88
+St Kilda,2023,4,Gold Coast,4,W,25,7,1,11,18,1,,,4,,4,2,5,1,1,,10,7,,1,,,,82
+St Kilda,2023,5,Collingwood,5,L,25,8,3,11,19,1,1,,2,,1,2,2,,,,6,13,,1,,,1,85
+St Kilda,2023,6,Carlton,6,W,25,5,4,8,13,,,,2,,3,1,3,1,1,1,3,9,,1,2,,,68
+St Kilda,2023,7,Port Adelaide,7,L,25,2,2,10,12,,,,1,,2,,6,1,2,,2,11,,,,,1,72
+St Kilda,2023,8,North Melbourne,8,W,25,5,6,8,13,,1,,4,1,2,1,1,,,,5,8,1,,,2,,75
+St Kilda,2023,9,Adelaide,9,L,25,6,3,12,18,,1,,,,7,,4,,,,5,13,,,2,,2,84
+St Kilda,2023,10,Greater Western Sydney,10,W,25,5,4,8,13,,1,,6,1,3,2,1,2,,,8,6,,,1,,,83
+St Kilda,2023,11,Hawthorn,11,L,25,5,6,6,11,1,,,2,,1,,,,,,4,7,2,,1,,,75
+St Kilda,2023,12,Sydney,13,W,25,6,2,4,10,1,,,5,1,4,,5,1,3,,4,6,,,,,,81
+St Kilda,2023,13,Richmond,14,L,25,10,4,8,18,,,,2,,4,3,3,2,,,9,9,1,1,2,,1,76
+St Kilda,2023,14,Brisbane Lions,15,L,25,,2,12,12,,,,1,,,1,2,,1,,6,6,,,,,1,83
+St Kilda,2023,15,West Coast,16,W,25,3,1,8,11,,,,3,,1,,2,,,,6,5,,,,,,71
+St Kilda,2023,16,Melbourne,17,L,25,5,2,10,15,,2,,,,2,,3,1,,,7,8,1,2,,,,86
+St Kilda,2023,17,Gold Coast,18,L,25,2,3,5,7,1,,,2,,,,,,,,1,7,1,1,1,,,46
+St Kilda,2023,18,North Melbourne,19,W,25,9,2,6,15,,,,5,1,3,2,2,2,,,9,6,,,,,,77
+St Kilda,2023,19,Hawthorn,20,W,25,9,7,4,13,,1,,4,,3,1,2,,,,5,9,,,2,,,77
+St Kilda,2023,20,Carlton,21,L,25,4,3,4,8,1,,,2,,2,,1,,,,4,4,1,1,,,,58
+St Kilda,2023,21,Richmond,22,W,25,7,3,7,14,1,,,5,,2,2,2,3,,,5,9,,1,,,,67
+St Kilda,2023,22,Geelong,23,W,25,2,,5,7,1,,,1,,1,,1,,,,5,3,,,,,,64
+St Kilda,2023,23,Brisbane Lions,24,L,25,8,2,3,11,1,,,2,,6,4,5,1,1,,5,6,,1,1,,2,85
+St Kilda,2023,24,Greater Western Sydney,EF,L,25,2,1,7,9,,,,,1,1,1,2,,,,4,5,,,1,,,62
+St Kilda,2024,25,Geelong,2,L,25,7,2,5,12,1,,,3,2,,3,2,3,1,,4,9,,,1,,,70
+St Kilda,2024,26,Collingwood,3,W,25,6,,6,12,1,1,,1,1,1,1,2,,,,4,8,,,,,,82

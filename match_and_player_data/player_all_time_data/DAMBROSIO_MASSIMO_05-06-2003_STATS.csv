@@ -1,0 +1,19 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Essendon,2022,1,St Kilda,14,W,42,9,2,6,15,,,,1,4,,1,2,1,2,,4,11,,,1,,,77
+Essendon,2022,2,West Coast,15,L,42,8,5,6,14,,,,1,4,,,3,,1,,6,9,,,1,,,75
+Essendon,2022,3,Sydney,16,W,42,13,6,10,23,,,,,5,,1,1,,,,3,20,,,,,,89
+Essendon,2022,4,Brisbane Lions,17,W,42,10,6,3,13,,,,1,3,,1,5,,1,,3,11,,,,,,52
+Essendon,2022,5,North Melbourne,20,W,42,6,3,7,13,,,,1,1,2,,1,1,,,4,9,,,,,,84
+Essendon,2022,6,Greater Western Sydney,21,L,42,,,,,,,,,,,,,,,,,,,,,,,
+Essendon,2022,7,Port Adelaide,22,L,42,6,5,3,9,2,,,3,,1,,2,,1,,4,5,2,2,,,,75
+Essendon,2022,8,Richmond,23,L,42,4,1,5,9,2,,,4,,2,,4,1,1,,4,5,,1,,,1,82
+Essendon,2023,9,Gold Coast,2,W,42,13,5,5,18,,,,1,3,2,,3,,1,,2,15,,,,,1,79
+Essendon,2023,10,St Kilda,3,L,42,17,8,10,27,,,,2,5,3,,3,,2,,6,21,1,,,,1,78
+Essendon,2023,11,Geelong,7,L,42,7,1,6,13,,,,2,1,,1,2,,1,,6,8,,,,,,74
+Essendon,2023,12,Brisbane Lions,9,L,42,6,2,3,9,,,,1,1,1,1,2,,1,,2,6,,,,,,54
+Essendon,2023,13,Richmond,10,W,42,2,2,3,5,,,,1,1,1,,,,,,1,4,,,,,,26
+Essendon,2023,14,West Coast,11,W,42,4,3,4,8,,1,,1,2,1,1,1,,,,5,4,1,,1,2,,29
+Essendon,2023,15,North Melbourne,12,W,42,6,2,,6,1,,,2,2,,,1,,,,,5,,,,,,27
+Essendon,2023,16,Carlton,13,W,42,1,1,,1,,,,,,,,,,,,,1,,,,,,14
+Hawthorn,2024,17,Essendon,2,L,16,15,4,14,29,,,,2,4,1,1,2,1,,,13,17,,,2,,,82
+Hawthorn,2024,18,Melbourne,3,L,16,13,8,10,23,,,,4,1,,2,3,,1,,7,16,,,,,,83

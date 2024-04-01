@@ -1,0 +1,47 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Greater Western Sydney,2020,1,Melbourne,17,L,44,5,3,7,12,,,,3,2,2,1,,2,,,7,5,2,,3,,1,79
+Greater Western Sydney,2020,2,St Kilda,18,L,44,6,4,1,7,,,,2,,,,2,,,,1,6,,,3,,,83
+Greater Western Sydney,2021,3,St Kilda,1,L,44,6,1,4,10,,1,,4,2,1,1,2,1,1,,7,5,,,3,,1,77
+Greater Western Sydney,2021,4,Fremantle,2,L,44,4,2,4,8,,1,1,,,1,,2,,1,,2,7,,1,2,,,80
+Greater Western Sydney,2021,5,Melbourne,3,L,44,8,5,8,16,,,,4,3,1,,3,,2,,7,9,1,,7,,,84
+Greater Western Sydney,2021,6,Collingwood,4,W,44,10,5,4,14,,,,3,4,2,,,1,,,6,8,1,,7,,,83
+Greater Western Sydney,2021,7,Sydney,5,W,44,8,4,8,16,,,,3,3,,1,3,,3,,7,9,,,4,,,87
+Greater Western Sydney,2021,8,Western Bulldogs,6,L,44,10,7,3,13,,,,,2,1,,3,,3,,5,10,2,,5,,,83
+Greater Western Sydney,2021,9,Adelaide,7,W,44,12,7,5,17,,,,4,6,,,2,1,1,,6,11,,,2,,,95
+Greater Western Sydney,2021,10,Essendon,8,W,44,7,2,2,9,,,,1,1,1,,2,,,,4,5,,,2,,,87
+Greater Western Sydney,2021,11,Richmond,9,L,44,7,6,3,10,,,,3,2,,,1,1,,,2,8,1,,6,,,91
+Greater Western Sydney,2021,12,West Coast,10,W,44,10,5,3,13,,,,4,1,3,,3,1,1,,6,8,,,14,,,90
+Greater Western Sydney,2021,13,Brisbane Lions,11,L,44,8,7,5,13,,,,3,3,,,3,,1,,6,7,1,,6,,,84
+Greater Western Sydney,2021,14,North Melbourne,13,D,44,10,7,2,12,,,,2,2,2,,2,1,,,5,8,2,,5,,,96
+Greater Western Sydney,2021,15,Carlton,14,W,44,7,4,4,11,,,,1,2,,,3,1,2,,4,7,,,4,,,91
+Greater Western Sydney,2021,16,Hawthorn,15,L,44,5,6,2,7,,,,2,4,,1,4,,2,,3,5,1,,9,,,93
+Greater Western Sydney,2021,17,Melbourne,16,W,44,,,,,,,,,,,,,,,,,,,,,,,4
+Greater Western Sydney,2023,18,Adelaide,1,W,44,7,5,4,11,,,,3,3,3,,2,1,,,4,7,,,11,,,86
+Greater Western Sydney,2023,19,West Coast,2,L,44,11,5,10,21,,,,2,3,,,3,,,,6,15,1,,8,,,90
+Greater Western Sydney,2023,20,Carlton,3,L,44,7,3,5,12,,,,3,1,,,,1,,,6,6,1,,11,,,90
+Greater Western Sydney,2023,21,Essendon,4,L,44,10,6,4,14,,,,7,4,1,2,3,,,,5,10,,,8,,,86
+Greater Western Sydney,2023,22,Hawthorn,5,W,44,11,6,5,16,,,,3,2,3,,1,2,,,8,8,1,,5,,,90
+Greater Western Sydney,2023,23,Brisbane Lions,6,L,44,8,6,12,20,,,,1,4,,1,1,,,,7,13,1,,5,,,92
+Greater Western Sydney,2023,24,Sydney,7,W,44,10,5,7,17,,,,2,2,1,,5,,4,,6,9,1,,14,,,98
+Greater Western Sydney,2023,25,Western Bulldogs,8,L,44,10,5,6,16,,,,4,3,2,,2,2,1,,10,9,,,13,,,100
+Greater Western Sydney,2023,26,Collingwood,9,L,44,7,3,1,8,,,,1,4,,,1,,1,,1,5,,,5,,,92
+Greater Western Sydney,2023,27,St Kilda,10,L,44,3,2,9,12,,,,2,3,1,,4,1,2,,7,6,,,12,,,100
+Greater Western Sydney,2023,28,Geelong,11,W,44,7,4,3,10,,,,2,3,1,,2,,,,6,6,,,10,,,100
+Greater Western Sydney,2023,29,Richmond,12,L,44,7,8,6,13,,,,3,1,1,,1,1,,,6,8,2,,4,2,,94
+Greater Western Sydney,2023,30,North Melbourne,13,W,44,4,,6,10,,,,2,1,,,5,1,3,,4,6,,,7,,,100
+Greater Western Sydney,2023,31,Fremantle,14,W,44,9,4,3,12,,,,6,4,1,,,1,,,5,7,1,,9,,1,91
+Greater Western Sydney,2023,32,Melbourne,16,W,44,5,,7,12,,,,7,3,,1,,1,,,8,3,,,9,,,94
+Greater Western Sydney,2023,33,Hawthorn,17,W,44,8,5,8,16,,,,2,7,2,,2,,1,,6,11,,,8,2,,93
+Greater Western Sydney,2023,34,Adelaide,18,W,44,5,3,3,8,,,,7,2,,,1,,,,2,5,,,11,,,93
+Greater Western Sydney,2023,35,Gold Coast,19,W,44,11,6,4,15,,,,4,3,,,1,2,,,9,7,2,,4,1,,93
+Greater Western Sydney,2023,36,Western Bulldogs,20,W,44,8,5,6,14,,,,3,1,2,,3,,,,6,7,,,2,,,89
+Greater Western Sydney,2023,37,Sydney,21,L,44,7,5,4,11,,,,2,2,,,,,,,10,3,3,,17,,,88
+Greater Western Sydney,2023,38,Port Adelaide,22,L,44,4,5,6,10,,,,3,3,,,3,1,1,,6,5,1,,6,,,96
+Greater Western Sydney,2023,39,Essendon,23,W,44,4,3,3,7,,,,4,2,,,,,,,2,5,,,8,,1,86
+Greater Western Sydney,2023,40,Carlton,24,W,44,6,3,2,8,,,,1,,,,3,1,1,,4,4,1,,17,,,92
+Greater Western Sydney,2023,41,St Kilda,EF,W,44,9,5,5,14,,,,2,3,1,,2,,,,3,9,1,,6,,,99
+Greater Western Sydney,2023,42,Port Adelaide,SF,W,44,11,6,7,18,,,,,4,2,,3,2,1,,9,9,2,,13,,,100
+Greater Western Sydney,2023,43,Collingwood,PF,L,44,9,6,7,16,,,,3,1,,1,2,1,,,6,10,,1,5,,,94
+Greater Western Sydney,2024,44,Collingwood,1,W,44,5,3,3,8,,,,1,2,,,1,1,,,3,5,1,,4,1,,93
+Greater Western Sydney,2024,45,North Melbourne,2,W,44,11,9,6,17,,,,2,3,1,,1,2,1,,9,9,3,,7,,,89
+Greater Western Sydney,2024,46,West Coast,3,W,44,6,4,9,15,,,,7,1,2,,,1,,,5,11,1,,8,,,98

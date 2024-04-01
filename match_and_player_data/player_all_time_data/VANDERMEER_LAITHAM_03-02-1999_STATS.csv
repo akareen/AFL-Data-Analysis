@@ -1,0 +1,47 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Western Bulldogs,2020,1,St Kilda,2,L,23,6,3,4,10,1,1,,2,1,1,,3,,1,,2,9,1,2,1,,,72
+Western Bulldogs,2020,2,Greater Western Sydney,3,W,23,5,2,5,10,,,,3,1,2,1,2,,2,,2,8,,1,1,,,76
+Western Bulldogs,2020,3,Sydney,4,W,23,6,5,1,7,1,1,,,,3,,,,,,3,4,2,2,,,,76
+Western Bulldogs,2020,4,North Melbourne,5,W,23,9,3,4,13,1,,,6,1,6,3,2,2,,,6,7,,1,,,1,62
+Western Bulldogs,2020,5,Carlton,6,L,23,9,4,5,14,2,2,,2,,2,1,4,1,,,3,12,,3,,,,83
+Western Bulldogs,2020,6,Essendon,7,W,23,5,1,2,7,1,,,3,,4,,1,1,,,3,4,,,1,,1,74
+Western Bulldogs,2020,7,Gold Coast,8,W,23,7,3,5,12,,1,,2,,4,,4,,1,,1,10,,1,1,,,72
+Western Bulldogs,2020,8,Richmond,9,L,23,5,1,3,8,2,,,4,,2,,3,1,3,,1,8,,1,,,,85
+Western Bulldogs,2020,9,Port Adelaide,10,L,23,6,2,3,9,,4,,1,,3,1,,,,,1,8,,2,,,,80
+Western Bulldogs,2020,10,Brisbane Lions,11,L,23,7,4,6,13,,,,3,1,4,,1,1,1,,2,12,,,1,,,71
+Western Bulldogs,2020,11,Melbourne,13,W,23,7,3,6,13,1,,,,,1,,4,1,3,,5,11,,1,2,,,76
+Western Bulldogs,2020,12,Geelong,14,L,23,,,1,1,,,,,,,,,,,,,1,,,,,,11
+Western Bulldogs,2021,13,Collingwood,1,W,23,5,1,9,14,2,,,4,,2,1,,1,,,9,7,,,3,,,76
+Western Bulldogs,2021,14,West Coast,2,W,23,5,3,5,10,1,2,,2,,2,,2,1,1,,3,8,1,3,1,1,3,78
+Western Bulldogs,2021,15,North Melbourne,3,W,23,5,3,4,9,,2,,2,,2,,2,1,,,5,4,1,2,,,2,74
+Western Bulldogs,2021,16,Brisbane Lions,4,W,23,2,,4,6,,,,2,,1,,4,,2,,3,3,,,2,,,65
+Western Bulldogs,2021,17,Greater Western Sydney,6,W,23,4,1,4,8,,,,2,,3,1,1,,,,3,7,,,,,1,66
+Western Bulldogs,2021,18,Hawthorn,22,L,23,4,4,5,9,,1,,3,,1,,5,,3,,4,5,1,1,,,,80
+Western Bulldogs,2021,19,Port Adelaide,23,L,23,8,6,6,14,1,,,2,,2,,2,1,,,4,10,,,1,,,79
+Western Bulldogs,2021,20,Essendon,EF,W,23,6,4,4,10,1,1,,3,,2,,2,1,1,,4,5,,1,,,1,78
+Western Bulldogs,2021,21,Brisbane Lions,SF,W,23,5,,5,10,,2,,4,,3,,2,1,1,,8,3,,,1,,,76
+Western Bulldogs,2021,22,Port Adelaide,PF,W,23,2,2,4,6,1,,,2,,2,,1,,1,,6,1,1,1,1,,1,59
+Western Bulldogs,2021,23,Melbourne,GF,L,23,,,,,,,,,,,,,,,,,,,,,,,
+Western Bulldogs,2022,24,Melbourne,1,L,23,6,2,11,17,,,,2,,3,1,6,,,,7,9,,,,,1,74
+Western Bulldogs,2022,25,Carlton,2,L,23,4,3,7,11,,,,1,,1,,1,2,,,5,6,,,2,,2,78
+Western Bulldogs,2022,26,Sydney,3,W,23,10,6,8,18,1,1,,4,1,6,2,,1,,,8,10,,1,,,1,74
+Western Bulldogs,2022,27,Richmond,4,L,23,4,2,2,6,1,1,,,,1,,1,,1,,1,7,,1,1,,,43
+Western Bulldogs,2022,28,Essendon,7,W,23,6,4,6,12,1,1,,3,,2,,2,,,,5,8,,2,,,,81
+Western Bulldogs,2022,29,Port Adelaide,8,L,23,3,1,1,4,,,,,2,3,,1,1,1,,2,2,,,,,1,57
+Western Bulldogs,2022,30,Fremantle,21,L,23,4,2,7,11,1,,,4,,3,,2,1,,,7,4,,,,,1,77
+Western Bulldogs,2022,31,Greater Western Sydney,22,W,23,7,2,2,9,,,,2,,4,,4,,2,,1,8,,1,,,2,81
+Western Bulldogs,2022,32,Hawthorn,23,W,23,11,3,2,13,,,,1,1,5,,1,1,,,2,11,,,2,,1,73
+Western Bulldogs,2022,33,Fremantle,EF,L,23,2,1,9,11,,,,1,2,,1,3,,,,4,6,,,1,,1,79
+Western Bulldogs,2023,34,Port Adelaide,13,L,23,9,3,6,15,,1,,7,4,2,,1,,1,,1,15,,,3,,1,73
+Western Bulldogs,2023,35,North Melbourne,14,W,23,6,2,4,10,,,,1,,2,,1,,1,,4,9,,,5,,,81
+Western Bulldogs,2023,36,Fremantle,16,W,23,8,3,2,10,,,,1,4,2,1,3,,,,2,9,,,2,,,76
+Western Bulldogs,2023,37,Collingwood,17,L,23,6,2,8,14,,,,1,1,3,,1,2,1,,5,9,,,,,,78
+Western Bulldogs,2023,38,Sydney,18,L,23,11,2,2,13,1,1,,3,2,4,,4,,2,,2,10,,1,3,,,71
+Western Bulldogs,2023,39,Essendon,19,W,23,6,2,5,11,,,,4,2,1,1,,,,,4,7,,,3,,,70
+Western Bulldogs,2023,40,Greater Western Sydney,20,L,23,8,4,7,15,,2,,1,,5,,3,,1,,4,11,,2,,,1,78
+Western Bulldogs,2023,41,Richmond,21,W,23,10,5,11,21,,,,3,2,3,,1,1,,,3,17,,,1,,,83
+Western Bulldogs,2023,42,Hawthorn,22,L,23,9,3,3,12,,,,4,2,3,,2,,,,2,8,,,1,,1,79
+Western Bulldogs,2023,43,West Coast,23,L,23,8,2,8,16,,,,,3,4,6,4,,,,10,8,,,2,,,73
+Western Bulldogs,2023,44,Geelong,24,W,23,6,2,4,10,1,,,3,,4,,2,,,,1,9,,,,,,61
+Western Bulldogs,2024,45,Melbourne,2,L,23,6,5,4,10,,,,1,,1,,3,,,,3,8,,1,,,,82
+Western Bulldogs,2024,46,Gold Coast,3,W,23,8,5,4,12,,,,4,,2,1,4,1,2,,2,11,,1,,,,76

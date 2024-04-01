@@ -1,0 +1,8 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Gold Coast,2012,1,Richmond,16,W,46,4,2,2,6,2,1,,,,2,,,2,,,4,3,1,1,1,,,49
+Gold Coast,2012,2,Brisbane Lions,17,L,46,1,2,1,2,,,,,1,,,1,,,,,3,,,2,1,,44
+Gold Coast,2013,3,Richmond,16,L,46,4,5,7,11,,1,4,1,2,1,1,1,,,,6,5,1,1,1,,,69
+Gold Coast,2013,4,Collingwood,17,W,46,7,3,3,10,,,2,,,2,1,1,1,,,4,7,,,1,1,2,70
+Gold Coast,2013,5,Port Adelaide,21,L,46,3,2,1,4,1,,,4,,1,,,1,,,3,1,1,1,1,,1,82
+Gold Coast,2015,6,Richmond,20,L,46,6,1,3,9,,,8,7,2,1,1,1,2,,,6,3,,,1,,,91
+Gold Coast,2015,7,Essendon,21,W,46,,,,,,,2,3,,,,1,,1,,,,,,2,,,24

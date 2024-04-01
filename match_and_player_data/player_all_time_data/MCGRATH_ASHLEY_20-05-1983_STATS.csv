@@ -1,0 +1,215 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Brisbane Lions,2001,1,Fremantle,20,W,9,1,,,1,,,,,,,,1,,,,1,,,,,,,
+Brisbane Lions,2002,2,Sydney,1,W,9,5,,1,6,,,,2,2,,2,2,,1,,3,3,,,,,,
+Brisbane Lions,2002,3,Hawthorn,2,W,9,5,3,4,9,,,,,2,2,1,1,,,,4,6,,,3,3,,
+Brisbane Lions,2002,4,Essendon,3,W,9,1,,1,2,,,,1,,1,,2,,,,2,,,,,1,,
+Brisbane Lions,2002,5,Western Bulldogs,4,W,9,4,2,1,5,,,,,,1,,2,,,,1,3,,,,,,
+Brisbane Lions,2002,6,West Coast,5,L,9,2,1,1,3,,,,2,2,,1,,,,,2,1,,,2,2,,
+Brisbane Lions,2002,7,Melbourne,14,L,9,5,2,1,6,,,,3,1,3,1,2,,1,,3,3,1,,,3,,
+Brisbane Lions,2002,8,Richmond,15,W,9,9,5,1,10,,,,4,5,3,,4,1,3,,6,5,1,,4,3,,
+Brisbane Lions,2002,9,Sydney,16,W,9,5,1,,5,,,,2,2,1,,,,,,1,4,,,2,2,,
+Brisbane Lions,2002,10,Hawthorn,17,W,9,5,3,2,7,,,,4,2,,1,,1,,,3,4,1,,4,1,,
+Brisbane Lions,2003,11,Port Adelaide,2,W,9,4,1,,4,,,,2,,,,,,,,1,3,,,3,3,,76
+Brisbane Lions,2003,12,Kangaroos,3,D,9,7,2,1,8,,,,1,4,,,3,2,3,,6,2,1,,4,,,100
+Brisbane Lions,2003,13,Collingwood,4,W,9,4,1,1,5,,,,1,2,1,1,1,,,,2,3,,,2,1,,53
+Brisbane Lions,2003,14,Western Bulldogs,5,W,9,9,4,3,12,,,,2,5,,,2,,1,,4,7,1,,7,1,,100
+Brisbane Lions,2003,15,Geelong,6,W,9,9,2,5,14,,,,,2,,1,1,,,,7,8,,,5,,,100
+Brisbane Lions,2003,16,Sydney,7,L,9,2,1,3,5,,,,,,1,,,,,,1,4,,,2,,,58
+Brisbane Lions,2003,17,Melbourne,10,W,9,3,,1,4,1,,,1,1,,1,1,,,,3,1,,,4,1,,44
+Brisbane Lions,2003,18,St Kilda,11,L,9,10,2,1,11,1,,,4,3,3,,2,2,2,,3,8,,,5,2,,100
+Brisbane Lions,2003,19,West Coast,12,L,9,8,8,3,11,,,,,3,1,,2,,,,2,10,,,6,4,,100
+Brisbane Lions,2003,20,Richmond,13,W,9,7,3,6,13,,,,7,,1,,,1,,,5,8,,,3,,,97
+Brisbane Lions,2003,21,Fremantle,14,L,9,9,5,1,10,,,,4,1,1,,,,,,4,5,1,,2,,,100
+Brisbane Lions,2003,22,Hawthorn,15,W,9,3,2,1,4,,,,1,,,,3,,2,,2,2,1,,,,,85
+Brisbane Lions,2003,23,Essendon,16,L,9,9,3,2,11,,1,,5,1,3,,3,3,2,,5,6,,,1,1,,60
+Brisbane Lions,2003,24,Port Adelaide,17,L,9,8,4,1,9,,,,,2,,,1,1,,,3,6,,,1,,,100
+Brisbane Lions,2003,25,Kangaroos,18,W,9,6,3,,6,,,,1,3,2,,,,,,,7,,,1,,,69
+Brisbane Lions,2003,26,Collingwood,19,W,9,7,5,3,10,1,,,2,,1,,2,,1,,5,4,2,1,1,,,57
+Brisbane Lions,2003,27,Sydney,20,L,9,4,2,1,5,,,,2,2,,,1,,1,,3,2,,,,,,60
+Brisbane Lions,2003,28,Western Bulldogs,22,W,9,12,3,3,15,6,3,,3,1,1,1,,,,3,8,7,,2,1,,,100
+Brisbane Lions,2003,29,Collingwood,QF,L,9,5,1,4,9,1,1,,,,2,,1,1,1,,7,2,1,,1,,,100
+Brisbane Lions,2003,30,Adelaide,SF,W,9,11,5,5,16,1,1,,,3,3,3,1,,1,,7,9,,1,5,2,1,83
+Brisbane Lions,2003,31,Sydney,PF,W,9,8,2,3,11,2,2,,1,3,2,1,2,,2,,7,4,,,1,,,89
+Brisbane Lions,2003,32,Collingwood,GF,W,9,5,3,3,8,,1,,2,,2,1,2,1,1,,5,4,,,,1,1,80
+Brisbane Lions,2004,33,Sydney,1,W,9,10,3,1,11,,,,3,6,,,,1,,,3,6,,,3,,,100
+Brisbane Lions,2004,34,Adelaide,2,W,9,5,4,3,8,,,,3,3,,,2,,1,,3,5,,,1,,,100
+Brisbane Lions,2004,35,Collingwood,3,W,9,5,2,3,8,1,,,2,1,1,,3,,2,1,2,6,,,1,3,1,100
+Brisbane Lions,2004,36,West Coast,4,L,9,10,2,1,11,,,,4,4,1,,1,2,,,6,3,,,2,1,,100
+Brisbane Lions,2004,37,Hawthorn,5,W,9,6,1,,6,3,1,,1,,,,,1,,,2,2,,1,4,,,89
+Brisbane Lions,2004,38,Carlton,8,W,9,5,2,4,9,1,3,,,,1,,3,,1,,5,5,,2,1,,1,96
+Brisbane Lions,2004,39,Fremantle,9,L,9,11,3,2,13,,,,1,7,,,3,2,2,,4,5,,,5,2,,92
+Brisbane Lions,2004,40,Melbourne,10,W,9,4,4,6,10,2,1,,4,,1,,,1,,,7,3,2,4,,,2,100
+Brisbane Lions,2004,41,Port Adelaide,11,W,9,5,1,3,8,,1,,4,,,,,1,,,4,3,,,,,,93
+Brisbane Lions,2004,42,Essendon,12,W,9,8,5,2,10,,3,,1,1,2,1,1,,,,2,6,,,1,,1,100
+Brisbane Lions,2004,43,Geelong,13,L,9,6,,2,8,,2,,5,,2,1,4,1,,,4,4,,,1,,1,100
+Brisbane Lions,2004,44,Richmond,14,W,9,7,4,5,12,1,1,,2,2,3,,3,,1,,4,7,,1,1,2,1,79
+Brisbane Lions,2004,45,Western Bulldogs,15,W,9,7,2,5,12,1,1,,3,7,,2,,,,,6,6,,1,1,3,,100
+Brisbane Lions,2004,46,Collingwood,16,W,9,12,5,2,14,,,,3,3,2,2,1,1,,,4,9,,,3,,,100
+Brisbane Lions,2004,47,Adelaide,17,W,9,4,2,2,6,1,,,,2,2,,1,,1,,,5,,1,2,,1,85
+Brisbane Lions,2004,48,Sydney,18,L,9,7,5,3,10,,1,,6,2,1,,1,,1,,2,7,,1,3,,1,100
+Brisbane Lions,2004,49,West Coast,19,L,9,6,3,5,11,,,,2,4,1,1,4,,1,,3,8,,,1,,,100
+Brisbane Lions,2004,50,Hawthorn,20,W,9,4,,,4,,,,1,1,1,1,1,,1,,3,1,,,2,,,64
+Brisbane Lions,2004,51,St Kilda,QF,W,9,8,2,1,9,2,,,1,,1,1,1,,,,3,4,,1,2,1,,47
+Brisbane Lions,2005,52,St Kilda,1,W,9,3,,2,5,2,,,1,,,1,,,,,4,1,,,1,,,86
+Brisbane Lions,2005,53,Port Adelaide,2,L,9,4,,3,7,,,,3,1,2,2,1,,,,4,3,,,4,,,100
+Brisbane Lions,2005,54,Sydney,3,L,9,6,4,3,9,,,,3,3,2,,2,,2,,3,6,,,2,2,,86
+Brisbane Lions,2005,55,Hawthorn,4,L,9,3,1,3,6,1,,,4,2,1,,,,,,4,2,,1,4,,1,88
+Brisbane Lions,2005,56,West Coast,5,L,9,6,2,1,7,,2,,4,,2,1,3,1,,,5,2,,,1,,,78
+Brisbane Lions,2005,57,Western Bulldogs,7,L,9,3,1,3,6,1,,,3,2,,,1,1,1,,4,3,,,,,,68
+Brisbane Lions,2005,58,Adelaide,8,W,9,7,2,6,13,3,1,,1,,2,,3,1,1,,7,5,,1,1,,,86
+Brisbane Lions,2005,59,Richmond,9,L,9,9,3,3,12,5,1,,3,,4,1,,,,,5,7,,3,,,,91
+Brisbane Lions,2005,60,Kangaroos,10,L,9,2,1,4,6,,1,,2,,1,,3,,2,,3,3,,1,,,,86
+Brisbane Lions,2005,61,Fremantle,11,W,9,8,2,3,11,3,,,1,,3,,3,1,,,5,5,,,2,,1,81
+Brisbane Lions,2005,62,Carlton,12,W,9,5,,2,7,2,2,,3,,3,1,1,,1,,4,2,,,,,,100
+Brisbane Lions,2005,63,Geelong,13,W,9,7,3,8,15,1,3,,2,,2,,2,,2,,5,9,,3,,,1,97
+Brisbane Lions,2005,64,Melbourne,14,W,9,6,3,1,7,2,2,,2,,1,,,1,,,2,5,,3,,,1,83
+Brisbane Lions,2005,65,Collingwood,15,W,9,9,6,1,10,3,1,,2,,1,,2,,2,,2,7,,3,1,,,74
+Brisbane Lions,2005,66,West Coast,16,L,9,3,,1,4,1,,,4,,,,1,1,1,,2,1,,,1,,,93
+Brisbane Lions,2005,67,Essendon,17,W,9,6,3,3,9,2,1,,,1,,,3,2,1,,6,4,1,3,1,,,92
+Brisbane Lions,2005,68,Western Bulldogs,18,L,9,12,4,3,15,2,1,,1,1,2,,4,,2,,4,8,1,1,2,1,2,100
+Brisbane Lions,2005,69,Hawthorn,19,W,9,10,2,2,12,5,,,1,,1,1,2,,1,,5,5,,2,2,,,100
+Brisbane Lions,2005,70,Sydney,20,L,9,3,2,2,5,1,,,3,,,1,1,1,1,,3,3,,1,,,,100
+Brisbane Lions,2005,71,Port Adelaide,21,L,9,9,4,2,11,1,,,1,,4,1,2,2,2,,5,7,,,1,,,100
+Brisbane Lions,2005,72,St Kilda,22,L,9,2,,2,4,,,,4,,,,,1,,,4,2,,,,,,56
+Brisbane Lions,2006,73,Geelong,1,L,9,5,2,2,7,1,1,,2,,,2,2,,1,,3,4,,2,2,,,100
+Brisbane Lions,2006,74,Essendon,2,W,9,6,2,7,13,,2,,3,,3,4,1,,1,,8,5,,,4,,,94
+Brisbane Lions,2006,75,St Kilda,3,L,9,5,2,2,7,,,,1,,3,,4,,,,1,5,,1,1,2,1,75
+Brisbane Lions,2006,76,West Coast,5,L,9,5,4,2,7,2,,,2,,3,,2,,1,,1,6,,1,1,1,,81
+Brisbane Lions,2006,77,Sydney,6,L,9,4,3,1,5,,2,,4,,,,4,,4,,2,4,,1,3,,,83
+Brisbane Lions,2006,78,Hawthorn,7,W,9,9,1,3,12,2,1,,1,,3,1,1,,,,6,5,,1,4,1,1,89
+Brisbane Lions,2006,79,Port Adelaide,8,W,9,7,1,3,10,3,,,3,,2,1,,1,,,6,5,,1,,1,3,89
+Brisbane Lions,2006,80,Fremantle,9,W,9,6,3,,6,2,,,,,1,1,3,,1,,2,5,,2,,,,90
+Brisbane Lions,2006,81,Collingwood,10,L,9,6,1,2,8,3,,,3,,1,1,2,3,1,,6,2,,,,,,100
+Brisbane Lions,2006,82,Adelaide,11,L,9,6,2,4,10,,2,,3,,1,,2,,,,5,5,,,2,1,,92
+Brisbane Lions,2006,83,Western Bulldogs,12,L,9,5,2,1,6,1,1,,2,,1,,,,,,1,4,,2,2,2,,83
+Brisbane Lions,2007,84,Hawthorn,1,W,9,6,4,1,7,3,1,,2,,1,1,4,,1,,2,5,1,4,,,,76
+Brisbane Lions,2007,85,St Kilda,2,W,9,5,2,2,7,1,,,,,3,,,,,,4,3,1,1,1,,,89
+Brisbane Lions,2007,86,Sydney,3,L,9,8,4,,8,3,2,,1,,,,,,,,5,3,1,3,,1,,87
+Brisbane Lions,2007,87,Kangaroos,4,L,9,6,3,3,9,2,,,1,,1,,,,,,2,7,,1,,,,95
+Brisbane Lions,2007,88,Carlton,5,W,9,6,1,2,8,2,1,,2,1,1,,4,,1,,2,5,,,,1,,91
+Brisbane Lions,2007,89,Fremantle,6,W,9,12,5,2,14,5,2,,,,1,,3,1,1,2,8,8,1,4,3,,,87
+Brisbane Lions,2007,90,Adelaide,7,L,9,6,6,2,8,1,3,,3,,2,1,,,,,1,7,,3,3,,,100
+Brisbane Lions,2007,91,Essendon,8,L,9,4,2,1,5,1,2,,2,,,,1,,1,,3,2,,2,,,,77
+Brisbane Lions,2007,92,Collingwood,9,L,9,4,3,1,5,2,,,,,1,,1,,,,2,3,1,,,1,,42
+Brisbane Lions,2007,93,Geelong,12,L,9,6,,2,8,,,,5,,1,2,,1,,,7,2,,,,,,82
+Brisbane Lions,2007,94,Port Adelaide,13,L,9,3,,2,5,,2,,2,1,,,2,,1,,3,2,,,1,,,66
+Brisbane Lions,2007,95,Melbourne,15,W,9,3,2,5,8,1,,,,1,1,,1,,,,3,5,,1,1,1,,54
+Brisbane Lions,2007,96,Carlton,16,W,9,10,3,7,17,1,2,,3,1,6,1,2,,1,,4,14,1,1,,4,,52
+Brisbane Lions,2007,97,Collingwood,17,W,9,3,,9,12,,1,,2,,1,1,2,,1,,8,5,,,2,,,59
+Brisbane Lions,2007,98,Kangaroos,18,W,9,1,1,2,3,,1,,,,,,,,,,3,,1,1,2,,,39
+Brisbane Lions,2008,99,Hawthorn,5,L,9,3,2,6,9,2,1,,2,,,,1,,1,,5,5,,2,1,,1,77
+Brisbane Lions,2008,100,Geelong,7,L,9,4,1,5,9,,1,,2,1,2,2,1,1,1,,5,5,,,2,,1,64
+Brisbane Lions,2008,101,Carlton,8,W,9,7,4,11,18,,,,4,5,2,3,2,1,,,9,9,,,3,8,1,85
+Brisbane Lions,2008,102,St Kilda,9,W,9,5,3,7,12,,,,3,2,,,1,,1,,4,8,,,3,3,,81
+Brisbane Lions,2008,103,North Melbourne,10,W,9,7,,5,12,,1,,1,,4,,,,,,1,11,,,1,2,1,79
+Brisbane Lions,2008,104,Western Bulldogs,12,L,9,8,,3,11,,,,4,4,1,,3,,,,3,5,,,5,2,,76
+Brisbane Lions,2008,105,Adelaide,13,W,9,13,3,5,18,,2,,2,4,4,,5,,1,,4,15,,,2,3,,81
+Brisbane Lions,2008,106,Melbourne,14,L,9,4,3,5,9,,,,1,,,,3,,2,,4,5,1,,,1,,86
+Brisbane Lions,2008,107,Essendon,15,L,9,3,1,2,5,,,,2,3,1,,2,,,,3,2,,,,2,,88
+Brisbane Lions,2008,108,West Coast,16,W,9,6,4,5,11,1,,,3,1,4,,2,,1,,2,8,,,1,2,,73
+Brisbane Lions,2008,109,Richmond,17,L,9,12,5,7,19,,,,,5,2,,2,,1,,3,16,,,5,3,1,91
+Brisbane Lions,2008,110,North Melbourne,18,L,9,8,5,5,13,,,,1,4,1,,,,,,,13,,,2,2,,98
+Brisbane Lions,2008,111,Hawthorn,19,L,9,9,7,4,13,,,,3,4,,,5,1,2,,2,12,,,1,,,87
+Brisbane Lions,2008,112,Western Bulldogs,20,W,9,10,4,4,14,,1,,7,4,1,,2,1,1,,5,7,,,5,1,,85
+Brisbane Lions,2008,113,Carlton,21,L,9,5,3,4,9,,,,,3,3,,3,,2,,2,8,,,2,3,2,64
+Brisbane Lions,2009,114,West Coast,1,W,9,9,5,8,17,1,,,2,4,2,,2,2,1,,7,11,,,5,3,,88
+Brisbane Lions,2009,115,Carlton,2,L,9,4,3,3,7,1,,,,3,3,,2,,,,1,7,,,4,,,82
+Brisbane Lions,2009,116,Sydney,3,W,9,10,4,4,14,,,,2,3,,1,3,,1,,6,7,,,8,1,,87
+Brisbane Lions,2009,117,Collingwood,4,L,9,11,6,4,15,,,,3,5,1,,4,2,,,4,11,,,3,1,,92
+Brisbane Lions,2009,118,Geelong,5,L,9,7,3,1,8,,,,1,5,1,,2,1,1,,4,4,,,1,,,84
+Brisbane Lions,2009,119,Essendon,6,W,9,5,4,8,13,,,,2,1,1,1,3,,1,,5,9,1,,3,1,2,74
+Brisbane Lions,2009,120,Richmond,7,W,9,7,5,4,11,,,,2,3,,,2,1,1,,3,8,,,4,3,,69
+Brisbane Lions,2009,121,Adelaide,8,W,9,8,5,5,13,,,,3,3,2,,1,,1,,1,12,1,,1,2,,78
+Brisbane Lions,2009,122,St Kilda,9,L,9,11,5,9,20,,,,,7,1,1,5,1,2,,6,14,,,3,1,,81
+Brisbane Lions,2009,123,North Melbourne,10,W,9,9,8,5,14,,1,,4,3,2,,1,1,1,,2,13,,,1,8,1,78
+Brisbane Lions,2009,124,Carlton,11,L,9,6,3,5,11,1,,,,4,2,,3,,1,,1,8,,,3,,,89
+Brisbane Lions,2009,125,Hawthorn,12,W,9,11,8,8,19,,,,,3,2,,1,,,,2,16,,,2,,1,75
+Brisbane Lions,2009,126,Melbourne,13,W,9,13,12,9,22,,,,,4,1,,4,1,3,,4,20,1,,1,4,,81
+Brisbane Lions,2009,127,Port Adelaide,14,L,9,19,8,3,22,,1,,2,10,4,,3,,2,,6,14,,,3,14,,86
+Brisbane Lions,2009,128,Geelong,15,W,9,20,14,10,30,,1,,4,1,7,1,,,,2,8,21,1,,1,8,2,80
+Brisbane Lions,2009,129,Fremantle,16,W,9,9,4,5,14,,,,1,1,1,,2,,1,,6,8,,,2,,,86
+Brisbane Lions,2009,130,North Melbourne,17,W,9,11,10,10,21,,,,1,6,2,3,,,,,3,17,,,1,5,,81
+Brisbane Lions,2009,131,Collingwood,18,L,9,17,9,12,29,,,,2,7,6,,2,1,,,6,23,,,6,2,1,83
+Brisbane Lions,2009,132,Essendon,19,D,9,8,3,4,12,,,,4,1,4,,2,1,2,,2,11,,,3,,,84
+Brisbane Lions,2009,133,Western Bulldogs,20,L,9,7,2,9,16,,,,2,1,2,1,4,1,1,,8,8,,,3,1,,85
+Brisbane Lions,2009,134,Port Adelaide,21,W,9,13,8,7,20,1,1,,7,2,4,2,,1,,,7,13,1,1,2,1,1,91
+Brisbane Lions,2009,135,Sydney,22,W,9,16,5,5,21,2,1,,3,2,8,3,5,1,1,,7,14,,1,,2,2,89
+Brisbane Lions,2009,136,Carlton,EF,W,9,16,5,3,19,,,,2,8,3,,3,,1,,7,10,1,,3,,,88
+Brisbane Lions,2009,137,Western Bulldogs,SF,L,9,8,1,7,15,1,,,6,3,4,1,1,,1,,8,8,,,2,1,1,75
+Brisbane Lions,2010,138,West Coast,1,W,9,11,4,5,16,,,,3,4,1,1,1,,1,,4,10,,,7,1,,93
+Brisbane Lions,2010,139,Carlton,2,W,9,6,1,7,13,,,,2,2,1,,3,,2,,4,7,,,3,,,90
+Brisbane Lions,2010,140,Port Adelaide,3,W,9,11,9,9,20,,,,2,5,3,1,1,,1,,6,15,,,5,,,86
+Brisbane Lions,2010,141,Melbourne,5,L,9,6,3,6,12,,,,4,4,,2,3,1,,,5,7,,,2,,,91
+Brisbane Lions,2010,142,Sydney,6,L,9,6,4,2,8,,,,7,3,3,,4,,3,,2,6,1,,2,,,86
+Brisbane Lions,2010,143,Fremantle,7,L,9,16,5,7,23,1,2,,2,4,3,,3,1,2,,7,17,,2,,,1,90
+Brisbane Lions,2010,144,Geelong,8,L,9,7,6,7,14,,,,3,2,2,1,,,,,4,10,1,,1,1,,62
+Brisbane Lions,2010,145,Adelaide,9,L,9,21,8,10,31,2,1,,5,4,6,3,3,,,1,7,21,,1,2,,,91
+Brisbane Lions,2010,146,Collingwood,10,W,9,19,10,7,26,,,,2,9,1,,3,1,2,,2,19,1,,8,4,,96
+Brisbane Lions,2010,147,North Melbourne,11,L,9,6,2,3,9,,,,1,3,,,2,,1,,1,6,,,1,1,,43
+Brisbane Lions,2010,148,Carlton,14,L,9,6,3,8,14,,,,2,1,2,,2,,2,,4,11,,,3,2,,89
+Brisbane Lions,2010,149,St Kilda,15,L,9,11,5,6,17,,,,1,1,,1,1,,,,4,12,,,6,,,89
+Brisbane Lions,2010,150,Hawthorn,16,L,9,11,4,3,14,,,,,7,,,5,1,3,,3,6,,,1,1,,91
+Brisbane Lions,2010,151,Melbourne,18,L,9,8,3,2,10,,,,5,4,1,,2,,1,,3,7,,,3,1,,91
+Brisbane Lions,2010,152,West Coast,19,W,9,17,5,7,24,,1,,3,8,1,1,3,2,,,8,15,,,7,3,,90
+Brisbane Lions,2010,153,Adelaide,20,L,9,6,4,8,14,,,,2,4,2,,1,,,,4,10,,,4,,,95
+Brisbane Lions,2010,154,Essendon,21,W,9,11,6,12,23,,,,4,2,2,1,3,2,1,,8,15,,,3,,,84
+Brisbane Lions,2010,155,Sydney,22,L,9,13,4,2,15,,,,4,8,1,3,4,1,,,5,7,,,2,3,,78
+Brisbane Lions,2011,156,Fremantle,1,L,9,11,2,1,12,,,,2,5,1,1,,1,,,4,5,,,4,,,94
+Brisbane Lions,2011,157,Western Bulldogs,2,L,9,12,4,9,21,,,,6,5,3,,1,1,1,,9,11,,,5,,,93
+Brisbane Lions,2011,158,Melbourne,3,L,9,9,5,1,10,,,,2,4,,,3,1,1,,2,8,,,1,,,93
+Brisbane Lions,2011,159,St Kilda,5,L,9,10,2,5,15,,,,3,3,,1,1,2,1,,4,11,,,3,,,97
+Brisbane Lions,2011,160,Richmond,6,L,9,8,5,6,14,,,,3,4,1,,2,,1,,5,9,,,3,2,,91
+Brisbane Lions,2011,161,Gold Coast,7,L,9,11,5,4,15,6,,,,2,,,1,,1,1,5,8,1,3,1,1,,97
+Brisbane Lions,2011,162,Essendon,8,L,9,5,3,3,8,2,1,,1,,2,,1,,1,,6,3,1,2,1,,1,86
+Brisbane Lions,2011,163,Adelaide,10,W,9,6,1,4,10,4,1,,3,,1,,,,,,4,6,,1,1,,1,87
+Brisbane Lions,2011,164,Sydney,11,L,9,6,3,5,11,,,,3,2,2,1,1,1,,,3,8,,,,,,91
+Brisbane Lions,2011,165,Carlton,12,L,9,8,3,3,11,2,2,,5,2,2,,2,1,1,,6,5,,2,,1,1,90
+Brisbane Lions,2011,166,Richmond,13,L,9,8,4,1,9,,,,2,3,1,1,7,1,3,,2,10,,,6,1,,92
+Brisbane Lions,2011,167,Fremantle,14,L,9,13,2,6,19,,,,4,3,4,,4,,2,,5,11,,,3,1,2,93
+Brisbane Lions,2011,168,Port Adelaide,15,W,9,12,5,7,19,2,4,,5,,4,6,,1,,,12,10,,3,2,,1,86
+Brisbane Lions,2011,169,Hawthorn,16,L,9,9,2,4,13,,,,5,3,2,2,5,1,2,,5,10,,,3,1,,77
+Brisbane Lions,2011,170,Geelong,17,L,9,15,7,9,24,1,1,,3,4,3,2,2,1,,,8,14,1,,3,1,1,89
+Brisbane Lions,2011,171,North Melbourne,18,L,9,12,4,4,16,,,,5,7,2,3,3,1,1,,7,9,,,2,1,,81
+Brisbane Lions,2011,172,Adelaide,20,L,9,8,3,7,15,3,,,7,,3,2,1,2,,,6,9,,,,,1,89
+Brisbane Lions,2011,173,Gold Coast,21,W,9,7,4,3,10,,,,4,2,3,,2,1,1,,1,9,,,1,,1,82
+Brisbane Lions,2011,174,Collingwood,22,L,9,7,2,4,11,3,1,,3,,4,1,1,,1,,4,7,,1,2,3,,94
+Brisbane Lions,2011,175,West Coast,23,L,9,5,,1,6,,1,,5,,2,1,2,,1,,4,2,,,,,1,86
+Brisbane Lions,2011,176,Sydney,24,L,9,6,3,4,10,3,1,,4,,2,1,3,4,2,,8,4,2,3,2,,,90
+Brisbane Lions,2012,177,Melbourne,1,W,9,9,3,3,12,1,1,,3,1,6,1,4,,3,,2,10,,,,2,,93
+Brisbane Lions,2012,178,Carlton,2,L,9,6,2,8,14,,,,4,3,1,,4,1,2,,4,8,,,1,,,89
+Brisbane Lions,2012,179,Fremantle,3,L,9,9,3,5,14,,,,5,2,2,,2,4,1,,9,6,,,2,,,85
+Brisbane Lions,2012,180,Gold Coast,4,W,9,18,9,10,28,,,,2,5,3,1,3,,,,10,17,,,2,,1,85
+Brisbane Lions,2012,181,Geelong,5,L,9,10,,5,15,1,1,,3,,3,1,1,4,,,10,4,,,1,,,86
+Brisbane Lions,2012,182,Essendon,6,L,9,10,3,5,15,1,1,,3,3,2,1,6,,1,,5,10,,,1,1,,70
+Brisbane Lions,2012,183,Collingwood,7,L,9,10,5,6,16,,2,,2,2,4,2,2,1,1,,7,10,,2,5,,,91
+Brisbane Lions,2012,184,Greater Western Sydney,8,W,9,10,3,12,22,,1,,3,2,3,,1,,,,10,13,,,3,1,,86
+Brisbane Lions,2012,185,North Melbourne,9,L,9,13,5,8,21,,2,,2,1,5,1,1,,1,,7,13,1,,3,4,,89
+Brisbane Lions,2012,186,West Coast,10,W,9,3,5,4,7,,,,3,2,,,,,,,2,6,1,,,,,69
+Brisbane Lions,2012,187,Western Bulldogs,13,W,9,9,7,2,11,5,,,1,,2,,2,,1,,4,7,1,5,3,3,2,85
+Brisbane Lions,2012,188,Melbourne,14,W,9,6,4,1,7,3,,,1,,1,,2,,1,,2,5,,2,,,,55
+Brisbane Lions,2013,189,Western Bulldogs,1,L,9,4,2,4,8,,1,,3,1,,1,,1,,,3,5,,1,1,1,,91
+Brisbane Lions,2013,190,Adelaide,2,L,9,2,,4,6,,,,,1,,,1,,1,,4,2,,,1,,1,71
+Brisbane Lions,2013,191,Gold Coast,3,W,9,8,1,4,12,,,,1,3,3,,1,,,,6,5,,,2,,2,79
+Brisbane Lions,2013,192,North Melbourne,4,L,9,,,,,,,,,,,,,,,,,,,,,,,22
+Brisbane Lions,2013,193,Melbourne,5,W,9,13,4,10,23,,,,4,5,5,,3,1,2,,8,13,,,1,2,1,91
+Brisbane Lions,2013,194,Sydney,6,L,9,6,2,5,11,,,,2,1,3,,,,,,4,7,,,4,,,84
+Brisbane Lions,2013,195,West Coast,7,L,9,10,2,4,14,1,1,,2,3,3,1,2,,1,,4,7,,,3,,,83
+Brisbane Lions,2013,196,Essendon,8,W,9,8,3,5,13,,,,4,4,1,,2,,,,5,5,,,4,1,1,83
+Brisbane Lions,2013,197,Carlton,9,L,9,5,2,3,8,,,,2,2,2,,3,,2,,3,4,,,2,1,1,58
+Brisbane Lions,2013,198,Collingwood,10,L,9,8,6,3,11,3,1,,3,,2,,1,,,,5,6,2,2,,,,89
+Brisbane Lions,2013,199,Fremantle,12,L,9,8,5,,8,2,3,,4,,2,,1,,,,2,6,,4,,,,88
+Brisbane Lions,2013,200,Geelong,13,W,9,5,2,3,8,3,,,3,,1,1,4,,3,,4,4,1,1,,2,1,83
+Brisbane Lions,2013,201,Hawthorn,14,L,9,6,1,1,7,,,,5,1,2,1,8,,5,,2,4,,,2,,,85
+Brisbane Lions,2013,202,Gold Coast,15,W,9,4,,1,5,,1,,3,1,3,,4,1,1,,2,2,,,2,1,,87
+Brisbane Lions,2013,203,North Melbourne,16,W,9,8,3,1,9,3,1,,1,,,2,6,,5,,5,4,,3,,,1,84
+Brisbane Lions,2013,204,Melbourne,17,W,9,4,,2,6,,1,,3,1,3,,2,1,1,,4,2,,,,,,75
+Brisbane Lions,2013,205,Port Adelaide,18,L,9,5,2,3,8,,,,1,4,,1,1,,1,,1,6,,,1,1,,59
+Brisbane Lions,2013,206,Greater Western Sydney,21,W,9,10,4,7,17,1,1,,1,,6,,6,,2,,10,9,1,2,,,1,86
+Brisbane Lions,2013,207,Western Bulldogs,22,W,9,4,2,4,8,,,,2,,3,,2,,1,,3,5,,,,,1,84
+Brisbane Lions,2013,208,Geelong,23,L,9,11,3,1,12,6,1,,1,,2,1,,,,1,5,7,,2,1,,1,79
+Brisbane Lions,2014,209,North Melbourne,15,W,9,3,2,1,4,,1,,3,,,,,,,,2,2,,1,,,,43
+Brisbane Lions,2014,210,Richmond,16,L,9,3,3,3,6,,2,,,,,1,2,,1,,2,4,,2,,,,34
+Brisbane Lions,2014,211,West Coast,17,L,9,7,3,3,10,2,1,,3,,1,,1,,,,7,3,2,3,1,,,89
+Brisbane Lions,2014,212,Gold Coast,18,W,9,8,2,1,9,2,1,,4,,1,2,2,1,,,5,4,,1,1,,1,89
+Brisbane Lions,2014,213,Melbourne,19,W,9,,,1,1,,,,,,,,,,,,,1,,,,,,32
+Brisbane Lions,2014,214,Fremantle,22,L,9,10,6,3,13,1,3,,2,1,2,,6,,4,,1,11,,5,1,,,84

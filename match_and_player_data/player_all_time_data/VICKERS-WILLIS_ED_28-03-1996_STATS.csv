@@ -1,0 +1,22 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+North Melbourne,2017,1,Fremantle,5,L,33,8,5,7,15,,1,,1,,,,2,,1,,5,10,,1,1,,,77
+North Melbourne,2017,2,Gold Coast,6,W,33,2,3,12,14,,,,2,1,1,1,,,,,5,9,,,3,,,80
+North Melbourne,2017,3,Adelaide,7,W,33,4,1,8,12,,,,4,,2,1,4,1,3,,7,7,,,2,,,93
+North Melbourne,2017,4,Sydney,8,L,33,6,3,15,21,,,,2,4,,1,4,1,,,10,11,1,,5,1,,85
+North Melbourne,2017,5,Melbourne,9,W,33,3,,11,14,,,,6,3,1,,1,3,,,8,8,,,3,,1,90
+North Melbourne,2017,6,Carlton,10,W,33,4,2,4,8,,,,5,,,1,,1,,,4,4,,,1,,,76
+North Melbourne,2017,7,Richmond,11,L,33,7,2,5,12,,,,2,4,1,,1,,1,,1,11,,,8,,,91
+North Melbourne,2018,8,Gold Coast,1,L,33,11,2,5,16,,,,5,3,1,1,4,,,,11,5,1,,14,,,87
+North Melbourne,2018,9,St Kilda,2,W,33,3,3,3,6,,,,3,1,,,,,,,1,5,,,2,,,90
+North Melbourne,2018,10,Melbourne,3,L,33,7,1,5,12,,,,1,3,1,,2,1,1,,3,8,,,5,,,92
+North Melbourne,2018,11,Carlton,4,W,33,10,5,5,15,,,,5,1,1,,2,2,1,,5,10,,,3,,,85
+North Melbourne,2018,12,Hawthorn,5,W,33,7,3,1,8,,,,2,1,1,1,2,,1,,3,6,,,5,,,45
+North Melbourne,2018,13,Port Adelaide,6,L,33,6,3,10,16,,,,4,1,1,,2,2,1,,5,12,,,6,,,80
+North Melbourne,2018,14,Sydney,7,W,33,6,4,5,11,,,,3,2,,1,3,1,2,,7,4,2,,2,,,74
+North Melbourne,2019,15,Fremantle,1,L,33,,,1,1,,,,,,,,1,,1,,,1,,,1,,,13
+North Melbourne,2020,16,Brisbane Lions,12,L,33,5,2,3,8,,,,2,3,,,2,1,1,,3,5,,,3,,,76
+North Melbourne,2020,17,Collingwood,13,L,33,7,5,5,12,,,,3,1,1,,2,1,1,,4,8,,,4,,,85
+North Melbourne,2020,18,Gold Coast,14,L,33,9,3,3,12,,,,2,3,2,,,,,,2,10,2,,2,,,82
+North Melbourne,2020,19,Port Adelaide,16,L,33,7,3,7,14,,,,3,2,,,4,,,,5,9,,,3,,,85
+North Melbourne,2020,20,Fremantle,17,L,33,2,2,6,8,,,,1,,1,,1,,1,,4,4,1,,6,,,84
+North Melbourne,2020,21,West Coast,18,L,33,10,3,8,18,,,,1,2,2,2,3,2,1,,7,11,,,3,,,76

@@ -13,8 +13,8 @@ Max,Papley,31-07-1940,13-04-1964,179,83,match_and_player_data/player_all_time_da
 Clive,Pasquill,06-12-1946,30-05-1966,179,69,match_and_player_data/player_all_time_data/PASQUILL_CLIVE_06-12-1946_STATS.csv,match_and_player_data/player_all_time_data/PASQUILL_CLIVE_06-12-1946_PERSONAL.csv
 Russell,Cook,23-09-1947,06-06-1966,185,85,match_and_player_data/player_all_time_data/COOK_RUSSELL_23-09-1947_STATS.csv,match_and_player_data/player_all_time_data/COOK_RUSSELL_23-09-1947_PERSONAL.csv
 Stuart,Magee,13-10-1943,14-05-1962,174,74,match_and_player_data/player_all_time_data/MAGEE_STUART_13-10-1943_STATS.csv,match_and_player_data/player_all_time_data/MAGEE_STUART_13-10-1943_PERSONAL.csv
-Elkin,Reilly,02-04-1939,13-05-1962,191,91,match_and_player_data/player_all_time_data/REILLY_ELKIN_02-04-1939_STATS.csv,match_and_player_data/player_all_time_data/REILLY_ELKIN_02-04-1939_PERSONAL.csv
 John,Long,12-04-1946,14-04-1965,182,82,match_and_player_data/player_all_time_data/LONG_JOHN_12-04-1946_STATS.csv,match_and_player_data/player_all_time_data/LONG_JOHN_12-04-1946_PERSONAL.csv
+Elkin,Reilly,02-04-1938,13-05-1962,191,91,match_and_player_data/player_all_time_data/REILLY_ELKIN_02-04-1938_STATS.csv,match_and_player_data/player_all_time_data/REILLY_ELKIN_02-04-1938_PERSONAL.csv
 Eric,Wilson,29-04-1945,16-05-1966,193,91,match_and_player_data/player_all_time_data/WILSON_ERIC_29-04-1945_STATS.csv,match_and_player_data/player_all_time_data/WILSON_ERIC_29-04-1945_PERSONAL.csv
 Alan,Self,12-07-1944,19-06-1962,183,80,match_and_player_data/player_all_time_data/SELF_ALAN_12-07-1944_STATS.csv,match_and_player_data/player_all_time_data/SELF_ALAN_12-07-1944_PERSONAL.csv
 John,Rantall,09-12-1943,15-04-1963,182,77,match_and_player_data/player_all_time_data/RANTALL_JOHN_09-12-1943_STATS.csv,match_and_player_data/player_all_time_data/RANTALL_JOHN_09-12-1943_PERSONAL.csv
@@ -28,7 +28,6 @@ Kevin,Parker,02-05-1943,05-07-1964,178,76,match_and_player_data/player_all_time_
 Fred,Way,09-02-1944,13-04-1964,196,92,match_and_player_data/player_all_time_data/WAY_FRED_09-02-1944_STATS.csv,match_and_player_data/player_all_time_data/WAY_FRED_09-02-1944_PERSONAL.csv
 John,Sudholz,01-05-1946,18-04-1966,192,99,match_and_player_data/player_all_time_data/SUDHOLZ_JOHN_01-05-1946_STATS.csv,match_and_player_data/player_all_time_data/SUDHOLZ_JOHN_01-05-1946_PERSONAL.csv
 Kevin,Batch,24-06-1941,12-08-1963,188,76,match_and_player_data/player_all_time_data/BATCH_KEVIN_24-06-1941_STATS.csv,match_and_player_data/player_all_time_data/BATCH_KEVIN_24-06-1941_PERSONAL.csv
-Austin,Robertson,29-04-1943,17-04-1966,182,83,match_and_player_data/player_all_time_data/ROBERTSON_AUSTIN_29-04-1943_STATS.csv,match_and_player_data/player_all_time_data/ROBERTSON_AUSTIN_29-04-1943_PERSONAL.csv
 John,Heriot,06-01-1940,02-06-1958,191,79,match_and_player_data/player_all_time_data/HERIOT_JOHN_06-01-1940_STATS.csv,match_and_player_data/player_all_time_data/HERIOT_JOHN_06-01-1940_PERSONAL.csv
 Geoff,Davey,03-09-1945,24-05-1965,178,73,match_and_player_data/player_all_time_data/DAVEY_GEOFF_03-09-1945_STATS.csv,match_and_player_data/player_all_time_data/DAVEY_GEOFF_03-09-1945_PERSONAL.csv
 Ken,Barnes,27-12-1941,27-07-1964,193,92,match_and_player_data/player_all_time_data/BARNES_KEN_27-12-1941_STATS.csv,match_and_player_data/player_all_time_data/BARNES_KEN_27-12-1941_PERSONAL.csv
@@ -36,5 +35,6 @@ Ray,Lucev,11-01-1942,25-04-1965,188,92,match_and_player_data/player_all_time_dat
 Herbie,Matthews,10-05-1943,10-07-1961,169,77,match_and_player_data/player_all_time_data/MATTHEWS_HERBIE_10-05-1943_STATS.csv,match_and_player_data/player_all_time_data/MATTHEWS_HERBIE_10-05-1943_PERSONAL.csv
 Bob,Kingston,17-06-1944,16-05-1961,191,89,match_and_player_data/player_all_time_data/KINGSTON_BOB_17-06-1944_STATS.csv,match_and_player_data/player_all_time_data/KINGSTON_BOB_17-06-1944_PERSONAL.csv
 Kevin,Pedrotti,05-04-1948,17-08-1965,183,76,match_and_player_data/player_all_time_data/PEDROTTI_KEVIN_05-04-1948_STATS.csv,match_and_player_data/player_all_time_data/PEDROTTI_KEVIN_05-04-1948_PERSONAL.csv
+Austin,Robertson,28-04-1943,17-04-1966,182,83,match_and_player_data/player_all_time_data/ROBERTSON_AUSTIN_28-04-1943_STATS.csv,match_and_player_data/player_all_time_data/ROBERTSON_AUSTIN_28-04-1943_PERSONAL.csv
 Tony,Haenen,24-04-1946,22-08-1966,191,86,match_and_player_data/player_all_time_data/HAENEN_TONY_24-04-1946_STATS.csv,match_and_player_data/player_all_time_data/HAENEN_TONY_24-04-1946_PERSONAL.csv
 Ian,Davison,12-01-1945,31-05-1965,180,72,match_and_player_data/player_all_time_data/DAVISON_IAN_12-01-1945_STATS.csv,match_and_player_data/player_all_time_data/DAVISON_IAN_12-01-1945_PERSONAL.csv

@@ -1,0 +1,6 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Collingwood,1978,1,St Kilda,10,W,49,2,,3,5,,,,,,,,,,,,,,,,,,,
+Collingwood,1978,2,Melbourne,11,W,49,2,2,1,3,,1,,,,,,,,,,,,,,,,,
+Collingwood,1978,3,Geelong,12,L,49,3,1,2,5,,,1,,,,,,,2,,,,,,,,,
+Collingwood,1978,4,Fitzroy,17,W,49,3,,,3,1,,,,,,,,1,,,,,,,,,,
+Collingwood,1978,5,Carlton,18,L,49,3,,1,4,,,,,,,,,,1,,,,,,,,,

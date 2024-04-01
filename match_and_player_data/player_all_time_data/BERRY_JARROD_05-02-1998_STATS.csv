@@ -1,0 +1,136 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Brisbane Lions,2017,1,St Kilda,3,L,13,3,2,5,8,1,,,2,,,,1,,1,,2,6,,1,2,,,73
+Brisbane Lions,2017,2,Richmond,4,L,13,7,2,3,10,,,,3,1,1,1,5,2,3,,4,6,,,1,,,74
+Brisbane Lions,2017,3,Western Bulldogs,5,L,13,2,2,4,6,,,,2,1,1,,3,,2,,1,6,,,,,,73
+Brisbane Lions,2017,4,Port Adelaide,6,L,13,5,1,11,16,,,,7,3,1,3,2,3,1,,8,8,,,,,,88
+Brisbane Lions,2017,5,Sydney,7,L,13,5,2,6,11,1,,,4,,4,2,1,,,,4,7,,1,1,,1,66
+Brisbane Lions,2017,6,Hawthorn,8,L,13,7,5,6,13,1,,,4,,3,1,,1,,,4,9,,,1,,,76
+Brisbane Lions,2017,7,Adelaide,9,L,13,6,3,10,16,,1,,2,1,,1,1,2,,,7,9,,1,2,,1,75
+Brisbane Lions,2017,8,Collingwood,10,L,13,3,1,3,6,1,,,5,,1,,1,2,1,,6,1,1,1,1,,1,73
+Brisbane Lions,2017,9,Fremantle,12,W,13,8,4,7,15,1,,,5,,2,2,3,,1,,7,10,,1,1,,1,65
+Brisbane Lions,2017,10,Port Adelaide,13,L,13,6,2,10,16,,,,,3,1,5,4,1,2,,9,7,,,,1,,75
+Brisbane Lions,2017,11,Greater Western Sydney,14,L,13,4,3,14,18,1,1,,2,1,,4,,1,,,9,9,1,,3,,,84
+Brisbane Lions,2017,12,Essendon,15,W,13,7,3,8,15,,,,3,,3,1,,2,,,5,10,,1,2,,,69
+Brisbane Lions,2017,13,Geelong,16,L,13,7,6,11,18,,,,6,3,3,1,2,3,2,,10,10,,,1,,1,67
+Brisbane Lions,2017,14,Richmond,17,L,13,8,7,4,12,,,,7,1,5,,2,1,1,,2,10,,1,1,,2,72
+Brisbane Lions,2017,15,Carlton,18,W,13,6,7,15,21,,1,,3,1,3,6,,,,,9,12,1,,,,1,84
+Brisbane Lions,2017,16,Western Bulldogs,20,L,13,8,6,10,18,1,,,6,2,3,3,2,2,1,,8,10,,2,,,1,75
+Brisbane Lions,2018,17,St Kilda,1,L,13,13,8,6,19,3,,,3,,2,3,3,1,,,6,13,,2,3,,1,73
+Brisbane Lions,2018,18,Melbourne,2,L,13,5,1,11,16,,,,7,1,1,6,1,,1,,12,4,,,2,,,89
+Brisbane Lions,2018,19,Port Adelaide,3,L,13,7,3,5,12,,,,5,,2,1,3,1,2,,1,12,,,2,,1,77
+Brisbane Lions,2018,20,Richmond,4,L,13,7,2,10,17,,1,,2,,2,1,3,1,3,,10,7,1,1,,,,81
+Brisbane Lions,2018,21,Gold Coast,5,L,13,12,9,13,25,,1,,8,5,4,4,4,,1,,5,22,,1,1,,2,83
+Brisbane Lions,2018,22,Greater Western Sydney,6,L,13,9,4,11,20,,,,4,2,1,2,3,,,,7,13,,,1,1,1,73
+Brisbane Lions,2018,23,Collingwood,7,L,13,5,2,6,11,1,,,1,,3,3,1,,1,,7,4,,,,,2,58
+Brisbane Lions,2018,24,Western Bulldogs,8,L,13,9,3,11,20,,,,5,1,6,2,4,1,,,10,10,1,1,1,,1,70
+Brisbane Lions,2018,25,Hawthorn,9,W,13,4,4,8,12,,,,7,,2,3,3,1,3,,5,7,,1,1,,3,74
+Brisbane Lions,2018,26,Sydney,10,L,13,10,3,10,20,1,1,,6,1,4,5,4,1,,,10,11,,2,2,,,74
+Brisbane Lions,2018,27,Essendon,12,L,13,5,1,11,16,1,,,5,1,2,1,3,1,2,,5,10,,,,,,87
+Brisbane Lions,2018,28,Greater Western Sydney,14,L,13,7,2,7,14,1,,,8,,3,5,6,1,3,,8,6,,,4,,,77
+Brisbane Lions,2018,29,Fremantle,15,W,13,10,4,14,24,1,,,5,1,7,6,3,1,2,1,11,15,,,3,,1,86
+Brisbane Lions,2018,30,Carlton,16,W,13,4,4,13,17,,,,4,1,2,3,,,,,7,10,,,3,,2,86
+Brisbane Lions,2018,31,Hawthorn,17,W,13,7,6,17,24,1,,,6,,1,2,2,3,,,15,12,,2,1,,,74
+Brisbane Lions,2018,32,Adelaide,18,L,13,11,5,6,17,2,1,,2,,1,2,2,1,1,,7,10,,1,1,,,78
+Brisbane Lions,2018,33,Geelong,19,L,13,8,5,7,15,,1,,2,1,2,1,2,1,1,,5,10,1,1,1,,,76
+Brisbane Lions,2018,34,North Melbourne,20,L,13,11,5,17,28,,,,6,3,4,4,3,1,1,,11,16,,,1,,1,79
+Brisbane Lions,2018,35,Collingwood,21,L,13,11,4,7,18,,,,6,,8,4,2,3,2,,10,10,,,2,,3,86
+Brisbane Lions,2018,36,Gold Coast,22,W,13,9,4,12,21,,,,3,2,6,6,4,,2,,11,10,,,2,,,85
+Brisbane Lions,2018,37,West Coast,23,L,13,11,4,11,22,1,,,5,,5,6,1,2,,,11,10,,,1,,2,72
+Brisbane Lions,2019,38,West Coast,1,W,7,10,4,15,25,,1,,4,1,4,5,2,2,1,,10,15,,,2,,2,75
+Brisbane Lions,2019,39,North Melbourne,2,W,7,14,10,9,23,1,,,1,1,6,3,2,4,,1,10,14,1,1,,,1,84
+Brisbane Lions,2019,40,Port Adelaide,3,W,7,10,3,8,18,,,,5,1,4,1,1,1,,,6,12,,,1,,,82
+Brisbane Lions,2019,41,Essendon,4,L,7,14,8,12,26,1,2,,1,,6,3,7,1,2,,8,18,1,1,3,,,82
+Brisbane Lions,2019,42,Collingwood,5,L,7,11,4,13,24,1,,,1,2,2,1,,3,,,6,18,,1,1,,1,84
+Brisbane Lions,2019,43,Gold Coast,6,W,7,12,2,6,18,,2,,8,2,3,2,1,2,1,,8,11,,,2,,2,75
+Brisbane Lions,2019,44,Sydney,7,W,7,12,3,13,25,1,1,,2,3,4,3,3,1,,,10,15,,1,2,1,,85
+Brisbane Lions,2019,45,Western Bulldogs,8,L,7,5,2,3,8,1,,,7,3,2,1,1,2,,,5,5,,1,,1,,65
+Brisbane Lions,2019,46,Adelaide,9,W,7,9,2,11,20,,,,5,2,3,4,4,2,1,,9,11,,,2,,1,75
+Brisbane Lions,2019,47,Melbourne,15,W,7,5,3,6,11,,,,4,,3,1,,3,,,7,6,,1,,1,,73
+Brisbane Lions,2019,48,Greater Western Sydney,16,W,7,12,5,8,20,1,,,2,,4,1,2,,1,,8,12,,,1,,,80
+Brisbane Lions,2019,49,Port Adelaide,17,W,7,8,2,10,18,,,,4,,3,4,2,,2,,9,9,,,2,,,75
+Brisbane Lions,2019,50,North Melbourne,18,W,7,8,3,7,15,,1,,4,2,3,4,3,1,,,6,9,,1,1,,,69
+Brisbane Lions,2019,51,Hawthorn,19,W,7,9,5,9,18,,,,4,2,,1,3,,1,,5,13,,,,,1,85
+Brisbane Lions,2019,52,Western Bulldogs,20,W,7,16,6,9,25,,,,2,,8,3,4,1,1,,9,15,,,2,,1,77
+Brisbane Lions,2019,53,Gold Coast,21,W,7,15,8,11,26,1,,,7,,5,4,4,2,2,,11,16,,,1,,1,76
+Brisbane Lions,2019,54,Geelong,22,W,7,6,5,7,13,,,,6,1,4,3,2,2,1,,6,8,,,1,1,,79
+Brisbane Lions,2019,55,Richmond,23,L,7,10,2,10,20,,,,3,,2,3,4,3,2,,7,15,,,2,,,77
+Brisbane Lions,2019,56,Richmond,QF,L,7,15,8,6,21,,2,,3,1,5,5,3,2,,,9,12,1,1,1,,2,77
+Brisbane Lions,2019,57,Greater Western Sydney,SF,L,7,10,4,8,18,1,1,,3,3,1,6,5,5,2,,14,7,,1,3,,1,75
+Brisbane Lions,2020,58,Hawthorn,1,L,7,5,2,8,13,,1,,,,3,,2,,1,,4,9,,1,2,,1,82
+Brisbane Lions,2020,59,Fremantle,2,W,7,7,2,7,14,,1,,5,1,1,2,,,,,3,13,,,6,,,87
+Brisbane Lions,2020,60,West Coast,3,W,7,9,3,4,13,3,2,,5,,3,3,,3,,,6,8,,,3,,,78
+Brisbane Lions,2020,61,Adelaide,4,W,7,14,7,9,23,,,,10,2,4,2,2,1,2,2,7,15,,1,2,,2,87
+Brisbane Lions,2020,62,Port Adelaide,5,W,7,10,3,9,19,,,,5,,4,4,1,,,,11,8,,,3,,1,82
+Brisbane Lions,2020,63,Geelong,6,L,7,10,2,9,19,,2,,7,2,5,5,4,3,1,,15,5,,1,2,1,1,72
+Brisbane Lions,2020,64,Greater Western Sydney,7,W,7,10,5,5,15,,2,,3,,3,4,2,2,1,,8,8,,,3,,,79
+Brisbane Lions,2020,65,Melbourne,8,W,7,10,5,10,20,,,,6,,3,4,8,1,7,,10,10,,,1,,,85
+Brisbane Lions,2020,66,Essendon,9,W,7,15,6,4,19,,,,2,2,4,3,1,4,,,9,9,,,1,,3,80
+Brisbane Lions,2020,67,Richmond,10,L,7,10,6,3,13,,,,5,,2,,1,2,,,5,8,,,1,,,85
+Brisbane Lions,2020,68,Western Bulldogs,11,W,7,9,5,7,16,,,,3,1,1,1,4,1,3,,4,13,1,,2,,,76
+Brisbane Lions,2020,69,North Melbourne,12,W,7,4,3,10,14,,,,4,,,,3,,3,,11,4,,1,,,,75
+Brisbane Lions,2020,70,St Kilda,13,W,7,9,4,11,20,2,,,2,2,3,6,1,1,1,3,9,11,,1,2,,,81
+Brisbane Lions,2020,71,Collingwood,15,W,7,16,5,8,24,1,,,3,4,4,4,3,1,1,3,10,14,,,3,,1,80
+Brisbane Lions,2020,72,Gold Coast,16,W,7,3,4,2,5,1,,,,,1,,,,,,1,4,,1,1,,,32
+Brisbane Lions,2020,73,Richmond,QF,W,7,12,6,4,16,,2,,3,3,1,,5,,,,2,14,1,2,1,,,83
+Brisbane Lions,2020,74,Geelong,PF,L,7,2,2,6,8,,,,1,,1,,2,1,1,,4,5,,,,,,73
+Brisbane Lions,2021,75,Sydney,1,L,7,10,3,6,16,1,,,2,2,3,1,4,1,2,,4,10,,,1,,1,78
+Brisbane Lions,2021,76,Western Bulldogs,4,L,7,9,3,8,17,,,,3,,2,5,2,,2,,3,13,,,,,,75
+Brisbane Lions,2021,77,Essendon,5,W,7,4,,4,8,,1,,4,1,,,4,,2,,3,5,,,1,,,38
+Brisbane Lions,2021,78,Adelaide,16,W,7,4,,,4,,,,1,,2,,2,2,1,,1,3,,,,,,50
+Brisbane Lions,2021,79,Gold Coast,19,W,7,6,2,6,12,,,,2,1,2,1,3,,2,,4,8,,,,,,70
+Brisbane Lions,2021,80,Hawthorn,20,L,7,8,2,7,15,,,,3,2,,2,9,1,4,,6,11,,,,,,63
+Brisbane Lions,2021,81,Fremantle,21,W,7,6,4,8,14,,,,4,,1,1,1,1,,,3,11,,,1,,,75
+Brisbane Lions,2021,82,Collingwood,22,W,7,8,,8,16,,,,4,,6,6,3,3,1,,8,8,,,,,2,65
+Brisbane Lions,2021,83,West Coast,23,W,7,8,3,7,15,3,1,,3,,3,,,4,,,4,12,,2,1,,,68
+Brisbane Lions,2021,84,Melbourne,QF,L,7,7,5,4,11,1,,,6,2,3,,4,1,,,6,7,,1,3,,1,68
+Brisbane Lions,2021,85,Western Bulldogs,SF,L,7,5,2,5,10,,,,2,,1,1,2,1,1,,4,4,,,1,,,31
+Brisbane Lions,2022,86,Port Adelaide,1,W,7,11,5,7,18,,,,5,3,2,2,5,1,,,6,11,1,,4,,,80
+Brisbane Lions,2022,87,Essendon,2,W,7,11,4,3,14,,,,5,1,4,2,3,2,2,,6,10,,,1,,1,81
+Brisbane Lions,2022,88,North Melbourne,3,W,7,13,5,8,21,,1,,5,3,3,1,5,,1,,4,17,,,5,,1,76
+Brisbane Lions,2022,89,Geelong,4,L,7,8,3,13,21,,,,5,1,2,4,2,2,,,11,11,,,4,,1,84
+Brisbane Lions,2022,90,Collingwood,5,W,7,6,3,14,20,,,,3,1,3,1,2,1,1,,4,16,,,,,3,79
+Brisbane Lions,2022,91,Gold Coast,6,W,7,10,1,7,17,1,,,4,2,2,1,2,5,1,,7,8,,1,1,,1,75
+Brisbane Lions,2022,92,Sydney,7,W,7,9,1,8,17,,,,2,3,,2,6,,1,,5,10,,,,,3,79
+Brisbane Lions,2022,93,West Coast,8,W,7,9,6,5,14,1,,,4,2,4,1,2,,,,4,10,,1,,,,71
+Brisbane Lions,2022,94,Adelaide,9,W,7,5,2,2,7,1,,,4,2,2,,3,,1,,3,3,,1,1,,1,75
+Brisbane Lions,2022,95,Hawthorn,10,L,7,10,2,3,13,1,,,4,2,3,2,1,2,,,4,9,,,2,,1,71
+Brisbane Lions,2022,96,Greater Western Sydney,11,W,7,20,10,13,33,1,2,,3,1,8,3,3,,1,1,10,23,2,,,,1,77
+Brisbane Lions,2022,97,Fremantle,12,L,7,10,6,5,15,,,,3,4,2,,,1,,,3,12,,,2,,,84
+Brisbane Lions,2022,98,St Kilda,13,W,7,14,8,11,25,,1,,6,2,2,1,2,1,1,,8,18,,,2,,,84
+Brisbane Lions,2022,99,Melbourne,15,L,7,13,8,5,18,,,,2,1,3,,2,1,,,4,14,,,1,,,86
+Brisbane Lions,2022,100,Western Bulldogs,16,W,7,13,9,10,23,2,1,,2,1,4,3,4,1,1,1,9,15,,2,,,,88
+Brisbane Lions,2022,101,Gold Coast,19,W,7,10,1,3,13,,,,6,2,3,1,4,,1,,3,11,,,3,,,75
+Brisbane Lions,2022,102,Richmond,20,L,7,11,4,3,14,,1,,4,2,2,2,1,,,,5,10,1,,1,,1,76
+Brisbane Lions,2022,103,Carlton,21,W,7,13,7,9,22,1,,,,5,2,4,5,,2,,10,12,,1,2,,,89
+Brisbane Lions,2022,104,St Kilda,22,W,7,8,3,9,17,,,,2,3,3,2,1,,1,,5,13,,,,,,75
+Brisbane Lions,2022,105,Melbourne,23,L,7,7,3,4,11,,,,2,,,1,3,,,,3,8,,,2,,,59
+Brisbane Lions,2022,106,Richmond,EF,W,7,8,2,6,14,,,,1,1,4,1,1,,1,,6,7,,,3,,1,76
+Brisbane Lions,2022,107,Melbourne,SF,W,7,13,8,13,26,,1,,2,3,2,4,2,,,,9,16,1,,2,,,84
+Brisbane Lions,2022,108,Geelong,PF,L,7,13,5,6,19,1,,,7,2,4,3,5,4,2,,7,14,,1,,,1,83
+Brisbane Lions,2023,109,Port Adelaide,1,L,7,8,5,7,15,,,,,1,5,,3,1,1,,5,11,,,,,,72
+Brisbane Lions,2023,110,Melbourne,2,W,7,11,3,6,17,1,,,6,2,4,5,2,1,,,11,8,1,,1,,,81
+Brisbane Lions,2023,111,Western Bulldogs,3,L,7,11,3,7,18,,,,2,,7,2,4,4,,,6,12,,,2,,,81
+Brisbane Lions,2023,112,Collingwood,4,W,7,16,7,5,21,1,1,,,4,5,,2,,,,2,19,,1,2,,,84
+Brisbane Lions,2023,113,North Melbourne,5,W,7,12,5,3,15,2,,,,,6,,,,,,2,13,,1,,,1,60
+Brisbane Lions,2023,114,Greater Western Sydney,6,W,7,5,3,7,12,,,,3,3,1,2,2,,,,5,7,,,,,,76
+Brisbane Lions,2023,115,Fremantle,7,W,7,9,3,7,16,,,,3,4,3,3,2,,1,,9,7,,,1,,1,77
+Brisbane Lions,2023,116,Carlton,8,W,7,17,9,12,29,,,,3,5,3,1,2,,,,6,23,,1,,,1,77
+Brisbane Lions,2023,117,Essendon,9,W,7,4,3,6,10,,,,1,1,1,1,1,,,,3,7,,,,,,81
+Brisbane Lions,2023,118,Gold Coast,10,W,7,13,8,7,20,1,1,,1,2,1,2,2,,1,,7,12,1,2,3,,,72
+Brisbane Lions,2023,119,Adelaide,11,L,7,7,2,4,11,,,,3,1,4,1,2,1,,,5,8,,,4,,,74
+Brisbane Lions,2023,120,Hawthorn,13,L,7,8,3,7,15,,,,6,3,,3,,,,,7,7,,,1,,,86
+Brisbane Lions,2023,121,Sydney,14,W,7,15,4,3,18,2,,,1,3,4,1,1,2,1,,9,9,2,1,1,,,77
+Brisbane Lions,2023,122,St Kilda,15,W,7,12,8,7,19,1,1,,3,,3,3,,1,,,9,12,1,2,1,,1,73
+Brisbane Lions,2023,123,Richmond,16,W,7,8,6,8,16,1,1,,,2,3,1,,1,,,4,13,,1,4,,1,79
+Brisbane Lions,2023,124,Melbourne,18,L,7,5,3,3,8,,,,3,1,2,,1,,1,,2,6,,1,,,1,59
+Brisbane Lions,2023,125,Geelong,19,W,7,9,3,8,17,,,,4,3,3,5,5,,1,,7,10,,,,,,76
+Brisbane Lions,2023,126,Gold Coast,20,L,7,9,4,11,20,,,,3,2,2,3,2,2,1,,9,11,,,1,,,78
+Brisbane Lions,2023,127,Fremantle,21,W,7,16,7,12,28,1,,,3,3,3,3,,2,,1,8,20,,,2,,,70
+Brisbane Lions,2023,128,Adelaide,22,W,7,13,4,6,19,,,,4,4,2,3,5,2,1,,7,12,,,,,,81
+Brisbane Lions,2023,129,Collingwood,23,W,7,9,3,12,21,,1,,4,1,3,2,2,,,,6,14,,,,,,80
+Brisbane Lions,2023,130,St Kilda,24,W,7,17,7,8,25,,,,7,2,8,1,1,2,,,8,17,,,2,,,86
+Brisbane Lions,2023,131,Port Adelaide,QF,W,7,11,6,4,15,,,,1,,4,3,4,1,2,,5,11,,1,,,1,76
+Brisbane Lions,2023,132,Carlton,PF,W,7,14,6,10,24,,,,1,7,3,3,4,1,1,,11,15,,,2,,1,79
+Brisbane Lions,2023,133,Collingwood,GF,L,7,9,4,2,11,,,,2,4,1,2,5,,2,,2,8,,,4,,,73
+Brisbane Lions,2024,134,Carlton,1,L,7,11,5,6,17,,,,,2,5,1,3,,,,6,11,,,1,,,77
+Brisbane Lions,2024,135,Fremantle,2,L,7,5,3,5,10,,,,2,2,,1,1,1,1,,5,5,,,2,,,82

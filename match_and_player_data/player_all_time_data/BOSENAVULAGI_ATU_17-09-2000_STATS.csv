@@ -1,0 +1,21 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Collingwood,2020,1,Hawthorn,6,W,40,6,4,10,16,,,,1,,2,,4,,1,,5,11,,,,2,,68
+Collingwood,2020,2,Geelong,7,W,40,2,1,1,3,,,,3,,1,,,2,,,2,1,,,,,1,57
+Collingwood,2020,3,West Coast,8,L,40,1,1,1,2,,,,1,,,1,4,,2,,3,1,,,3,,,63
+North Melbourne,2021,4,Geelong,5,L,15,8,3,8,16,,,,3,3,2,1,3,1,1,,6,9,1,,2,,,73
+North Melbourne,2021,5,Fremantle,6,L,15,12,9,3,15,,,,2,,3,,1,,,,3,11,1,,2,,,85
+North Melbourne,2021,6,Melbourne,7,L,15,7,3,8,15,,,,2,1,2,,1,1,,,6,8,,,1,,,72
+North Melbourne,2021,7,Gold Coast,15,W,15,,,,,,,,,,,,,,,,,,,,,,,
+North Melbourne,2021,8,Essendon,18,L,15,1,1,,1,,,,,,1,,,,,,,1,,,,,,13
+North Melbourne,2021,9,Carlton,19,W,15,8,4,8,16,,,,3,2,3,1,3,1,3,,8,8,,,1,,2,84
+North Melbourne,2021,10,Geelong,20,L,15,6,4,5,11,1,,,1,1,1,,1,,,,3,8,,,1,1,,84
+North Melbourne,2021,11,Adelaide,23,L,15,4,4,3,7,,,,2,2,1,,3,1,1,,3,4,,,1,,,72
+North Melbourne,2022,12,Sydney,4,L,15,5,,5,10,,,,5,1,1,1,1,2,,,6,4,,,,,,77
+North Melbourne,2022,13,Western Bulldogs,5,L,15,2,2,6,8,,,,1,,1,,1,,1,,4,4,1,,1,,,76
+North Melbourne,2022,14,Geelong,6,L,15,1,,10,11,,,,3,,1,2,1,,,,7,4,,,1,,,64
+North Melbourne,2022,15,Carlton,7,L,15,5,2,2,7,,,,1,2,1,,1,1,1,,3,4,,,1,,,51
+North Melbourne,2022,16,Fremantle,8,L,15,7,3,2,9,,,,3,2,1,,2,,,,2,7,,,1,,,71
+North Melbourne,2022,17,Port Adelaide,9,L,15,5,3,1,6,,,,5,1,1,,2,,2,,1,5,,,4,,,88
+North Melbourne,2022,18,Melbourne,10,L,15,,,,,,,,,,,,,,,,,,,,,,,6
+North Melbourne,2022,19,Gold Coast,12,L,15,3,2,2,5,,,,3,1,,,1,,1,,3,2,,,,,,44
+North Melbourne,2022,20,Geelong,16,L,15,8,4,7,15,,,,2,1,,,2,1,,,4,11,,,3,,,85

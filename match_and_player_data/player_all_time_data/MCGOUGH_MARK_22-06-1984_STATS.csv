@@ -1,0 +1,50 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Collingwood,2002,1,Hawthorn,4,W,27,14,4,8,22,2,2,,1,1,5,6,2,1,,2,8,14,1,1,,1,,
+Collingwood,2002,2,Essendon,5,W,27,19,6,5,24,,2,,3,,3,4,5,1,2,3,11,12,,,2,,,
+Collingwood,2002,3,St Kilda,6,W,27,6,3,10,16,,2,,2,1,3,6,2,2,1,,5,11,,,1,,,
+Collingwood,2002,4,Western Bulldogs,7,W,27,5,4,7,12,,,,2,1,3,4,1,,1,,6,6,1,,1,,,
+Collingwood,2002,5,Brisbane Lions,8,W,27,8,2,8,16,,,,1,,3,2,1,1,,,9,6,,,3,,,
+Collingwood,2002,6,Port Adelaide,9,L,27,2,1,8,10,,,,2,1,,2,,,,,5,5,,,,,,
+Collingwood,2002,7,Sydney,10,W,27,9,3,7,16,,,,2,3,3,1,2,,1,,3,13,1,,,1,,
+Collingwood,2002,8,Melbourne,11,W,27,10,7,14,24,,,,1,1,5,3,3,,1,1,7,17,1,,,1,,
+Collingwood,2002,9,Fremantle,12,L,27,5,1,9,14,,,,2,1,1,2,2,,1,,7,7,,,3,1,,
+Collingwood,2002,10,Kangaroos,13,W,27,2,,3,5,,,,2,,3,1,1,,1,,3,3,,,,,,
+Collingwood,2002,11,Adelaide,14,W,27,3,,5,8,,1,,1,,3,1,2,1,1,,3,5,,,2,1,,
+Collingwood,2002,12,Geelong,15,L,27,5,3,6,11,,,,2,1,1,1,2,,,,2,9,,,1,,,
+Collingwood,2002,13,Carlton,18,W,27,11,3,8,19,1,,,1,3,2,4,3,,2,,7,10,1,1,3,,,
+Collingwood,2002,14,Hawthorn,19,L,27,15,3,9,24,1,2,,2,,1,5,3,,,2,10,14,,,,,,
+Collingwood,2002,15,Essendon,20,L,27,13,5,10,23,1,,,3,2,4,7,2,1,,,10,15,2,,,,,
+Collingwood,2002,16,St Kilda,21,W,27,2,1,1,3,,,,,,,,,,,,,2,,,,,,
+Collingwood,2002,17,Western Bulldogs,22,L,27,5,1,2,7,,,,2,,1,,4,,,,1,5,,,,,,
+Collingwood,2003,18,Richmond,1,W,27,13,5,4,17,1,1,,3,3,2,6,2,1,,,6,10,,,1,,1,79
+Collingwood,2003,19,Carlton,2,W,27,3,2,6,9,,,,1,,,,1,,1,,3,6,,,3,,,74
+Collingwood,2003,20,Essendon,5,L,27,11,4,13,24,,,,2,,1,3,2,,,,9,13,1,,,,,76
+Collingwood,2003,21,Sydney,6,L,27,10,1,3,13,,1,,,,3,4,1,,1,,6,7,,,,,,40
+Collingwood,2003,22,Hawthorn,12,L,27,8,4,2,10,,1,,3,1,3,,2,,,,2,9,,,1,2,,46
+Collingwood,2003,23,Geelong,18,W,27,13,4,6,19,,,,5,2,6,8,3,1,3,,9,9,,,,1,2,51
+Collingwood,2003,24,Brisbane Lions,19,L,27,5,1,1,6,,,,2,,,,3,,,,4,2,,,,,,36
+Collingwood,2003,25,Sydney,21,W,27,,,2,2,,,,2,,,,,,,,1,1,,,2,,,43
+Collingwood,2004,26,Essendon,5,L,27,18,7,11,29,2,,,2,,6,7,3,,,2,12,14,,,3,,,83
+Collingwood,2004,27,Port Adelaide,6,L,27,21,10,12,33,1,2,,,3,8,5,1,1,,2,12,21,,,1,3,1,79
+Collingwood,2004,28,Carlton,7,L,27,6,1,7,13,,,,7,,3,2,6,,1,,9,5,,,3,,,68
+Collingwood,2004,29,St Kilda,8,L,27,11,3,4,15,1,,,5,1,1,7,2,,1,,7,7,,,1,,1,54
+Collingwood,2004,30,Adelaide,9,W,27,14,10,7,21,,,,,4,5,5,2,,1,,6,15,,,3,4,,65
+Collingwood,2004,31,Kangaroos,10,W,27,12,6,7,19,,1,,2,1,2,7,,1,,,11,9,1,1,,,,73
+Collingwood,2004,32,West Coast,11,W,27,4,1,6,10,,,,,,3,4,2,,1,,9,2,1,,,,,28
+Collingwood,2004,33,Melbourne,12,L,27,7,3,10,17,1,,,2,,4,6,2,1,1,,9,9,,,2,1,,61
+Collingwood,2004,34,Sydney,13,L,27,3,1,7,10,,1,,2,1,1,2,,,,,7,3,,,,,,49
+Collingwood,2004,35,Essendon,20,L,27,6,4,8,14,,,,2,4,1,3,,1,,,3,11,,,1,,,45
+Collingwood,2004,36,Port Adelaide,21,L,27,5,4,10,15,1,,,5,,2,1,1,1,1,,3,13,,2,,1,1,63
+Collingwood,2004,37,Carlton,22,L,27,,1,2,2,,,,3,,,,,,,,,2,,,,,,7
+St Kilda,2005,38,Brisbane Lions,1,L,30,7,3,9,16,,,,1,1,4,2,4,1,1,,8,10,,,2,1,,60
+St Kilda,2005,39,Fremantle,2,W,30,4,2,3,7,,,,,2,2,1,1,,,,2,4,,,,1,,27
+St Kilda,2005,40,Geelong,7,L,30,5,6,15,20,,1,,2,,2,1,4,,1,,4,16,,,2,1,2,52
+St Kilda,2005,41,West Coast,8,L,30,8,6,11,19,1,1,,2,3,2,,,,,,4,15,,1,2,,,66
+St Kilda,2005,42,Adelaide,9,L,30,4,1,4,8,,,,2,,2,1,1,,,,2,6,,,1,,,27
+St Kilda,2005,43,Sydney,10,W,30,8,3,4,12,,1,,2,1,3,1,,1,,,3,9,,,1,1,,44
+St Kilda,2005,44,Port Adelaide,11,L,30,4,4,4,8,,,,,,1,1,1,,,,2,6,1,1,1,,,30
+St Kilda,2005,45,Western Bulldogs,14,W,30,6,5,10,16,,,,,,2,2,2,,1,,5,12,,,5,1,,64
+St Kilda,2005,46,Carlton,15,W,30,5,,4,9,,,,2,1,3,2,2,,1,,5,4,,,,,,41
+St Kilda,2006,47,Kangaroos,9,W,30,9,5,11,20,1,,,1,2,,3,3,,1,,10,10,,1,,1,,49
+St Kilda,2006,48,Melbourne,10,L,30,5,1,3,8,,,,3,,1,2,,1,,,3,5,,,2,,,34
+St Kilda,2006,49,Sydney,11,W,30,11,3,4,15,,,,2,1,4,3,4,1,2,,10,5,,,3,,1,62

@@ -1,0 +1,42 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Adelaide,2018,1,Carlton,23,W,34,5,5,8,13,1,1,,3,,2,1,3,,,,5,8,,1,,1,2,84
+Adelaide,2019,2,Gold Coast,5,W,34,4,5,5,9,1,,5,3,,2,1,4,1,2,,3,6,,1,1,,,81
+Adelaide,2019,3,St Kilda,6,W,34,7,5,5,12,2,2,9,2,,2,2,3,1,3,,7,5,1,3,1,,,80
+Adelaide,2019,4,Fremantle,7,W,34,9,6,4,13,1,,8,2,,4,1,3,1,,,8,7,2,1,2,,,84
+Adelaide,2019,5,Port Adelaide,8,W,34,6,1,6,12,1,1,4,5,,3,1,2,3,,,10,2,,,,,,81
+Adelaide,2019,6,Brisbane Lions,9,L,34,4,3,2,6,1,,4,2,1,2,1,,1,,,3,3,,1,,,,90
+Adelaide,2019,7,West Coast,10,L,34,3,1,3,6,,1,11,6,,1,2,1,,1,,4,2,,,1,,1,87
+Adelaide,2019,8,Geelong,15,L,34,5,3,4,9,2,,2,3,1,,,2,,2,,3,4,1,,1,,1,83
+Adelaide,2020,9,Brisbane Lions,4,L,34,3,2,2,5,,,,1,,1,,1,1,,,3,2,,1,1,,,77
+Adelaide,2020,10,Essendon,8,L,34,4,3,4,8,,1,1,,,3,,4,,2,,3,7,1,1,6,,,90
+Adelaide,2020,11,North Melbourne,9,L,34,4,3,7,11,1,,,5,,1,1,1,2,,,4,6,1,,,,1,81
+Adelaide,2020,12,Melbourne,10,L,34,8,3,2,10,1,1,5,3,,,,,2,,,8,2,3,,2,,,91
+Adelaide,2020,13,Collingwood,11,L,34,8,5,2,10,2,,5,,,1,,1,,,,7,4,3,3,,,,92
+Adelaide,2020,14,Western Bulldogs,12,L,34,3,2,2,5,1,1,7,2,,1,1,1,1,1,,1,4,,1,1,,,83
+Adelaide,2020,15,Geelong,13,L,34,5,1,3,8,,1,3,2,1,1,1,2,1,,,6,3,1,1,4,,,78
+Adelaide,2020,16,Hawthorn,15,W,34,7,4,9,16,,1,4,1,1,2,3,1,2,,,8,8,1,1,2,,,81
+Adelaide,2020,17,Greater Western Sydney,16,W,34,7,4,7,14,2,1,5,1,,,1,1,1,,,12,3,4,2,2,,,83
+Adelaide,2020,18,Carlton,17,W,34,5,2,5,10,2,2,3,2,,1,2,,1,,,7,3,1,2,1,1,,85
+Adelaide,2020,19,Richmond,18,L,34,4,4,5,9,,2,3,3,2,1,,,,,,4,5,2,1,3,,,82
+Adelaide,2021,20,Hawthorn,6,L,34,6,5,3,9,2,,2,,,2,,4,,2,,4,5,2,2,2,,,86
+Adelaide,2021,21,Greater Western Sydney,7,L,34,3,1,4,7,,1,4,,,1,,1,2,1,,7,2,,,1,,,92
+Adelaide,2021,22,Port Adelaide,8,L,34,4,2,6,10,,1,4,3,1,3,,1,2,,,9,3,1,,4,,,89
+Adelaide,2021,23,West Coast,18,L,34,5,2,5,10,1,1,,1,,1,,4,,1,,6,6,1,1,4,,,82
+Adelaide,2021,24,Hawthorn,19,W,34,11,9,,11,2,1,1,3,,3,,3,1,,,6,4,5,3,1,,1,83
+Adelaide,2021,25,Western Bulldogs,20,L,34,6,5,5,11,2,1,1,,,2,1,1,1,1,,10,3,4,2,2,,,81
+Adelaide,2021,26,Port Adelaide,21,L,34,6,,6,12,1,,2,1,,3,,3,4,2,,9,4,,,3,,1,94
+Adelaide,2021,27,Melbourne,22,L,34,1,1,,1,,1,,,,,,1,,,,1,,1,1,,,,12
+Adelaide,2022,28,Fremantle,1,L,34,4,1,2,6,,,,1,,2,,3,1,1,,2,5,,,1,,1,93
+Adelaide,2022,29,Collingwood,2,L,34,6,6,7,13,,2,5,2,,2,2,2,1,2,,3,10,,3,1,,,91
+Adelaide,2022,30,Port Adelaide,3,W,34,9,8,5,14,4,,1,2,,1,,1,1,1,,7,7,4,3,2,,,85
+Adelaide,2022,31,Essendon,4,L,34,6,4,4,10,2,,,,,2,1,3,1,2,,7,5,1,2,5,,1,90
+Adelaide,2022,32,Richmond,5,W,34,9,3,2,11,4,1,1,3,,3,,2,3,,,7,4,2,1,1,,1,80
+Adelaide,2022,33,Western Bulldogs,6,W,34,4,4,4,8,,,1,2,,2,1,2,,1,,4,5,1,,5,,,83
+Adelaide,2022,34,Greater Western Sydney,7,L,34,1,,8,9,,,3,1,,1,,,,,,5,5,,,4,,1,81
+Adelaide,2022,35,Carlton,8,L,34,4,2,5,9,1,,6,2,,2,,2,2,2,,4,5,,,1,,,84
+Adelaide,2022,36,Brisbane Lions,9,L,34,9,3,6,15,,2,10,,1,3,1,,4,,,4,10,,,2,,,85
+Adelaide,2022,37,Carlton,20,W,34,3,1,5,8,1,,4,2,,1,,1,,,,7,2,1,,7,,,72
+Adelaide,2022,38,West Coast,21,W,34,4,2,2,6,2,,1,4,,2,1,5,1,3,,4,4,,1,3,,1,73
+Adelaide,2023,39,Greater Western Sydney,1,L,34,8,5,4,12,1,,4,1,,4,1,1,1,,,5,7,1,,1,,2,72
+Adelaide,2023,40,Richmond,2,L,34,7,4,2,9,,,1,,1,1,,1,,1,,4,5,2,,4,,,75
+Adelaide,2023,41,Western Bulldogs,10,L,34,3,2,2,5,,,9,3,,1,1,1,1,,,4,1,1,,1,,,72

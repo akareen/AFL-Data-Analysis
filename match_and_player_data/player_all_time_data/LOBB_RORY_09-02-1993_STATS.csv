@@ -1,0 +1,162 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Greater Western Sydney,2014,1,Essendon,12,L,37,3,2,4,7,1,,2,5,,,,,2,,,5,2,1,1,5,,,86
+Greater Western Sydney,2014,2,Fremantle,17,L,37,3,3,3,6,,,1,,,,,1,,,,2,5,,,4,,,81
+Greater Western Sydney,2015,3,North Melbourne,12,L,37,4,4,5,9,,,10,1,,1,1,3,1,2,,3,6,1,,1,,,89
+Greater Western Sydney,2015,4,Richmond,14,L,37,6,4,2,8,1,1,4,4,,1,1,1,,1,,6,2,3,2,3,,,88
+Greater Western Sydney,2015,5,St Kilda,15,W,37,4,,1,5,1,1,10,4,1,1,,,2,,,4,2,,,5,,1,81
+Greater Western Sydney,2015,6,Gold Coast,16,W,37,5,4,4,9,2,,17,2,,,,2,,,,4,5,1,1,1,,1,84
+Greater Western Sydney,2015,7,Geelong,17,L,37,7,4,3,10,,,11,5,1,,,2,2,2,,7,4,2,,5,,,88
+Greater Western Sydney,2015,8,Fremantle,18,L,37,5,4,2,7,1,,10,6,,,,,,,,6,1,4,1,2,,,90
+Greater Western Sydney,2015,9,Essendon,19,W,37,5,5,7,12,,1,6,3,,,,1,1,1,,6,6,3,1,2,,,88
+Greater Western Sydney,2015,10,Port Adelaide,20,L,37,1,1,7,8,1,,7,2,,,,3,,1,,4,4,,,2,,,77
+Greater Western Sydney,2015,11,Sydney,21,L,37,2,3,5,7,,,5,2,,,,1,,,,1,6,,,4,,,85
+Greater Western Sydney,2016,12,Melbourne,1,L,37,8,7,7,15,2,3,,2,,,,2,1,2,,9,7,4,5,6,,2,87
+Greater Western Sydney,2016,13,Geelong,2,W,37,7,7,4,11,1,2,3,1,1,,,2,3,1,,5,6,2,2,6,,,95
+Greater Western Sydney,2016,14,Sydney,3,L,37,2,1,5,7,,,1,2,1,,1,2,,1,,3,4,,,5,,,86
+Greater Western Sydney,2016,15,Port Adelaide,4,W,37,7,4,3,10,4,1,6,4,,2,1,1,2,,,9,2,3,3,2,,,81
+Greater Western Sydney,2016,16,St Kilda,5,W,37,5,2,5,10,,,8,2,,3,,1,1,,,7,4,,,1,,,85
+Greater Western Sydney,2016,17,Hawthorn,6,W,37,9,10,7,16,4,2,7,2,1,,,2,1,2,3,10,6,8,4,1,,,88
+Greater Western Sydney,2016,18,Fremantle,7,W,37,5,3,5,10,1,,11,3,,,2,3,2,2,,7,3,3,1,2,,,89
+Greater Western Sydney,2016,19,Gold Coast,8,W,37,6,3,3,9,3,,1,,,,,4,,3,,4,5,2,2,,,,84
+Greater Western Sydney,2016,20,Western Bulldogs,9,W,37,5,7,6,11,,,3,3,,1,1,1,,,,6,5,4,1,2,,,94
+Greater Western Sydney,2016,21,Adelaide,10,L,37,8,6,5,13,1,1,3,,1,1,,2,2,1,,8,5,4,2,3,,,84
+Greater Western Sydney,2016,22,Geelong,11,L,37,4,1,3,7,,,17,5,,1,3,2,1,1,,5,2,1,,3,,1,81
+Greater Western Sydney,2016,23,Sydney,12,W,37,10,6,3,13,1,,9,2,1,4,,1,1,1,,5,8,4,1,3,,1,79
+Greater Western Sydney,2016,24,Essendon,13,W,37,6,4,8,14,,,13,4,3,,,,1,,,10,6,2,,2,,,84
+Greater Western Sydney,2016,25,Carlton,14,W,37,5,4,7,12,1,1,13,1,,,3,,1,,,7,6,,3,3,,1,90
+Greater Western Sydney,2016,26,Collingwood,16,L,37,8,7,6,14,1,,8,2,4,1,1,1,,,,6,8,2,2,1,1,1,85
+Greater Western Sydney,2016,27,Brisbane Lions,17,W,37,10,5,4,14,1,2,5,5,,4,1,3,2,2,,9,5,3,1,2,,1,80
+Greater Western Sydney,2016,28,Port Adelaide,18,W,37,2,1,4,6,,,12,8,1,,,,,,,3,3,1,,3,,,85
+Greater Western Sydney,2016,29,Richmond,19,W,37,7,4,4,11,,1,4,3,1,1,1,3,2,,,8,3,2,1,1,,1,68
+Greater Western Sydney,2016,30,Gold Coast,20,W,37,7,5,6,13,1,,3,5,1,2,,1,,,,8,6,4,1,4,,,92
+Greater Western Sydney,2016,31,West Coast,21,L,37,13,5,2,15,4,2,7,4,1,2,,2,1,,2,6,10,4,2,1,,1,90
+Greater Western Sydney,2016,32,Fremantle,22,W,37,8,1,5,13,1,1,5,5,1,2,1,1,1,1,,6,7,,,,,1,88
+Greater Western Sydney,2016,33,North Melbourne,23,W,37,6,3,3,9,,,5,,1,1,,1,,,,1,8,1,,5,,1,86
+Greater Western Sydney,2016,34,Sydney,QF,W,37,10,8,6,16,,,7,,,3,,1,2,,,8,8,3,,3,,,85
+Greater Western Sydney,2016,35,Western Bulldogs,PF,L,37,12,7,3,15,3,,7,2,2,1,,3,1,1,,7,7,3,2,6,,,90
+Greater Western Sydney,2017,36,Adelaide,1,L,37,6,5,5,11,1,1,2,4,,1,1,1,3,,,7,4,3,2,,,1,92
+Greater Western Sydney,2017,37,Gold Coast,2,W,37,7,4,4,11,2,,3,2,,2,,2,1,1,,8,3,3,2,3,,,89
+Greater Western Sydney,2017,38,North Melbourne,3,W,37,8,2,1,9,2,,6,2,,3,,3,1,1,,6,2,2,1,3,,,90
+Greater Western Sydney,2017,39,Port Adelaide,4,W,37,9,6,8,17,1,2,8,4,1,3,2,,,,,12,6,3,2,3,,,80
+Greater Western Sydney,2017,40,Sydney,5,W,37,6,4,8,14,1,1,5,1,,2,,1,,,,4,10,2,1,1,,,85
+Greater Western Sydney,2017,41,Western Bulldogs,6,W,37,6,5,5,11,1,,10,2,2,2,1,2,1,,,7,4,3,1,2,,1,83
+Greater Western Sydney,2017,42,St Kilda,7,L,37,6,3,5,11,1,,13,1,,1,1,1,1,,,5,6,1,1,4,,,92
+Greater Western Sydney,2017,43,Collingwood,8,W,37,4,3,8,12,2,,9,,,1,1,1,,,,8,4,2,1,1,,1,94
+Greater Western Sydney,2017,44,Richmond,9,W,37,5,4,2,7,1,,1,1,,1,,,1,,,4,3,1,,,,,53
+Greater Western Sydney,2017,45,Geelong,15,D,37,5,6,7,12,1,2,10,,,1,1,1,1,,,8,4,3,2,4,,,94
+Greater Western Sydney,2017,46,Hawthorn,16,D,37,6,3,5,11,1,,10,5,2,3,1,4,,2,,5,5,1,,3,,,89
+Greater Western Sydney,2017,47,Sydney,17,L,37,10,8,,10,,,14,,1,5,1,2,1,,,7,4,6,,1,,,84
+Greater Western Sydney,2017,48,Richmond,18,L,37,3,1,4,7,,,11,1,2,,1,1,2,1,,5,4,1,,,,,74
+Greater Western Sydney,2017,49,Fremantle,19,W,37,7,7,4,11,2,,14,6,1,3,,3,,1,,5,6,4,2,1,,1,88
+Greater Western Sydney,2017,50,Melbourne,20,W,37,7,2,9,16,,,12,3,,1,2,2,3,1,,7,10,,,4,,,94
+Greater Western Sydney,2017,51,Western Bulldogs,21,W,37,7,7,6,13,1,,8,3,,3,1,5,,3,,8,5,4,2,2,,,86
+Greater Western Sydney,2017,52,Geelong,23,L,37,9,3,8,17,,1,12,4,1,1,4,4,2,1,,9,8,1,,2,,,80
+Greater Western Sydney,2017,53,Adelaide,QF,L,37,4,4,4,8,,1,3,2,2,,1,2,,2,,4,6,2,1,6,,,75
+Greater Western Sydney,2017,54,West Coast,SF,W,37,3,3,8,11,,,39,4,1,,2,,1,,,6,5,1,,1,,,83
+Greater Western Sydney,2017,55,Richmond,PF,L,37,5,6,4,9,,,31,2,1,2,2,2,3,,,6,5,2,,4,,1,86
+Greater Western Sydney,2018,56,Western Bulldogs,1,W,37,4,2,6,10,,,41,2,1,1,,2,1,2,,6,5,1,,5,,1,81
+Greater Western Sydney,2018,57,Collingwood,2,W,37,11,5,4,15,,,20,2,3,,2,11,,4,,5,10,1,,6,,,85
+Greater Western Sydney,2018,58,Sydney,3,L,37,4,4,1,5,1,1,9,4,,,,2,,2,,3,2,3,2,4,,,80
+Greater Western Sydney,2018,59,West Coast,8,L,37,5,3,7,12,,,32,3,2,1,3,2,3,1,,11,2,2,1,2,,,85
+Greater Western Sydney,2018,60,North Melbourne,9,L,37,5,3,4,9,1,,15,1,,3,2,3,1,1,,6,4,3,1,5,,,85
+Greater Western Sydney,2018,61,Essendon,10,L,37,8,3,2,10,,,38,5,2,2,3,1,6,1,,8,3,2,,2,,,85
+Greater Western Sydney,2018,62,Adelaide,11,W,37,6,1,1,7,1,1,37,2,,1,1,8,,5,,5,3,1,1,7,,,84
+Greater Western Sydney,2018,63,Gold Coast,12,W,37,1,,,1,,,12,1,,1,,1,1,1,,2,,,,3,,,43
+Greater Western Sydney,2018,64,Hawthorn,15,W,37,7,3,2,9,3,1,1,1,,2,,1,2,1,,5,4,1,1,,,,67
+Greater Western Sydney,2018,65,West Coast,16,L,37,6,6,5,11,,1,2,1,,5,,1,1,1,,9,2,6,1,8,,,85
+Greater Western Sydney,2018,66,Richmond,17,W,37,6,3,3,9,,1,,3,,1,,3,1,1,,3,6,2,,6,,,92
+Greater Western Sydney,2018,67,Port Adelaide,18,W,37,7,5,2,9,,1,8,3,,1,2,,,,,7,3,4,1,4,,,87
+Greater Western Sydney,2018,68,St Kilda,19,W,37,7,2,5,12,2,1,14,,,2,1,1,3,1,,9,3,2,,5,,,83
+Greater Western Sydney,2018,69,Carlton,20,W,37,10,5,1,11,,1,10,6,2,3,1,4,4,2,,5,7,,2,1,,,94
+Greater Western Sydney,2018,70,Adelaide,21,W,37,12,3,3,15,1,1,40,8,1,4,1,,1,,,10,6,2,,6,,,91
+Greater Western Sydney,2018,71,Sydney,22,L,37,5,2,2,7,,1,38,3,3,2,3,3,1,2,,6,4,,,7,,,92
+Greater Western Sydney,2018,72,Melbourne,23,L,37,7,4,3,10,1,,12,2,1,3,1,,1,,,2,7,,1,9,,,67
+Greater Western Sydney,2018,73,Sydney,EF,W,37,5,2,3,8,,,37,3,1,3,,4,1,1,,6,2,1,,9,,1,91
+Greater Western Sydney,2018,74,Collingwood,SF,L,37,11,4,1,12,1,,28,4,1,4,2,4,,1,,8,4,2,1,6,,,84
+Fremantle,2019,75,North Melbourne,1,W,37,9,4,2,11,2,1,6,4,1,1,2,2,1,,,9,2,3,2,6,,1,88
+Fremantle,2019,76,Gold Coast,2,L,37,4,1,3,7,1,1,11,2,,1,1,2,2,,,5,4,,,1,,,86
+Fremantle,2019,77,St Kilda,3,W,37,11,4,6,17,1,,28,1,2,3,6,4,,,,7,9,2,1,6,,1,86
+Fremantle,2019,78,West Coast,4,L,37,14,5,3,17,,1,23,1,3,1,1,2,3,1,1,10,8,2,,5,,,84
+Fremantle,2019,79,Greater Western Sydney,5,W,37,4,1,8,12,1,,22,1,,,1,,1,,,8,5,,,5,,,90
+Fremantle,2019,80,Western Bulldogs,6,W,37,6,4,6,12,,,31,2,,2,2,2,,,,6,6,3,1,3,,2,87
+Fremantle,2019,81,Adelaide,7,L,37,6,4,4,10,,1,30,1,2,4,3,,1,,,7,5,3,1,6,,,86
+Fremantle,2019,82,Richmond,8,L,37,11,6,8,19,1,2,45,2,,2,5,4,,1,,11,8,4,3,5,,,93
+Fremantle,2019,83,Essendon,9,L,37,9,4,7,16,,,33,,,4,3,6,3,3,,10,6,3,,2,,,91
+Fremantle,2019,84,Brisbane Lions,10,W,37,7,7,3,10,1,,27,3,2,,1,2,1,,,6,5,4,1,13,,,94
+Fremantle,2019,85,Collingwood,11,W,37,7,3,12,19,1,1,14,3,2,2,6,3,3,1,,15,5,1,,5,,,97
+Fremantle,2019,86,West Coast,16,L,37,7,1,2,9,,,13,2,,3,2,5,2,2,,7,2,1,,7,,,88
+Fremantle,2019,87,Hawthorn,17,L,37,9,4,4,13,1,2,24,2,,3,4,1,2,,,9,5,1,3,3,,1,98
+Fremantle,2019,88,Sydney,18,W,37,9,5,5,14,3,,10,,3,4,2,3,1,1,,9,5,1,1,5,,,97
+Fremantle,2019,89,Western Bulldogs,19,L,37,6,8,5,11,1,2,2,,,2,,1,1,1,,6,5,4,2,1,,1,100
+Fremantle,2020,90,Essendon,1,L,37,13,7,2,15,2,,9,2,1,3,1,2,,,1,7,9,4,,3,,1,95
+Fremantle,2020,91,Brisbane Lions,2,L,37,9,2,2,11,,,7,1,,3,,3,1,,,5,6,2,,1,,1,95
+Fremantle,2020,92,Port Adelaide,3,L,37,5,2,2,7,,,17,3,1,3,2,5,1,1,,5,2,2,,4,,,94
+Fremantle,2020,93,Gold Coast,4,L,37,6,4,7,13,,,14,1,,3,1,4,,2,,5,7,2,1,2,,,89
+Fremantle,2020,94,Adelaide,5,W,37,7,4,2,9,2,,7,2,,3,,3,1,1,,5,4,2,2,3,,,96
+Fremantle,2020,95,St Kilda,6,W,37,7,6,7,14,1,,16,,1,4,3,2,1,,,9,6,1,2,1,,,100
+Fremantle,2020,96,West Coast,7,L,37,9,7,1,10,2,1,6,1,1,1,,3,,1,,8,4,4,3,1,,,97
+Fremantle,2020,97,Geelong,8,L,37,4,2,4,8,,1,7,3,,2,1,3,1,1,,6,2,1,,1,,,100
+Fremantle,2020,98,Collingwood,9,W,37,8,1,4,12,,,9,1,2,5,3,3,2,,,9,3,1,,1,,1,100
+Fremantle,2020,99,Hawthorn,11,W,37,8,3,5,13,,1,6,,,1,,1,2,,,8,7,2,2,2,,,100
+Fremantle,2020,100,Carlton,12,L,37,5,2,3,8,1,,11,,2,3,1,,2,,,7,2,2,,4,,,100
+Fremantle,2020,101,Sydney,13,W,37,5,5,2,7,1,1,6,,2,,,,,,2,7,1,5,3,3,,,93
+Fremantle,2020,102,Greater Western Sydney,14,L,37,4,2,3,7,,,10,2,,2,,,,,,2,5,1,,,,,100
+Fremantle,2020,103,Richmond,15,L,37,5,3,7,12,,,5,4,,1,3,,2,,,6,7,2,,3,,,100
+Fremantle,2020,104,Melbourne,16,W,37,5,2,3,8,,1,7,3,1,2,,1,,,,4,6,,1,3,,,96
+Fremantle,2020,105,North Melbourne,17,W,37,11,7,1,12,1,,4,,,3,,1,1,,,6,6,4,1,2,,1,98
+Fremantle,2020,106,Western Bulldogs,18,L,37,5,4,2,7,,1,15,1,1,1,,2,1,,,5,4,2,1,1,,1,100
+Fremantle,2021,107,Adelaide,5,W,37,8,3,3,11,,3,4,2,2,2,,5,2,1,,6,5,1,1,2,,1,81
+Fremantle,2021,108,North Melbourne,6,W,37,8,5,10,18,,1,3,,1,3,1,2,,,,9,8,2,2,1,,,85
+Fremantle,2021,109,West Coast,7,L,37,6,4,3,9,2,,8,2,1,1,1,1,,,,2,7,,1,2,,,100
+Fremantle,2021,110,Brisbane Lions,8,L,37,8,8,9,17,1,1,13,1,1,3,1,4,1,,,8,11,1,3,1,,1,97
+Fremantle,2021,111,Essendon,9,L,37,10,6,2,12,1,2,5,2,2,3,,3,1,1,,6,6,3,2,4,,,100
+Fremantle,2021,112,Sydney,10,W,37,12,9,6,18,4,,7,3,,5,4,5,2,,2,10,9,4,3,5,,,100
+Fremantle,2021,113,Port Adelaide,11,L,37,7,2,3,10,1,2,3,,,2,1,3,2,,,5,4,1,2,2,,2,100
+Fremantle,2021,114,Western Bulldogs,12,L,37,8,5,2,10,1,2,5,1,,1,2,6,,1,,5,7,1,2,4,,,100
+Fremantle,2021,115,Gold Coast,13,W,37,12,9,5,17,2,1,,1,,,,3,3,,,10,7,4,2,3,,1,100
+Fremantle,2021,116,Collingwood,15,W,37,11,8,6,17,3,2,1,,1,2,2,3,,1,3,6,9,4,3,2,,,100
+Fremantle,2021,117,Carlton,16,L,37,5,4,5,10,1,1,,1,,3,,2,,,,6,4,2,2,4,,1,100
+Fremantle,2021,118,Hawthorn,17,W,37,10,8,3,13,4,3,5,2,,1,2,1,2,1,2,8,6,3,5,2,,,93
+Fremantle,2021,119,Geelong,18,L,37,3,2,3,6,,1,,,,,,2,,,,,6,,,1,,,52
+Fremantle,2022,120,Adelaide,1,W,37,6,6,7,13,2,3,9,1,,,,,,,,7,6,1,6,4,,2,95
+Fremantle,2022,121,St Kilda,2,L,37,8,3,5,13,2,,1,1,1,,,2,3,,,11,2,2,1,2,,,100
+Fremantle,2022,122,West Coast,3,W,37,5,3,3,8,2,1,6,2,,1,1,2,1,1,,2,6,,2,5,,,100
+Fremantle,2022,123,Greater Western Sydney,4,W,37,7,5,4,11,1,,8,1,1,2,1,,1,,,3,6,2,1,5,,1,100
+Fremantle,2022,124,Essendon,5,W,37,5,2,7,12,,1,8,6,1,3,3,2,2,2,,9,5,1,1,5,,,100
+Fremantle,2022,125,Carlton,6,W,37,7,5,7,14,3,1,26,,,1,,3,1,1,2,8,7,3,4,6,,2,96
+Fremantle,2022,126,Geelong,7,W,37,5,3,10,15,2,1,8,1,,,1,,2,,,10,6,1,2,5,,,100
+Fremantle,2022,127,Gold Coast,9,L,37,4,2,1,5,1,,7,1,,2,,3,1,2,,2,3,,,4,,1,89
+Fremantle,2022,128,Collingwood,10,L,37,5,2,5,10,1,1,15,1,,,,4,2,1,,5,5,1,,3,,,95
+Fremantle,2022,129,Melbourne,11,W,37,11,9,4,15,3,1,7,3,1,4,,3,,1,1,9,8,3,3,4,,1,97
+Fremantle,2022,130,Brisbane Lions,12,W,37,8,6,1,9,3,1,,2,2,,1,5,,2,,5,3,3,5,1,,1,100
+Fremantle,2022,131,Hawthorn,13,W,37,9,5,6,15,1,1,10,2,,3,3,3,,1,,6,10,1,2,3,,,96
+Fremantle,2022,132,Carlton,15,L,37,5,4,6,11,1,1,10,3,,2,,1,,,,4,7,1,2,3,,1,100
+Fremantle,2022,133,Port Adelaide,16,W,37,8,6,3,11,5,1,13,2,,,1,,2,,2,5,7,,4,1,,,96
+Fremantle,2022,134,St Kilda,17,W,37,8,4,6,14,2,2,4,,1,,,2,2,,,13,2,3,2,1,,1,100
+Fremantle,2022,135,Sydney,18,L,37,9,5,4,13,1,4,7,1,,3,,1,,,,4,8,1,3,3,,1,100
+Fremantle,2022,136,Melbourne,20,L,37,5,5,3,8,,,1,1,1,,,4,,1,,2,6,1,,4,,,92
+Fremantle,2022,137,Western Bulldogs,21,W,37,7,7,,7,4,2,,2,,1,,1,,1,2,2,5,2,6,7,,,100
+Fremantle,2022,138,West Coast,22,W,37,4,2,3,7,,1,,,,1,,2,1,1,,5,4,1,1,7,,,93
+Fremantle,2022,139,Western Bulldogs,EF,W,37,5,4,6,11,2,,14,5,1,2,,1,1,,,5,6,2,3,5,,1,100
+Fremantle,2022,140,Collingwood,SF,L,37,10,4,2,12,,2,2,,,2,,3,1,2,,8,5,3,1,4,,,100
+Western Bulldogs,2023,141,Melbourne,1,L,7,2,2,4,6,,,3,,1,,,2,,,,5,1,2,,2,,,95
+Western Bulldogs,2023,142,Brisbane Lions,3,W,7,3,1,1,4,2,,3,,,,,2,,2,,4,,1,1,2,,,72
+Western Bulldogs,2023,143,Richmond,4,W,7,10,5,4,14,1,1,6,1,,3,1,2,1,,,4,10,,1,7,,,94
+Western Bulldogs,2023,144,Port Adelaide,5,L,7,5,2,3,8,,2,15,1,,2,1,3,2,2,,5,4,1,1,,,1,90
+Western Bulldogs,2023,145,Fremantle,6,W,7,11,6,1,12,1,3,5,2,,,,3,3,,,4,8,1,2,1,,1,88
+Western Bulldogs,2023,146,Hawthorn,7,W,7,4,2,5,9,2,,6,,1,2,,2,,,,4,5,1,2,,,1,88
+Western Bulldogs,2023,147,Greater Western Sydney,8,W,7,5,1,2,7,2,,12,2,1,1,1,2,2,1,,3,4,,1,,,,81
+Western Bulldogs,2023,148,Carlton,9,W,7,5,4,3,8,2,,7,1,1,,1,1,1,1,,2,6,1,2,1,,,89
+Western Bulldogs,2023,149,Adelaide,10,W,7,2,,5,7,1,,3,6,,,1,1,1,,,5,3,,,3,,,87
+Western Bulldogs,2023,150,Gold Coast,11,L,7,5,3,9,14,,1,10,2,,2,1,1,1,,,7,7,1,3,6,,1,84
+Western Bulldogs,2023,151,Geelong,12,L,7,3,2,3,6,1,1,6,2,,,,,1,,,2,4,,1,3,,,87
+Western Bulldogs,2023,152,Port Adelaide,13,L,7,6,3,8,14,,1,7,1,,2,2,2,2,,,5,10,,1,3,,2,76
+Western Bulldogs,2023,153,North Melbourne,14,W,7,4,4,6,10,1,,8,2,,2,,2,1,,,3,7,,2,1,,1,87
+Western Bulldogs,2023,154,Fremantle,16,W,7,5,3,5,10,1,1,13,2,2,2,,1,1,1,,5,5,1,,4,,,76
+Western Bulldogs,2023,155,Collingwood,17,L,7,4,1,5,9,,,9,1,1,,,,,,,2,7,1,,3,,,76
+Western Bulldogs,2023,156,Greater Western Sydney,20,L,7,4,3,7,11,,2,12,3,,1,,2,,,,6,5,1,1,5,,,84
+Western Bulldogs,2023,157,Richmond,21,W,7,5,5,8,13,2,2,5,3,,1,1,2,,1,,10,6,2,4,5,,1,87
+Western Bulldogs,2023,158,Hawthorn,22,L,7,9,5,5,14,2,2,6,2,1,3,2,2,2,1,,9,6,3,3,5,,,85
+Western Bulldogs,2023,159,West Coast,23,L,7,9,6,5,14,3,2,5,2,,2,1,2,,,,6,8,1,3,1,,,87
+Western Bulldogs,2023,160,Geelong,24,W,7,11,7,5,16,3,,15,2,,4,6,1,1,,1,12,5,3,2,4,,1,91
+Western Bulldogs,2024,161,Melbourne,2,L,7,3,2,4,7,1,,6,,,2,,4,,2,,3,4,1,1,2,,,80

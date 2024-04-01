@@ -1,0 +1,7 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Fitzroy,1980,1,Essendon,17,L,53,9,4,2,11,,,,,,,,,2,3,,,,,,,,,
+Fitzroy,1980,2,St Kilda,18,W,53,12,1,6,18,,,,,,,,,2,3,,,,,,,,,
+Fitzroy,1980,3,Collingwood,19,L,53,12,1,9,21,,,,,,,,,2,1,,,,,,,,,
+Fitzroy,1980,4,South Melbourne,20,L,53,11,,3,14,,,,,,,,,1,3,,,,,,,,,
+Fitzroy,1980,5,Geelong,21,L,53,8,5,4,12,,,,,,,,,3,1,,,,,,,,,
+Fitzroy,1980,6,Carlton,22,L,53,5,2,5,10,,,,,,,,,,,,,,,,,,,

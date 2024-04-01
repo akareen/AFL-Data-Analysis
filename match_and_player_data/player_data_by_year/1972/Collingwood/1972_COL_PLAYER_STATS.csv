@@ -2,12 +2,12 @@ first_name,last_name,born_date,debut_date,height,weight,stats_file_name,personal
 Henry,Coles,11-03-1951,29-03-1971,171,73,match_and_player_data/player_all_time_data/COLES_HENRY_11-03-1951_STATS.csv,match_and_player_data/player_all_time_data/COLES_HENRY_11-03-1951_PERSONAL.csv
 Denis,OCallaghan,07-02-1949,23-04-1968,178,80,match_and_player_data/player_all_time_data/OCALLAGHAN_DENIS_07-02-1949_STATS.csv,match_and_player_data/player_all_time_data/OCALLAGHAN_DENIS_07-02-1949_PERSONAL.csv
 Bob,Heard,09-02-1949,30-03-1970,202,97,match_and_player_data/player_all_time_data/HEARD_BOB_09-02-1949_STATS.csv,match_and_player_data/player_all_time_data/HEARD_BOB_09-02-1949_PERSONAL.csv
+Peter,Eakins,16-02-1947,24-05-1970,189,86,match_and_player_data/player_all_time_data/EAKINS_PETER_16-02-1947_STATS.csv,match_and_player_data/player_all_time_data/EAKINS_PETER_16-02-1947_PERSONAL.csv
 Graeme,Jenkin,05-09-1945,26-05-1964,193,104,match_and_player_data/player_all_time_data/JENKIN_GRAEME_05-09-1945_STATS.csv,match_and_player_data/player_all_time_data/JENKIN_GRAEME_05-09-1945_PERSONAL.csv
 Jeff,Clifton,21-02-1949,19-05-1969,193,84,match_and_player_data/player_all_time_data/CLIFTON_JEFF_21-02-1949_STATS.csv,match_and_player_data/player_all_time_data/CLIFTON_JEFF_21-02-1949_PERSONAL.csv
 Mike,Delahunty,13-09-1952,30-03-1971,185,84,match_and_player_data/player_all_time_data/DELAHUNTY_MIKE_13-09-1952_STATS.csv,match_and_player_data/player_all_time_data/DELAHUNTY_MIKE_13-09-1952_PERSONAL.csv
 Len,Thompson,27-08-1947,13-09-1965,200,96,match_and_player_data/player_all_time_data/THOMPSON_LEN_27-08-1947_STATS.csv,match_and_player_data/player_all_time_data/THOMPSON_LEN_27-08-1947_PERSONAL.csv
 Rod,Oborne,06-09-1953,30-03-1972,183,76,match_and_player_data/player_all_time_data/OBORNE_ROD_06-09-1953_STATS.csv,match_and_player_data/player_all_time_data/OBORNE_ROD_06-09-1953_PERSONAL.csv
-Peter,Eakins,12-02-1947,24-05-1970,189,86,match_and_player_data/player_all_time_data/EAKINS_PETER_12-02-1947_STATS.csv,match_and_player_data/player_all_time_data/EAKINS_PETER_12-02-1947_PERSONAL.csv
 Ronnie,Wearmouth,17-07-1950,07-07-1969,175,71,match_and_player_data/player_all_time_data/WEARMOUTH_RONNIE_17-07-1950_STATS.csv,match_and_player_data/player_all_time_data/WEARMOUTH_RONNIE_17-07-1950_PERSONAL.csv
 Graeme,Dunstan,29-12-1952,12-09-1972,189,80,match_and_player_data/player_all_time_data/DUNSTAN_GRAEME_29-12-1952_STATS.csv,match_and_player_data/player_all_time_data/DUNSTAN_GRAEME_29-12-1952_PERSONAL.csv
 Ross,Dunne,25-02-1948,21-08-1967,193,82,match_and_player_data/player_all_time_data/DUNNE_ROSS_25-02-1948_STATS.csv,match_and_player_data/player_all_time_data/DUNNE_ROSS_25-02-1948_PERSONAL.csv
@@ -18,8 +18,8 @@ John,Vickery,06-07-1951,24-05-1971,184,78,match_and_player_data/player_all_time_
 Paul,Stevens,23-07-1953,13-07-1971,185,74,match_and_player_data/player_all_time_data/STEVENS_PAUL_23-07-1953_STATS.csv,match_and_player_data/player_all_time_data/STEVENS_PAUL_23-07-1953_PERSONAL.csv
 John,Walker,13-07-1951,29-03-1972,185,87,match_and_player_data/player_all_time_data/WALKER_JOHN_13-07-1951_STATS.csv,match_and_player_data/player_all_time_data/WALKER_JOHN_13-07-1951_PERSONAL.csv
 Barry,Price,08-03-1949,26-04-1966,175,73,match_and_player_data/player_all_time_data/PRICE_BARRY_08-03-1949_STATS.csv,match_and_player_data/player_all_time_data/PRICE_BARRY_08-03-1949_PERSONAL.csv
-John,Greening,20-12-1950,07-05-1968,185,83,match_and_player_data/player_all_time_data/GREENING_JOHN_20-12-1950_STATS.csv,match_and_player_data/player_all_time_data/GREENING_JOHN_20-12-1950_PERSONAL.csv
 Ian,Cooper,12-06-1954,21-08-1972,183,81,match_and_player_data/player_all_time_data/COOPER_IAN_12-06-1954_STATS.csv,match_and_player_data/player_all_time_data/COOPER_IAN_12-06-1954_PERSONAL.csv
+John,Greening,25-12-1950,07-05-1968,185,83,match_and_player_data/player_all_time_data/GREENING_JOHN_25-12-1950_STATS.csv,match_and_player_data/player_all_time_data/GREENING_JOHN_25-12-1950_PERSONAL.csv
 Laurie,Kaine,24-02-1952,28-06-1971,177,76,match_and_player_data/player_all_time_data/KAINE_LAURIE_24-02-1952_STATS.csv,match_and_player_data/player_all_time_data/KAINE_LAURIE_24-02-1952_PERSONAL.csv
 Ian,McOrist,06-11-1949,01-05-1972,175,70,match_and_player_data/player_all_time_data/MCORIST_IAN_06-11-1949_STATS.csv,match_and_player_data/player_all_time_data/MCORIST_IAN_06-11-1949_PERSONAL.csv
 Wes,McGaw,06-06-1950,16-07-1972,185,75,match_and_player_data/player_all_time_data/MCGAW_WES_06-06-1950_STATS.csv,match_and_player_data/player_all_time_data/MCGAW_WES_06-06-1950_PERSONAL.csv

@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Collingwood,1980,1,Hawthorn,3,L,49,3,3,1,4,,1,3,,,,,,1,,,,,,,,,,
+Collingwood,1980,2,Richmond,4,L,49,2,1,2,4,1,,5,,,,,,1,,,,,,,,,,
+Collingwood,1980,3,Essendon,5,W,49,5,3,3,8,1,3,7,,,,,,2,2,,,,,,,,,
+Collingwood,1980,4,St Kilda,6,W,49,,,,,,,2,,,,,,,3,,,,,,,,,
+Collingwood,1980,5,St Kilda,17,W,49,7,3,6,13,,,25,,,,,,3,2,,,,,,,,,
+Collingwood,1980,6,South Melbourne,18,W,49,2,3,6,8,,,13,,,,,,,1,,,,,,,,,
+Collingwood,1980,7,Fitzroy,19,W,49,5,4,4,9,,,7,,,,,,,,,,,,,,,,
+Collingwood,1980,8,Geelong,20,L,49,2,1,3,5,,,2,,,,,,1,2,,,,,,,,,

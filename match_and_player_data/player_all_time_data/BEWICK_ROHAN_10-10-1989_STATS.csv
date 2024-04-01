@@ -1,0 +1,104 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Brisbane Lions,2011,1,Fremantle,1,L,43,12,4,3,15,1,,,2,2,5,,2,,,,5,10,,,1,,1,87
+Brisbane Lions,2011,2,Western Bulldogs,2,L,43,15,5,8,23,,,,,,4,1,4,,1,,5,17,,,,1,,78
+Brisbane Lions,2011,3,Melbourne,3,L,43,7,5,6,13,,1,,,,,2,4,,,,8,5,,1,,,,27
+Brisbane Lions,2011,4,St Kilda,5,L,43,3,,2,5,,,,2,,3,1,1,,,,3,2,,,,,1,24
+Brisbane Lions,2011,5,Essendon,8,L,43,5,5,6,11,1,,,,,,,3,,,,3,8,1,2,,,1,84
+Brisbane Lions,2011,6,North Melbourne,9,W,43,8,2,1,9,,,,1,,2,1,,,,,1,6,,,,,,39
+Brisbane Lions,2011,7,Adelaide,10,W,43,6,1,4,10,,,,5,1,1,1,3,,,,3,7,,,,,,66
+Brisbane Lions,2011,8,Sydney,11,L,43,1,,2,3,,,,2,,1,1,,1,,,3,,,,,,,48
+Brisbane Lions,2011,9,Richmond,13,L,43,10,6,7,17,1,,,1,,4,1,3,1,,,8,9,3,,,,,81
+Brisbane Lions,2011,10,Fremantle,14,L,43,10,7,2,12,1,2,,2,,2,,3,2,1,,3,9,,2,,,,87
+Brisbane Lions,2011,11,Port Adelaide,15,W,43,7,3,2,9,1,,,,1,3,2,2,,,,2,7,,,,2,,29
+Brisbane Lions,2011,12,Hawthorn,16,L,43,4,3,3,7,,1,,,,,,1,,1,,2,5,,1,1,,,38
+Brisbane Lions,2012,13,Melbourne,1,W,43,5,5,6,11,,,,2,1,3,1,2,,1,,4,7,1,,1,1,1,58
+Brisbane Lions,2012,14,Carlton,2,L,43,7,4,5,12,,,,2,,4,,,,,,2,10,,,,,,82
+Brisbane Lions,2012,15,Greater Western Sydney,8,W,43,13,6,11,24,,2,,3,1,4,1,1,4,,,10,13,,1,2,,,81
+Brisbane Lions,2012,16,North Melbourne,9,L,43,8,3,5,13,1,,,3,,2,1,1,1,1,,4,9,1,1,,,1,79
+Brisbane Lions,2012,17,West Coast,10,W,43,5,2,4,9,1,1,,,,2,1,3,,1,,4,4,,1,1,,2,77
+Brisbane Lions,2012,18,Hawthorn,12,L,43,5,1,,5,1,,,1,,1,1,,,,,3,2,,1,1,,,27
+Brisbane Lions,2012,19,Western Bulldogs,13,W,43,14,8,5,19,2,1,1,1,3,3,3,1,,,,6,12,1,3,1,,,87
+Brisbane Lions,2012,20,Melbourne,14,W,43,5,1,3,8,1,,,1,1,1,,2,3,1,,3,4,,,1,,,88
+Brisbane Lions,2012,21,Sydney,15,L,43,8,5,6,14,1,1,,1,2,2,2,2,1,,,4,10,,1,,,,69
+Brisbane Lions,2012,22,St Kilda,16,L,43,13,2,7,20,2,,,,1,3,3,3,1,,,12,9,,,,2,,74
+Brisbane Lions,2012,23,Gold Coast,17,W,43,2,,1,3,1,,,1,1,,1,2,,1,,2,1,,,,,,25
+Brisbane Lions,2012,24,West Coast,18,L,43,6,3,7,13,,1,,3,,2,3,,,,,4,9,,,,3,,81
+Brisbane Lions,2012,25,Carlton,20,L,43,12,7,5,17,2,3,,3,,3,,3,3,1,,7,10,,4,2,,,86
+Brisbane Lions,2012,26,Adelaide,21,W,43,8,4,2,10,3,1,,1,,1,,2,,,,5,5,2,2,,,,83
+Brisbane Lions,2012,27,Port Adelaide,22,W,43,4,2,4,8,1,,,3,,3,,3,,3,,1,6,1,,1,,,88
+Brisbane Lions,2012,28,Western Bulldogs,23,W,43,9,5,4,13,2,2,,2,1,1,1,2,,,,4,7,,2,,,,89
+Brisbane Lions,2013,29,Western Bulldogs,1,L,8,10,,2,12,,1,2,3,,5,3,2,1,2,,9,3,,,1,,1,80
+Brisbane Lions,2013,30,Adelaide,2,L,8,7,4,2,9,1,2,,4,,3,,1,1,,,3,6,,1,,,,79
+Brisbane Lions,2013,31,Gold Coast,3,W,8,10,3,8,18,1,1,,4,1,1,1,3,1,,,10,10,,1,2,,1,83
+Brisbane Lions,2013,32,North Melbourne,4,L,8,8,6,7,15,2,1,,1,1,3,,1,3,,,6,9,1,1,1,1,1,83
+Brisbane Lions,2013,33,Melbourne,5,W,8,11,7,10,21,1,3,,2,,2,,3,1,,,10,12,1,3,3,,3,88
+Brisbane Lions,2013,34,Sydney,6,L,8,5,2,7,12,,,1,2,,1,,2,1,1,,6,6,,,1,,1,79
+Brisbane Lions,2013,35,West Coast,7,L,8,6,4,5,11,2,1,,2,,,,2,1,,,5,5,,,,,,90
+Brisbane Lions,2013,36,Essendon,8,W,8,12,9,3,15,,1,,4,2,,1,,,,,3,12,,,1,,,87
+Brisbane Lions,2013,37,Carlton,9,L,8,8,4,6,14,3,1,,3,,5,1,1,2,,,4,10,,1,2,1,2,91
+Brisbane Lions,2013,38,Collingwood,10,L,8,6,4,1,7,1,,,,,2,,2,1,,,1,5,,1,1,,,89
+Brisbane Lions,2013,39,Fremantle,12,L,8,10,4,5,15,,2,,2,,5,1,2,1,,,9,6,1,1,,,,82
+Brisbane Lions,2013,40,Gold Coast,15,W,8,6,5,3,9,1,1,,5,,2,1,2,,2,,4,5,,2,,,,84
+Brisbane Lions,2013,41,North Melbourne,16,W,8,7,5,11,18,,,,4,1,5,2,3,,,,8,10,,,,,1,84
+Brisbane Lions,2013,42,Melbourne,17,W,8,4,3,10,14,,1,,2,1,2,2,3,1,1,,8,6,,,1,1,,80
+Brisbane Lions,2013,43,Port Adelaide,18,L,8,12,5,8,20,1,2,,3,1,2,1,5,1,1,,6,15,,1,,2,,82
+Brisbane Lions,2013,44,St Kilda,19,W,8,11,6,4,15,,2,,2,1,1,2,,1,,,7,7,1,,1,,,76
+Brisbane Lions,2013,45,Greater Western Sydney,21,W,8,6,1,3,9,,,,2,1,1,,5,,1,,1,6,,,4,,1,83
+Brisbane Lions,2013,46,Western Bulldogs,22,W,8,5,5,3,8,1,2,,1,,,,2,2,2,,3,5,1,3,,,,94
+Brisbane Lions,2013,47,Geelong,23,L,8,1,,6,7,1,,,,,,,1,1,1,,4,3,,,,,,67
+Brisbane Lions,2014,48,Geelong,2,L,8,4,1,,4,1,,,1,,1,,,1,,,1,3,,,,1,1,33
+Brisbane Lions,2014,49,Port Adelaide,4,L,8,4,2,1,5,2,1,,2,1,,,,,,,1,4,,1,1,,,81
+Brisbane Lions,2014,50,Richmond,5,L,8,6,2,5,11,1,1,,1,,1,,2,3,,,5,6,1,1,,,,80
+Brisbane Lions,2014,51,Sydney,7,L,8,1,,3,4,,,,2,,,,1,,,,1,3,,,,,,56
+Brisbane Lions,2014,52,Western Bulldogs,12,W,8,16,3,14,30,1,,,1,3,5,5,4,1,1,,10,21,,,2,1,2,78
+Brisbane Lions,2014,53,Greater Western Sydney,13,L,8,8,3,6,14,,,,1,2,2,3,2,,,,3,9,,,3,1,,85
+Brisbane Lions,2014,54,Fremantle,14,L,8,8,6,4,12,1,,1,1,,,,1,2,,,3,9,,2,,,,92
+Brisbane Lions,2014,55,North Melbourne,15,W,8,13,7,11,24,,,,1,2,1,2,1,2,1,,7,16,1,,,,,93
+Brisbane Lions,2014,56,Richmond,16,L,8,8,4,9,17,1,,,1,,3,1,,,,,3,14,,,1,2,,88
+Brisbane Lions,2014,57,West Coast,17,L,8,9,5,6,15,,,,3,2,3,2,1,1,,,5,10,,1,1,,,91
+Brisbane Lions,2014,58,Gold Coast,18,W,8,13,2,2,15,,,,1,3,2,2,2,1,1,,5,10,,,1,,,90
+Brisbane Lions,2014,59,Melbourne,19,W,8,17,7,10,27,,1,,1,,8,2,3,1,2,1,7,22,,,2,3,1,88
+Brisbane Lions,2014,60,Adelaide,20,L,8,11,8,11,22,,1,,1,3,3,2,3,,,,5,17,1,1,1,1,,80
+Brisbane Lions,2014,61,Collingwood,21,W,8,9,5,10,19,1,,,3,2,4,1,1,,,,5,14,,,,,,85
+Brisbane Lions,2014,62,Fremantle,22,L,8,15,8,18,33,,1,,3,2,5,2,3,,,,9,25,,,1,1,1,92
+Brisbane Lions,2014,63,Geelong,23,L,8,3,2,9,12,1,,,1,1,,1,,,,,5,6,1,1,,,,81
+Brisbane Lions,2015,64,Collingwood,1,L,8,9,3,4,13,,,,2,1,,,4,,1,,2,11,1,,,1,,86
+Brisbane Lions,2015,65,North Melbourne,2,L,8,2,1,9,11,,,,5,,2,,1,,1,,3,8,,,2,,1,85
+Brisbane Lions,2015,66,Richmond,3,L,8,12,5,9,21,,,,5,6,1,2,4,,,,9,11,,,1,,,82
+Brisbane Lions,2015,67,West Coast,4,L,8,5,6,12,17,,1,,4,3,,1,1,,1,,3,14,,1,1,,1,81
+Brisbane Lions,2015,68,Gold Coast,5,L,8,8,3,8,16,,,,3,1,,2,,1,,,7,9,,,,,,86
+Brisbane Lions,2015,69,St Kilda,9,L,8,10,7,6,16,1,,,,4,3,,2,,2,,3,17,,1,2,,1,83
+Brisbane Lions,2015,70,Greater Western Sydney,10,L,8,5,4,4,9,3,,,2,,,,1,1,1,,5,4,,1,,,,83
+Brisbane Lions,2015,71,Western Bulldogs,12,L,8,8,6,1,9,2,1,,2,,1,,,1,,,2,7,,2,,,,86
+Brisbane Lions,2015,72,Adelaide,13,L,8,3,1,5,8,,,,3,,1,1,1,1,1,,7,2,1,,,,,91
+Brisbane Lions,2015,73,Fremantle,14,L,8,9,3,3,12,1,1,,8,,3,3,1,,,,7,5,,1,,,,87
+Brisbane Lions,2015,74,Sydney,15,L,8,5,3,3,8,,1,,3,,2,,,,,,3,5,2,1,,1,,68
+Brisbane Lions,2015,75,North Melbourne,17,L,8,8,6,4,12,2,1,,1,1,,1,1,1,1,,4,8,,1,3,,,92
+Brisbane Lions,2015,76,Geelong,18,L,8,8,5,5,13,1,1,,1,2,1,1,3,,,,4,9,1,1,,,,88
+Brisbane Lions,2015,77,Gold Coast,19,L,8,6,4,7,13,,1,,3,,1,,2,1,,,2,11,,2,1,,,88
+Brisbane Lions,2015,78,Western Bulldogs,23,W,8,16,8,9,25,,,,3,1,4,5,4,,1,,7,18,1,,,2,,83
+Brisbane Lions,2016,79,West Coast,1,L,8,4,2,5,9,,1,1,4,2,,1,1,,,,4,5,,,,,1,75
+Brisbane Lions,2016,80,North Melbourne,2,L,8,11,5,8,19,,,1,3,5,3,4,1,2,1,,8,12,,,2,,,79
+Brisbane Lions,2016,81,Geelong,3,L,8,8,2,3,11,,1,,2,5,1,4,3,1,1,,7,5,,1,2,1,,77
+Brisbane Lions,2016,82,Gold Coast,4,W,8,12,7,6,18,1,,,4,3,3,,1,,1,,2,16,,1,,,,84
+Brisbane Lions,2016,83,Western Bulldogs,5,L,8,9,5,5,14,1,,,2,1,2,,4,,1,,4,10,,1,,,,86
+Brisbane Lions,2016,84,Sydney,6,L,8,13,3,,13,,,,9,3,3,1,3,1,1,,5,7,1,,2,,1,81
+Brisbane Lions,2016,85,Port Adelaide,7,L,8,12,2,2,14,,2,,5,1,2,1,1,1,,,7,6,,,1,,,85
+Brisbane Lions,2016,86,Collingwood,8,L,8,6,1,10,16,1,,,3,2,3,1,4,,4,,6,10,,,1,,,81
+Brisbane Lions,2016,87,Fremantle,12,L,8,15,9,6,21,1,1,,5,6,4,2,2,,,,5,16,,,,,,71
+Brisbane Lions,2016,88,West Coast,13,L,8,12,5,10,22,,,,2,5,2,,1,1,,,5,18,,,2,,,78
+Brisbane Lions,2016,89,Richmond,14,L,8,14,6,3,17,,2,,3,3,2,,3,,,,4,12,2,1,2,,1,82
+Brisbane Lions,2016,90,Gold Coast,16,L,8,12,3,3,15,1,,,4,1,1,3,4,,,,5,9,,1,,,,79
+Brisbane Lions,2016,91,Greater Western Sydney,17,L,8,4,2,3,7,1,,,,,2,,1,1,,,4,3,,,1,,1,84
+Brisbane Lions,2016,92,Essendon,18,W,8,9,3,4,13,1,,,,2,2,1,1,,,,6,7,,,2,,1,75
+Brisbane Lions,2017,93,Gold Coast,1,W,8,9,4,11,20,1,1,,2,2,,2,4,1,1,,10,11,,1,,1,,81
+Brisbane Lions,2017,94,Essendon,2,L,8,5,3,10,15,,,,,1,,,1,,1,,4,12,,,1,,,85
+Brisbane Lions,2017,95,St Kilda,3,L,8,9,5,5,14,1,,,5,1,1,,2,1,,,5,10,1,,2,,1,81
+Brisbane Lions,2017,96,Richmond,4,L,8,11,7,7,18,,,,4,6,,,5,1,3,,4,14,,,2,,1,87
+Brisbane Lions,2017,97,Hawthorn,8,L,8,8,4,5,13,1,,,3,1,,,2,,,,3,10,,1,,,,76
+Brisbane Lions,2017,98,Greater Western Sydney,14,L,8,8,3,5,13,,1,,1,3,,,2,,1,,2,10,,1,2,,1,84
+Brisbane Lions,2017,99,Essendon,15,W,8,11,6,4,15,3,1,,1,,2,1,2,1,,,3,12,1,2,,,,77
+Brisbane Lions,2017,100,Geelong,16,L,8,3,3,6,9,,2,,2,,,1,3,1,1,,5,4,,1,,,,88
+Brisbane Lions,2018,101,Melbourne,2,L,8,13,5,7,20,1,1,,2,,6,2,,,,,6,14,,1,1,1,1,75
+Brisbane Lions,2018,102,Port Adelaide,3,L,8,12,2,3,15,,2,,2,4,3,1,2,1,1,,7,8,,,2,,1,65
+Brisbane Lions,2018,103,Richmond,4,L,8,12,7,8,20,,,,2,,2,2,4,1,1,,7,13,,,2,,,77

@@ -1,0 +1,6 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+St Kilda,1985,1,North Melbourne,15,L,59,4,2,,4,,1,,,,,,,1,2,,,,,,,,,
+St Kilda,1985,2,Fitzroy,16,W,59,4,2,,4,1,,,,,,,,2,1,,,,,,,,,
+St Kilda,1985,3,Essendon,21,L,59,8,6,2,10,1,1,,,,,,,,4,,,,,,,,,
+St Kilda,1985,4,Footscray,22,W,59,2,,,2,,,,,,,,,1,,,,,,,,,,
+St Kilda,1986,5,Melbourne,2,L,36,4,3,1,5,,,,,,,,,,,,,,,,,,,

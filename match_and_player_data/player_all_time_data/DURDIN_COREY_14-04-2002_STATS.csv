@@ -1,0 +1,36 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters%,bounces,goal_assist,%percentage_of_game_played
+Carlton,2021,1,Port Adelaide,22,L,29,1,1,4,5,,,,3,,,,1,,,,4,1,,,1,,1,75
+Carlton,2021,2,Greater Western Sydney,23,L,29,3,1,,3,1,,,1,,1,,,1,,,1,3,,,,,1,80
+Carlton,2022,3,Richmond,1,W,19,7,3,7,14,2,1,,1,,2,,2,1,1,,7,7,,1,,,1,75
+Carlton,2022,4,Western Bulldogs,2,W,19,3,1,3,6,,,,1,,2,,,,,,2,5,,,1,,1,87
+Carlton,2022,5,Hawthorn,3,W,19,9,5,2,11,1,2,,3,1,4,1,2,1,,,7,6,1,,,,1,81
+Carlton,2022,6,Port Adelaide,5,W,19,5,2,3,8,1,,,3,,,,1,1,,,4,4,,,,,,82
+Carlton,2022,7,Fremantle,6,L,19,4,3,1,5,,,,2,,1,,1,,1,,,5,,,,,,74
+Carlton,2022,8,North Melbourne,7,W,19,8,1,3,11,,,,4,,1,1,2,1,,,4,5,,,3,,1,72
+Carlton,2022,9,Adelaide,8,W,19,4,2,5,9,,,,4,1,3,1,,,,,4,5,,,3,,1,69
+Carlton,2022,10,Greater Western Sydney,9,W,19,11,3,8,19,2,1,,2,,1,2,2,,,,8,11,1,1,,,,85
+Carlton,2022,11,Sydney,10,W,19,8,2,4,12,2,1,,3,,,,2,2,,,6,6,,,1,,2,80
+Carlton,2022,12,Collingwood,11,L,19,4,1,3,7,1,,,2,,2,,2,,2,,3,6,,,,,1,77
+Carlton,2022,13,Essendon,13,W,19,4,2,2,6,,2,,3,,,,2,,2,,2,4,,1,,,,80
+Carlton,2022,14,Richmond,14,L,19,6,2,1,7,1,,,1,,3,,3,,,,2,5,,,1,,1,80
+Carlton,2022,15,Fremantle,15,W,19,6,2,3,9,,,,1,,3,,4,,3,,3,7,,1,,,1,74
+Carlton,2022,16,St Kilda,16,L,19,6,2,4,10,,1,,4,,1,,,1,,,7,3,,,3,,1,64
+Carlton,2022,17,West Coast,17,W,19,6,1,4,10,2,1,,5,,4,,,,,,3,7,,1,2,1,1,81
+Carlton,2022,18,Geelong,18,L,19,5,4,4,9,,,,,2,2,,4,,,,3,6,,1,2,,,66
+Carlton,2022,19,Greater Western Sydney,19,W,19,5,3,1,6,1,,,3,,2,,1,,,,3,3,1,1,1,,,73
+Carlton,2022,20,Adelaide,20,L,19,3,,1,4,,,,2,1,,,4,,,,1,3,,,,,,29
+Carlton,2022,21,Brisbane Lions,21,L,19,2,,1,3,1,,,,,,1,,,,,2,1,,,,,,16
+Carlton,2022,22,Melbourne,22,L,19,8,,3,11,1,1,,1,,1,2,2,,,,6,6,,,2,,1,70
+Carlton,2022,23,Collingwood,23,L,19,4,1,2,6,,1,,3,,2,1,1,,,,5,2,,,1,1,,72
+Carlton,2023,24,Geelong,2,W,19,7,3,1,8,1,2,,5,,1,2,2,,1,,3,5,,2,,,,80
+Carlton,2023,25,Greater Western Sydney,3,W,19,6,2,2,8,1,1,,6,,2,,,1,,,3,5,,,,,,71
+Carlton,2023,26,North Melbourne,4,W,19,6,1,5,11,1,2,,6,,1,,1,1,1,,5,6,,,1,,1,76
+Carlton,2023,27,Adelaide,5,L,19,5,,3,8,2,,,2,,1,,3,,1,,4,4,,,,,1,72
+Carlton,2023,28,St Kilda,6,L,19,6,2,1,7,1,,,5,,1,,1,,,,3,4,,,,,,75
+Carlton,2023,29,West Coast,7,W,19,6,1,4,10,1,1,,2,,1,,,,,,4,6,,1,,,,83
+Carlton,2023,30,Brisbane Lions,8,L,19,5,2,3,8,2,,,3,1,2,,1,,1,,3,5,,1,,,,79
+Carlton,2023,31,Western Bulldogs,9,L,19,8,3,2,10,1,,,,1,2,,,1,,,4,6,,1,,,,64
+Carlton,2023,32,Collingwood,10,L,19,5,,4,9,,,,7,,2,1,1,1,,,3,5,,,1,,,66
+Carlton,2023,33,Sydney,11,L,19,7,2,2,9,,,,2,,1,1,2,1,1,,3,6,,,,,,74
+Carlton,2023,34,Greater Western Sydney,24,L,19,5,,4,9,1,1,,6,1,,2,3,,1,,6,4,,,2,,1,74
+Carlton,2024,35,Richmond,2,W,19,,,2,2,,,,,,,,,,,,2,,,,1,,,24
