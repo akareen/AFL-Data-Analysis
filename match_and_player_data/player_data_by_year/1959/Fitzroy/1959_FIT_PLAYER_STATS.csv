@@ -1,5 +1,0 @@
-first_name,last_name,born_date,debut_date,height,weight,stats_file_name,personal_file_name
-Brian,Pert,28-01-1936,12-04-1954,182,76,match_and_player_data/player_all_time_data/PERT_BRIAN_28-01-1936_STATS.csv,match_and_player_data/player_all_time_data/PERT_BRIAN_28-01-1936_PERSONAL.csv
-Allen,Lynch,30-07-1938,25-05-1959,191,86,match_and_player_data/player_all_time_data/LYNCH_ALLEN_30-07-1938_STATS.csv,match_and_player_data/player_all_time_data/LYNCH_ALLEN_30-07-1938_PERSONAL.csv
-Kevin,Murray,18-06-1938,03-05-1955,178,79,match_and_player_data/player_all_time_data/MURRAY_KEVIN_18-06-1938_STATS.csv,match_and_player_data/player_all_time_data/MURRAY_KEVIN_18-06-1938_PERSONAL.csv
-Ray,Slocum,16-08-1936,24-06-1957,170,67,match_and_player_data/player_all_time_data/SLOCUM_RAY_16-08-1936_STATS.csv,match_and_player_data/player_all_time_data/SLOCUM_RAY_16-08-1936_PERSONAL.csv

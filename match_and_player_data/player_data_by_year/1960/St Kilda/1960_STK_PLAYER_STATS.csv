@@ -1,7 +1,0 @@
-first_name,last_name,born_date,debut_date,height,weight,stats_file_name,personal_file_name
-Verdun,Howell,16-06-1937,14-07-1958,179,80,match_and_player_data/player_all_time_data/HOWELL_VERDUN_16-06-1937_STATS.csv,match_and_player_data/player_all_time_data/HOWELL_VERDUN_16-06-1937_PERSONAL.csv
-Rodger,Head,20-06-1939,10-08-1959,175,76,match_and_player_data/player_all_time_data/HEAD_RODGER_20-06-1939_STATS.csv,match_and_player_data/player_all_time_data/HEAD_RODGER_20-06-1939_PERSONAL.csv
-Ian,Rowland,04-03-1941,11-04-1960,173,75,match_and_player_data/player_all_time_data/ROWLAND_IAN_04-03-1941_STATS.csv,match_and_player_data/player_all_time_data/ROWLAND_IAN_04-03-1941_PERSONAL.csv
-Ray,McHugh,02-07-1938,16-05-1960,187,89,match_and_player_data/player_all_time_data/MCHUGH_RAY_02-07-1938_STATS.csv,match_and_player_data/player_all_time_data/MCHUGH_RAY_02-07-1938_PERSONAL.csv
-Alan,Morrow,29-11-1936,29-04-1957,183,89,match_and_player_data/player_all_time_data/MORROW_ALAN_29-11-1936_STATS.csv,match_and_player_data/player_all_time_data/MORROW_ALAN_29-11-1936_PERSONAL.csv
-Kevin,Roberts,11-04-1939,01-05-1960,179,76,match_and_player_data/player_all_time_data/ROBERTS_KEVIN_11-04-1939_STATS.csv,match_and_player_data/player_all_time_data/ROBERTS_KEVIN_11-04-1939_PERSONAL.csv
