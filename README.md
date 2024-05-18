@@ -25,16 +25,16 @@ An in-depth analysis of Australian Football League (AFL) data. This repository c
 
 The AFL Data Analysis project provides a comprehensive platform for examining and deriving insights from AFL match and player data. Whether you're a sports enthusiast, a tipper, a data scientist, or a student, this repository offers valuable resources for diving into the world of Australian Rules Football. 
 
-The repository currently stores match scores data from 1897 to 2023, in depth personal and game statistics for every player who have ever played in the VFL/AFL and historical odds data from 2009 to 2023. All the data is  conveniently stored in CSV format for seamless access and analysis.
+The repository currently stores match scores data from 1897 to 2024, in depth personal and game statistics for every player who have ever played in the VFL/AFL and historical odds data from 2009 to 2024. All the data is  conveniently stored in CSV format for seamless access and analysis.
 
-Download the repository and explore the **/match_and_player_data/** directory for the complete dataset. 
+Download the repository and explore the **/data/** directory for the complete dataset. 
 
 Contributions are encouraged; don't hesitate to submit a pull request or contact me with the details on my GitHub profile.
 
 ## Features
 
 **Current Offerings:**
-- Profiles for 5,700+ players
+- Profiles for 5,700+ players, 682,000 rows of player performance data with 19 million data points
 - Statistics for 15,000+ matches, inclusive of individual player performance
 - Historical odds data for strategic tipping and betting
 - Cleansed data, primed for analysis
@@ -67,7 +67,7 @@ Contributions are encouraged; don't hesitate to submit a pull request or contact
 
 ## Usage
 
-I regularly update the CSV data files in the **/match_and_player_data** directory with the latest AFL match and player data. But you can also do your own data scraping using the provided scripts in the "scripts" directory. Scripts, using the Beautiful Soup library, are available for web scraping.
+I regularly update the CSV data files in the **/data** directory with the latest AFL match and player data. But you can also do your own data scraping using the provided scripts in the "scripts" directory. Scripts, using the Beautiful Soup library, are available for web scraping.
 
 
 ## Data Guide
@@ -78,10 +78,10 @@ The repository contains the information for all matches from 1897-2023.
 
 ![Match Data Example](/assets/matchdata_example.png)
 
-The above includes part of the data the columns are too numerous to show completely. An example of a selection of the match data can be seen here: [2023_MATCH_RESULTS.csv](match_and_player_data/match_scores/2023_MATCH_RESULTS.csv)
+The above includes part of the data the columns are too numerous to show completely. An example of a selection of the match data can be seen here: [matches_2023.csv](data/matches/matches_2023.csv)
 
 **The columns for each match are as follows:**   
-Year, Round, Venue, Date, Attendance,  
+Year, Round, Venue, Date,  
 Home Team, Away Team,   
 Home Teams Goals by Quarter, Home Teams Behinds by Quarter,  
 Away Teams Goals by Quarter, Away Teams Behinds by Quarter,  
@@ -91,17 +91,6 @@ Winning Team, Margin
 
 All the columns are in **snake case** and there is a column for each quarter such as **home_q1_g** for Home Team Quarter 1 goals and **away_q1_b** for Away team Quarter 1 Behinds.
 
-The **match_and_player_data/match_scores** directory contains the match scores data in CSV format for each year. The file format is **{YEAR}_MATCH_RESULTS.csv**.  
-
-The **match_and_player_data/match_details** directory contains the match scores data as well as player statistics for each match in CSV format. The file format is **{YEAR}\_{HOME_TEAM}\_{AWAY_TEAM}\_GAMESTATS.csv** and **{YEAR}\_{HOME_TEAM}\_{AWAY_TEAM}\_TEAMSTATS\_{TEAM}.csv**.
-
-
-  
-  An example of the match details data (2023 Grand Final) can be seen here:  
- [2023_GF_COL_BRL_GAMESTATS.csv](match_and_player_data/match_details/2023/gamestats/2023_GF_COL_BRL_GAMESTATS.csv),   
- [2023_GF_COL_BRL_TEAMSTATS_BRL.csv](match_and_player_data/match_details/2023/teamstats/2023_GF_COL_BRL_TEAMSTATS_BRL.csv),   
- [2023_GF_COL_BRL_TEAMSTATS_COL.csv](match_and_player_data/match_details/2023/teamstats/2023_GF_COL_BRL_TEAMSTATS_COL.csv), 
-
 ----
 ### Player Data - Explanation
 
@@ -109,7 +98,7 @@ The **match_and_player_data/match_details** directory contains the match scores 
 
 ![Player Performance Data Example](/assets/playerstats_example.png)
 
-An example of the player performance data can be seen here: [BONTEMPELLI_MARCUS_24-11-1995_STATS.csv](match_and_player_data/player_all_time_data/BONTEMPELLI_MARCUS_24-11-1995_STATS.csv)
+An example of the player performance data can be seen here: [BONTEMPELLI_MARCUS_24-11-1995_STATS.csv](data/players/bontempelli_marcus_24111995_performance_details.csv)
 
 **The columns for each player are as follows:**  
 
@@ -119,7 +108,7 @@ Tackles, Rebound 50s, Inside 50s, Clearances, Clangers, Free Kicks For, Free Kic
 Brownlow Votes, Contested Possessions, Uncontested Possessions, Contested Marks, Marks Inside 50,   
 One Percenters %, Bounces, Goal Assist, % Percentage of Game Played
 
-Inside the data all the columns are in **snake case**. The file format is *{FIRST_NAME}\_{LAST_NAME}\_{BORN_DATE}\_PERFORMANCE.csv*.
+Inside the data all the columns are in **snake case**. The file format is *{last_name}_{first_name}_{born_date}_performance.csv*.
 
 
 #### Player Personal Data
@@ -127,18 +116,8 @@ Inside the data all the columns are in **snake case**. The file format is *{FIRS
 **The columns for each player are as follows:**
 First Name, Last Name, Born Date, Debut Date, Height, Weight
 
-Inside the data all the columns are in **snake case** and the players born date along with first and last name are used to create a unique identifier for each player. The file format is **{FIRST_NAME}\_{LAST_NAME}\_{BORN_DATE}\_PERSONAL.csv**.
+Inside the data all the columns are in **snake case** and the players born date along with first and last name are used to create a unique identifier for each player. The file format is The file format is *{last_name}_{first_name}_{born_date}_personal.csv*.
 
-----
-
-### Team Data Explanation
-
-![Team Data Example](/assets/teamdata_example.png)
-
-An example of the team data can be seen here: [2023_COL_PLAYER_STATS.csv](match_and_player_data/player_data_by_year/2023/Collingwood/2023_COL_PLAYER_STATS.csv)
-
-The team data is stored by year in the **match_and_player_data/player_data_by_year** directory.  
-The information ranges from 1951 to today. It contains all of the player personal data as well as an additional two columns for each player that have the file path to the players personal data and the players performance data. This prevents duplication whilst also allowing for easy access to the data.
 
 ## Data Sources
 
@@ -153,25 +132,11 @@ While data is readily available in the repository, here's how you can use scrapi
 - To scrape match scores data from 1897 to 2023 and store it in the "data/match_scores" directory:
 
   ```bash
-  python scrape.py match_and_player_data/match_scores matches 1897 2023
+  python main.py
   ```
 
-- To collect data for all players and store it in the "data/all_players" directory:
+This used to be more granular, but the data is now fully available in the repository. I'll be making a small update soon to bring back the ability to only scrape most recent data without rescraping existing data.
 
-  ```bash
-  python scrape.py match_and_player_data/player_all_time_data all_players
-  ```
-
-
-### Command Line Options
-
-- `<data_storage_directory>`: Specify the directory where the data will be stored.
-- `<option>`: Choose one of the following options:
-  - `matches <start year> <end year>`: Collect match scores data within the specified year range.
-  - `match_details <start year> <end year>`: Collect match scores data as well as player stats within those matches for the specified year range.
-  - `all_players`: Collect data for all players in the VFL/AFL.
-
-Please note that the available data ranges from 1897 to the current year.
 
 ## Contributing
 
