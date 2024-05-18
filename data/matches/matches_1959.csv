@@ -1,0 +1,113 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Princes Park,1959-04-18 14:30,1959,Carlton,7,4,8,10,12,13,13,20,Essendon,3,3,6,10,9,14,11,18
+1,Victoria Park,1959-04-18 14:30,1959,Collingwood,1,4,3,8,6,13,7,18,South Melbourne,5,4,8,9,12,11,14,17
+1,Brunswick St,1959-04-18 14:30,1959,Fitzroy,7,3,12,12,15,16,19,17,Hawthorn,6,6,9,8,14,13,17,18
+1,Junction Oval,1959-04-18 14:30,1959,St Kilda,3,5,7,8,8,12,9,15,Footscray,2,1,5,4,6,8,6,13
+1,Kardinia Park,1959-04-18 14:30,1959,Geelong,3,4,6,7,6,10,8,15,North Melbourne,4,3,8,4,10,11,12,14
+1,Punt Rd,1959-04-18 14:30,1959,Richmond,2,4,3,5,10,9,10,10,Melbourne,3,2,8,8,10,11,16,21
+2,Western Oval,1959-05-02 14:30,1959,Footscray,2,1,3,4,4,5,8,7,Carlton,3,6,8,6,11,12,15,14
+2,M.C.G.,1959-05-02 14:30,1959,Melbourne,3,4,7,7,11,10,13,14,Collingwood,3,1,5,1,8,4,12,7
+2,Windy Hill,1959-05-02 14:30,1959,Essendon,2,4,8,6,13,8,18,15,St Kilda,3,1,6,5,7,11,12,15
+2,Lake Oval,1959-05-02 14:30,1959,South Melbourne,2,4,7,9,10,13,13,21,Fitzroy,2,3,5,6,8,10,12,11
+2,Glenferrie Oval,1959-05-02 14:30,1959,Hawthorn,3,4,7,9,12,12,18,15,Geelong,4,5,6,5,11,8,12,12
+2,Arden St,1959-05-02 14:30,1959,North Melbourne,5,2,10,8,11,9,16,12,Richmond,2,4,4,10,8,16,10,20
+3,Victoria Park,1959-05-09 14:30,1959,Collingwood,1,1,3,4,7,7,9,8,Carlton,3,4,5,5,10,9,14,10
+3,Lake Oval,1959-05-09 14:30,1959,South Melbourne,3,4,5,8,8,10,9,11,Essendon,2,1,4,3,6,7,7,10
+3,Brunswick St,1959-05-09 14:30,1959,Fitzroy,2,5,9,6,12,8,13,9,Melbourne,1,2,2,3,4,6,11,8
+3,Western Oval,1959-05-09 14:30,1959,Footscray,0,0,4,7,4,10,8,10,Hawthorn,4,9,6,9,14,10,15,12
+3,Punt Rd,1959-05-09 14:30,1959,Richmond,3,0,6,4,7,4,10,11,Geelong,7,4,8,7,12,12,14,12
+3,Arden St,1959-05-09 14:30,1959,North Melbourne,2,1,5,4,5,6,9,9,St Kilda,4,2,4,4,6,9,8,10
+4,Princes Park,1959-05-16 14:30,1959,Carlton,4,5,9,8,9,11,14,17,Richmond,3,1,5,2,6,5,9,7
+4,Junction Oval,1959-05-16 14:30,1959,St Kilda,3,5,4,12,10,14,12,19,Collingwood,1,6,3,10,4,11,8,16
+4,Windy Hill,1959-05-16 14:30,1959,Essendon,4,4,5,7,5,12,8,14,North Melbourne,2,3,5,9,9,11,11,11
+4,Kardinia Park,1959-05-16 14:30,1959,Geelong,5,6,5,6,8,11,13,12,Fitzroy,1,1,5,3,8,4,12,8
+4,M.C.G.,1959-05-16 14:30,1959,Melbourne,6,5,11,9,14,11,19,17,Footscray,1,1,4,5,6,9,9,12
+4,Glenferrie Oval,1959-05-16 14:30,1959,Hawthorn,3,2,9,7,14,8,19,14,South Melbourne,2,6,5,10,10,14,13,19
+5,Princes Park,1959-05-23 14:30,1959,Carlton,3,3,6,7,7,9,10,13,Melbourne,4,1,7,2,9,4,9,7
+5,Punt Rd,1959-05-23 14:30,1959,Richmond,4,6,4,12,10,20,13,20,Collingwood,1,2,5,8,5,9,11,13
+5,Windy Hill,1959-05-23 14:30,1959,Essendon,1,8,6,11,8,13,11,18,Geelong,0,4,2,5,5,9,7,12
+5,Arden St,1959-05-23 14:30,1959,North Melbourne,1,0,6,6,9,7,11,10,Fitzroy,3,9,5,11,7,19,9,19
+5,Western Oval,1959-05-23 14:30,1959,Footscray,3,4,6,5,14,7,17,11,South Melbourne,3,0,7,4,10,5,13,8
+5,Junction Oval,1959-05-23 14:30,1959,St Kilda,3,3,5,10,6,11,10,21,Hawthorn,4,5,5,5,9,10,11,11
+6,Glenferrie Oval,1959-05-30 14:30,1959,Hawthorn,1,2,4,5,8,8,11,9,Carlton,4,5,6,6,9,9,12,11
+6,Victoria Park,1959-05-30 14:30,1959,Collingwood,7,5,9,8,13,13,16,16,Footscray,2,1,5,7,8,10,10,11
+6,Brunswick St,1959-05-30 14:30,1959,Fitzroy,2,5,7,5,10,6,11,9,Essendon,3,8,4,13,7,15,12,22
+6,Kardinia Park,1959-05-30 14:30,1959,Geelong,4,1,8,6,10,7,11,10,Melbourne,6,4,9,7,14,13,19,15
+6,Lake Oval,1959-05-30 14:30,1959,South Melbourne,2,3,3,5,6,14,8,18,North Melbourne,3,2,9,7,11,8,13,18
+6,Punt Rd,1959-05-30 14:30,1959,Richmond,2,8,5,11,7,12,11,17,St Kilda,0,2,4,6,13,8,16,10
+7,Princes Park,1959-06-06 14:20,1959,Carlton,3,2,9,6,12,11,14,15,North Melbourne,4,4,4,6,7,8,10,11
+7,Victoria Park,1959-06-06 14:20,1959,Collingwood,3,5,6,10,6,15,12,22,Geelong,2,1,4,4,6,6,9,7
+7,Windy Hill,1959-06-06 14:20,1959,Essendon,3,4,5,5,10,7,15,11,Footscray,1,4,5,7,7,11,12,13
+7,Junction Oval,1959-06-06 14:20,1959,St Kilda,3,3,6,5,10,7,13,9,Fitzroy,2,5,3,13,7,21,9,26
+7,Glenferrie Oval,1959-06-06 14:20,1959,Hawthorn,2,2,6,7,10,8,14,9,Richmond,5,3,7,7,7,13,8,15
+7,M.C.G.,1959-06-06 14:20,1959,Melbourne,2,6,5,12,9,14,14,17,South Melbourne,3,1,4,5,7,8,8,8
+8,Brunswick St,1959-06-13 14:20,1959,Fitzroy,0,3,0,4,2,8,5,10,Collingwood,1,1,2,4,2,8,3,12
+8,Western Oval,1959-06-13 14:20,1959,Footscray,0,6,1,10,4,12,4,13,Richmond,2,1,4,4,5,6,9,9
+8,Arden St,1959-06-13 14:20,1959,North Melbourne,4,1,7,5,10,8,12,12,Hawthorn,5,1,6,3,8,3,8,6
+8,Kardinia Park,1959-06-15 14:20,1959,Geelong,0,5,3,6,6,10,11,13,Carlton,3,0,7,5,11,12,12,16
+8,M.C.G.,1959-06-15 14:20,1959,Melbourne,3,1,8,7,11,12,19,15,Essendon,3,3,5,4,6,6,8,8
+8,Lake Oval,1959-06-15 14:20,1959,South Melbourne,2,3,7,8,12,11,16,13,St Kilda,4,4,4,7,5,10,7,11
+9,Princes Park,1959-06-27 14:20,1959,Carlton,3,2,7,8,10,8,14,11,South Melbourne,4,5,7,6,11,18,14,21
+9,Windy Hill,1959-06-27 14:20,1959,Essendon,3,3,6,10,7,11,8,11,Collingwood,1,4,2,6,5,9,14,12
+9,Punt Rd,1959-06-27 14:20,1959,Richmond,5,0,10,2,10,4,13,8,Fitzroy,5,7,5,11,10,18,10,21
+9,Arden St,1959-06-27 14:20,1959,North Melbourne,3,2,9,10,9,16,13,18,Footscray,5,7,7,8,8,12,9,14
+9,Junction Oval,1959-06-27 14:20,1959,St Kilda,3,3,11,4,11,5,14,11,Geelong,3,4,4,7,4,20,6,22
+9,Glenferrie Oval,1959-06-27 14:20,1959,Hawthorn,0,3,5,6,5,11,6,16,Melbourne,3,3,5,4,7,11,11,11
+10,Brunswick St,1959-07-04 14:20,1959,Fitzroy,6,2,13,4,15,9,21,13,Carlton,0,4,1,5,7,10,10,13
+10,Victoria Park,1959-07-04 14:20,1959,Collingwood,6,7,8,10,10,15,11,18,North Melbourne,1,0,3,7,6,7,9,9
+10,Glenferrie Oval,1959-07-04 14:20,1959,Hawthorn,3,3,7,6,10,8,14,13,Essendon,3,9,6,12,11,17,12,20
+10,Kardinia Park,1959-07-04 14:20,1959,Geelong,0,4,5,9,11,10,13,15,Footscray,2,3,4,7,8,9,10,15
+10,Junction Oval,1959-07-04 14:20,1959,St Kilda,1,0,5,2,8,3,11,10,Melbourne,2,10,5,14,9,20,9,23
+10,Punt Rd,1959-07-04 14:20,1959,Richmond,2,3,3,5,7,7,10,13,South Melbourne,2,3,8,7,13,10,15,16
+11,Princes Park,1959-07-11 14:20,1959,Carlton,3,5,7,10,11,14,15,21,St Kilda,0,8,4,10,6,12,8,18
+11,Victoria Park,1959-07-11 14:20,1959,Collingwood,5,3,6,7,8,11,10,15,Hawthorn,0,2,2,8,7,11,10,14
+11,Windy Hill,1959-07-11 14:20,1959,Essendon,3,1,7,7,15,12,19,20,Richmond,2,4,4,7,8,9,10,9
+11,Western Oval,1959-07-11 14:20,1959,Footscray,2,6,3,10,4,16,6,17,Fitzroy,0,1,2,7,2,7,10,13
+11,Lake Oval,1959-07-11 14:20,1959,South Melbourne,2,5,5,9,12,12,17,16,Geelong,3,2,7,6,7,9,12,12
+11,M.C.G.,1959-07-11 14:20,1959,Melbourne,7,1,12,1,17,4,20,8,North Melbourne,2,6,4,7,4,10,6,10
+12,Windy Hill,1959-07-18 14:20,1959,Essendon,4,2,6,6,11,8,15,10,Carlton,1,4,3,7,3,12,7,18
+12,Lake Oval,1959-07-18 14:20,1959,South Melbourne,3,2,4,4,5,4,6,9,Collingwood,0,5,3,6,7,11,12,13
+12,Glenferrie Oval,1959-07-18 14:20,1959,Hawthorn,2,2,5,6,6,10,8,13,Fitzroy,3,5,5,12,7,16,8,19
+12,Western Oval,1959-07-18 14:20,1959,Footscray,5,6,5,7,9,13,10,15,St Kilda,2,4,8,9,10,9,12,14
+12,Arden St,1959-07-18 14:20,1959,North Melbourne,5,4,6,4,11,9,11,10,Geelong,1,1,3,6,5,11,8,15
+12,M.C.G.,1959-07-18 14:20,1959,Melbourne,3,4,6,5,10,7,13,10,Richmond,2,1,4,3,6,3,7,9
+13,Princes Park,1959-07-25 14:20,1959,Carlton,7,2,7,4,9,7,9,9,Footscray,1,1,2,5,3,8,6,11
+13,Victoria Park,1959-07-25 14:20,1959,Collingwood,2,3,7,4,10,6,14,10,Melbourne,6,2,9,4,12,6,14,7
+13,Junction Oval,1959-07-25 14:20,1959,St Kilda,1,5,7,7,9,10,12,13,Essendon,4,1,7,2,9,5,11,5
+13,Brunswick St,1959-07-25 14:20,1959,Fitzroy,4,4,7,11,11,13,13,19,South Melbourne,5,3,7,4,9,5,10,7
+13,Kardinia Park,1959-07-25 14:20,1959,Geelong,1,1,5,6,8,7,14,16,Hawthorn,3,6,7,10,11,12,13,13
+13,Punt Rd,1959-07-25 14:20,1959,Richmond,3,1,9,6,12,8,16,8,North Melbourne,1,4,2,6,8,12,10,16
+14,Princes Park,1959-08-01 14:20,1959,Carlton,2,2,4,4,7,6,8,9,Collingwood,5,5,5,7,6,11,9,14
+14,Windy Hill,1959-08-01 14:20,1959,Essendon,3,5,5,8,8,11,10,19,South Melbourne,3,2,5,6,7,9,8,14
+14,M.C.G.,1959-08-01 14:20,1959,Melbourne,2,4,6,7,9,9,11,11,Fitzroy,3,4,5,8,8,11,11,11
+14,Glenferrie Oval,1959-08-01 14:20,1959,Hawthorn,8,2,9,5,11,10,14,15,Footscray,3,3,4,5,6,7,7,10
+14,Kardinia Park,1959-08-01 14:20,1959,Geelong,0,6,7,12,9,14,12,15,Richmond,2,5,2,5,4,7,6,7
+14,Junction Oval,1959-08-01 14:20,1959,St Kilda,1,2,4,8,4,9,10,15,North Melbourne,5,4,6,4,12,7,13,7
+15,Punt Rd,1959-08-08 14:20,1959,Richmond,2,1,6,4,7,6,13,6,Carlton,6,9,7,11,13,17,14,20
+15,Victoria Park,1959-08-08 14:20,1959,Collingwood,4,11,5,11,8,18,12,18,St Kilda,0,2,5,9,6,10,9,11
+15,Arden St,1959-08-08 14:20,1959,North Melbourne,2,0,4,2,5,5,11,8,Essendon,5,4,8,7,14,14,16,14
+15,Brunswick St,1959-08-08 14:20,1959,Fitzroy,0,1,5,7,6,11,11,15,Geelong,1,5,1,6,3,10,6,11
+15,Western Oval,1959-08-08 14:20,1959,Footscray,2,3,8,3,11,5,12,8,Melbourne,3,3,7,4,8,9,10,11
+15,Lake Oval,1959-08-08 14:20,1959,South Melbourne,2,1,6,8,7,12,8,14,Hawthorn,5,0,6,1,8,2,10,3
+16,M.C.G.,1959-08-15 14:20,1959,Melbourne,4,3,7,7,8,11,13,14,Carlton,1,2,3,4,6,5,7,5
+16,Victoria Park,1959-08-15 14:20,1959,Collingwood,2,2,10,7,13,10,17,17,Richmond,2,3,3,4,5,8,5,10
+16,Kardinia Park,1959-08-15 14:20,1959,Geelong,4,3,4,5,11,6,12,9,Essendon,3,6,9,10,11,13,15,16
+16,Brunswick St,1959-08-15 14:20,1959,Fitzroy,1,3,4,9,6,11,10,23,North Melbourne,1,4,4,7,7,10,7,11
+16,Lake Oval,1959-08-15 14:20,1959,South Melbourne,4,5,7,7,8,10,11,10,Footscray,1,2,6,7,7,9,12,13
+16,Glenferrie Oval,1959-08-15 14:20,1959,Hawthorn,0,2,3,7,5,7,10,11,St Kilda,4,1,4,1,5,5,5,5
+17,Princes Park,1959-08-22 14:20,1959,Carlton,4,8,6,14,9,18,13,20,Hawthorn,3,4,7,7,9,9,14,12
+17,Western Oval,1959-08-22 14:20,1959,Footscray,1,3,1,3,5,4,5,5,Collingwood,0,6,5,8,6,11,8,17
+17,Windy Hill,1959-08-22 14:20,1959,Essendon,5,1,7,3,9,7,11,8,Fitzroy,0,5,3,6,6,8,7,12
+17,M.C.G.,1959-08-22 14:20,1959,Melbourne,2,4,8,8,13,13,17,18,Geelong,2,3,5,4,5,9,9,12
+17,Arden St,1959-08-22 14:20,1959,North Melbourne,1,1,5,4,5,6,6,6,South Melbourne,5,3,10,9,15,15,19,20
+17,Junction Oval,1959-08-22 14:20,1959,St Kilda,6,8,10,12,15,15,18,15,Richmond,2,2,7,8,8,12,13,19
+18,Arden St,1959-08-29 14:20,1959,North Melbourne,1,4,4,6,5,7,8,11,Carlton,2,5,4,8,9,11,12,14
+18,Kardinia Park,1959-08-29 14:20,1959,Geelong,1,4,2,5,4,7,5,8,Collingwood,2,3,5,9,10,17,17,19
+18,Western Oval,1959-08-29 14:20,1959,Footscray,2,3,6,10,7,11,10,14,Essendon,8,2,10,4,15,10,17,15
+18,Brunswick St,1959-08-29 14:20,1959,Fitzroy,3,3,7,7,15,8,20,12,St Kilda,3,4,7,5,9,9,13,12
+18,Punt Rd,1959-08-29 14:20,1959,Richmond,3,4,7,5,10,8,10,13,Hawthorn,4,1,12,6,15,9,17,14
+18,Lake Oval,1959-08-29 14:20,1959,South Melbourne,2,2,4,7,5,10,8,13,Melbourne,1,6,3,11,5,15,10,16
+Semi Final,M.C.G.,1959-09-05 14:30,1959,Collingwood,1,4,4,8,5,11,8,14,Essendon,2,5,4,9,10,11,14,16
+Semi Final,M.C.G.,1959-09-12 14:30,1959,Melbourne,2,6,6,8,9,12,11,15,Carlton,0,0,1,4,2,9,4,13
+Preliminary Final,M.C.G.,1959-09-19 14:30,1959,Carlton,0,1,3,7,5,8,7,8,Essendon,1,4,4,5,6,8,8,9
+Grand Final,M.C.G.,1959-09-26 14:50,1959,Melbourne,1,4,8,5,11,10,17,13,Essendon,3,5,7,8,10,10,11,12

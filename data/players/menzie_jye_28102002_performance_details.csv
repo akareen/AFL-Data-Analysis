@@ -1,0 +1,29 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Essendon,2022,1↑,North Melbourne,20,W,47,5,3,5,10,,,,1,,2,,,,,,3,6,,,,,1,25
+Essendon,2022,2↑,Richmond,23,L,47,5,4,4,9,1,,,2,,2,1,1,,1,,4,5,,1,1,,,56
+Essendon,2023,3,Hawthorn,1,W,47,7,6,5,12,2,1,,3,,1,,,,,,2,10,,2,1,,1,80
+Essendon,2023,4,Gold Coast,2,W,47,6,5,2,8,2,,,4,,,,2,,1,,4,5,1,3,,,,84
+Essendon,2023,5,St Kilda,3,L,47,4,1,4,8,1,,,3,,1,,1,,,,3,5,,,5,,,73
+Essendon,2023,6,Greater Western Sydney,4,W,47,7,3,10,17,,2,,1,,3,,1,1,,,10,7,1,1,1,,3,80
+Essendon,2023,7,Melbourne,5,W,47,2,,4,6,,,,1,,1,,3,,3,,4,3,,,1,,,73
+Essendon,2023,8,Collingwood,6,L,47,6,3,6,12,1,2,,1,,1,,4,,1,,4,10,1,1,,,1,76
+Essendon,2023,9↑,Port Adelaide,8,L,47,1,,2,3,1,,,1,,,,2,,1,,1,2,,,1,,1,43
+Essendon,2023,10,Brisbane Lions,9,L,47,2,1,4,6,1,,,4,,3,1,6,2,2,,6,1,,,,,1,70
+Essendon,2023,11,Richmond,10,W,47,5,3,3,8,2,1,,4,,1,,,,,,2,6,1,1,1,,,76
+Essendon,2023,12,West Coast,11,W,47,6,2,3,9,2,,,2,,4,1,1,1,,,6,4,1,1,2,,,79
+Essendon,2023,13,North Melbourne,12,W,47,6,2,4,10,1,1,,4,,2,,,,,,5,5,,1,,,1,68
+Essendon,2023,14,Carlton,13,W,47,7,3,5,12,2,,,2,1,2,,2,1,1,,1,11,,,1,,,77
+Essendon,2023,15↑,Fremantle,15,L,47,3,1,2,5,1,1,,,,,,1,,,,1,2,,1,,,,35
+Essendon,2023,16↓,Port Adelaide,16,L,47,4,3,4,8,,,,2,,1,,2,1,,,4,5,,2,1,,1,57
+Essendon,2023,17,Adelaide,17,W,47,4,,2,6,2,,,3,,1,,1,1,1,,1,5,,,,1,,70
+Essendon,2023,18,Geelong,18,L,47,5,1,5,10,1,,,1,,2,1,,,,,3,5,,1,1,,1,80
+Essendon,2023,19,Sydney,20,L,47,7,1,2,9,1,,,4,1,3,,1,,,,3,5,,,,,,84
+Essendon,2023,20,West Coast,21,W,47,4,3,4,8,,1,,1,,1,,1,,1,,5,4,,,2,1,1,84
+Essendon,2023,21,North Melbourne,22,W,47,8,6,3,11,2,1,,2,,3,,,,,,5,6,1,2,,1,,77
+Essendon,2023,22,Greater Western Sydney,23,L,47,3,1,4,7,1,1,,2,,2,,1,,,,3,4,,,,,,85
+Essendon,2023,23,Collingwood,24,L,47,3,2,4,7,,,,3,1,,,,,,,1,6,,,,,,83
+Essendon,2024,24,Hawthorn,2,W,47,6,3,4,10,1,,,1,,,1,,,,,4,7,,1,2,,,63
+Essendon,2024,25,Sydney,3,L,47,3,1,3,6,,1,,3,,,1,1,2,,,2,4,,,,,,54
+Essendon,2024,26,St Kilda,4,W,47,4,2,3,7,,1,,1,,2,,1,,,,4,2,1,1,,1,,75
+Essendon,2024,27↓,Port Adelaide,5,L,47,2,2,2,4,,1,,,1,1,,,,,,2,2,,1,2,,,40
+Essendon,2024,28↓,Western Bulldogs,6,W,47,3,1,1,4,,,,1,,1,1,2,,,,,2,,,,,,56

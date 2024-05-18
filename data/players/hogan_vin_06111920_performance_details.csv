@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+North Melbourne,1940,1,Melbourne,7,L,24,,,,,,,,,,,,,,,,,,,,,,,
+North Melbourne,1942,2,Hawthorn,1,W,27,,,,,,,,,,,,,,,,,,,,,,,
+North Melbourne,1942,3,Fitzroy,2,L,27,,,,,,,,,,,,,,,,,,,,,,,
+North Melbourne,1942,4,Melbourne,7,L,27,,,,,,,,,,,,,,,,,,,,,,,
+North Melbourne,1942,5,Richmond,9,L,27,,,,,,,,,,,,,,,,,,,,,,,
+North Melbourne,1942,6,St Kilda,11,L,27,,,,,,,,,,,,,,,,,,,,,,,
+North Melbourne,1942,7,Hawthorn,12,W,27,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1947,8,Essendon,14,L,17,,,,,1,,,,,,,,,,,,,,,,,,
+St Kilda,1947,9,Hawthorn,15,L,17,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1947,10,Fitzroy,16,L,17,,,,,,,,,,,,,,,,,,,,,,,

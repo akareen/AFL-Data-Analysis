@@ -1,0 +1,5 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Richmond,1911,1,St Kilda,17,W,,,,,,2,,,,,,,,,,,,,,,,,,
+Richmond,1911,2,Fitzroy,18,L,,,,,,1,,,,,,,,,,,,,,,,,,
+Richmond,1912,3,Geelong,9,L,23,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1912,4,St Kilda,10,L,23,,,,,1,,,,,,,,,,,,,,,,,,

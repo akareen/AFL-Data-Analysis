@@ -1,0 +1,217 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,M.C.G.,2023-03-16 19:20,2023,Richmond,1,4,2,4,7,8,8,10,Carlton,3,1,4,6,6,9,8,10
+1,M.C.G.,2023-03-17 19:40,2023,Geelong,6,0,12,1,16,3,16,7,Collingwood,5,3,9,6,14,9,19,11
+1,Docklands,2023-03-18 13:45,2023,North Melbourne,3,4,7,7,10,9,12,15,West Coast,3,3,4,4,8,6,12,10
+1,Adelaide Oval,2023-03-18 16:05,2023,Port Adelaide,3,5,5,9,13,13,18,18,Brisbane Lions,2,1,8,3,9,5,11,6
+1,M.C.G.,2023-03-18 19:25,2023,Melbourne,3,3,9,4,13,8,17,13,Western Bulldogs,2,4,5,9,8,10,9,11
+1,Carrara,2023-03-18 19:00,2023,Gold Coast,2,1,3,2,6,4,9,7,Sydney,5,4,7,7,13,10,16,14
+1,Sydney Showground,2023-03-19 13:10,2023,Greater Western Sydney,2,2,4,8,10,11,15,16,Adelaide,4,9,8,12,10,16,12,18
+1,M.C.G.,2023-03-19 15:20,2023,Hawthorn,4,5,5,7,5,9,9,11,Essendon,3,1,8,5,14,8,19,10
+1,Docklands,2023-03-19 16:40,2023,St Kilda,3,3,5,4,6,6,10,7,Fremantle,2,1,5,4,7,6,7,10
+2,M.C.G.,2023-03-23 19:20,2023,Carlton,2,6,6,8,12,11,13,12,Geelong,2,1,5,6,9,6,12,10
+2,Gabba,2023-03-24 18:55,2023,Brisbane Lions,6,2,8,4,13,5,14,9,Melbourne,2,1,5,2,7,3,13,4
+2,M.C.G.,2023-03-25 13:45,2023,Collingwood,7,2,13,5,15,7,21,9,Port Adelaide,3,3,5,4,8,7,9,10
+2,Adelaide Oval,2023-03-25 16:05,2023,Adelaide,1,3,3,6,8,14,10,16,Richmond,4,1,11,3,12,4,17,6
+2,Docklands,2023-03-25 19:25,2023,Western Bulldogs,0,1,4,5,5,8,5,11,St Kilda,4,1,5,4,11,5,14,8
+2,Perth Stadium,2023-03-25 16:30,2023,Fremantle,2,3,3,6,6,8,10,12,North Melbourne,4,1,5,2,8,6,11,7
+2,S.C.G.,2023-03-26 13:10,2023,Sydney,4,6,8,7,13,11,17,16,Hawthorn,1,5,2,7,2,9,4,13
+2,Docklands,2023-03-26 15:20,2023,Essendon,3,4,7,6,11,6,16,12,Gold Coast,3,2,6,6,10,12,11,14
+2,Perth Stadium,2023-03-26 15:20,2023,West Coast,2,3,10,6,13,10,14,16,Greater Western Sydney,3,4,5,5,8,10,11,15
+3,Docklands,2023-03-30 19:20,2023,Western Bulldogs,1,2,4,3,8,4,10,7,Brisbane Lions,1,3,2,7,6,8,7,11
+3,M.C.G.,2023-03-31 19:50,2023,Collingwood,2,6,3,10,7,15,8,15,Richmond,1,0,1,3,4,5,7,7
+3,York Park,2023-04-01 13:45,2023,Hawthorn,3,4,8,4,9,5,11,14,North Melbourne,1,3,4,3,7,5,9,7
+3,Sydney Showground,2023-04-01 16:35,2023,Greater Western Sydney,5,3,6,5,7,9,9,10,Carlton,4,6,7,11,7,16,9,20
+3,M.C.G.,2023-04-01 19:25,2023,St Kilda,5,4,7,5,9,7,14,8,Essendon,1,1,4,5,6,6,11,8
+3,Adelaide Oval,2023-04-01 19:00,2023,Port Adelaide,6,1,9,3,11,5,13,8,Adelaide,5,1,9,3,11,8,18,9
+3,Carrara,2023-04-02 14:10,2023,Gold Coast,2,3,3,9,6,11,10,13,Geelong,3,4,3,6,5,10,7,12
+3,M.C.G.,2023-04-02 15:20,2023,Melbourne,6,1,9,3,14,4,21,8,Sydney,1,3,6,6,9,9,12,12
+3,Perth Stadium,2023-04-02 15:20,2023,Fremantle,5,1,9,5,10,8,16,12,West Coast,5,2,5,7,8,12,9,13
+4,Gabba,2023-04-06 19:35,2023,Brisbane Lions,3,2,9,4,14,6,18,8,Collingwood,5,3,5,6,8,12,11,17
+4,Docklands,2023-04-07 16:20,2023,North Melbourne,3,4,5,8,6,12,11,18,Carlton,2,4,5,6,11,7,16,11
+4,Adelaide Oval,2023-04-08 13:15,2023,Adelaide,6,1,10,4,11,8,17,9,Fremantle,3,2,4,4,6,6,10,12
+4,M.C.G.,2023-04-08 16:35,2023,Richmond,2,4,10,7,10,11,12,12,Western Bulldogs,6,3,8,5,9,11,12,17
+4,S.C.G.,2023-04-08 19:30,2023,Sydney,3,2,4,6,7,10,9,10,Port Adelaide,0,3,4,6,5,8,9,12
+4,Docklands,2023-04-08 19:30,2023,St Kilda,3,2,8,6,13,10,17,11,Gold Coast,3,4,4,8,5,11,8,12
+4,Docklands,2023-04-09 14:10,2023,Essendon,2,8,3,13,8,19,11,22,Greater Western Sydney,4,0,6,5,9,7,11,9
+4,Perth Stadium,2023-04-09 15:20,2023,West Coast,2,2,4,4,6,8,9,9,Melbourne,5,1,8,4,14,9,19,12
+4,M.C.G.,2023-04-10 15:20,2023,Geelong,3,2,4,3,14,8,19,13,Hawthorn,3,3,5,6,5,6,6,9
+5,Adelaide Oval,2023-04-13 19:10,2023,Adelaide,8,3,10,5,13,7,18,10,Carlton,2,1,5,4,7,7,9,8
+5,Norwood Oval,2023-04-14 16:40,2023,Fremantle,3,0,6,2,11,5,15,10,Gold Coast,4,4,9,7,11,11,13,12
+5,Adelaide Oval,2023-04-14 19:40,2023,Richmond,2,2,3,8,10,9,11,12,Sydney,4,4,7,5,11,10,18,14
+5,Summit Sports Park,2023-04-15 12:40,2023,Brisbane Lions,5,1,10,6,17,13,22,20,North Melbourne,5,1,7,1,9,2,12,5
+5,Adelaide Oval,2023-04-15 15:40,2023,Essendon,5,4,9,10,12,13,15,14,Melbourne,4,2,7,5,7,7,11,11
+5,Adelaide Oval,2023-04-15 19:20,2023,Port Adelaide,3,5,5,8,6,10,10,10,Western Bulldogs,1,2,4,5,7,6,8,8
+5,Adelaide Oval,2023-04-16 12:40,2023,Geelong,5,3,14,5,19,7,21,10,West Coast,2,3,3,7,9,8,13,11
+5,Norwood Oval,2023-04-16 14:50,2023,Greater Western Sydney,2,2,5,7,6,11,10,17,Hawthorn,2,3,4,5,8,7,11,9
+5,Adelaide Oval,2023-04-16 16:20,2023,Collingwood,2,2,4,4,6,10,10,10,St Kilda,2,2,4,3,6,4,9,10
+6,Perth Stadium,2023-04-21 18:10,2023,Fremantle,3,1,6,2,9,6,10,9,Western Bulldogs,3,7,8,9,12,11,17,16
+6,Adelaide Oval,2023-04-22 13:15,2023,Port Adelaide,3,2,9,6,13,9,16,13,West Coast,2,3,3,6,7,8,10,9
+6,Manuka Oval,2023-04-22 16:35,2023,Greater Western Sydney,2,2,6,4,10,7,13,9,Brisbane Lions,5,3,9,5,14,5,16,12
+6,Kardinia Park,2023-04-22 19:25,2023,Geelong,6,3,11,3,18,5,20,10,Sydney,2,0,5,4,5,5,5,7
+6,York Park,2023-04-23 13:10,2023,Hawthorn,2,1,5,4,8,8,11,10,Adelaide,2,3,5,7,8,9,11,13
+6,Docklands,2023-04-23 15:20,2023,Carlton,3,4,6,7,7,10,8,12,St Kilda,3,2,6,3,11,7,12,10
+6,Carrara,2023-04-23 16:40,2023,Gold Coast,4,3,7,6,10,10,14,13,North Melbourne,1,2,4,3,4,5,7,12
+6,M.C.G.,2023-04-24 19:25,2023,Melbourne,2,2,6,2,10,5,15,6,Richmond,5,2,8,4,10,7,11,12
+6,M.C.G.,2023-04-25 15:20,2023,Collingwood,1,4,5,7,6,10,13,12,Essendon,3,2,5,5,11,8,11,11
+7,Docklands,2023-04-28 19:50,2023,St Kilda,5,2,5,6,8,8,11,10,Port Adelaide,2,2,6,7,9,10,12,11
+7,Gabba,2023-04-29 13:45,2023,Brisbane Lions,3,5,8,7,13,10,17,13,Fremantle,1,3,3,6,8,6,10,7
+7,S.C.G.,2023-04-29 14:10,2023,Sydney,3,2,7,5,13,9,16,10,Greater Western Sydney,4,1,9,3,12,3,17,5
+7,Docklands,2023-04-29 16:35,2023,Western Bulldogs,3,2,7,3,10,6,14,10,Hawthorn,3,3,7,6,7,9,9,11
+7,M.C.G.,2023-04-29 19:25,2023,Melbourne,8,2,13,3,16,4,22,7,North Melbourne,1,0,2,3,4,6,7,7
+7,Perth Stadium,2023-04-29 17:30,2023,West Coast,2,3,3,4,3,7,6,8,Carlton,5,6,9,8,14,12,23,14
+7,M.C.G.,2023-04-30 13:10,2023,Essendon,2,0,7,2,11,6,16,8,Geelong,6,3,14,4,17,6,20,12
+7,Docklands,2023-04-30 15:20,2023,Richmond,1,5,2,9,4,11,6,12,Gold Coast,2,1,4,2,10,3,11,6
+7,Adelaide Oval,2023-04-30 16:10,2023,Adelaide,3,6,3,10,6,15,7,16,Collingwood,0,2,3,4,5,5,8,11
+8,Docklands,2023-05-05 19:50,2023,Carlton,5,1,6,3,6,5,11,8,Brisbane Lions,5,3,7,7,12,9,15,10
+8,M.C.G.,2023-05-06 13:45,2023,Richmond,1,2,5,8,10,12,15,14,West Coast,2,3,4,5,7,6,8,10
+8,Kardinia Park,2023-05-06 14:10,2023,Geelong,2,6,8,8,10,11,14,14,Adelaide,2,4,6,4,8,5,11,6
+8,Carrara,2023-05-06 16:35,2023,Gold Coast,3,3,7,4,11,6,13,7,Melbourne,4,4,8,5,11,6,13,12
+8,Perth Stadium,2023-05-06 17:30,2023,Fremantle,5,3,10,4,14,6,18,9,Hawthorn,3,2,5,3,5,5,7,6
+8,Manuka Oval,2023-05-06 19:30,2023,Greater Western Sydney,2,3,5,4,5,9,10,11,Western Bulldogs,4,1,7,4,11,6,13,8
+8,Adelaide Oval,2023-05-07 12:40,2023,Port Adelaide,3,4,5,11,9,16,12,20,Essendon,6,1,9,1,11,3,13,9
+8,M.C.G.,2023-05-07 15:20,2023,Collingwood,3,5,4,6,6,9,11,11,Sydney,1,2,5,8,5,10,6,12
+8,Docklands,2023-05-07 16:40,2023,North Melbourne,0,4,0,7,3,7,4,10,St Kilda,1,6,3,9,6,15,8,16
+9,M.C.G.,2023-05-12 19:20,2023,Richmond,6,0,8,3,11,5,16,6,Geelong,2,7,5,11,7,11,11,12
+9,Perth Stadium,2023-05-12 18:40,2023,West Coast,2,3,3,5,5,7,6,7,Gold Coast,3,2,11,7,11,10,16,17
+9,S.C.G.,2023-05-13 13:45,2023,Sydney,3,1,5,2,9,5,13,8,Fremantle,1,1,7,3,12,4,16,7
+9,Bellerive Oval,2023-05-13 14:10,2023,North Melbourne,3,2,4,4,8,5,10,5,Port Adelaide,3,3,11,7,15,11,20,15
+9,M.C.G.,2023-05-13 16:35,2023,Hawthorn,0,1,1,3,6,5,7,7,Melbourne,5,5,8,6,11,10,15,13
+9,Gabba,2023-05-13 19:25,2023,Brisbane Lions,2,2,2,7,7,11,12,15,Essendon,1,3,4,5,5,6,6,9
+9,Docklands,2023-05-13 19:30,2023,Carlton,0,3,1,4,5,8,8,11,Western Bulldogs,2,2,4,4,6,10,11,13
+9,Adelaide Oval,2023-05-14 12:40,2023,Adelaide,6,2,10,2,15,6,19,7,St Kilda,1,1,5,5,7,7,10,9
+9,M.C.G.,2023-05-14 16:40,2023,Collingwood,5,1,9,4,13,8,18,12,Greater Western Sydney,2,4,3,8,6,9,7,13
+10,Adelaide Oval,2023-05-19 19:20,2023,Port Adelaide,3,2,5,7,8,8,11,14,Melbourne,1,2,3,5,10,7,11,10
+10,Docklands,2023-05-20 13:45,2023,North Melbourne,3,3,5,3,10,4,14,6,Sydney,3,6,7,7,11,7,14,9
+10,Eureka Stadium,2023-05-20 14:10,2023,Western Bulldogs,4,7,5,13,9,19,11,19,Adelaide,1,2,3,4,4,6,5,10
+10,Perth Stadium,2023-05-20 14:35,2023,Fremantle,3,2,8,4,13,6,16,10,Geelong,3,4,6,7,11,8,11,11
+10,Gabba,2023-05-20 19:30,2023,Brisbane Lions,4,2,6,6,10,8,16,11,Gold Coast,2,5,5,6,8,9,9,10
+10,M.C.G.,2023-05-20 19:40,2023,Essendon,4,1,5,7,6,10,10,11,Richmond,3,5,6,6,8,10,10,10
+10,York Park,2023-05-21 13:10,2023,Hawthorn,7,1,11,4,14,8,22,10,West Coast,2,0,4,0,4,1,4,2
+10,M.C.G.,2023-05-21 15:20,2023,Carlton,1,2,4,6,5,10,7,15,Collingwood,5,2,10,5,11,6,13,7
+10,Sydney Showground,2023-05-21 16:40,2023,Greater Western Sydney,4,1,8,3,11,4,12,8,St Kilda,3,3,8,3,11,7,13,14
+11,S.C.G.,2023-05-26 19:50,2023,Sydney,4,1,6,2,8,8,11,11,Carlton,3,4,4,8,6,12,6,15
+11,Docklands,2023-05-27 13:45,2023,St Kilda,3,2,5,4,11,4,12,6,Hawthorn,2,4,4,10,7,14,12,16
+11,M.C.G.,2023-05-27 14:10,2023,Melbourne,3,2,4,5,6,8,10,12,Fremantle,2,0,4,3,9,5,12,7
+11,Kardinia Park,2023-05-27 16:35,2023,Geelong,2,4,3,6,6,9,10,14,Greater Western Sydney,2,3,6,5,8,9,12,9
+11,Marrara Oval,2023-05-27 18:55,2023,Gold Coast,4,1,8,3,11,5,13,6,Western Bulldogs,4,3,4,5,8,6,11,11
+11,Perth Stadium,2023-05-27 17:40,2023,West Coast,2,3,4,5,5,9,6,10,Essendon,4,1,8,5,11,6,14,12
+11,M.C.G.,2023-05-28 13:10,2023,Richmond,1,3,3,10,6,12,9,13,Port Adelaide,5,4,5,9,7,14,10,17
+11,Docklands,2023-05-28 15:20,2023,Collingwood,4,3,7,5,13,8,16,9,North Melbourne,0,3,2,8,4,9,10,10
+11,Adelaide Oval,2023-05-28 16:10,2023,Adelaide,3,3,7,7,10,8,14,11,Brisbane Lions,3,5,5,8,6,17,10,18
+12,M.C.G.,2023-06-02 19:50,2023,Melbourne,3,3,5,6,7,11,8,13,Carlton,1,2,2,5,5,6,6,8
+12,Adelaide Oval,2023-06-03 13:15,2023,Port Adelaide,9,3,16,9,21,12,23,13,Hawthorn,2,3,3,5,8,8,14,12
+12,Perth Stadium,2023-06-03 14:35,2023,West Coast,0,3,4,3,8,7,8,9,Collingwood,4,3,8,5,12,9,18,12
+12,Docklands,2023-06-03 19:25,2023,Western Bulldogs,5,4,8,7,10,12,10,15,Geelong,5,2,8,5,12,6,15,7
+12,Marrara Oval,2023-06-03 19:00,2023,Gold Coast,2,4,5,5,11,10,16,16,Adelaide,6,1,8,4,11,6,13,9
+12,Sydney Showground,2023-06-04 13:10,2023,Greater Western Sydney,2,4,6,9,8,12,15,14,Richmond,6,4,9,4,11,10,16,14
+12,Docklands,2023-06-04 16:40,2023,Essendon,6,2,6,6,12,7,16,9,North Melbourne,3,0,6,4,10,8,15,9
+13,S.C.G.,2023-06-08 19:10,2023,Sydney,0,0,5,5,7,10,9,12,St Kilda,1,1,4,2,7,4,12,8
+13,Docklands,2023-06-09 19:50,2023,Western Bulldogs,4,5,7,5,9,6,13,7,Port Adelaide,6,1,8,3,12,7,16,11
+13,M.C.G.,2023-06-10 13:45,2023,Hawthorn,4,1,5,4,11,7,15,8,Brisbane Lions,3,2,8,3,10,3,11,7
+13,Adelaide Oval,2023-06-10 16:05,2023,Adelaide,7,5,14,8,21,10,27,12,West Coast,2,1,4,2,6,3,8,4
+13,Perth Stadium,2023-06-10 17:25,2023,Fremantle,1,3,4,4,8,9,10,10,Richmond,4,3,6,7,11,10,12,13
+13,Bellerive Oval,2023-06-11 15:20,2023,North Melbourne,2,4,6,6,8,7,11,9,Greater Western Sydney,4,3,7,5,12,9,15,13
+13,M.C.G.,2023-06-11 19:15,2023,Carlton,1,5,3,10,5,10,6,16,Essendon,2,4,4,6,11,7,13,8
+13,M.C.G.,2023-06-12 15:20,2023,Melbourne,1,4,3,8,6,11,8,18,Collingwood,3,1,5,4,6,5,9,8
+14,Adelaide Oval,2023-06-15 19:10,2023,Port Adelaide,2,6,5,8,12,9,16,14,Geelong,6,2,7,3,10,4,11,6
+14,Gabba,2023-06-16 19:50,2023,Brisbane Lions,2,2,7,5,10,13,13,19,Sydney,4,2,6,6,8,6,12,9
+14,Sydney Showground,2023-06-17 16:35,2023,Greater Western Sydney,4,1,8,4,12,7,16,10,Fremantle,0,2,3,4,4,4,5,6
+14,M.C.G.,2023-06-17 19:25,2023,Richmond,6,4,10,7,11,10,13,12,St Kilda,5,0,8,2,11,3,11,4
+14,M.C.G.,2023-06-18 13:10,2023,Carlton,1,2,10,5,13,8,18,12,Gold Coast,2,6,2,9,5,11,8,13
+14,Docklands,2023-06-18 16:40,2023,North Melbourne,4,1,5,2,8,5,13,6,Western Bulldogs,1,5,5,8,10,9,15,15
+15,Kardinia Park,2023-06-22 19:20,2023,Geelong,3,4,4,7,5,10,11,12,Melbourne,2,1,4,8,6,11,8,15
+15,Docklands,2023-06-23 19:50,2023,St Kilda,1,0,2,3,6,5,8,8,Brisbane Lions,3,4,5,8,9,8,12,12
+15,S.C.G.,2023-06-24 16:35,2023,Sydney,9,4,14,9,25,14,31,19,West Coast,1,0,4,1,4,3,5,4
+15,Perth Stadium,2023-06-24 17:25,2023,Fremantle,3,3,8,7,12,8,14,9,Essendon,2,3,5,3,6,5,9,7
+15,M.C.G.,2023-06-25 13:10,2023,Collingwood,2,4,7,5,7,8,12,10,Adelaide,1,5,2,8,9,9,11,14
+15,Carrara,2023-06-25 16:40,2023,Gold Coast,2,0,4,8,9,12,14,17,Hawthorn,3,1,3,4,5,4,5,4
+16,Gabba,2023-06-29 19:20,2023,Brisbane Lions,4,6,9,7,15,13,20,14,Richmond,1,3,1,7,4,7,7,11
+16,S.C.G.,2023-06-30 19:50,2023,Sydney,1,6,4,12,5,15,6,18,Geelong,3,3,4,4,6,8,7,12
+16,Adelaide Oval,2023-07-01 13:15,2023,Adelaide,7,2,12,5,17,8,21,12,North Melbourne,4,1,8,3,9,3,11,6
+16,Docklands,2023-07-01 13:45,2023,Western Bulldogs,3,1,7,3,9,4,16,6,Fremantle,3,0,6,3,7,5,11,7
+16,Carrara,2023-07-01 16:35,2023,Gold Coast,0,2,1,4,5,7,5,12,Collingwood,4,4,11,6,14,10,18,12
+16,M.C.G.,2023-07-01 19:25,2023,Essendon,2,2,4,8,7,12,10,14,Port Adelaide,2,7,5,8,6,9,11,12
+16,M.C.G.,2023-07-02 13:10,2023,Hawthorn,0,3,0,5,5,8,7,10,Carlton,3,4,8,7,11,10,17,10
+16,Traeger Park,2023-07-02 14:50,2023,Melbourne,1,5,2,9,4,12,5,15,Greater Western Sydney,1,0,3,3,6,4,7,5
+16,Perth Stadium,2023-07-02 14:40,2023,West Coast,4,1,9,2,12,2,12,5,St Kilda,3,0,5,2,11,7,12,13
+17,M.C.G.,2023-07-06 19:20,2023,Richmond,2,1,5,6,8,12,12,16,Sydney,4,4,8,6,10,8,11,9
+17,Docklands,2023-07-07 19:50,2023,Western Bulldogs,3,1,6,5,7,7,11,11,Collingwood,1,4,5,6,11,8,13,11
+17,Gabba,2023-07-08 13:45,2023,Brisbane Lions,7,3,10,8,13,14,16,20,West Coast,2,0,2,2,3,3,5,5
+17,Sydney Showground,2023-07-08 16:35,2023,Greater Western Sydney,5,3,7,9,9,13,12,13,Hawthorn,3,4,7,7,8,8,10,12
+17,Docklands,2023-07-08 19:25,2023,St Kilda,3,5,4,7,6,8,8,10,Melbourne,5,0,7,2,9,5,12,7
+17,Adelaide Oval,2023-07-08 19:10,2023,Port Adelaide,2,2,5,3,14,5,16,10,Gold Coast,4,1,6,3,7,4,11,7
+17,Kardinia Park,2023-07-09 13:10,2023,Geelong,8,5,11,5,14,8,19,11,North Melbourne,2,0,2,4,5,7,9,9
+17,Docklands,2023-07-09 15:20,2023,Essendon,7,6,12,9,14,13,17,13,Adelaide,5,1,7,2,9,5,15,7
+17,Perth Stadium,2023-07-09 14:40,2023,Fremantle,0,3,2,7,2,8,6,9,Carlton,4,3,6,8,12,12,14,14
+18,S.C.G.,2023-07-13 19:20,2023,Sydney,2,3,6,7,8,9,11,12,Western Bulldogs,5,4,6,4,9,6,11,10
+18,M.C.G.,2023-07-14 19:50,2023,Melbourne,6,2,8,3,12,4,16,9,Brisbane Lions,3,3,8,4,15,7,16,8
+18,M.C.G.,2023-07-15 13:45,2023,Collingwood,4,1,14,2,16,4,18,5,Fremantle,3,2,5,3,7,4,10,7
+18,Carrara,2023-07-15 14:10,2023,Gold Coast,3,2,5,6,9,7,11,11,St Kilda,0,1,2,2,5,3,8,3
+18,Docklands,2023-07-15 16:35,2023,Carlton,3,6,9,8,14,10,18,14,Port Adelaide,2,2,4,7,9,9,10,12
+18,Kardinia Park,2023-07-15 19:25,2023,Geelong,7,5,9,10,14,11,18,14,Essendon,0,1,3,2,4,2,7,3
+18,Adelaide Oval,2023-07-15 19:10,2023,Adelaide,4,3,6,5,8,8,8,9,Greater Western Sydney,3,4,3,6,5,9,10,11
+18,Docklands,2023-07-16 13:10,2023,North Melbourne,1,1,4,1,5,2,6,4,Hawthorn,3,8,3,13,8,14,12,16
+18,Perth Stadium,2023-07-16 14:40,2023,West Coast,1,1,2,5,6,8,8,12,Richmond,2,6,5,9,10,13,14,14
+19,Docklands,2023-07-21 19:50,2023,Essendon,3,2,5,3,6,5,7,7,Western Bulldogs,1,3,7,5,9,7,13,12
+19,M.C.G.,2023-07-22 13:45,2023,Richmond,3,2,6,6,9,9,14,12,Hawthorn,4,2,10,3,15,3,15,5
+19,Docklands,2023-07-22 14:10,2023,Carlton,9,5,15,8,17,11,21,14,West Coast,0,2,2,4,5,8,10,9
+19,Gabba,2023-07-22 16:35,2023,Brisbane Lions,2,5,4,8,7,9,9,10,Geelong,0,3,1,5,3,8,7,11
+19,Perth Stadium,2023-07-22 17:40,2023,Fremantle,2,1,5,1,9,2,12,4,Sydney,6,2,10,5,13,7,16,9
+19,Adelaide Oval,2023-07-22 19:10,2023,Port Adelaide,4,0,6,4,9,9,12,11,Collingwood,4,3,5,3,7,4,13,7
+19,Manuka Oval,2023-07-23 13:10,2023,Greater Western Sydney,3,2,6,7,12,8,15,13,Gold Coast,4,3,6,5,7,7,9,9
+19,M.C.G.,2023-07-23 15:20,2023,Melbourne,2,2,6,4,11,7,14,13,Adelaide,1,4,3,9,6,13,13,15
+19,Docklands,2023-07-23 16:40,2023,St Kilda,3,3,3,7,4,12,9,15,North Melbourne,2,0,6,1,8,4,9,7
+20,M.C.G.,2023-07-28 19:50,2023,Collingwood,3,4,4,6,6,11,10,16,Carlton,3,4,7,5,10,6,14,9
+20,Eureka Stadium,2023-07-29 13:45,2023,Western Bulldogs,3,5,6,10,9,10,10,13,Greater Western Sydney,1,3,2,5,8,8,11,12
+20,Kardinia Park,2023-07-29 13:45,2023,Geelong,2,2,5,4,6,10,9,10,Fremantle,0,2,5,5,7,7,10,11
+20,Carrara,2023-07-29 16:35,2023,Gold Coast,2,2,5,3,10,3,15,6,Brisbane Lions,3,3,4,6,6,10,7,13
+20,Docklands,2023-07-29 19:25,2023,Essendon,5,2,7,4,10,6,15,9,Sydney,5,1,10,5,14,7,15,11
+20,Adelaide Oval,2023-07-29 19:10,2023,Adelaide,4,2,8,8,11,11,16,16,Port Adelaide,2,2,4,3,7,7,9,11
+20,Docklands,2023-07-30 13:10,2023,Hawthorn,3,1,6,4,12,6,14,9,St Kilda,9,2,11,3,14,5,19,8
+20,M.C.G.,2023-07-30 15:20,2023,Richmond,5,4,9,7,13,8,15,8,Melbourne,3,5,8,5,14,6,20,10
+20,Perth Stadium,2023-07-30 14:40,2023,West Coast,4,2,7,5,10,11,10,12,North Melbourne,1,1,6,4,6,4,10,7
+21,Docklands,2023-08-04 19:50,2023,Western Bulldogs,9,3,12,5,16,7,19,12,Richmond,2,1,5,5,7,8,10,11
+21,Docklands,2023-08-05 13:45,2023,Essendon,1,6,7,8,8,10,10,13,West Coast,2,2,4,3,6,5,11,6
+21,Adelaide Oval,2023-08-05 13:40,2023,Adelaide,5,2,8,4,8,11,13,11,Gold Coast,0,3,3,6,6,6,9,7
+21,M.C.G.,2023-08-05 16:35,2023,Hawthorn,4,2,6,4,12,7,16,9,Collingwood,0,3,4,5,8,5,11,7
+21,Kardinia Park,2023-08-05 19:25,2023,Geelong,7,2,9,5,10,9,14,13,Port Adelaide,5,1,6,6,10,8,12,13
+21,Sydney Showground,2023-08-05 19:30,2023,Greater Western Sydney,4,2,7,6,10,9,12,13,Sydney,5,0,11,0,13,2,15,6
+21,Bellerive Oval,2023-08-06 13:10,2023,North Melbourne,5,5,8,8,9,9,10,11,Melbourne,1,3,8,4,14,7,15,13
+21,Docklands,2023-08-06 15:20,2023,St Kilda,3,1,7,2,8,3,8,6,Carlton,2,4,3,4,6,7,10,13
+21,Perth Stadium,2023-08-06 14:40,2023,Fremantle,2,2,5,4,8,8,11,8,Brisbane Lions,1,4,3,5,8,8,11,11
+22,M.C.G.,2023-08-11 19:50,2023,Collingwood,3,4,7,8,13,11,16,13,Geelong,6,2,8,3,10,5,15,11
+22,Docklands,2023-08-12 13:45,2023,North Melbourne,3,0,6,1,9,3,12,5,Essendon,2,1,5,2,10,4,13,8
+22,S.C.G.,2023-08-12 13:45,2023,Sydney,3,2,9,2,15,4,18,6,Gold Coast,4,1,9,4,11,6,13,12
+22,Gabba,2023-08-12 16:35,2023,Brisbane Lions,4,4,7,6,14,8,15,9,Adelaide,4,1,7,7,11,10,13,15
+22,M.C.G.,2023-08-12 19:30,2023,Carlton,1,3,3,5,6,6,9,6,Melbourne,1,0,3,3,6,6,8,8
+22,Perth Stadium,2023-08-12 18:10,2023,West Coast,2,2,2,5,2,6,4,9,Fremantle,4,4,10,8,17,11,20,14
+22,York Park,2023-08-13 13:10,2023,Hawthorn,1,1,4,8,6,9,9,13,Western Bulldogs,4,3,6,5,6,8,9,10
+22,Docklands,2023-08-13 15:20,2023,St Kilda,5,0,10,2,13,6,14,9,Richmond,2,1,5,3,6,5,8,9
+22,Adelaide Oval,2023-08-13 16:10,2023,Port Adelaide,7,3,10,7,16,9,21,10,Greater Western Sydney,3,0,4,2,8,5,13,7
+23,Docklands,2023-08-18 19:50,2023,Collingwood,4,2,6,5,12,7,15,10,Brisbane Lions,6,2,9,3,14,7,19,10
+23,M.C.G.,2023-08-19 13:45,2023,Richmond,3,2,10,5,11,10,14,17,North Melbourne,2,3,6,7,10,7,10,12
+23,Carrara,2023-08-19 14:10,2023,Gold Coast,6,5,7,7,9,7,13,9,Carlton,1,2,7,5,8,12,13,13
+23,Sydney Showground,2023-08-19 16:35,2023,Greater Western Sydney,7,3,13,5,20,6,25,12,Essendon,1,0,2,1,4,4,5,6
+23,Docklands,2023-08-19 19:25,2023,St Kilda,4,3,6,8,9,14,12,16,Geelong,2,3,4,4,6,5,8,7
+23,Adelaide Oval,2023-08-19 19:10,2023,Adelaide,1,3,4,3,6,5,10,13,Sydney,4,3,9,5,11,7,11,8
+23,Docklands,2023-08-20 13:10,2023,Western Bulldogs,3,2,5,7,10,10,12,13,West Coast,5,3,7,6,9,7,14,8
+23,M.C.G.,2023-08-20 15:20,2023,Melbourne,3,2,6,5,10,6,13,9,Hawthorn,4,2,6,3,8,5,9,6
+23,Perth Stadium,2023-08-20 14:40,2023,Fremantle,2,4,4,7,5,8,8,10,Port Adelaide,2,3,6,4,9,6,11,8
+24,M.C.G.,2023-08-25 19:50,2023,Essendon,0,2,2,4,2,10,3,13,Collingwood,8,1,12,2,14,3,16,5
+24,M.C.G.,2023-08-26 13:45,2023,Hawthorn,2,0,4,1,7,4,8,8,Fremantle,3,4,8,6,11,8,14,9
+24,Bellerive Oval,2023-08-26 13:45,2023,North Melbourne,2,3,7,6,13,7,20,12,Gold Coast,4,2,8,6,10,9,14,13
+24,Gabba,2023-08-26 16:35,2023,Brisbane Lions,2,8,4,11,7,11,9,18,St Kilda,3,1,3,3,7,5,9,6
+24,Kardinia Park,2023-08-26 19:25,2023,Geelong,2,5,7,11,10,13,11,13,Western Bulldogs,3,1,6,2,10,5,16,8
+24,Perth Stadium,2023-08-26 18:10,2023,West Coast,3,1,8,3,12,4,12,6,Adelaide,4,5,5,10,11,17,17,21
+24,Adelaide Oval,2023-08-27 12:00,2023,Port Adelaide,4,3,6,7,8,13,13,16,Richmond,3,4,5,11,7,13,8,15
+24,S.C.G.,2023-08-27 15:20,2023,Sydney,2,5,3,8,7,12,7,14,Melbourne,3,2,5,4,7,8,11,11
+24,Docklands,2023-08-27 18:10,2023,Carlton,4,3,7,5,9,5,11,7,Greater Western Sydney,3,2,8,4,13,7,16,9
+Qualifying Final,M.C.G.,2023-09-07 19:20,2023,Collingwood,4,2,5,3,9,4,9,6,Melbourne,1,0,2,4,4,9,7,11
+Elimination Final,M.C.G.,2023-09-08 19:50,2023,Carlton,3,2,7,5,10,6,11,8,Sydney,1,5,2,6,7,9,9,14
+Elimination Final,M.C.G.,2023-09-09 15:20,2023,St Kilda,2,3,6,6,9,8,11,11,Greater Western Sydney,5,3,10,5,13,9,15,11
+Qualifying Final,Gabba,2023-09-09 19:25,2023,Brisbane Lions,3,3,8,4,16,5,19,9,Port Adelaide,1,4,5,6,9,9,11,9
+Semi Final,M.C.G.,2023-09-15 19:50,2023,Melbourne,3,3,4,7,7,11,9,17,Carlton,2,2,5,3,7,5,11,7
+Semi Final,Adelaide Oval,2023-09-16 19:10,2023,Port Adelaide,4,1,5,6,8,7,9,16,Greater Western Sydney,4,4,9,11,11,15,13,15
+Preliminary Final,M.C.G.,2023-09-22 19:50,2023,Collingwood,2,2,2,6,7,7,8,10,Greater Western Sydney,0,3,4,4,6,9,8,9
+Preliminary Final,Gabba,2023-09-23 17:15,2023,Brisbane Lions,1,2,6,6,9,9,11,13,Carlton,5,1,6,3,6,7,9,9
+Grand Final,M.C.G.,2023-09-30 14:30,2023,Collingwood,4,4,9,9,10,15,12,18,Brisbane Lions,3,0,9,3,11,5,13,8

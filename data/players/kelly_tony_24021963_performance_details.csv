@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Collingwood,1983,1,Melbourne,12,W,53,5,2,2,7,,1,,,,,,,,,,,,,,,,,
+Collingwood,1983,2,North Melbourne,17,L,53,4,1,2,6,1,,,,,,,,1,,,,,,,,,,
+Collingwood,1983,3,Footscray,18,W,53,7,2,1,8,2,1,,,,,,,1,1,,,,,,,,,
+Collingwood,1983,4,Richmond,19,W,53,7,1,3,10,,1,,,,,,,2,,,,,,,,,,
+Collingwood,1983,5,Sydney,20,W,53,2,1,2,4,,1,,,,,,,,,,,,,,,,,
+Collingwood,1984,6,Hawthorn,11,L,37,13,9,2,15,,,,,,,,,1,,,,,,,,,,
+Collingwood,1984,7,St Kilda,12,W,37,11,5,3,14,,1,,,,,,,,3,,,,,,,,,
+Collingwood,1984,8,Essendon,13,L,37,6,3,2,8,,,,,,,,,1,1,,,,,,,,,
+Collingwood,1984,9,Sydney,14,W,37,2,2,,2,,,,,,,,,,1,,,,,,,,,
+Collingwood,1985,10,Geelong,13,L,37,7,1,2,9,,,,,,,,,2,1,,,,,,,,,

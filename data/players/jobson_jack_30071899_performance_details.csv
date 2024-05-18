@@ -1,0 +1,8 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Collingwood,1924,1,Carlton,14,W,27,,,,,1,,,,,,,,,,,,,,,,,,
+Collingwood,1924,2,South Melbourne,15,W,27,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1924,3,Geelong,16,L,27,,,,,1,,,,,,,,,,,,,,,,,,
+Collingwood,1924,4,Richmond,17,L,27,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1924,5,Fitzroy,18,W,27,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1925,6,Hawthorn,3,W,27,,,,,,,,,,,,,,,,,,,,,,,
+Hawthorn,1926,7,Carlton,1,L,,,,,,,,,,,,,,,,,,,,,,,,

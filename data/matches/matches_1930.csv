@@ -1,0 +1,113 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Windy Hill,1930-05-03 14:45,1930,Essendon,3,1,3,4,5,6,7,9,Carlton,2,4,2,7,6,10,8,10
+1,Punt Rd,1930-05-03 14:45,1930,Richmond,1,2,4,11,6,13,7,18,Collingwood,3,2,3,6,7,10,10,14
+1,Brunswick St,1930-05-03 14:45,1930,Fitzroy,3,5,4,8,9,14,12,14,Footscray,3,0,7,2,9,3,11,6
+1,Corio Oval,1930-05-03 14:45,1930,Geelong,3,3,9,5,12,8,18,13,North Melbourne,2,2,2,3,2,6,2,7
+1,Glenferrie Oval,1930-05-03 14:45,1930,Hawthorn,3,0,8,4,12,4,16,7,St Kilda,6,2,8,6,14,7,14,8
+1,Lake Oval,1930-05-03 14:45,1930,South Melbourne,2,4,5,9,6,11,9,16,Melbourne,5,3,6,6,8,16,13,17
+2,Princes Park,1930-05-10 14:45,1930,Carlton,4,4,10,9,11,11,17,14,Richmond,3,1,4,3,5,5,7,5
+2,Victoria Park,1930-05-10 14:45,1930,Collingwood,5,4,6,5,7,7,11,12,Hawthorn,3,1,3,7,7,9,10,10
+2,Western Oval,1930-05-10 14:45,1930,Footscray,6,3,7,9,9,11,10,14,Essendon,0,0,4,1,6,1,9,4
+2,Arden St,1930-05-10 14:45,1930,North Melbourne,2,2,3,3,5,8,6,9,Fitzroy,2,3,3,3,7,5,9,11
+2,M.C.G.,1930-05-10 14:45,1930,Melbourne,5,4,7,9,13,13,14,16,Geelong,0,0,3,7,3,11,8,15
+2,Junction Oval,1930-05-10 14:45,1930,St Kilda,6,2,9,5,12,7,16,10,South Melbourne,4,3,6,4,8,5,11,12
+3,Glenferrie Oval,1930-05-17 14:45,1930,Hawthorn,5,3,5,7,6,11,10,12,Carlton,4,1,7,5,8,8,13,9
+3,Lake Oval,1930-05-17 14:45,1930,South Melbourne,5,4,7,5,8,7,12,12,Collingwood,4,5,9,13,11,17,16,19
+3,Punt Rd,1930-05-17 14:45,1930,Richmond,2,5,4,8,8,12,10,17,Essendon,2,3,7,4,10,6,12,7
+3,Brunswick St,1930-05-17 14:45,1930,Fitzroy,2,2,7,4,10,5,15,9,Melbourne,3,6,8,10,11,12,15,14
+3,Arden St,1930-05-17 14:45,1930,North Melbourne,3,3,8,5,10,7,11,8,Footscray,7,4,9,6,14,10,16,20
+3,Corio Oval,1930-05-17 14:45,1930,Geelong,3,2,8,6,9,7,10,10,St Kilda,2,1,4,3,8,5,9,6
+4,Princes Park,1930-05-24 14:45,1930,Carlton,6,5,14,9,17,14,20,18,South Melbourne,2,6,4,11,6,15,11,18
+4,Victoria Park,1930-05-24 14:45,1930,Collingwood,3,1,3,3,6,3,10,12,Geelong,3,5,5,8,9,12,12,18
+4,Windy Hill,1930-05-24 14:45,1930,Essendon,3,6,7,9,11,10,14,12,Hawthorn,2,5,5,9,6,12,8,13
+4,Junction Oval,1930-05-24 14:45,1930,St Kilda,3,4,8,10,12,15,15,18,Fitzroy,1,1,6,2,6,3,8,10
+4,Western Oval,1930-05-24 14:45,1930,Footscray,2,1,3,5,6,7,9,10,Richmond,6,2,8,3,13,3,14,7
+4,M.C.G.,1930-05-24 14:45,1930,Melbourne,3,2,11,4,14,9,18,15,North Melbourne,2,6,8,11,12,12,15,12
+5,Corio Oval,1930-05-31 14:45,1930,Geelong,2,4,2,5,7,9,8,10,Carlton,0,0,4,3,6,5,10,6
+5,Brunswick St,1930-05-31 14:45,1930,Fitzroy,3,1,6,6,7,10,10,11,Collingwood,0,6,4,7,5,10,9,12
+5,Lake Oval,1930-05-31 14:45,1930,South Melbourne,0,5,1,10,5,14,6,15,Essendon,2,4,7,6,10,9,15,14
+5,M.C.G.,1930-05-31 14:45,1930,Melbourne,4,5,7,9,14,15,17,18,Footscray,2,1,5,5,8,7,9,8
+5,Glenferrie Oval,1930-05-31 14:45,1930,Hawthorn,2,2,3,4,4,7,8,11,Richmond,2,4,4,5,9,10,11,11
+5,Arden St,1930-05-31 14:45,1930,North Melbourne,1,2,10,7,10,7,14,15,St Kilda,5,4,7,5,9,9,10,11
+6,Princes Park,1930-06-07 14:45,1930,Carlton,4,5,7,9,11,15,17,16,Fitzroy,1,1,1,2,3,3,6,12
+6,Victoria Park,1930-06-07 14:45,1930,Collingwood,5,7,8,15,12,21,15,24,North Melbourne,2,1,4,2,5,3,8,9
+6,Western Oval,1930-06-07 14:45,1930,Footscray,4,4,5,4,7,9,8,9,Hawthorn,2,0,5,3,7,4,8,8
+6,Windy Hill,1930-06-09 14:45,1930,Essendon,5,1,8,3,13,8,16,11,Geelong,2,4,4,7,6,7,9,12
+6,Junction Oval,1930-06-09 14:45,1930,St Kilda,5,2,5,5,6,10,11,10,Melbourne,3,3,7,6,7,7,10,7
+6,Punt Rd,1930-06-09 14:45,1930,Richmond,5,3,7,7,8,9,11,15,South Melbourne,1,5,3,7,6,12,9,12
+7,Arden St,1930-06-14 14:45,1930,North Melbourne,3,5,5,5,6,8,9,9,Carlton,3,7,8,14,13,17,15,23
+7,M.C.G.,1930-06-14 14:45,1930,Melbourne,3,3,7,7,9,11,11,13,Collingwood,3,6,6,8,11,9,14,13
+7,Brunswick St,1930-06-14 14:45,1930,Fitzroy,1,6,7,8,9,12,13,13,Essendon,3,3,8,8,12,9,16,10
+7,Western Oval,1930-06-14 14:45,1930,Footscray,1,7,4,7,4,13,7,14,St Kilda,0,3,5,6,7,10,10,12
+7,Corio Oval,1930-06-14 14:45,1930,Geelong,1,1,5,11,6,13,9,15,Richmond,4,5,4,6,8,9,10,10
+7,Lake Oval,1930-06-14 14:45,1930,South Melbourne,7,3,12,5,14,8,17,11,Hawthorn,2,2,3,5,6,5,9,10
+8,Princes Park,1930-06-21 14:45,1930,Carlton,4,6,5,8,7,14,9,16,Melbourne,1,6,6,9,8,12,9,18
+8,Victoria Park,1930-06-21 14:45,1930,Collingwood,8,2,10,5,17,9,22,11,St Kilda,4,1,9,3,10,4,14,8
+8,Windy Hill,1930-06-21 14:45,1930,Essendon,3,3,5,8,9,10,11,11,North Melbourne,2,3,3,3,5,6,8,8
+8,Punt Rd,1930-06-21 14:45,1930,Richmond,3,3,7,8,11,12,14,16,Fitzroy,4,3,5,5,7,10,10,12
+8,Lake Oval,1930-06-21 14:45,1930,South Melbourne,4,4,8,10,12,12,15,19,Footscray,4,4,6,7,6,11,8,12
+8,Glenferrie Oval,1930-06-21 14:45,1930,Hawthorn,1,3,5,4,8,11,9,18,Geelong,1,1,2,6,3,8,6,11
+9,Junction Oval,1930-06-28 14:45,1930,St Kilda,4,2,7,3,10,4,12,5,Carlton,4,4,9,6,10,11,13,14
+9,Western Oval,1930-06-28 14:45,1930,Footscray,2,4,2,8,4,13,5,14,Collingwood,3,3,6,6,9,9,19,10
+9,M.C.G.,1930-06-28 14:45,1930,Melbourne,6,2,7,4,11,10,17,12,Essendon,3,5,7,14,9,20,11,22
+9,Brunswick St,1930-06-28 14:45,1930,Fitzroy,8,1,11,3,17,7,18,11,Hawthorn,5,4,6,9,10,11,13,17
+9,Corio Oval,1930-06-28 14:45,1930,Geelong,2,2,9,4,12,9,14,12,South Melbourne,6,1,8,3,10,4,11,6
+9,Arden St,1930-06-28 14:45,1930,North Melbourne,1,0,2,4,3,6,5,13,Richmond,2,10,4,14,10,19,14,20
+10,Princes Park,1930-07-05 14:45,1930,Carlton,3,4,5,8,9,14,16,20,Collingwood,3,3,8,11,12,13,16,16
+10,Windy Hill,1930-07-05 14:45,1930,Essendon,6,5,7,12,9,18,13,20,St Kilda,3,5,5,8,5,15,9,20
+10,Lake Oval,1930-07-05 14:45,1930,South Melbourne,2,1,4,8,10,12,13,16,Fitzroy,2,3,6,6,10,8,12,12
+10,Corio Oval,1930-07-05 14:45,1930,Geelong,6,2,7,5,11,5,15,8,Footscray,2,3,4,8,6,10,7,16
+10,Glenferrie Oval,1930-07-05 14:45,1930,Hawthorn,2,5,6,6,8,9,11,15,North Melbourne,0,3,7,7,10,10,11,11
+10,Punt Rd,1930-07-05 14:45,1930,Richmond,4,3,8,7,12,16,14,20,Melbourne,1,4,3,5,4,7,7,10
+11,Western Oval,1930-07-12 14:45,1930,Footscray,3,2,4,2,5,2,8,3,Carlton,4,3,5,6,10,11,12,14
+11,Victoria Park,1930-07-12 14:45,1930,Collingwood,3,9,7,10,9,13,14,14,Essendon,0,3,4,6,5,10,9,14
+11,Brunswick St,1930-07-12 14:45,1930,Fitzroy,0,1,3,4,3,9,8,14,Geelong,3,4,5,6,9,11,10,15
+11,M.C.G.,1930-07-12 14:45,1930,Melbourne,3,3,5,4,8,9,12,10,Hawthorn,1,0,5,4,6,4,6,5
+11,Arden St,1930-07-12 14:45,1930,North Melbourne,0,1,1,1,2,5,6,9,South Melbourne,2,7,3,16,7,17,10,20
+11,Junction Oval,1930-07-12 14:45,1930,St Kilda,2,2,4,4,5,5,5,6,Richmond,0,3,4,8,5,12,7,18
+12,Princes Park,1930-07-19 14:45,1930,Carlton,4,5,5,7,10,14,15,16,Geelong,3,2,6,9,9,10,13,13
+12,Victoria Park,1930-07-19 14:45,1930,Collingwood,5,5,9,8,16,14,25,17,Fitzroy,2,5,6,11,9,13,13,16
+12,Windy Hill,1930-07-19 14:45,1930,Essendon,2,2,8,8,11,15,15,16,South Melbourne,6,3,7,4,11,9,16,12
+12,Western Oval,1930-07-19 14:45,1930,Footscray,1,2,6,6,7,8,8,10,Melbourne,2,4,3,7,4,15,7,19
+12,Punt Rd,1930-07-19 14:45,1930,Richmond,3,3,5,7,9,13,15,19,Hawthorn,2,1,4,4,5,7,7,7
+12,Junction Oval,1930-07-19 14:45,1930,St Kilda,4,4,8,7,13,11,18,15,North Melbourne,1,1,2,4,5,6,7,6
+13,Brunswick St,1930-07-26 14:45,1930,Fitzroy,2,3,5,6,7,7,10,9,Carlton,1,3,3,7,4,15,10,16
+13,Arden St,1930-07-26 14:45,1930,North Melbourne,1,2,4,6,4,10,4,15,Collingwood,7,1,11,4,16,11,18,13
+13,Corio Oval,1930-07-26 14:45,1930,Geelong,4,4,6,8,11,13,13,14,Essendon,1,4,3,4,5,6,9,9
+13,Glenferrie Oval,1930-07-26 14:45,1930,Hawthorn,2,6,5,6,8,10,11,10,Footscray,2,2,6,4,8,6,11,7
+13,M.C.G.,1930-07-26 14:45,1930,Melbourne,1,4,3,5,7,8,12,10,St Kilda,2,2,4,4,7,9,9,11
+13,Lake Oval,1930-07-26 14:45,1930,South Melbourne,3,3,4,6,7,8,11,11,Richmond,1,3,3,4,6,8,10,11
+14,Princes Park,1930-08-16 14:45,1930,Carlton,5,2,10,8,16,12,23,17,North Melbourne,0,1,1,3,2,6,3,9
+14,Victoria Park,1930-08-16 14:45,1930,Collingwood,3,4,3,8,7,11,15,14,Melbourne,1,3,3,3,7,6,8,9
+14,Windy Hill,1930-08-16 14:45,1930,Essendon,2,4,4,9,8,15,12,19,Fitzroy,0,2,5,5,8,6,10,11
+14,Junction Oval,1930-08-16 14:45,1930,St Kilda,1,5,3,5,9,7,9,7,Footscray,1,4,4,8,4,8,7,10
+14,Punt Rd,1930-08-16 14:45,1930,Richmond,4,3,5,4,7,6,9,11,Geelong,2,3,5,6,9,9,10,11
+14,Glenferrie Oval,1930-08-16 14:45,1930,Hawthorn,1,2,6,5,8,6,11,7,South Melbourne,5,4,8,5,9,7,14,10
+15,M.C.G.,1930-08-23 14:45,1930,Melbourne,3,5,6,6,8,8,12,11,Carlton,3,2,6,5,8,8,11,11
+15,Junction Oval,1930-08-23 14:45,1930,St Kilda,1,1,5,3,10,6,14,7,Collingwood,4,2,10,6,11,8,17,13
+15,Arden St,1930-08-23 14:45,1930,North Melbourne,0,5,2,6,5,11,6,12,Essendon,1,3,5,5,7,7,14,11
+15,Brunswick St,1930-08-23 14:45,1930,Fitzroy,0,2,5,2,8,5,11,5,Richmond,1,1,4,2,5,6,8,12
+15,Western Oval,1930-08-23 14:45,1930,Footscray,5,3,5,5,6,12,8,18,South Melbourne,1,2,4,10,8,14,11,18
+15,Corio Oval,1930-08-23 14:45,1930,Geelong,3,4,7,9,11,13,18,17,Hawthorn,2,1,2,1,4,5,6,7
+16,Princes Park,1930-08-30 14:45,1930,Carlton,3,7,7,7,11,12,16,12,St Kilda,1,3,6,5,8,6,15,7
+16,Victoria Park,1930-08-30 14:45,1930,Collingwood,2,8,7,13,13,19,16,20,Footscray,1,2,6,8,7,8,10,17
+16,Windy Hill,1930-08-30 14:45,1930,Essendon,3,0,7,4,9,6,13,11,Melbourne,6,3,6,5,11,7,12,7
+16,Glenferrie Oval,1930-08-30 14:45,1930,Hawthorn,1,6,3,8,3,14,3,16,Fitzroy,3,3,10,5,12,6,15,14
+16,Lake Oval,1930-08-30 14:45,1930,South Melbourne,2,7,5,9,12,15,12,16,Geelong,1,4,5,6,10,7,15,14
+16,Punt Rd,1930-08-30 14:45,1930,Richmond,5,6,8,8,14,12,20,15,North Melbourne,2,1,3,5,4,7,5,10
+17,Victoria Park,1930-09-06 14:45,1930,Collingwood,4,2,9,5,14,7,16,10,Carlton,2,2,7,8,10,10,12,11
+17,Junction Oval,1930-09-06 14:45,1930,St Kilda,1,1,5,7,9,9,12,18,Essendon,2,8,3,9,6,10,7,11
+17,Brunswick St,1930-09-06 14:45,1930,Fitzroy,4,8,8,11,12,16,15,19,South Melbourne,4,0,7,2,11,6,14,8
+17,Western Oval,1930-09-06 14:45,1930,Footscray,0,1,9,4,10,6,15,8,Geelong,4,5,7,10,10,14,11,15
+17,Arden St,1930-09-06 14:45,1930,North Melbourne,2,3,3,6,7,8,7,9,Hawthorn,2,1,3,6,6,7,9,12
+17,M.C.G.,1930-09-06 14:45,1930,Melbourne,2,1,4,6,5,7,8,14,Richmond,3,5,5,7,8,13,12,14
+18,Princes Park,1930-09-13 14:45,1930,Carlton,6,8,6,9,8,19,10,22,Footscray,0,0,1,3,1,4,3,8
+18,Windy Hill,1930-09-13 14:45,1930,Essendon,0,1,4,3,5,4,10,6,Collingwood,6,6,7,7,15,7,17,7
+18,Corio Oval,1930-09-13 14:45,1930,Geelong,3,6,4,8,7,13,10,18,Fitzroy,2,4,2,7,4,11,4,14
+18,Glenferrie Oval,1930-09-13 14:45,1930,Hawthorn,5,8,5,10,10,18,12,18,Melbourne,1,0,4,9,6,11,10,17
+18,Lake Oval,1930-09-13 14:45,1930,South Melbourne,3,2,5,9,6,13,15,19,North Melbourne,3,3,3,4,4,5,5,6
+18,Punt Rd,1930-09-13 14:45,1930,Richmond,0,2,5,4,6,8,7,11,St Kilda,1,4,2,7,5,11,8,15
+Semi Final,M.C.G.,1930-09-20 14:30,1930,Carlton,3,1,4,14,7,16,8,21,Geelong,0,2,3,5,10,7,13,11
+Semi Final,M.C.G.,1930-09-27 14:30,1930,Collingwood,2,3,5,5,13,7,14,10,Richmond,2,1,9,3,10,3,14,7
+Preliminary Final,M.C.G.,1930-10-04 14:30,1930,Collingwood,0,1,3,5,7,7,9,11,Geelong,4,7,8,12,9,14,12,19
+Grand Final,M.C.G.,1930-10-11 14:50,1930,Collingwood,3,2,3,7,11,13,14,16,Geelong,2,5,6,10,6,11,9,16

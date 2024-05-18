@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Geelong,1980,1,Footscray,22,W,13,12,5,8,20,,,,,,,,,4,1,,,,,,,,,
+Geelong,1980,2,Collingwood,PF,L,13,6,1,2,8,,,,,,,,,1,2,,,,,,,,,
+Fitzroy,1982,3,Melbourne,8,L,31,3,,2,5,,,,,,,,,1,1,,,,,,,,,
+Fitzroy,1982,4,St Kilda,9,W,31,1,,,1,,,,,,,,,,,,,,,,,,,
+Fitzroy,1982,5,North Melbourne,13,L,31,4,1,2,6,,,,,,,,,1,1,,,,,,,,,
+Fitzroy,1982,6,Sydney,14,L,31,7,2,4,11,,,,,,,,,2,,,,,,,,,,
+Fitzroy,1982,7,Essendon,15,L,31,3,2,,3,1,,,,,,,,1,3,,,,,,,,,
+Fitzroy,1982,8,Hawthorn,17,W,31,3,1,,3,,,,,,,,,,,,,,,,,,,
+Fitzroy,1982,9,Melbourne,18,W,31,3,,,3,,,,,,,,,1,1,,,,,,,,,

@@ -1,0 +1,72 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Brunswick St,1901-05-04 15:00,1901,Fitzroy,2,3,4,8,6,11,8,13,Carlton,0,5,0,5,1,6,2,7
+1,East Melbourne,1901-05-04 15:00,1901,Essendon,0,4,0,6,0,10,1,15,Collingwood,3,2,3,4,7,7,9,10
+1,Corio Oval,1901-05-04 15:00,1901,Geelong,0,1,0,4,1,5,2,11,Melbourne,2,1,2,1,3,3,3,3
+1,Junction Oval,1901-05-04 15:00,1901,St Kilda,2,0,3,2,3,2,6,5,South Melbourne,3,3,3,5,5,12,6,13
+2,Victoria Park,1901-05-09 15:00,1901,Collingwood,0,1,5,5,7,6,13,16,Carlton,0,5,0,5,0,7,0,7
+2,Junction Oval,1901-05-09 15:00,1901,St Kilda,0,0,1,1,1,1,3,1,Essendon,3,2,3,3,6,10,9,14
+2,Brunswick St,1901-05-09 15:00,1901,Fitzroy,5,5,5,5,5,7,5,8,Geelong,1,2,5,9,5,10,6,12
+2,M.C.G.,1901-05-09 15:00,1901,Melbourne,3,4,3,4,4,6,5,6,South Melbourne,0,3,3,7,4,8,5,10
+3,Princes Park,1901-05-11 15:00,1901,Carlton,1,3,2,7,2,7,3,8,Geelong,1,2,2,5,5,12,7,13
+3,Lake Oval,1901-05-11 15:00,1901,South Melbourne,5,4,7,4,9,4,9,4,Collingwood,0,0,0,4,0,8,6,11
+3,East Melbourne,1901-05-11 15:00,1901,Essendon,3,2,4,4,6,7,6,8,Fitzroy,1,2,3,4,5,4,7,5
+3,M.C.G.,1901-05-11 15:00,1901,Melbourne,2,7,4,9,6,16,7,16,St Kilda,1,0,3,0,3,0,3,3
+4,Princes Park,1901-05-18 15:00,1901,Carlton,1,1,2,2,4,3,4,3,South Melbourne,2,2,2,4,3,5,3,7
+4,Victoria Park,1901-05-18 15:00,1901,Collingwood,2,2,3,5,4,6,6,8,Melbourne,1,1,1,1,2,1,3,4
+4,Corio Oval,1901-05-18 15:00,1901,Geelong,1,4,1,9,3,10,4,10,Essendon,1,0,1,2,2,4,4,6
+4,Brunswick St,1901-05-18 15:00,1901,Fitzroy,2,4,7,6,9,12,15,16,St Kilda,1,1,2,3,2,5,3,5
+5,Princes Park,1901-05-25 15:00,1901,Carlton,1,5,3,6,5,10,5,10,St Kilda,0,1,1,2,1,3,2,8
+5,Corio Oval,1901-05-25 15:00,1901,Geelong,0,1,2,6,2,6,3,6,Collingwood,3,3,3,4,4,7,4,8
+5,East Melbourne,1901-05-25 15:00,1901,Essendon,1,1,1,4,3,4,7,8,Melbourne,1,2,2,2,2,5,3,6
+5,Lake Oval,1901-05-25 15:00,1901,South Melbourne,2,0,2,1,3,5,3,7,Fitzroy,2,1,4,4,5,5,6,5
+6,M.C.G.,1901-06-01 15:00,1901,Melbourne,2,1,4,3,7,5,7,7,Carlton,0,3,3,3,5,4,5,4
+6,Victoria Park,1901-06-01 15:00,1901,Collingwood,2,2,4,4,5,10,7,13,Fitzroy,0,3,3,5,5,7,6,9
+6,Lake Oval,1901-06-01 15:00,1901,South Melbourne,1,1,3,1,5,3,5,5,Essendon,1,6,1,12,1,16,3,23
+6,Junction Oval,1901-06-01 15:00,1901,St Kilda,0,5,1,5,2,5,2,5,Geelong,3,0,7,4,9,5,11,12
+7,East Melbourne,1901-06-03 15:00,1901,Essendon,4,4,10,7,13,9,15,15,Carlton,1,1,2,3,3,5,3,7
+7,Junction Oval,1901-06-03 15:00,1901,St Kilda,1,1,2,1,3,1,3,1,Collingwood,1,3,2,5,5,9,7,11
+7,Brunswick St,1901-06-03 15:00,1901,Fitzroy,1,0,3,2,5,3,5,6,Melbourne,3,2,4,3,5,5,5,6
+7,Corio Oval,1901-06-03 15:00,1901,Geelong,4,5,7,7,8,10,9,11,South Melbourne,0,0,0,0,1,1,3,4
+8,Princes Park,1901-06-08 15:00,1901,Carlton,1,2,2,2,3,5,5,7,Fitzroy,0,5,2,6,4,7,6,8
+8,Victoria Park,1901-06-08 15:00,1901,Collingwood,1,0,2,4,6,6,7,7,Essendon,5,3,6,5,7,5,7,6
+8,M.C.G.,1901-06-08 15:00,1901,Melbourne,2,1,5,2,6,3,7,4,Geelong,2,0,4,2,5,3,9,5
+8,Lake Oval,1901-06-08 15:00,1901,South Melbourne,0,1,0,4,3,6,7,14,St Kilda,0,1,1,1,1,1,1,1
+9,Princes Park,1901-06-22 15:00,1901,Carlton,0,1,2,2,3,5,6,6,Collingwood,3,1,7,5,9,6,9,9
+9,East Melbourne,1901-06-22 15:00,1901,Essendon,2,2,6,10,10,13,19,22,St Kilda,2,1,2,1,4,4,4,5
+9,Corio Oval,1901-06-22 15:00,1901,Geelong,4,3,5,6,6,12,6,16,Fitzroy,1,1,4,2,5,2,8,3
+9,Lake Oval,1901-06-22 15:00,1901,South Melbourne,1,2,3,5,5,6,6,9,Melbourne,2,3,5,3,9,6,9,7
+10,Corio Oval,1901-06-29 15:00,1901,Geelong,1,6,1,7,6,12,8,15,Carlton,0,1,2,5,3,5,4,7
+10,Victoria Park,1901-06-29 15:00,1901,Collingwood,3,0,3,0,4,0,5,1,South Melbourne,0,1,1,4,3,7,7,9
+10,Brunswick St,1901-06-29 15:00,1901,Fitzroy,3,1,6,6,6,7,6,8,Essendon,7,2,10,3,13,5,14,8
+10,Junction Oval,1901-06-29 15:00,1901,St Kilda,2,0,3,3,3,3,4,4,Melbourne,1,4,1,9,2,13,4,14
+11,Lake Oval,1901-07-06 15:00,1901,South Melbourne,2,2,4,3,5,7,10,10,Carlton,0,1,3,1,3,2,3,2
+11,M.C.G.,1901-07-06 15:00,1901,Melbourne,1,1,1,5,2,6,5,6,Collingwood,1,4,2,8,3,10,4,11
+11,East Melbourne,1901-07-06 15:00,1901,Essendon,2,1,2,7,4,11,6,13,Geelong,0,1,1,1,1,5,2,12
+11,Junction Oval,1901-07-06 15:00,1901,St Kilda,0,4,1,6,3,7,4,10,Fitzroy,3,0,5,4,7,6,11,7
+12,Junction Oval,1901-07-13 15:00,1901,St Kilda,6,3,6,5,6,6,7,8,Carlton,0,2,3,3,4,5,4,8
+12,Victoria Park,1901-07-13 15:00,1901,Collingwood,3,0,5,2,6,5,6,5,Geelong,3,2,7,4,9,6,12,11
+12,M.C.G.,1901-07-13 15:00,1901,Melbourne,1,2,2,6,4,6,6,6,Essendon,1,2,3,4,4,6,4,9
+12,Brunswick St,1901-07-13 15:00,1901,Fitzroy,1,4,5,6,6,8,9,11,South Melbourne,1,3,3,4,9,6,12,7
+13,Princes Park,1901-07-20 15:00,1901,Carlton,1,0,1,1,2,5,5,6,Melbourne,2,3,5,3,6,6,6,6
+13,Brunswick St,1901-07-20 15:00,1901,Fitzroy,0,1,1,4,2,7,2,7,Collingwood,0,1,1,4,3,6,3,6
+13,East Melbourne,1901-07-20 15:00,1901,Essendon,2,7,2,11,5,15,6,16,South Melbourne,0,0,3,2,4,2,8,3
+13,Corio Oval,1901-07-20 15:00,1901,Geelong,3,2,4,2,8,5,8,7,St Kilda,0,1,4,4,4,4,4,5
+14,Princes Park,1901-07-27 15:00,1901,Carlton,0,0,1,1,2,1,3,2,Essendon,2,6,5,8,7,11,11,13
+14,Victoria Park,1901-07-27 15:00,1901,Collingwood,3,7,5,9,9,16,10,20,St Kilda,1,1,1,4,1,5,1,7
+14,M.C.G.,1901-07-27 15:00,1901,Melbourne,0,1,3,1,3,3,4,5,Fitzroy,0,5,0,7,1,10,2,11
+14,Lake Oval,1901-07-27 15:00,1901,South Melbourne,2,4,3,9,3,9,6,9,Geelong,2,3,2,5,5,11,6,13
+15,Princes Park,1901-08-10 14:30,1901,Carlton,0,2,0,2,2,3,3,5,Geelong,1,2,3,6,4,12,6,18
+15,Victoria Park,1901-08-10 14:30,1901,Collingwood,1,3,6,3,6,5,6,8,Melbourne,2,3,3,6,3,7,3,10
+15,Lake Oval,1901-08-10 14:30,1901,South Melbourne,1,0,1,1,1,2,1,3,Essendon,2,2,5,5,6,9,10,9
+15,Junction Oval,1901-08-10 14:30,1901,St Kilda,0,1,1,1,4,2,4,3,Fitzroy,4,4,9,8,11,10,14,15
+16,East Melbourne,1901-08-17 14:30,1901,Essendon,4,5,7,11,8,15,14,18,Carlton,1,1,3,3,4,3,5,3
+16,Brunswick St,1901-08-17 14:30,1901,Fitzroy,3,4,3,4,4,4,7,6,Collingwood,0,1,1,2,1,5,2,6
+16,Corio Oval,1901-08-17 14:30,1901,Geelong,1,3,3,6,5,10,7,12,South Melbourne,2,2,3,2,3,5,4,6
+16,Lake Oval,1901-08-17 14:30,1901,Melbourne,3,1,10,1,13,4,19,10,St Kilda,0,2,0,2,2,2,3,4
+17,Princes Park,1901-08-24 14:30,1901,Carlton,0,1,0,1,1,4,3,6,South Melbourne,2,4,3,8,4,10,4,13
+17,Victoria Park,1901-08-24 14:30,1901,Collingwood,3,3,8,13,13,18,20,23,St Kilda,0,1,0,2,2,2,2,3
+17,Corio Oval,1901-08-24 14:30,1901,Geelong,1,2,3,3,4,3,5,3,Essendon,1,2,4,7,7,10,9,12
+17,Brunswick St,1901-08-24 14:30,1901,Fitzroy,0,3,1,5,1,7,4,13,Melbourne,2,0,2,2,2,6,3,6
+Semi Final,East Melbourne,1901-08-31 14:30,1901,Geelong,0,2,1,3,3,4,3,6,Collingwood,2,3,3,5,5,8,6,9
+Semi Final,Victoria Park,1901-08-31 14:30,1901,Essendon,0,1,3,2,5,7,6,10,Fitzroy,2,4,2,6,3,8,6,9
+Grand Final,Lake Oval,1901-09-07 14:50,1901,Essendon,3,0,5,2,5,4,6,7,Collingwood,0,1,0,3,2,3,2,4

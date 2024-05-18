@@ -1,0 +1,7 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Geelong,1969,1,Footscray,16,W,11,1,1,,1,,,,,,,,,,,,,,,,,,,
+Geelong,1969,2,North Melbourne,18,W,11,,,,,,,,,,,,,,1,,,,,,,,,
+Geelong,1970,3,South Melbourne,20,L,11,3,,,3,,,,,,,,,,,,,,,,,,,
+Geelong,1970,4,Melbourne,21,W,11,16,2,1,17,1,2,,,,,,,6,2,,,,,,,,,
+Geelong,1970,5,North Melbourne,22,L,11,7,1,,7,,1,,,,,,,2,3,,,,,,,,,
+Geelong,1971,6,St Kilda,12,L,19,11,3,2,13,,2,,,,,,,2,4,,,,,,,,,

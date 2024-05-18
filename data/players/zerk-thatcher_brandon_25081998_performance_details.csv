@@ -1,0 +1,61 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Essendon,2019,1,Fremantle,22,W,30,10,6,1,11,,,,3,4,1,,4,,2,,3,8,1,,7,,,74
+Essendon,2020,2,Fremantle,1,W,30,7,3,5,12,,,,,1,,,1,,,,1,10,,,4,,,91
+Essendon,2020,3,Brisbane Lions,9,L,30,5,2,2,7,,,,,,,,,1,,,3,4,,,4,,,73
+Essendon,2020,4,Greater Western Sydney,10,L,30,9,8,7,16,,,,2,2,,,2,2,1,,6,10,,,3,,,90
+Essendon,2020,5,Gold Coast,11,D,30,1,1,2,3,,,,1,,,,2,,1,,3,,1,,1,,,88
+Essendon,2020,6,St Kilda,12,L,30,5,4,4,9,,,,,1,,,2,1,1,,1,8,,,4,1,,95
+Essendon,2020,7,Hawthorn,14,W,30,5,3,2,7,,,,,2,1,,,1,,,3,5,1,,2,,,76
+Essendon,2020,8,West Coast,15,L,30,3,1,4,7,,,,1,,,,1,1,1,,3,4,,,5,,,91
+Essendon,2020,9,Geelong,16,L,30,2,3,1,3,,1,,2,1,,,1,,,,,3,,1,3,,,79
+Essendon,2020,10,Port Adelaide,17,L,30,,,4,4,,,,1,,,,,,,,3,1,,,9,,,100
+Essendon,2020,11,Melbourne,18,L,30,9,5,5,14,,1,,1,4,,,1,,1,,2,11,,,2,,,98
+Essendon,2021,12,St Kilda,3,W,30,8,3,7,15,,,1,1,3,1,,4,1,2,,3,12,,,4,,,91
+Essendon,2021,13,Sydney,4,L,30,3,1,3,6,,,,4,1,,1,,,,,1,4,,,5,,,79
+Essendon,2021,14,Collingwood,6,W,30,9,6,,9,,,,2,3,,,4,1,2,,1,8,1,,2,,,85
+Essendon,2021,15,West Coast,11,W,30,5,2,3,8,,,,2,3,,,2,1,1,,2,6,,,5,,,67
+Essendon,2021,16,Hawthorn,14,W,30,5,4,4,9,,,,2,2,,2,1,,1,,3,6,,,3,,,86
+Essendon,2021,17,Melbourne,15,L,30,6,6,7,13,,,,,3,,,2,,,,3,9,1,,2,,,84
+Essendon,2022,18,Adelaide,4,W,30,7,5,3,10,,,,,2,2,,2,1,1,,3,8,,,8,,,91
+Essendon,2022,19,Fremantle,5,L,30,9,6,11,20,,,,1,2,,,4,,1,,4,17,,,6,,,97
+Essendon,2022,20,Collingwood,6,L,30,4,3,6,10,,,,1,2,,2,2,,,,4,5,,,9,,,97
+Essendon,2022,21,Hawthorn,8,W,30,2,1,3,5,,,,,,,,,,,,1,3,,,4,,,85
+Essendon,2022,22,Sydney,16,W,30,13,9,5,18,,,,3,7,,1,3,1,,,4,12,,,4,,,78
+Essendon,2022,23,Brisbane Lions,17,W,30,9,7,12,21,,,,2,6,1,1,,2,,,5,16,,,3,,,91
+Essendon,2022,24,Gold Coast,18,W,30,8,5,4,12,,,,1,5,,,1,1,,,2,9,,,7,1,,89
+Essendon,2022,25,Collingwood,19,L,30,6,4,1,7,,,,2,,,,2,,2,,2,5,1,,9,,,95
+Essendon,2022,26,North Melbourne,20,W,30,10,8,4,14,,,,,1,,,,,,,4,11,,,11,,,87
+Essendon,2022,27,Greater Western Sydney,21,L,30,16,9,,16,,,,1,7,,,3,2,1,,4,10,1,,2,,,78
+Essendon,2022,28,Port Adelaide,22,L,30,12,10,1,13,,,,1,4,,,,,,,2,11,1,,4,,,88
+Essendon,2022,29,Richmond,23,L,30,4,3,2,6,,,,,,,,2,2,1,,3,5,1,,4,,,94
+Essendon,2023,30,Hawthorn,1,W,30,12,8,7,19,,,,,3,2,,4,,2,,10,11,1,,6,,,88
+Essendon,2023,31,Gold Coast,2,W,30,5,6,6,11,,,,1,3,,,1,,1,,5,8,1,,8,,,79
+Essendon,2023,32,Greater Western Sydney,4,W,30,5,4,3,8,,,,2,1,1,,3,,1,,5,4,2,,12,,,88
+Essendon,2023,33,Melbourne,5,W,30,7,4,3,10,,,,2,1,,,2,1,1,,3,7,,,4,,,76
+Essendon,2023,34,Collingwood,6,L,30,2,,4,6,,,,1,1,1,,1,1,,,4,2,,,2,,,92
+Essendon,2023,35,Geelong,7,L,30,4,2,4,8,,,,5,2,,,2,1,1,,7,1,1,,6,,,90
+Essendon,2023,36,Port Adelaide,8,L,30,8,3,5,13,,,,1,6,,2,6,,1,,6,6,,,6,,,100
+Essendon,2023,37,Brisbane Lions,9,L,30,11,8,5,16,,,,3,6,,,4,1,,,5,10,2,,8,,,100
+Essendon,2023,38,Richmond,10,W,30,9,9,8,17,,,,3,3,,,2,,,,7,10,1,,12,,,96
+Essendon,2023,39,West Coast,11,W,30,7,6,5,12,,,,,4,,,1,,,,1,11,,,4,,,97
+Essendon,2023,40,North Melbourne,12,W,30,6,5,6,12,,,,,,,,1,1,1,,5,7,1,,5,,,86
+Essendon,2023,41,Carlton,13,W,30,8,7,2,10,,,,1,4,,,4,1,4,,3,8,,,4,,,90
+Essendon,2023,42,Fremantle,15,L,30,6,4,2,8,,,,,1,,,2,,2,,1,5,,,2,,,72
+Essendon,2023,43,Port Adelaide,16,L,30,2,2,7,9,,,,1,1,,,1,,,,4,5,,,5,,,88
+Essendon,2023,44,Adelaide,17,W,30,7,8,11,18,,,,1,3,1,1,2,1,,,10,9,1,,13,1,,94
+Essendon,2023,45,Geelong,18,L,30,11,10,1,12,,,,,3,,,,,,,3,9,1,,4,,,92
+Essendon,2023,46,Western Bulldogs,19,L,30,14,10,3,17,,,,2,3,1,,2,1,1,,3,13,,,12,,,94
+Essendon,2023,47,Sydney,20,L,30,9,6,2,11,,,,1,1,1,,2,1,1,,2,9,,,16,,,90
+Essendon,2023,48,West Coast,21,W,30,12,7,5,17,,,,2,5,1,,,1,,,7,10,2,,11,,,97
+Essendon,2023,49,North Melbourne,22,W,30,4,2,5,9,,,,4,,1,,1,2,1,,7,1,1,,6,,,100
+Essendon,2023,50,Greater Western Sydney,23,L,30,5,3,4,9,,,,2,2,,,2,,1,,4,6,1,,8,,,95
+Essendon,2023,51,Collingwood,24,L,30,10,6,5,15,,,,1,2,,,1,1,,,7,7,1,,7,,,100
+Port Adelaide,2024,52,West Coast,2,W,25,10,8,5,15,,,,1,1,2,,1,2,1,,4,11,,,6,,,91
+Port Adelaide,2024,53,Richmond,3,W,25,9,5,3,12,,,,1,5,,,2,2,1,,5,7,1,,7,,,98
+Port Adelaide,2024,54,Melbourne,4,L,25,5,3,7,12,,,,3,2,1,1,,1,,,7,5,,,1,,,97
+Port Adelaide,2024,55,Essendon,5,W,25,9,6,1,10,,,,1,3,1,,2,,,,2,7,,,3,,,94
+Port Adelaide,2024,56,Fremantle,6,W,25,5,4,2,7,,,,,1,1,,2,1,1,,4,3,3,,4,,,86
+Port Adelaide,2024,57,Collingwood,7,L,25,6,4,2,8,,,,3,1,1,,,2,,,2,5,,,6,,,94
+Port Adelaide,2024,58,St Kilda,8,W,25,12,6,3,15,,,,3,4,,,4,2,,,8,7,,,4,,,97
+Port Adelaide,2024,59,Adelaide,9,L,25,6,4,1,7,,,,1,3,1,,2,,,,4,4,1,,7,,,100
+Port Adelaide,2024,60,Geelong,10,W,25,8,5,2,10,,,,,,1,,1,,,,,7,,,4,,,100

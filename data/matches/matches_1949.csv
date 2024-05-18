@@ -1,0 +1,119 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Victoria Park,1949-04-16 14:15,1949,Collingwood,1,2,8,6,12,7,19,13,North Melbourne,3,5,5,9,9,13,10,17
+1,Windy Hill,1949-04-16 14:15,1949,Essendon,7,3,11,7,14,9,18,12,Hawthorn,1,1,4,2,5,2,9,3
+1,Junction Oval,1949-04-16 14:15,1949,St Kilda,2,2,6,6,7,6,11,10,Fitzroy,3,3,5,7,10,14,14,14
+1,Kardinia Park,1949-04-16 14:15,1949,Geelong,7,3,9,8,17,13,21,19,Melbourne,5,1,10,3,11,3,12,11
+1,Princes Park,1949-04-18 14:15,1949,Carlton,4,2,6,5,11,9,16,16,South Melbourne,0,3,2,5,3,7,6,12
+1,Punt Rd,1949-04-18 14:15,1949,Richmond,5,2,12,4,15,8,19,13,Footscray,3,2,4,3,7,5,8,10
+2,Brunswick St,1949-04-23 14:15,1949,Fitzroy,3,1,7,10,13,13,15,16,Carlton,4,5,6,9,10,13,15,15
+2,M.C.G.,1949-04-23 14:15,1949,Melbourne,2,0,6,4,7,6,12,8,Collingwood,3,2,7,3,9,12,11,16
+2,Arden St,1949-04-23 14:15,1949,North Melbourne,1,3,2,8,5,11,7,14,Essendon,3,3,5,6,7,10,10,15
+2,Western Oval,1949-04-23 14:15,1949,Footscray,2,1,4,3,6,4,12,7,Geelong,1,6,2,10,7,13,9,14
+2,Glenferrie Oval,1949-04-23 14:15,1949,Hawthorn,0,1,2,6,4,11,5,13,Richmond,8,3,10,9,16,10,20,12
+2,Lake Oval,1949-04-23 14:15,1949,South Melbourne,3,5,7,7,10,10,12,13,St Kilda,4,4,7,7,11,9,12,10
+3,Princes Park,1949-04-30 14:15,1949,Carlton,6,5,12,12,16,17,21,27,Hawthorn,1,1,4,2,6,5,7,6
+3,Victoria Park,1949-04-30 14:15,1949,Collingwood,2,3,4,7,6,11,7,14,Fitzroy,3,3,4,6,7,8,8,9
+3,Junction Oval,1949-04-30 14:15,1949,St Kilda,2,8,2,8,5,15,5,15,Essendon,1,2,7,8,8,8,13,16
+3,M.C.G.,1949-04-30 14:15,1949,Melbourne,1,8,5,10,10,14,14,16,Footscray,1,0,3,0,3,2,7,6
+3,Kardinia Park,1949-04-30 14:15,1949,Geelong,5,4,8,6,10,12,14,14,South Melbourne,1,1,4,9,7,11,10,15
+3,Arden St,1949-04-30 14:15,1949,North Melbourne,2,2,8,5,9,6,14,8,Richmond,3,3,3,3,8,4,9,5
+4,Windy Hill,1949-05-07 14:15,1949,Essendon,2,2,5,4,5,5,6,9,Carlton,1,4,4,7,5,18,7,22
+4,Glenferrie Oval,1949-05-07 14:15,1949,Hawthorn,1,3,4,6,4,9,5,10,Collingwood,6,0,6,2,7,8,9,11
+4,Brunswick St,1949-05-07 14:15,1949,Fitzroy,1,5,6,7,10,10,13,15,Geelong,3,3,7,7,10,12,15,15
+4,Western Oval,1949-05-07 14:15,1949,Footscray,2,5,2,6,4,11,4,15,North Melbourne,1,0,6,3,6,3,12,3
+4,Lake Oval,1949-05-07 14:15,1949,South Melbourne,1,4,6,9,7,9,8,11,Melbourne,1,0,2,2,5,6,7,9
+4,Punt Rd,1949-05-07 14:15,1949,Richmond,4,5,7,9,14,10,17,11,St Kilda,1,2,6,9,6,13,11,14
+5,Princes Park,1949-05-14 14:15,1949,Carlton,2,0,6,2,8,5,16,8,Collingwood,0,3,4,7,8,9,10,14
+5,Windy Hill,1949-05-14 14:15,1949,Essendon,3,4,7,7,7,14,11,18,Richmond,2,4,5,8,5,14,9,15
+5,Glenferrie Oval,1949-05-14 14:15,1949,Hawthorn,3,4,4,7,7,11,9,13,Fitzroy,4,2,6,9,12,11,14,21
+5,Lake Oval,1949-05-14 14:15,1949,South Melbourne,2,1,5,3,9,6,10,8,Footscray,1,2,3,6,4,12,6,14
+5,Kardinia Park,1949-05-14 14:15,1949,Geelong,6,3,10,9,12,11,15,13,St Kilda,0,4,1,7,8,11,10,11
+5,M.C.G.,1949-05-14 14:15,1949,Melbourne,2,2,3,7,3,12,5,16,North Melbourne,3,4,5,7,6,9,6,12
+6,Princes Park,1949-05-21 14:15,1949,Carlton,4,2,8,9,13,10,18,13,Geelong,3,4,5,4,11,7,12,10
+6,Victoria Park,1949-05-21 14:15,1949,Collingwood,1,2,7,8,7,11,11,16,Essendon,5,3,9,3,12,6,12,9
+6,Brunswick St,1949-05-21 14:15,1949,Fitzroy,2,6,4,7,10,13,12,14,Footscray,4,2,5,7,5,11,10,22
+6,Arden St,1949-05-21 14:15,1949,North Melbourne,1,3,6,13,7,17,13,23,Hawthorn,5,4,5,5,10,7,12,7
+6,Junction Oval,1949-05-21 14:15,1949,St Kilda,3,5,4,9,4,13,4,13,Melbourne,1,1,4,5,4,8,8,13
+6,Punt Rd,1949-05-21 14:15,1949,Richmond,2,2,5,6,9,8,15,13,South Melbourne,2,5,2,7,6,8,8,12
+7,Junction Oval,1949-05-28 14:15,1949,St Kilda,3,2,4,5,5,13,8,14,Carlton,4,4,7,7,10,8,14,11
+7,Western Oval,1949-05-28 14:15,1949,Footscray,4,3,5,4,7,7,8,10,Collingwood,4,3,7,9,8,12,12,15
+7,Windy Hill,1949-05-28 14:15,1949,Essendon,3,3,6,4,10,8,11,9,Melbourne,4,3,5,7,9,10,13,12
+7,Punt Rd,1949-05-28 14:15,1949,Richmond,5,7,13,14,17,18,21,21,Fitzroy,4,4,4,4,6,9,9,12
+7,Arden St,1949-05-28 14:15,1949,North Melbourne,1,1,3,7,5,7,8,13,Geelong,3,5,3,5,7,7,8,7
+7,Glenferrie Oval,1949-05-28 14:15,1949,Hawthorn,1,3,3,7,6,9,6,12,South Melbourne,2,3,6,7,7,12,12,15
+8,Princes Park,1949-06-04 14:15,1949,Carlton,4,3,7,8,12,11,14,13,North Melbourne,5,1,5,4,7,6,10,7
+8,Victoria Park,1949-06-04 14:15,1949,Collingwood,4,10,12,13,18,18,21,22,St Kilda,1,1,3,5,3,8,4,12
+8,Western Oval,1949-06-04 14:15,1949,Footscray,2,9,2,11,6,15,7,17,Essendon,2,3,6,5,6,5,10,12
+8,Lake Oval,1949-06-04 14:15,1949,South Melbourne,5,1,5,1,9,5,12,7,Fitzroy,3,2,6,9,13,11,14,14
+8,Kardinia Park,1949-06-04 14:15,1949,Geelong,3,7,6,10,9,13,10,15,Richmond,0,3,2,4,5,11,11,13
+8,M.C.G.,1949-06-04 14:15,1949,Melbourne,1,7,5,11,6,14,10,17,Hawthorn,1,2,2,3,4,6,10,6
+9,Victoria Park,1949-06-11 14:15,1949,Collingwood,5,3,8,8,14,13,17,14,Geelong,3,2,6,4,9,4,12,7
+9,Lake Oval,1949-06-11 14:15,1949,South Melbourne,1,4,3,11,9,13,15,16,Essendon,4,1,8,3,11,5,12,9
+9,Glenferrie Oval,1949-06-11 14:15,1949,Hawthorn,5,2,7,8,7,9,10,13,Footscray,3,1,5,4,8,13,8,15
+9,Punt Rd,1949-06-13 14:15,1949,Richmond,3,3,5,10,9,12,12,12,Carlton,3,2,5,5,8,11,14,15
+9,Brunswick St,1949-06-13 14:15,1949,Fitzroy,2,2,3,4,5,7,7,10,Melbourne,2,3,5,6,6,9,10,14
+9,Arden St,1949-06-13 14:15,1949,North Melbourne,4,4,6,5,9,10,11,12,St Kilda,0,2,4,2,5,3,7,7
+10,Princes Park,1949-06-18 14:15,1949,Carlton,5,3,8,7,9,10,11,12,Melbourne,1,7,3,9,10,14,12,14
+10,Punt Rd,1949-06-18 14:15,1949,Richmond,2,1,8,3,10,4,16,5,Collingwood,4,3,7,4,13,6,16,8
+10,Windy Hill,1949-06-18 14:15,1949,Essendon,2,3,5,7,8,11,8,19,Fitzroy,2,3,6,6,9,8,10,10
+10,Junction Oval,1949-06-18 14:15,1949,St Kilda,2,2,3,8,5,14,7,14,Footscray,3,0,6,5,8,8,11,11
+10,Kardinia Park,1949-06-18 14:15,1949,Geelong,4,2,9,5,12,8,20,12,Hawthorn,2,3,3,4,4,9,6,10
+10,Arden St,1949-06-18 14:15,1949,North Melbourne,5,5,10,12,14,16,18,25,South Melbourne,3,2,3,5,4,8,6,9
+11,Western Oval,1949-07-02 14:15,1949,Footscray,3,2,6,5,8,8,9,9,Carlton,1,4,3,10,4,13,7,16
+11,Victoria Park,1949-07-02 14:15,1949,Collingwood,3,1,6,8,9,10,15,16,South Melbourne,0,8,3,13,6,16,6,16
+11,Kardinia Park,1949-07-02 14:15,1949,Geelong,6,3,13,8,19,13,25,17,Essendon,1,1,3,2,7,3,11,6
+11,Brunswick St,1949-07-02 14:15,1949,Fitzroy,2,4,5,7,8,9,10,12,North Melbourne,3,2,6,4,9,9,12,9
+11,Junction Oval,1949-07-02 14:15,1949,St Kilda,5,4,10,7,11,8,13,11,Hawthorn,1,3,4,4,9,8,14,13
+11,M.C.G.,1949-07-02 14:15,1949,Melbourne,3,3,7,6,10,11,14,17,Richmond,2,2,4,5,7,7,9,9
+12,Lake Oval,1949-07-09 14:15,1949,South Melbourne,3,1,5,4,5,9,6,12,Carlton,3,3,5,5,7,9,11,15
+12,Arden St,1949-07-09 14:15,1949,North Melbourne,1,1,5,5,6,6,8,6,Collingwood,1,4,3,5,4,12,4,13
+12,Glenferrie Oval,1949-07-09 14:15,1949,Hawthorn,0,0,3,0,3,0,7,0,Essendon,2,5,5,7,12,12,16,16
+12,Brunswick St,1949-07-09 14:15,1949,Fitzroy,3,7,8,8,12,8,14,10,St Kilda,2,0,2,6,4,10,6,13
+12,Western Oval,1949-07-09 14:15,1949,Footscray,3,0,8,4,8,5,12,11,Richmond,5,5,6,8,7,15,7,18
+12,M.C.G.,1949-07-09 14:15,1949,Melbourne,2,4,6,8,10,11,14,17,Geelong,3,7,5,8,12,13,14,14
+13,Princes Park,1949-07-16 14:15,1949,Carlton,2,2,3,8,6,9,9,13,Fitzroy,2,2,5,5,6,8,9,8
+13,Victoria Park,1949-07-16 14:15,1949,Collingwood,3,6,5,9,7,12,7,16,Melbourne,3,3,4,7,7,11,10,13
+13,Windy Hill,1949-07-16 14:15,1949,Essendon,4,5,5,10,5,17,8,22,North Melbourne,2,1,2,3,6,7,6,13
+13,Kardinia Park,1949-07-16 14:15,1949,Geelong,2,3,6,5,9,9,13,15,Footscray,1,3,2,5,4,9,4,10
+13,Punt Rd,1949-07-16 14:15,1949,Richmond,2,4,9,9,13,12,16,21,Hawthorn,4,10,6,11,8,12,9,13
+13,Junction Oval,1949-07-16 14:15,1949,St Kilda,3,5,8,10,12,11,16,15,South Melbourne,7,2,7,4,11,8,13,13
+14,Glenferrie Oval,1949-07-23 14:15,1949,Hawthorn,1,2,3,4,4,5,8,5,Carlton,4,3,5,5,8,13,9,17
+14,Brunswick St,1949-07-23 14:15,1949,Fitzroy,6,2,7,6,10,10,10,11,Collingwood,2,2,6,6,11,10,11,15
+14,Windy Hill,1949-07-23 14:15,1949,Essendon,3,5,4,6,11,16,13,17,St Kilda,3,1,8,5,8,7,9,10
+14,Western Oval,1949-07-23 14:15,1949,Footscray,3,1,4,3,6,6,11,8,Melbourne,3,3,5,8,6,11,10,12
+14,Lake Oval,1949-07-23 14:15,1949,South Melbourne,5,4,8,6,11,12,11,15,Geelong,3,2,6,6,9,6,14,13
+14,Punt Rd,1949-07-23 14:15,1949,Richmond,1,3,6,12,7,18,8,24,North Melbourne,5,6,8,7,14,9,17,11
+15,Princes Park,1949-07-30 14:15,1949,Carlton,0,3,5,8,7,11,11,16,Essendon,5,4,6,7,14,9,17,11
+15,Victoria Park,1949-07-30 14:15,1949,Collingwood,2,6,9,16,11,19,16,23,Hawthorn,2,3,4,4,4,6,5,6
+15,Kardinia Park,1949-07-30 14:15,1949,Geelong,4,1,7,5,9,6,13,9,Fitzroy,3,1,5,4,5,7,6,7
+15,Arden St,1949-07-30 14:15,1949,North Melbourne,3,8,4,8,8,13,8,14,Footscray,0,0,7,2,7,5,8,11
+15,M.C.G.,1949-07-30 14:15,1949,Melbourne,4,0,6,4,7,5,12,7,South Melbourne,1,3,4,5,9,8,9,11
+15,Junction Oval,1949-07-30 14:15,1949,St Kilda,5,3,7,6,13,9,13,11,Richmond,1,4,2,9,4,10,9,14
+16,Victoria Park,1949-08-06 14:15,1949,Collingwood,2,7,2,8,5,13,7,16,Carlton,1,0,4,7,6,9,7,13
+16,Punt Rd,1949-08-06 14:15,1949,Richmond,0,2,3,7,5,9,7,14,Essendon,5,5,6,6,11,9,11,12
+16,Brunswick St,1949-08-06 14:15,1949,Fitzroy,2,5,8,9,8,13,10,19,Hawthorn,3,4,3,7,7,14,8,17
+16,Western Oval,1949-08-06 14:15,1949,Footscray,1,4,4,9,7,11,10,14,South Melbourne,3,3,5,5,8,10,8,10
+16,Junction Oval,1949-08-06 14:15,1949,St Kilda,2,3,4,6,7,7,10,9,Geelong,1,1,1,6,4,10,8,12
+16,Arden St,1949-08-06 14:15,1949,North Melbourne,1,1,2,4,5,7,9,10,Melbourne,2,4,4,7,6,9,8,10
+17,Kardinia Park,1949-08-13 14:15,1949,Geelong,4,2,5,5,5,8,6,11,Carlton,2,2,6,5,9,10,12,18
+17,Windy Hill,1949-08-13 14:15,1949,Essendon,1,8,7,11,11,17,16,21,Collingwood,4,3,6,5,7,7,10,11
+17,Western Oval,1949-08-13 14:15,1949,Footscray,5,3,6,4,9,12,13,16,Fitzroy,2,2,7,6,7,7,8,11
+17,Glenferrie Oval,1949-08-13 14:15,1949,Hawthorn,5,2,9,4,11,6,13,10,North Melbourne,5,3,6,6,8,11,9,16
+17,M.C.G.,1949-08-13 14:15,1949,Melbourne,1,4,5,8,10,12,15,16,St Kilda,3,1,4,2,4,6,7,10
+17,Lake Oval,1949-08-13 14:15,1949,South Melbourne,0,1,3,5,6,11,9,13,Richmond,2,5,7,9,8,11,10,17
+18,Princes Park,1949-08-20 14:15,1949,Carlton,1,4,7,9,8,12,13,17,St Kilda,1,4,3,5,8,12,10,14
+18,Victoria Park,1949-08-20 14:15,1949,Collingwood,1,1,4,11,6,12,9,19,Footscray,1,5,3,6,7,11,7,14
+18,M.C.G.,1949-08-20 14:15,1949,Melbourne,2,2,7,4,7,5,11,10,Essendon,5,1,7,2,12,9,15,11
+18,Brunswick St,1949-08-20 14:15,1949,Fitzroy,0,1,2,10,4,13,6,15,Richmond,1,3,3,5,7,8,9,8
+18,Kardinia Park,1949-08-20 14:15,1949,Geelong,2,1,5,8,5,11,7,14,North Melbourne,1,5,2,8,10,11,11,16
+18,Lake Oval,1949-08-20 14:15,1949,South Melbourne,6,0,8,3,13,6,14,8,Hawthorn,1,3,3,9,4,12,8,14
+19,Arden St,1949-08-27 14:15,1949,North Melbourne,3,3,5,12,11,14,15,18,Carlton,4,2,5,3,5,6,7,10
+19,Junction Oval,1949-08-27 14:15,1949,St Kilda,0,4,4,9,8,12,11,15,Collingwood,3,4,5,7,7,9,10,12
+19,Windy Hill,1949-08-27 14:15,1949,Essendon,6,2,9,5,12,7,14,13,Footscray,1,1,4,4,7,11,8,13
+19,Brunswick St,1949-08-27 14:15,1949,Fitzroy,4,2,9,3,14,6,19,12,South Melbourne,2,5,3,11,7,15,10,17
+19,Punt Rd,1949-08-27 14:15,1949,Richmond,4,4,12,8,14,9,22,12,Geelong,3,4,3,5,7,12,10,15
+19,Glenferrie Oval,1949-08-27 14:15,1949,Hawthorn,1,3,2,9,4,11,10,16,Melbourne,6,6,8,7,11,9,15,12
+Semi Final,M.C.G.,1949-09-03 14:15,1949,Collingwood,2,0,4,1,6,4,8,6,Essendon,4,1,11,3,15,9,20,16
+Semi Final,M.C.G.,1949-09-10 14:15,1949,North Melbourne,2,3,7,3,11,4,14,7,Carlton,3,5,5,9,9,10,15,13
+Preliminary Final,M.C.G.,1949-09-17 14:15,1949,North Melbourne,2,1,4,1,7,4,9,7,Essendon,3,2,6,8,8,10,11,12
+Grand Final,M.C.G.,1949-09-24 14:50,1949,Carlton,2,4,2,10,3,12,6,16,Essendon,3,3,7,7,12,15,18,17

@@ -1,0 +1,45 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+West Coast,2008,1,Adelaide,9,W,42,12,4,3,15,,,,,8,1,,2,2,1,,6,10,1,,6,1,,90
+West Coast,2008,2,Collingwood,10,L,42,5,6,9,14,,,,2,2,,,1,2,,,7,9,2,,8,,,87
+West Coast,2008,3,Sydney,11,L,42,8,5,4,12,,,,,2,2,1,1,,1,,4,8,,,3,,,90
+West Coast,2008,4,Essendon,12,L,42,6,6,8,14,1,,,2,3,,1,4,,3,,6,7,1,1,7,,,95
+West Coast,2008,5,Geelong,13,L,42,6,6,9,15,,,,2,1,,,4,,2,,5,10,,,7,,,99
+West Coast,2008,6,Hawthorn,14,L,42,5,5,10,15,,1,,,2,1,,3,,,,5,10,1,,4,1,,68
+West Coast,2008,7,Richmond,15,L,42,4,3,5,9,,,,3,1,2,1,3,,2,,5,3,1,,1,2,,87
+West Coast,2008,8,Brisbane Lions,16,L,42,6,7,7,13,,,,2,,2,,2,1,,,4,10,,,4,,1,81
+West Coast,2008,9,St Kilda,17,W,42,7,4,7,14,,1,,2,,1,1,,1,,,7,7,,,7,1,,94
+West Coast,2008,10,Fremantle,18,L,42,7,3,4,11,,,,2,2,,,3,,2,,2,9,,,7,,,93
+West Coast,2008,11,Essendon,19,W,42,5,5,4,9,,,,,1,,,1,1,,,4,4,2,,3,1,,81
+West Coast,2008,12,Melbourne,20,L,42,8,5,7,15,,,,1,4,1,,,4,,,6,10,1,,1,,,71
+West Coast,2008,13,Hawthorn,21,L,42,6,7,11,17,,,,4,2,,,1,,,,4,13,,,4,,,88
+West Coast,2008,14,Geelong,22,L,42,3,2,2,5,,,,,,,,5,1,3,,2,3,1,,1,,,84
+West Coast,2009,15,Western Bulldogs,19,W,42,8,7,10,18,,,1,4,,,1,2,1,1,,7,11,2,,5,,,88
+West Coast,2009,16,North Melbourne,20,W,42,4,5,6,10,,,,,1,1,,3,,1,,3,7,1,,4,,1,95
+West Coast,2009,17,Adelaide,21,L,42,7,6,7,14,,,5,,2,,,2,,1,,2,11,1,1,6,,,89
+West Coast,2010,18,St Kilda,9,L,42,14,7,6,20,,,,2,1,2,1,4,1,2,,5,14,,,7,,,80
+West Coast,2010,19,Carlton,10,L,42,9,5,5,14,,,,2,2,,2,1,,,,6,8,1,,9,,,90
+West Coast,2010,20,Geelong,11,L,42,7,4,4,11,,,,1,3,,1,,1,,,5,6,,,3,,,93
+West Coast,2010,21,Richmond,12,L,42,8,6,2,10,,,1,,,1,,3,,2,,2,8,1,,5,,1,73
+West Coast,2010,22,Western Bulldogs,13,L,42,9,5,6,15,,,,2,3,,1,,1,,,4,11,,,2,,,91
+West Coast,2010,23,Collingwood,14,L,42,8,2,4,12,,,,,4,,1,1,1,1,,3,10,,,6,,,91
+St Kilda,2012,24↓,Melbourne,5,W,37,4,4,1,5,3,1,,2,,,,2,,2,,2,3,1,4,2,,,53
+St Kilda,2012,25↓,Carlton,7,W,37,5,2,3,8,,,,1,,2,,2,1,,,4,4,1,,1,,,68
+St Kilda,2012,26,West Coast,8,L,37,4,2,1,5,,,,1,,,,3,,2,,1,5,,,1,2,,86
+St Kilda,2012,27,Essendon,15,W,37,15,9,2,17,2,,,,,5,,3,4,,,10,8,3,1,3,,1,88
+St Kilda,2012,28↓,Brisbane Lions,16,W,37,3,,1,4,,,,,,,,1,,,,1,2,,,,,,45
+St Kilda,2012,29,Western Bulldogs,18,W,37,7,5,4,11,,3,7,5,,,2,3,1,1,,5,6,2,3,2,1,,85
+St Kilda,2012,30,Melbourne,20,W,37,13,12,4,17,5,,4,1,,4,1,2,,,3,4,14,2,5,1,,,84
+St Kilda,2012,31,Geelong,21,L,37,8,4,,8,,,1,1,,1,,2,2,1,,2,6,,2,1,,,83
+St Kilda,2012,32,Greater Western Sydney,22,W,37,8,4,5,13,3,1,1,,,1,,3,,1,,5,6,2,3,,,,93
+St Kilda,2012,33,Carlton,23,W,37,7,7,1,8,2,2,3,1,1,,,3,,1,,4,4,4,4,2,,,81
+St Kilda,2013,34,Gold Coast,1,L,37,7,3,3,10,1,,,2,,2,,2,2,,,5,6,1,1,4,,2,90
+St Kilda,2013,35,Richmond,2,L,37,7,7,4,11,2,,,1,,1,,4,,2,,1,10,1,2,1,,,87
+St Kilda,2013,36,Greater Western Sydney,3,W,37,10,5,1,11,2,3,,1,,2,,2,1,1,,4,7,2,3,2,,,83
+St Kilda,2013,37,Essendon,4,L,37,7,3,,7,2,1,2,,,2,,6,2,3,,3,5,1,1,2,,,87
+St Kilda,2013,38↓,Adelaide,8,L,37,2,1,2,4,,1,,,,,,1,,1,,1,3,,1,1,,1,55
+St Kilda,2013,39,Western Bulldogs,9,L,37,8,5,4,12,1,1,,3,,2,,4,3,2,,8,6,2,3,,,,86
+St Kilda,2013,40,West Coast,11,L,37,11,10,1,12,2,2,3,1,,2,1,2,,1,,4,8,3,4,,,,89
+St Kilda,2014,41,Melbourne,1,W,37,4,4,5,9,,,,2,,2,,4,,1,,3,5,2,,,,1,84
+St Kilda,2014,42,Greater Western Sydney,2,W,37,5,7,4,9,,1,,2,,2,1,4,,,,5,4,3,3,2,,1,77
+St Kilda,2014,43,West Coast,3,L,37,5,3,8,13,1,1,,1,,,,2,2,1,,7,6,2,,1,,,87
+St Kilda,2014,44,Adelaide,4,L,37,3,3,5,8,,1,,,1,1,,3,,,,3,6,,1,5,,,92

@@ -1,0 +1,24 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+North Melbourne,2017,1,Greater Western Sydney,3,L,24,6,2,4,10,,,,1,3,,,2,1,,,4,7,1,,4,,,89
+North Melbourne,2017,2,Sydney,8,L,24,5,2,4,9,,1,,1,2,1,,2,1,2,,4,4,1,,3,,1,88
+North Melbourne,2017,3,Essendon,18,L,24,14,11,4,18,,,,1,1,4,,2,,2,,2,15,1,,5,,,83
+North Melbourne,2017,4,Melbourne,19,W,24,8,2,5,13,,1,,3,5,1,,5,,3,,1,11,,1,6,,,87
+North Melbourne,2017,5,Collingwood,20,L,24,4,3,2,6,,1,,2,1,,,2,,1,,,7,,1,2,,,83
+North Melbourne,2017,6,Hawthorn,21,L,24,7,4,3,10,,1,,1,2,2,,3,1,1,,5,4,1,,8,,,82
+North Melbourne,2017,7,St Kilda,22,L,24,3,2,4,7,,,,2,2,,1,2,,2,,3,4,,,4,,,90
+North Melbourne,2017,8,Brisbane Lions,23,W,24,11,6,6,17,1,,,3,1,4,1,2,2,,,8,8,,,7,1,1,82
+North Melbourne,2018,9,Fremantle,10,W,24,5,1,1,6,,,4,1,,2,,3,,2,,1,4,,,4,,,54
+North Melbourne,2019,10,Geelong,8,L,24,4,4,3,7,,,,2,1,,,,,,,1,6,,,5,,,80
+North Melbourne,2019,11,Gold Coast,12,W,24,4,2,2,6,,,,1,3,,,1,,1,,2,5,,,6,,,74
+North Melbourne,2019,12,Greater Western Sydney,13,L,24,6,3,2,8,,,,3,5,1,,,1,,,2,7,,,6,1,,84
+North Melbourne,2019,13,Collingwood,15,W,24,11,4,7,18,,,,2,2,1,,3,2,1,,7,10,,,7,,,90
+North Melbourne,2019,14,St Kilda,16,W,24,1,,2,3,,,,2,,,,2,,1,,1,2,,,5,,,73
+North Melbourne,2019,15,Brisbane Lions,18,L,24,8,4,1,9,,,,4,3,1,,,1,,,3,5,,,10,,,89
+North Melbourne,2019,16,West Coast,19,L,24,2,2,1,3,,,,1,1,,,1,,1,,2,3,,,10,,,89
+North Melbourne,2019,17,Hawthorn,20,W,24,7,3,2,9,,,,,2,2,,2,,2,,4,5,1,,8,,,93
+North Melbourne,2019,18,Port Adelaide,22,W,24,4,2,8,12,,,,1,,,,4,,2,,4,8,1,,7,,,95
+North Melbourne,2019,19,Melbourne,23,W,24,8,6,5,13,,,,1,3,1,,,,,,5,8,1,,6,,,87
+North Melbourne,2020,20,Melbourne,11,L,24,4,4,2,6,,,,,1,1,,,,,,1,5,,,2,,,82
+North Melbourne,2020,21,Brisbane Lions,12,L,24,5,4,3,8,,,,1,2,,,,,,,2,5,1,,1,,,75
+North Melbourne,2020,22,West Coast,18,L,24,2,,4,6,,1,,1,,2,,3,2,2,,4,2,,,1,,,89
+Carlton,2022,23,Richmond,14,L,38,4,2,5,9,,,,2,5,,1,3,,1,,7,2,,,9,,,75

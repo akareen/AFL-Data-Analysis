@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Collingwood,1940,1,South Melbourne,1,W,2,,,,,1,,,,,,,,,,,,,,,,,,
+Collingwood,1940,2,Geelong,2,L,2,,,,,2,,,,,,,,,,,,,,,,,,
+Collingwood,1940,3,Carlton,3,W,2,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1940,4,Melbourne,5,L,2,,,,,1,,,,,,,,,,,,,,,,,,
+South Melbourne,1941,5,St Kilda,1,L,12,,,,,,,,,,,,,,,,,,,,,,,
+South Melbourne,1941,6,Melbourne,2,L,12,,,,,3,,,,,,,,,,,,,,,,,,
+South Melbourne,1941,7,Fitzroy,4,W,12,,,,,1,,,,,,,,,,,,,,,,,,
+South Melbourne,1941,8,Geelong,5,W,12,,,,,2,,,,,,,,,,,,,,,,,,

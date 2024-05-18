@@ -1,0 +1,15 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Collingwood,2005,1,Western Bulldogs,1,L,45,5,3,5,10,,,7,2,,1,2,3,2,1,,4,6,,,2,,,66
+Collingwood,2005,2,Richmond,8,L,45,6,6,5,11,,,8,4,1,2,1,,1,,,2,9,,,2,,,91
+Collingwood,2005,3,West Coast,9,W,45,4,3,3,7,,,7,2,,2,1,2,,2,,3,4,1,,1,,,67
+Collingwood,2005,4,Hawthorn,10,W,45,3,1,1,4,,,5,1,,,2,2,,,,3,1,,,2,,,36
+Collingwood,2005,5,Sydney,13,L,45,1,,2,3,,,11,,,,1,3,,2,,2,1,,,1,,,52
+Collingwood,2005,6,Port Adelaide,14,W,45,4,2,3,7,1,,7,2,1,1,2,2,1,,,3,4,,1,3,,1,43
+Collingwood,2005,7,Brisbane Lions,15,L,45,7,3,5,12,,,10,,1,,2,1,2,1,,6,6,1,,,,,62
+Collingwood,2005,8,Essendon,16,L,45,3,4,7,10,,,29,2,,2,3,1,2,1,,5,6,,,5,,,85
+Collingwood,2005,9,St Kilda,17,L,45,5,6,6,11,1,,10,2,2,2,1,6,2,3,,2,10,,1,1,,,74
+Collingwood,2005,10,Fremantle,18,L,45,4,1,1,5,,,8,,,2,2,5,2,4,,4,1,,,3,,,54
+Collingwood,2005,11,Kangaroos,19,L,45,5,4,5,10,1,1,10,,1,1,2,,,,,4,6,1,2,,,,61
+Collingwood,2005,12,Carlton,20,L,45,4,,1,5,1,,12,,1,,3,3,1,3,,3,,,,1,,,65
+Collingwood,2005,13,Adelaide,21,L,45,12,9,4,16,,1,10,1,1,1,1,2,,1,,3,11,,2,1,,,63
+Collingwood,2006,14,Fremantle,15,L,30,3,3,2,5,,,3,2,,,,2,,2,,,4,,,,,,41

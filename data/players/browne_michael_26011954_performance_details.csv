@@ -1,0 +1,13 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Collingwood,1973,1,Geelong,15,W,32,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1973,2,Melbourne,17,W,32,7,4,3,10,,,,,,,,,,1,,,,,,,,,
+Collingwood,1973,3,Carlton,18,W,32,5,3,,5,,,,,,,,,2,,,,,,,,,,
+Collingwood,1973,4,Fitzroy,19,W,32,6,2,3,9,,,,,,,,,5,,,,,,,,,,
+Collingwood,1973,5,Richmond,20,L,32,4,1,2,6,1,1,,,,,,,1,1,,,,,,,,,
+Collingwood,1974,6,Carlton,5,W,32,9,4,,9,3,4,,,,,,,4,5,,,,,,,,,
+Collingwood,1974,7,Melbourne,6,W,32,4,1,,4,,1,,,,,,,,1,,,,,,,,,
+Collingwood,1974,8,Footscray,15,W,32,2,2,2,4,,,,,,,,,,1,,,,,,,,,
+Collingwood,1975,9,Fitzroy,3,W,32,7,5,1,8,,,,,,,,,,1,,,,,,,,,
+Collingwood,1975,10,Geelong,4,W,32,10,3,1,11,1,1,,,,,,,6,2,,,,,,,,,
+Collingwood,1975,11,Footscray,5,L,32,5,2,4,9,,1,,,,,,,2,2,,,,,,,,,
+Collingwood,1975,12,Richmond,6,L,32,2,,,2,1,,,,,,,,,1,,,,,,,,,

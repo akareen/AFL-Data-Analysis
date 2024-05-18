@@ -1,0 +1,137 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Princes Park,1970-04-04 14:10,1970,Carlton,7,6,12,10,16,14,21,19,Essendon,2,3,6,6,9,11,14,12
+1,Western Oval,1970-04-04 14:10,1970,Footscray,3,6,6,9,10,11,12,12,Collingwood,3,0,12,5,17,7,23,10
+1,Glenferrie Oval,1970-04-04 14:10,1970,Hawthorn,5,2,8,7,12,9,19,12,Geelong,4,4,10,5,15,8,21,9
+1,Lake Oval,1970-04-04 14:10,1970,South Melbourne,2,5,3,6,5,10,9,14,Melbourne,2,1,6,4,9,6,14,9
+1,Moorabbin Oval,1970-04-04 14:10,1970,St Kilda,1,5,5,10,11,13,14,16,North Melbourne,3,3,5,4,6,5,7,6
+1,M.C.G.,1970-04-05 13:45,1970,Richmond,3,4,6,7,9,10,14,12,Fitzroy,3,3,5,8,11,14,16,20
+2,Kardinia Park,1970-04-11 14:10,1970,Geelong,5,1,8,2,11,7,12,9,Carlton,2,2,7,3,10,6,16,7
+2,Victoria Park,1970-04-11 14:10,1970,Collingwood,2,4,7,8,15,14,19,19,Richmond,3,4,8,6,9,9,13,16
+2,Windy Hill,1970-04-11 14:10,1970,Essendon,3,5,6,8,8,13,10,14,Footscray,2,5,6,11,7,14,14,22
+2,Junction Oval,1970-04-11 14:10,1970,Fitzroy,4,3,4,4,6,5,7,9,St Kilda,9,2,13,14,18,21,23,23
+2,M.C.G.,1970-04-11 14:10,1970,Melbourne,4,4,9,7,11,8,14,12,Hawthorn,1,7,3,11,8,14,11,19
+2,Arden St,1970-04-11 14:10,1970,North Melbourne,1,2,3,7,5,9,8,11,South Melbourne,2,4,4,4,7,6,8,12
+3,M.C.G.,1970-04-18 14:10,1970,Richmond,1,5,4,7,9,9,17,12,Carlton,6,3,9,7,11,9,15,11
+3,Victoria Park,1970-04-18 14:10,1970,Collingwood,2,7,5,12,8,17,14,24,Hawthorn,6,2,10,8,12,8,15,11
+3,Lake Oval,1970-04-18 14:10,1970,South Melbourne,4,3,9,7,11,15,12,17,Essendon,7,2,9,4,13,6,15,10
+3,Waverley Park,1970-04-18 14:10,1970,Fitzroy,1,4,1,7,3,7,7,11,Geelong,5,2,9,7,15,12,17,12
+3,Western Oval,1970-04-18 14:10,1970,Footscray,3,3,8,14,12,17,14,23,St Kilda,5,6,6,6,9,10,10,14
+3,Arden St,1970-04-18 14:10,1970,North Melbourne,4,0,7,3,13,5,18,13,Melbourne,1,4,2,10,6,14,8,16
+4,Princes Park,1970-04-25 14:10,1970,Carlton,5,2,8,6,11,14,16,16,North Melbourne,1,2,4,8,8,11,13,15
+4,Kardinia Park,1970-04-25 14:10,1970,Geelong,2,3,6,5,9,6,14,9,Collingwood,7,4,10,8,13,13,14,17
+4,Glenferrie Oval,1970-04-25 14:10,1970,Hawthorn,2,3,6,5,8,9,10,10,Essendon,5,3,10,6,12,11,16,14
+4,M.C.G.,1970-04-25 14:10,1970,Melbourne,5,3,9,6,14,15,17,19,Fitzroy,8,3,9,9,12,9,13,13
+4,Waverley Park,1970-04-25 14:10,1970,South Melbourne,3,4,5,4,7,8,11,11,Footscray,3,2,6,3,7,3,9,6
+4,Moorabbin Oval,1970-04-25 14:10,1970,St Kilda,3,4,9,9,11,12,15,19,Richmond,2,4,3,6,5,10,7,12
+5,Western Oval,1970-05-02 14:05,1970,Footscray,5,5,9,7,11,10,11,13,Hawthorn,2,4,6,6,11,8,11,10
+5,Moorabbin Oval,1970-05-02 14:10,1970,St Kilda,4,4,6,6,7,8,8,9,Carlton,2,5,5,8,7,12,12,14
+5,Waverley Park,1970-05-02 14:10,1970,Collingwood,0,2,2,9,5,11,8,17,Melbourne,1,6,2,8,5,8,8,9
+5,Windy Hill,1970-05-02 14:10,1970,Essendon,3,3,9,8,9,10,9,14,Geelong,5,1,10,1,13,4,14,4
+5,Junction Oval,1970-05-02 14:10,1970,Fitzroy,1,6,1,10,3,18,5,24,North Melbourne,4,1,7,3,7,4,7,7
+5,M.C.G.,1970-05-02 14:10,1970,Richmond,2,2,3,7,4,12,6,13,South Melbourne,3,2,5,5,6,9,10,11
+6,Princes Park,1970-05-09 14:10,1970,Carlton,8,2,13,3,18,7,23,9,Fitzroy,5,3,9,8,11,14,15,20
+6,Arden St,1970-05-09 14:10,1970,North Melbourne,1,1,3,3,4,3,10,6,Collingwood,4,4,6,9,12,25,17,30
+6,M.C.G.,1970-05-09 14:10,1970,Melbourne,1,2,5,3,9,10,10,12,Essendon,3,5,4,8,7,10,7,15
+6,Kardinia Park,1970-05-09 14:10,1970,Geelong,4,5,11,7,14,11,18,15,Footscray,2,3,2,6,6,9,11,11
+6,Waverley Park,1970-05-09 14:10,1970,Hawthorn,4,0,10,4,17,5,20,10,Richmond,7,0,10,7,16,10,21,11
+6,Lake Oval,1970-05-09 14:10,1970,South Melbourne,0,4,2,12,5,18,9,25,St Kilda,2,1,3,3,6,7,9,8
+7,Lake Oval,1970-05-16 14:10,1970,South Melbourne,4,1,12,4,17,6,23,12,Carlton,6,4,6,6,10,10,10,13
+7,Victoria Park,1970-05-16 14:10,1970,Collingwood,3,4,7,9,10,12,15,15,Fitzroy,0,11,2,13,6,17,9,18
+7,Waverley Park,1970-05-16 14:10,1970,Essendon,2,4,3,5,8,10,8,12,North Melbourne,1,2,4,7,5,17,9,22
+7,Western Oval,1970-05-16 14:10,1970,Footscray,1,3,3,7,5,9,9,14,Melbourne,2,0,3,3,7,4,7,4
+7,M.C.G.,1970-05-16 14:10,1970,Richmond,4,4,7,6,10,13,16,20,Geelong,4,1,9,2,14,2,15,2
+7,Moorabbin Oval,1970-05-16 14:10,1970,St Kilda,2,2,7,8,8,15,10,21,Hawthorn,3,4,5,4,7,7,8,8
+8,Waverley Park,1970-05-23 14:10,1970,Carlton,3,7,8,9,11,11,12,13,Collingwood,2,2,4,4,8,9,16,12
+8,Junction Oval,1970-05-23 14:10,1970,Fitzroy,3,0,5,6,9,10,9,14,Essendon,5,0,7,2,10,4,11,5
+8,Arden St,1970-05-23 14:10,1970,North Melbourne,1,4,2,5,4,9,9,13,Footscray,5,4,7,8,13,10,13,18
+8,Kardinia Park,1970-05-23 14:10,1970,Geelong,5,1,9,2,12,4,14,5,St Kilda,3,1,7,5,9,7,12,9
+8,Glenferrie Oval,1970-05-23 14:10,1970,Hawthorn,3,4,12,11,15,14,21,20,South Melbourne,3,1,5,4,8,10,12,12
+8,M.C.G.,1970-05-23 14:10,1970,Melbourne,4,3,7,5,12,8,15,10,Richmond,4,6,12,8,15,14,18,19
+9,Princes Park,1970-05-30 14:10,1970,Carlton,1,1,4,6,8,9,10,14,Hawthorn,5,8,8,9,10,13,15,16
+9,Windy Hill,1970-05-30 14:10,1970,Essendon,3,3,5,8,8,14,13,15,Collingwood,2,4,6,11,8,12,11,21
+9,Waverley Park,1970-05-30 14:10,1970,Footscray,0,2,3,8,5,10,11,13,Fitzroy,5,3,7,5,11,8,12,9
+9,Lake Oval,1970-05-30 14:10,1970,South Melbourne,5,4,12,8,16,12,19,14,Geelong,3,6,6,9,9,9,10,18
+9,Moorabbin Oval,1970-05-30 14:10,1970,St Kilda,2,2,8,6,9,6,14,12,Melbourne,3,2,3,3,7,9,7,11
+9,M.C.G.,1970-05-30 14:10,1970,Richmond,5,8,8,11,8,13,10,17,North Melbourne,4,2,7,6,10,6,15,7
+10,Western Oval,1970-06-06 14:10,1970,Footscray,2,4,9,7,12,11,15,14,Carlton,2,3,6,4,11,8,14,10
+10,Victoria Park,1970-06-06 14:10,1970,Collingwood,0,3,2,10,7,16,14,23,St Kilda,6,6,11,8,14,9,15,10
+10,Windy Hill,1970-06-06 14:10,1970,Essendon,1,4,6,8,11,11,14,13,Richmond,4,0,7,5,12,9,15,14
+10,Junction Oval,1970-06-06 14:10,1970,Fitzroy,4,4,11,5,12,6,14,9,South Melbourne,2,4,7,9,11,16,12,19
+10,M.C.G.,1970-06-06 14:10,1970,Melbourne,3,4,6,7,8,9,10,14,Geelong,3,4,7,6,9,11,13,13
+10,Waverley Park,1970-06-06 14:10,1970,North Melbourne,2,1,4,3,7,5,9,8,Hawthorn,1,0,3,4,8,6,11,9
+11,Princes Park,1970-06-15 14:10,1970,Carlton,4,4,9,9,16,12,22,15,Melbourne,1,1,4,2,8,6,9,8
+11,Lake Oval,1970-06-15 14:10,1970,South Melbourne,3,3,7,5,12,8,16,15,Collingwood,3,3,6,6,11,11,16,14
+11,Waverley Park,1970-06-15 14:10,1970,St Kilda,1,1,4,7,6,13,8,21,Essendon,2,4,4,5,6,9,8,9
+11,Glenferrie Oval,1970-06-15 14:10,1970,Hawthorn,4,1,9,5,14,9,18,12,Fitzroy,2,0,5,4,8,7,12,8
+11,M.C.G.,1970-06-15 14:10,1970,Richmond,4,2,5,6,15,11,22,15,Footscray,3,2,6,7,8,9,13,12
+11,Kardinia Park,1970-06-15 14:10,1970,Geelong,1,5,5,10,8,15,11,17,North Melbourne,5,2,5,2,6,7,9,10
+12,Windy Hill,1970-06-20 14:10,1970,Essendon,1,8,5,13,7,14,10,16,Carlton,3,4,7,7,9,7,12,9
+12,Victoria Park,1970-06-20 14:10,1970,Collingwood,2,6,5,7,6,12,8,16,Footscray,2,0,5,2,6,7,7,9
+12,Junction Oval,1970-06-20 14:10,1970,Fitzroy,2,1,6,4,7,7,12,11,Richmond,4,3,7,5,8,8,8,9
+12,Kardinia Park,1970-06-20 14:10,1970,Geelong,4,5,8,5,12,8,14,15,Hawthorn,1,0,4,7,7,8,10,11
+12,Waverley Park,1970-06-20 14:10,1970,Melbourne,0,1,3,4,7,5,12,6,South Melbourne,2,4,5,4,9,10,12,10
+12,Arden St,1970-06-20 14:10,1970,North Melbourne,0,3,2,6,4,7,5,10,St Kilda,1,4,7,4,11,5,11,5
+13,Princes Park,1970-06-27 14:10,1970,Carlton,3,2,5,14,6,15,12,21,Geelong,4,2,6,4,9,13,11,14
+13,Waverley Park,1970-06-27 14:10,1970,Richmond,4,2,6,6,10,9,11,13,Collingwood,2,1,7,8,8,10,9,13
+13,Western Oval,1970-06-27 14:10,1970,Footscray,2,0,5,3,10,10,11,12,Essendon,3,0,6,4,7,5,9,8
+13,Moorabbin Oval,1970-06-27 14:10,1970,St Kilda,3,5,5,8,8,10,11,14,Fitzroy,3,1,4,5,6,9,8,11
+13,Glenferrie Oval,1970-06-27 14:10,1970,Hawthorn,4,6,8,7,11,12,16,17,Melbourne,2,2,7,4,7,5,11,8
+13,Lake Oval,1970-06-27 14:10,1970,South Melbourne,2,1,10,3,11,5,16,9,North Melbourne,5,2,8,2,12,10,14,12
+14,Princes Park,1970-07-04 14:10,1970,Carlton,3,5,4,5,8,7,11,12,Richmond,2,3,4,4,5,6,7,7
+14,Glenferrie Oval,1970-07-04 14:10,1970,Hawthorn,5,5,11,6,17,6,18,7,Collingwood,8,1,11,6,13,10,13,13
+14,Waverley Park,1970-07-04 14:10,1970,Essendon,1,1,3,3,3,9,5,10,South Melbourne,2,1,4,2,7,4,11,5
+14,Kardinia Park,1970-07-04 14:10,1970,Geelong,8,1,10,2,16,4,20,8,Fitzroy,4,3,7,10,9,12,13,16
+14,Moorabbin Oval,1970-07-04 14:10,1970,St Kilda,2,1,3,11,4,15,6,16,Footscray,3,2,3,4,5,8,6,10
+14,M.C.G.,1970-07-04 14:10,1970,Melbourne,3,5,4,11,9,17,11,19,North Melbourne,4,2,7,5,8,8,11,11
+15,Waverley Park,1970-07-11 14:10,1970,North Melbourne,1,2,1,4,4,7,4,7,Carlton,2,5,6,11,7,15,13,21
+15,Victoria Park,1970-07-11 14:10,1970,Collingwood,3,8,5,9,11,12,13,15,Geelong,0,3,5,7,7,9,8,16
+15,Windy Hill,1970-07-11 14:10,1970,Essendon,2,2,6,5,8,5,9,8,Hawthorn,7,1,10,1,18,4,21,4
+15,Junction Oval,1970-07-11 14:10,1970,Fitzroy,1,5,4,11,9,13,12,18,Melbourne,2,4,4,7,6,10,8,14
+15,Western Oval,1970-07-11 14:10,1970,Footscray,0,1,2,3,3,3,6,4,South Melbourne,2,5,9,7,10,8,13,10
+15,M.C.G.,1970-07-11 14:10,1970,Richmond,4,5,5,9,8,14,11,15,St Kilda,2,5,4,11,4,16,7,21
+16,Princes Park,1970-07-18 14:10,1970,Carlton,4,4,7,6,13,9,16,14,St Kilda,3,5,5,6,7,7,10,11
+16,M.C.G.,1970-07-18 14:10,1970,Melbourne,1,7,5,12,6,17,7,19,Collingwood,2,0,4,6,8,10,10,16
+16,Kardinia Park,1970-07-18 14:10,1970,Geelong,4,4,7,6,10,10,15,16,Essendon,3,2,6,11,8,12,8,17
+16,Arden St,1970-07-18 14:10,1970,North Melbourne,4,9,7,10,12,16,13,17,Fitzroy,2,3,8,8,10,8,18,14
+16,Waverley Park,1970-07-18 14:10,1970,Hawthorn,7,0,10,4,15,6,23,9,Footscray,0,4,1,6,3,11,6,12
+16,Lake Oval,1970-07-18 14:10,1970,South Melbourne,3,2,6,4,6,5,11,9,Richmond,3,3,8,8,10,16,12,17
+17,Waverley Park,1970-07-25 14:10,1970,Fitzroy,1,2,4,3,8,5,9,7,Carlton,4,2,6,3,7,4,10,11
+17,Victoria Park,1970-07-25 14:10,1970,Collingwood,1,4,6,10,8,15,14,21,North Melbourne,2,2,4,5,7,6,8,8
+17,Windy Hill,1970-07-25 14:10,1970,Essendon,0,3,10,10,12,11,18,17,Melbourne,4,5,5,7,11,15,12,17
+17,Western Oval,1970-07-25 14:10,1970,Footscray,5,4,6,9,8,11,12,15,Geelong,4,2,5,7,6,10,7,14
+17,M.C.G.,1970-07-25 14:10,1970,Richmond,3,6,6,11,10,13,15,15,Hawthorn,3,2,7,5,9,13,11,17
+17,Moorabbin Oval,1970-07-25 14:10,1970,St Kilda,2,2,7,8,11,10,13,14,South Melbourne,2,2,5,4,7,6,11,6
+18,Princes Park,1970-08-01 14:10,1970,Carlton,2,4,6,9,8,12,11,17,South Melbourne,2,3,5,8,9,13,10,19
+18,Junction Oval,1970-08-01 14:10,1970,Fitzroy,5,4,6,4,10,8,11,9,Collingwood,2,2,10,6,11,9,17,15
+18,Arden St,1970-08-01 14:10,1970,North Melbourne,5,5,6,6,9,11,13,13,Essendon,2,5,10,12,13,14,16,22
+18,M.C.G.,1970-08-01 14:10,1970,Melbourne,2,1,2,3,4,8,8,13,Footscray,1,6,2,11,7,13,10,15
+18,Waverley Park,1970-08-01 14:10,1970,Geelong,5,4,5,4,10,10,13,10,Richmond,3,1,4,8,6,9,8,13
+18,Glenferrie Oval,1970-08-01 14:10,1970,Hawthorn,4,3,6,6,10,8,11,11,St Kilda,4,4,7,11,10,13,14,18
+19,Victoria Park,1970-08-08 14:10,1970,Collingwood,2,6,5,11,7,15,13,23,Carlton,0,4,1,7,2,11,2,12
+19,Windy Hill,1970-08-08 14:10,1970,Essendon,2,3,6,7,10,13,12,16,Fitzroy,5,5,7,5,10,7,14,10
+19,Western Oval,1970-08-08 14:10,1970,Footscray,0,2,4,13,7,13,10,23,North Melbourne,3,8,4,9,11,14,11,15
+19,Waverley Park,1970-08-08 14:10,1970,St Kilda,5,1,7,7,11,9,12,16,Geelong,0,3,3,4,5,7,5,7
+19,Lake Oval,1970-08-08 14:10,1970,South Melbourne,2,2,8,4,11,6,16,7,Hawthorn,2,2,5,3,8,4,13,8
+19,M.C.G.,1970-08-08 14:10,1970,Richmond,2,2,5,6,8,7,9,10,Melbourne,4,1,8,3,14,8,18,10
+20,Glenferrie Oval,1970-08-15 14:10,1970,Hawthorn,6,3,8,4,9,8,13,9,Carlton,2,0,11,0,14,2,18,9
+20,Victoria Park,1970-08-15 14:10,1970,Collingwood,6,2,7,6,18,12,24,16,Essendon,3,3,9,6,9,8,11,13
+20,Junction Oval,1970-08-15 14:10,1970,Fitzroy,4,4,5,5,9,10,12,10,Footscray,1,1,7,7,9,10,11,14
+20,Kardinia Park,1970-08-15 14:10,1970,Geelong,5,3,7,3,9,8,10,14,South Melbourne,1,4,6,9,8,13,11,15
+20,Waverley Park,1970-08-15 14:10,1970,Melbourne,0,2,3,4,5,9,7,14,St Kilda,5,5,8,7,14,11,17,14
+20,Arden St,1970-08-15 14:10,1970,North Melbourne,2,0,4,3,5,3,7,6,Richmond,5,0,8,3,13,7,16,10
+21,Princes Park,1970-08-22 14:10,1970,Carlton,4,3,10,6,14,9,18,14,Footscray,5,0,9,1,11,5,17,6
+21,Moorabbin Oval,1970-08-22 14:10,1970,St Kilda,5,4,6,7,9,11,14,14,Collingwood,3,0,7,5,9,7,16,12
+21,M.C.G.,1970-08-22 14:10,1970,Richmond,2,4,13,7,16,11,23,13,Essendon,2,1,7,2,9,5,11,11
+21,Lake Oval,1970-08-22 14:10,1970,South Melbourne,2,3,8,5,12,13,14,15,Fitzroy,5,2,6,5,6,14,10,20
+21,Kardinia Park,1970-08-22 14:10,1970,Geelong,3,4,10,6,13,11,16,12,Melbourne,4,5,6,8,9,12,13,18
+21,Glenferrie Oval,1970-08-22 14:10,1970,Hawthorn,4,5,10,10,12,13,21,14,North Melbourne,3,5,5,11,6,15,9,20
+22,M.C.G.,1970-08-29 14:10,1970,Melbourne,4,4,7,9,9,14,12,15,Carlton,2,3,7,7,11,13,14,17
+22,Victoria Park,1970-08-29 14:10,1970,Collingwood,2,6,5,8,17,11,22,15,South Melbourne,0,0,3,3,4,5,7,9
+22,Windy Hill,1970-08-29 14:10,1970,Essendon,2,4,3,6,5,7,8,11,St Kilda,3,4,5,6,10,17,14,19
+22,Junction Oval,1970-08-29 14:10,1970,Fitzroy,1,1,3,6,3,7,9,11,Hawthorn,5,7,9,8,15,13,18,16
+22,Western Oval,1970-08-29 14:10,1970,Footscray,2,1,8,7,9,10,12,10,Richmond,3,2,4,4,7,9,10,12
+22,Arden St,1970-08-29 14:10,1970,North Melbourne,2,2,4,7,10,10,12,11,Geelong,2,1,3,2,4,3,6,6
+Semi Final,M.C.G.,1970-09-05 14:30,1970,St Kilda,6,1,9,3,14,8,22,11,South Melbourne,2,5,9,8,10,10,13,12
+Semi Final,M.C.G.,1970-09-12 14:30,1970,Collingwood,5,2,9,7,12,11,17,16,Carlton,5,0,9,2,14,3,17,6
+Preliminary Final,M.C.G.,1970-09-19 14:30,1970,Carlton,2,6,6,12,13,16,17,21,St Kilda,1,4,4,12,6,16,7,19
+Grand Final,M.C.G.,1970-09-26 14:30,1970,Collingwood,4,8,10,13,13,16,14,17,Carlton,0,3,4,5,12,5,17,9

@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Fitzroy,1915,1,South Melbourne,5,L,18,,,,,,,,,,,,,,,,,,,,,,,
+Fitzroy,1915,2,Geelong,9,W,18,,,,,,,,,,,,,,,,,,,,,,,
+Fitzroy,1916,3,Collingwood,3,D,18,,,,,,,,,,,,,,,,,,,,,,,
+Fitzroy,1916,4,Carlton,4,L,18,,,,,,,,,,,,,,,,,,,,,,,
+Fitzroy,1916,5,Richmond,5,L,18,,,,,,,,,,,,,,,,,,,,,,,
+Fitzroy,1916,6,Richmond,8,L,18,,,,,,,,,,,,,,,,,,,,,,,
+Geelong,1922,7,Collingwood,6,L,27,,,,,1,,,,,,,,,,,,,,,,,,
+Geelong,1922,8,St Kilda,17,L,27,,,,,1,,,,,,,,,,,,,,,,,,
+Geelong,1922,9,South Melbourne,18,L,27,,,,,,,,,,,,,,,,,,,,,,,

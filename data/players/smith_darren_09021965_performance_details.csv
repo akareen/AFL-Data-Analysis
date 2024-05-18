@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Adelaide,1991,1,Hawthorn,1,W,28,13,10,3,16,2,1,,,,,,,1,,,,,,,,,,
+Adelaide,1991,2,Carlton,2,L,28,3,2,5,8,1,,,,,,,,,,,,,,,,,,
+Adelaide,1991,3,Sydney,3,W,28,21,9,3,24,4,5,2,1,,,,,4,2,,,,,,,,,
+Adelaide,1991,4,Essendon,4,L,28,3,1,6,9,,,,1,,,,,,1,,,,,,,,,
+Adelaide,1991,5,West Coast,5,L,28,4,2,4,8,1,,1,,,,,,,,,,,,,,,,
+Adelaide,1991,6,Geelong,11,L,28,8,3,3,11,2,,1,1,,,,,,1,,,,,,,,,
+Adelaide,1992,7,Footscray,1,L,28,7,6,11,18,,,,,,,,,,,,,,,,,,,
+Adelaide,1992,8,Fitzroy,4,L,28,2,1,5,7,,,3,3,,,,,,2,,,,,,,,,
+Adelaide,1992,9,Hawthorn,12,W,28,1,1,1,2,,,,1,,,,,,,,,,,,,,,

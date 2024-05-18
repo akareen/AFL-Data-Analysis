@@ -1,0 +1,28 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Carlton,2003,1,Brisbane Lions,9,L,37,3,1,1,4,,,1,3,2,1,1,,,,,2,2,,,4,,1,56
+Carlton,2003,2,Fremantle,10,L,37,7,4,,7,,,,1,2,,,2,1,2,,2,6,,1,5,,,100
+Carlton,2003,3,Geelong,11,L,37,6,5,2,8,,,2,2,4,,,4,,1,,1,6,1,,12,2,,100
+Carlton,2003,4,Richmond,12,W,37,5,1,,5,,,1,1,2,,1,1,,,,3,2,,,3,,,59
+Carlton,2003,5,Adelaide,13,L,37,3,,1,4,,,,1,3,,1,3,,1,,3,1,,,7,,,57
+Carlton,2003,6,Sydney,16,L,37,6,2,2,8,,,,2,1,2,1,1,3,1,,7,2,1,,4,,,69
+Carlton,2003,7,Collingwood,17,L,37,5,2,,5,1,1,,3,,2,,1,1,1,,1,3,,,,,,77
+Carlton,2004,8,Fremantle,1,L,37,11,2,3,14,,,,1,5,2,,1,,,,5,7,,,3,1,,97
+Carlton,2004,9,Geelong,2,W,37,10,7,11,21,,,1,,2,3,1,,,,,9,9,1,,7,,1,100
+Carlton,2004,10,Essendon,4,L,37,9,5,4,13,,,2,2,4,1,,1,,,,5,7,1,,5,1,,100
+Carlton,2004,11,West Coast,5,W,37,6,5,3,9,,,1,1,4,,,,,,,2,7,1,,10,,,100
+Carlton,2004,12,Melbourne,6,L,37,10,5,4,14,,,,1,4,2,2,2,,1,,6,8,1,,2,,,75
+Carlton,2004,13,Collingwood,7,W,37,9,4,1,10,,,2,4,1,2,,,,,,3,6,,,4,,2,100
+Carlton,2004,14,Brisbane Lions,8,L,37,4,,1,5,,,,2,,1,1,1,,,,4,,,,3,,,85
+Carlton,2004,15,Western Bulldogs,9,L,37,4,4,5,9,,,,3,4,1,,2,,2,,4,6,1,,10,,,100
+Carlton,2004,16,St Kilda,10,L,37,5,5,7,12,3,,,1,,1,,3,,,,6,5,1,2,3,2,,90
+Carlton,2004,17,Adelaide,11,W,37,9,3,2,11,,1,1,2,1,2,2,4,1,1,,5,6,,,4,1,,94
+Carlton,2004,18,Hawthorn,12,W,37,6,,2,8,,,2,2,1,4,,2,1,1,,5,3,,,3,,2,71
+Carlton,2004,19,Richmond,13,W,37,10,3,1,11,,,2,,2,3,1,3,1,2,,6,6,1,,9,1,,100
+Carlton,2004,20,Sydney,14,L,37,10,3,4,14,1,1,2,1,5,3,4,6,,,,9,4,1,1,2,1,,100
+Carlton,2004,21,Port Adelaide,15,L,37,2,,,2,,,,1,1,,,,1,,,1,1,,,2,,,48
+Carlton,2004,22,Kangaroos,16,W,37,1,,2,3,,,,,1,,1,,,,,2,1,,,2,,,60
+Carlton,2004,23,Geelong,17,L,37,4,1,2,6,,,2,2,,,2,4,1,3,,3,4,,,3,1,,68
+Carlton,2005,24,Essendon,2,W,37,3,1,1,4,,,1,3,1,1,1,1,,1,,1,2,,,5,1,,93
+Carlton,2005,25,Collingwood,3,L,37,5,5,3,8,,,,,2,2,,2,1,1,,3,5,,,2,3,,92
+Carlton,2005,26,Port Adelaide,4,D,37,8,5,2,10,,,1,1,2,,1,1,,1,,4,6,1,,7,,,100
+Carlton,2005,27,Fremantle,5,L,37,3,4,4,7,,,,1,2,,,1,,1,,,5,,,1,,,64

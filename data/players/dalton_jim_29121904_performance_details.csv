@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+St Kilda,1927,1,Geelong,6,L,3,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1927,2,Collingwood,7,L,3,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1927,3,Melbourne,8,L,3,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1927,4,Carlton,11,L,3,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1927,5,Hawthorn,12,W,3,,,,,1,,,,,,,,,,,,,,,,,,
+St Kilda,1927,6,Richmond,13,L,3,,,,,1,,,,,,,,,,,,,,,,,,
+St Kilda,1927,7,South Melbourne,14,L,3,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1927,8,Geelong,17,W,3,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1927,9,Carlton,18,L,3,,,,,1,,,,,,,,,,,,,,,,,,
+St Kilda,1928,10,North Melbourne,3,W,3,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1928,11,Carlton,4,L,3,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Essendon,1994,1,West Coast,1,W,17,6,2,4,10,,,,,,,,,,1,,,,,,,,,
+Essendon,1994,2,Fitzroy,2,L,17,1,1,,1,,,,,,,,,,,,,,,,,,,
+Essendon,1994,3,Melbourne,4,L,17,7,2,4,11,,,,1,,,,,2,1,,,,,,,,,
+Essendon,1994,4,Collingwood,5,W,17,3,1,1,4,,,1,,,,,,,2,,,,,,,,,
+Essendon,1994,5,Sydney,14,W,17,5,1,2,7,,,,2,,,,,1,,,,,,,,,,
+Essendon,1994,6,North Melbourne,15,W,17,1,,1,2,,,,,,,,,,,,,,,,,,,
+Essendon,1997,7,North Melbourne,18,L,17,4,3,3,7,,,,1,,,,,,,,,,,,,,,
+Essendon,1997,8,Geelong,19,W,17,3,,1,4,,,,2,,,,,,,,,,,,,,,
+Essendon,1997,9,Collingwood,20,L,17,3,1,1,4,,,,1,,,,,1,,,,,,,,,,
+Essendon,1997,10,Brisbane Lions,21,W,17,5,1,1,6,,,,,,,,,1,2,,,,,,,,,
+Essendon,1997,11,Adelaide,22,W,17,2,1,1,3,,,,,,,,,,,,,,,,,,,

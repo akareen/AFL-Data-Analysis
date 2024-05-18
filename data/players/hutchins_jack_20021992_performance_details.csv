@@ -1,0 +1,20 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Gold Coast,2011,1,Port Adelaide,5,W,34,3,3,3,6,,,,1,3,,,1,,,,2,4,1,,2,,,95
+Gold Coast,2011,2,Essendon,6,L,34,5,1,6,11,,,,4,2,3,,1,1,1,,6,5,,,8,,,93
+Gold Coast,2011,3,Brisbane Lions,7,W,34,1,1,6,7,,,1,1,1,,,1,,1,,3,3,,,2,,,98
+Gold Coast,2011,4,Hawthorn,13,L,34,8,4,10,18,,,,3,2,1,,1,,1,,8,9,1,,,,,98
+Gold Coast,2011,5,Western Bulldogs,14,L,34,4,1,6,10,,,2,5,2,1,,2,1,1,,6,5,,,2,,1,94
+Gold Coast,2011,6,Fremantle,15,L,34,6,4,4,10,,,,3,3,,2,2,,2,,4,6,,,3,,,91
+Gold Coast,2013,7↓,Sydney,2,L,34,9,3,4,13,1,,,1,4,3,,2,,2,,5,8,,,3,,,66
+Gold Coast,2013,8,Brisbane Lions,3,L,34,11,3,2,13,,,,8,3,2,,5,1,2,,6,7,,,4,,1,92
+Gold Coast,2013,9,Port Adelaide,4,L,34,10,6,5,15,,,,2,2,1,,3,,,,4,11,,,2,,,86
+Gold Coast,2013,10↑,Greater Western Sydney,5,W,34,6,3,,6,,,,1,1,1,,,,,,,5,,,1,1,,38
+Gold Coast,2013,11,Melbourne,7,W,34,7,2,4,11,,,1,3,1,1,1,4,2,1,,3,8,,,1,,,80
+Gold Coast,2013,12,Western Bulldogs,8,W,34,7,3,4,11,,1,,1,2,4,1,,,,,2,8,,,3,1,,82
+Gold Coast,2013,13,Hawthorn,9,L,34,11,6,3,14,,,,2,5,,1,3,,1,,1,12,,,3,,,75
+Gold Coast,2013,14↑,North Melbourne,11,W,34,,,1,1,,,,2,,,,,,,,1,,,,1,,,12
+Gold Coast,2013,15↑,Essendon,12,L,34,7,2,3,10,1,,,1,,1,,5,,3,,4,6,1,1,2,,,56
+Gold Coast,2013,16,Port Adelaide,21,L,34,3,1,1,4,1,1,,2,,1,,1,,,,1,3,,,,,1,82
+Gold Coast,2014,17↑,Hawthorn,4,L,34,4,1,1,5,,,1,1,2,1,,1,,,,2,3,,,,,,44
+Gold Coast,2014,18↑,Melbourne,5,W,34,3,2,1,4,,,,,1,,,1,,,,2,2,,1,,1,,19
+Gold Coast,2014,19↑,Greater Western Sydney,6,W,34,4,2,4,8,,,,1,,,,,,,,2,6,,,1,,,32

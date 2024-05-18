@@ -1,0 +1,13 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Geelong,1998,1,Port Adelaide,14,L,25,2,,,2,1,,1,,,1,,,,,,,,,,,,,
+Geelong,1998,2,Richmond,17,L,25,3,3,1,4,,,1,,1,1,,,,,,,,,,,,,
+Sydney,2002,3,Adelaide,3,L,26,4,3,3,7,,,,1,2,,,,,,,2,5,1,,3,,,
+Sydney,2002,4,Essendon,9,L,26,5,2,1,6,,,2,1,,3,1,,,,,2,4,,,2,,,
+Sydney,2002,5,Collingwood,10,L,26,6,,1,7,,,10,2,3,1,1,,2,,,2,6,,,4,2,,
+Sydney,2002,6,West Coast,11,L,26,3,1,5,8,,,12,2,1,1,2,2,,2,,3,4,,,1,,,
+Sydney,2002,7,Hawthorn,14,L,26,,,2,2,,,4,1,,,1,,,,,2,,,,2,,,
+Sydney,2002,8,Port Adelaide,15,L,26,6,6,7,13,,,2,,3,1,,,,,,3,10,1,,4,,,
+Sydney,2002,9,Brisbane Lions,16,L,26,3,1,2,5,,,4,1,1,1,,2,1,,,3,2,1,,3,1,,
+Sydney,2002,10,Carlton,17,W,26,4,1,2,6,,,8,2,1,2,1,,1,,,2,3,,,2,,,
+Sydney,2002,11,Kangaroos,19,W,26,1,1,4,5,,,9,,,,,,,,,3,2,,,1,,,
+Sydney,2002,12,St Kilda,20,W,26,5,2,2,7,,,4,,2,1,,1,,,,2,4,,,,,,

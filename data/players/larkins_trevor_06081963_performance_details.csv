@@ -1,0 +1,5 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Richmond,1985,1,Essendon,1,L,27,9,1,1,10,1,1,,,,,,,,1,,,,,,,,,
+Richmond,1985,2,Sydney,2,L,27,8,4,4,12,1,1,,,,,,,1,4,,,,,,,,,
+Richmond,1985,3,St Kilda,3,W,27,15,5,3,18,2,2,1,,,,,,2,,,,,,,,,,
+Richmond,1985,4,Fitzroy,4,W,27,2,2,1,3,,,,,,,,,,,,,,,,,,,

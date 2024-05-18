@@ -1,0 +1,139 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Kardinia Park,1973-04-07 14:10,1973,Geelong,5,3,7,4,10,6,10,8,Carlton,1,5,8,7,10,10,18,16
+1,Victoria Park,1973-04-07 14:10,1973,Collingwood,4,6,11,9,14,14,17,22,South Melbourne,1,2,2,4,4,7,6,12
+1,Windy Hill,1973-04-07 14:10,1973,Essendon,6,4,11,8,13,10,19,13,Richmond,6,3,9,9,13,11,19,15
+1,Junction Oval,1973-04-07 14:10,1973,Fitzroy,7,6,12,6,17,14,20,17,Footscray,3,4,6,6,7,8,12,15
+1,Arden St,1973-04-07 14:10,1973,North Melbourne,3,3,4,6,10,11,14,14,Hawthorn,1,3,5,7,5,13,9,16
+1,M.C.G.,1973-04-07 14:10,1973,Melbourne,1,2,2,4,5,6,9,12,St Kilda,1,7,7,10,12,14,14,14
+2,Princes Park,1973-04-14 14:10,1973,Carlton,5,4,10,6,15,11,18,15,North Melbourne,3,2,7,7,12,9,14,12
+2,Western Oval,1973-04-14 14:10,1973,Footscray,1,7,3,9,9,15,11,16,Collingwood,1,1,5,6,8,10,14,18
+2,Lake Oval,1973-04-14 14:10,1973,South Melbourne,5,4,7,9,11,16,15,19,Essendon,4,9,10,16,14,18,21,20
+2,Moorabbin Oval,1973-04-14 14:10,1973,St Kilda,3,2,11,4,16,5,20,8,Fitzroy,4,1,4,3,5,7,10,11
+2,M.C.G.,1973-04-14 14:10,1973,Richmond,1,4,8,7,16,12,18,19,Geelong,6,1,9,5,13,10,16,14
+2,Glenferrie Oval,1973-04-14 14:10,1973,Hawthorn,5,5,5,10,9,11,14,14,Melbourne,2,5,4,10,8,13,13,22
+3,Victoria Park,1973-04-21 14:10,1973,Collingwood,6,5,11,13,15,18,21,23,Geelong,2,4,6,5,8,7,11,13
+3,Arden St,1973-04-21 14:10,1973,North Melbourne,2,1,7,7,10,11,11,18,Fitzroy,4,3,5,7,10,15,10,18
+3,Moorabbin Oval,1973-04-21 14:10,1973,St Kilda,2,3,5,3,7,6,12,9,Richmond,2,0,8,2,13,2,17,8
+3,M.C.G.,1973-04-23 14:10,1973,Melbourne,3,2,8,3,10,5,11,9,Carlton,1,6,4,8,7,13,11,16
+3,Waverley Park,1973-04-23 14:10,1973,Hawthorn,5,2,11,3,18,6,27,8,Essendon,4,1,9,6,12,8,15,12
+3,Lake Oval,1973-04-23 14:10,1973,South Melbourne,4,3,8,7,13,10,17,16,Footscray,6,4,13,10,18,13,20,15
+4,Waverley Park,1973-04-25 14:10,1973,St Kilda,1,4,4,7,6,11,8,12,Collingwood,2,4,7,7,11,11,19,16
+4,M.C.G.,1973-04-25 14:10,1973,Richmond,2,7,7,13,9,14,11,18,North Melbourne,2,5,5,9,8,16,14,20
+4,Princes Park,1973-04-28 14:10,1973,Carlton,3,3,5,6,12,8,14,11,Hawthorn,1,5,5,6,8,10,12,11
+4,Western Oval,1973-04-28 14:10,1973,Footscray,3,8,3,12,6,16,8,19,Essendon,2,3,9,4,11,10,17,13
+4,Junction Oval,1973-04-28 14:10,1973,Fitzroy,6,1,8,4,11,6,13,9,Melbourne,6,2,8,6,11,10,13,16
+4,Kardinia Park,1973-04-28 14:10,1973,Geelong,3,0,7,3,13,11,17,16,South Melbourne,5,3,8,6,8,8,12,14
+5,Waverley Park,1973-05-05 14:10,1973,Carlton,3,2,7,6,12,11,15,15,Fitzroy,3,3,6,4,9,5,10,8
+5,Arden St,1973-05-05 14:10,1973,North Melbourne,2,14,3,16,8,18,13,20,Collingwood,3,4,7,15,10,17,15,19
+5,Windy Hill,1973-05-05 14:10,1973,Essendon,3,6,8,13,11,18,16,26,Geelong,5,6,7,10,10,12,15,16
+5,Glenferrie Oval,1973-05-05 14:10,1973,Hawthorn,6,3,7,7,13,12,18,16,Footscray,2,4,12,8,14,10,16,12
+5,M.C.G.,1973-05-05 14:10,1973,Melbourne,2,3,5,7,8,12,13,13,Richmond,3,3,5,6,8,9,16,14
+5,Lake Oval,1973-05-05 14:10,1973,South Melbourne,4,5,4,8,5,9,6,12,St Kilda,2,5,7,8,8,10,10,16
+6,M.C.G.,1973-05-12 14:10,1973,Richmond,2,6,12,12,13,16,18,20,Carlton,5,2,5,3,11,6,15,12
+6,Victoria Park,1973-05-12 14:10,1973,Collingwood,5,5,7,6,15,8,15,10,Melbourne,2,1,6,7,6,9,10,16
+6,Moorabbin Oval,1973-05-12 14:10,1973,St Kilda,3,3,7,5,13,11,18,13,Essendon,6,2,13,8,16,9,21,14
+6,Junction Oval,1973-05-12 14:10,1973,Fitzroy,1,6,4,9,10,13,15,17,Hawthorn,6,3,6,10,12,11,12,13
+6,Kardinia Park,1973-05-12 14:10,1973,Geelong,2,4,7,7,9,12,11,14,Footscray,5,5,7,7,10,9,14,14
+6,Waverley Park,1973-05-12 14:10,1973,North Melbourne,3,5,8,7,15,13,18,16,South Melbourne,5,3,7,8,8,9,11,14
+7,Princes Park,1973-05-19 14:10,1973,Carlton,3,4,7,12,11,17,16,23,Collingwood,4,5,5,9,8,9,8,12
+7,Windy Hill,1973-05-19 14:10,1973,Essendon,5,10,9,16,15,20,20,24,North Melbourne,5,1,7,4,8,8,11,8
+7,Waverley Park,1973-05-19 14:10,1973,Fitzroy,1,4,2,6,9,6,12,8,Richmond,6,5,11,6,13,11,16,21
+7,Western Oval,1973-05-19 14:10,1973,Footscray,5,3,6,3,9,6,14,9,St Kilda,0,3,5,8,10,9,13,12
+7,Glenferrie Oval,1973-05-19 14:10,1973,Hawthorn,3,5,5,9,12,13,19,15,Geelong,5,4,6,8,8,11,9,14
+7,M.C.G.,1973-05-19 14:10,1973,Melbourne,4,1,9,2,11,5,17,10,South Melbourne,3,2,6,4,9,9,12,11
+8,Lake Oval,1973-05-26 14:10,1973,South Melbourne,1,3,4,4,5,7,7,9,Carlton,5,2,9,4,14,11,19,16
+8,Victoria Park,1973-05-26 14:10,1973,Collingwood,3,2,6,6,11,10,15,13,Fitzroy,5,4,8,6,9,7,10,8
+8,Waverley Park,1973-05-26 14:10,1973,Melbourne,1,5,4,6,6,9,10,11,Essendon,1,1,4,4,9,7,12,9
+8,Arden St,1973-05-26 14:10,1973,North Melbourne,1,2,3,7,6,7,8,8,Footscray,3,3,6,5,7,8,8,8
+8,Moorabbin Oval,1973-05-26 14:10,1973,St Kilda,3,2,5,2,10,9,16,10,Geelong,2,3,5,6,5,8,8,12
+8,M.C.G.,1973-05-26 14:10,1973,Richmond,2,6,5,11,8,18,10,22,Hawthorn,5,7,8,12,12,18,16,23
+9,Princes Park,1973-06-04 14:10,1973,Carlton,5,3,11,4,15,12,19,19,Essendon,2,2,5,4,8,9,13,14
+9,Waverley Park,1973-06-04 14:10,1973,Richmond,3,2,6,2,6,4,10,6,Collingwood,7,6,10,8,14,12,15,15
+9,Junction Oval,1973-06-04 14:10,1973,Fitzroy,2,0,10,4,12,4,16,8,South Melbourne,3,3,4,3,7,14,7,15
+9,Western Oval,1973-06-04 14:10,1973,Footscray,0,0,3,6,5,6,9,14,Melbourne,2,6,3,7,9,12,10,14
+9,Kardinia Park,1973-06-04 14:10,1973,Geelong,2,2,5,3,11,4,14,6,North Melbourne,3,3,7,6,12,11,18,13
+9,Moorabbin Oval,1973-06-04 14:10,1973,St Kilda,2,2,5,6,7,7,11,12,Hawthorn,4,10,7,11,8,16,8,16
+10,Waverley Park,1973-06-09 14:10,1973,Carlton,2,4,7,5,10,7,13,13,Footscray,3,1,4,6,8,9,9,11
+10,Glenferrie Oval,1973-06-09 14:10,1973,Hawthorn,3,5,10,5,14,9,14,11,Collingwood,3,6,7,12,13,15,15,18
+10,Windy Hill,1973-06-09 14:10,1973,Essendon,0,1,6,8,9,12,15,17,Fitzroy,6,2,7,7,12,9,14,13
+10,M.C.G.,1973-06-09 14:10,1973,Melbourne,2,6,8,13,16,16,20,19,Geelong,3,7,4,9,6,12,11,15
+10,Arden St,1973-06-09 14:10,1973,North Melbourne,1,6,4,7,7,12,11,14,St Kilda,1,1,4,6,5,9,7,12
+10,Lake Oval,1973-06-09 14:10,1973,South Melbourne,0,1,0,3,2,4,9,8,Richmond,1,5,6,9,10,12,13,14
+11,Moorabbin Oval,1973-06-16 14:10,1973,St Kilda,1,1,4,5,7,10,13,13,Carlton,2,1,4,6,5,11,9,13
+11,Victoria Park,1973-06-16 14:10,1973,Collingwood,3,6,13,10,15,14,23,16,Essendon,5,5,6,11,14,15,16,16
+11,Kardinia Park,1973-06-16 14:10,1973,Geelong,1,3,6,3,13,4,16,8,Fitzroy,0,3,3,5,8,7,11,15
+11,Western Oval,1973-06-16 14:10,1973,Footscray,0,6,1,10,6,13,7,16,Richmond,5,1,9,3,13,5,17,7
+11,Waverley Park,1973-06-16 14:10,1973,South Melbourne,1,1,5,8,8,9,11,10,Hawthorn,5,5,10,9,14,14,17,17
+11,M.C.G.,1973-06-16 14:10,1973,Melbourne,4,2,7,5,9,8,13,12,North Melbourne,3,5,9,5,11,7,12,9
+12,Princes Park,1973-06-23 14:10,1973,Carlton,6,1,10,4,14,9,17,12,Geelong,2,3,7,6,8,11,9,13
+12,Lake Oval,1973-06-23 14:10,1973,South Melbourne,4,3,7,4,8,4,12,5,Collingwood,5,0,8,1,13,5,15,9
+12,M.C.G.,1973-06-23 14:10,1973,Richmond,3,6,8,11,12,19,15,21,Essendon,3,4,8,9,10,10,13,17
+12,Waverley Park,1973-06-23 14:10,1973,Footscray,4,1,6,6,9,12,10,15,Fitzroy,3,2,5,7,6,8,13,11
+12,Glenferrie Oval,1973-06-23 14:10,1973,Hawthorn,4,3,9,7,11,7,12,13,North Melbourne,2,4,4,5,10,6,10,10
+12,Moorabbin Oval,1973-06-23 14:10,1973,St Kilda,1,3,6,7,7,7,11,14,Melbourne,3,5,3,7,4,16,6,18
+13,Arden St,1973-06-30 14:10,1973,North Melbourne,4,4,7,9,13,14,16,19,Carlton,2,3,10,6,12,9,16,11
+13,Victoria Park,1973-06-30 14:10,1973,Collingwood,1,6,6,9,9,16,13,17,Footscray,4,2,6,4,9,4,14,6
+13,Windy Hill,1973-06-30 14:10,1973,Essendon,6,2,7,7,15,12,20,19,South Melbourne,4,4,8,10,10,11,16,14
+13,Junction Oval,1973-06-30 14:10,1973,Fitzroy,2,2,5,3,9,9,10,11,St Kilda,3,2,9,5,13,7,20,11
+13,Waverley Park,1973-06-30 14:10,1973,Geelong,7,4,10,4,12,7,13,11,Richmond,5,1,12,3,16,5,21,7
+13,M.C.G.,1973-06-30 14:10,1973,Melbourne,4,3,11,8,11,10,15,15,Hawthorn,2,6,4,10,9,18,15,22
+14,Glenferrie Oval,1973-07-07 14:10,1973,Hawthorn,4,4,8,11,11,15,14,24,Carlton,3,3,4,7,9,13,12,14
+14,Victoria Park,1973-07-07 14:10,1973,Collingwood,4,3,9,7,13,9,15,13,St Kilda,2,2,4,4,9,6,12,10
+14,Waverley Park,1973-07-07 14:10,1973,Essendon,4,1,11,1,16,3,21,6,Footscray,5,4,6,12,10,17,13,19
+14,M.C.G.,1973-07-07 14:10,1973,Melbourne,9,0,13,6,15,12,19,20,Fitzroy,4,5,8,8,12,12,14,13
+14,Lake Oval,1973-07-07 14:10,1973,South Melbourne,8,4,11,7,12,11,18,15,Geelong,3,4,6,5,10,5,12,6
+14,Arden St,1973-07-07 14:10,1973,North Melbourne,3,3,5,7,9,8,11,12,Richmond,4,4,10,8,14,10,17,15
+15,Princes Park,1973-07-14 14:10,1973,Carlton,6,6,8,9,15,10,18,14,Melbourne,1,2,3,5,7,8,12,9
+15,Kardinia Park,1973-07-14 14:10,1973,Geelong,8,4,10,6,11,9,13,10,Collingwood,1,4,3,11,7,15,13,18
+15,Windy Hill,1973-07-14 14:10,1973,Essendon,4,2,13,4,17,10,23,13,Hawthorn,4,3,10,4,14,5,18,8
+15,Junction Oval,1973-07-14 14:10,1973,Fitzroy,4,3,12,9,14,11,16,12,North Melbourne,5,4,6,8,9,12,13,18
+15,Western Oval,1973-07-14 14:10,1973,Footscray,6,3,9,4,11,6,12,7,South Melbourne,3,1,7,10,14,14,20,21
+15,Waverley Park,1973-07-14 14:10,1973,Richmond,3,2,7,5,10,9,13,12,St Kilda,4,2,6,5,9,7,11,11
+16,Junction Oval,1973-07-21 14:10,1973,Fitzroy,3,7,5,7,8,13,12,19,Carlton,3,3,6,5,7,10,11,14
+16,Waverley Park,1973-07-21 14:10,1973,Collingwood,5,4,7,8,9,10,10,11,North Melbourne,0,3,3,7,7,7,11,10
+16,Kardinia Park,1973-07-21 14:10,1973,Geelong,4,2,7,5,9,7,12,10,Essendon,1,1,5,8,10,12,11,15
+16,Western Oval,1973-07-21 14:10,1973,Footscray,2,1,5,5,5,6,6,9,Hawthorn,4,2,6,4,8,10,9,11
+16,M.C.G.,1973-07-21 14:10,1973,Richmond,4,5,9,7,11,12,16,14,Melbourne,2,3,3,8,5,14,9,19
+16,Moorabbin Oval,1973-07-21 14:10,1973,St Kilda,2,5,9,7,11,14,14,16,South Melbourne,4,4,6,8,9,12,13,15
+17,Princes Park,1973-07-28 14:10,1973,Carlton,3,4,6,9,11,15,15,17,Richmond,2,6,4,10,5,14,10,21
+17,M.C.G.,1973-07-28 14:10,1973,Melbourne,5,6,7,7,8,11,12,15,Collingwood,4,4,10,7,14,14,17,24
+17,Windy Hill,1973-07-28 14:10,1973,Essendon,2,2,5,9,9,10,15,12,St Kilda,4,4,5,10,7,13,10,19
+17,Glenferrie Oval,1973-07-28 14:10,1973,Hawthorn,4,2,10,5,14,7,15,10,Fitzroy,2,1,6,5,7,7,9,9
+17,Waverley Park,1973-07-28 14:10,1973,Footscray,4,5,7,9,14,11,21,15,Geelong,3,5,6,8,8,13,13,14
+17,Lake Oval,1973-07-28 14:10,1973,South Melbourne,5,4,9,8,15,12,19,16,North Melbourne,4,1,7,2,9,4,14,7
+18,Victoria Park,1973-08-04 14:10,1973,Collingwood,4,2,10,4,16,5,19,7,Carlton,3,5,8,8,10,12,15,16
+18,Arden St,1973-08-04 14:10,1973,North Melbourne,2,3,9,5,12,8,13,13,Essendon,5,4,7,4,12,5,14,10
+18,M.C.G.,1973-08-04 14:10,1973,Richmond,7,2,10,8,13,10,15,14,Fitzroy,4,2,7,4,11,7,13,14
+18,Moorabbin Oval,1973-08-04 14:10,1973,St Kilda,5,6,8,10,11,12,15,20,Footscray,4,1,7,4,8,9,12,14
+18,Kardinia Park,1973-08-04 14:10,1973,Geelong,1,1,7,8,10,10,14,11,Hawthorn,4,3,6,7,11,8,14,10
+18,Waverley Park,1973-08-04 14:10,1973,South Melbourne,2,3,6,6,11,9,12,14,Melbourne,0,2,4,5,7,8,11,12
+19,Princes Park,1973-08-11 14:10,1973,Carlton,8,2,13,7,17,11,20,17,South Melbourne,3,4,5,8,8,11,11,14
+19,Junction Oval,1973-08-11 14:10,1973,Fitzroy,2,5,2,11,7,13,10,19,Collingwood,3,2,6,4,10,7,19,10
+19,Windy Hill,1973-08-11 14:10,1973,Essendon,7,3,11,7,15,11,17,13,Melbourne,3,4,9,6,11,7,15,11
+19,Western Oval,1973-08-11 14:10,1973,Footscray,0,1,4,4,7,6,10,8,North Melbourne,4,3,7,5,9,10,10,14
+19,Waverley Park,1973-08-11 14:10,1973,Geelong,1,2,4,3,10,4,13,8,St Kilda,4,2,7,4,9,14,11,17
+19,Glenferrie Oval,1973-08-11 14:10,1973,Hawthorn,3,3,5,3,9,8,11,11,Richmond,6,5,7,7,8,8,12,10
+20,Waverley Park,1973-08-18 14:10,1973,Essendon,3,2,9,4,9,6,10,7,Carlton,3,3,5,6,13,8,17,9
+20,Victoria Park,1973-08-18 14:10,1973,Collingwood,1,2,2,6,6,9,8,11,Richmond,4,2,6,6,9,9,14,16
+20,Lake Oval,1973-08-18 14:10,1973,South Melbourne,4,3,6,4,9,7,15,11,Fitzroy,2,4,8,13,12,15,14,21
+20,M.C.G.,1973-08-18 14:10,1973,Melbourne,4,2,7,7,10,10,10,13,Footscray,4,3,11,4,15,4,17,8
+20,Arden St,1973-08-18 14:10,1973,North Melbourne,1,3,7,3,9,8,9,10,Geelong,2,1,5,4,5,4,7,6
+20,Glenferrie Oval,1973-08-18 14:10,1973,Hawthorn,4,3,6,7,8,8,11,11,St Kilda,1,2,5,5,12,8,15,8
+21,Western Oval,1973-08-25 14:10,1973,Footscray,3,4,4,6,8,13,10,15,Carlton,1,2,5,3,6,4,9,12
+21,Waverley Park,1973-08-25 14:10,1973,Collingwood,3,1,10,5,13,8,16,10,Hawthorn,5,5,10,5,11,8,13,10
+21,Junction Oval,1973-08-25 14:10,1973,Fitzroy,2,6,7,11,9,15,13,22,Essendon,2,6,3,10,6,16,9,23
+21,Kardinia Park,1973-08-25 14:10,1973,Geelong,4,3,7,7,13,8,17,11,Melbourne,6,4,9,6,11,9,14,14
+21,Moorabbin Oval,1973-08-25 14:10,1973,St Kilda,2,3,7,7,10,9,16,18,North Melbourne,4,5,6,8,12,9,14,12
+21,M.C.G.,1973-08-25 14:10,1973,Richmond,5,5,13,7,17,8,22,11,South Melbourne,4,5,7,6,11,12,13,16
+22,Princes Park,1973-09-01 14:10,1973,Carlton,6,2,13,7,17,12,20,15,St Kilda,6,3,7,4,9,5,13,9
+22,Windy Hill,1973-09-01 14:10,1973,Essendon,4,4,7,4,12,6,16,6,Collingwood,4,1,10,3,14,7,17,10
+22,Junction Oval,1973-09-01 14:10,1973,Fitzroy,3,3,6,6,10,9,17,15,Geelong,5,4,7,5,11,14,14,17
+22,M.C.G.,1973-09-01 14:10,1973,Richmond,3,6,4,10,7,14,10,16,Footscray,2,2,5,5,8,8,11,11
+22,Glenferrie Oval,1973-09-01 14:10,1973,Hawthorn,5,7,7,12,12,15,16,20,South Melbourne,2,3,7,7,9,11,11,13
+22,Waverley Park,1973-09-01 14:10,1973,North Melbourne,4,2,6,3,10,5,11,5,Melbourne,3,1,6,3,7,4,9,12
+Qualifying Final,M.C.G.,1973-09-08 14:30,1973,Richmond,3,2,5,4,7,7,10,11,Carlton,4,4,6,9,10,13,13,13
+Elimination Final,Waverley Park,1973-09-08 14:30,1973,Essendon,3,3,7,5,8,8,13,13,St Kilda,4,8,7,11,14,13,24,14
+Semi Final,Waverley Park,1973-09-15 14:30,1973,Collingwood,4,8,5,9,9,14,12,15,Carlton,1,6,6,11,9,12,15,17
+Semi Final,M.C.G.,1973-09-15 14:30,1973,Richmond,2,6,6,11,9,15,15,18,St Kilda,1,5,3,8,8,14,9,14
+Preliminary Final,M.C.G.,1973-09-22 14:30,1973,Collingwood,6,7,10,7,12,9,14,14,Richmond,2,2,4,7,10,13,15,15
+Grand Final,M.C.G.,1973-09-29 14:30,1973,Richmond,3,5,11,8,15,11,16,20,Carlton,2,2,7,6,9,9,12,14

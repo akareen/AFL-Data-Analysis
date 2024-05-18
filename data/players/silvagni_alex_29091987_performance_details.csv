@@ -1,0 +1,61 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Fremantle,2010,1,Adelaide,1,W,36,9,7,5,14,1,,1,,2,,,,2,,,6,10,1,,1,,,72
+Fremantle,2010,2,Essendon,2,W,36,8,5,5,13,1,,,6,1,2,2,1,2,1,,8,5,2,,5,,,87
+Fremantle,2010,3,Geelong,3,W,36,4,,2,6,,,1,8,,2,,,2,,,4,2,,,4,,,96
+Fremantle,2010,4,St Kilda,4,L,36,14,8,7,21,,,,2,4,6,,3,1,2,,6,15,,,5,,,70
+Fremantle,2010,5,Richmond,5,W,36,9,6,1,10,,,2,4,3,1,,3,,1,,2,8,,1,3,,,74
+Fremantle,2010,6,West Coast,6,W,36,10,2,3,13,,,,7,2,1,2,6,,3,,4,8,1,,6,,,79
+Fremantle,2010,7,Collingwood,8,L,36,10,8,4,14,1,,,1,2,1,,3,1,,,4,10,2,,7,1,,93
+Fremantle,2010,8,Sydney,9,W,36,6,,1,7,,,,4,4,1,1,1,1,,,3,3,,,6,,,92
+Fremantle,2010,9,St Kilda,12,L,36,10,4,3,13,,,,3,7,1,,3,1,,,6,7,1,,3,,,76
+Fremantle,2010,10,Carlton,13,W,36,4,1,2,6,,,,3,,1,1,2,,2,,4,2,,,8,,,87
+Fremantle,2010,11,Port Adelaide,14,W,36,6,3,3,9,,,,3,2,,,2,,1,,1,8,,,3,,,92
+Fremantle,2010,12,Richmond,15,L,36,8,6,2,10,,,,6,6,1,1,,,,,3,6,1,,11,,,100
+Fremantle,2010,13,Melbourne,16,W,36,5,5,5,10,,,1,3,1,3,,1,,,,2,8,1,,2,2,,94
+Fremantle,2010,14,Hawthorn,EF,W,36,11,5,1,12,1,,4,2,1,2,,,3,,,6,6,2,1,4,2,,56
+Fremantle,2010,15,Geelong,SF,L,36,6,6,2,8,,,,,1,,,3,,1,,2,6,1,1,6,,,89
+Fremantle,2011,16,Brisbane Lions,14,W,36,11,9,6,17,,,1,2,6,,,2,2,1,,5,12,3,,4,,,92
+Fremantle,2011,17,Gold Coast,15,W,36,7,4,7,14,,,,3,3,1,,,,,,10,4,3,,6,,,87
+Fremantle,2011,18,Sydney,17,W,36,5,3,4,9,,,,6,3,,,4,,1,,7,3,1,,6,,,87
+Fremantle,2011,19,West Coast,18,L,36,4,1,1,5,,,,2,,1,,1,2,,,4,1,1,,6,,,90
+Fremantle,2011,20,Hawthorn,19,L,36,9,7,9,18,,,,5,4,,1,2,1,1,,10,9,2,,7,,,90
+Fremantle,2011,21,St Kilda,20,L,36,7,2,4,11,,,,2,5,1,,2,,,,4,7,,,4,,,86
+Fremantle,2011,22,Carlton,21,L,36,13,9,4,17,1,,,3,4,5,,2,2,1,,7,10,3,1,4,,,90
+Fremantle,2011,23,North Melbourne,22,L,36,8,4,5,13,,,,2,2,2,,4,3,,,6,7,3,,2,,,69
+Fremantle,2011,24,Western Bulldogs,24,L,36,10,7,5,15,,,,1,2,3,,2,1,2,,7,8,2,,2,,,83
+Fremantle,2012,25,West Coast,9,L,36,9,5,4,13,,,,3,6,1,1,1,2,,,7,6,1,,3,,,95
+Fremantle,2012,26,Essendon,13,L,36,11,9,4,15,,,,1,1,,,3,1,2,,2,12,,,3,,,92
+Fremantle,2012,27,Collingwood,14,L,36,6,3,5,11,,,2,2,3,,2,3,3,2,,5,7,,,4,,,94
+Fremantle,2012,28,Geelong,EF,W,36,4,3,1,5,,,,4,,,,4,,4,,1,3,,,10,,,91
+Fremantle,2012,29,Adelaide,SF,L,36,7,4,2,9,,,,5,1,,,4,,2,,3,6,,,6,,,90
+Fremantle,2013,30↓,Gold Coast,6,W,36,4,2,3,7,1,,,5,,,,3,1,1,,4,4,,,2,,1,66
+Fremantle,2013,31,Collingwood,7,W,36,7,8,6,13,1,3,,6,,2,,6,2,2,,4,10,,4,4,,,79
+Fremantle,2013,32↓,Sydney,8,D,36,1,,3,4,,,,,,,,,,,,1,2,,,1,,,45
+Fremantle,2013,33,Melbourne,9,W,36,9,5,3,12,1,,,3,,2,1,3,,2,,6,6,1,2,1,,1,72
+Fremantle,2013,34↓,Brisbane Lions,12,W,36,3,3,2,5,,,,1,,,,1,,1,,1,4,,,3,,,53
+Fremantle,2013,35,West Coast,16,W,36,6,5,1,7,,,,,3,,,2,,1,,3,4,2,,7,,,100
+Fremantle,2013,36↓,Richmond,17,L,36,5,2,3,8,1,,,3,,1,,1,1,1,,4,4,1,,3,,,64
+Fremantle,2013,37,Greater Western Sydney,20,W,36,11,8,1,12,,,,2,3,3,,1,2,1,,3,9,1,,8,,1,92
+Fremantle,2013,38,Melbourne,21,W,36,5,6,5,10,1,,3,3,,1,,2,,2,,3,8,,1,3,,,89
+Fremantle,2013,39,St Kilda,23,L,36,5,4,5,10,,,,3,2,,,1,1,,,7,4,2,,9,,,99
+Fremantle,2014,40,Port Adelaide,8,L,36,10,4,2,12,,,,3,4,1,1,4,3,2,,5,7,,,6,,,97
+Fremantle,2014,41↓,Geelong,9,W,36,4,4,4,8,,,,2,,,,1,,,,3,5,1,,,,,61
+Fremantle,2014,42,Richmond,13,W,36,6,1,3,9,,,,,4,1,1,2,1,2,,5,4,,,3,,,95
+Fremantle,2014,43,Brisbane Lions,14,W,36,9,6,1,10,,,2,2,2,2,,1,1,,,4,5,1,,6,,,92
+Fremantle,2014,44,Hawthorn,21,W,36,14,7,5,19,,,,1,9,2,,1,,,,5,13,2,,3,,,96
+Fremantle,2014,45,Brisbane Lions,22,W,36,6,5,1,7,,,,3,3,,,,,,,1,6,,,8,,,100
+Fremantle,2014,46,Sydney,QF,L,36,2,2,3,5,,,,8,1,,,5,1,4,,2,4,,,5,,,100
+Fremantle,2015,47,St Kilda,19,W,36,12,10,5,17,,,,2,,1,,2,,1,,6,12,2,,2,,,95
+Fremantle,2015,48,West Coast,20,L,36,2,1,3,5,,,,1,1,,,7,1,6,,2,2,,,3,,,100
+Fremantle,2016,49,Sydney,19,L,36,8,6,2,10,,,,1,1,,,3,,2,,3,7,1,,1,,,82
+Fremantle,2016,50,West Coast,20,L,36,12,6,4,16,,,,3,4,2,,5,2,1,,6,10,1,,8,,,69
+Fremantle,2016,51,Adelaide,21,L,36,9,5,5,14,,,,,4,1,,1,1,,,8,7,1,,5,,,83
+Fremantle,2016,52,Greater Western Sydney,22,L,36,8,6,9,17,,,,1,,1,,2,2,1,,8,10,1,,2,,,88
+Fremantle,2016,53,Western Bulldogs,23,W,36,7,6,7,14,,,,1,,,,1,,,,3,11,,,1,,,78
+Carlton,2017,54,Sydney,6,W,44,5,5,3,8,,,,5,1,,,,3,,,6,3,2,,7,,,94
+Carlton,2017,55,Collingwood,7,W,44,8,5,5,13,,,,7,4,,,4,2,1,,8,5,3,,2,,,80
+Carlton,2017,56,St Kilda,8,L,44,9,5,4,13,,,,3,7,,,1,1,1,,5,6,2,,6,,,90
+Carlton,2017,57,Fremantle,9,L,44,6,8,9,15,,,,4,2,1,,3,,2,,5,10,2,,4,,,98
+Carlton,2017,58,North Melbourne,10,L,44,13,3,4,17,,,,7,4,,1,5,3,1,,9,8,2,,9,,,97
+Carlton,2017,59,Greater Western Sydney,12,W,44,,,,,,,,1,,,,,,,,,,,,1,,,4
+Carlton,2017,60,Western Bulldogs,17,L,44,4,5,3,7,,,,6,2,,,1,,1,,4,4,1,,3,,,60

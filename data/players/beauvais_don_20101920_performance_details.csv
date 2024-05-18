@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Carlton,1945,1,Geelong,8,W,17,,,,,2,,,,,,,,,,,,,,,,,,
+Carlton,1945,2,Footscray,9,L,17,,,,,3,,,,,,,,,,,,,,,,,,
+Carlton,1945,3,North Melbourne,10,W,17,,,,,,,,,,,,,,,,,,,,,,,
+Carlton,1945,4,Melbourne,12,W,17,,,,,,,,,,,,,,,,,,,,,,,
+Hawthorn,1946,5,Melbourne,6,W,26,,,,,,,,,,,,,,,,,,,,,,,
+Hawthorn,1946,6,Footscray,7,L,26,,,,,,,,,,,,,,,,,,,,,,,
+Hawthorn,1946,7,Fitzroy,8,L,26,,,,,1,,,,,,,,,,,,,,,,,,
+Hawthorn,1946,8,North Melbourne,9,W,26,,,,,,,,,,,,,,,,,,,,,,,
+Hawthorn,1946,9,St Kilda,10,L,26,,,,,,,,,,,,,,,,,,,,,,,
+Hawthorn,1946,10,Richmond,11,L,26,,,,,,,,,,,,,,,,,,,,,,,
+Hawthorn,1946,11,Fitzroy,19,L,26,,,,,,,,,,,,,,,,,,,,,,,

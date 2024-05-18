@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Carlton,1928,1,South Melbourne,17,W,9,,,,,,,,,,,,,,,,,,,,,,,
+Carlton,1928,2,Collingwood,18,W,9,,,,,,,,,,,,,,,,,,,,,,,
+Carlton,1928,3,Richmond,SF,L,9,,,,,,,,,,,,,,,,,,,,,,,
+Carlton,1929,4,Footscray,11,W,9,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1930,5,North Melbourne,6,W,29,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1930,6,Melbourne,7,W,29,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1930,7,St Kilda,8,W,29,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1930,8,Carlton,10,L,29,,,,,,,,,,,,,,,,,,,,,,,

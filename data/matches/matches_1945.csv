@@ -1,0 +1,125 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Princes Park,1945-04-21 14:45,1945,Carlton,3,2,3,4,8,6,13,9,Melbourne,1,4,6,13,12,14,15,18
+1,Victoria Park,1945-04-21 14:45,1945,Collingwood,2,4,5,5,10,7,13,13,North Melbourne,4,1,6,4,7,5,10,10
+1,Windy Hill,1945-04-21 14:45,1945,Essendon,7,8,12,10,19,14,22,18,Hawthorn,2,0,6,4,7,7,12,7
+1,Kardinia Park,1945-04-21 14:45,1945,Geelong,2,2,4,4,7,5,10,8,Fitzroy,2,0,6,5,11,11,15,16
+1,Punt Rd,1945-04-21 14:45,1945,Richmond,4,0,7,4,9,6,14,11,Footscray,5,2,8,6,12,8,16,9
+1,Junction Oval,1945-04-21 14:45,1945,St Kilda,5,7,7,8,8,11,10,17,South Melbourne,4,4,8,9,11,14,17,16
+2,Glenferrie Oval,1945-04-28 14:45,1945,Hawthorn,4,2,8,5,12,7,16,10,Carlton,1,3,5,5,8,12,9,18
+2,Junction Oval,1945-04-28 14:45,1945,South Melbourne,4,3,7,7,10,14,12,14,Collingwood,3,0,5,7,6,8,11,10
+2,Brunswick St,1945-04-28 14:45,1945,Fitzroy,3,5,6,7,8,11,8,16,Essendon,4,4,6,6,7,8,9,10
+2,Western Oval,1945-04-28 14:45,1945,Footscray,8,1,11,1,18,7,18,9,Geelong,2,0,7,2,8,3,12,9
+2,Punt Rd,1945-04-28 14:45,1945,Melbourne,3,3,6,8,10,11,17,16,St Kilda,3,3,5,4,6,7,7,7
+2,Arden St,1945-04-28 14:45,1945,North Melbourne,0,2,4,7,4,12,7,18,Richmond,4,4,6,6,7,15,8,17
+3,Windy Hill,1945-05-05 14:45,1945,Essendon,4,4,10,8,14,14,22,18,Carlton,4,3,5,6,6,7,7,8
+3,Victoria Park,1945-05-05 14:45,1945,Collingwood,2,2,6,15,9,19,10,21,Melbourne,3,2,5,3,8,9,11,12
+3,Brunswick St,1945-05-05 14:45,1945,Fitzroy,1,3,8,6,11,7,12,9,Footscray,2,7,8,7,10,11,14,14
+3,Arden St,1945-05-05 14:45,1945,North Melbourne,1,2,6,7,9,8,14,15,Geelong,3,7,6,8,7,11,10,15
+3,Junction Oval,1945-05-05 14:45,1945,St Kilda,2,2,7,7,9,9,15,10,Hawthorn,6,3,6,5,9,8,11,13
+3,Punt Rd,1945-05-05 14:45,1945,Richmond,4,4,5,7,10,8,13,11,South Melbourne,4,5,7,8,9,13,15,19
+4,Princes Park,1945-05-12 14:45,1945,Carlton,2,1,5,5,8,10,12,12,Fitzroy,3,3,6,5,8,8,11,11
+4,Victoria Park,1945-05-12 14:45,1945,Collingwood,0,4,4,11,7,16,13,23,Hawthorn,3,4,4,7,9,8,9,9
+4,Junction Oval,1945-05-12 14:45,1945,St Kilda,1,0,4,10,6,11,14,17,Essendon,6,5,8,7,17,17,23,18
+4,Western Oval,1945-05-12 14:45,1945,Footscray,7,4,7,7,10,12,11,13,North Melbourne,1,1,7,5,8,5,14,8
+4,Kardinia Park,1945-05-12 14:45,1945,Geelong,3,6,5,9,8,11,9,13,South Melbourne,3,5,6,8,7,17,10,23
+4,Punt Rd,1945-05-12 14:45,1945,Melbourne,0,3,5,7,7,7,9,11,Richmond,7,2,7,4,13,6,13,7
+5,Princes Park,1945-05-19 14:45,1945,Carlton,3,5,6,8,12,11,12,18,St Kilda,4,3,5,6,8,9,11,13
+5,Windy Hill,1945-05-19 14:45,1945,Essendon,2,6,7,8,8,13,12,16,Collingwood,5,2,6,11,8,14,11,21
+5,Brunswick St,1945-05-19 14:45,1945,Fitzroy,4,3,7,7,9,8,11,10,North Melbourne,6,4,8,4,10,10,13,14
+5,Junction Oval,1945-05-19 14:45,1945,South Melbourne,3,0,8,2,12,6,15,9,Footscray,3,2,5,5,7,9,12,11
+5,Punt Rd,1945-05-19 14:45,1945,Melbourne,6,2,11,3,12,5,18,12,Geelong,2,1,8,3,13,6,15,10
+5,Glenferrie Oval,1945-05-19 14:45,1945,Hawthorn,3,2,8,4,13,7,15,7,Richmond,4,2,10,3,15,4,20,11
+6,Victoria Park,1945-05-26 14:45,1945,Collingwood,3,4,8,7,11,15,15,18,Carlton,2,4,5,4,8,7,12,11
+6,Punt Rd,1945-05-26 14:45,1945,Richmond,3,1,7,8,9,9,12,11,Essendon,4,7,6,10,7,11,9,17
+6,Junction Oval,1945-05-26 14:45,1945,St Kilda,0,2,3,6,3,10,8,20,Fitzroy,4,4,5,8,9,15,12,21
+6,Western Oval,1945-05-26 14:45,1945,Footscray,3,2,6,8,7,10,11,16,Melbourne,2,7,3,9,7,12,7,13
+6,Kardinia Park,1945-05-26 14:45,1945,Geelong,5,4,8,5,9,13,10,16,Hawthorn,3,0,4,2,8,3,10,8
+6,Arden St,1945-05-26 14:45,1945,North Melbourne,3,3,6,5,7,7,9,12,South Melbourne,1,3,2,5,6,8,8,10
+7,Princes Park,1945-06-02 14:30,1945,Carlton,3,3,7,9,8,14,12,17,Richmond,5,5,8,11,9,13,13,16
+7,Junction Oval,1945-06-02 14:30,1945,St Kilda,4,4,5,6,6,9,7,12,Collingwood,3,2,11,8,15,9,19,16
+7,Windy Hill,1945-06-02 14:30,1945,Essendon,6,7,6,15,8,22,14,28,Geelong,1,3,2,7,6,9,9,10
+7,Brunswick St,1945-06-02 14:30,1945,Fitzroy,2,8,4,13,4,18,7,23,South Melbourne,2,2,6,8,8,11,10,15
+7,Glenferrie Oval,1945-06-02 14:30,1945,Hawthorn,4,4,7,8,8,12,11,15,Footscray,3,3,8,9,11,12,17,14
+7,Punt Rd,1945-06-02 14:30,1945,Melbourne,4,2,4,4,7,9,10,12,North Melbourne,2,3,9,4,13,8,18,11
+8,Kardinia Park,1945-06-09 14:30,1945,Geelong,4,3,6,6,8,7,10,9,Carlton,5,6,9,11,11,15,14,21
+8,Brunswick St,1945-06-09 14:30,1945,Fitzroy,6,2,13,8,18,12,23,15,Collingwood,1,3,3,4,5,8,8,10
+8,Western Oval,1945-06-09 14:30,1945,Footscray,2,2,6,8,8,10,12,15,Essendon,1,6,1,10,4,13,7,14
+8,Arden St,1945-06-09 14:30,1945,North Melbourne,2,2,5,4,9,5,16,10,Hawthorn,1,5,4,6,6,7,10,8
+8,Junction Oval,1945-06-09 14:30,1945,South Melbourne,4,5,5,8,9,13,12,16,Melbourne,1,1,5,2,6,2,9,4
+8,Punt Rd,1945-06-09 14:30,1945,Richmond,5,2,8,4,12,6,16,15,St Kilda,5,1,9,5,12,5,13,6
+9,Princes Park,1945-06-16 14:30,1945,Carlton,2,1,7,4,7,7,11,11,Footscray,4,4,7,7,9,13,11,20
+9,Victoria Park,1945-06-16 14:30,1945,Collingwood,5,3,7,5,10,10,13,12,Richmond,4,4,4,9,7,10,8,13
+9,Windy Hill,1945-06-16 14:30,1945,Essendon,5,6,10,10,10,16,12,20,North Melbourne,3,6,7,8,10,12,18,14
+9,Punt Rd,1945-06-16 14:30,1945,Melbourne,4,4,5,5,9,11,11,15,Fitzroy,6,3,11,6,13,12,14,17
+9,Junction Oval,1945-06-16 14:30,1945,St Kilda,3,3,6,9,11,14,14,17,Geelong,5,4,7,8,10,8,14,12
+9,Glenferrie Oval,1945-06-16 14:30,1945,Hawthorn,5,1,8,3,9,8,12,10,South Melbourne,2,4,8,8,12,9,20,10
+10,Arden St,1945-06-23 14:30,1945,North Melbourne,3,0,5,10,5,13,7,17,Carlton,3,3,6,5,9,11,12,12
+10,Kardinia Park,1945-06-23 14:30,1945,Geelong,1,1,6,2,6,4,7,5,Collingwood,9,4,13,10,17,15,21,18
+10,Junction Oval,1945-06-23 14:30,1945,South Melbourne,3,2,5,7,8,10,12,15,Essendon,2,1,3,5,4,9,5,11
+10,Brunswick St,1945-06-23 14:30,1945,Fitzroy,4,6,5,9,7,11,12,14,Richmond,1,0,8,5,9,5,13,11
+10,Western Oval,1945-06-23 14:30,1945,Footscray,3,3,5,7,10,10,16,15,St Kilda,3,1,4,5,5,5,7,6
+10,Punt Rd,1945-06-23 14:30,1945,Melbourne,4,1,9,6,10,6,15,14,Hawthorn,2,6,5,10,10,13,12,14
+11,Princes Park,1945-06-30 14:30,1945,Carlton,1,1,2,5,6,5,8,8,South Melbourne,1,4,2,4,6,7,7,8
+11,Victoria Park,1945-06-30 14:30,1945,Collingwood,2,2,3,6,5,9,9,10,Footscray,0,4,6,7,6,8,10,9
+11,Windy Hill,1945-06-30 14:30,1945,Essendon,2,0,3,1,4,5,7,12,Melbourne,3,6,5,10,8,12,9,14
+11,Glenferrie Oval,1945-06-30 14:30,1945,Hawthorn,2,4,6,5,7,7,7,8,Fitzroy,3,4,5,6,9,12,10,15
+11,Punt Rd,1945-06-30 14:30,1945,Richmond,6,8,6,14,10,24,14,28,Geelong,1,0,5,3,6,3,8,8
+11,Junction Oval,1945-06-30 14:30,1945,St Kilda,2,6,3,9,6,13,6,15,North Melbourne,1,2,4,9,6,13,6,21
+12,Punt Rd,1945-07-07 14:30,1945,Melbourne,3,1,7,6,8,7,12,8,Carlton,5,5,8,7,10,8,12,9
+12,Arden St,1945-07-07 14:30,1945,North Melbourne,2,4,5,5,9,9,11,11,Collingwood,4,2,8,2,11,2,13,5
+12,Glenferrie Oval,1945-07-07 14:30,1945,Hawthorn,2,4,9,9,10,14,15,17,Essendon,2,1,2,4,2,8,7,12
+12,Brunswick St,1945-07-07 14:30,1945,Fitzroy,2,3,9,11,10,16,17,27,Geelong,2,1,2,4,3,7,4,9
+12,Western Oval,1945-07-07 14:30,1945,Footscray,2,3,6,8,9,8,15,12,Richmond,5,3,7,5,9,5,11,8
+12,Junction Oval,1945-07-07 14:30,1945,South Melbourne,2,5,4,10,10,17,14,22,St Kilda,1,4,3,7,4,11,6,14
+13,Princes Park,1945-07-14 14:30,1945,Carlton,4,2,10,6,10,8,13,12,Hawthorn,2,3,2,6,5,9,8,11
+13,Victoria Park,1945-07-14 14:30,1945,Collingwood,2,5,10,6,11,8,11,14,South Melbourne,4,2,5,4,6,8,7,12
+13,Windy Hill,1945-07-14 14:30,1945,Essendon,0,4,5,5,6,7,7,14,Fitzroy,4,5,5,9,7,11,11,14
+13,Kardinia Park,1945-07-14 14:30,1945,Geelong,4,3,7,9,9,12,11,14,Footscray,4,7,7,11,10,17,13,19
+13,Junction Oval,1945-07-14 14:30,1945,St Kilda,6,1,8,3,8,6,9,10,Melbourne,3,3,4,8,5,13,10,23
+13,Punt Rd,1945-07-14 14:30,1945,Richmond,3,7,10,8,15,10,18,10,North Melbourne,7,3,11,5,12,7,15,9
+14,Princes Park,1945-07-21 14:30,1945,Carlton,4,1,6,5,8,6,11,9,Essendon,1,5,5,9,6,12,10,18
+14,Punt Rd,1945-07-21 14:30,1945,Melbourne,3,6,5,6,8,12,10,17,Collingwood,3,3,6,12,10,13,16,16
+14,Western Oval,1945-07-21 14:30,1945,Footscray,0,0,3,1,5,3,9,7,Fitzroy,3,6,4,7,5,11,8,15
+14,Kardinia Park,1945-07-21 14:30,1945,Geelong,4,1,8,5,9,6,9,9,North Melbourne,0,7,3,12,8,15,13,19
+14,Glenferrie Oval,1945-07-21 14:30,1945,Hawthorn,5,4,10,6,12,11,15,15,St Kilda,5,1,7,1,10,3,13,3
+14,Junction Oval,1945-07-21 14:30,1945,South Melbourne,5,4,7,6,12,10,14,11,Richmond,2,3,5,9,7,12,10,17
+15,Brunswick St,1945-07-28 14:30,1945,Fitzroy,1,2,3,6,4,10,7,12,Carlton,3,0,7,1,9,3,9,4
+15,Glenferrie Oval,1945-07-28 14:30,1945,Hawthorn,1,0,3,6,5,11,9,13,Collingwood,4,1,9,3,12,6,15,9
+15,Windy Hill,1945-07-28 14:30,1945,Essendon,2,4,5,8,12,12,18,15,St Kilda,2,1,2,2,3,3,3,6
+15,Arden St,1945-07-28 14:30,1945,North Melbourne,2,4,4,5,9,7,11,7,Footscray,2,1,6,3,7,3,8,6
+15,Junction Oval,1945-07-28 14:30,1945,South Melbourne,5,11,10,15,15,22,18,27,Geelong,1,1,7,5,8,5,10,7
+15,Punt Rd,1945-07-28 14:30,1945,Richmond,3,2,9,7,11,9,13,14,Melbourne,5,3,7,5,9,11,11,13
+16,Junction Oval,1945-08-04 14:45,1945,St Kilda,1,5,2,6,6,12,7,15,Carlton,1,2,6,7,10,8,11,13
+16,Victoria Park,1945-08-04 14:45,1945,Collingwood,4,3,9,6,12,8,16,8,Essendon,1,4,3,6,5,10,10,15
+16,Arden St,1945-08-04 14:45,1945,North Melbourne,3,3,5,5,7,5,12,6,Fitzroy,1,1,2,3,4,7,4,9
+16,Western Oval,1945-08-04 14:45,1945,Footscray,1,5,3,8,7,12,7,13,South Melbourne,0,1,3,3,5,4,8,8
+16,Kardinia Park,1945-08-04 14:45,1945,Geelong,4,2,5,3,7,7,7,14,Melbourne,5,2,6,8,10,10,17,13
+16,Punt Rd,1945-08-04 14:45,1945,Richmond,6,3,8,6,13,9,15,15,Hawthorn,4,1,9,2,13,2,19,7
+17,Princes Park,1945-08-11 14:45,1945,Carlton,3,3,7,4,12,9,13,11,Collingwood,0,1,6,3,8,5,13,5
+17,Windy Hill,1945-08-11 14:45,1945,Essendon,1,2,6,10,10,13,14,22,Richmond,4,6,6,7,10,11,10,13
+17,Brunswick St,1945-08-11 14:45,1945,Fitzroy,6,11,8,15,13,19,17,27,St Kilda,1,2,2,8,3,10,8,14
+17,Punt Rd,1945-08-11 14:45,1945,Melbourne,3,3,4,6,9,15,12,18,Footscray,4,2,7,7,9,7,12,9
+17,Glenferrie Oval,1945-08-11 14:45,1945,Hawthorn,4,11,5,16,11,18,14,21,Geelong,1,1,4,4,6,7,9,13
+17,Junction Oval,1945-08-11 14:45,1945,South Melbourne,5,2,9,2,16,6,21,8,North Melbourne,0,5,5,11,7,15,10,16
+18,Punt Rd,1945-08-18 14:45,1945,Richmond,3,2,5,4,10,7,12,9,Carlton,2,3,5,6,9,8,13,15
+18,Victoria Park,1945-08-18 14:45,1945,Collingwood,4,7,7,12,13,16,17,19,St Kilda,0,3,2,6,4,7,5,12
+18,Kardinia Park,1945-08-18 14:45,1945,Geelong,3,1,7,1,10,5,14,7,Essendon,8,4,11,9,14,10,16,13
+18,Junction Oval,1945-08-18 14:45,1945,South Melbourne,0,3,4,5,7,7,10,13,Fitzroy,4,5,6,8,10,13,11,16
+18,Western Oval,1945-08-18 14:45,1945,Footscray,3,2,9,7,11,8,15,15,Hawthorn,3,1,6,4,9,8,13,11
+18,Arden St,1945-08-18 14:45,1945,North Melbourne,0,2,3,10,4,11,11,17,Melbourne,2,4,4,5,7,9,8,10
+19,Princes Park,1945-08-25 14:45,1945,Carlton,5,3,12,9,14,13,23,23,Geelong,1,2,2,6,7,8,9,13
+19,Victoria Park,1945-08-25 14:45,1945,Collingwood,3,2,5,3,13,5,16,7,Fitzroy,0,2,4,13,6,13,10,17
+19,Windy Hill,1945-08-25 14:45,1945,Essendon,4,3,7,7,9,11,15,17,Footscray,1,4,2,8,8,12,9,13
+19,Glenferrie Oval,1945-08-25 14:45,1945,Hawthorn,4,2,5,2,7,7,11,11,North Melbourne,0,1,3,6,5,9,10,10
+19,Punt Rd,1945-08-25 14:45,1945,Melbourne,1,3,5,6,9,11,10,13,South Melbourne,2,10,5,13,9,17,12,20
+19,Junction Oval,1945-08-25 14:45,1945,St Kilda,2,2,3,4,5,4,7,6,Richmond,4,4,9,7,9,16,13,22
+20,Western Oval,1945-09-01 14:45,1945,Footscray,2,5,5,8,6,12,8,14,Carlton,7,7,10,12,13,14,16,19
+20,Punt Rd,1945-09-01 14:45,1945,Richmond,3,2,3,5,5,14,8,19,Collingwood,6,8,9,10,9,12,12,15
+20,Arden St,1945-09-01 14:45,1945,North Melbourne,4,5,7,9,10,12,14,17,Essendon,1,3,4,7,10,14,13,17
+20,Brunswick St,1945-09-01 14:45,1945,Fitzroy,4,7,8,16,12,21,14,22,Melbourne,4,1,9,2,12,6,15,11
+20,Kardinia Park,1945-09-01 14:45,1945,Geelong,3,2,6,7,10,10,13,14,St Kilda,2,2,3,4,8,7,9,11
+20,Junction Oval,1945-09-01 14:45,1945,South Melbourne,7,4,8,9,13,13,16,16,Hawthorn,2,1,4,6,7,7,11,10
+Semi Final,Princes Park,1945-09-08 14:30,1945,North Melbourne,0,4,1,12,2,13,8,20,Carlton,5,3,8,4,13,7,14,10
+Semi Final,Princes Park,1945-09-15 14:30,1945,South Melbourne,2,1,3,5,11,8,13,10,Collingwood,1,2,4,7,9,10,11,11
+Preliminary Final,Princes Park,1945-09-22 14:30,1945,Collingwood,5,2,6,4,11,7,12,8,Carlton,1,0,4,7,6,9,13,12
+Grand Final,Princes Park,1945-09-29 14:50,1945,South Melbourne,0,5,6,9,8,10,10,15,Carlton,2,4,7,5,12,9,15,13

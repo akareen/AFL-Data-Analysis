@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Melbourne,1926,1,North Melbourne,3,W,34,,,,,1,,,,,,,,,,,,,,,,,,
+Melbourne,1926,2,Collingwood,4,L,34,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,1926,3,South Melbourne,7,W,34,,,,,1,,,,,,,,,,,,,,,,,,
+Melbourne,1926,4,Hawthorn,9,W,34,,,,,3,,,,,,,,,,,,,,,,,,
+Melbourne,1926,5,Geelong,10,L,34,,,,,1,,,,,,,,,,,,,,,,,,
+Melbourne,1926,6,Richmond,16,W,34,,,,,2,,,,,,,,,,,,,,,,,,
+Melbourne,1926,7,Footscray,17,W,34,,,,,3,,,,,,,,,,,,,,,,,,
+Melbourne,1926,8,Hawthorn,18,W,34,,,,,7,,,,,,,,,,,,,,,,,,
+Melbourne,1926,9,Collingwood,SF,W,34,,,,,3,,,,,,,,,,,,,,,,,,
+Melbourne,1926,10,Essendon,PF,W,34,,,,,3,,,,,,,,,,,,,,,,,,
+Melbourne,1926,11,Collingwood,GF,W,34,,,,,2,,,,,,,,,,,,,,,,,,

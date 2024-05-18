@@ -1,0 +1,73 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Princes Park,1905-05-06 15:00,1905,Carlton,1,4,4,5,6,9,8,12,Essendon,2,1,6,5,6,9,7,10
+1,Brunswick St,1905-05-06 15:00,1905,Fitzroy,0,5,2,8,3,8,4,10,Collingwood,1,2,2,4,2,10,3,13
+1,Corio Oval,1905-05-06 15:00,1905,Geelong,2,2,3,6,3,6,5,9,South Melbourne,1,4,1,6,5,10,8,14
+1,M.C.G.,1905-05-06 15:00,1905,Melbourne,1,3,4,5,6,6,9,8,St Kilda,0,2,2,5,4,5,6,10
+2,Victoria Park,1905-05-13 15:00,1905,Collingwood,2,5,5,8,6,8,10,10,Carlton,2,2,2,5,4,9,4,14
+2,East Melbourne,1905-05-13 15:00,1905,Essendon,2,3,6,3,10,9,12,10,Geelong,1,0,2,2,3,2,7,6
+2,Junction Oval,1905-05-13 15:00,1905,St Kilda,1,1,3,3,3,7,4,9,Fitzroy,2,4,5,4,6,8,9,10
+2,Lake Oval,1905-05-13 15:00,1905,South Melbourne,4,4,7,6,8,6,11,7,Melbourne,3,1,5,3,7,6,10,7
+3,Lake Oval,1905-05-20 15:00,1905,South Melbourne,1,4,3,9,3,12,5,15,Carlton,1,3,3,8,7,12,7,13
+3,Junction Oval,1905-05-20 15:00,1905,St Kilda,1,2,2,6,4,7,10,10,Collingwood,3,3,6,7,13,10,18,10
+3,M.C.G.,1905-05-20 15:00,1905,Melbourne,1,4,4,5,6,10,8,14,Essendon,2,2,3,5,4,5,5,9
+3,Brunswick St,1905-05-20 15:00,1905,Fitzroy,3,2,4,6,6,12,10,16,Geelong,1,3,1,8,1,9,4,11
+4,Princes Park,1905-05-27 15:00,1905,Carlton,0,3,1,4,3,5,5,7,Fitzroy,4,6,7,8,10,12,10,13
+4,Victoria Park,1905-05-27 15:00,1905,Collingwood,2,3,3,7,4,14,5,16,Melbourne,2,1,2,2,3,4,4,7
+4,East Melbourne,1905-05-27 15:00,1905,Essendon,4,0,8,3,13,5,14,11,South Melbourne,0,4,3,4,4,6,5,9
+4,Corio Oval,1905-05-27 15:00,1905,Geelong,0,0,3,2,4,5,5,13,St Kilda,2,3,4,4,7,4,7,4
+5,Victoria Park,1905-06-03 15:00,1905,Collingwood,0,3,4,6,9,6,12,9,South Melbourne,0,2,0,4,0,7,2,10
+5,M.C.G.,1905-06-03 15:00,1905,Melbourne,0,3,1,7,2,8,3,12,Fitzroy,1,1,1,1,4,7,5,8
+5,Princes Park,1905-06-05 15:00,1905,Carlton,1,3,4,5,4,9,5,10,Geelong,1,1,2,1,4,2,4,4
+5,Junction Oval,1905-06-05 15:00,1905,St Kilda,0,1,2,3,2,3,5,9,Essendon,2,7,2,7,7,11,7,12
+6,M.C.G.,1905-06-10 15:00,1905,Melbourne,1,1,3,5,4,7,5,8,Carlton,0,1,0,3,3,5,6,5
+6,Corio Oval,1905-06-10 15:00,1905,Geelong,1,1,1,1,2,1,4,3,Collingwood,0,4,1,5,4,6,6,10
+6,Brunswick St,1905-06-10 15:00,1905,Fitzroy,2,1,2,1,3,3,5,5,Essendon,0,5,1,8,1,9,3,10
+6,Lake Oval,1905-06-10 15:00,1905,South Melbourne,1,2,3,5,4,11,6,11,St Kilda,1,1,1,4,1,5,3,6
+7,Junction Oval,1905-06-17 15:00,1905,St Kilda,1,0,1,3,1,3,3,7,Carlton,1,5,1,7,6,11,8,15
+7,East Melbourne,1905-06-17 15:00,1905,Essendon,1,1,2,3,4,5,6,7,Collingwood,3,4,5,6,6,8,10,12
+7,Brunswick St,1905-06-17 15:00,1905,Fitzroy,1,3,4,7,5,9,9,14,South Melbourne,5,2,5,2,5,6,6,6
+7,Corio Oval,1905-06-17 15:00,1905,Geelong,3,3,5,5,6,11,7,14,Melbourne,1,4,3,9,6,11,7,12
+8,East Melbourne,1905-07-01 15:00,1905,Essendon,1,4,4,11,5,16,7,20,Carlton,3,3,4,6,7,9,8,12
+8,Victoria Park,1905-07-01 15:00,1905,Collingwood,1,3,2,5,4,9,5,11,Fitzroy,0,0,2,0,3,0,3,1
+8,Lake Oval,1905-07-01 15:00,1905,South Melbourne,2,2,4,4,4,4,4,5,Geelong,3,0,4,2,6,3,6,7
+8,Junction Oval,1905-07-01 15:00,1905,St Kilda,5,2,6,5,8,6,8,6,Melbourne,0,0,2,3,3,5,7,9
+9,Princes Park,1905-07-08 15:00,1905,Carlton,1,1,2,3,3,4,6,8,Collingwood,2,2,4,3,7,7,8,11
+9,Corio Oval,1905-07-08 15:00,1905,Geelong,3,4,5,5,9,8,9,8,Essendon,0,1,4,4,4,4,6,12
+9,Brunswick St,1905-07-08 15:00,1905,Fitzroy,1,1,5,3,7,7,14,7,St Kilda,3,2,4,2,6,3,6,4
+9,M.C.G.,1905-07-08 15:00,1905,Melbourne,2,2,3,4,3,8,3,8,South Melbourne,0,1,1,5,3,9,8,10
+10,Princes Park,1905-07-15 15:00,1905,Carlton,3,5,5,5,7,11,7,16,South Melbourne,2,2,8,4,8,8,8,13
+10,Victoria Park,1905-07-15 15:00,1905,Collingwood,2,6,5,10,10,16,13,19,St Kilda,1,3,1,6,1,7,3,9
+10,East Melbourne,1905-07-15 15:00,1905,Essendon,2,4,5,8,8,14,8,17,Melbourne,2,2,2,6,3,8,5,11
+10,Corio Oval,1905-07-15 15:00,1905,Geelong,3,3,6,5,6,6,9,8,Fitzroy,1,2,1,3,2,11,2,15
+11,Brunswick St,1905-07-22 15:00,1905,Fitzroy,1,3,2,7,4,8,5,9,Carlton,2,2,3,3,3,4,6,5
+11,M.C.G.,1905-07-22 15:00,1905,Melbourne,2,2,5,4,5,5,6,5,Collingwood,2,3,4,8,8,16,9,20
+11,Lake Oval,1905-07-22 15:00,1905,South Melbourne,2,0,6,1,6,2,7,8,Essendon,3,4,4,7,5,12,6,13
+11,Junction Oval,1905-07-22 15:00,1905,St Kilda,1,0,3,2,3,3,3,5,Geelong,1,3,4,7,4,11,6,12
+12,Corio Oval,1905-07-29 15:00,1905,Geelong,0,0,3,4,3,4,6,5,Carlton,3,6,3,6,6,10,6,11
+12,Lake Oval,1905-07-29 15:00,1905,South Melbourne,2,2,2,2,3,3,3,3,Collingwood,2,2,3,2,4,3,4,5
+12,East Melbourne,1905-07-29 15:00,1905,Essendon,2,0,5,5,5,5,9,16,St Kilda,1,6,1,7,3,9,3,9
+12,Brunswick St,1905-07-29 15:00,1905,Fitzroy,1,2,3,4,3,6,5,7,Melbourne,2,2,2,4,2,5,2,6
+13,Princes Park,1905-08-05 15:00,1905,Carlton,5,3,6,7,10,8,12,10,Melbourne,0,2,1,3,1,7,2,8
+13,Victoria Park,1905-08-05 15:00,1905,Collingwood,1,2,5,5,6,7,7,8,Geelong,0,2,1,5,3,5,4,12
+13,East Melbourne,1905-08-05 15:00,1905,Essendon,0,1,2,7,2,8,3,11,Fitzroy,1,5,2,7,5,10,5,12
+13,Junction Oval,1905-08-05 15:00,1905,St Kilda,3,3,3,4,5,8,5,11,South Melbourne,1,0,3,4,4,5,5,9
+14,Princes Park,1905-08-19 15:00,1905,Carlton,1,6,3,10,5,16,9,19,St Kilda,1,1,2,3,2,4,3,5
+14,Victoria Park,1905-08-19 15:00,1905,Collingwood,1,4,3,7,4,8,7,11,Essendon,2,0,3,1,8,5,10,6
+14,Lake Oval,1905-08-19 15:00,1905,South Melbourne,2,0,4,2,6,7,7,8,Fitzroy,2,2,3,4,4,6,7,8
+14,M.C.G.,1905-08-19 15:00,1905,Melbourne,0,5,7,6,7,9,13,12,Geelong,4,5,4,5,5,10,7,13
+15,Victoria Park,1905-08-26 14:30,1905,Collingwood,4,5,7,9,8,11,9,12,Carlton,2,2,4,5,5,10,6,13
+15,East Melbourne,1905-08-26 14:30,1905,Essendon,3,1,5,5,5,6,10,13,Geelong,1,6,1,6,3,11,3,11
+15,Brunswick St,1905-08-26 14:30,1905,Fitzroy,3,2,4,6,6,6,6,9,St Kilda,1,2,2,3,4,4,4,7
+15,Lake Oval,1905-08-26 14:30,1905,South Melbourne,4,0,8,3,10,5,13,11,Melbourne,0,5,2,6,3,8,5,10
+16,Princes Park,1905-09-02 14:30,1905,Carlton,2,2,5,13,8,16,12,20,South Melbourne,3,2,3,2,4,6,7,7
+16,M.C.G.,1905-09-02 14:30,1905,Melbourne,0,2,2,4,2,8,3,9,Collingwood,3,5,3,10,5,16,7,18
+16,Junction Oval,1905-09-02 14:30,1905,St Kilda,3,0,4,2,5,4,8,6,Essendon,4,0,7,3,11,5,12,12
+16,Corio Oval,1905-09-02 14:30,1905,Geelong,3,1,5,4,7,7,10,8,Fitzroy,2,3,4,8,6,8,9,12
+17,M.C.G.,1905-09-09 14:30,1905,Melbourne,1,3,1,4,2,5,5,8,Carlton,4,3,9,9,16,13,18,17
+17,Victoria Park,1905-09-09 14:30,1905,Collingwood,4,9,6,10,9,12,17,16,South Melbourne,1,2,3,5,5,8,5,10
+17,East Melbourne,1905-09-09 14:30,1905,Essendon,0,2,1,9,3,12,4,13,Fitzroy,4,5,5,7,9,11,11,14
+17,Junction Oval,1905-09-09 14:30,1905,St Kilda,2,4,6,8,9,10,12,15,Geelong,0,0,2,2,2,6,3,9
+Semi Final,M.C.G.,1905-09-16 14:30,1905,Collingwood,0,1,0,3,2,4,4,6,Carlton,4,3,5,5,8,7,11,10
+Semi Final,Princes Park,1905-09-16 14:30,1905,Fitzroy,5,1,8,2,12,4,12,7,Essendon,0,2,2,8,4,8,4,12
+Preliminary Final,M.C.G.,1905-09-23 14:30,1905,Fitzroy,3,2,5,3,8,6,11,6,Carlton,3,4,4,6,6,7,6,9
+Grand Final,M.C.G.,1905-09-30 14:50,1905,Collingwood,0,1,1,3,2,4,2,5,Fitzroy,0,3,1,3,4,6,4,6

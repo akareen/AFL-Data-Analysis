@@ -1,0 +1,27 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Gold Coast,2011,1,Western Bulldogs,3,L,47,6,4,9,15,1,,7,,,4,1,1,,1,,2,12,,,2,,,89
+Gold Coast,2011,2↓,Melbourne,4,L,47,4,1,5,9,,,4,2,1,,2,1,1,,,5,4,,,1,,,50
+Gold Coast,2011,3↓,Port Adelaide,5,W,47,1,,2,3,,,2,,1,1,,2,,,,,3,,,1,,,53
+Gold Coast,2011,4↓,Brisbane Lions,7,W,47,1,,,1,,,1,,,1,,,,,,,1,,,,,,7
+Gold Coast,2011,5,Hawthorn,13,L,47,7,3,6,13,1,1,4,3,,2,2,2,1,1,,5,8,,,,,,70
+Gold Coast,2011,6↓,Fremantle,15,L,47,2,,4,6,,,1,,,2,1,,1,,,3,3,,,,,,39
+Gold Coast,2011,7,Sydney,16,L,47,4,1,8,12,,,7,1,,2,2,,1,,,5,8,,,1,,,84
+Gold Coast,2012,8,Adelaide,1,L,47,1,2,7,8,,,1,3,,1,,,,,,3,6,,,3,,,89
+Gold Coast,2013,9,Hawthorn,9,L,15,6,3,6,12,,,17,3,1,1,1,1,1,1,,3,9,,,3,,1,87
+Gold Coast,2013,10,Geelong,10,L,15,7,3,4,11,,,10,1,,,3,1,,,,4,7,,,4,,,87
+Gold Coast,2013,11,Essendon,12,L,15,2,1,6,8,,,7,2,1,1,,2,,,,2,6,,,,,,91
+Gold Coast,2013,12,Adelaide,14,L,15,3,1,4,7,2,,4,1,,,2,,,,,5,3,,1,2,,,78
+Gold Coast,2013,13,Brisbane Lions,15,L,15,2,2,4,6,,,7,1,1,1,,1,,1,,3,3,,,5,,,87
+Gold Coast,2013,14,West Coast,19,L,15,8,5,7,15,,,11,1,1,2,3,1,3,,,8,8,,,1,,,85
+Gold Coast,2013,15,Melbourne,20,W,15,5,2,11,16,,,23,3,1,2,5,3,1,1,,8,8,,,,,,88
+Gold Coast,2013,16,Port Adelaide,21,L,15,10,6,12,22,1,,12,,1,3,3,4,3,1,,8,14,2,1,1,1,1,85
+Gold Coast,2013,17,St Kilda,22,L,15,3,1,6,9,,,11,1,2,,2,1,2,1,,5,4,,,,,,67
+Gold Coast,2014,18,St Kilda,19,W,15,5,1,8,13,,,18,,1,4,2,1,,,,6,7,1,,6,,,83
+Gold Coast,2014,19,Carlton,20,L,15,5,3,8,13,,1,19,3,2,2,3,2,,,,4,8,,1,1,,1,86
+Gold Coast,2014,20,Port Adelaide,21,L,15,8,,,8,1,,17,2,2,2,3,3,2,1,,4,2,,,2,,,78
+Gold Coast,2015,21,Melbourne,1,L,15,5,3,7,12,1,,4,5,,1,3,1,2,,,5,8,,2,,,1,77
+Gold Coast,2015,22↓,Geelong,3,L,15,1,,4,5,,,2,2,,,,1,,,,4,2,,,,,,57
+Carlton,2016,23,North Melbourne,9,L,37,7,3,6,13,1,,7,1,,2,2,3,,3,,2,10,,,4,,,74
+Carlton,2016,24,Geelong,10,W,37,7,2,7,14,2,,8,2,,1,3,2,,1,,7,7,,1,6,,,74
+Carlton,2016,25,Brisbane Lions,11,W,37,7,7,11,18,1,1,12,3,,3,2,3,2,1,,9,11,3,2,2,,2,65
+Carlton,2016,26,St Kilda,12,L,37,6,5,1,7,,2,9,2,,1,,1,,,,,7,,2,1,,,64

@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Geelong,1961,1,Richmond,6,W,39,,,,,,,,,,,,,,,,,,,,,,,
+Geelong,1961,2,Footscray,7,W,39,,,,,,,,,,,,,,,,,,,,,,,
+South Melbourne,1964,3,Footscray,6,L,3,,,,,1,,,,,,,,,,,,,,,,,,
+South Melbourne,1964,4,Essendon,7,L,3,,,,,2,,,,,,,,,,,,,,,,,,
+South Melbourne,1964,5,Carlton,8,L,3,,,,,1,,,,,,,,,,,,,,,,,,
+South Melbourne,1964,6,North Melbourne,9,L,3,,,,,2,,,,,,,,,,,,,,,,,,
+South Melbourne,1964,7,St Kilda,10,L,3,,,,,,,,,,,,,,,,,,,,,,,
+South Melbourne,1964,8,Melbourne,11,L,3,,,,,,,,,,,,,,,,,,,,,,,
+South Melbourne,1964,9,Hawthorn,12,L,3,,,,,1,,,,,,,,,,,,,,,,,,
+South Melbourne,1965,10,North Melbourne,1,W,3,3,,,3,,,,,,,,,,,,,,,,,,,
+South Melbourne,1965,11,St Kilda,2,L,3,5,2,2,7,1,,,,,,,,1,,,,,,,,,,

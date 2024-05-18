@@ -1,0 +1,56 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Adelaide,1998,1,Sydney,14,W,31,6,5,4,10,3,,17,,,3,2,1,,1,,,,,,,,,
+Adelaide,1998,2,Hawthorn,15,W,31,2,,2,4,,1,8,1,,1,1,,,,,,,,,,,,
+Adelaide,1998,3,Carlton,16,L,31,4,3,4,8,,,3,,,2,,2,,3,,,,,,,,,
+Adelaide,1998,4,Fremantle,17,L,31,3,3,2,5,,,5,,1,1,1,,,2,,,,,,,,,
+Adelaide,1998,5,Port Adelaide,19,W,31,4,4,1,5,,,8,,,2,,1,,1,,,,,,,,,
+Adelaide,1998,6,Geelong,20,W,31,3,3,6,9,1,,16,,,2,2,1,2,,,,,,,,,,
+Adelaide,1998,7,Melbourne,QF,L,31,,,,,,,3,,,,,,,,,,,,,,,,
+Adelaide,1998,8,Sydney,SF,W,31,2,,,2,,1,5,,1,1,,,,1,,,,,,,,,
+Adelaide,1998,9,North Melbourne,GF,W,31,2,2,1,3,,1,5,,,2,,,,,,,,,,,,,
+Adelaide,1999,10,Western Bulldogs,1,L,31,,,1,1,,,,,,,,,,,,1,,,,,,,
+Adelaide,2000,11,Collingwood,2,L,31,5,3,2,7,3,2,11,,,,,1,1,,,4,3,2,3,1,,,
+Adelaide,2000,12,Geelong,3,L,31,1,,,1,,,,,,1,,,1,,,1,,,,,,,
+Adelaide,2000,13,Port Adelaide,7,W,31,5,3,3,8,,,13,2,2,2,2,,1,,,5,2,2,,1,,,
+Adelaide,2000,14,St Kilda,8,W,31,3,2,1,4,,,2,1,1,1,,,,,,1,3,,,2,,,
+Adelaide,2000,15,Kangaroos,9,L,31,1,1,,1,1,,4,,,,,,,,,,1,,1,,,,
+Adelaide,2000,16,Essendon,10,L,31,3,4,7,10,,,11,,,2,2,1,,1,,4,6,1,,,,,
+Adelaide,2000,17,Melbourne,11,W,31,7,6,7,14,,,14,,2,3,4,,,,,7,6,2,1,,,,
+Adelaide,2000,18,Sydney,12,W,31,4,4,9,13,,,11,3,1,2,2,1,1,,,8,5,1,,,,,
+Adelaide,2000,19,Richmond,13,W,31,9,6,2,11,,3,15,,,5,1,,,3,,5,6,2,1,2,1,,
+Adelaide,2000,20,Fremantle,14,W,31,6,3,3,9,1,1,14,,,2,3,,,,,3,6,,,1,,,
+Adelaide,2000,21,Carlton,15,L,31,4,3,3,7,,1,20,1,2,1,,1,1,1,,5,2,1,1,,,,
+Adelaide,2000,22,Western Bulldogs,16,L,31,,,,,,,5,2,,,,,,,,,,,,,,,
+Adelaide,2001,23,Sydney,1,L,31,3,2,2,5,,1,8,,,,1,,,,,2,3,1,,,,,
+Adelaide,2001,24,Fremantle,7,W,31,5,2,3,8,1,,14,2,1,1,,1,1,1,,5,3,,1,1,,,
+Adelaide,2001,25,Richmond,8,W,31,7,,5,12,,,6,3,1,,2,3,1,2,,7,3,,,2,,,
+Adelaide,2001,26,Brisbane Lions,9,W,31,,,4,4,,,6,,1,,,,,2,,1,3,,,,,,
+Adelaide,2001,27,Geelong,10,W,31,3,4,2,5,1,,5,,,1,1,,,1,,3,2,2,1,,,,
+Adelaide,2001,28,Western Bulldogs,11,L,31,13,3,4,17,2,1,12,1,,5,2,1,2,3,,9,7,1,2,2,,,
+Adelaide,2001,29,Essendon,12,L,31,5,2,2,7,,1,11,2,,3,1,,,,,4,3,,1,5,,,
+Adelaide,2001,30,Collingwood,13,L,31,7,4,7,14,,,7,,3,2,1,4,,,,5,8,,,1,,,
+Adelaide,2001,31,West Coast,14,W,31,3,3,4,7,,,15,1,,2,1,,,2,,4,3,1,,2,,,
+Adelaide,2001,32,St Kilda,15,W,31,5,3,4,9,1,1,13,,2,1,1,,,2,,3,6,1,2,1,1,,
+Adelaide,2001,33,Sydney,16,L,31,3,3,2,5,,,9,,1,,1,1,,,,3,2,1,,,,,
+Adelaide,2001,34,Melbourne,17,W,31,6,4,1,7,1,,7,1,,,2,,1,1,,3,4,1,1,,,,
+Adelaide,2001,35,Port Adelaide,18,L,31,3,3,3,6,1,1,5,1,,,1,1,,1,,3,4,1,2,1,,,
+Adelaide,2001,36,Carlton,19,W,31,,,,,,,6,,,,,,,1,,,,,,1,,,
+Adelaide,2001,37,Kangaroos,20,W,31,,,4,4,,,13,1,,,1,,1,,,4,,,,1,,,
+Adelaide,2001,38,Hawthorn,21,W,31,3,1,4,7,,1,21,,,1,2,,1,,,3,3,,1,1,,,
+Adelaide,2001,39,Fremantle,22,L,31,7,4,4,11,,1,8,1,1,2,2,2,,1,,6,5,1,1,,,,
+Adelaide,2001,40,Carlton,EF,L,31,5,2,2,7,,,21,2,1,3,2,1,2,1,,6,1,1,,,,,
+Adelaide,2002,41,Port Adelaide,5,L,31,3,1,2,5,,,19,2,,2,2,4,1,3,,4,1,,,3,,,
+Adelaide,2002,42,Richmond,6,W,31,5,3,3,8,,,10,4,,1,,1,,1,,4,4,1,,4,,,
+Adelaide,2002,43,Fremantle,7,W,31,6,2,4,10,1,,10,,,2,2,1,,1,,4,6,,,1,,,
+Adelaide,2002,44,Kangaroos,8,L,31,4,1,,4,,,6,1,,3,1,1,1,1,,1,3,,,1,,,
+Adelaide,2002,45,West Coast,13,L,31,1,,3,4,,,5,,,2,1,,2,,,5,1,,,2,,,
+Adelaide,2002,46,Collingwood,14,L,31,1,2,2,3,,,,,1,,1,2,,2,,1,3,,,1,,,
+Adelaide,2003,47,West Coast,4,W,31,1,1,,1,,1,2,,,,,1,,1,,,1,,1,1,,,37
+Adelaide,2003,48,Hawthorn,11,L,31,1,1,,1,,,13,,1,2,,1,,1,,,1,,,1,,,26
+Richmond,2004,49,Geelong,4,L,15,5,4,6,11,,,17,1,1,2,3,2,1,,,5,5,1,,3,,,66
+Richmond,2004,50,Adelaide,5,L,15,4,3,2,6,,,9,2,1,1,2,4,1,4,,2,3,1,,1,,,38
+Richmond,2004,51,Hawthorn,6,W,15,2,1,2,4,,,3,,,1,2,,,,,3,1,,,,,,21
+Richmond,2004,52,West Coast,10,L,15,1,,5,6,,,10,2,,1,3,,2,,,4,2,,,2,,,30
+Richmond,2004,53,Adelaide,20,L,15,1,1,1,2,,,6,,,,1,1,1,1,,3,,1,,2,,,32
+Richmond,2004,54,Hawthorn,21,L,15,3,3,5,8,1,,18,,,1,1,3,1,1,,3,5,1,1,2,,,48
+Richmond,2004,55,Sydney,22,L,15,3,4,3,6,,,10,,,1,,1,,,,2,4,,,2,,,42

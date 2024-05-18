@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Richmond,1969,1,Fitzroy,5,W,34,3,,1,4,,,,,,,,,,,,,,,,,,,
+Richmond,1969,2,Footscray,9,L,34,12,2,1,13,,,,,,,,,2,3,,,,,,,,,
+Richmond,1969,3,St Kilda,10,W,34,10,4,2,12,,,,,,,,,1,2,,,,,,,,,
+Richmond,1969,4,Geelong,11,L,34,5,,3,8,,,,,,,,,,2,,,,,,,,,
+Richmond,1970,5,Fitzroy,1,L,34,13,4,2,15,,,,,,,,,1,2,,,,,,,,,
+Richmond,1970,6,Collingwood,2,L,34,9,2,3,12,,,1,,,,,,3,4,,,,,,,,,
+Richmond,1970,7,Carlton,3,W,34,11,1,2,13,,,,,,,,,2,1,,,,,,,,,
+Richmond,1970,8,St Kilda,4,L,34,12,3,4,16,,,,,,,,,,4,,,,,,,,,
+Richmond,1970,9,South Melbourne,5,L,34,14,4,5,19,,,,,,,,,2,2,,,,,,,,,
+Richmond,1970,10,Hawthorn,6,W,34,7,1,2,9,,,,,,,,,1,2,,,,,,,,,
+Richmond,1970,11,South Melbourne,16,W,34,,,,,,,,,,,,,,,,,,,,,,,

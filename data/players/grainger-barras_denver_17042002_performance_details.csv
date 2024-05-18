@@ -1,0 +1,29 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Hawthorn,2021,1,Greater Western Sydney,15,W,38,4,4,3,7,,,,,1,,,2,1,1,,3,4,1,,3,,,56
+Hawthorn,2021,2,Fremantle,17,L,38,6,5,3,9,,,,1,,1,,1,1,,,3,7,,,9,,,92
+Hawthorn,2021,3,Melbourne,18,D,38,8,6,2,10,,,,1,2,,,2,,,,2,9,,,4,,,76
+Hawthorn,2021,4,Adelaide,19,L,38,4,1,3,7,,,,3,3,,1,2,,1,,1,5,,,4,,,78
+Hawthorn,2021,5,Brisbane Lions,20,W,38,3,1,1,4,,,,6,2,1,1,,1,,,2,2,,,5,,1,74
+Hawthorn,2022,6,North Melbourne,1,W,24,5,2,,5,,,,1,2,,,,1,,,1,5,,,4,,,82
+Hawthorn,2022,7,Port Adelaide,2,W,24,6,4,,6,,,,3,5,,,1,1,1,,1,4,1,,7,,,85
+Hawthorn,2022,8,Carlton,3,L,24,10,6,8,18,,,,2,2,1,,2,1,1,,7,10,1,,4,,,84
+Hawthorn,2022,9,St Kilda,4,L,24,4,3,2,6,,,,,1,,,2,1,1,,2,5,,,3,,,81
+Hawthorn,2022,10,Geelong,5,W,24,1,,4,5,,,,3,1,,1,2,,,,4,2,,,4,,,71
+Hawthorn,2022,11,Sydney,6,L,24,9,7,1,10,,,,1,6,1,,2,1,1,,2,8,,,3,2,,73
+Hawthorn,2022,12,Essendon,8,L,24,5,2,1,6,,,,1,2,,,1,1,1,,,5,,,2,,,61
+Hawthorn,2022,13,Richmond,9,L,24,3,2,4,7,,,,2,1,,,4,,2,,3,3,,,2,,,83
+Hawthorn,2022,14,Brisbane Lions,10,W,24,6,2,5,11,,,,4,4,2,2,3,4,2,,9,2,2,,3,,,77
+Hawthorn,2022,15,Gold Coast,11,L,24,7,3,4,11,,,,,3,,,9,3,7,,4,6,1,,10,,,88
+Hawthorn,2022,16,Adelaide,17,W,24,5,1,5,10,,,,,,,,3,,3,,4,6,,,3,,,84
+Hawthorn,2022,17,West Coast,18,W,24,6,3,5,11,,,,,1,1,,2,,1,,7,5,1,,6,,,78
+Hawthorn,2022,18,North Melbourne,19,W,24,2,2,1,3,,,,1,1,,,,,,,,3,,,4,1,,78
+Hawthorn,2022,19,Gold Coast,21,W,24,5,3,1,6,,,,2,3,,,3,,2,,,6,,,6,,,81
+Hawthorn,2022,20,Richmond,22,L,24,6,3,3,9,,,,3,3,,,4,,1,,2,6,,,2,,,79
+Hawthorn,2022,21,Western Bulldogs,23,L,24,7,6,3,10,,,,,3,,,1,1,1,,5,5,3,,7,1,,79
+Hawthorn,2023,22,Greater Western Sydney,5,L,24,5,2,4,9,,,,,2,1,,2,1,2,,2,5,,,4,,,85
+Hawthorn,2023,23,Adelaide,6,L,24,2,1,1,3,,,,,1,,,1,,1,,1,2,,,1,,,73
+Hawthorn,2023,24,Greater Western Sydney,17,L,24,3,1,1,4,1,,,2,,3,,2,1,,,2,1,,,2,,,72
+Hawthorn,2023,25↑,North Melbourne,18,W,24,4,3,2,6,1,,,,,,,4,1,2,,3,3,,1,1,,,35
+Hawthorn,2023,26↓,Richmond,19,L,24,,,,,,,,,,,,,,,,,,,,,,,44
+Hawthorn,2023,27,Western Bulldogs,22,W,24,6,5,3,9,1,1,,1,,2,,2,1,1,,3,7,1,2,1,,,66
+Hawthorn,2023,28,Melbourne,23,L,24,5,7,3,8,1,,,,,3,,1,1,1,,4,5,2,1,2,,,70

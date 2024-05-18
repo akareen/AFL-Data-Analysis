@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Gold Coast,2023,1,Sydney,1,L,32,14,3,6,20,,,,1,5,2,1,4,1,,,5,9,,,5,,,79
+Gold Coast,2023,2,Essendon,2,L,32,5,2,,5,,,,2,4,,1,1,1,1,,2,3,,,1,,,71
+Gold Coast,2023,3↑,Adelaide,12,W,32,,,,,,,,,,,,1,,1,,,,,,1,,,13
+Gold Coast,2024,4,Richmond,1,W,32,4,3,4,8,,,,,2,1,,2,,1,,4,5,,,5,,,82
+Gold Coast,2024,5,Adelaide,2,W,32,6,2,2,8,,,,3,3,1,,1,1,,,2,5,,,10,,,90
+Gold Coast,2024,6,Western Bulldogs,3,L,32,8,2,7,15,,,,2,1,,,1,1,,,5,9,,,2,,,80
+Gold Coast,2024,7,Greater Western Sydney,5,L,32,10,5,1,11,,,,1,5,,,1,,,,,10,,,2,,,77
+Gold Coast,2024,8,Hawthorn,6,W,32,10,7,1,11,,,,2,2,2,,,1,,,2,9,1,,5,,,83
+Gold Coast,2024,9,Sydney,7,L,32,1,,5,6,,,,1,,,,1,,,,2,4,,,1,,,74
+Gold Coast,2024,10,North Melbourne,10,W,32,15,4,5,20,,,,4,6,3,2,2,,,,7,11,1,,9,1,,85

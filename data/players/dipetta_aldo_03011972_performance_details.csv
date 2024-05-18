@@ -1,0 +1,8 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+St Kilda,1990,1,Fitzroy,20,W,54,12,,6,18,,2,,,,,,,1,,,,,,,,,,
+St Kilda,1990,2,North Melbourne,21,L,54,6,,4,10,2,,,,,,,,,2,,,,,,,,,
+St Kilda,1990,3,Essendon,22,L,54,1,,,1,1,,,2,,,,,1,,,,,,,,,,
+St Kilda,1992,4,Carlton,6,L,22,7,,11,18,,,,1,,,,,2,1,,,,,,,,,
+St Kilda,1992,5,Adelaide,7,W,22,2,,5,7,,,,1,,,,,1,1,,,,,,,,,
+Sydney,1993,6,Collingwood,15,L,24,6,3,5,11,,,,2,,,,,,,,,,,,,,,
+Sydney,1993,7,Hawthorn,17,L,24,8,2,3,11,,2,,2,,,,,,2,,,,,,,,,

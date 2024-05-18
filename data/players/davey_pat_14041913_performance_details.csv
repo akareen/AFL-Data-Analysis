@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Richmond,1935,1,Footscray,1,W,3,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1935,2,North Melbourne,2,W,3,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1935,3,Carlton,3,L,3,,,,,1,,,,,,,,,,,,,,,,,,
+Richmond,1936,4,Hawthorn,5,W,5,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1936,5,Geelong,6,W,5,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1936,6,South Melbourne,9,W,5,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1936,7,Footscray,10,W,5,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1942,8,St Kilda,4,W,3,,,,,1,,,,,,,,,,,,,,,,,,
+Richmond,1942,9,Fitzroy,8,W,3,,,,,1,,,,,,,,,,,,,,,,,,
+Richmond,1942,10,North Melbourne,9,W,5,,,,,1,,,,,,,,,,,,,,,,,,

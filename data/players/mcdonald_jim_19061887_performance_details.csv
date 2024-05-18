@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Richmond,1915,1,Melbourne,1,L,26,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1915,2,Collingwood,2,L,26,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1915,3,South Melbourne,3,W,26,,,,,2,,,,,,,,,,,,,,,,,,
+Richmond,1915,4,Geelong,4,W,26,,,,,2,,,,,,,,,,,,,,,,,,
+Richmond,1915,5,Fitzroy,6,L,26,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1915,6,Collingwood,11,L,26,,,,,2,,,,,,,,,,,,,,,,,,
+Richmond,1915,7,South Melbourne,12,L,26,,,,,1,,,,,,,,,,,,,,,,,,
+Richmond,1915,8,Geelong,13,W,26,,,,,2,,,,,,,,,,,,,,,,,,
+Richmond,1915,9,Fitzroy,15,L,26,,,,,1,,,,,,,,,,,,,,,,,,
+Richmond,1915,10,Carlton,17,L,26,,,,,2,,,,,,,,,,,,,,,,,,

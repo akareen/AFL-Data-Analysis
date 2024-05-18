@@ -1,0 +1,73 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Princes Park,1902-05-03 15:00,1902,Carlton,1,2,2,2,5,4,6,4,Geelong,2,3,8,6,9,6,11,12
+1,Lake Oval,1902-05-03 15:00,1902,South Melbourne,1,0,1,2,1,6,3,7,Collingwood,3,4,4,8,4,13,5,13
+1,East Melbourne,1902-05-03 15:00,1902,Essendon,4,5,5,9,5,9,5,9,Fitzroy,1,0,4,1,5,8,7,10
+1,M.C.G.,1902-05-03 15:00,1902,Melbourne,4,2,9,6,13,10,15,15,St Kilda,1,3,4,5,6,8,7,9
+2,Lake Oval,1902-05-10 15:00,1902,South Melbourne,3,4,6,9,6,12,8,13,Carlton,0,3,0,4,0,8,0,8
+2,M.C.G.,1902-05-10 15:00,1902,Melbourne,1,3,3,6,3,10,4,10,Collingwood,2,1,4,2,5,3,8,3
+2,Corio Oval,1902-05-10 15:00,1902,Geelong,0,1,2,5,2,5,3,6,Essendon,4,4,5,6,8,11,10,17
+2,Junction Oval,1902-05-10 15:00,1902,St Kilda,3,1,4,4,4,4,5,6,Fitzroy,7,6,9,8,13,16,14,20
+3,Junction Oval,1902-05-17 15:00,1902,St Kilda,1,1,2,3,2,9,2,13,Carlton,1,2,1,7,2,7,4,9
+3,Victoria Park,1902-05-17 15:00,1902,Collingwood,2,2,2,5,6,10,11,15,Geelong,2,1,2,1,3,1,3,2
+3,East Melbourne,1902-05-17 15:00,1902,Essendon,1,2,3,3,6,5,7,6,Melbourne,1,2,1,4,3,6,3,7
+3,Brunswick St,1902-05-17 15:00,1902,Fitzroy,0,4,2,4,4,7,8,10,South Melbourne,1,2,6,3,8,3,8,4
+4,Princes Park,1902-05-24 15:00,1902,Carlton,1,4,4,8,6,10,6,13,Melbourne,3,3,7,5,7,8,8,12
+4,Victoria Park,1902-05-24 15:00,1902,Collingwood,2,1,2,1,3,2,3,4,Fitzroy,0,3,2,7,3,10,7,13
+4,East Melbourne,1902-05-24 15:00,1902,Essendon,0,2,2,3,5,3,5,8,South Melbourne,2,2,3,4,4,10,4,11
+4,Corio Oval,1902-05-24 15:00,1902,Geelong,4,3,5,4,8,8,11,11,St Kilda,0,1,2,1,4,2,5,3
+5,East Melbourne,1902-05-31 15:00,1902,Essendon,1,9,3,12,5,16,7,16,Carlton,0,0,1,3,1,4,5,8
+5,Junction Oval,1902-05-31 15:00,1902,St Kilda,2,4,3,4,3,4,5,5,Collingwood,0,0,3,5,4,7,5,12
+5,Brunswick St,1902-05-31 15:00,1902,Fitzroy,1,4,4,9,7,15,7,17,Melbourne,0,2,3,4,4,8,6,10
+5,Corio Oval,1902-05-31 15:00,1902,Geelong,4,8,4,8,5,11,5,14,South Melbourne,0,0,1,6,2,8,3,9
+6,Princes Park,1902-06-07 15:00,1902,Carlton,1,1,3,3,3,4,4,6,Fitzroy,3,7,4,8,6,13,9,14
+6,Victoria Park,1902-06-07 15:00,1902,Collingwood,2,1,3,3,4,8,6,15,Essendon,2,2,6,3,10,8,11,10
+6,M.C.G.,1902-06-07 15:00,1902,Melbourne,0,2,1,6,1,8,2,13,Geelong,1,2,2,2,2,7,3,8
+6,Lake Oval,1902-06-07 15:00,1902,South Melbourne,2,3,4,5,5,10,5,13,St Kilda,0,0,1,1,1,1,1,3
+7,Victoria Park,1902-06-09 15:00,1902,Collingwood,1,4,2,7,3,9,8,11,Carlton,2,0,2,0,3,1,3,3
+7,Junction Oval,1902-06-09 15:00,1902,St Kilda,4,1,4,1,6,3,6,4,Essendon,1,0,7,1,7,1,10,4
+7,Brunswick St,1902-06-09 15:00,1902,Fitzroy,3,2,7,4,7,10,8,14,Geelong,0,1,1,5,2,7,3,8
+7,M.C.G.,1902-06-09 15:00,1902,Melbourne,2,2,4,4,4,5,7,5,South Melbourne,2,0,4,3,6,9,6,10
+8,Corio Oval,1902-06-14 15:00,1902,Geelong,1,0,4,3,4,3,6,7,Carlton,3,2,3,3,7,5,7,5
+8,Victoria Park,1902-06-14 15:00,1902,Collingwood,0,3,0,7,2,13,4,26,South Melbourne,1,2,1,6,1,7,1,8
+8,Brunswick St,1902-06-14 15:00,1902,Fitzroy,0,3,3,6,3,9,5,12,Essendon,1,3,2,5,6,6,7,6
+8,Junction Oval,1902-06-14 15:00,1902,St Kilda,0,1,0,2,0,3,3,6,Melbourne,3,3,6,5,7,6,8,7
+9,Princes Park,1902-06-21 15:00,1902,Carlton,0,0,1,4,2,6,4,7,South Melbourne,0,4,0,4,2,6,2,6
+9,Victoria Park,1902-06-21 15:00,1902,Collingwood,1,2,2,8,3,11,7,19,Melbourne,1,5,1,6,4,7,4,7
+9,East Melbourne,1902-06-21 15:00,1902,Essendon,1,0,1,2,2,2,2,3,Geelong,0,2,3,8,3,8,4,10
+9,Brunswick St,1902-06-21 15:00,1902,Fitzroy,5,1,6,4,11,6,12,8,St Kilda,0,2,0,4,0,5,2,7
+10,Princes Park,1902-07-05 15:00,1902,Carlton,2,5,6,9,9,10,10,12,St Kilda,4,0,4,0,5,1,7,7
+10,Corio Oval,1902-07-05 15:00,1902,Geelong,1,0,3,4,4,6,6,8,Collingwood,4,2,5,4,8,10,12,12
+10,M.C.G.,1902-07-05 15:00,1902,Melbourne,0,1,1,4,3,6,3,9,Essendon,2,5,3,9,4,11,6,12
+10,Lake Oval,1902-07-05 15:00,1902,South Melbourne,1,0,4,5,4,8,6,10,Fitzroy,2,4,2,6,4,7,4,10
+11,M.C.G.,1902-07-12 15:00,1902,Melbourne,2,3,2,8,3,10,4,12,Carlton,2,1,3,2,4,7,4,9
+11,Brunswick St,1902-07-12 15:00,1902,Fitzroy,2,3,3,3,6,5,6,9,Collingwood,1,3,5,5,7,10,9,14
+11,Lake Oval,1902-07-12 15:00,1902,South Melbourne,2,1,2,3,3,5,5,6,Essendon,0,2,2,6,4,7,6,7
+11,Junction Oval,1902-07-12 15:00,1902,St Kilda,1,1,3,4,4,5,4,9,Geelong,1,1,4,1,6,3,7,7
+12,Victoria Park,1902-07-19 15:00,1902,Collingwood,5,3,9,7,12,12,19,13,St Kilda,0,2,1,2,1,3,1,4
+12,M.C.G.,1902-07-19 15:00,1902,Melbourne,1,2,1,4,3,4,5,7,Fitzroy,1,2,3,5,4,8,4,9
+12,Lake Oval,1902-07-19 15:00,1902,South Melbourne,2,5,2,6,2,11,7,13,Geelong,1,1,3,6,4,8,6,9
+12,Princes Park,1902-07-19 15:15,1902,Carlton,2,3,3,5,3,6,4,9,Essendon,0,1,0,4,1,7,1,10
+13,Brunswick St,1902-07-26 15:00,1902,Fitzroy,2,2,3,3,4,5,4,6,Carlton,2,3,5,4,6,7,6,8
+13,East Melbourne,1902-07-26 15:00,1902,Essendon,0,3,2,4,4,5,5,6,Collingwood,1,1,2,1,5,3,7,5
+13,Corio Oval,1902-07-26 15:00,1902,Geelong,1,2,3,2,6,4,8,6,Melbourne,1,3,1,7,2,7,3,9
+13,Junction Oval,1902-07-26 15:00,1902,St Kilda,0,0,0,3,1,6,2,10,South Melbourne,2,4,3,6,5,7,5,7
+14,Princes Park,1902-08-02 15:00,1902,Carlton,1,1,1,1,2,2,2,3,Collingwood,3,5,5,6,6,7,7,10
+14,East Melbourne,1902-08-02 15:00,1902,Essendon,3,0,9,3,9,9,12,12,St Kilda,1,0,2,3,3,4,3,4
+14,Corio Oval,1902-08-02 15:00,1902,Geelong,0,2,3,4,4,6,5,10,Fitzroy,5,1,6,5,8,6,9,7
+14,Lake Oval,1902-08-02 15:00,1902,South Melbourne,1,0,1,4,3,8,3,9,Melbourne,2,2,4,2,7,3,9,9
+15,M.C.G.,1902-08-16 14:30,1902,Melbourne,2,1,3,1,4,5,7,5,Carlton,0,2,1,4,1,6,1,7
+15,Victoria Park,1902-08-16 14:30,1902,Collingwood,4,2,5,3,9,8,12,12,South Melbourne,0,4,1,9,3,12,5,14
+15,Junction Oval,1902-08-16 14:30,1902,St Kilda,0,2,1,3,1,3,3,5,Essendon,4,4,5,8,8,11,10,12
+15,Corio Oval,1902-08-16 14:30,1902,Geelong,2,3,4,6,5,6,5,6,Fitzroy,0,4,0,8,2,12,6,15
+16,Princes Park,1902-08-23 14:30,1902,Carlton,2,1,4,3,4,7,6,11,St Kilda,1,2,2,5,3,6,3,6
+16,Brunswick St,1902-08-23 14:30,1902,Fitzroy,1,2,2,2,4,4,5,4,Collingwood,6,4,7,5,11,8,13,9
+16,East Melbourne,1902-08-23 14:30,1902,Essendon,1,3,3,8,8,9,11,11,Melbourne,4,3,5,3,7,7,8,8
+16,Lake Oval,1902-08-23 14:30,1902,South Melbourne,3,2,5,7,8,10,12,12,Geelong,1,3,1,5,4,7,5,9
+17,Princes Park,1902-08-30 14:30,1902,Carlton,0,2,3,4,4,5,5,10,Essendon,2,2,3,2,5,4,7,4
+17,Victoria Park,1902-08-30 14:30,1902,Collingwood,6,7,10,10,14,15,16,16,Geelong,0,0,2,2,2,5,2,11
+17,Brunswick St,1902-08-30 14:30,1902,Fitzroy,1,1,4,4,5,8,6,10,South Melbourne,2,2,2,3,4,5,7,8
+17,M.C.G.,1902-08-30 14:30,1902,Melbourne,2,5,4,13,6,15,10,19,St Kilda,1,2,3,2,4,4,5,5
+Semi Final,M.C.G.,1902-09-06 14:30,1902,Collingwood,0,5,1,7,2,8,6,12,Fitzroy,2,3,5,5,8,9,9,10
+Semi Final,Princes Park,1902-09-06 14:30,1902,Essendon,2,2,3,5,5,7,9,7,Melbourne,3,3,6,4,6,8,7,9
+Preliminary Final,M.C.G.,1902-09-13 14:30,1902,Essendon,2,5,4,5,6,7,6,9,Fitzroy,1,2,3,7,3,8,4,10
+Grand Final,M.C.G.,1902-09-20 14:50,1902,Collingwood,1,2,3,2,5,5,9,6,Essendon,1,3,2,7,3,7,3,9

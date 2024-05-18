@@ -1,0 +1,95 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Princes Park,1909-05-01 15:00,1909,Carlton,0,6,0,10,1,12,3,14,University,0,0,2,4,4,9,6,11
+1,Victoria Park,1909-05-01 15:00,1909,Collingwood,1,0,6,4,7,4,9,7,Fitzroy,3,4,5,7,8,11,10,12
+1,East Melbourne,1909-05-01 15:00,1909,Essendon,1,1,2,7,4,13,6,18,St Kilda,2,6,2,8,5,8,6,8
+1,Corio Oval,1909-05-01 15:00,1909,Geelong,2,1,4,5,6,8,6,8,South Melbourne,1,1,5,2,7,2,8,5
+1,Punt Rd,1909-05-01 15:00,1909,Richmond,3,2,5,5,9,6,9,9,Melbourne,3,3,6,3,7,7,11,8
+2,Lake Oval,1909-05-08 15:00,1909,South Melbourne,3,2,5,3,6,3,7,3,Carlton,2,1,2,2,3,3,4,4
+2,Junction Oval,1909-05-08 15:00,1909,St Kilda,0,1,1,3,2,5,3,5,Collingwood,1,4,1,4,2,9,3,11
+2,M.C.G.,1909-05-08 15:00,1909,Melbourne,3,0,4,0,6,4,7,5,Essendon,3,4,5,9,6,10,9,13
+2,Brunswick St,1909-05-08 15:00,1909,Fitzroy,3,5,4,7,7,14,12,16,Geelong,1,2,2,7,3,9,3,10
+2,East Melbourne,1909-05-08 15:00,1909,University,0,1,2,1,5,4,5,7,Richmond,2,1,3,3,5,4,6,6
+3,Princes Park,1909-05-15 15:00,1909,Carlton,2,2,4,3,4,6,7,8,Collingwood,1,0,2,4,2,7,4,9
+3,East Melbourne,1909-05-15 15:00,1909,Essendon,3,6,5,7,6,13,8,18,Geelong,2,0,5,1,7,2,9,5
+3,Punt Rd,1909-05-15 15:00,1909,Richmond,1,4,1,7,3,13,4,13,Fitzroy,0,1,1,8,5,8,9,14
+3,Lake Oval,1909-05-15 15:00,1909,South Melbourne,1,1,6,4,7,12,12,16,Melbourne,1,1,1,2,3,5,3,6
+3,Junction Oval,1909-05-15 15:00,1909,St Kilda,1,0,5,7,5,10,5,12,University,1,3,1,3,2,6,2,9
+4,Corio Oval,1909-05-22 15:00,1909,Geelong,3,2,6,6,8,10,12,13,Carlton,1,5,4,7,6,12,8,13
+4,Victoria Park,1909-05-22 15:00,1909,Collingwood,3,1,6,7,9,11,12,13,Richmond,0,1,1,3,3,6,7,7
+4,East Melbourne,1909-05-22 15:00,1909,Essendon,2,1,4,4,6,8,8,11,University,2,7,5,9,7,13,9,14
+4,Brunswick St,1909-05-22 15:00,1909,Fitzroy,0,2,1,2,1,4,5,7,South Melbourne,1,2,5,6,8,8,11,10
+4,M.C.G.,1909-05-22 15:00,1909,Melbourne,1,2,3,5,4,10,6,15,St Kilda,2,2,3,2,5,3,6,4
+5,M.C.G.,1909-05-29 15:00,1909,Melbourne,2,1,6,5,7,8,8,9,Carlton,3,2,5,4,8,6,12,8
+5,Lake Oval,1909-05-29 15:00,1909,South Melbourne,0,2,3,4,6,6,6,10,Collingwood,1,3,3,4,3,5,3,8
+5,Brunswick St,1909-05-29 15:00,1909,Fitzroy,1,2,2,3,4,7,5,7,Essendon,1,4,3,6,5,7,8,13
+5,East Melbourne,1909-05-29 15:00,1909,University,1,4,3,6,7,7,9,9,Geelong,0,1,2,6,2,7,3,10
+5,Junction Oval,1909-05-29 15:00,1909,St Kilda,2,1,5,5,6,7,7,8,Richmond,5,0,5,0,6,4,11,4
+6,Princes Park,1909-06-05 15:00,1909,Carlton,2,7,2,7,4,9,6,12,Fitzroy,0,1,1,5,2,6,5,9
+6,Victoria Park,1909-06-05 15:00,1909,Collingwood,1,0,4,6,7,6,10,13,Essendon,2,2,2,3,4,6,4,7
+6,Corio Oval,1909-06-05 15:00,1909,Geelong,3,3,5,7,5,7,6,12,St Kilda,2,0,2,4,4,12,6,13
+6,East Melbourne,1909-06-05 15:00,1909,University,3,2,4,4,5,5,6,10,Melbourne,2,4,4,6,7,10,9,11
+6,Punt Rd,1909-06-05 15:00,1909,Richmond,4,4,6,5,8,6,10,11,South Melbourne,0,2,2,5,6,9,8,10
+7,Princes Park,1909-06-07 15:00,1909,Carlton,5,2,7,3,10,9,10,12,Richmond,1,1,5,1,5,2,6,7
+7,Victoria Park,1909-06-07 15:00,1909,Collingwood,1,7,2,11,5,14,8,17,University,0,3,1,3,3,4,4,5
+7,East Melbourne,1909-06-07 15:00,1909,Essendon,2,4,5,4,9,5,9,8,South Melbourne,4,1,6,4,7,5,9,9
+7,Junction Oval,1909-06-07 15:00,1909,St Kilda,1,2,3,5,3,7,4,11,Fitzroy,1,4,5,5,9,8,11,10
+7,M.C.G.,1909-06-07 15:00,1909,Melbourne,3,4,6,7,12,7,18,9,Geelong,3,0,4,2,5,5,5,8
+8,Junction Oval,1909-06-12 15:00,1909,St Kilda,3,3,4,4,4,8,5,10,Carlton,2,1,6,5,7,6,10,9
+8,Corio Oval,1909-06-12 15:00,1909,Geelong,2,2,3,5,3,8,5,10,Collingwood,3,3,4,4,7,6,10,8
+8,East Melbourne,1909-06-12 15:00,1909,Essendon,1,0,5,5,6,5,8,7,Richmond,3,3,4,6,8,12,8,15
+8,Brunswick St,1909-06-12 15:00,1909,Fitzroy,3,3,3,6,3,9,5,12,Melbourne,1,2,4,3,4,3,8,7
+8,Lake Oval,1909-06-12 15:00,1909,South Melbourne,2,5,4,7,6,15,11,15,University,0,3,1,3,2,5,2,6
+9,Princes Park,1909-06-19 15:00,1909,Carlton,3,3,4,6,5,12,6,14,Essendon,0,4,1,5,1,7,4,9
+9,Punt Rd,1909-06-19 15:00,1909,Richmond,1,1,2,6,3,12,4,15,Geelong,2,3,3,5,4,7,5,7
+9,Lake Oval,1909-06-19 15:00,1909,South Melbourne,3,4,5,9,7,11,14,13,St Kilda,0,4,2,5,2,7,2,8
+9,M.C.G.,1909-06-26 15:00,1909,Melbourne,5,0,7,3,9,4,10,5,Collingwood,2,0,4,2,5,3,10,5
+9,East Melbourne,1909-06-26 15:00,1909,University,3,4,6,11,7,16,8,20,Fitzroy,0,4,3,6,3,7,3,10
+10,East Melbourne,1909-07-03 15:00,1909,University,2,4,4,6,7,7,7,7,Carlton,3,2,3,4,6,7,10,9
+10,Brunswick St,1909-07-03 15:00,1909,Fitzroy,0,2,2,3,2,6,2,9,Collingwood,1,5,4,7,6,10,6,16
+10,Junction Oval,1909-07-03 15:00,1909,St Kilda,0,1,1,3,1,4,6,6,Essendon,1,2,1,10,8,14,9,18
+10,Lake Oval,1909-07-03 15:00,1909,South Melbourne,8,4,11,4,13,9,17,9,Geelong,1,1,2,4,3,7,4,7
+10,M.C.G.,1909-07-03 15:00,1909,Melbourne,1,4,5,7,8,8,12,10,Richmond,1,0,1,1,2,3,2,3
+11,Princes Park,1909-07-10 15:00,1909,Carlton,0,4,0,11,9,13,9,14,South Melbourne,3,2,4,4,4,5,6,8
+11,Victoria Park,1909-07-10 15:00,1909,Collingwood,3,6,3,13,6,15,11,18,St Kilda,1,1,3,3,4,6,6,8
+11,East Melbourne,1909-07-10 15:00,1909,Essendon,1,1,3,6,3,7,5,10,Melbourne,0,5,1,6,2,10,3,12
+11,Corio Oval,1909-07-10 15:00,1909,Geelong,1,3,3,5,6,7,9,7,Fitzroy,5,1,6,2,11,4,13,9
+11,Punt Rd,1909-07-10 15:00,1909,Richmond,1,3,6,5,6,6,7,8,University,3,5,6,6,8,13,11,15
+12,Victoria Park,1909-07-17 15:00,1909,Collingwood,1,2,2,4,4,6,5,7,Carlton,1,2,5,4,5,4,5,6
+12,Corio Oval,1909-07-17 15:00,1909,Geelong,0,1,2,5,4,7,6,9,Essendon,6,3,8,7,9,7,12,8
+12,Brunswick St,1909-07-17 15:00,1909,Fitzroy,1,4,3,8,6,11,9,14,Richmond,0,1,0,2,2,3,3,7
+12,M.C.G.,1909-07-17 15:00,1909,Melbourne,1,1,2,1,3,1,3,6,South Melbourne,0,4,2,8,6,8,6,9
+12,East Melbourne,1909-07-17 15:00,1909,University,2,3,4,11,5,13,11,14,St Kilda,1,0,1,0,3,0,4,2
+13,Princes Park,1909-07-24 15:00,1909,Carlton,6,4,8,6,13,11,19,16,Geelong,3,1,4,6,7,8,10,10
+13,Punt Rd,1909-07-24 15:00,1909,Richmond,0,1,2,5,4,5,5,7,Collingwood,3,5,3,8,5,16,8,24
+13,East Melbourne,1909-07-24 15:00,1909,University,0,0,3,9,3,11,4,19,Essendon,7,3,9,5,10,8,11,9
+13,Lake Oval,1909-07-24 15:00,1909,South Melbourne,1,2,3,4,4,5,4,6,Fitzroy,2,5,2,8,4,11,5,14
+13,Junction Oval,1909-07-24 15:00,1909,St Kilda,3,4,3,4,5,8,5,11,Melbourne,1,1,5,2,5,2,12,7
+14,Princes Park,1909-07-31 15:00,1909,Carlton,1,8,2,15,7,20,10,21,Melbourne,0,2,1,3,2,4,4,6
+14,Victoria Park,1909-07-31 15:00,1909,Collingwood,2,1,4,2,5,5,8,6,South Melbourne,1,3,3,5,4,7,6,7
+14,East Melbourne,1909-07-31 15:00,1909,Essendon,3,3,3,4,8,7,10,9,Fitzroy,3,1,6,4,7,4,7,7
+14,Corio Oval,1909-07-31 15:00,1909,Geelong,3,0,4,5,6,8,6,11,University,2,2,4,5,8,10,12,15
+14,Punt Rd,1909-07-31 15:00,1909,Richmond,4,4,4,4,7,7,9,11,St Kilda,1,1,4,7,4,7,6,13
+15,East Melbourne,1909-08-07 15:00,1909,Essendon,3,2,8,8,9,9,14,14,Collingwood,2,6,2,6,4,6,6,6
+15,Junction Oval,1909-08-07 15:00,1909,St Kilda,3,1,3,1,3,7,3,8,Geelong,1,3,2,5,2,6,2,10
+15,Brunswick St,1909-08-14 15:00,1909,Fitzroy,0,1,1,6,1,7,2,9,Carlton,4,1,5,2,10,4,11,6
+15,M.C.G.,1909-08-14 15:00,1909,Melbourne,1,0,3,1,3,3,4,4,University,1,6,1,9,2,12,2,15
+15,Lake Oval,1909-08-14 15:00,1909,South Melbourne,3,2,9,3,12,5,18,11,Richmond,0,4,1,4,2,8,3,8
+16,Punt Rd,1909-08-21 15:00,1909,Richmond,3,3,4,4,8,6,9,6,Carlton,2,1,6,6,8,7,14,16
+16,East Melbourne,1909-08-21 15:00,1909,University,2,4,2,7,3,8,5,9,Collingwood,0,1,3,5,4,7,5,9
+16,Lake Oval,1909-08-21 15:00,1909,South Melbourne,2,2,3,3,3,4,6,5,Essendon,2,1,4,4,5,6,5,7
+16,Brunswick St,1909-08-21 15:00,1909,Fitzroy,3,3,4,7,8,7,11,11,St Kilda,4,0,4,0,4,1,5,1
+16,Corio Oval,1909-08-21 15:00,1909,Geelong,3,3,3,3,5,5,6,9,Melbourne,0,3,5,6,7,9,9,14
+17,Princes Park,1909-08-28 15:00,1909,Carlton,3,4,6,9,9,10,11,13,St Kilda,0,0,3,1,5,2,5,3
+17,Victoria Park,1909-08-28 15:00,1909,Collingwood,5,3,9,6,9,9,11,11,Geelong,0,1,2,4,3,7,4,8
+17,Punt Rd,1909-08-28 15:00,1909,Richmond,1,2,2,5,2,6,5,9,Essendon,1,5,3,6,10,10,12,11
+17,M.C.G.,1909-08-28 15:00,1909,Melbourne,1,4,4,5,5,5,9,7,Fitzroy,1,2,3,3,3,7,4,7
+17,East Melbourne,1909-08-28 15:00,1909,University,2,0,3,5,4,6,5,9,South Melbourne,1,3,5,5,6,8,9,11
+18,East Melbourne,1909-09-04 15:00,1909,Essendon,2,2,3,4,3,9,4,10,Carlton,1,5,2,8,4,11,6,13
+18,Victoria Park,1909-09-04 15:00,1909,Collingwood,7,4,8,9,11,14,15,18,Melbourne,1,1,7,6,9,8,9,12
+18,Brunswick St,1909-09-04 15:00,1909,Fitzroy,3,0,4,4,6,5,9,6,University,3,6,3,7,7,10,8,12
+18,Corio Oval,1909-09-04 15:00,1909,Geelong,6,3,7,10,9,11,13,14,Richmond,0,1,1,6,2,7,4,7
+18,Junction Oval,1909-09-04 15:00,1909,St Kilda,1,2,4,4,5,4,5,5,South Melbourne,2,2,5,8,6,12,7,15
+Semi Final,M.C.G.,1909-09-11 14:30,1909,Carlton,4,1,7,4,12,7,14,8,Essendon,3,1,5,1,6,2,9,2
+Semi Final,M.C.G.,1909-09-18 14:30,1909,South Melbourne,3,4,3,4,9,7,10,8,Collingwood,0,1,3,6,4,6,6,11
+Preliminary Final,M.C.G.,1909-09-25 14:30,1909,South Melbourne,3,3,4,3,6,4,7,5,Carlton,2,0,5,5,7,7,10,9
+Grand Final,M.C.G.,1909-10-02 14:50,1909,South Melbourne,0,5,2,9,4,12,4,14,Carlton,0,5,2,9,3,11,4,12

@@ -1,0 +1,71 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Collingwood,2017,1,Melbourne,12,L,17,3,1,13,16,,,,2,,4,2,,1,,,9,6,,,,,,76
+Collingwood,2017,2,Port Adelaide,14,L,17,1,1,8,9,1,,,,,,2,,1,,,5,5,,,1,,,65
+Collingwood,2017,3,Port Adelaide,21,L,17,5,5,6,11,,,,2,,,,,,,,5,9,,1,1,,,77
+Collingwood,2017,4,Geelong,22,L,17,4,3,9,13,,,,6,,3,2,2,1,1,,8,7,,,2,,,68
+Collingwood,2017,5,Melbourne,23,W,17,5,1,14,19,,1,,1,,1,3,2,,,,9,10,,,,3,,76
+Collingwood,2018,6,Greater Western Sydney,2,L,17,4,1,8,12,,,,4,1,1,1,,1,,,4,8,,,3,,,77
+Collingwood,2018,7,Carlton,3,W,17,8,2,12,20,,,,5,2,2,1,1,1,1,,6,14,,1,1,4,1,77
+Collingwood,2018,8,Adelaide,4,W,17,7,1,8,15,,,,8,3,3,1,6,1,1,,6,10,,,3,1,1,74
+Collingwood,2018,9,Essendon,5,W,17,5,2,17,22,,,,2,2,2,,2,,2,,9,16,,,,,,79
+Collingwood,2018,10,Richmond,6,L,17,8,4,10,18,,,,6,,4,,3,1,,,6,13,1,1,,,2,85
+Collingwood,2018,11,Geelong,8,L,17,5,1,9,14,,1,,,,1,,6,,2,,6,8,,1,1,,,90
+Collingwood,2018,12,Richmond,19,L,17,9,,10,19,1,,,3,1,2,2,5,2,,,11,8,,,1,,,77
+Collingwood,2018,13,Sydney,20,L,17,3,2,2,5,,,,10,,,,2,,1,,3,3,,,,,,66
+Collingwood,2019,14,Geelong,1,L,17,4,1,5,9,1,,,3,,,,1,,1,,5,4,,,,,,64
+Collingwood,2019,15,Western Bulldogs,4,W,17,9,6,8,17,,1,,3,,2,,3,1,3,,6,13,,1,1,,1,68
+Collingwood,2019,16,Brisbane Lions,5,W,17,10,6,4,14,2,1,,3,1,5,,1,1,1,,4,10,1,2,,,,76
+Collingwood,2019,17,Essendon,6,W,17,10,4,6,16,,3,,4,1,2,1,1,2,,,5,11,,2,,1,,72
+Collingwood,2019,18,Port Adelaide,7,W,17,7,1,6,13,,,,7,,2,1,2,1,1,,6,8,,,,,,74
+Collingwood,2019,19,Carlton,8,W,17,13,3,8,21,2,1,,8,1,2,,2,3,1,,10,11,,,1,,1,74
+Collingwood,2019,20,St Kilda,9,W,17,2,,7,9,,,,2,1,1,1,2,1,2,,6,3,,,,,,71
+Collingwood,2019,21,Sydney,10,W,17,10,1,5,15,2,,,9,,5,2,1,3,,,7,8,,1,2,,1,79
+Collingwood,2019,22,Fremantle,11,L,17,6,1,8,14,,2,,3,,3,,3,,,,5,9,,,2,,,72
+Collingwood,2019,23,Melbourne,12,W,17,4,1,10,14,,,,7,,3,,,1,,,4,9,,,1,1,1,73
+Collingwood,2019,24,Western Bulldogs,14,W,17,8,2,13,21,1,,,,,5,1,3,,1,,7,14,,,,2,1,72
+Collingwood,2019,25,North Melbourne,15,L,17,4,,10,14,,,,6,1,2,1,2,,,,2,11,,,,2,,86
+Collingwood,2019,26,Hawthorn,16,L,17,7,,8,15,,2,,6,2,3,1,,3,,,9,7,,,2,2,,76
+Collingwood,2019,27,West Coast,17,W,17,3,3,11,14,,2,,1,,1,1,1,,,,6,8,,,1,,,80
+Collingwood,2019,28,Greater Western Sydney,18,L,17,11,1,6,17,2,,,5,,4,1,1,2,,,3,14,,,,1,1,80
+Collingwood,2019,29,Richmond,19,L,17,7,4,6,13,,,,3,,4,,2,,1,,4,10,,,2,,,87
+Collingwood,2019,30,Gold Coast,20,W,17,7,5,7,14,1,,,2,,1,,1,,,,2,12,,2,3,,1,84
+Collingwood,2019,31,Melbourne,21,W,17,10,3,11,21,,,,4,,5,1,4,,2,,8,17,,,1,2,,83
+Collingwood,2019,32,Adelaide,22,W,17,9,9,9,18,,,,2,,6,,1,,1,,5,15,,,2,1,2,81
+Collingwood,2019,33,Essendon,23,W,17,10,4,4,14,,1,,3,,4,,,2,,,4,11,,,2,,1,77
+Collingwood,2019,34,Geelong,QF,W,17,1,1,8,9,,,,5,1,,2,1,1,1,,3,6,,1,,,,85
+Collingwood,2019,35,Greater Western Sydney,PF,L,17,8,2,2,10,,,,3,,3,,2,1,,,3,7,,,1,1,,68
+Collingwood,2020,36,Western Bulldogs,1,W,17,6,1,8,14,1,,,3,1,2,1,1,,,,4,10,,,2,,1,76
+Collingwood,2020,37,Richmond,2,D,17,3,1,10,13,1,,,,,,,,1,,,8,6,,,,,1,78
+Collingwood,2020,38,St Kilda,3,W,17,7,3,7,14,1,2,,,,2,,2,,2,,4,12,,1,1,,1,72
+Collingwood,2020,39,Greater Western Sydney,4,L,17,5,3,8,13,,,,2,1,1,1,2,1,,,7,7,,1,,,,75
+Collingwood,2020,40,Essendon,5,L,17,6,3,7,13,1,,,1,,1,1,2,1,1,,3,9,1,1,1,,1,78
+Collingwood,2020,41,Hawthorn,6,W,17,5,2,8,13,,,,2,,1,,2,,1,,5,8,,,1,,,82
+Collingwood,2020,42,Geelong,7,W,17,3,2,9,12,,,,4,,2,1,2,1,1,,8,6,,1,1,,1,74
+Collingwood,2020,43,West Coast,8,L,17,4,,8,12,,,,1,,3,2,3,1,1,,7,6,,,1,,,70
+Collingwood,2020,44,Sydney,10,W,17,3,3,11,14,,,,4,1,2,,1,,,,5,9,,,,,,83
+Collingwood,2020,45,Adelaide,11,W,17,10,2,7,17,,,,2,,3,1,4,3,,,8,9,,,,,,84
+Collingwood,2020,46,Melbourne,12,L,17,4,2,4,8,1,,,,,1,,,,,,3,5,,1,,,,82
+Collingwood,2020,47,Carlton,14,W,17,2,,9,11,,,,2,,,,2,,1,,6,5,,,,,1,66
+Collingwood,2020,48,Brisbane Lions,15,L,17,7,2,7,14,1,,,6,,3,,3,2,,,6,8,,,1,,,70
+Collingwood,2020,49,Gold Coast,17,W,17,4,,6,10,,,,3,2,,1,1,1,,,6,5,,,,,,75
+Collingwood,2021,50,Western Bulldogs,1,L,17,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,2021,51,Carlton,2,W,17,7,6,4,11,,1,,3,2,3,1,1,1,,,4,7,2,,,,,56
+Collingwood,2021,52,Brisbane Lions,3,L,17,7,5,5,12,,1,,6,2,2,1,1,1,1,,4,9,,1,2,2,,76
+Collingwood,2021,53,Greater Western Sydney,4,L,17,5,2,8,13,,1,,4,,1,,2,1,,,5,7,,1,,,1,69
+Collingwood,2021,54,West Coast,5,L,17,3,1,8,11,1,,,,,2,2,2,,,,7,5,,,,,,83
+Collingwood,2021,55,Essendon,6,L,17,4,4,10,14,1,,,2,,,,1,1,,,5,10,,,,,,71
+Collingwood,2021,56,Gold Coast,7,L,17,6,3,8,14,,1,,3,,,1,1,,,,3,9,,,,4,,78
+Collingwood,2021,57↑,North Melbourne,8,W,17,2,2,4,6,,,,1,,,,,,,,2,4,,,,,,25
+Collingwood,2021,58,Sydney,9,L,17,6,3,8,14,,1,,3,,1,,3,,1,,3,10,,,,,,76
+Collingwood,2021,59,Port Adelaide,10,L,17,4,,9,13,,1,,3,,,,2,1,1,,6,7,,,,,1,71
+Collingwood,2021,60,Geelong,11,L,17,5,3,4,9,,,,3,,2,,1,,,,1,8,,1,,,1,65
+Collingwood,2021,61↑,Adelaide,12,W,17,4,2,7,11,,,,7,,1,2,2,,1,,2,8,,,,,1,37
+Collingwood,2021,62↑,Fremantle,15,L,17,2,2,6,8,1,,,3,,,,1,1,,,3,4,,,,,,63
+Collingwood,2021,63,Richmond,17,W,17,8,6,16,24,,,,2,,6,2,2,,,,3,21,,,,1,1,64
+Collingwood,2021,64,Carlton,18,L,17,3,2,10,13,,,,4,1,1,4,2,2,1,,8,5,,,,,,72
+Collingwood,2022,65,West Coast,4,L,17,8,1,11,19,,,,5,2,2,3,4,,,,6,10,,,,,,64
+Collingwood,2022,66,Brisbane Lions,5,L,17,2,2,10,12,,,,7,,,,3,,2,,4,8,,,1,,,79
+Collingwood,2022,67↑,Essendon,6,W,17,1,1,3,4,,,,3,,,,,,,,1,3,,,,,,53
+Collingwood,2022,68,Gold Coast,7,W,17,5,1,8,13,1,,,2,,1,,4,3,1,,4,8,,,,,,77
+Collingwood,2022,69,Western Bulldogs,9,L,17,1,,4,5,,,,2,,1,1,1,1,,,3,2,,,,,,65
+Collingwood,2022,70↑,Sydney,22,L,17,5,3,9,14,,,,,1,3,,,,,,4,10,1,,1,1,,46

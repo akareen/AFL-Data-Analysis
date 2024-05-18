@@ -1,0 +1,35 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Richmond,2003,1,Fremantle,3,W,19,6,3,4,10,1,1,,1,,3,,6,2,5,,4,6,,1,4,,1,69
+Richmond,2003,2,St Kilda,4,W,19,5,3,1,6,,,,2,2,,1,,,1,,1,5,,,,,,34
+Richmond,2003,3,Hawthorn,5,W,19,4,,2,6,,,,1,,2,1,2,,,,3,3,,,,,,34
+Richmond,2003,4,Port Adelaide,6,L,19,4,3,,4,,,,4,,1,,,1,,,1,3,,,,,,62
+Richmond,2003,5,Essendon,7,W,19,1,,1,2,,,,,,1,,,,,,1,2,,,,,,51
+Richmond,2003,6,Melbourne,8,W,19,5,2,2,7,,,,,2,1,,1,,1,,3,4,,,1,,,27
+Richmond,2003,7,West Coast,9,L,19,2,1,1,3,2,,,4,,1,,1,,,,1,2,,1,1,,,56
+Richmond,2003,8,Sydney,10,L,19,8,1,3,11,,,,9,1,6,3,2,2,1,,8,3,1,,2,,,65
+Richmond,2003,9,Kangaroos,11,L,19,7,5,5,12,1,,,5,,2,1,,1,,,5,8,,1,,,,80
+Richmond,2003,10,Carlton,12,L,19,,,1,1,,,,,,,,,,,,1,,,,1,,,29
+Richmond,2003,11,Brisbane Lions,13,L,19,10,7,5,15,1,1,,,1,5,,3,,1,,2,13,,1,1,,,91
+Richmond,2003,12,Adelaide,14,L,19,4,1,5,9,,,,2,1,,3,2,3,1,,6,4,,,2,,,95
+Richmond,2003,13,Geelong,15,L,19,2,2,10,12,,,,,1,2,3,2,2,,,9,5,,,1,,,80
+Richmond,2003,14,Collingwood,16,L,19,6,4,6,12,,2,,3,2,2,,5,3,2,,5,7,1,,2,,,83
+Richmond,2003,15,Western Bulldogs,17,W,19,4,1,5,9,,1,,1,1,,2,1,2,,,7,2,1,,6,,,74
+Richmond,2003,16,Fremantle,18,L,19,4,2,5,9,,,,2,1,,2,2,3,2,,10,1,1,,2,,1,73
+Richmond,2003,17,St Kilda,19,L,19,6,6,5,11,,1,,2,,2,,1,,1,,1,9,1,1,3,,,68
+Richmond,2004,18,Collingwood,1,W,19,4,2,,4,,,,1,3,2,,1,,1,,,3,,,1,,,39
+Richmond,2004,19,Melbourne,2,L,19,7,3,2,9,,,,1,1,3,2,3,,1,,3,7,,,2,,,35
+Richmond,2004,20,St Kilda,3,L,19,2,2,1,3,,1,,2,,,1,,1,,,1,2,,1,1,,,30
+Richmond,2004,21,Adelaide,5,L,19,13,7,12,25,,1,1,7,3,5,4,3,2,2,,10,16,,,3,,1,80
+Richmond,2004,22,Hawthorn,6,W,19,11,4,13,24,,1,1,,,4,5,2,,,,12,12,,,3,,,97
+Richmond,2004,23,Port Adelaide,9,L,19,12,3,9,21,,,,4,1,5,6,2,1,,,9,14,,,1,,,72
+Richmond,2004,24,West Coast,10,L,19,7,2,8,15,1,,1,2,2,5,2,1,2,,,6,9,,1,1,,,70
+Richmond,2004,25,Kangaroos,11,L,19,3,1,4,7,,,,,,1,1,2,,,,2,5,,,1,,,56
+Richmond,2004,26,Brisbane Lions,14,L,19,8,1,9,17,,,1,,2,3,4,,,,,8,10,,,1,,,93
+Richmond,2004,27,Essendon,15,L,19,7,2,4,11,1,,,2,2,4,2,4,2,3,,7,5,,,2,,1,66
+Richmond,2004,28,St Kilda,16,L,19,5,3,10,15,,,,5,,2,3,1,1,,,8,7,,,1,,,58
+Richmond,2004,29,Melbourne,17,L,19,11,2,4,15,,,,5,1,3,1,2,1,1,,4,12,,,2,2,,83
+Richmond,2004,30,Collingwood,18,L,19,5,3,5,10,,,,4,1,3,2,2,,,,4,6,,,2,2,,100
+Richmond,2004,31,Geelong,19,L,19,10,7,6,16,1,1,,,,1,1,1,1,,,4,12,,,,,,69
+Richmond,2004,32,Adelaide,20,L,19,12,5,10,22,2,,,3,3,1,3,5,,3,,6,16,,,2,1,,96
+Richmond,2004,33,Hawthorn,21,L,19,3,2,10,13,,1,1,3,,1,,2,,1,,7,7,1,,1,,,83
+Richmond,2004,34,Sydney,22,L,19,7,4,5,12,,,1,4,1,4,1,5,,3,,5,9,,1,3,1,1,77

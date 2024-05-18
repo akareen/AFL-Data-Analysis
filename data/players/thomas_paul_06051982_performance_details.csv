@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Essendon,2005,1,Geelong,4,L,17,2,2,9,11,,,,2,,,2,3,1,2,,7,4,1,,2,,,100
+Essendon,2005,2,Sydney,7,L,17,3,1,10,13,,,,1,1,2,,2,1,2,,5,8,,,1,1,,87
+Essendon,2005,3,Adelaide,11,L,17,,,,,,,,5,,,,,,,,,,,,2,,,75
+Essendon,2005,4,Richmond,15,L,17,9,5,9,18,,,,6,5,2,,4,1,3,,9,8,,,3,,,100
+Essendon,2005,5,Collingwood,16,W,17,4,2,3,7,,,,1,,,2,2,1,2,,4,3,,,2,,1,100
+Essendon,2005,6,Brisbane Lions,17,L,17,9,7,5,14,,,,,1,1,,3,1,3,,2,12,,,2,,1,96
+Essendon,2005,7,Carlton,21,W,17,7,1,2,9,1,,,3,,2,1,2,2,2,,4,4,,,3,,1,54
+Essendon,2005,8,Melbourne,22,L,17,5,,4,9,,,,1,,3,1,3,2,1,,2,7,,,2,1,,38

@@ -1,0 +1,13 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Melbourne,1964,1,St Kilda,15,W,38,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,1964,2,Footscray,18,L,38,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,1965,3,Fitzroy,3,W,38,1,,,1,,,,,,,,,,1,,,,,,,,,
+Melbourne,1965,4,South Melbourne,4,W,38,14,3,,14,,,,,,,,,2,1,,,,,,,,,
+Melbourne,1965,5,Geelong,5,W,38,7,,,7,,,,,,,,,1,,,,,,,,,,
+Melbourne,1965,6,Collingwood,6,W,38,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,1965,7,Essendon,10,L,38,11,2,1,12,4,,,,,,,,1,1,,,,,,,,,
+Melbourne,1965,8,Hawthorn,11,W,38,15,2,1,16,2,,,,,,,,,3,,,,,,,,,
+Melbourne,1965,9,Richmond,12,L,38,4,,1,5,1,,,,,,,,1,1,,,,,,,,,
+Melbourne,1965,10,South Melbourne,15,L,38,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,1965,11,Geelong,16,L,38,18,10,1,19,,,,,,,,,1,1,,,,,,,,,
+Melbourne,1965,12,Collingwood,17,L,38,7,2,,7,,1,,,,,,,1,,,,,,,,,,

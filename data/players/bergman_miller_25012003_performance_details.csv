@@ -1,0 +1,14 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+North Melbourne,2022,1↓,Carlton,7,L,27,1,,,1,,,,,,,1,1,,,,1,,,,1,,,25
+North Melbourne,2023,2,West Coast,1,W,27,9,3,4,13,,,,,2,3,,1,2,,,4,9,1,,1,,,86
+North Melbourne,2023,3,Fremantle,2,W,27,6,6,4,10,,,,1,2,,,,,,,2,8,,,1,,1,76
+North Melbourne,2023,4,Hawthorn,3,L,27,9,3,5,14,,,,1,3,1,,1,1,,,4,10,,,2,,,80
+North Melbourne,2023,5,St Kilda,8,L,27,9,5,7,16,,,,,2,1,,2,1,,,4,12,,,2,,,84
+North Melbourne,2023,6,Port Adelaide,9,L,27,7,2,3,10,,,,2,1,3,2,,,,,2,8,,,5,,2,75
+North Melbourne,2023,7,Sydney,10,L,27,8,6,3,11,,,,2,2,1,,,,,,2,11,,,,,,75
+North Melbourne,2023,8,Collingwood,11,L,27,8,3,3,11,,,,3,,1,,2,1,1,,4,9,,,1,,1,86
+North Melbourne,2023,9,Essendon,12,L,27,8,5,10,18,,,,2,2,1,,1,1,,,5,13,,,,1,,73
+North Melbourne,2023,10↓,Greater Western Sydney,13,L,27,2,,2,4,,,,,2,,1,2,,,,1,3,,,1,,,53
+North Melbourne,2023,11↑,Western Bulldogs,14,L,27,4,2,1,5,,,,,2,1,,1,,,,1,4,,,1,,,27
+North Melbourne,2023,12,Adelaide,16,L,27,7,4,5,12,,,,2,,,1,5,1,1,,3,8,,,4,,,73
+North Melbourne,2023,13,Gold Coast,24,W,27,9,3,4,13,,,,,4,1,,2,,,,1,12,,,2,,,69

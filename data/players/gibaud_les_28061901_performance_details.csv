@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Fitzroy,1918,1,Essendon,5,W,19,,,,,1,,,,,,,,,,,,,,,,,,
+Fitzroy,1918,2,Collingwood,6,L,19,,,,,,,,,,,,,,,,,,,,,,,
+Fitzroy,1918,3,Carlton,7,L,19,,,,,,,,,,,,,,,,,,,,,,,
+Fitzroy,1918,4,St Kilda,8,W,19,,,,,,,,,,,,,,,,,,,,,,,
+Fitzroy,1918,5,South Melbourne,9,L,19,,,,,2,,,,,,,,,,,,,,,,,,
+Fitzroy,1918,6,Richmond,10,W,19,,,,,,,,,,,,,,,,,,,,,,,
+Fitzroy,1918,7,Geelong,11,W,19,,,,,1,,,,,,,,,,,,,,,,,,
+Fitzroy,1918,8,Essendon,12,L,19,,,,,,,,,,,,,,,,,,,,,,,
+Fitzroy,1918,9,Collingwood,13,L,19,,,,,1,,,,,,,,,,,,,,,,,,
+Fitzroy,1918,10,Carlton,14,L,19,,,,,,,,,,,,,,,,,,,,,,,

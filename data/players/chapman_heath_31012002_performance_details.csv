@@ -1,0 +1,30 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Fremantle,2021,1,Greater Western Sydney,2,W,27,8,3,4,12,,,,1,1,2,,3,1,1,,2,11,,1,3,,,88
+Fremantle,2021,2,Carlton,3,L,27,10,4,8,18,,,,6,5,,,3,,3,,9,9,1,,5,,,85
+Fremantle,2021,3,Hawthorn,4,W,27,7,4,11,18,1,,,2,2,1,,3,1,1,,7,12,1,1,3,,,84
+Fremantle,2021,4,Adelaide,5,W,27,8,6,7,15,,,,1,2,1,,1,1,,,4,11,1,,1,,,80
+Fremantle,2021,5,North Melbourne,6,W,27,9,7,2,11,,,,,5,,,2,,1,,1,10,,,2,,,81
+Fremantle,2021,6,West Coast,7,L,27,8,3,3,11,,,,,1,1,,3,,,,3,8,,,1,,,80
+Fremantle,2022,7,Adelaide,1,W,27,9,4,5,14,,,,2,3,2,,2,,2,,6,8,1,,3,,,85
+Fremantle,2022,8,St Kilda,2,L,27,7,6,6,13,,,,4,,1,1,2,,,,4,11,,,2,,1,73
+Fremantle,2022,9,West Coast,3,W,27,16,8,7,23,,,,,7,1,,2,1,1,,5,17,,,2,,,84
+Fremantle,2022,10,Greater Western Sydney,4,W,27,12,4,12,24,,,,2,4,3,1,1,3,,,12,13,,,4,,,86
+Fremantle,2022,11,Essendon,5,W,27,10,7,5,15,,,,2,1,,,5,,,,2,14,1,,2,,,82
+Fremantle,2022,12,North Melbourne,8,W,27,11,5,14,25,,,,3,3,3,,1,1,,,10,13,1,,7,,1,90
+Fremantle,2022,13,Gold Coast,9,L,27,8,3,10,18,,,,,1,3,,3,,1,,7,10,,,4,,,80
+Fremantle,2022,14,Collingwood,10,L,27,12,5,6,18,,,,1,4,1,,4,,2,,8,12,,,2,,,79
+Fremantle,2022,15,Melbourne,11,W,27,17,14,5,22,,,,,3,2,1,1,,1,,3,20,,,3,,,72
+Fremantle,2022,16,Sydney,18,L,27,11,7,8,19,,,,4,2,2,1,2,1,1,,9,11,2,,1,,1,77
+Fremantle,2022,17,Richmond,19,D,27,9,5,7,16,,,,1,5,,1,1,2,,,5,11,,,,1,,89
+Fremantle,2022,18,Melbourne,20,L,27,8,4,2,10,,,,2,1,2,,3,,,,2,8,,,2,,,79
+Fremantle,2022,19,Western Bulldogs,21,W,27,16,11,8,24,,,,1,5,1,,2,,2,,2,23,1,,1,,1,86
+Fremantle,2022,20,West Coast,22,W,27,8,2,9,17,,,,2,4,2,,5,2,4,,5,12,,,5,,,85
+Fremantle,2022,21,Greater Western Sydney,23,W,27,9,4,5,14,,,,1,3,3,,4,,1,,3,10,,,2,4,1,84
+Fremantle,2022,22,Western Bulldogs,EF,W,27,9,9,18,27,,,,3,4,,1,3,2,3,,6,20,,,4,1,,91
+Fremantle,2022,23,Collingwood,SF,L,27,8,7,9,17,,,,1,2,,,2,2,,,3,13,,,,,,86
+Fremantle,2023,24,St Kilda,1,L,27,12,8,10,22,,,,2,2,1,,3,,1,,5,18,,,2,,,79
+Fremantle,2023,25,North Melbourne,2,L,27,9,5,8,17,,,,3,3,1,,1,2,,,8,9,,,2,,,79
+Fremantle,2023,26↓,West Coast,3,W,27,2,2,4,6,,,,1,3,,,,,,,1,5,1,,1,,,54
+Fremantle,2024,27,Western Bulldogs,8,W,5,7,6,7,14,,,,2,3,1,,2,,1,,3,12,1,,2,1,,72
+Fremantle,2024,28,Richmond,9,W,5,10,8,7,17,,,,,4,2,,1,1,,,4,13,1,,3,1,1,77
+Fremantle,2024,29,Sydney,10,L,5,6,7,10,16,,,,1,1,,,3,,1,,1,16,,,4,,,69

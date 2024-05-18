@@ -1,0 +1,6 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+St Kilda,2024,1↑,Essendon,4,L,24,1,1,3,4,,,,1,,,,,,,,1,4,1,,,,,22
+St Kilda,2024,2↑,Richmond,5,W,24,,,,,,,,,,,,,,,,,,,,1,,,5
+St Kilda,2024,3↑,Port Adelaide,8,L,24,4,1,4,8,,,,,,1,1,1,,,,3,5,,,1,,,19
+St Kilda,2024,4↓,North Melbourne,9,W,24,2,2,2,4,1,,,2,,,1,,1,,,2,3,,1,3,,,46
+St Kilda,2024,5,Hawthorn,10,L,24,5,2,4,9,,,,,,2,1,2,,,,,10,,,2,,,63

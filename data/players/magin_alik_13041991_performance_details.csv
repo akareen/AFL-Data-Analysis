@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Gold Coast,2011,1,Carlton,2,L,6,5,,8,13,,,,1,,2,,4,1,2,,8,5,,,,,1,87
+Gold Coast,2011,2↑,Western Bulldogs,3,L,6,6,5,,6,,1,,2,,4,,,,,,1,6,,,,,,39
+Gold Coast,2011,3↑,Melbourne,4,L,6,6,,1,7,1,2,,2,,1,,1,,,,3,3,,,,,,44
+Gold Coast,2012,4↑,Port Adelaide,9,L,6,3,1,2,5,,,,1,2,,2,1,,,,3,2,,,,,1,25
+Gold Coast,2012,5↑,Collingwood,10,L,6,2,2,6,8,,,,1,,2,,2,,,,4,5,,,,,,28
+Gold Coast,2012,6,Hawthorn,21,L,6,6,1,7,13,2,,,3,1,,,,,,,5,7,,,1,,,79
+Gold Coast,2012,7,Carlton,22,W,6,4,1,6,10,,1,,2,1,1,2,1,1,,,4,6,,,,,,79
+Gold Coast,2012,8,Adelaide,23,L,6,5,2,3,8,,,,3,,2,,,,,,1,8,,,1,,,70

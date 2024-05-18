@@ -1,0 +1,5 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+St Kilda,1967,1,Footscray,1,W,31,16,2,1,17,3,2,12,,,,,,4,5,,,,,,,,,
+St Kilda,1967,2,Essendon,2,W,31,9,2,5,14,1,1,13,,,,,,2,3,,,,,,,,,
+St Kilda,1967,3,South Melbourne,8,L,31,8,2,1,9,1,1,5,,,,,,2,5,,,,,,,,,
+St Kilda,1971,4,Hawthorn,4,L,41,3,1,1,4,,,1,,,,,,,1,,,,,,,,,

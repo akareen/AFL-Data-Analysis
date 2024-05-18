@@ -1,0 +1,37 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Fremantle,2002,1,West Coast,1,L,35,3,3,12,15,,,,3,1,2,2,3,,2,,5,11,,,5,,,
+Fremantle,2002,2,St Kilda,2,W,35,6,5,10,16,,,,2,1,1,3,1,,1,,4,12,,,,,,
+Fremantle,2002,3,Hawthorn,3,L,35,5,2,10,15,,,,1,2,2,,1,,,,4,11,,,2,1,,
+Fremantle,2002,4,Richmond,4,W,35,6,6,7,13,,,,1,2,1,,1,,,,4,9,,1,1,1,,
+Fremantle,2002,5,Geelong,5,L,35,9,5,4,13,,,,4,1,3,2,4,,2,,4,11,,,5,,,
+Fremantle,2002,6,Essendon,6,W,35,9,7,6,15,,,,1,,3,,1,,1,,3,11,,,,,,
+Fremantle,2002,7,Adelaide,7,L,35,10,4,10,20,,,,,1,4,1,1,,,,3,17,,1,,2,,
+Fremantle,2002,8,Melbourne,8,W,35,8,3,7,15,,,,1,2,1,1,1,1,,,7,8,,,,,,
+Fremantle,2002,9,Brisbane Lions,9,L,35,9,8,11,20,,,,3,2,3,,,,,,5,15,,,1,1,,
+Fremantle,2002,10,Carlton,10,W,35,6,4,4,10,,,,3,1,3,2,,,,,4,6,1,,2,,,
+Fremantle,2002,11,Western Bulldogs,11,L,35,9,9,7,16,,,,1,3,3,,3,,1,,1,15,,,,2,,
+Fremantle,2002,12,Collingwood,12,W,35,5,2,2,7,,,,2,,3,,,1,,,3,4,,,,1,,
+Fremantle,2002,13,Sydney,13,L,35,2,4,6,8,,,,1,2,1,1,2,,2,,1,8,,,,2,,
+Fremantle,2002,14,Port Adelaide,14,L,35,7,6,2,9,1,,,,2,,1,,,,,1,8,,1,,,,
+Fremantle,2002,15,West Coast,16,W,35,6,5,3,9,,,,,1,2,,1,,1,,2,7,,,,1,,
+Fremantle,2002,16,St Kilda,17,L,35,4,5,9,13,,,,,2,,1,1,,,,3,10,1,,,,,
+Fremantle,2002,17,Hawthorn,18,W,35,8,3,4,12,,,,,2,2,,2,1,1,,5,8,,,3,,,
+Fremantle,2002,18,Richmond,19,L,35,6,1,3,9,,,,4,,4,1,2,1,,,3,6,,,,2,,
+Fremantle,2002,19,Geelong,20,W,35,4,1,4,8,,,,3,,1,,1,,1,,2,6,,,3,,,
+Fremantle,2002,20,Essendon,21,L,35,4,1,6,10,,,,3,1,3,,5,1,4,,4,8,,,1,,,
+Fremantle,2002,21,Adelaide,22,L,35,4,1,3,7,,1,,3,,2,1,1,,1,,4,5,1,,1,,,
+Fremantle,2003,22,Richmond,3,L,35,1,,5,6,,,,4,,,,2,,,,1,5,,,4,,,33
+Fremantle,2003,23,Port Adelaide,11,L,35,9,8,4,13,,,,2,,3,1,,1,,,2,11,,,1,2,,85
+Fremantle,2003,24,Geelong,12,W,35,6,3,3,9,,,,6,,2,,1,1,,,2,7,,,1,,,96
+Fremantle,2003,25,Hawthorn,13,L,35,9,3,2,11,,,,,,1,1,6,,1,,3,8,,,1,1,,81
+Fremantle,2004,26,Adelaide,16,W,35,7,1,4,11,,,,,2,1,2,2,1,2,,5,5,,,2,,,91
+Fremantle,2004,27,Sydney,17,W,35,4,2,3,7,,,1,1,1,2,1,,,,,,6,,,2,,1,88
+Fremantle,2004,28,Carlton,18,W,35,11,6,3,14,1,,,1,1,7,,3,,,,3,11,,1,3,,,89
+Fremantle,2004,29,Collingwood,19,L,35,3,,1,4,,,,1,,1,,,,,,1,3,,,1,,,98
+Fremantle,2004,30,West Coast,21,L,35,9,3,3,12,,,,1,4,1,2,1,,,,4,9,,,1,,,84
+Fremantle,2004,31,St Kilda,22,L,35,6,2,4,10,1,,,3,,3,3,,1,,,4,6,,1,1,,1,72
+Fremantle,2005,32,Carlton,5,W,35,12,5,10,22,,,,3,1,6,,3,1,1,,7,16,1,,1,,1,93
+Fremantle,2005,33,Melbourne,6,W,35,6,1,4,10,,,,,1,3,,2,1,1,,3,7,,,,1,1,58
+Fremantle,2005,34,Collingwood,7,W,35,12,7,14,26,2,,,2,2,3,2,,,,,9,17,1,1,2,2,1,86
+Fremantle,2005,35,Essendon,8,L,35,4,2,5,9,,,,5,4,,,2,,,,4,5,,,2,,,89
+Fremantle,2005,36,Hawthorn,9,L,35,7,3,2,9,,,,,2,,,1,1,,,3,5,,,2,,,76

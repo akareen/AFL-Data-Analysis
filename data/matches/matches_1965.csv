@@ -1,0 +1,113 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Glenferrie Oval,1965-04-17 14:20,1965,Hawthorn,0,0,6,4,7,5,8,6,Carlton,6,5,6,9,11,17,12,19
+1,Moorabbin Oval,1965-04-17 14:20,1965,St Kilda,3,3,5,5,6,7,8,12,Collingwood,0,0,2,4,7,4,8,6
+1,Brunswick St,1965-04-17 14:20,1965,Fitzroy,1,1,3,10,3,10,8,16,Essendon,3,8,3,9,10,16,11,18
+1,Kardinia Park,1965-04-19 14:20,1965,Geelong,0,0,3,2,4,3,5,5,Footscray,0,1,2,2,5,3,5,3
+1,M.C.G.,1965-04-19 14:20,1965,Richmond,3,2,3,4,6,4,6,5,Melbourne,1,0,6,2,6,3,7,5
+1,Coburg Oval,1965-04-19 14:20,1965,North Melbourne,0,6,1,12,3,12,4,12,South Melbourne,1,4,3,7,4,7,6,10
+2,Princes Park,1965-04-24 14:20,1965,Carlton,3,1,4,4,6,7,8,11,Geelong,5,3,6,4,8,8,9,11
+2,Victoria Park,1965-04-24 14:20,1965,Collingwood,2,4,4,10,6,11,11,13,Richmond,3,5,7,6,7,8,9,10
+2,Windy Hill,1965-04-24 14:20,1965,Essendon,6,7,9,9,16,14,20,18,Hawthorn,2,0,3,3,5,4,6,8
+2,Western Oval,1965-04-24 14:20,1965,Footscray,2,4,2,5,6,6,8,6,Fitzroy,1,0,6,2,6,4,9,4
+2,M.C.G.,1965-04-24 14:20,1965,Melbourne,1,7,4,11,8,12,11,14,North Melbourne,2,3,5,6,7,8,10,12
+2,Lake Oval,1965-04-24 14:20,1965,South Melbourne,1,0,2,3,5,3,7,9,St Kilda,2,2,4,5,7,10,12,12
+3,Lake Oval,1965-05-01 14:20,1965,South Melbourne,1,6,4,11,11,13,12,14,Carlton,1,3,6,5,8,8,10,11
+3,Victoria Park,1965-05-01 14:20,1965,Collingwood,3,7,7,10,15,15,19,16,Hawthorn,1,1,6,3,8,6,10,9
+3,Western Oval,1965-05-01 14:20,1965,Footscray,2,3,5,6,5,8,6,12,Essendon,4,3,8,6,13,11,18,18
+3,Brunswick St,1965-05-01 14:20,1965,Fitzroy,4,0,6,0,7,1,9,4,Melbourne,3,7,10,12,11,22,14,25
+3,Coburg Oval,1965-05-01 14:20,1965,North Melbourne,1,3,4,8,6,11,7,13,Geelong,3,3,7,6,10,7,14,14
+3,M.C.G.,1965-05-01 14:20,1965,Richmond,0,4,4,9,7,9,12,13,St Kilda,4,2,8,4,13,6,14,12
+4,Princes Park,1965-05-08 14:20,1965,Carlton,2,1,10,3,15,3,16,11,North Melbourne,2,4,3,6,5,8,6,8
+4,Kardinia Park,1965-05-08 14:20,1965,Geelong,3,4,4,6,7,7,7,8,Collingwood,1,1,3,5,4,5,6,9
+4,Windy Hill,1965-05-08 14:20,1965,Essendon,3,1,7,1,8,3,10,9,Richmond,4,3,8,4,12,8,14,9
+4,Glenferrie Oval,1965-05-08 14:20,1965,Hawthorn,1,3,7,9,10,11,14,14,Fitzroy,2,2,5,2,8,4,9,7
+4,Moorabbin Oval,1965-05-08 14:20,1965,St Kilda,2,2,5,4,9,6,14,7,Footscray,2,2,2,4,4,5,7,8
+4,M.C.G.,1965-05-08 14:20,1965,Melbourne,3,3,6,6,8,7,12,8,South Melbourne,4,3,6,3,8,8,11,11
+5,Victoria Park,1965-05-15 14:20,1965,Collingwood,6,1,7,4,8,9,9,11,Carlton,1,2,5,5,10,6,13,7
+5,Moorabbin Oval,1965-05-15 14:20,1965,St Kilda,2,7,2,10,6,13,7,14,Essendon,1,2,7,3,11,6,14,9
+5,Brunswick St,1965-05-15 14:20,1965,Fitzroy,2,4,7,4,7,6,12,9,North Melbourne,8,3,12,7,15,9,16,13
+5,Western Oval,1965-05-15 14:20,1965,Footscray,6,3,7,6,11,9,11,11,South Melbourne,0,1,6,4,7,6,11,10
+5,Kardinia Park,1965-05-15 14:20,1965,Geelong,1,2,1,4,4,7,8,7,Melbourne,2,0,7,6,8,6,10,9
+5,M.C.G.,1965-05-15 14:20,1965,Richmond,4,7,9,9,9,15,14,21,Hawthorn,1,0,4,4,4,10,8,12
+6,Princes Park,1965-05-22 14:20,1965,Carlton,3,4,3,8,6,12,8,13,Richmond,1,3,3,3,4,5,6,9
+6,M.C.G.,1965-05-22 14:20,1965,Melbourne,1,4,2,7,5,8,6,13,Collingwood,0,1,3,1,4,3,7,5
+6,Lake Oval,1965-05-22 14:20,1965,South Melbourne,5,2,8,3,12,9,14,12,Essendon,3,1,10,7,11,9,12,16
+6,Brunswick St,1965-05-22 14:20,1965,Fitzroy,0,1,4,5,5,5,8,8,Geelong,3,7,5,11,10,15,11,21
+6,Glenferrie Oval,1965-05-22 14:20,1965,Hawthorn,5,2,9,3,11,4,12,9,Footscray,0,3,6,7,7,12,10,14
+6,Coburg Oval,1965-05-22 14:20,1965,North Melbourne,0,0,6,6,6,7,8,10,St Kilda,5,5,5,5,12,11,14,12
+7,Windy Hill,1965-05-29 14:20,1965,Essendon,1,2,3,9,5,17,5,23,Carlton,2,1,6,5,7,8,10,9
+7,Victoria Park,1965-05-29 14:20,1965,Collingwood,4,1,8,6,12,8,15,11,South Melbourne,2,3,3,4,6,6,10,12
+7,Moorabbin Oval,1965-05-29 14:20,1965,St Kilda,2,4,5,9,8,10,11,18,Fitzroy,2,2,2,3,3,5,5,5
+7,Western Oval,1965-05-29 14:20,1965,Footscray,3,4,4,7,8,9,9,11,Melbourne,2,1,7,3,7,6,10,9
+7,Kardinia Park,1965-05-29 14:20,1965,Geelong,4,5,6,11,16,13,18,14,Hawthorn,2,2,3,5,5,6,6,9
+7,M.C.G.,1965-05-29 14:20,1965,Richmond,5,5,11,10,14,13,21,16,North Melbourne,3,3,3,3,6,7,6,12
+8,Princes Park,1965-06-05 14:20,1965,Carlton,0,6,2,10,5,19,6,22,Melbourne,3,3,5,10,8,11,13,17
+8,Victoria Park,1965-06-05 14:20,1965,Collingwood,2,2,8,9,9,10,14,12,Footscray,3,3,5,6,8,11,11,12
+8,Coburg Oval,1965-06-05 14:20,1965,North Melbourne,1,2,3,6,7,9,11,15,Essendon,3,3,6,6,10,8,13,10
+8,M.C.G.,1965-06-05 14:20,1965,Richmond,5,5,8,7,15,10,21,17,Fitzroy,1,5,6,8,7,13,10,15
+8,Kardinia Park,1965-06-05 14:20,1965,Geelong,1,2,4,6,5,10,8,14,St Kilda,0,3,2,4,4,6,6,7
+8,Lake Oval,1965-06-05 14:20,1965,South Melbourne,3,3,6,12,7,17,13,24,Hawthorn,0,5,1,8,7,14,12,19
+9,Windy Hill,1965-06-12 14:20,1965,Essendon,1,2,3,4,4,9,7,12,Collingwood,4,2,8,6,11,9,12,14
+9,Lake Oval,1965-06-12 14:20,1965,South Melbourne,4,2,10,2,17,5,20,9,Geelong,3,4,8,7,12,8,17,13
+9,Glenferrie Oval,1965-06-12 14:20,1965,Hawthorn,3,2,4,6,10,8,14,10,North Melbourne,4,5,8,8,10,11,14,13
+9,Brunswick St,1965-06-14 14:20,1965,Fitzroy,3,3,5,4,7,6,9,7,Carlton,2,4,6,8,9,12,14,18
+9,Western Oval,1965-06-14 14:20,1965,Footscray,2,1,6,8,6,9,9,11,Richmond,3,9,4,12,7,15,9,17
+9,M.C.G.,1965-06-14 14:20,1965,Melbourne,4,1,6,4,7,6,9,7,St Kilda,6,3,8,7,11,11,18,14
+10,Princes Park,1965-06-26 14:20,1965,Carlton,3,2,4,5,10,9,12,10,Footscray,1,2,4,4,7,5,8,10
+10,Coburg Oval,1965-06-26 14:20,1965,North Melbourne,3,2,7,4,10,6,12,11,Collingwood,2,5,6,7,9,10,13,12
+10,M.C.G.,1965-06-26 14:20,1965,Melbourne,2,1,2,3,5,4,6,6,Essendon,1,5,6,10,9,10,10,11
+10,Brunswick St,1965-06-26 14:20,1965,Fitzroy,1,2,3,6,7,11,14,16,South Melbourne,4,4,8,6,10,6,14,10
+10,Kardinia Park,1965-06-26 14:20,1965,Geelong,3,2,6,6,10,7,12,9,Richmond,2,6,5,8,8,10,9,11
+10,Moorabbin Oval,1965-06-26 14:20,1965,St Kilda,8,2,15,4,21,7,24,12,Hawthorn,3,3,6,4,7,6,11,9
+11,Moorabbin Oval,1965-07-03 14:20,1965,St Kilda,0,0,5,1,9,3,12,8,Carlton,3,5,5,8,9,12,10,14
+11,Western Oval,1965-07-03 14:20,1965,Footscray,1,6,3,7,5,7,7,10,North Melbourne,1,0,2,6,4,8,5,10
+11,Glenferrie Oval,1965-07-03 14:20,1965,Hawthorn,0,2,4,5,9,8,9,13,Melbourne,5,2,8,7,13,9,19,11
+11,Victoria Park,1965-07-10 14:20,1965,Collingwood,3,1,4,4,7,8,10,14,Fitzroy,0,1,2,3,3,4,4,6
+11,Windy Hill,1965-07-10 14:20,1965,Essendon,3,5,5,8,9,13,12,16,Geelong,1,2,2,5,4,8,6,9
+11,M.C.G.,1965-07-10 14:20,1965,Richmond,5,4,10,9,14,12,23,20,South Melbourne,1,4,6,6,10,6,12,10
+12,Princes Park,1965-07-17 14:20,1965,Carlton,2,5,5,10,6,13,8,19,Hawthorn,3,1,4,3,6,4,8,4
+12,Victoria Park,1965-07-17 14:20,1965,Collingwood,1,3,6,7,8,8,8,13,St Kilda,4,2,5,2,6,4,7,5
+12,Windy Hill,1965-07-17 14:20,1965,Essendon,2,3,5,3,10,8,12,12,Fitzroy,1,0,2,2,3,4,3,8
+12,Western Oval,1965-07-17 14:20,1965,Footscray,0,1,0,2,1,8,1,8,Geelong,1,1,3,8,3,8,5,13
+12,M.C.G.,1965-07-17 14:20,1965,Melbourne,2,2,5,2,5,4,9,6,Richmond,3,6,4,8,7,11,9,12
+12,Lake Oval,1965-07-17 14:20,1965,South Melbourne,3,3,6,7,7,8,8,8,North Melbourne,3,5,4,10,5,14,6,17
+13,Kardinia Park,1965-07-24 14:20,1965,Geelong,1,5,3,5,4,9,5,9,Carlton,3,1,6,2,8,7,9,12
+13,M.C.G.,1965-07-24 14:20,1965,Richmond,1,2,4,6,4,6,8,8,Collingwood,3,1,8,3,11,4,12,7
+13,Glenferrie Oval,1965-07-24 14:20,1965,Hawthorn,0,1,5,1,6,3,7,5,Essendon,2,2,5,3,9,10,10,11
+13,Brunswick St,1965-07-24 14:20,1965,Fitzroy,1,5,3,8,6,10,7,13,Footscray,1,1,4,2,4,3,6,6
+13,Coburg Oval,1965-07-24 14:20,1965,North Melbourne,3,3,4,8,9,12,11,15,Melbourne,1,0,3,3,5,3,9,6
+13,Moorabbin Oval,1965-07-24 14:20,1965,St Kilda,1,1,8,6,10,7,18,9,South Melbourne,2,5,4,6,5,10,6,12
+14,Princes Park,1965-07-31 14:20,1965,Carlton,1,4,4,11,6,14,9,19,South Melbourne,3,7,5,10,11,11,13,12
+14,Glenferrie Oval,1965-07-31 14:20,1965,Hawthorn,2,3,4,7,7,10,8,12,Collingwood,1,4,5,12,5,14,12,22
+14,Windy Hill,1965-07-31 14:20,1965,Essendon,3,5,7,9,11,10,13,18,Footscray,3,2,4,3,6,7,6,11
+14,M.C.G.,1965-07-31 14:20,1965,Melbourne,4,3,10,6,11,8,12,11,Fitzroy,4,3,6,7,8,12,11,15
+14,Kardinia Park,1965-07-31 14:20,1965,Geelong,2,7,5,9,7,12,10,17,North Melbourne,0,1,3,2,4,3,5,4
+14,Moorabbin Oval,1965-07-31 14:20,1965,St Kilda,2,1,8,4,10,7,14,12,Richmond,3,7,4,7,6,13,11,17
+15,Coburg Oval,1965-08-07 14:20,1965,North Melbourne,4,0,4,1,6,3,6,8,Carlton,0,1,5,1,5,1,5,2
+15,Victoria Park,1965-08-07 14:20,1965,Collingwood,3,4,6,5,13,7,14,9,Geelong,2,2,4,2,6,2,7,4
+15,M.C.G.,1965-08-07 14:20,1965,Richmond,3,2,10,5,11,6,14,10,Essendon,2,1,4,2,5,5,5,6
+15,Brunswick St,1965-08-07 14:20,1965,Fitzroy,0,1,1,5,1,7,4,12,Hawthorn,4,4,5,5,6,6,8,6
+15,Western Oval,1965-08-07 14:20,1965,Footscray,0,1,4,4,5,6,6,9,St Kilda,4,8,4,10,9,15,9,15
+15,Lake Oval,1965-08-07 14:20,1965,South Melbourne,2,5,4,5,9,9,11,12,Melbourne,2,2,2,6,3,7,5,9
+16,Princes Park,1965-08-14 14:20,1965,Carlton,5,3,6,9,9,12,11,16,Collingwood,5,4,9,6,11,8,16,11
+16,Windy Hill,1965-08-14 14:20,1965,Essendon,1,4,4,5,5,8,9,15,St Kilda,0,3,3,6,6,8,9,10
+16,Coburg Oval,1965-08-14 14:20,1965,North Melbourne,4,3,7,6,9,8,12,10,Fitzroy,3,5,5,7,10,9,12,11
+16,Lake Oval,1965-08-14 14:20,1965,South Melbourne,0,3,3,7,6,13,10,18,Footscray,5,2,7,4,10,10,13,14
+16,M.C.G.,1965-08-14 14:20,1965,Melbourne,4,3,6,5,8,6,11,7,Geelong,1,1,7,6,13,9,16,11
+16,Glenferrie Oval,1965-08-14 14:20,1965,Hawthorn,2,3,6,8,9,9,9,14,Richmond,3,7,10,8,12,10,16,14
+17,M.C.G.,1965-08-21 14:20,1965,Richmond,5,1,9,3,13,5,14,8,Carlton,1,2,4,6,7,7,10,9
+17,Victoria Park,1965-08-21 14:20,1965,Collingwood,4,3,6,6,9,7,14,10,Melbourne,1,3,4,6,6,8,7,10
+17,Windy Hill,1965-08-21 14:20,1965,Essendon,2,4,4,8,8,12,14,13,South Melbourne,0,0,2,1,4,6,4,7
+17,Kardinia Park,1965-08-21 14:20,1965,Geelong,3,2,4,6,6,8,9,16,Fitzroy,3,0,5,2,7,3,8,4
+17,Western Oval,1965-08-21 14:20,1965,Footscray,0,5,0,10,2,14,4,17,Hawthorn,1,2,3,2,7,4,11,6
+17,Moorabbin Oval,1965-08-21 14:20,1965,St Kilda,2,8,3,9,9,9,12,13,North Melbourne,1,3,4,4,5,10,6,12
+18,Princes Park,1965-08-28 14:20,1965,Carlton,2,2,6,7,9,9,10,9,Essendon,1,0,2,2,3,5,9,6
+18,Lake Oval,1965-08-28 14:20,1965,South Melbourne,3,6,8,11,10,15,13,16,Collingwood,4,1,6,3,10,4,12,6
+18,Brunswick St,1965-08-28 14:20,1965,Fitzroy,3,2,11,3,13,5,16,6,St Kilda,3,4,6,6,15,10,19,13
+18,M.C.G.,1965-08-28 14:20,1965,Melbourne,1,3,7,3,10,9,10,12,Footscray,4,2,6,3,8,9,10,15
+18,Glenferrie Oval,1965-08-28 14:20,1965,Hawthorn,2,3,5,6,8,6,10,9,Geelong,7,6,10,11,12,15,17,20
+18,Coburg Oval,1965-08-28 14:20,1965,North Melbourne,4,2,5,7,8,9,11,12,Richmond,0,3,0,7,3,10,6,12
+Semi Final,M.C.G.,1965-09-04 14:30,1965,Geelong,2,0,4,3,6,8,7,9,Essendon,3,5,8,14,10,16,14,19
+Semi Final,M.C.G.,1965-09-11 14:30,1965,St Kilda,2,7,6,14,11,22,13,24,Collingwood,5,5,8,7,11,10,14,17
+Preliminary Final,M.C.G.,1965-09-18 14:30,1965,Collingwood,1,0,3,0,4,4,6,6,Essendon,3,6,5,9,10,10,14,13
+Grand Final,M.C.G.,1965-09-25 14:50,1965,St Kilda,1,6,4,8,5,11,9,16,Essendon,2,7,5,10,10,18,14,21

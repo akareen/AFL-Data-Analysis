@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Melbourne,1919,1,Essendon,9,L,28,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,1919,2,St Kilda,10,L,28,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,1919,3,South Melbourne,11,L,28,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1922,4,Fitzroy,6,L,24,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1923,5,Geelong,7,W,24,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1923,6,Essendon,15,L,24,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1923,7,Geelong,16,L,24,,,,,1,,,,,,,,,,,,,,,,,,
+Richmond,1923,8,South Melbourne,17,L,24,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1923,9,Fitzroy,18,L,24,,,,,2,,,,,,,,,,,,,,,,,,

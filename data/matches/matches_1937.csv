@@ -1,0 +1,113 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Princes Park,1937-04-24 14:45,1937,Carlton,4,6,9,11,13,16,18,21,South Melbourne,3,4,4,8,6,14,7,17
+1,Victoria Park,1937-04-24 14:45,1937,Collingwood,2,4,5,9,10,13,15,16,Geelong,2,3,2,8,9,8,13,12
+1,Western Oval,1937-04-24 14:45,1937,Footscray,1,4,6,7,6,8,9,17,Essendon,4,3,8,5,9,11,9,13
+1,Junction Oval,1937-04-24 14:45,1937,St Kilda,2,1,6,10,9,14,12,16,Fitzroy,3,7,5,9,7,15,10,21
+1,Arden St,1937-04-24 14:45,1937,North Melbourne,1,7,5,12,5,19,9,22,Hawthorn,3,1,3,5,6,7,11,12
+1,M.C.G.,1937-04-24 14:45,1937,Melbourne,7,3,9,5,10,7,14,8,Richmond,2,3,2,9,6,10,9,12
+2,Corio Oval,1937-05-01 14:45,1937,Geelong,2,4,2,7,5,11,8,12,Carlton,0,1,3,7,4,9,6,13
+2,Lake Oval,1937-05-01 14:45,1937,South Melbourne,3,2,4,5,8,15,11,19,Collingwood,4,4,11,12,16,15,20,20
+2,Windy Hill,1937-05-01 14:45,1937,Essendon,0,1,7,4,8,5,13,7,Melbourne,6,10,11,12,21,18,25,20
+2,Brunswick St,1937-05-01 14:45,1937,Fitzroy,0,1,3,6,5,9,9,11,North Melbourne,2,1,3,2,9,5,10,7
+2,Punt Rd,1937-05-01 14:45,1937,Richmond,2,1,8,6,10,10,17,15,Footscray,6,3,7,4,10,8,12,11
+2,Glenferrie Oval,1937-05-01 14:45,1937,Hawthorn,8,7,9,8,12,13,14,15,St Kilda,0,0,7,12,9,12,15,22
+3,M.C.G.,1937-05-08 14:45,1937,Melbourne,4,5,8,7,13,14,15,17,Carlton,1,3,5,7,8,9,10,11
+3,Arden St,1937-05-08 14:45,1937,North Melbourne,1,5,2,6,2,16,3,16,Collingwood,2,3,4,6,6,10,9,14
+3,Windy Hill,1937-05-08 14:45,1937,Essendon,2,1,8,9,11,9,18,13,Geelong,6,10,7,11,13,15,14,20
+3,Brunswick St,1937-05-08 14:45,1937,Fitzroy,7,5,8,6,13,14,15,15,Hawthorn,0,0,9,5,9,10,9,15
+3,Western Oval,1937-05-08 14:45,1937,Footscray,0,2,3,4,5,7,6,10,St Kilda,2,2,3,4,5,7,7,9
+3,Lake Oval,1937-05-08 14:45,1937,South Melbourne,4,2,5,5,9,13,11,15,Richmond,1,5,6,11,6,12,11,15
+4,Princes Park,1937-05-15 14:45,1937,Carlton,2,2,5,5,8,6,10,12,North Melbourne,5,3,5,3,8,8,10,14
+4,Victoria Park,1937-05-15 14:45,1937,Collingwood,5,2,11,5,13,7,16,14,Footscray,1,2,5,5,9,10,11,11
+4,Glenferrie Oval,1937-05-15 14:45,1937,Hawthorn,2,5,4,8,10,11,11,15,Essendon,3,3,5,6,11,8,16,13
+4,Punt Rd,1937-05-15 14:45,1937,Richmond,5,2,12,3,14,5,17,10,Fitzroy,1,5,4,8,9,9,12,12
+4,Corio Oval,1937-05-15 14:45,1937,Geelong,2,9,3,11,7,13,12,20,South Melbourne,0,2,2,4,3,8,7,11
+4,Junction Oval,1937-05-15 14:45,1937,St Kilda,3,8,8,10,10,16,12,18,Melbourne,3,6,4,11,7,16,12,23
+5,Junction Oval,1937-05-22 14:45,1937,St Kilda,2,7,4,7,8,15,12,19,Carlton,3,5,8,11,9,15,13,16
+5,M.C.G.,1937-05-22 14:45,1937,Melbourne,2,4,4,10,8,14,13,23,Collingwood,4,1,6,5,7,10,11,10
+5,Windy Hill,1937-05-22 14:45,1937,Essendon,1,2,3,6,6,11,8,15,Richmond,4,5,7,5,12,8,17,13
+5,Brunswick St,1937-05-22 14:45,1937,Fitzroy,2,6,5,9,7,11,11,16,South Melbourne,0,2,1,9,6,14,7,18
+5,Western Oval,1937-05-22 14:45,1937,Footscray,7,9,9,10,13,20,18,23,North Melbourne,1,0,8,2,9,3,14,4
+5,Corio Oval,1937-05-22 14:45,1937,Geelong,2,4,8,10,16,16,21,23,Hawthorn,2,5,4,5,4,8,7,11
+6,Victoria Park,1937-05-29 14:45,1937,Collingwood,5,3,6,6,10,10,11,16,Carlton,1,0,5,3,6,5,8,7
+6,Brunswick St,1937-05-29 14:45,1937,Fitzroy,2,4,3,5,7,7,11,9,Essendon,0,3,5,13,7,15,8,18
+6,Western Oval,1937-05-29 14:45,1937,Footscray,5,0,5,5,7,8,8,8,Melbourne,4,2,6,7,8,9,11,12
+6,Punt Rd,1937-05-29 14:45,1937,Richmond,0,1,6,5,11,11,15,19,Geelong,4,2,6,3,6,5,12,6
+6,Lake Oval,1937-05-29 14:45,1937,South Melbourne,0,0,8,5,11,8,15,11,Hawthorn,6,6,8,7,9,15,13,20
+6,Arden St,1937-05-29 14:45,1937,North Melbourne,4,6,5,8,12,8,13,8,St Kilda,2,2,8,8,9,8,15,13
+7,Princes Park,1937-06-05 14:30,1937,Carlton,5,4,9,6,13,9,19,12,Footscray,1,2,4,6,7,8,9,10
+7,Junction Oval,1937-06-05 14:30,1937,St Kilda,3,2,3,7,10,13,12,15,Collingwood,2,7,5,10,7,10,9,15
+7,Windy Hill,1937-06-05 14:30,1937,Essendon,1,2,3,5,9,7,16,12,South Melbourne,3,1,7,4,11,7,11,10
+7,Corio Oval,1937-06-05 14:30,1937,Geelong,4,7,7,11,14,18,16,19,Fitzroy,2,0,5,5,5,5,10,10
+7,Glenferrie Oval,1937-06-05 14:30,1937,Hawthorn,5,1,7,3,9,5,9,6,Richmond,0,1,6,2,6,5,8,10
+7,M.C.G.,1937-06-05 14:30,1937,Melbourne,5,3,12,7,17,13,25,16,North Melbourne,2,4,3,5,4,9,5,14
+8,Punt Rd,1937-06-12 14:30,1937,Richmond,2,7,7,16,11,20,14,24,Carlton,2,4,7,7,10,15,13,19
+8,Windy Hill,1937-06-12 14:30,1937,Essendon,4,2,5,6,9,7,13,11,Collingwood,5,2,10,8,16,12,19,14
+8,Corio Oval,1937-06-12 14:30,1937,Geelong,2,1,9,7,14,9,16,13,St Kilda,1,5,3,6,8,10,11,15
+8,Brunswick St,1937-06-14 14:30,1937,Fitzroy,0,3,6,8,9,10,14,15,Footscray,3,5,4,6,8,11,8,14
+8,Glenferrie Oval,1937-06-14 14:30,1937,Hawthorn,3,3,5,9,6,9,12,10,Melbourne,5,4,8,6,14,11,15,15
+8,Lake Oval,1937-06-14 14:30,1937,South Melbourne,2,3,7,10,11,12,16,18,North Melbourne,2,4,4,4,7,5,10,10
+9,Princes Park,1937-06-19 14:30,1937,Carlton,4,5,10,8,10,19,15,24,Hawthorn,3,1,4,5,5,9,8,11
+9,Victoria Park,1937-06-19 14:30,1937,Collingwood,4,1,7,3,12,6,16,9,Fitzroy,5,3,7,6,9,8,12,12
+9,Junction Oval,1937-06-19 14:30,1937,St Kilda,4,2,6,10,10,14,13,19,Essendon,2,3,5,6,7,10,11,14
+9,Western Oval,1937-06-19 14:30,1937,Footscray,2,3,4,6,5,8,10,8,South Melbourne,3,0,7,6,11,9,18,11
+9,M.C.G.,1937-06-19 14:30,1937,Melbourne,1,2,6,7,6,10,9,17,Geelong,6,3,10,4,13,12,15,14
+9,Arden St,1937-06-19 14:30,1937,North Melbourne,4,3,7,8,9,9,12,16,Richmond,2,2,4,5,10,10,11,11
+10,Windy Hill,1937-06-26 14:30,1937,Essendon,2,1,5,8,11,12,13,18,Carlton,2,8,8,10,12,13,15,18
+10,Punt Rd,1937-06-26 14:30,1937,Richmond,3,2,7,4,11,6,12,8,Collingwood,3,4,8,5,8,6,14,9
+10,Brunswick St,1937-06-26 14:30,1937,Fitzroy,1,3,1,5,6,5,7,8,Melbourne,4,7,5,11,7,17,11,23
+10,Glenferrie Oval,1937-06-26 14:30,1937,Hawthorn,3,3,8,7,11,12,15,16,Footscray,3,5,7,7,11,10,14,15
+10,Corio Oval,1937-06-26 14:30,1937,Geelong,2,3,7,13,10,15,18,16,North Melbourne,1,6,2,6,3,10,4,14
+10,Lake Oval,1937-06-26 14:30,1937,South Melbourne,2,4,6,9,10,13,14,18,St Kilda,0,2,3,4,5,10,8,12
+11,Princes Park,1937-07-03 14:30,1937,Carlton,3,5,5,6,12,9,13,11,Fitzroy,2,1,3,10,3,12,8,19
+11,Victoria Park,1937-07-03 14:30,1937,Collingwood,3,6,7,14,10,16,13,23,Hawthorn,0,2,2,4,4,12,6,13
+11,Arden St,1937-07-03 14:30,1937,North Melbourne,3,3,4,5,8,11,11,11,Essendon,2,3,5,10,9,13,11,22
+11,Western Oval,1937-07-03 14:30,1937,Footscray,4,1,8,4,10,5,11,8,Geelong,4,3,5,7,10,10,13,15
+11,M.C.G.,1937-07-03 14:30,1937,Melbourne,6,1,9,5,10,7,13,10,South Melbourne,5,1,7,2,8,12,11,16
+11,Junction Oval,1937-07-03 14:30,1937,St Kilda,7,2,10,3,12,5,16,6,Richmond,2,2,5,7,6,10,10,13
+12,Lake Oval,1937-07-10 14:30,1937,South Melbourne,1,1,3,2,6,4,13,9,Carlton,3,0,4,8,5,12,7,14
+12,Corio Oval,1937-07-10 14:30,1937,Geelong,4,1,7,5,10,9,13,16,Collingwood,3,4,4,7,8,9,10,11
+12,Windy Hill,1937-07-10 14:30,1937,Essendon,2,3,6,8,9,13,9,13,Footscray,1,3,3,6,6,9,11,11
+12,Brunswick St,1937-07-10 14:30,1937,Fitzroy,2,7,3,10,7,15,10,19,St Kilda,2,3,4,6,5,6,5,11
+12,Glenferrie Oval,1937-07-10 14:30,1937,Hawthorn,2,3,5,8,6,11,9,15,North Melbourne,2,2,2,7,3,11,6,15
+12,Punt Rd,1937-07-10 14:30,1937,Richmond,5,4,10,10,12,10,15,12,Melbourne,5,5,7,6,11,8,13,10
+13,Princes Park,1937-07-17 14:30,1937,Carlton,2,1,5,5,6,9,9,13,Geelong,5,2,8,5,9,7,13,14
+13,Victoria Park,1937-07-17 14:30,1937,Collingwood,3,8,7,10,13,17,18,19,South Melbourne,2,5,6,9,11,9,15,14
+13,M.C.G.,1937-07-17 14:30,1937,Melbourne,3,3,5,4,10,7,11,13,Essendon,1,4,3,9,5,10,8,15
+13,Arden St,1937-07-17 14:30,1937,North Melbourne,1,1,2,8,2,9,5,17,Fitzroy,2,4,4,5,9,12,9,14
+13,Western Oval,1937-07-17 14:30,1937,Footscray,4,6,4,7,9,9,11,9,Richmond,0,1,5,5,8,5,12,6
+13,Junction Oval,1937-07-17 14:30,1937,St Kilda,4,5,5,8,9,13,11,15,Hawthorn,0,2,5,5,5,7,9,8
+14,Princes Park,1937-07-24 14:30,1937,Carlton,6,4,10,10,15,16,16,24,Melbourne,6,4,10,5,12,7,16,8
+14,Victoria Park,1937-07-24 14:30,1937,Collingwood,7,5,11,9,18,12,24,20,North Melbourne,3,3,5,5,7,7,7,9
+14,Corio Oval,1937-07-24 14:30,1937,Geelong,4,7,7,12,12,17,13,22,Essendon,0,0,5,4,6,5,9,12
+14,Glenferrie Oval,1937-07-24 14:30,1937,Hawthorn,1,3,4,3,6,4,10,11,Fitzroy,2,3,5,6,6,11,6,13
+14,Junction Oval,1937-07-24 14:30,1937,St Kilda,0,3,7,6,12,8,17,10,Footscray,3,3,6,4,10,8,13,15
+14,Punt Rd,1937-07-24 14:30,1937,Richmond,7,11,10,15,15,20,16,23,South Melbourne,0,1,4,6,8,7,13,11
+15,Arden St,1937-07-31 14:30,1937,North Melbourne,4,5,5,5,9,10,10,11,Carlton,3,2,9,3,11,4,14,8
+15,Western Oval,1937-07-31 14:30,1937,Footscray,0,2,3,6,5,7,10,14,Collingwood,10,5,13,5,17,9,19,12
+15,Windy Hill,1937-07-31 14:30,1937,Essendon,3,2,7,5,8,9,11,13,Hawthorn,2,4,6,6,7,10,13,14
+15,Brunswick St,1937-07-31 14:30,1937,Fitzroy,3,5,6,5,9,10,11,13,Richmond,5,4,8,5,10,6,15,13
+15,Lake Oval,1937-07-31 14:30,1937,South Melbourne,0,0,2,3,8,7,13,10,Geelong,5,2,9,6,13,8,16,11
+15,M.C.G.,1937-07-31 14:30,1937,Melbourne,4,5,9,8,13,14,18,16,St Kilda,3,4,7,9,9,12,11,18
+16,Punt Rd,1937-08-07 14:45,1937,Richmond,3,3,8,5,10,8,13,15,Essendon,6,8,9,9,12,16,12,19
+16,Lake Oval,1937-08-07 14:45,1937,South Melbourne,1,2,5,6,8,9,10,16,Fitzroy,4,3,6,6,11,8,15,8
+16,Arden St,1937-08-07 14:45,1937,North Melbourne,2,6,4,11,5,16,8,16,Footscray,4,3,7,8,9,8,13,13
+16,Princes Park,1937-08-14 14:45,1937,Carlton,1,6,3,12,8,16,12,16,St Kilda,2,2,7,5,8,8,11,12
+16,Victoria Park,1937-08-14 14:45,1937,Collingwood,8,4,13,8,19,14,21,16,Melbourne,4,6,9,13,13,15,22,21
+16,Glenferrie Oval,1937-08-14 14:45,1937,Hawthorn,3,5,5,7,9,11,13,13,Geelong,4,2,8,6,12,9,17,12
+17,Princes Park,1937-08-21 14:45,1937,Carlton,5,6,6,9,8,10,11,15,Collingwood,2,3,6,9,6,12,9,17
+17,Windy Hill,1937-08-21 14:45,1937,Essendon,5,6,8,8,12,11,17,17,Fitzroy,2,3,5,4,8,6,10,10
+17,M.C.G.,1937-08-21 14:45,1937,Melbourne,6,3,10,10,12,13,15,15,Footscray,1,0,2,3,8,8,10,14
+17,Corio Oval,1937-08-21 14:45,1937,Geelong,7,2,7,2,11,6,14,6,Richmond,0,1,8,6,8,6,8,11
+17,Glenferrie Oval,1937-08-21 14:45,1937,Hawthorn,4,2,7,2,11,6,15,12,South Melbourne,2,3,4,7,6,10,10,15
+17,Junction Oval,1937-08-21 14:45,1937,St Kilda,3,3,9,9,13,12,22,19,North Melbourne,4,3,5,5,10,5,11,5
+18,Western Oval,1937-08-28 14:45,1937,Footscray,5,5,7,6,10,15,13,16,Carlton,1,4,6,11,10,11,17,14
+18,Victoria Park,1937-08-28 14:45,1937,Collingwood,7,4,11,8,15,12,19,15,St Kilda,5,2,7,5,9,8,13,13
+18,Lake Oval,1937-08-28 14:45,1937,South Melbourne,3,7,4,11,6,12,10,16,Essendon,3,0,4,1,8,2,11,7
+18,Brunswick St,1937-08-28 14:45,1937,Fitzroy,5,5,8,7,10,8,12,9,Geelong,4,6,7,8,10,11,16,13
+18,Punt Rd,1937-08-28 14:45,1937,Richmond,6,3,10,5,13,12,14,13,Hawthorn,3,0,7,4,9,10,13,14
+18,Arden St,1937-08-28 14:45,1937,North Melbourne,3,4,3,6,9,10,13,13,Melbourne,1,3,5,6,10,12,19,16
+Semi Final,M.C.G.,1937-09-04 14:30,1937,Collingwood,4,3,7,5,12,8,18,12,Richmond,2,2,4,5,8,8,10,9
+Semi Final,M.C.G.,1937-09-11 14:30,1937,Geelong,5,3,11,5,13,9,19,11,Melbourne,2,2,9,9,10,13,16,17
+Preliminary Final,M.C.G.,1937-09-18 14:30,1937,Melbourne,2,2,6,3,7,7,7,10,Collingwood,5,2,6,4,12,6,16,11
+Grand Final,M.C.G.,1937-09-25 14:50,1937,Geelong,3,3,8,5,12,8,18,14,Collingwood,6,3,8,10,11,14,12,18

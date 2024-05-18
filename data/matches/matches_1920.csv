@@ -1,0 +1,77 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Princes Park,1920-05-01 15:00,1920,Carlton,1,3,5,4,6,6,10,10,St Kilda,3,6,4,7,5,10,5,11
+1,Victoria Park,1920-05-01 15:00,1920,Collingwood,3,0,4,4,4,4,5,6,Essendon,3,2,3,5,6,8,7,12
+1,Brunswick St,1920-05-01 15:00,1920,Fitzroy,2,1,5,6,5,8,8,11,Richmond,4,5,5,9,10,12,11,13
+1,M.C.G.,1920-05-01 15:00,1920,Melbourne,1,3,5,7,7,10,9,13,South Melbourne,2,3,3,4,4,6,8,7
+2,Punt Rd,1920-05-08 15:00,1920,Richmond,3,0,7,2,9,8,14,13,Carlton,5,3,6,8,9,13,9,14
+2,Corio Oval,1920-05-08 15:00,1920,Geelong,3,0,4,2,6,7,7,8,Collingwood,2,2,4,8,5,9,7,13
+2,East Melbourne,1920-05-08 15:00,1920,Essendon,3,2,7,4,8,11,9,11,Melbourne,3,2,6,3,8,7,12,8
+2,Lake Oval,1920-05-08 15:00,1920,South Melbourne,0,3,3,9,6,10,6,13,Fitzroy,3,3,6,4,8,7,12,7
+3,Princes Park,1920-05-15 15:00,1920,Carlton,1,2,2,4,2,11,3,11,Fitzroy,1,2,4,2,4,2,5,8
+3,Victoria Park,1920-05-15 15:00,1920,Collingwood,2,7,2,10,3,18,4,20,Melbourne,2,0,3,4,3,5,3,5
+3,East Melbourne,1920-05-15 15:00,1920,Essendon,4,4,4,8,6,12,7,13,South Melbourne,1,1,6,4,7,4,9,9
+3,Junction Oval,1920-05-15 15:00,1920,St Kilda,5,5,5,6,10,11,11,12,Geelong,0,1,3,6,5,6,8,8
+4,East Melbourne,1920-05-22 15:00,1920,Essendon,3,3,4,6,5,10,7,13,Carlton,1,4,8,8,12,10,14,17
+4,Brunswick St,1920-05-22 15:00,1920,Fitzroy,2,2,4,3,7,4,9,7,Collingwood,2,3,4,9,5,10,7,11
+4,Corio Oval,1920-05-22 15:00,1920,Geelong,4,2,5,2,7,4,10,4,Richmond,3,2,8,8,9,16,9,19
+4,M.C.G.,1920-05-22 15:00,1920,Melbourne,2,7,5,8,10,14,11,15,St Kilda,2,2,3,5,3,7,5,11
+5,Punt Rd,1920-05-26 10:45,1920,Richmond,3,2,5,9,8,12,11,12,Collingwood,2,3,4,4,7,7,10,11
+5,Brunswick St,1920-05-26 10:45,1920,Fitzroy,3,6,7,9,9,13,13,18,Geelong,4,2,4,3,5,4,8,8
+5,Lake Oval,1920-05-26 15:00,1920,South Melbourne,1,3,3,7,4,8,8,10,Carlton,2,2,2,7,3,13,4,15
+5,Junction Oval,1920-05-26 15:00,1920,St Kilda,1,2,3,3,7,5,8,6,Essendon,0,4,4,8,6,11,8,15
+6,Princes Park,1920-06-05 15:00,1920,Carlton,2,4,4,9,4,16,7,24,Melbourne,2,3,4,4,9,5,13,6
+6,Punt Rd,1920-06-05 15:00,1920,Richmond,3,1,4,3,6,3,9,7,South Melbourne,2,1,4,2,5,4,5,4
+6,Victoria Park,1920-06-07 15:00,1920,Collingwood,6,2,11,5,12,8,12,11,St Kilda,2,0,3,3,5,8,7,10
+6,East Melbourne,1920-06-07 15:00,1920,Essendon,4,5,10,15,11,16,13,26,Geelong,3,3,6,4,11,11,12,13
+7,Corio Oval,1920-06-12 15:00,1920,Geelong,2,2,5,8,5,9,9,16,Carlton,3,5,5,7,10,13,11,13
+7,Brunswick St,1920-06-12 15:00,1920,Fitzroy,3,3,4,4,6,6,6,7,Essendon,6,1,8,6,11,7,14,9
+7,M.C.G.,1920-06-12 15:00,1920,Melbourne,5,1,5,3,10,4,10,8,Richmond,5,3,8,8,9,11,12,16
+7,Junction Oval,1920-06-12 15:00,1920,St Kilda,1,2,2,6,4,8,7,11,South Melbourne,4,1,9,5,11,7,13,10
+8,Victoria Park,1920-06-19 15:00,1920,Collingwood,3,2,6,9,9,10,12,13,Carlton,2,2,3,4,7,4,10,6
+8,M.C.G.,1920-06-19 15:00,1920,Melbourne,0,1,1,2,4,4,6,10,Fitzroy,4,2,10,7,14,11,16,12
+8,Lake Oval,1920-06-19 15:00,1920,South Melbourne,2,7,5,12,8,16,16,23,Geelong,2,4,2,5,5,14,5,16
+8,Punt Rd,1920-06-19 15:00,1920,Richmond,4,4,9,6,15,13,19,15,St Kilda,1,0,5,5,7,5,8,6
+9,Lake Oval,1920-06-26 15:00,1920,South Melbourne,2,2,2,7,4,8,9,9,Collingwood,3,2,5,4,7,6,10,7
+9,Punt Rd,1920-06-26 15:00,1920,Richmond,1,4,3,9,5,10,13,17,Essendon,6,5,6,6,11,9,11,9
+9,Junction Oval,1920-06-26 15:00,1920,St Kilda,1,0,2,1,4,2,4,4,Fitzroy,2,1,6,7,9,10,14,18
+9,Corio Oval,1920-06-26 15:00,1920,Geelong,2,3,8,7,13,9,16,17,Melbourne,2,8,2,9,5,12,6,12
+10,Junction Oval,1920-07-03 15:00,1920,St Kilda,2,2,3,6,7,8,8,9,Carlton,4,5,5,9,8,12,11,15
+10,East Melbourne,1920-07-03 15:00,1920,Essendon,0,0,4,4,5,6,8,7,Collingwood,3,5,6,5,8,8,9,8
+10,Punt Rd,1920-07-03 15:00,1920,Richmond,2,6,4,8,8,11,8,12,Fitzroy,5,0,9,3,11,6,12,6
+10,Lake Oval,1920-07-03 15:00,1920,South Melbourne,5,4,6,5,10,10,12,13,Melbourne,0,2,3,5,4,7,5,11
+11,Princes Park,1920-07-10 14:45,1920,Carlton,2,0,3,3,6,7,8,11,Richmond,0,4,0,5,2,7,3,8
+11,Victoria Park,1920-07-10 14:45,1920,Collingwood,1,2,3,8,8,13,11,17,Geelong,1,5,3,8,4,8,5,11
+11,M.C.G.,1920-07-10 14:45,1920,Melbourne,2,3,4,7,5,9,5,13,Essendon,4,2,5,7,6,13,7,18
+11,Brunswick St,1920-07-10 14:45,1920,Fitzroy,2,5,3,10,7,12,9,13,South Melbourne,3,4,5,5,8,8,8,14
+12,Brunswick St,1920-07-17 14:45,1920,Fitzroy,3,3,6,3,8,7,11,9,Carlton,1,1,3,5,5,10,8,14
+12,M.C.G.,1920-07-17 14:45,1920,Melbourne,0,4,2,7,6,8,8,11,Collingwood,5,4,8,8,10,12,10,15
+12,Lake Oval,1920-07-17 14:45,1920,South Melbourne,0,5,1,10,6,12,8,14,Essendon,2,0,3,3,5,4,7,7
+12,Corio Oval,1920-07-17 14:45,1920,Geelong,3,5,8,8,8,11,16,17,St Kilda,3,2,4,6,7,8,9,8
+13,Princes Park,1920-07-31 14:45,1920,Carlton,4,2,8,7,9,10,11,14,South Melbourne,3,5,4,5,5,6,7,11
+13,Victoria Park,1920-07-31 14:45,1920,Collingwood,2,1,3,4,5,4,5,6,Richmond,2,2,3,5,3,6,5,8
+13,East Melbourne,1920-07-31 14:45,1920,Essendon,3,2,4,3,5,5,7,9,St Kilda,2,3,5,8,8,8,10,10
+13,Corio Oval,1920-07-31 14:45,1920,Geelong,2,6,2,8,2,8,4,9,Fitzroy,1,1,3,7,5,11,7,13
+14,Princes Park,1920-08-07 14:45,1920,Carlton,2,0,7,3,10,7,13,11,Essendon,2,5,3,8,5,10,8,14
+14,Victoria Park,1920-08-07 14:45,1920,Collingwood,3,3,4,9,5,13,7,15,Fitzroy,3,5,6,8,8,8,10,11
+14,Punt Rd,1920-08-07 14:45,1920,Richmond,7,1,8,5,13,10,16,16,Geelong,1,5,2,8,4,10,5,14
+14,Junction Oval,1920-08-07 14:45,1920,St Kilda,3,1,3,2,3,2,3,3,Melbourne,2,4,4,9,8,11,11,17
+15,M.C.G.,1920-08-14 14:45,1920,Melbourne,3,1,3,2,3,5,3,7,Carlton,1,2,5,9,8,10,12,15
+15,Junction Oval,1920-08-14 14:45,1920,St Kilda,3,0,5,3,6,4,8,7,Collingwood,7,4,10,5,15,8,17,11
+15,Corio Oval,1920-08-14 14:45,1920,Geelong,3,2,8,2,10,5,14,10,Essendon,3,3,4,9,7,12,10,13
+15,Lake Oval,1920-08-14 14:45,1920,South Melbourne,2,1,5,3,5,4,9,7,Richmond,7,2,8,4,10,6,14,8
+16,Princes Park,1920-08-21 14:45,1920,Carlton,3,6,4,10,8,12,15,14,Geelong,0,4,4,4,6,5,6,5
+16,East Melbourne,1920-08-21 14:45,1920,Essendon,2,2,4,3,10,7,10,7,Fitzroy,1,1,2,5,4,5,12,11
+16,Punt Rd,1920-08-21 14:45,1920,Richmond,7,5,12,6,18,12,20,14,Melbourne,0,3,4,6,5,9,8,12
+16,Lake Oval,1920-08-21 14:45,1920,South Melbourne,2,3,4,6,6,10,11,17,St Kilda,1,4,1,7,1,11,3,14
+17,Princes Park,1920-08-28 14:45,1920,Carlton,5,1,8,5,11,6,16,13,Collingwood,0,2,3,6,4,12,7,15
+17,Brunswick St,1920-08-28 14:45,1920,Fitzroy,1,2,8,7,12,8,16,12,Melbourne,2,2,3,4,6,5,6,9
+17,Corio Oval,1920-08-28 14:45,1920,Geelong,5,3,6,7,11,10,11,10,South Melbourne,2,3,7,13,7,16,8,25
+17,Junction Oval,1920-08-28 14:45,1920,St Kilda,2,2,6,5,6,6,7,10,Richmond,3,5,5,7,10,15,12,15
+18,Victoria Park,1920-09-04 14:45,1920,Collingwood,3,3,6,4,12,8,16,12,South Melbourne,2,5,5,9,9,11,13,13
+18,East Melbourne,1920-09-04 14:45,1920,Essendon,1,1,3,2,5,3,6,5,Richmond,1,3,7,7,10,8,15,14
+18,Brunswick St,1920-09-04 14:45,1920,Fitzroy,9,6,11,10,15,17,22,17,St Kilda,3,1,4,1,6,2,11,3
+18,M.C.G.,1920-09-04 14:45,1920,Melbourne,4,4,5,7,10,10,12,15,Geelong,1,3,7,11,12,14,17,14
+Semi Final,M.C.G.,1920-09-11 14:30,1920,Fitzroy,1,2,1,4,2,5,3,5,Collingwood,1,2,1,7,3,9,4,17
+Semi Final,M.C.G.,1920-09-18 14:30,1920,Richmond,1,2,1,2,4,6,4,6,Carlton,2,3,4,4,4,5,7,11
+Preliminary Final,M.C.G.,1920-09-25 14:30,1920,Carlton,1,2,4,5,4,7,8,11,Collingwood,5,5,9,8,11,10,12,11
+Grand Final,M.C.G.,1920-10-02 14:50,1920,Richmond,1,2,2,5,4,7,7,10,Collingwood,1,2,1,2,3,4,5,5

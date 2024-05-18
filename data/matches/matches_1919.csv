@@ -1,0 +1,77 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Princes Park,1919-05-03 14:10,1919,Carlton,4,6,7,9,11,13,14,14,Fitzroy,0,1,4,4,4,4,8,7
+1,Lake Oval,1919-05-03 14:10,1919,South Melbourne,3,1,3,5,4,9,6,13,Collingwood,3,1,4,5,7,6,9,8
+1,Punt Rd,1919-05-03 14:10,1919,Richmond,2,5,6,9,7,14,12,19,Essendon,3,4,8,5,9,8,10,11
+1,Junction Oval,1919-05-03 14:10,1919,St Kilda,3,5,7,8,9,12,12,14,Melbourne,2,0,3,1,4,2,9,4
+2,East Melbourne,1919-05-10 14:10,1919,Essendon,3,3,5,8,8,9,9,11,Carlton,0,3,3,4,6,7,7,11
+2,Victoria Park,1919-05-10 14:10,1919,Collingwood,1,4,1,5,1,9,5,15,St Kilda,2,2,4,11,5,13,5,18
+2,Corio Oval,1919-05-10 14:10,1919,Geelong,1,3,3,6,6,8,7,9,Richmond,2,2,5,3,7,4,10,6
+2,M.C.G.,1919-05-10 14:10,1919,Melbourne,0,2,2,5,3,7,3,10,South Melbourne,3,7,5,10,7,13,10,19
+3,Corio Oval,1919-05-17 14:10,1919,Geelong,2,1,2,1,4,2,5,2,Collingwood,0,5,2,13,3,16,5,19
+3,Brunswick St,1919-05-17 14:10,1919,Fitzroy,4,2,8,4,15,9,18,10,Essendon,1,4,1,7,2,10,5,12
+3,M.C.G.,1919-05-17 14:10,1919,Melbourne,2,1,4,4,4,6,7,7,Richmond,3,4,4,9,9,10,11,14
+3,Junction Oval,1919-05-17 14:10,1919,St Kilda,2,1,3,4,3,4,4,7,South Melbourne,2,1,4,5,7,8,9,13
+4,Princes Park,1919-05-24 14:10,1919,Carlton,5,5,7,6,9,16,13,21,Geelong,2,1,2,2,2,2,3,4
+4,Punt Rd,1919-05-24 14:10,1919,Richmond,2,0,4,0,6,4,8,6,Collingwood,1,2,5,4,9,7,11,8
+4,East Melbourne,1919-05-24 14:10,1919,Essendon,1,2,1,2,3,3,4,9,St Kilda,1,1,4,2,7,4,7,6
+4,Lake Oval,1919-05-24 14:10,1919,South Melbourne,0,3,0,6,2,14,4,15,Fitzroy,1,6,2,9,2,10,4,12
+5,Princes Park,1919-05-31 14:10,1919,Carlton,2,2,9,4,14,8,18,15,Melbourne,1,3,2,4,3,4,5,4
+5,East Melbourne,1919-05-31 14:10,1919,Essendon,2,2,4,6,6,7,7,8,South Melbourne,1,8,2,9,6,15,9,16
+5,Brunswick St,1919-05-31 14:10,1919,Fitzroy,5,5,6,7,7,12,10,14,Richmond,2,1,4,2,5,5,7,6
+5,Corio Oval,1919-05-31 14:10,1919,Geelong,0,6,0,9,0,15,0,18,St Kilda,0,2,3,4,5,6,6,10
+6,Victoria Park,1919-06-07 14:10,1919,Collingwood,3,5,8,12,11,14,16,20,Melbourne,2,0,3,1,7,6,8,7
+6,Punt Rd,1919-06-07 14:10,1919,Richmond,1,9,2,10,5,14,7,20,South Melbourne,0,4,7,9,9,10,11,16
+6,Junction Oval,1919-06-09 14:10,1919,St Kilda,3,3,4,5,7,10,7,11,Carlton,2,0,5,5,6,7,11,9
+6,Brunswick St,1919-06-09 14:10,1919,Fitzroy,3,5,3,7,6,14,7,18,Geelong,2,2,3,4,4,4,4,4
+7,Princes Park,1919-06-14 14:10,1919,Carlton,3,5,5,9,7,13,9,16,Collingwood,4,1,5,2,6,8,8,11
+7,Corio Oval,1919-06-14 14:10,1919,Geelong,0,1,0,5,1,7,6,8,Essendon,2,3,3,5,7,7,8,8
+7,M.C.G.,1919-06-14 14:10,1919,Melbourne,3,2,3,5,4,6,6,6,Fitzroy,5,2,6,8,9,11,11,12
+7,Junction Oval,1919-06-14 14:10,1919,St Kilda,0,0,4,7,4,7,5,12,Richmond,1,4,1,5,6,9,7,9
+8,Lake Oval,1919-06-21 14:10,1919,South Melbourne,2,9,3,9,5,11,6,13,Carlton,0,0,2,3,6,4,6,8
+8,East Melbourne,1919-06-21 14:10,1919,Essendon,1,1,4,4,5,6,6,8,Collingwood,2,3,4,6,6,9,10,10
+8,Brunswick St,1919-06-21 14:10,1919,Fitzroy,0,2,3,5,7,9,13,14,St Kilda,0,1,1,2,6,4,7,5
+8,M.C.G.,1919-06-21 14:10,1919,Melbourne,3,2,3,3,7,6,7,10,Geelong,1,1,6,7,8,10,10,12
+9,Princes Park,1919-06-28 14:10,1919,Carlton,2,1,4,8,6,12,9,15,Richmond,5,5,7,5,11,7,14,11
+9,Victoria Park,1919-06-28 14:10,1919,Collingwood,2,5,3,9,9,12,9,14,Fitzroy,0,4,4,6,5,6,10,11
+9,East Melbourne,1919-06-28 14:10,1919,Essendon,4,3,7,10,11,14,16,17,Melbourne,2,2,3,3,5,6,6,8
+9,Lake Oval,1919-06-28 14:10,1919,South Melbourne,1,6,1,14,5,20,5,22,Geelong,0,1,2,2,3,3,5,4
+10,Brunswick St,1919-07-12 14:10,1919,Fitzroy,1,6,1,10,4,11,5,11,Carlton,0,3,3,4,5,5,5,9
+10,Victoria Park,1919-07-12 14:10,1919,Collingwood,3,1,5,4,7,10,8,11,South Melbourne,2,6,2,10,2,13,3,18
+10,East Melbourne,1919-07-12 14:10,1919,Essendon,4,5,4,7,6,9,6,10,Richmond,0,4,5,8,5,13,6,15
+10,M.C.G.,1919-07-12 14:10,1919,Melbourne,3,2,5,3,5,4,5,7,St Kilda,2,2,3,6,5,11,6,11
+11,Princes Park,1919-07-19 14:10,1919,Carlton,0,2,4,2,5,5,7,8,Essendon,0,5,3,7,5,9,9,11
+11,Junction Oval,1919-07-19 14:10,1919,St Kilda,2,6,2,6,4,8,5,9,Collingwood,1,0,8,7,9,9,13,13
+11,Punt Rd,1919-07-19 14:10,1919,Richmond,4,4,8,7,13,12,16,15,Geelong,2,0,4,5,5,10,7,14
+11,Lake Oval,1919-07-19 14:10,1919,South Melbourne,2,3,6,7,9,10,13,16,Melbourne,0,1,1,7,1,9,2,15
+12,Victoria Park,1919-07-26 14:10,1919,Collingwood,2,5,4,5,8,6,12,11,Geelong,3,2,3,6,4,7,4,7
+12,East Melbourne,1919-07-26 14:10,1919,Essendon,1,4,3,8,7,12,9,13,Fitzroy,2,0,3,4,7,5,8,8
+12,Punt Rd,1919-07-26 14:10,1919,Richmond,2,6,2,10,5,15,9,18,Melbourne,2,0,5,3,6,3,7,6
+12,Lake Oval,1919-07-26 14:10,1919,South Melbourne,2,5,6,7,12,11,29,15,St Kilda,0,0,2,2,2,6,2,6
+13,Corio Oval,1919-08-09 14:10,1919,Geelong,1,5,3,8,8,10,8,11,Carlton,5,5,7,12,8,17,12,22
+13,Victoria Park,1919-08-09 14:10,1919,Collingwood,3,4,4,7,6,11,11,12,Richmond,1,1,5,6,6,10,9,11
+13,Junction Oval,1919-08-09 14:10,1919,St Kilda,0,0,2,2,3,3,6,10,Essendon,2,0,2,4,3,6,4,10
+13,Brunswick St,1919-08-09 14:10,1919,Fitzroy,3,1,5,3,5,5,7,5,South Melbourne,2,5,5,7,9,9,14,10
+14,M.C.G.,1919-08-16 14:10,1919,Melbourne,0,3,0,3,3,6,5,6,Carlton,2,2,9,6,12,10,13,18
+14,Lake Oval,1919-08-16 14:10,1919,South Melbourne,2,4,5,7,8,14,12,15,Essendon,4,2,6,5,7,5,8,7
+14,Punt Rd,1919-08-16 14:10,1919,Richmond,2,5,4,9,4,15,6,21,Fitzroy,1,3,2,8,3,8,3,13
+14,Junction Oval,1919-08-16 14:10,1919,St Kilda,1,4,4,9,7,11,12,18,Geelong,3,6,4,8,7,14,10,17
+15,Princes Park,1919-08-23 14:10,1919,Carlton,3,2,6,8,9,9,10,14,St Kilda,2,1,3,2,7,4,9,4
+15,M.C.G.,1919-08-23 14:10,1919,Melbourne,2,0,2,1,3,3,5,6,Collingwood,4,4,9,12,12,24,20,25
+15,Corio Oval,1919-08-23 14:10,1919,Geelong,3,5,5,6,7,7,11,9,Fitzroy,2,1,6,5,8,9,11,9
+15,Lake Oval,1919-08-23 14:10,1919,South Melbourne,3,2,5,3,5,6,6,7,Richmond,1,2,1,8,1,11,4,14
+16,Victoria Park,1919-08-30 14:10,1919,Collingwood,4,2,5,6,7,8,17,11,Carlton,1,3,3,8,3,13,5,16
+16,East Melbourne,1919-08-30 14:10,1919,Essendon,4,4,7,6,8,11,9,18,Geelong,1,5,3,11,5,11,6,13
+16,Brunswick St,1919-08-30 14:10,1919,Fitzroy,6,5,14,7,19,12,21,16,Melbourne,1,2,1,2,2,3,2,5
+16,Punt Rd,1919-08-30 14:10,1919,Richmond,2,3,6,5,9,12,14,16,St Kilda,1,3,2,4,3,8,5,11
+17,Princes Park,1919-09-06 14:10,1919,Carlton,1,4,3,8,6,10,8,11,South Melbourne,3,3,5,5,8,7,8,7
+17,Victoria Park,1919-09-06 14:10,1919,Collingwood,1,3,5,6,7,12,9,13,Essendon,2,7,3,8,3,10,5,14
+17,Junction Oval,1919-09-06 14:10,1919,St Kilda,0,1,3,5,3,6,3,14,Fitzroy,4,2,4,5,6,7,7,10
+17,Corio Oval,1919-09-06 14:10,1919,Geelong,5,3,5,4,9,12,14,12,Melbourne,0,3,1,10,2,10,6,15
+18,Punt Rd,1919-09-13 14:10,1919,Richmond,2,4,4,8,4,10,5,12,Carlton,0,3,3,6,3,15,7,19
+18,Brunswick St,1919-09-13 14:10,1919,Fitzroy,2,4,5,6,6,9,6,10,Collingwood,1,3,3,5,6,7,9,10
+18,M.C.G.,1919-09-13 14:10,1919,Melbourne,1,4,1,4,2,5,4,9,Essendon,0,3,5,5,8,5,10,7
+18,Corio Oval,1919-09-13 14:10,1919,Geelong,0,2,2,6,5,9,6,14,South Melbourne,1,2,1,4,3,5,3,8
+Semi Final,M.C.G.,1919-09-20 14:30,1919,South Melbourne,2,0,5,3,7,4,9,5,Richmond,3,3,6,3,8,11,10,13
+Semi Final,M.C.G.,1919-09-27 14:30,1919,Collingwood,4,7,6,7,9,9,9,10,Carlton,0,2,2,6,2,8,6,10
+Preliminary Final,M.C.G.,1919-10-04 14:30,1919,Collingwood,2,2,4,4,6,6,6,9,Richmond,3,4,5,7,7,10,10,14
+Grand Final,M.C.G.,1919-10-11 14:50,1919,Collingwood,1,5,5,5,8,8,11,12,Richmond,1,2,4,7,5,10,7,11

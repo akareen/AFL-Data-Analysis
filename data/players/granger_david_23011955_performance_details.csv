@@ -1,0 +1,4 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+St Kilda,1979,1,Carlton,8,L,10,4,3,3,7,,,1,,,,,,1,4,,,,,,,,,
+St Kilda,1979,2,Fitzroy,9,L,7,10,5,4,14,,,,,,,,,4,1,,,,,,,,,
+St Kilda,1979,3,Melbourne,10,L,7,8,2,1,9,1,2,,,,,,,,6,,,,,,,,,

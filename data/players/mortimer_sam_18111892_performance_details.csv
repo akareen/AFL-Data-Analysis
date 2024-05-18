@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+St Kilda,1911,1,University,2,L,,,,,,1,,,,,,,,,,,,,,,,,,
+Collingwood,1915,2,Essendon,1,W,16,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1915,3,Essendon,10,W,16,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1915,4,Richmond,11,W,16,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1915,5,Melbourne,13,W,16,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1915,6,Geelong,14,W,16,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1915,7,Carlton,16,L,16,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1915,8,Fitzroy,17,W,16,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1915,9,South Melbourne,18,W,16,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1915,10,Fitzroy,SF,L,16,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1915,11,Carlton,GF,L,16,,,,,,,,,,,,,,,,,,,,,,,

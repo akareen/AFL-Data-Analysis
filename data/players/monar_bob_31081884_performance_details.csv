@@ -1,0 +1,13 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+St Kilda,1910,1,Geelong,7,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1910,2,South Melbourne,8,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1910,3,Carlton,9,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1910,4,University,10,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1910,5,Fitzroy,11,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1910,6,Collingwood,12,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1910,7,Melbourne,13,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1910,8,Essendon,14,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1910,9,Geelong,16,L,,,,,,1,,,,,,,,,,,,,,,,,,
+St Kilda,1910,10,South Melbourne,17,L,,,,,,1,,,,,,,,,,,,,,,,,,
+St Kilda,1910,11,Carlton,18,W,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1911,12,Melbourne,5,L,,,,,,1,,,,,,,,,,,,,,,,,,

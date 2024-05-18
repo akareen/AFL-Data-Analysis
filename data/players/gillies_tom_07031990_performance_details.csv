@@ -1,0 +1,16 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Geelong,2009,1,Brisbane Lions,15,L,25,3,4,9,12,,,,,2,,1,,,,,2,10,,,2,,,82
+Geelong,2009,2,Melbourne,16,W,25,4,1,5,9,,,,,1,1,,1,,,,2,7,,,1,,,80
+Geelong,2009,3,Adelaide,18,W,25,1,1,9,10,,,,,2,1,,3,,1,,3,7,1,,2,,,82
+Geelong,2009,4,Carlton,19,L,25,6,1,3,9,,,,1,1,1,,,,,,1,9,,,2,5,,87
+Geelong,2009,5,Sydney,20,W,25,4,3,3,7,,,,1,3,,,1,,,,2,5,1,,1,1,,84
+Geelong,2009,6,Western Bulldogs,21,L,25,5,2,8,13,,,,3,,,,1,,1,,1,12,,,6,1,,88
+Geelong,2011,7,Adelaide,14,W,25,8,4,6,14,,,,1,2,,,,,,,2,12,1,,2,2,,78
+Geelong,2011,8↑,Essendon,15,L,25,,,2,2,,,,,,,,,,,,2,,,,1,,,30
+Geelong,2012,9,North Melbourne,3,L,25,6,3,6,12,1,,,3,,1,,1,1,1,,4,7,1,,4,1,,89
+Geelong,2012,10,Richmond,4,W,25,8,5,6,14,,,,1,4,1,,2,,2,,4,10,,,1,,,85
+Geelong,2012,11,Melbourne,6,W,25,11,8,8,19,,,,3,6,2,,2,,1,,6,14,1,,1,1,,95
+Geelong,2012,12↓,Adelaide,7,L,25,6,3,4,10,,,,1,1,,1,2,,1,,1,8,,,1,,,56
+Geelong,2012,13,Greater Western Sydney,10,W,25,9,7,9,18,,,,1,4,,1,5,3,3,,7,12,,,4,,,94
+Melbourne,2013,14,Port Adelaide,1,L,27,6,4,3,9,,,,,4,,,3,,1,,3,6,,,6,,,98
+Melbourne,2013,15,Essendon,2,L,27,3,1,4,7,,,,,1,,,4,,2,,2,5,,,10,,,97

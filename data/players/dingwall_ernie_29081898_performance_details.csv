@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Carlton,1922,1,Fitzroy,2,W,24,,,,,,,,,,,,,,,,,,,,,,,
+Carlton,1922,2,Collingwood,3,L,24,,,,,,,,,,,,,,,,,,,,,,,
+Carlton,1922,3,Melbourne,4,W,24,,,,,1,,,,,,,,,,,,,,,,,,
+Carlton,1922,4,South Melbourne,5,L,24,,,,,,,,,,,,,,,,,,,,,,,
+Carlton,1922,5,St Kilda,6,W,24,,,,,,,,,,,,,,,,,,,,,,,
+Carlton,1922,6,Geelong,7,L,24,,,,,,,,,,,,,,,,,,,,,,,
+Carlton,1922,7,Richmond,8,W,24,,,,,,,,,,,,,,,,,,,,,,,
+Carlton,1922,8,Fitzroy,11,L,24,,,,,,,,,,,,,,,,,,,,,,,

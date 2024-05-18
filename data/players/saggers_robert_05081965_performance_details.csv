@@ -1,0 +1,6 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Sydney,1985,1,Footscray,17,L,45,4,3,,4,2,1,,,,,,,,,,,,,,,,,
+Sydney,1985,2,Carlton,18,L,45,5,2,,5,,,,,,,,,,,,,,,,,,,
+North Melbourne,1986,3,Carlton,16,L,18,6,4,3,9,2,3,,,,,,,1,5,,,,,,,,,
+North Melbourne,1986,4,St Kilda,18,W,18,2,,,2,,1,,,,,,,1,1,,,,,,,,,
+North Melbourne,1986,5,Essendon,22,W,18,9,5,,9,3,1,,,,,,,1,1,,,,,,,,,

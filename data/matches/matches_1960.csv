@@ -1,0 +1,113 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Victoria Park,1960-04-16 14:20,1960,Collingwood,4,2,5,7,9,12,11,14,Fitzroy,0,2,1,4,1,5,3,7
+1,Windy Hill,1960-04-16 14:20,1960,Essendon,3,4,5,9,10,15,12,21,Hawthorn,2,6,4,8,5,10,9,12
+1,Lake Oval,1960-04-16 14:20,1960,South Melbourne,5,3,12,10,14,11,17,12,St Kilda,1,3,3,6,7,13,8,15
+1,Princes Park,1960-04-18 14:20,1960,Carlton,1,5,9,6,10,9,14,14,Richmond,7,4,9,6,14,13,14,14
+1,Western Oval,1960-04-18 14:20,1960,Footscray,4,2,7,2,9,2,15,7,Geelong,5,3,7,5,8,5,10,6
+1,M.C.G.,1960-04-18 14:20,1960,Melbourne,3,2,7,5,11,8,14,15,North Melbourne,0,4,2,7,4,12,5,14
+2,Brunswick St,1960-04-25 14:20,1960,Fitzroy,1,3,3,6,5,12,9,17,Carlton,3,2,8,4,8,7,9,10
+2,Junction Oval,1960-04-25 14:20,1960,St Kilda,2,7,4,7,5,16,5,18,Melbourne,1,1,4,7,5,8,10,12
+2,Glenferrie Oval,1960-04-30 14:20,1960,Hawthorn,0,0,4,5,6,8,6,16,Collingwood,2,2,4,5,6,8,7,13
+2,Punt Rd,1960-04-30 14:20,1960,Richmond,0,2,3,9,3,13,5,15,Essendon,9,6,10,8,16,16,25,20
+2,Arden St,1960-04-30 14:20,1960,North Melbourne,3,2,4,8,5,13,6,17,Footscray,4,4,4,7,10,15,14,15
+2,Kardinia Park,1960-04-30 14:20,1960,Geelong,4,2,9,5,15,7,20,14,South Melbourne,3,1,7,4,11,6,14,6
+3,Junction Oval,1960-05-07 14:20,1960,St Kilda,2,3,3,6,3,10,5,11,Carlton,2,1,3,1,6,2,7,3
+3,Windy Hill,1960-05-07 14:20,1960,Essendon,2,1,6,3,8,3,11,10,Collingwood,6,2,7,2,11,8,11,8
+3,Brunswick St,1960-05-07 14:20,1960,Fitzroy,0,3,3,9,5,9,5,11,Geelong,3,4,3,4,6,6,8,7
+3,Glenferrie Oval,1960-05-07 14:20,1960,Hawthorn,0,0,3,6,4,7,6,9,Footscray,2,8,2,9,4,15,6,17
+3,M.C.G.,1960-05-07 14:20,1960,Melbourne,0,3,7,7,10,11,16,14,South Melbourne,0,5,2,6,4,9,6,10
+3,Arden St,1960-05-07 14:20,1960,North Melbourne,2,5,3,7,5,10,5,12,Richmond,0,1,2,3,2,5,3,8
+4,Princes Park,1960-05-14 14:20,1960,Carlton,0,1,2,6,5,12,5,18,Hawthorn,2,2,2,3,5,7,5,7
+4,Victoria Park,1960-05-14 14:20,1960,Collingwood,1,1,4,6,5,9,7,13,Melbourne,1,4,1,6,2,7,2,7
+4,Western Oval,1960-05-14 14:20,1960,Footscray,2,1,2,1,3,2,4,2,Essendon,0,3,1,6,1,8,4,11
+4,Punt Rd,1960-05-14 14:20,1960,Richmond,1,0,3,3,3,3,5,6,Fitzroy,2,6,4,7,5,11,6,11
+4,Kardinia Park,1960-05-14 14:20,1960,Geelong,0,3,2,6,2,10,4,14,St Kilda,4,2,5,3,9,4,9,5
+4,Lake Oval,1960-05-14 14:20,1960,South Melbourne,4,2,6,6,7,9,11,12,North Melbourne,1,3,3,6,3,6,5,8
+5,Windy Hill,1960-05-21 14:20,1960,Essendon,4,1,9,4,12,9,17,13,Carlton,1,5,5,9,9,11,11,14
+5,Junction Oval,1960-05-21 14:20,1960,St Kilda,2,4,2,4,4,9,5,9,Collingwood,0,2,3,8,4,9,4,13
+5,Brunswick St,1960-05-21 14:20,1960,Fitzroy,3,2,5,6,7,9,11,9,Footscray,0,2,2,4,3,5,5,6
+5,Arden St,1960-05-21 14:20,1960,North Melbourne,1,1,2,3,8,6,10,6,Geelong,2,1,4,4,5,5,7,9
+5,Glenferrie Oval,1960-05-21 14:20,1960,Hawthorn,0,1,3,5,3,6,5,7,Melbourne,2,4,4,6,4,10,7,15
+5,Punt Rd,1960-05-21 14:20,1960,Richmond,3,1,4,1,7,4,7,5,South Melbourne,1,0,4,5,4,6,4,7
+6,Kardinia Park,1960-05-28 14:20,1960,Geelong,3,8,8,12,15,16,17,17,Carlton,4,2,6,8,7,10,10,14
+6,Lake Oval,1960-05-28 14:20,1960,South Melbourne,3,1,7,5,10,6,12,8,Collingwood,5,0,6,4,7,9,11,12
+6,Brunswick St,1960-05-28 14:20,1960,Fitzroy,0,1,2,3,4,5,8,7,Essendon,0,3,2,6,2,11,6,14
+6,Western Oval,1960-05-28 14:20,1960,Footscray,3,5,3,6,6,10,6,11,St Kilda,0,0,5,4,7,4,10,5
+6,Arden St,1960-05-28 14:20,1960,North Melbourne,0,1,4,2,4,3,7,6,Hawthorn,2,2,3,3,8,8,9,8
+6,M.C.G.,1960-05-28 14:20,1960,Melbourne,2,4,7,10,11,17,17,22,Richmond,1,4,1,5,1,6,4,8
+7,Princes Park,1960-06-04 14:20,1960,Carlton,4,3,7,6,10,8,11,13,South Melbourne,1,1,4,6,9,11,13,13
+7,Victoria Park,1960-06-04 14:20,1960,Collingwood,2,5,4,8,8,9,12,16,North Melbourne,2,2,6,4,12,6,16,8
+7,Windy Hill,1960-06-04 14:20,1960,Essendon,1,3,3,7,5,10,9,15,Melbourne,2,2,6,5,8,10,10,11
+7,Junction Oval,1960-06-04 14:20,1960,St Kilda,6,3,9,5,12,10,13,12,Fitzroy,1,0,5,7,7,9,9,12
+7,Punt Rd,1960-06-04 14:20,1960,Richmond,0,2,3,6,4,9,6,13,Footscray,1,8,5,8,8,10,11,15
+7,Glenferrie Oval,1960-06-04 14:20,1960,Hawthorn,2,3,4,4,8,11,14,15,Geelong,5,3,9,8,10,12,14,13
+8,Victoria Park,1960-06-11 14:20,1960,Collingwood,4,1,6,5,11,7,16,14,Carlton,3,4,5,5,10,13,10,13
+8,Kardinia Park,1960-06-11 14:20,1960,Geelong,4,7,7,8,10,12,11,17,Essendon,5,2,7,4,8,8,14,10
+8,Lake Oval,1960-06-11 14:20,1960,South Melbourne,7,3,8,6,12,10,13,12,Fitzroy,4,2,6,5,6,7,13,13
+8,M.C.G.,1960-06-11 14:20,1960,Melbourne,3,2,5,7,7,9,10,15,Footscray,3,0,4,4,5,7,6,8
+8,Glenferrie Oval,1960-06-11 14:20,1960,Hawthorn,3,5,7,6,11,12,13,18,Richmond,2,5,8,8,9,12,11,15
+8,Arden St,1960-06-11 14:20,1960,North Melbourne,5,3,6,6,10,8,13,12,St Kilda,0,2,7,7,11,11,13,14
+9,Princes Park,1960-06-18 14:20,1960,Carlton,4,1,10,8,12,9,18,12,North Melbourne,3,1,4,4,5,11,8,15
+9,Western Oval,1960-06-18 14:20,1960,Footscray,1,4,2,7,5,17,8,19,Collingwood,1,3,6,9,7,10,10,14
+9,Windy Hill,1960-06-18 14:20,1960,Essendon,4,3,8,8,12,8,13,10,South Melbourne,3,6,4,9,6,10,12,15
+9,Brunswick St,1960-06-18 14:20,1960,Fitzroy,5,1,9,6,9,7,10,8,Melbourne,5,2,9,5,13,9,16,14
+9,Punt Rd,1960-06-18 14:20,1960,Richmond,2,7,4,10,7,14,11,17,Geelong,3,1,7,3,9,7,12,11
+9,Junction Oval,1960-06-18 14:20,1960,St Kilda,1,4,1,9,3,9,7,13,Hawthorn,1,10,3,11,6,17,8,19
+10,Princes Park,1960-06-25 14:20,1960,Carlton,0,3,3,6,9,10,11,14,Footscray,3,2,3,4,5,4,7,8
+10,Kardinia Park,1960-06-25 14:20,1960,Geelong,1,0,2,3,4,5,6,5,Melbourne,6,2,8,5,11,8,12,11
+10,Lake Oval,1960-06-25 14:20,1960,South Melbourne,4,3,8,3,10,5,11,7,Hawthorn,2,1,4,3,9,6,13,6
+10,Punt Rd,1960-07-02 14:20,1960,Richmond,2,1,5,8,8,8,12,12,Collingwood,3,4,6,5,11,11,14,13
+10,Windy Hill,1960-07-02 14:20,1960,Essendon,3,2,9,2,10,3,12,4,St Kilda,3,5,6,10,7,11,10,14
+10,Brunswick St,1960-07-02 14:20,1960,Fitzroy,4,4,9,5,17,7,20,10,North Melbourne,3,6,7,9,12,13,15,18
+11,M.C.G.,1960-07-09 14:20,1960,Melbourne,1,5,3,7,7,15,9,17,Carlton,1,4,5,9,6,13,6,22
+11,Victoria Park,1960-07-09 14:20,1960,Collingwood,4,4,5,11,10,15,13,16,Geelong,1,5,3,7,6,9,10,13
+11,Arden St,1960-07-09 14:20,1960,North Melbourne,9,7,9,9,10,11,12,11,Essendon,2,2,7,5,10,5,14,14
+11,Glenferrie Oval,1960-07-09 14:20,1960,Hawthorn,2,4,4,5,8,8,10,9,Fitzroy,3,1,9,6,10,10,12,14
+11,Western Oval,1960-07-09 14:20,1960,Footscray,0,2,3,5,4,8,7,12,South Melbourne,4,4,4,6,8,9,8,9
+11,Junction Oval,1960-07-09 14:20,1960,St Kilda,2,3,8,6,9,7,14,15,Richmond,3,6,3,8,4,16,4,18
+12,Punt Rd,1960-07-16 14:20,1960,Richmond,2,2,3,2,5,8,8,8,Carlton,3,5,10,12,12,14,15,20
+12,Brunswick St,1960-07-16 14:20,1960,Fitzroy,1,3,7,5,11,8,17,10,Collingwood,3,4,7,9,11,13,13,18
+12,Glenferrie Oval,1960-07-16 14:20,1960,Hawthorn,0,5,5,10,7,13,10,13,Essendon,1,6,7,9,11,10,16,11
+12,Kardinia Park,1960-07-16 14:20,1960,Geelong,2,7,4,9,7,13,11,13,Footscray,0,0,4,2,5,2,8,4
+12,Arden St,1960-07-16 14:20,1960,North Melbourne,4,9,5,13,8,16,9,19,Melbourne,1,0,7,3,9,8,15,13
+12,Junction Oval,1960-07-16 14:20,1960,St Kilda,5,4,5,7,10,10,11,13,South Melbourne,1,0,6,3,7,3,9,3
+13,Princes Park,1960-07-23 14:20,1960,Carlton,1,1,2,3,4,4,5,10,Fitzroy,4,6,6,8,10,11,12,12
+13,Victoria Park,1960-07-23 14:20,1960,Collingwood,0,1,3,9,4,11,7,15,Hawthorn,2,7,4,9,6,14,7,16
+13,Windy Hill,1960-07-23 14:20,1960,Essendon,7,6,10,7,15,11,16,16,Richmond,0,1,8,5,9,8,10,10
+13,Western Oval,1960-07-23 14:20,1960,Footscray,1,0,3,3,6,7,9,10,North Melbourne,4,2,5,2,9,8,9,8
+13,Lake Oval,1960-07-23 14:20,1960,South Melbourne,4,2,7,6,8,12,10,20,Geelong,1,3,4,8,9,10,11,13
+13,M.C.G.,1960-07-23 14:20,1960,Melbourne,2,6,3,9,4,11,6,13,St Kilda,2,1,3,4,4,5,6,9
+14,Princes Park,1960-07-30 14:20,1960,Carlton,2,3,7,6,9,6,10,12,St Kilda,2,6,2,9,9,15,11,17
+14,Victoria Park,1960-07-30 14:20,1960,Collingwood,2,2,3,3,6,9,9,11,Essendon,1,2,1,6,3,7,6,9
+14,Kardinia Park,1960-07-30 14:20,1960,Geelong,0,2,3,6,4,7,7,11,Fitzroy,2,3,5,3,8,8,14,11
+14,Western Oval,1960-07-30 14:20,1960,Footscray,4,3,4,3,4,9,5,9,Hawthorn,2,3,4,10,5,14,9,21
+14,Lake Oval,1960-07-30 14:20,1960,South Melbourne,2,3,4,6,4,6,10,10,Melbourne,4,5,7,6,15,11,16,13
+14,Punt Rd,1960-07-30 14:20,1960,Richmond,3,1,6,3,8,9,9,13,North Melbourne,4,2,5,5,8,7,12,7
+15,Glenferrie Oval,1960-08-06 14:20,1960,Hawthorn,2,3,6,4,9,6,13,10,Carlton,2,3,4,5,5,6,9,7
+15,M.C.G.,1960-08-06 14:20,1960,Melbourne,0,2,4,6,9,7,16,15,Collingwood,3,5,5,7,7,9,9,11
+15,Windy Hill,1960-08-06 14:20,1960,Essendon,2,4,7,5,8,7,14,11,Footscray,1,4,5,7,6,9,8,10
+15,Brunswick St,1960-08-06 14:20,1960,Fitzroy,4,1,6,7,11,10,13,13,Richmond,5,5,7,7,9,8,10,11
+15,Junction Oval,1960-08-06 14:20,1960,St Kilda,5,2,6,10,7,12,9,16,Geelong,1,3,4,4,9,8,13,9
+15,Arden St,1960-08-06 14:20,1960,North Melbourne,5,4,7,8,12,10,14,16,South Melbourne,0,7,2,12,6,16,9,20
+16,Princes Park,1960-08-13 14:20,1960,Carlton,2,7,3,8,6,11,7,15,Essendon,1,1,1,4,3,5,6,8
+16,Victoria Park,1960-08-13 14:20,1960,Collingwood,4,7,6,8,8,10,8,12,St Kilda,3,2,6,3,7,5,7,7
+16,Western Oval,1960-08-13 14:20,1960,Footscray,2,2,3,2,4,4,4,6,Fitzroy,1,1,4,6,4,6,7,11
+16,Kardinia Park,1960-08-13 14:20,1960,Geelong,3,2,8,5,8,10,10,14,North Melbourne,1,2,2,5,4,7,4,10
+16,M.C.G.,1960-08-13 14:20,1960,Melbourne,1,0,5,7,6,10,9,13,Hawthorn,4,3,7,3,11,8,11,10
+16,Lake Oval,1960-08-13 14:20,1960,South Melbourne,4,5,7,9,9,12,13,13,Richmond,1,3,4,5,4,7,7,12
+17,Princes Park,1960-08-20 14:20,1960,Carlton,1,3,3,4,6,10,9,12,Geelong,1,1,2,5,4,6,5,6
+17,Victoria Park,1960-08-20 14:20,1960,Collingwood,3,0,4,2,5,3,8,3,South Melbourne,0,4,1,8,2,9,5,9
+17,Windy Hill,1960-08-20 14:20,1960,Essendon,2,0,5,4,8,6,9,7,Fitzroy,4,3,8,5,8,10,10,12
+17,Junction Oval,1960-08-20 14:20,1960,St Kilda,2,1,6,6,8,6,9,9,Footscray,3,5,5,5,6,14,6,15
+17,Glenferrie Oval,1960-08-20 14:20,1960,Hawthorn,4,3,5,7,8,15,9,17,North Melbourne,2,0,4,1,5,2,8,4
+17,Punt Rd,1960-08-20 14:20,1960,Richmond,3,5,3,5,8,13,9,14,Melbourne,1,1,4,5,4,5,8,12
+18,Lake Oval,1960-08-27 14:20,1960,South Melbourne,1,3,6,5,6,7,8,8,Carlton,2,3,5,5,7,8,11,9
+18,Arden St,1960-08-27 14:20,1960,North Melbourne,0,1,5,3,5,4,6,8,Collingwood,2,4,4,7,8,11,11,12
+18,M.C.G.,1960-08-27 14:20,1960,Melbourne,5,2,6,4,8,5,10,5,Essendon,2,6,3,9,5,13,10,18
+18,Brunswick St,1960-08-27 14:20,1960,Fitzroy,1,3,7,5,8,12,9,16,St Kilda,1,2,2,5,3,7,6,9
+18,Western Oval,1960-08-27 14:20,1960,Footscray,8,1,10,1,15,6,18,9,Richmond,0,1,4,6,7,6,11,11
+18,Kardinia Park,1960-08-27 14:20,1960,Geelong,1,3,5,4,6,7,9,9,Hawthorn,2,1,6,5,12,8,14,12
+Semi Final,M.C.G.,1960-09-03 14:30,1960,Essendon,2,6,6,9,7,13,7,15,Collingwood,2,7,5,9,6,12,9,12
+Semi Final,M.C.G.,1960-09-10 14:30,1960,Melbourne,3,6,6,12,11,15,14,18,Fitzroy,1,2,2,6,2,12,4,16
+Preliminary Final,M.C.G.,1960-09-17 14:30,1960,Fitzroy,2,2,7,3,8,7,8,12,Collingwood,2,1,6,4,7,5,9,11
+Grand Final,M.C.G.,1960-09-24 14:50,1960,Melbourne,4,3,5,5,7,12,8,14,Collingwood,0,0,1,0,2,0,2,2

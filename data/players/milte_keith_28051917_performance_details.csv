@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Geelong,1938,1,Carlton,11,L,12,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1942,2,Hawthorn,5,L,17,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1942,3,Footscray,6,L,17,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1942,4,St Kilda,7,L,17,,,,,1,,,,,,,,,,,,,,,,,,
+Collingwood,1942,5,Fitzroy,9,L,17,,,,,2,,,,,,,,,,,,,,,,,,
+Collingwood,1942,6,North Melbourne,10,L,17,,,,,2,,,,,,,,,,,,,,,,,,
+Collingwood,1942,7,Carlton,11,L,17,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1942,8,South Melbourne,12,L,17,,,,,1,,,,,,,,,,,,,,,,,,
+Collingwood,1942,9,Richmond,14,L,17,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1942,10,Essendon,15,L,17,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1943,11,North Melbourne,1,W,11,,,,,1,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Essendon,1978,1,Collingwood,2,L,12,13,2,7,20,1,,,,,,,,1,1,,,,,,,,,
+Essendon,1978,2,Fitzroy,3,W,12,7,2,1,8,,,,,,,,,2,2,,,,,,,,,
+Essendon,1978,3,Carlton,4,W,12,6,3,4,10,,1,,,,,,,2,1,,,,,,,,,
+Essendon,1978,4,Footscray,5,L,12,5,1,2,7,,,,,,,,,1,1,,,,,,,,,
+Essendon,1978,5,North Melbourne,21,L,12,9,3,2,11,1,,,,,,,,1,,,,,,,,,,
+Essendon,1978,6,Hawthorn,22,L,12,4,,4,8,1,1,,,,,,,,2,,,,,,,,,
+Essendon,1979,7,Hawthorn,20,L,12,,,2,2,,,,,,,,,,,,,,,,,,,
+Essendon,1979,8,South Melbourne,21,W,12,6,2,2,8,,,,,,,,,1,1,,,,,,,,,
+Essendon,1979,9,Fitzroy,EF,L,12,5,,1,6,,1,,,,,,,1,2,,,,,,,,,
+Essendon,1980,10,St Kilda,4,L,12,1,,1,2,,,,,,,,,,,,,,,,,,,
+Essendon,1980,11,Collingwood,5,L,12,2,,1,3,,,,,,,,,,,,,,,,,,,

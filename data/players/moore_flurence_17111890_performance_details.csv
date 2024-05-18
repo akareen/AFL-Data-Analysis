@@ -1,0 +1,8 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Essendon,1915,1,Collingwood,10,L,23,,,,,,,,,,,,,,,,,,,,,,,
+Essendon,1915,2,Fitzroy,12,L,23,,,,,,,,,,,,,,,,,,,,,,,
+Essendon,1915,3,Carlton,13,L,23,,,,,,,,,,,,,,,,,,,,,,,
+Essendon,1915,4,St Kilda,14,L,23,,,,,,,,,,,,,,,,,,,,,,,
+Essendon,1915,5,Geelong,16,L,23,,,,,,,,,,,,,,,,,,,,,,,
+Essendon,1915,6,Melbourne,17,W,23,,,,,1,,,,,,,,,,,,,,,,,,
+Essendon,1915,7,Richmond,18,L,23,,,,,1,,,,,,,,,,,,,,,,,,

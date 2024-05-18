@@ -1,0 +1,16 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+North Melbourne,2021,1,Sydney,22,L,30,3,2,3,6,1,,,1,,1,,1,,1,,3,3,,1,2,,,83
+North Melbourne,2022,2,Gold Coast,23,L,30,4,3,2,6,,2,5,3,,,1,2,2,2,,2,4,,2,,,,71
+North Melbourne,2023,3,West Coast,1,W,30,7,3,6,13,1,1,12,6,,1,3,3,1,2,,7,7,,1,3,,2,81
+North Melbourne,2023,4,Fremantle,2,W,30,6,1,,6,,1,1,2,,1,,9,3,5,,3,3,,,2,,,84
+North Melbourne,2023,5,Hawthorn,3,L,30,4,4,7,11,1,1,2,3,,,,2,1,2,,8,5,1,3,4,1,1,80
+North Melbourne,2023,6,Carlton,4,L,30,,1,5,5,,,,3,,,,2,,2,,3,2,,,1,,,83
+North Melbourne,2023,7,Brisbane Lions,5,L,30,6,5,3,9,2,3,5,5,,,,2,1,1,,4,5,2,4,2,,,89
+North Melbourne,2023,8,Gold Coast,6,L,30,4,2,6,10,,2,1,2,1,,1,4,1,3,,6,5,1,1,4,,,86
+North Melbourne,2023,9↓,Melbourne,7,L,30,1,1,,1,,,,,,,,,,,,,1,,,,,,8
+North Melbourne,2024,10,Brisbane Lions,5,L,30,14,8,11,25,,,,5,8,1,,3,2,1,,9,16,3,,8,,,94
+North Melbourne,2024,11,Geelong,6,L,30,9,9,5,14,,,,1,4,,,2,1,,,4,10,3,,4,,,92
+North Melbourne,2024,12,Hawthorn,7,L,30,6,4,2,8,,,1,1,2,,1,2,2,2,,6,2,2,,1,,,90
+North Melbourne,2024,13,Adelaide,8,L,30,8,5,3,11,,,,2,5,1,,3,3,1,,4,7,,,4,,,93
+North Melbourne,2024,14,St Kilda,9,L,30,8,5,3,11,,,,2,2,,,2,,1,,1,9,,,9,1,,100
+North Melbourne,2024,15,Gold Coast,10,L,30,11,9,2,13,,,,2,3,,1,2,1,1,,6,9,3,,8,1,,87

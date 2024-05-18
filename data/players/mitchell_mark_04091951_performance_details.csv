@@ -1,0 +1,7 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Melbourne,1969,1,Footscray,10,W,44,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,1969,2,St Kilda,11,L,44,6,2,,6,,,,,,,,,,,,,,,,,,,
+Melbourne,1969,3,Geelong,12,L,44,13,4,,13,1,1,,,,,,,2,3,,,,,,,,,
+Melbourne,1969,4,North Melbourne,13,L,44,8,5,3,11,1,2,,,,,,,1,4,,,,,,,,,
+Melbourne,1969,5,Collingwood,14,L,44,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,1969,6,Richmond,17,L,44,10,3,2,12,,1,,,,,,,1,3,,,,,,,,,

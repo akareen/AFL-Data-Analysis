@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+St Kilda,1920,1,Carlton,1,L,12,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1920,2,Collingwood,6,L,12,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1920,3,Carlton,10,L,12,,,,,2,,,,,,,,,,,,,,,,,,
+St Kilda,1920,4,Geelong,12,L,12,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1920,5,Essendon,13,W,12,,,,,2,,,,,,,,,,,,,,,,,,
+St Kilda,1920,6,Melbourne,14,L,12,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1921,7,South Melbourne,1,L,15,,,,,1,,,,,,,,,,,,,,,,,,
+St Kilda,1921,8,Fitzroy,2,W,15,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1921,9,Carlton,3,L,15,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1921,10,Melbourne,5,D,15,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1921,11,Geelong,6,L,15,,,,,1,,,,,,,,,,,,,,,,,,

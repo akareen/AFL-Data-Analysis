@@ -1,0 +1,72 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Princes Park,1903-05-02 15:00,1903,Carlton,3,0,5,1,8,4,9,4,Collingwood,2,1,3,3,4,5,5,7
+1,East Melbourne,1903-05-02 15:00,1903,Essendon,2,0,2,2,3,3,3,3,Fitzroy,2,2,3,3,7,5,11,7
+1,Junction Oval,1903-05-02 15:00,1903,St Kilda,0,3,0,3,1,7,2,8,Geelong,2,3,5,11,7,12,9,18
+1,Lake Oval,1903-05-02 15:00,1903,South Melbourne,1,2,3,7,5,11,6,14,Melbourne,0,2,1,7,3,10,5,13
+2,Victoria Park,1903-05-09 15:00,1903,Collingwood,3,7,8,8,11,13,13,14,South Melbourne,0,1,2,3,3,3,3,6
+2,Junction Oval,1903-05-09 15:00,1903,St Kilda,0,1,3,9,3,11,3,12,Essendon,2,1,2,1,4,4,4,6
+2,M.C.G.,1903-05-09 15:00,1903,Melbourne,3,1,4,1,4,3,4,5,Fitzroy,0,1,3,2,5,7,6,11
+2,S.C.G.,1903-08-03 15:00,1903,Geelong,2,3,3,3,7,6,8,7,Carlton,1,1,3,5,3,6,6,9
+3,East Melbourne,1903-05-16 15:00,1903,Essendon,1,0,4,1,4,1,5,5,Carlton,2,3,3,8,5,12,7,14
+3,Victoria Park,1903-05-16 15:00,1903,Collingwood,4,4,11,8,13,14,16,17,St Kilda,1,0,1,0,2,3,5,3
+3,Brunswick St,1903-05-16 15:00,1903,Fitzroy,4,2,4,6,6,12,12,17,South Melbourne,1,2,1,4,1,4,3,4
+3,Corio Oval,1903-05-16 15:00,1903,Geelong,3,0,7,5,10,10,15,10,Melbourne,1,0,3,4,3,7,4,8
+4,Princes Park,1903-05-23 15:00,1903,Carlton,1,3,6,10,7,12,12,16,St Kilda,1,2,1,2,1,3,1,4
+4,S.C.G.,1903-05-23 15:00,1903,Fitzroy,1,3,3,11,6,14,7,20,Collingwood,3,2,4,3,5,7,6,9
+4,M.C.G.,1903-05-23 15:00,1903,Melbourne,1,1,3,3,3,3,3,7,Essendon,2,3,4,3,4,4,4,4
+4,Lake Oval,1903-05-23 15:00,1903,South Melbourne,0,0,2,2,4,3,5,7,Geelong,3,3,4,4,4,10,6,11
+5,Lake Oval,1903-05-30 15:00,1903,South Melbourne,2,0,3,2,4,2,5,4,Carlton,2,2,6,3,8,7,10,7
+5,Victoria Park,1903-05-30 15:00,1903,Collingwood,0,6,3,9,8,15,10,17,Melbourne,1,2,2,2,5,2,7,4
+5,East Melbourne,1903-05-30 15:00,1903,Essendon,1,8,2,10,5,13,10,13,Geelong,1,1,4,4,4,7,5,10
+5,Brunswick St,1903-05-30 15:00,1903,Fitzroy,2,5,3,8,5,12,13,17,St Kilda,0,4,1,7,2,9,3,10
+6,Princes Park,1903-06-06 15:00,1903,Carlton,1,1,2,3,4,6,8,8,Fitzroy,2,2,2,3,2,4,4,5
+6,Corio Oval,1903-06-06 15:00,1903,Geelong,4,1,6,3,7,3,8,3,Collingwood,3,4,7,9,8,11,12,12
+6,East Melbourne,1903-06-06 15:00,1903,Essendon,3,3,3,3,3,10,5,11,South Melbourne,0,1,3,7,5,10,6,12
+6,Junction Oval,1903-06-06 15:00,1903,St Kilda,4,5,5,5,6,6,8,9,Melbourne,0,0,0,9,0,13,2,15
+7,M.C.G.,1903-06-08 15:00,1903,Melbourne,1,6,1,7,3,7,4,8,Carlton,0,1,0,1,1,2,1,2
+7,Victoria Park,1903-06-08 15:00,1903,Collingwood,1,6,2,7,3,8,4,9,Essendon,1,0,1,9,2,11,2,13
+7,Brunswick St,1903-06-08 15:00,1903,Fitzroy,0,2,3,7,4,9,8,14,Geelong,3,1,3,1,3,4,3,4
+7,Lake Oval,1903-06-08 15:00,1903,South Melbourne,0,0,1,3,3,5,5,8,St Kilda,2,7,4,8,6,11,6,11
+8,Victoria Park,1903-06-13 15:00,1903,Collingwood,4,1,5,2,8,7,12,9,Carlton,1,1,4,6,7,6,10,7
+8,Brunswick St,1903-06-13 15:00,1903,Fitzroy,0,3,2,3,6,5,8,6,Essendon,1,3,2,6,2,8,3,11
+8,Corio Oval,1903-06-13 15:00,1903,Geelong,2,2,5,5,5,8,5,9,St Kilda,2,3,2,8,5,12,7,13
+8,M.C.G.,1903-06-13 15:00,1903,Melbourne,2,1,3,4,6,4,6,6,South Melbourne,2,4,2,8,3,14,3,17
+9,Princes Park,1903-06-20 15:00,1903,Carlton,3,3,5,3,8,4,8,6,Geelong,2,1,3,6,5,9,6,11
+9,Lake Oval,1903-06-20 15:00,1903,South Melbourne,1,2,3,6,3,9,4,11,Collingwood,4,3,4,3,5,5,6,6
+9,East Melbourne,1903-06-20 15:00,1903,Essendon,1,4,4,5,4,6,4,8,St Kilda,1,1,3,1,3,2,4,5
+9,Brunswick St,1903-06-20 15:00,1903,Fitzroy,2,2,2,4,2,8,4,10,Melbourne,0,1,1,4,1,5,3,8
+10,Princes Park,1903-07-04 15:00,1903,Carlton,1,5,2,11,2,12,6,14,Essendon,0,0,0,0,1,2,2,2
+10,Junction Oval,1903-07-04 15:00,1903,St Kilda,0,1,0,3,0,3,2,4,Collingwood,3,2,4,3,5,9,5,11
+10,Lake Oval,1903-07-04 15:00,1903,South Melbourne,2,1,5,5,5,5,5,7,Fitzroy,3,1,4,3,6,9,7,11
+10,M.C.G.,1903-07-04 15:00,1903,Melbourne,1,2,2,5,2,8,5,9,Geelong,5,3,6,4,8,7,10,7
+11,Junction Oval,1903-07-11 15:00,1903,St Kilda,2,2,3,2,4,2,4,3,Carlton,3,1,4,6,6,8,8,14
+11,Victoria Park,1903-07-11 15:00,1903,Collingwood,1,5,4,6,7,8,8,8,Fitzroy,2,2,3,2,4,3,5,6
+11,East Melbourne,1903-07-11 15:00,1903,Essendon,1,3,1,6,1,11,3,16,Melbourne,1,2,3,4,3,4,4,5
+11,Corio Oval,1903-07-11 15:00,1903,Geelong,2,5,4,8,7,12,9,13,South Melbourne,0,2,0,5,1,6,3,12
+12,Princes Park,1903-07-18 15:00,1903,Carlton,2,3,4,5,7,7,7,8,South Melbourne,0,2,0,2,2,4,2,8
+12,M.C.G.,1903-07-18 15:00,1903,Melbourne,1,4,3,5,4,7,4,8,Collingwood,3,0,6,4,9,5,11,8
+12,Corio Oval,1903-07-18 15:00,1903,Geelong,6,4,8,6,11,9,13,11,Essendon,0,0,1,3,1,5,6,8
+12,Junction Oval,1903-07-18 15:00,1903,St Kilda,1,0,2,9,3,9,5,11,Fitzroy,1,5,2,5,5,6,5,8
+13,Brunswick St,1903-07-25 15:00,1903,Fitzroy,1,2,4,5,7,6,8,8,Carlton,2,0,2,0,2,2,3,6
+13,Victoria Park,1903-07-25 15:00,1903,Collingwood,2,3,4,7,4,13,6,15,Geelong,1,2,4,3,5,5,5,7
+13,Lake Oval,1903-07-25 15:00,1903,South Melbourne,0,1,1,5,2,5,5,7,Essendon,3,3,3,6,5,10,7,17
+13,M.C.G.,1903-07-25 15:00,1903,Melbourne,1,1,3,5,3,6,4,8,St Kilda,5,1,5,4,9,4,9,7
+14,Princes Park,1903-08-08 15:00,1903,Carlton,2,3,4,5,5,7,5,11,Melbourne,0,1,2,5,6,5,8,8
+14,East Melbourne,1903-08-08 15:00,1903,Essendon,2,0,6,2,6,2,7,4,Collingwood,3,2,5,4,9,6,11,7
+14,Corio Oval,1903-08-08 15:00,1903,Geelong,2,0,2,0,2,1,5,3,Fitzroy,5,5,7,6,8,11,9,12
+14,Junction Oval,1903-08-08 15:00,1903,St Kilda,1,2,5,6,11,8,12,9,South Melbourne,1,1,1,4,3,4,4,8
+15,M.C.G.,1903-08-15 14:30,1903,Melbourne,2,1,2,2,5,2,5,2,Carlton,3,5,4,7,5,10,9,13
+15,Victoria Park,1903-08-15 14:30,1903,Collingwood,0,4,2,5,3,10,3,12,St Kilda,1,2,1,2,1,2,2,6
+15,East Melbourne,1903-08-15 14:30,1903,Essendon,2,3,2,4,6,6,8,7,Fitzroy,3,2,6,7,9,9,10,14
+15,Lake Oval,1903-08-15 14:30,1903,South Melbourne,2,5,4,6,4,7,8,8,Geelong,2,3,6,5,11,10,12,14
+16,Princes Park,1903-08-22 14:30,1903,Carlton,0,1,4,6,4,7,5,11,Collingwood,3,2,3,2,5,7,6,7
+16,Corio Oval,1903-08-22 14:30,1903,Geelong,8,3,10,6,13,7,15,12,Essendon,0,1,2,3,4,6,4,7
+16,Brunswick St,1903-08-22 14:30,1903,Fitzroy,2,2,8,6,9,9,11,17,South Melbourne,1,2,1,2,3,4,3,5
+16,Junction Oval,1903-08-22 14:30,1903,St Kilda,0,3,3,8,6,11,7,12,Melbourne,3,1,3,1,3,3,4,7
+17,Junction Oval,1903-08-29 14:30,1903,St Kilda,0,5,2,7,2,10,3,10,Carlton,0,0,3,1,4,2,4,7
+17,Victoria Park,1903-08-29 14:30,1903,Collingwood,6,3,8,5,11,10,13,13,Melbourne,1,3,3,5,4,7,5,10
+17,East Melbourne,1903-08-29 14:30,1903,Essendon,2,1,6,5,8,6,14,10,South Melbourne,2,2,3,2,4,4,5,7
+17,Corio Oval,1903-08-29 14:30,1903,Geelong,1,1,1,5,2,8,3,9,Fitzroy,0,1,3,1,3,3,5,4
+Semi Final,Brunswick St,1903-09-05 14:30,1903,Collingwood,0,1,2,2,2,2,4,3,Carlton,1,3,1,3,3,3,3,5
+Semi Final,M.C.G.,1903-09-05 14:30,1903,Fitzroy,2,5,5,9,7,12,11,15,Geelong,0,2,0,2,3,3,4,5
+Grand Final,M.C.G.,1903-09-12 15:10,1903,Collingwood,2,3,3,4,3,6,4,7,Fitzroy,2,2,2,5,2,8,3,11

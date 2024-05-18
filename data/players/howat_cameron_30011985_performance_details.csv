@@ -1,0 +1,22 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Richmond,2006,1,Western Bulldogs,18,L,43,17,5,5,22,1,,,2,2,3,4,2,1,2,,8,15,,,2,1,1,71
+Richmond,2006,2,Brisbane Lions,19,W,43,15,8,4,19,1,1,,1,,4,2,1,,,,1,16,,,1,1,1,70
+Richmond,2006,3,Carlton,20,W,43,14,4,2,16,,,,1,1,5,,4,1,2,,1,18,,,,5,1,76
+Richmond,2006,4,Essendon,21,W,43,10,5,5,15,1,,,2,1,2,,1,,,,3,12,,1,3,2,,91
+Richmond,2006,5,West Coast,22,L,43,13,5,5,18,1,,,1,1,1,3,7,,2,,4,13,,,5,,,78
+Richmond,2007,6,Carlton,1,L,43,11,6,4,15,1,,,1,,1,,2,,,,,14,,,2,3,,74
+Richmond,2007,7,Sydney,2,L,43,7,1,,7,,,,1,1,5,,2,2,1,,2,6,,,,,1,65
+Richmond,2007,8,Collingwood,3,L,43,6,,2,8,,1,,,,4,1,1,,,,4,3,,,2,6,,47
+Richmond,2007,9,Port Adelaide,7,L,43,17,8,7,24,,,,5,3,2,2,2,1,1,,6,17,,,3,1,,76
+Richmond,2007,10,Adelaide,8,L,43,14,7,4,18,2,,,4,2,2,1,2,,1,,1,17,,1,3,,1,67
+Richmond,2007,11,Essendon,9,L,43,13,10,4,17,,,,1,1,3,2,,,,,2,15,,,2,6,,74
+Richmond,2007,12,Brisbane Lions,10,D,43,8,4,6,14,,,,3,1,2,1,3,,1,,3,11,,,1,1,,56
+Richmond,2007,13,Fremantle,11,L,43,12,5,5,17,1,,,,4,2,,2,,1,,,17,,1,,,1,66
+Richmond,2007,14,Melbourne,12,W,43,3,1,2,5,,,,2,,,,,,,,1,4,,,2,,,51
+Richmond,2007,15,St Kilda,13,L,43,15,8,5,20,,,,2,3,4,1,,,,,2,18,,,,4,,77
+Richmond,2007,16,Kangaroos,14,L,43,11,6,5,16,1,1,,2,1,7,1,,,,,3,13,,,1,8,,56
+Richmond,2007,17,Hawthorn,15,L,43,14,9,5,19,,,,3,,1,,2,1,1,,2,18,,,,1,1,68
+Richmond,2007,18,Port Adelaide,16,L,43,6,1,3,9,,1,,1,1,3,1,1,,,,3,6,,,2,,,44
+Richmond,2007,19,Collingwood,19,W,43,8,4,2,10,1,,,1,,2,,2,,1,,1,10,,,,,,49
+Richmond,2007,20,West Coast,20,L,43,7,2,5,12,,1,,,,3,,,,,,2,10,,,3,3,1,61
+Richmond,2008,21,Carlton,1,W,43,7,1,5,12,,,,2,,3,,2,,,,1,10,,,2,4,1,81

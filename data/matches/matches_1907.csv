@@ -1,0 +1,72 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Princes Park,1907-04-27 15:00,1907,Carlton,0,0,2,2,3,4,4,6,St Kilda,2,3,3,5,7,6,8,8
+1,Victoria Park,1907-04-27 15:00,1907,Collingwood,1,1,2,6,5,9,6,11,Fitzroy,2,4,2,6,3,8,5,9
+1,East Melbourne,1907-04-27 15:00,1907,Essendon,2,1,6,8,7,10,14,15,Geelong,2,1,2,2,7,2,9,2
+1,Lake Oval,1907-04-27 15:00,1907,South Melbourne,1,1,2,2,4,2,6,5,Melbourne,1,2,4,5,7,5,9,6
+2,Corio Oval,1907-05-04 15:00,1907,Geelong,2,2,2,6,3,7,3,9,Carlton,1,4,3,9,7,13,8,14
+2,Junction Oval,1907-05-04 15:00,1907,St Kilda,1,6,4,8,8,12,8,14,Collingwood,0,1,2,3,5,3,8,6
+2,M.C.G.,1907-05-04 15:00,1907,Melbourne,2,2,3,4,3,10,5,11,Essendon,1,4,4,7,5,8,6,12
+2,Brunswick St,1907-05-04 15:00,1907,Fitzroy,1,3,3,7,5,10,7,15,South Melbourne,3,1,5,2,7,4,7,5
+3,M.C.G.,1907-05-11 15:00,1907,Melbourne,4,2,4,2,5,2,7,5,Carlton,1,3,6,9,8,13,12,14
+3,Lake Oval,1907-05-11 15:00,1907,South Melbourne,5,4,6,6,8,11,9,12,Collingwood,0,1,3,5,4,6,5,8
+3,Junction Oval,1907-05-11 15:00,1907,St Kilda,1,3,3,7,4,9,9,13,Essendon,3,2,3,4,5,5,5,7
+3,Brunswick St,1907-05-11 15:20,1907,Fitzroy,2,3,4,3,9,8,9,10,Geelong,4,0,8,3,9,4,12,5
+4,Princes Park,1907-05-18 15:00,1907,Carlton,3,4,4,9,7,14,10,17,Fitzroy,1,1,1,2,1,4,3,7
+4,Victoria Park,1907-05-18 15:00,1907,Collingwood,0,4,2,7,3,9,4,10,Melbourne,1,4,1,5,2,7,6,10
+4,East Melbourne,1907-05-18 15:00,1907,Essendon,3,3,3,3,6,7,6,8,South Melbourne,1,2,4,7,5,8,6,11
+4,Corio Oval,1907-05-18 15:00,1907,Geelong,3,1,3,2,5,3,7,4,St Kilda,2,6,6,9,6,10,11,16
+5,Princes Park,1907-05-25 15:00,1907,Carlton,2,3,2,10,3,12,5,16,South Melbourne,4,0,4,3,8,5,9,7
+5,East Melbourne,1907-05-25 15:00,1907,Essendon,1,3,2,3,3,4,5,8,Collingwood,1,1,3,3,4,7,6,11
+5,Junction Oval,1907-05-25 15:00,1907,St Kilda,3,1,6,1,9,6,13,9,Fitzroy,1,2,3,6,5,10,9,10
+5,Corio Oval,1907-05-25 15:00,1907,Geelong,2,1,4,3,6,4,9,5,Melbourne,2,6,4,7,6,8,7,9
+6,Victoria Park,1907-06-01 15:00,1907,Collingwood,2,1,2,2,4,3,4,6,Carlton,2,3,2,10,3,12,4,17
+6,M.C.G.,1907-06-01 15:00,1907,Melbourne,1,2,2,4,5,9,7,9,St Kilda,3,5,4,9,10,12,15,18
+6,Brunswick St,1907-06-03 15:00,1907,Fitzroy,2,3,6,4,7,6,10,7,Essendon,1,3,1,4,2,7,4,12
+6,Lake Oval,1907-06-03 15:00,1907,South Melbourne,3,4,4,8,6,9,6,9,Geelong,0,1,0,3,1,6,4,9
+7,Princes Park,1907-06-15 15:00,1907,Carlton,4,3,7,7,10,11,15,14,Essendon,1,2,2,5,4,8,7,8
+7,Corio Oval,1907-06-15 15:00,1907,Geelong,0,5,1,7,3,14,3,14,Collingwood,1,0,3,0,4,1,5,8
+7,M.C.G.,1907-06-15 15:00,1907,Melbourne,4,2,5,5,6,6,8,7,Fitzroy,3,3,4,4,5,7,6,11
+7,Junction Oval,1907-06-15 15:00,1907,St Kilda,2,2,2,4,4,7,4,8,South Melbourne,1,1,4,1,4,1,7,2
+8,Junction Oval,1907-06-22 15:00,1907,St Kilda,1,2,1,7,2,11,3,15,Carlton,2,5,5,10,8,11,8,14
+8,Brunswick St,1907-06-22 15:00,1907,Fitzroy,7,0,7,0,7,0,11,3,Collingwood,1,3,6,8,9,12,11,12
+8,Corio Oval,1907-06-22 15:00,1907,Geelong,3,6,4,7,5,10,7,11,Essendon,1,1,1,3,1,8,3,10
+8,M.C.G.,1907-06-22 15:00,1907,Melbourne,2,1,7,2,7,5,7,10,South Melbourne,0,3,1,5,3,10,5,10
+9,Princes Park,1907-06-29 15:00,1907,Carlton,0,3,0,5,3,8,5,9,Geelong,2,1,4,2,6,2,7,4
+9,Victoria Park,1907-06-29 15:00,1907,Collingwood,3,6,5,8,6,12,9,13,St Kilda,2,1,4,5,7,7,7,10
+9,East Melbourne,1907-06-29 15:00,1907,Essendon,2,6,2,6,5,12,5,13,Melbourne,1,1,1,4,2,4,3,10
+9,Lake Oval,1907-06-29 15:00,1907,South Melbourne,0,3,2,5,4,8,6,8,Fitzroy,2,4,5,7,5,8,7,10
+10,Princes Park,1907-07-06 15:00,1907,Carlton,4,5,5,7,8,13,9,16,Melbourne,2,0,4,3,4,3,8,6
+10,Victoria Park,1907-07-06 15:00,1907,Collingwood,3,5,3,6,8,6,8,9,South Melbourne,1,0,4,7,6,7,7,8
+10,East Melbourne,1907-07-06 15:00,1907,Essendon,0,2,2,4,5,5,5,7,St Kilda,4,2,6,8,7,10,9,11
+10,Corio Oval,1907-07-06 15:00,1907,Geelong,3,5,3,8,9,9,10,11,Fitzroy,0,0,1,3,1,5,4,8
+11,Brunswick St,1907-07-13 15:00,1907,Fitzroy,1,0,3,3,3,8,3,8,Carlton,3,0,7,6,8,9,15,14
+11,M.C.G.,1907-07-13 15:00,1907,Melbourne,1,2,1,5,2,9,2,10,Collingwood,3,7,7,8,12,8,15,11
+11,Lake Oval,1907-07-13 15:00,1907,South Melbourne,2,2,6,4,7,9,8,11,Essendon,2,5,2,9,5,10,6,11
+11,Junction Oval,1907-07-13 15:00,1907,St Kilda,3,5,4,11,5,14,6,18,Geelong,0,3,4,3,6,4,9,5
+12,Lake Oval,1907-07-20 15:00,1907,South Melbourne,1,2,2,5,2,8,3,9,Carlton,1,4,2,8,2,9,4,12
+12,Victoria Park,1907-07-20 15:00,1907,Collingwood,5,4,7,5,7,8,10,10,Essendon,0,0,1,2,3,4,3,5
+12,Brunswick St,1907-07-20 15:00,1907,Fitzroy,0,1,2,3,3,5,3,7,St Kilda,1,3,2,4,2,4,3,5
+12,M.C.G.,1907-07-20 15:00,1907,Melbourne,1,6,2,8,6,9,6,13,Geelong,0,0,2,4,2,9,4,10
+13,Princes Park,1907-08-03 15:00,1907,Carlton,1,2,2,5,3,10,5,15,Collingwood,2,1,3,3,5,4,5,4
+13,East Melbourne,1907-08-03 15:00,1907,Essendon,1,1,4,5,4,5,8,10,Fitzroy,1,6,1,7,3,13,3,13
+13,Corio Oval,1907-08-03 15:00,1907,Geelong,5,3,5,3,6,4,6,6,South Melbourne,1,2,3,6,5,6,7,8
+13,Junction Oval,1907-08-03 15:00,1907,St Kilda,1,0,3,5,4,5,4,6,Melbourne,5,2,5,2,6,4,7,5
+14,East Melbourne,1907-08-10 15:00,1907,Essendon,1,0,1,2,1,3,3,7,Carlton,2,5,4,6,8,15,10,18
+14,Victoria Park,1907-08-10 15:00,1907,Collingwood,5,2,8,3,9,5,15,6,Geelong,2,1,3,3,7,8,8,9
+14,Brunswick St,1907-08-10 15:00,1907,Fitzroy,2,0,3,2,4,5,5,9,Melbourne,0,6,1,14,5,16,6,19
+14,Lake Oval,1907-08-10 15:00,1907,South Melbourne,1,6,5,9,5,10,8,16,St Kilda,1,4,4,6,5,14,5,14
+15,Lake Oval,1907-08-17 14:30,1907,South Melbourne,0,0,3,4,3,7,8,9,Carlton,3,7,3,10,3,13,4,16
+15,Junction Oval,1907-08-17 14:30,1907,St Kilda,3,6,3,13,5,19,8,19,Collingwood,1,2,2,2,3,5,3,8
+15,East Melbourne,1907-08-17 14:30,1907,Essendon,2,2,3,9,5,10,10,11,Melbourne,2,2,3,6,4,8,8,8
+15,Brunswick St,1907-08-17 14:30,1907,Fitzroy,3,7,4,9,9,14,12,16,Geelong,1,1,4,3,4,4,5,8
+16,Princes Park,1907-08-24 14:30,1907,Carlton,3,2,6,5,6,7,11,12,Essendon,3,2,4,2,6,5,7,5
+16,Victoria Park,1907-08-24 14:30,1907,Collingwood,1,1,4,9,6,13,11,16,Fitzroy,5,3,8,3,11,4,15,4
+16,Corio Oval,1907-08-24 14:30,1907,Geelong,0,1,1,3,2,7,5,8,St Kilda,1,6,3,11,3,14,4,17
+16,M.C.G.,1907-08-24 14:30,1907,Melbourne,2,1,4,3,4,6,7,8,South Melbourne,3,4,5,8,7,10,10,14
+17,Princes Park,1907-08-31 14:30,1907,Carlton,1,1,5,5,6,7,9,8,Melbourne,2,9,3,9,4,9,4,12
+17,Victoria Park,1907-08-31 14:30,1907,Collingwood,4,9,5,11,9,16,9,17,Geelong,1,0,5,1,5,2,12,4
+17,East Melbourne,1907-08-31 14:30,1907,Essendon,2,1,3,4,5,6,6,7,South Melbourne,6,2,11,6,14,6,15,9
+17,Junction Oval,1907-08-31 14:30,1907,St Kilda,0,6,1,10,2,13,3,14,Fitzroy,2,1,4,4,6,8,6,9
+Semi Final,M.C.G.,1907-09-07 14:30,1907,South Melbourne,3,3,4,7,7,7,12,10,Collingwood,0,2,2,5,3,10,6,12
+Semi Final,M.C.G.,1907-09-14 14:30,1907,Carlton,4,2,9,5,11,8,13,13,St Kilda,1,0,2,2,3,8,4,11
+Grand Final,M.C.G.,1907-09-21 14:50,1907,Carlton,1,4,4,6,6,10,6,14,South Melbourne,1,3,3,5,4,7,6,9

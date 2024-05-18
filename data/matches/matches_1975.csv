@@ -1,0 +1,139 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Kardinia Park,1975-04-05 14:10,1975,Geelong,1,6,4,10,7,11,8,14,Carlton,5,2,7,5,8,7,13,16
+1,Victoria Park,1975-04-05 14:10,1975,Collingwood,3,7,4,12,8,14,12,19,South Melbourne,1,2,4,3,7,5,8,7
+1,Windy Hill,1975-04-05 14:10,1975,Essendon,7,2,16,4,16,7,21,10,St Kilda,3,1,4,5,7,8,9,13
+1,Junction Oval,1975-04-05 14:10,1975,Fitzroy,2,2,5,6,10,11,14,14,Richmond,5,6,9,8,11,9,15,13
+1,M.C.G.,1975-04-05 14:10,1975,Melbourne,5,0,9,3,13,7,17,9,Footscray,4,1,9,6,11,8,15,10
+1,Princes Park,1975-04-05 14:10,1975,Hawthorn,6,9,9,12,12,12,15,15,North Melbourne,2,0,7,3,9,7,11,10
+2,Princes Park,1975-04-12 14:10,1975,Carlton,7,1,11,4,19,6,27,10,Collingwood,2,3,6,8,10,16,10,19
+2,Lake Oval,1975-04-12 14:10,1975,South Melbourne,4,3,7,5,12,8,15,12,Essendon,4,5,7,8,14,11,19,17
+2,Western Oval,1975-04-12 14:10,1975,Footscray,4,2,8,6,10,9,17,14,Fitzroy,4,4,7,6,10,12,11,17
+2,M.C.G.,1975-04-12 14:10,1975,Richmond,3,7,6,9,13,13,15,22,Geelong,2,2,4,6,7,8,10,12
+2,Moorabbin Oval,1975-04-12 14:10,1975,St Kilda,5,2,8,5,9,11,11,15,Hawthorn,5,2,9,11,12,18,17,19
+2,Arden St,1975-04-12 14:10,1975,North Melbourne,4,6,7,8,11,10,15,13,Melbourne,1,1,7,6,11,7,16,9
+3,Princes Park,1975-04-19 14:10,1975,Carlton,4,5,9,9,10,16,14,18,North Melbourne,3,2,4,5,7,8,9,12
+3,Junction Oval,1975-04-19 14:10,1975,Fitzroy,1,3,8,3,10,5,12,13,Collingwood,4,4,5,5,10,12,12,15
+3,Windy Hill,1975-04-19 14:10,1975,Essendon,3,7,7,13,14,17,16,21,Melbourne,4,5,9,7,11,10,15,10
+3,Kardinia Park,1975-04-19 14:10,1975,Geelong,2,5,4,5,9,7,13,12,Footscray,4,1,6,7,11,7,14,14
+3,Waverley Park,1975-04-19 14:10,1975,Richmond,3,2,4,7,9,10,12,15,Hawthorn,1,6,7,10,13,11,17,14
+3,Moorabbin Oval,1975-04-19 14:10,1975,St Kilda,6,9,8,12,11,20,11,21,South Melbourne,0,3,2,11,5,13,9,17
+4,Waverley Park,1975-04-25 14:10,1975,Carlton,3,4,7,8,9,13,12,15,Essendon,4,1,9,4,12,6,16,8
+4,M.C.G.,1975-04-25 14:10,1975,Melbourne,1,0,4,2,8,4,12,8,St Kilda,5,4,11,12,15,17,18,25
+4,Victoria Park,1975-04-26 14:10,1975,Collingwood,6,2,11,4,14,9,17,10,Geelong,4,4,7,8,11,10,14,15
+4,Arden St,1975-04-26 14:10,1975,North Melbourne,1,3,4,11,6,13,11,19,Fitzroy,4,4,5,9,12,13,17,13
+4,Western Oval,1975-04-26 14:10,1975,Footscray,1,0,6,4,9,5,16,13,Richmond,2,3,3,7,3,19,4,19
+4,Lake Oval,1975-04-26 14:10,1975,South Melbourne,3,3,4,4,6,7,9,15,Hawthorn,3,6,5,11,7,16,13,21
+5,Moorabbin Oval,1975-05-03 14:10,1975,St Kilda,3,2,3,6,5,12,7,16,Carlton,1,3,6,11,8,16,12,19
+5,Waverley Park,1975-05-03 14:10,1975,Footscray,4,3,6,6,10,8,12,9,Collingwood,1,1,4,8,6,13,9,16
+5,Junction Oval,1975-05-03 14:10,1975,Fitzroy,5,0,10,5,14,7,19,11,Essendon,5,8,8,11,12,16,15,17
+5,Kardinia Park,1975-05-03 14:10,1975,Geelong,5,0,7,2,8,3,11,5,North Melbourne,1,2,7,4,10,10,12,15
+5,Princes Park,1975-05-03 14:10,1975,Hawthorn,3,5,12,10,13,17,19,22,Melbourne,5,4,7,8,10,12,11,15
+5,M.C.G.,1975-05-03 14:10,1975,Richmond,6,5,9,7,12,13,19,23,South Melbourne,2,6,5,10,9,12,12,14
+6,Princes Park,1975-05-10 14:10,1975,Carlton,3,3,5,6,11,8,16,15,Hawthorn,2,5,5,8,10,10,12,13
+6,Victoria Park,1975-05-10 14:10,1975,Collingwood,6,3,8,6,9,9,14,12,Richmond,4,1,10,6,17,12,22,14
+6,Windy Hill,1975-05-10 14:10,1975,Essendon,4,8,7,16,11,18,12,21,Geelong,2,2,5,9,10,11,15,14
+6,Waverley Park,1975-05-10 14:10,1975,Fitzroy,2,4,5,11,9,14,9,20,St Kilda,3,9,5,10,8,13,11,16
+6,Arden St,1975-05-10 14:10,1975,North Melbourne,5,4,11,6,12,9,18,11,Footscray,1,4,3,9,7,11,9,12
+6,M.C.G.,1975-05-10 14:10,1975,Melbourne,4,4,9,9,14,14,22,23,South Melbourne,6,4,8,8,10,11,13,12
+7,Lake Oval,1975-05-17 14:10,1975,South Melbourne,5,2,7,6,8,11,11,11,Carlton,3,4,5,7,12,9,19,14
+7,Waverley Park,1975-05-17 14:10,1975,Collingwood,2,8,5,9,9,17,12,18,North Melbourne,3,1,7,5,8,7,12,9
+7,Western Oval,1975-05-17 14:10,1975,Footscray,2,1,4,4,5,8,8,12,Essendon,2,6,6,10,9,14,14,17
+7,Princes Park,1975-05-17 14:10,1975,Hawthorn,2,1,8,4,13,10,19,16,Fitzroy,3,3,6,5,11,9,13,12
+7,Kardinia Park,1975-05-17 14:10,1975,Geelong,3,0,6,3,8,7,13,10,St Kilda,4,2,6,6,7,8,11,14
+7,M.C.G.,1975-05-17 14:10,1975,Richmond,5,1,7,9,13,15,19,18,Melbourne,0,8,2,13,5,16,10,18
+8,Princes Park,1975-05-24 14:10,1975,Carlton,5,3,6,3,9,7,16,14,Melbourne,3,8,6,13,9,13,11,15
+8,Windy Hill,1975-05-24 14:10,1975,Essendon,1,2,5,6,7,11,7,13,Collingwood,4,1,8,2,10,7,12,9
+8,Junction Oval,1975-05-24 14:10,1975,Fitzroy,7,4,9,7,13,11,13,13,South Melbourne,2,1,6,4,7,5,11,12
+8,Moorabbin Oval,1975-05-24 14:10,1975,St Kilda,2,7,2,10,7,21,7,23,Footscray,1,2,5,9,5,10,7,12
+8,Waverley Park,1975-05-24 14:10,1975,Geelong,3,1,4,2,5,7,5,10,Hawthorn,5,2,7,3,10,5,17,11
+8,Arden St,1975-05-24 14:10,1975,North Melbourne,2,2,3,2,7,5,11,8,Richmond,1,4,5,9,8,9,9,12
+9,Princes Park,1975-05-31 14:10,1975,Carlton,2,6,4,11,10,13,16,19,Richmond,3,1,6,4,7,9,9,13
+9,Victoria Park,1975-05-31 14:10,1975,Collingwood,2,3,5,6,9,7,15,8,St Kilda,3,3,6,4,8,9,13,11
+9,Waverley Park,1975-05-31 14:10,1975,North Melbourne,2,6,5,10,9,12,11,17,Essendon,0,2,7,4,12,8,15,8
+9,M.C.G.,1975-05-31 14:10,1975,Melbourne,7,3,9,8,11,12,18,15,Fitzroy,2,2,7,5,16,5,17,10
+9,Western Oval,1975-05-31 14:10,1975,Footscray,1,1,4,6,5,6,8,10,Hawthorn,6,3,8,5,19,11,20,14
+9,Lake Oval,1975-05-31 14:10,1975,South Melbourne,2,6,6,12,8,21,11,26,Geelong,3,4,4,7,4,10,7,13
+10,Junction Oval,1975-06-07 14:10,1975,Fitzroy,5,0,8,2,13,6,15,7,Carlton,3,4,7,5,10,9,16,10
+10,Princes Park,1975-06-07 14:10,1975,Hawthorn,4,5,8,10,13,20,19,24,Collingwood,5,2,7,3,11,7,13,11
+10,M.C.G.,1975-06-07 14:10,1975,Richmond,4,3,9,7,10,11,19,14,Essendon,5,0,6,3,10,7,12,9
+10,Waverley Park,1975-06-07 14:10,1975,Footscray,4,2,7,5,11,8,13,11,South Melbourne,1,4,2,10,9,12,12,15
+10,Kardinia Park,1975-06-07 14:10,1975,Geelong,2,1,5,11,9,17,14,20,Melbourne,7,4,10,7,11,11,14,14
+10,Moorabbin Oval,1975-06-07 14:10,1975,St Kilda,3,1,8,5,13,8,15,9,North Melbourne,6,5,8,7,14,12,17,19
+11,Princes Park,1975-06-16 14:10,1975,Carlton,9,4,12,8,15,11,19,13,Footscray,3,2,10,5,14,11,17,13
+11,M.C.G.,1975-06-16 14:10,1975,Melbourne,4,2,6,6,9,8,14,11,Collingwood,0,6,4,11,8,15,9,19
+11,Windy Hill,1975-06-16 14:10,1975,Essendon,1,6,7,9,9,11,13,12,Hawthorn,4,0,7,6,14,16,21,20
+11,Kardinia Park,1975-06-16 14:10,1975,Geelong,2,8,6,10,13,17,13,19,Fitzroy,2,2,7,6,10,6,14,11
+11,Lake Oval,1975-06-16 14:10,1975,South Melbourne,4,4,5,10,9,12,12,16,North Melbourne,7,2,10,7,14,8,16,12
+11,Waverley Park,1975-06-16 14:10,1975,St Kilda,1,5,1,8,8,11,14,18,Richmond,2,5,9,8,12,11,13,12
+12,Princes Park,1975-06-21 14:10,1975,Carlton,8,5,11,8,19,14,23,19,Geelong,2,3,3,9,5,12,12,14
+12,Waverley Park,1975-06-21 14:10,1975,South Melbourne,4,2,8,3,8,6,11,11,Collingwood,3,2,5,7,8,11,12,13
+12,Moorabbin Oval,1975-06-21 14:10,1975,St Kilda,3,6,6,9,14,12,21,15,Essendon,3,2,7,3,8,6,11,7
+12,M.C.G.,1975-06-21 14:10,1975,Richmond,3,2,6,10,13,12,13,18,Fitzroy,5,4,6,8,10,13,13,20
+12,Western Oval,1975-06-21 14:10,1975,Footscray,3,1,7,6,13,7,20,11,Melbourne,6,4,6,6,10,7,14,8
+12,Arden St,1975-06-21 14:10,1975,North Melbourne,4,2,10,6,12,13,13,17,Hawthorn,6,4,9,6,16,9,18,12
+13,Victoria Park,1975-06-28 14:10,1975,Collingwood,2,3,6,3,8,11,9,12,Carlton,3,2,6,5,8,7,12,10
+13,Windy Hill,1975-06-28 14:10,1975,Essendon,5,5,9,10,11,11,19,18,South Melbourne,7,4,8,6,15,9,17,12
+13,Junction Oval,1975-06-28 14:10,1975,Fitzroy,2,4,4,6,6,8,11,10,Footscray,3,4,5,8,10,15,12,17
+13,Kardinia Park,1975-06-28 14:10,1975,Geelong,1,4,3,5,6,8,8,13,Richmond,2,3,7,5,10,11,13,14
+13,Princes Park,1975-06-28 14:10,1975,Hawthorn,5,8,6,10,9,17,11,19,St Kilda,2,2,5,10,5,12,7,19
+13,Waverley Park,1975-06-28 14:10,1975,Melbourne,0,2,2,5,5,6,6,10,North Melbourne,3,5,5,8,9,11,11,14
+14,Windy Hill,1975-07-05 14:10,1975,Essendon,5,1,9,2,13,3,15,5,Carlton,1,4,15,5,22,9,27,13
+14,Kardinia Park,1975-07-05 14:10,1975,Geelong,2,4,5,9,6,10,14,12,Collingwood,4,5,5,6,8,9,9,11
+14,Junction Oval,1975-07-05 14:10,1975,Fitzroy,5,3,7,9,11,10,14,12,North Melbourne,4,1,9,6,13,11,15,15
+14,M.C.G.,1975-07-05 14:10,1975,Richmond,6,5,11,10,14,16,17,18,Footscray,3,3,9,5,11,6,12,10
+14,Waverley Park,1975-07-05 14:10,1975,Hawthorn,3,5,5,8,6,9,9,10,South Melbourne,1,2,2,5,4,6,5,9
+14,Moorabbin Oval,1975-07-05 14:10,1975,St Kilda,6,1,8,5,12,6,15,11,Melbourne,0,3,2,5,3,9,6,13
+15,Waverley Park,1975-07-12 14:10,1975,North Melbourne,1,0,3,1,7,7,9,11,Carlton,3,7,3,8,3,11,5,14
+15,Victoria Park,1975-07-12 14:10,1975,Collingwood,3,4,6,7,11,16,16,19,Fitzroy,1,2,5,4,7,5,11,7
+15,M.C.G.,1975-07-12 14:10,1975,Melbourne,3,3,7,9,15,14,19,20,Essendon,3,5,6,7,10,11,16,13
+15,Western Oval,1975-07-12 14:10,1975,Footscray,4,5,4,7,10,13,13,15,Geelong,0,2,3,6,3,6,7,7
+15,Princes Park,1975-07-12 14:10,1975,Hawthorn,3,2,5,4,10,8,14,10,Richmond,0,6,0,10,1,15,2,20
+15,Lake Oval,1975-07-12 14:10,1975,South Melbourne,1,3,4,4,7,8,10,10,St Kilda,4,4,9,11,10,13,19,16
+16,Princes Park,1975-07-19 14:10,1975,Carlton,5,7,7,10,10,18,11,22,St Kilda,0,7,2,15,3,21,8,27
+16,Victoria Park,1975-07-19 14:10,1975,Collingwood,3,2,10,5,15,10,16,14,Footscray,6,4,11,5,11,6,16,7
+16,Waverley Park,1975-07-19 14:10,1975,Essendon,2,1,6,6,9,9,11,11,Fitzroy,4,3,7,5,10,11,16,19
+16,Arden St,1975-07-19 14:10,1975,North Melbourne,1,3,7,9,10,19,14,25,Geelong,3,6,5,10,5,15,6,19
+16,M.C.G.,1975-07-19 14:10,1975,Melbourne,3,4,7,12,11,14,15,17,Hawthorn,4,5,8,8,10,12,17,17
+16,Lake Oval,1975-07-19 14:10,1975,South Melbourne,2,3,2,4,4,12,8,12,Richmond,6,1,12,7,16,8,26,11
+17,Princes Park,1975-07-26 14:10,1975,Hawthorn,4,2,8,7,12,10,15,15,Carlton,2,0,6,0,11,4,15,11
+17,M.C.G.,1975-07-26 14:10,1975,Richmond,3,2,9,7,12,16,16,19,Collingwood,6,2,7,4,7,5,10,9
+17,Kardinia Park,1975-07-26 14:10,1975,Geelong,5,5,8,8,10,12,13,16,Essendon,3,3,5,6,11,9,16,13
+17,Moorabbin Oval,1975-07-26 14:10,1975,St Kilda,1,0,4,4,5,10,12,15,Fitzroy,4,6,6,8,7,14,7,14
+17,Western Oval,1975-07-26 14:10,1975,Footscray,0,1,5,8,6,8,9,14,North Melbourne,5,4,6,5,13,10,17,15
+17,Waverley Park,1975-07-26 14:10,1975,South Melbourne,6,2,6,4,7,5,11,9,Melbourne,3,4,7,5,10,11,13,13
+18,Princes Park,1975-08-02 14:10,1975,Carlton,8,3,10,8,15,10,19,17,South Melbourne,4,3,7,6,12,11,15,13
+18,Arden St,1975-08-02 14:10,1975,North Melbourne,1,3,6,10,14,17,15,20,Collingwood,2,4,3,7,3,9,8,10
+18,Windy Hill,1975-08-02 14:10,1975,Essendon,3,7,5,10,8,14,11,17,Footscray,6,5,9,10,14,12,19,13
+18,Junction Oval,1975-08-02 14:10,1975,Fitzroy,3,9,6,16,10,16,15,23,Hawthorn,2,4,5,8,8,10,10,19
+18,Waverley Park,1975-08-02 14:10,1975,St Kilda,4,2,5,6,8,14,11,18,Geelong,6,1,8,9,10,10,11,14
+18,M.C.G.,1975-08-02 14:10,1975,Melbourne,6,2,7,6,13,10,19,13,Richmond,1,5,5,10,10,14,12,18
+19,Waverley Park,1975-08-09 14:10,1975,Melbourne,1,4,2,13,5,19,11,23,Carlton,2,5,3,7,5,8,7,9
+19,Victoria Park,1975-08-09 14:10,1975,Collingwood,2,7,10,10,15,13,20,18,Essendon,1,3,8,6,13,6,15,9
+19,Lake Oval,1975-08-09 14:10,1975,South Melbourne,4,4,7,13,10,17,13,20,Fitzroy,6,1,10,10,12,14,16,19
+19,Western Oval,1975-08-09 14:10,1975,Footscray,0,3,4,12,5,12,5,16,St Kilda,3,6,4,6,9,13,16,18
+19,Princes Park,1975-08-09 14:10,1975,Hawthorn,7,4,17,10,22,15,25,23,Geelong,3,3,4,6,5,7,8,7
+19,M.C.G.,1975-08-09 14:10,1975,Richmond,3,7,8,9,9,17,13,18,North Melbourne,3,3,6,6,8,16,13,23
+20,M.C.G.,1975-08-16 14:10,1975,Richmond,2,3,8,8,12,13,13,20,Carlton,3,2,8,4,10,8,14,11
+20,Moorabbin Oval,1975-08-16 14:10,1975,St Kilda,9,5,13,8,16,15,20,17,Collingwood,5,2,11,5,13,9,24,12
+20,Windy Hill,1975-08-16 14:10,1975,Essendon,2,2,9,4,12,11,15,15,North Melbourne,4,6,6,7,9,10,13,13
+20,Junction Oval,1975-08-16 14:10,1975,Fitzroy,6,7,8,13,12,20,13,22,Melbourne,3,1,6,5,9,7,13,11
+20,Waverley Park,1975-08-16 14:10,1975,Hawthorn,3,3,6,6,11,11,13,13,Footscray,3,2,6,5,9,6,14,9
+20,Kardinia Park,1975-08-16 14:10,1975,Geelong,4,3,6,5,10,14,12,16,South Melbourne,5,4,7,9,11,10,15,15
+21,Princes Park,1975-08-23 14:10,1975,Carlton,2,3,4,6,7,12,10,14,Fitzroy,3,2,8,5,10,7,11,13
+21,Victoria Park,1975-08-23 14:10,1975,Collingwood,0,4,2,10,3,13,7,15,Hawthorn,0,3,1,3,3,7,3,9
+21,Waverley Park,1975-08-23 14:10,1975,Essendon,6,7,7,9,12,13,17,15,Richmond,4,3,12,10,14,12,20,16
+21,Lake Oval,1975-08-23 14:10,1975,South Melbourne,2,4,5,9,8,12,10,15,Footscray,6,4,10,4,14,7,18,7
+21,M.C.G.,1975-08-23 14:10,1975,Melbourne,2,0,3,5,4,9,8,16,Geelong,3,4,6,8,9,8,10,10
+21,Arden St,1975-08-23 14:10,1975,North Melbourne,3,3,8,8,10,13,16,15,St Kilda,2,2,3,2,4,5,6,5
+22,Western Oval,1975-08-30 14:10,1975,Footscray,2,2,5,6,6,10,10,15,Carlton,6,4,9,7,16,9,18,11
+22,Victoria Park,1975-08-30 14:10,1975,Collingwood,3,6,8,7,8,10,14,14,Melbourne,5,1,8,1,11,4,15,7
+22,Princes Park,1975-08-30 14:10,1975,Hawthorn,4,6,8,12,10,17,14,19,Essendon,2,0,6,3,13,4,17,8
+22,Waverley Park,1975-08-30 14:10,1975,Fitzroy,1,1,7,3,10,6,14,9,Geelong,5,5,9,8,13,9,18,11
+22,Arden St,1975-08-30 14:10,1975,North Melbourne,3,5,7,9,10,15,15,19,South Melbourne,3,5,6,9,10,13,12,15
+22,M.C.G.,1975-08-30 14:10,1975,Richmond,6,4,10,7,12,10,17,14,St Kilda,4,5,5,6,6,11,8,20
+Qualifying Final,M.C.G.,1975-09-06 14:30,1975,Carlton,4,1,9,1,11,2,12,4,North Melbourne,4,6,9,8,12,10,14,12
+Elimination Final,Waverley Park,1975-09-06 14:30,1975,Richmond,5,5,7,8,8,10,11,11,Collingwood,1,1,2,6,6,7,10,13
+Semi Final,M.C.G.,1975-09-13 14:30,1975,Carlton,0,2,5,4,6,5,9,8,Richmond,3,4,6,9,9,11,9,17
+Semi Final,Waverley Park,1975-09-13 14:30,1975,Hawthorn,5,2,7,4,9,8,12,10,North Melbourne,2,5,5,7,8,9,10,11
+Preliminary Final,Waverley Park,1975-09-20 14:30,1975,North Melbourne,3,5,5,6,8,11,10,16,Richmond,1,5,4,7,6,9,8,11
+Grand Final,M.C.G.,1975-09-27 14:30,1975,Hawthorn,2,2,5,6,7,7,9,13,North Melbourne,4,2,9,2,12,6,19,8

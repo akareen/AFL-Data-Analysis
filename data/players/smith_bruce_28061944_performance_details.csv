@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Richmond,1962,1,Melbourne,1,L,27,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1962,2,Carlton,2,L,27,,,,,1,,,,,,,,,,,,,,,,,,
+Richmond,1962,3,Essendon,3,L,27,,,,,1,,,,,,,,,,,,,,,,,,
+Richmond,1962,4,Geelong,4,L,27,,,,,1,,,,,,,,,,,,,,,,,,
+Richmond,1962,5,Hawthorn,5,L,27,,,,,2,,,,,,,,,,,,,,,,,,
+Richmond,1962,6,St Kilda,6,L,27,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1962,7,North Melbourne,18,W,27,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1964,8,Carlton,9,L,27,,,,,5,,,,,,,,,,,,,,,,,,
+Richmond,1964,9,Melbourne,10,L,27,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1964,10,North Melbourne,11,L,27,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1964,11,Essendon,13,L,27,,,,,,,,,,,,,,,,,,,,,,,

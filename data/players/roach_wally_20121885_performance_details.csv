@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+South Melbourne,1907,1,Melbourne,1,L,,,,,,,,,,,,,,,,,,,,,,,,
+Essendon,1909,2,Collingwood,6,L,,,,,,,,,,,,,,,,,,,,,,,,
+Essendon,1909,3,South Melbourne,7,L,,,,,,,,,,,,,,,,,,,,,,,,
+Essendon,1909,4,Richmond,8,L,,,,,,,,,,,,,,,,,,,,,,,,
+Essendon,1909,5,Carlton,9,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1910,6,Collingwood,3,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1910,7,Melbourne,4,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1910,8,Essendon,5,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1910,9,Richmond,6,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1910,10,Carlton,9,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1910,11,Richmond,15,L,,,,,,,,,,,,,,,,,,,,,,,,

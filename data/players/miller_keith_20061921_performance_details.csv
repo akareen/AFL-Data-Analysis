@@ -1,0 +1,13 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Geelong,1941,1,Melbourne,3,L,16,,,,,,,,,,,,,,,,,,,,,,,
+Geelong,1941,2,St Kilda,13,L,16,,,,,,,,,,,,,,,,,,,,,,,
+Geelong,1941,3,Hawthorn,15,W,16,,,,,,,,,,,,,,,,,,,,,,,
+Geelong,1941,4,South Melbourne,16,L,16,,,,,,,,,,,,,,,,,,,,,,,
+Geelong,1941,5,Fitzroy,17,L,16,,,,,,,,,,,,,,,,,,,,,,,
+North Melbourne,1942,6,Carlton,6,L,20,,,,,,,,,,,,,,,,,,,,,,,
+North Melbourne,1942,7,Footscray,8,L,20,,,,,,,,,,,,,,,,,,,,,,,
+North Melbourne,1942,8,Richmond,9,L,20,,,,,,,,,,,,,,,,,,,,,,,
+North Melbourne,1942,9,Collingwood,10,W,20,,,,,,,,,,,,,,,,,,,,,,,
+North Melbourne,1942,10,St Kilda,11,L,20,,,,,,,,,,,,,,,,,,,,,,,
+North Melbourne,1942,11,Fitzroy,13,L,20,,,,,,,,,,,,,,,,,,,,,,,
+North Melbourne,1942,12,South Melbourne,15,L,20,,,,,,,,,,,,,,,,,,,,,,,

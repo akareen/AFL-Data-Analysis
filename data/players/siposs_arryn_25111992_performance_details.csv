@@ -1,0 +1,29 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+St Kilda,2011,1,Carlton,7,L,2,3,3,1,4,1,,,2,,5,,1,,1,,1,3,,,,2,,71
+St Kilda,2011,2,Hawthorn,8,L,2,7,4,4,11,2,,,1,,2,,1,1,1,,5,7,,1,1,,2,79
+St Kilda,2011,3↓,Melbourne,9,W,2,4,3,2,6,1,1,,1,,1,,2,,2,,1,5,,2,1,,1,59
+St Kilda,2011,4,Fremantle,10,W,2,3,1,3,6,1,,,1,,2,,,2,,,5,2,,,1,,1,75
+St Kilda,2011,5,Collingwood,11,L,2,4,4,2,6,,,,2,,,,1,,1,,1,5,,,1,,,87
+St Kilda,2012,6,Hawthorn,6,L,2,8,4,3,11,,,,3,,4,,2,1,,,2,10,,,1,,,81
+St Kilda,2012,7↑,Carlton,7,W,2,3,3,1,4,,,,,1,1,,2,,,,,4,,,,,,13
+St Kilda,2012,8↑,Sydney,9,W,2,6,2,,6,1,,,1,,4,,1,,,,2,3,1,1,1,,,41
+St Kilda,2012,9↑,Richmond,10,L,2,8,3,4,12,,1,,3,1,4,,2,,,,4,8,,1,1,,,28
+St Kilda,2012,10,Gold Coast,11,W,2,10,9,10,20,1,3,,6,,2,,1,1,1,,6,14,,2,2,2,1,92
+St Kilda,2012,11,Adelaide,12,L,2,8,5,6,14,2,1,,3,1,4,,2,,,,6,9,2,,3,,1,83
+St Kilda,2012,12,Essendon,15,W,2,12,6,5,17,2,1,,1,1,5,,,,,,5,12,1,1,,,1,82
+St Kilda,2012,13,Brisbane Lions,16,W,2,14,8,3,17,2,2,,,,5,1,5,,1,,5,12,1,3,1,,1,82
+St Kilda,2012,14↓,Sydney,17,L,2,4,4,,4,,,,1,1,,1,1,,1,,,4,,,1,,,44
+St Kilda,2012,15,Greater Western Sydney,22,W,2,15,10,9,24,1,,1,,1,5,,1,,,,6,17,,,3,,,88
+St Kilda,2012,16,Carlton,23,W,2,11,4,5,16,,,,1,2,2,3,4,2,1,,11,5,3,,6,,1,80
+St Kilda,2013,17,Gold Coast,1,L,2,12,7,7,19,1,1,,1,,3,1,3,1,1,,8,10,,1,3,,,93
+St Kilda,2013,18↓,Richmond,2,L,2,7,4,2,9,,,,,2,1,1,3,1,,,4,5,1,1,1,,1,62
+St Kilda,2013,19,Collingwood,6,L,2,10,6,2,12,2,3,,2,,1,,1,1,1,,5,7,1,2,2,,,92
+St Kilda,2013,20,Carlton,7,W,2,8,4,3,11,1,2,,2,1,,,,,,,7,4,2,2,,,,83
+St Kilda,2013,21↑,Adelaide,8,L,2,4,2,4,8,,,,,1,1,,,,,,2,6,,,,,,35
+St Kilda,2013,22,Western Bulldogs,9,L,2,5,1,7,12,2,,,5,1,,,4,1,2,,3,9,,1,2,,1,87
+St Kilda,2013,23,North Melbourne,10,L,2,2,1,6,8,,,,1,,1,1,2,,1,,5,3,1,,1,1,,88
+St Kilda,2013,24,Geelong,18,L,2,4,3,2,6,,2,,1,,1,,1,,,,2,5,,1,2,,,93
+St Kilda,2013,25↑,Brisbane Lions,19,L,2,1,2,10,11,,,,,,2,,,,,,6,5,,,,1,,45
+St Kilda,2014,26,Carlton,8,L,2,7,4,3,10,,3,,3,1,2,,,,,,3,6,1,2,2,,,91
+St Kilda,2014,27,Gold Coast,9,L,2,6,3,8,14,1,2,,1,,,,,1,,,8,7,,2,1,,,86
+St Kilda,2014,28,Collingwood,11,L,2,9,7,4,13,1,,,,1,4,,2,,,,2,11,,1,2,,1,86

@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Port Adelaide,2022,1,Carlton,5,L,25,2,1,3,5,,,20,4,,,1,2,3,1,,6,2,,,4,,,68
+Port Adelaide,2022,2,West Coast,6,W,25,4,2,7,11,,,47,,,2,1,3,1,1,,7,5,,,1,,,83
+Port Adelaide,2022,3,St Kilda,7,W,25,4,2,3,7,,,12,2,1,,2,1,2,1,,5,3,,,7,,,80
+Port Adelaide,2022,4,Western Bulldogs,8,W,25,3,1,4,7,,,37,2,,1,3,2,4,2,,4,3,,,2,,,76
+Port Adelaide,2022,5,North Melbourne,9,W,25,6,,2,8,,,33,1,,5,4,3,4,3,,7,3,,,2,,,73
+Port Adelaide,2022,6,Geelong,10,L,25,5,2,5,10,,,35,,,2,5,1,4,,,6,4,,,4,,1,70
+Port Adelaide,2022,7,Essendon,11,W,25,1,3,5,6,,,21,,1,,,3,,3,,3,3,1,,4,,,66
+Port Adelaide,2023,8,Gold Coast,17,W,25,4,1,6,10,,,18,6,,2,2,3,1,2,,7,3,,,6,,1,68
+Port Adelaide,2023,9↓,Greater Western Sydney,22,W,25,5,3,8,13,,,12,2,1,2,2,,2,,,7,6,1,,1,,,59
+Port Adelaide,2023,10,Fremantle,23,W,25,2,1,4,6,,,34,,,1,3,2,,1,,4,2,,,1,,,81
+Port Adelaide,2023,11↓,Richmond,24,W,25,2,1,4,6,,,10,1,1,,,3,,1,,3,4,,,2,,,51

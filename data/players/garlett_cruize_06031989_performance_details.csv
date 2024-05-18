@@ -1,0 +1,33 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+North Melbourne,2009,1,Adelaide,12,L,32,4,1,3,7,,,,2,,1,1,3,,1,,3,4,,,,,,81
+North Melbourne,2009,2,Western Bulldogs,13,L,32,5,1,4,9,1,1,,5,,4,1,2,,2,,4,5,1,1,1,,2,87
+North Melbourne,2009,3,Sydney,14,L,32,3,2,3,6,,,,2,,1,,,,,,2,4,,1,,,,77
+North Melbourne,2009,4,St Kilda,21,W,32,10,2,10,20,,,,8,1,3,4,9,,2,,8,12,,,6,,,86
+North Melbourne,2009,5,Port Adelaide,22,W,32,9,6,14,23,,1,,5,2,3,1,4,1,,,9,13,,1,,,,82
+North Melbourne,2010,6,Collingwood,7,L,32,4,,12,16,1,,,2,,1,3,,1,,,6,10,,,,,,73
+North Melbourne,2010,7,Adelaide,8,W,32,6,2,11,17,,1,,8,,2,2,,,,,6,11,,,,,,67
+North Melbourne,2010,8,Brisbane Lions,11,W,32,6,1,6,12,,,,4,,2,1,4,1,1,,3,10,,,,,1,60
+North Melbourne,2010,9,Carlton,12,W,32,8,4,9,17,,,,9,1,3,1,6,1,2,,5,11,,,1,,1,64
+North Melbourne,2010,10,Port Adelaide,13,W,32,7,3,17,24,1,,,5,1,3,1,3,,2,,8,16,,,2,,1,61
+North Melbourne,2010,11,Geelong,14,L,32,11,1,8,19,,,,8,1,3,4,3,,2,,8,11,,,1,,,68
+North Melbourne,2010,12,Sydney,15,L,32,2,,5,7,,,,,,,3,3,1,1,,5,2,,,1,,,54
+North Melbourne,2010,13,Fremantle,19,W,32,10,6,19,29,,,,4,1,3,1,2,1,2,,9,21,1,,,,1,56
+North Melbourne,2010,14,St Kilda,20,L,32,4,2,8,12,,,,1,,,2,2,1,1,,7,5,,,,,,59
+North Melbourne,2010,15,West Coast,21,W,32,8,4,12,20,,,,2,1,5,7,4,1,2,,8,12,,,1,,,65
+North Melbourne,2010,16,Melbourne,22,W,32,7,2,13,20,,,,2,2,2,4,2,,2,,9,11,,,3,,,62
+North Melbourne,2011,17,West Coast,1,L,32,10,2,9,19,,,,1,,4,6,2,1,,,11,8,,,2,,,69
+North Melbourne,2011,18,Collingwood,2,L,32,7,4,11,18,,2,,3,1,4,2,2,1,1,,7,11,,,3,,,61
+North Melbourne,2011,19↑,Fremantle,4,L,32,3,,9,12,,,,1,,1,1,2,,1,,4,9,,,1,,,20
+North Melbourne,2011,20↓,Richmond,5,L,32,8,3,5,13,,1,,6,1,3,3,2,2,1,,7,6,,,,,,46
+North Melbourne,2011,21,Melbourne,8,W,32,6,3,12,18,,,,7,1,,4,1,2,1,,11,8,,,,,,68
+North Melbourne,2011,22↑,Brisbane Lions,9,L,32,4,1,,4,,,,,,1,,,,,,1,2,,,,,,13
+North Melbourne,2011,23,Hawthorn,20,L,32,9,4,12,21,,1,,6,1,2,5,4,,3,,11,10,,,1,,,73
+North Melbourne,2011,24↑,Fremantle,22,W,32,7,2,9,16,2,,,3,,2,6,1,1,,,9,7,,,,,,50
+North Melbourne,2011,25↑,St Kilda,23,L,32,3,1,4,7,,,,1,,3,1,,,,,2,5,,,,,,17
+North Melbourne,2012,26↑,Brisbane Lions,9,W,32,6,2,2,8,,,,1,,3,3,3,,,,4,4,,,,1,,34
+North Melbourne,2012,27↑,Hawthorn,10,L,32,8,2,7,15,,,,2,1,,6,,2,,,11,4,,,,,,38
+North Melbourne,2012,28,Western Bulldogs,19,W,32,10,4,12,22,1,,,9,,,7,3,1,,,13,10,,,4,,,70
+North Melbourne,2012,29,Essendon,20,W,32,12,3,9,21,2,2,,3,1,3,8,2,2,1,,11,10,,1,,,,72
+North Melbourne,2012,30↓,Collingwood,21,W,32,6,2,9,15,1,1,,2,,2,4,,1,,,6,10,,,3,,,54
+North Melbourne,2012,31,Fremantle,22,L,32,13,2,10,23,,,,3,2,5,2,5,1,2,,6,16,,,,,1,68
+North Melbourne,2012,32,Greater Western Sydney,23,W,32,3,1,5,8,,,,6,,1,3,,1,,,4,5,,,,,,68

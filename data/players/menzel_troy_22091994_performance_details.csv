@@ -1,0 +1,45 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Carlton,2013,1↑,Port Adelaide,8,W,2,1,,,1,,,,1,,1,,,1,,,1,,,,,,1,21
+Carlton,2013,2,Greater Western Sydney,10,W,2,8,4,4,12,2,2,,2,,1,,2,,1,,3,8,,1,,,1,86
+Carlton,2013,3,Western Bulldogs,20,L,2,9,6,1,10,2,1,,1,,4,,6,,2,,3,6,1,1,,,,88
+Carlton,2013,4,Richmond,21,W,2,8,4,2,10,2,,,5,,1,,2,1,2,,3,6,,3,1,,1,78
+Carlton,2013,5,Essendon,22,L,2,8,5,3,11,2,2,,2,,2,,1,1,,,7,5,3,4,2,,1,82
+Carlton,2013,6,Port Adelaide,23,W,2,4,,1,5,,1,,2,1,,,1,2,1,,2,3,,,2,,,79
+Carlton,2013,7↑,Richmond,EF,W,2,1,,1,2,,,,,,,,,,,,1,1,,,,,,23
+Carlton,2014,8↑,Port Adelaide,1,L,2,,1,2,2,,,,,,,1,,,,,1,1,,,1,,,17
+Carlton,2014,9,Richmond,2,L,2,10,3,1,11,2,,,1,,2,,2,,1,,5,5,,1,1,,1,72
+Carlton,2014,10,Essendon,3,L,2,8,5,5,13,2,1,,2,1,2,,2,1,1,,4,8,,,,,,79
+Carlton,2014,11↓,Melbourne,4,L,2,1,1,,1,,,,2,,,,,,,,1,,1,,1,,,16
+Carlton,2014,12↑,West Coast,6,W,2,6,1,2,8,1,,,1,2,,,2,1,,,7,1,,,1,,,32
+Carlton,2014,13↑,Collingwood,7,L,2,2,,2,4,,1,,1,,,,1,,,,1,3,,,,,,30
+Carlton,2014,14,St Kilda,8,W,2,11,6,3,14,3,2,,2,1,3,,2,1,1,,3,11,1,3,,1,1,81
+Carlton,2014,15,Adelaide,10,W,2,10,6,1,11,3,2,,,,,,2,1,,,4,7,1,5,1,,,82
+Carlton,2014,16,Brisbane Lions,11,L,2,6,2,4,10,1,,,1,1,4,,3,1,,,4,6,1,,1,,1,83
+Carlton,2014,17,Geelong,12,L,2,10,4,2,12,2,,,1,1,2,,3,,1,,4,7,1,2,1,,1,80
+Carlton,2014,18,Hawthorn,13,L,2,13,4,2,15,2,1,,,1,1,,2,,1,,,13,,1,,,,80
+Carlton,2014,19,Greater Western Sydney,14,L,2,10,5,4,14,3,2,,4,,2,1,1,2,1,,5,10,,2,1,1,2,83
+Carlton,2014,20,Collingwood,15,L,2,2,3,3,5,1,,,1,,,,,,,,2,4,1,1,2,,,82
+Carlton,2014,21,St Kilda,16,W,2,7,8,2,9,2,,,,,2,,1,,1,,2,7,1,2,1,,1,69
+Carlton,2014,22,North Melbourne,18,W,2,6,2,,6,,,,3,1,,1,,1,,,1,4,,,1,,,74
+Carlton,2014,23,Gold Coast,20,W,2,6,2,6,12,,,,4,,1,2,1,2,1,,4,8,,,,,1,78
+Carlton,2014,24,Geelong,21,L,2,11,4,2,13,2,2,,1,2,1,,,1,,,8,4,2,1,,,,57
+Carlton,2014,25,Port Adelaide,22,L,2,4,4,2,6,,2,,1,,,1,1,,1,,3,3,1,2,3,,,78
+Carlton,2014,26,Essendon,23,D,2,7,5,2,9,2,,,3,,3,,1,,,,2,7,1,2,,,,80
+Carlton,2015,27,Richmond,1,L,2,12,3,5,17,2,1,,3,,1,1,3,1,,,7,10,,1,,1,,83
+Carlton,2015,28,West Coast,2,L,2,6,4,1,7,,,,1,1,2,,1,,,,,7,,,1,,,71
+Carlton,2015,29,Greater Western Sydney,7,L,2,7,5,1,8,2,1,,1,2,,,3,,1,,3,6,1,2,,,,77
+Carlton,2015,30,Geelong,8,L,2,13,6,2,15,4,2,,2,3,4,1,2,3,,,9,7,1,3,2,,,87
+Carlton,2015,31↓,Sydney,9,L,2,4,2,2,6,,1,,1,,,,,,,,2,4,,,2,,,51
+Carlton,2015,32,Adelaide,10,L,2,5,4,7,12,1,,,1,,,1,1,,1,,2,11,,1,,,,75
+Carlton,2015,33,Port Adelaide,12,W,2,7,2,2,9,2,1,,2,1,2,1,,2,,,5,5,1,1,1,1,,81
+Carlton,2015,34↓,Gold Coast,13,W,2,3,2,1,4,1,,,2,,1,,,1,,,3,1,2,1,,,1,49
+Carlton,2015,35,Richmond,15,L,2,1,1,5,6,,,,2,,,,4,,4,,3,4,,,1,,,78
+Carlton,2015,36↓,Fremantle,16,L,2,4,3,3,7,1,,,2,1,,,1,,,,4,4,1,1,2,,,47
+Carlton,2015,37,North Melbourne,18,L,2,9,3,4,13,,,,2,,,,2,1,,,5,9,1,,,,,77
+Carlton,2015,38,Melbourne,21,W,2,6,2,1,7,,,,1,,1,,,1,,,3,4,,,,,,77
+Carlton,2015,39,Greater Western Sydney,22,L,2,3,3,5,8,,,,2,,,,,1,,,3,5,1,,3,,,81
+Carlton,2015,40,Hawthorn,23,L,2,7,6,4,11,,1,,2,3,2,,1,,,,3,9,,,,,,73
+Adelaide,2017,41,Greater Western Sydney,1,W,32,11,3,3,14,1,,,3,2,1,1,1,2,,,8,6,,1,1,,,74
+Adelaide,2017,42,Essendon,4,W,32,6,3,3,9,1,2,,5,,,1,1,,,,3,6,1,2,1,,,76
+Adelaide,2017,43,Gold Coast,5,W,32,2,,2,4,2,,,2,,,1,,1,,,3,1,,,1,,,73
+Adelaide,2017,44,Melbourne,8,L,32,7,4,4,11,,1,,3,,3,,3,1,1,,4,6,,,2,1,1,61

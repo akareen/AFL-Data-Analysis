@@ -1,0 +1,72 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Princes Park,1904-05-07 15:00,1904,Carlton,1,2,1,3,1,8,1,8,Fitzroy,4,3,6,6,7,9,16,12
+1,Victoria Park,1904-05-07 15:00,1904,Collingwood,2,5,6,8,7,12,9,15,Geelong,3,0,4,2,4,5,7,9
+1,East Melbourne,1904-05-07 15:00,1904,Essendon,5,1,7,4,7,7,8,10,South Melbourne,0,1,1,3,2,5,2,5
+1,Junction Oval,1904-05-07 15:00,1904,St Kilda,2,2,4,6,5,8,12,13,Melbourne,1,4,3,6,4,9,5,9
+2,Lake Oval,1904-05-14 15:00,1904,South Melbourne,1,3,1,5,1,10,1,13,Carlton,2,3,2,3,2,5,5,6
+2,M.C.G.,1904-05-14 15:00,1904,Melbourne,0,3,3,3,5,5,7,7,Collingwood,1,3,4,7,6,10,7,13
+2,Corio Oval,1904-05-14 15:00,1904,Geelong,2,0,6,3,7,3,10,7,Essendon,2,6,4,6,5,13,5,13
+2,Brunswick St,1904-05-14 15:00,1904,Fitzroy,3,3,5,9,6,12,11,17,St Kilda,2,1,3,1,5,3,5,3
+3,Princes Park,1904-05-21 15:00,1904,Carlton,1,5,4,6,7,13,8,17,Geelong,1,2,2,7,3,7,4,8
+3,Victoria Park,1904-05-21 15:00,1904,Collingwood,0,1,2,2,3,5,4,5,South Melbourne,3,6,5,7,6,10,7,13
+3,Junction Oval,1904-05-21 15:00,1904,St Kilda,0,2,2,3,2,3,5,3,Essendon,4,1,6,4,9,7,10,9
+3,M.C.G.,1904-05-21 15:00,1904,Melbourne,1,1,1,2,2,2,3,5,Fitzroy,5,4,10,6,13,11,14,15
+4,Junction Oval,1904-05-28 15:00,1904,St Kilda,2,4,3,5,4,6,4,7,Carlton,2,1,4,2,4,4,6,4
+4,Brunswick St,1904-05-28 15:00,1904,Fitzroy,3,3,4,5,4,8,4,9,Collingwood,1,1,3,3,5,4,6,6
+4,S.C.G.,1904-05-28 15:00,1904,Essendon,3,0,3,0,5,3,6,3,Melbourne,2,2,4,6,4,11,9,17
+4,Corio Oval,1904-05-28 15:00,1904,Geelong,4,1,4,1,4,3,6,4,South Melbourne,0,7,4,8,5,12,6,16
+5,Victoria Park,1904-06-04 15:00,1904,Collingwood,2,5,4,8,5,9,6,12,Carlton,3,1,5,2,8,3,8,5
+5,East Melbourne,1904-06-04 15:00,1904,Essendon,5,2,6,3,6,5,6,5,Fitzroy,2,3,5,9,8,14,11,17
+5,Corio Oval,1904-06-04 15:00,1904,Geelong,1,3,2,5,4,10,6,13,St Kilda,2,3,2,9,3,10,4,10
+5,Lake Oval,1904-06-04 15:00,1904,South Melbourne,4,5,6,10,6,14,8,16,Melbourne,0,1,2,7,4,7,5,9
+6,M.C.G.,1904-06-06 15:00,1904,Melbourne,2,1,4,3,5,8,8,10,Carlton,3,1,4,4,5,5,5,5
+6,East Melbourne,1904-06-06 15:00,1904,Essendon,0,1,4,4,5,4,6,5,Collingwood,4,7,4,7,4,7,6,7
+6,Brunswick St,1904-06-06 15:00,1904,Fitzroy,6,0,9,2,9,4,12,6,Geelong,2,2,4,6,6,15,6,18
+6,Lake Oval,1904-06-06 15:00,1904,South Melbourne,2,4,7,6,13,7,15,10,St Kilda,1,1,3,1,4,3,9,4
+7,Princes Park,1904-06-11 15:00,1904,Carlton,2,0,5,1,6,2,7,5,Essendon,1,3,5,5,6,8,7,11
+7,Junction Oval,1904-06-11 15:00,1904,St Kilda,3,3,5,3,6,4,7,7,Collingwood,0,3,2,6,2,7,4,10
+7,Brunswick St,1904-06-11 15:00,1904,Fitzroy,1,3,4,6,6,8,6,9,South Melbourne,1,3,3,4,3,8,5,14
+7,Corio Oval,1904-06-11 15:00,1904,Geelong,2,1,6,6,7,9,9,12,Melbourne,6,4,9,4,11,6,15,7
+8,Brunswick St,1904-06-25 15:00,1904,Fitzroy,5,4,8,5,8,8,8,8,Carlton,2,2,5,6,6,9,7,10
+8,Corio Oval,1904-06-25 15:00,1904,Geelong,0,1,1,7,2,7,4,10,Collingwood,5,3,6,6,8,10,8,10
+8,Lake Oval,1904-06-25 15:00,1904,South Melbourne,2,2,5,6,7,9,10,9,Essendon,1,0,4,0,4,2,4,5
+8,M.C.G.,1904-06-25 15:00,1904,Melbourne,2,5,5,5,8,7,13,13,St Kilda,0,0,2,2,4,2,4,2
+9,Princes Park,1904-07-02 15:00,1904,Carlton,1,1,3,4,6,5,9,7,South Melbourne,1,1,2,2,3,5,5,7
+9,Victoria Park,1904-07-02 15:00,1904,Collingwood,2,2,3,2,4,3,4,5,Melbourne,4,1,4,4,6,6,8,6
+9,East Melbourne,1904-07-02 15:00,1904,Essendon,2,4,5,4,8,6,9,12,Geelong,1,0,2,2,3,3,4,4
+9,Junction Oval,1904-07-02 15:00,1904,St Kilda,1,1,7,6,8,8,11,12,Fitzroy,2,6,2,6,4,7,4,7
+10,Corio Oval,1904-07-09 15:00,1904,Geelong,1,0,1,6,2,10,4,11,Carlton,3,2,4,3,4,4,5,5
+10,Lake Oval,1904-07-09 15:00,1904,South Melbourne,1,7,2,7,4,12,5,15,Collingwood,0,1,3,2,4,3,6,6
+10,East Melbourne,1904-07-09 15:00,1904,Essendon,0,0,2,5,2,5,6,8,St Kilda,3,3,3,3,5,3,6,3
+10,Brunswick St,1904-07-09 15:00,1904,Fitzroy,2,1,3,5,5,8,8,10,Melbourne,0,4,1,7,3,10,5,13
+11,Princes Park,1904-07-16 15:00,1904,Carlton,1,1,4,3,5,3,9,7,St Kilda,2,0,4,0,4,0,4,1
+11,Victoria Park,1904-07-16 15:00,1904,Collingwood,2,1,5,4,5,5,7,13,Fitzroy,1,3,2,4,2,6,3,6
+11,M.C.G.,1904-07-16 15:00,1904,Melbourne,0,2,2,4,3,7,3,12,Essendon,1,6,2,8,4,10,4,11
+11,Lake Oval,1904-07-16 15:00,1904,South Melbourne,2,0,4,2,5,3,6,5,Geelong,1,5,1,5,2,13,4,15
+12,Princes Park,1904-07-23 15:00,1904,Carlton,2,3,4,5,6,7,6,10,Collingwood,0,2,4,3,5,4,6,4
+12,Brunswick St,1904-07-23 15:00,1904,Fitzroy,2,3,3,4,4,7,6,8,Essendon,2,4,2,5,3,7,3,9
+12,Junction Oval,1904-07-23 15:00,1904,St Kilda,1,0,1,3,2,3,5,5,Geelong,1,4,5,6,5,11,7,16
+12,M.C.G.,1904-07-23 15:00,1904,Melbourne,2,1,6,7,7,7,9,13,South Melbourne,2,2,4,2,9,5,11,7
+13,Princes Park,1904-07-30 15:00,1904,Carlton,1,4,1,6,5,8,6,14,Melbourne,1,4,2,8,2,9,4,10
+13,Victoria Park,1904-07-30 15:00,1904,Collingwood,1,0,3,3,4,4,5,6,Essendon,2,2,2,4,6,6,7,10
+13,Corio Oval,1904-07-30 15:00,1904,Geelong,3,8,3,8,5,12,5,12,Fitzroy,0,1,1,7,2,7,4,13
+13,Junction Oval,1904-07-30 15:00,1904,St Kilda,1,2,2,2,4,6,6,10,South Melbourne,2,1,6,4,8,4,10,5
+14,East Melbourne,1904-08-13 15:00,1904,Essendon,2,1,4,2,5,3,5,5,Carlton,1,2,2,7,5,9,5,9
+14,Victoria Park,1904-08-13 15:00,1904,Collingwood,5,2,8,3,9,6,14,12,St Kilda,1,1,3,4,4,9,6,10
+14,Lake Oval,1904-08-13 15:00,1904,South Melbourne,1,3,3,10,3,12,5,16,Fitzroy,5,1,5,5,8,9,8,10
+14,M.C.G.,1904-08-13 15:00,1904,Melbourne,1,0,6,4,9,6,11,10,Geelong,4,1,5,1,5,4,6,4
+15,Victoria Park,1904-08-20 14:30,1904,Collingwood,3,2,5,4,7,7,8,11,Carlton,2,3,4,3,6,6,7,7
+15,East Melbourne,1904-08-20 14:30,1904,Essendon,1,1,5,6,6,7,8,9,Geelong,1,6,2,6,3,8,5,9
+15,Brunswick St,1904-08-20 14:30,1904,Fitzroy,1,2,4,3,4,10,4,14,South Melbourne,2,4,2,7,3,10,3,15
+15,M.C.G.,1904-08-20 14:30,1904,Melbourne,1,2,4,5,7,7,13,15,St Kilda,1,1,3,1,3,1,3,3
+16,Princes Park,1904-08-27 14:30,1904,Carlton,0,2,1,5,1,7,1,8,Melbourne,1,5,2,5,5,8,5,13
+16,Junction Oval,1904-08-27 14:30,1904,St Kilda,1,4,1,5,2,8,2,8,Collingwood,0,0,5,3,7,5,12,9
+16,Lake Oval,1904-08-27 14:30,1904,South Melbourne,1,1,2,2,4,3,4,3,Essendon,1,1,3,5,3,7,8,11
+16,Corio Oval,1904-08-27 14:30,1904,Geelong,0,2,2,3,4,5,4,6,Fitzroy,3,0,4,1,6,3,8,5
+17,Princes Park,1904-09-03 14:30,1904,Carlton,6,6,7,7,13,11,16,11,St Kilda,1,0,2,4,2,4,7,7
+17,M.C.G.,1904-09-03 14:30,1904,Melbourne,1,2,2,6,4,7,5,10,Collingwood,2,7,3,7,7,9,7,9
+17,East Melbourne,1904-09-03 14:30,1904,Essendon,3,1,5,3,7,6,13,9,Fitzroy,0,0,1,1,3,1,4,2
+17,Corio Oval,1904-09-03 14:30,1904,Geelong,0,1,2,2,3,3,3,4,South Melbourne,2,2,2,4,3,7,6,8
+Semi Final,Victoria Park,1904-09-10 14:30,1904,Carlton,0,0,4,4,6,5,6,7,Essendon,1,2,4,3,6,3,6,4
+Semi Final,M.C.G.,1904-09-10 14:30,1904,Fitzroy,3,3,5,4,8,6,9,7,Collingwood,2,1,2,4,5,7,7,8
+Grand Final,M.C.G.,1904-09-17 14:50,1904,Fitzroy,3,1,3,2,5,2,9,7,Carlton,1,1,3,3,3,7,5,7

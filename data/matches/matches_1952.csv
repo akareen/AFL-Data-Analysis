@@ -1,0 +1,119 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Arden St,1952-04-19 14:15,1952,North Melbourne,2,3,2,11,3,17,8,19,Carlton,6,2,9,6,11,11,13,12
+1,Glenferrie Oval,1952-04-19 14:15,1952,Hawthorn,1,1,2,3,2,6,2,8,Collingwood,3,2,7,7,9,11,15,16
+1,Western Oval,1952-04-19 14:15,1952,Footscray,0,2,4,6,5,9,6,10,Essendon,4,2,4,2,6,4,6,5
+1,Brunswick St,1952-04-19 14:15,1952,Fitzroy,2,2,3,7,4,9,5,15,Richmond,3,4,4,4,7,9,7,12
+1,M.C.G.,1952-04-19 14:15,1952,Melbourne,5,4,8,5,12,13,14,13,Geelong,4,1,10,6,14,11,15,13
+1,Lake Oval,1952-04-19 14:15,1952,South Melbourne,2,7,5,10,9,15,11,16,St Kilda,3,1,4,9,6,13,8,26
+2,Princes Park,1952-04-26 14:15,1952,Carlton,2,2,6,3,10,6,12,12,South Melbourne,2,3,9,6,11,8,13,11
+2,Victoria Park,1952-04-26 14:15,1952,Collingwood,5,1,6,10,9,15,13,17,Fitzroy,1,3,2,5,5,8,8,14
+2,Windy Hill,1952-04-26 14:15,1952,Essendon,2,2,5,4,11,8,14,12,North Melbourne,2,3,5,6,10,9,13,11
+2,Kardinia Park,1952-04-26 14:15,1952,Geelong,3,1,7,1,7,3,10,4,Footscray,1,5,4,8,7,12,7,15
+2,Punt Rd,1952-04-26 14:15,1952,Richmond,2,0,8,4,9,5,12,10,Hawthorn,3,6,4,9,7,11,8,14
+2,Junction Oval,1952-04-26 14:15,1952,St Kilda,4,4,8,6,12,10,13,11,Melbourne,4,4,6,6,9,10,12,19
+3,Princes Park,1952-05-03 14:15,1952,Carlton,1,6,3,6,6,8,10,12,Fitzroy,5,0,6,7,11,11,13,14
+3,Victoria Park,1952-05-03 14:15,1952,Collingwood,2,5,2,10,7,14,9,21,Essendon,1,3,4,7,7,8,7,9
+3,Arden St,1952-05-03 14:15,1952,North Melbourne,3,4,4,5,8,8,11,11,Footscray,1,0,7,1,8,6,10,6
+3,Kardinia Park,1952-05-03 14:15,1952,Geelong,6,6,9,9,10,12,14,15,St Kilda,1,0,2,3,3,3,5,4
+3,M.C.G.,1952-05-03 14:15,1952,Melbourne,2,2,6,5,6,9,8,12,Hawthorn,2,5,5,7,7,13,10,14
+3,Lake Oval,1952-05-03 14:15,1952,South Melbourne,5,5,10,11,12,13,14,17,Richmond,5,1,8,3,10,7,12,9
+4,Windy Hill,1952-05-10 14:15,1952,Essendon,2,0,5,3,7,5,13,9,Carlton,2,6,2,9,6,12,13,16
+4,Junction Oval,1952-05-10 14:15,1952,St Kilda,2,7,6,12,6,15,8,16,Collingwood,5,0,8,1,9,5,12,12
+4,Brunswick St,1952-05-10 14:15,1952,Fitzroy,3,3,3,6,4,9,6,15,Geelong,3,2,7,6,9,11,14,16
+4,Western Oval,1952-05-10 14:15,1952,Footscray,2,3,5,6,5,10,6,16,Melbourne,2,5,4,7,8,16,10,16
+4,Glenferrie Oval,1952-05-10 14:15,1952,Hawthorn,2,3,5,3,9,3,11,3,South Melbourne,2,2,6,7,7,8,8,12
+4,Punt Rd,1952-05-10 14:15,1952,Richmond,6,3,8,3,16,10,18,13,North Melbourne,1,4,9,7,12,9,16,15
+5,Victoria Park,1952-05-17 14:15,1952,Collingwood,4,4,9,6,12,10,15,16,Carlton,2,1,3,5,5,11,7,14
+5,Junction Oval,1952-05-17 14:15,1952,St Kilda,3,1,6,3,7,7,11,10,Essendon,7,1,8,3,12,6,18,8
+5,Brunswick St,1952-05-17 14:15,1952,Fitzroy,0,2,3,5,5,6,6,6,Hawthorn,1,3,1,5,1,9,5,11
+5,Western Oval,1952-05-17 14:15,1952,Footscray,2,3,4,4,6,4,9,6,Richmond,1,1,2,3,4,3,5,6
+5,Kardinia Park,1952-05-17 14:15,1952,Geelong,2,4,3,6,6,11,11,16,North Melbourne,0,3,3,8,5,9,6,10
+5,M.C.G.,1952-05-17 14:15,1952,Melbourne,3,2,5,5,7,6,8,9,South Melbourne,1,3,5,6,9,9,10,11
+6,Princes Park,1952-05-31 14:15,1952,Carlton,3,4,6,4,8,9,14,10,St Kilda,1,0,2,8,3,9,10,13
+6,Victoria Park,1952-05-31 14:15,1952,Collingwood,2,3,8,10,10,13,12,19,Footscray,2,4,2,4,3,5,4,5
+6,Glenferrie Oval,1952-05-31 14:15,1952,Hawthorn,1,1,2,7,3,11,5,14,Essendon,5,1,9,2,12,5,15,8
+6,Lake Oval,1952-05-31 14:15,1952,South Melbourne,3,2,6,6,10,7,14,12,Fitzroy,2,2,4,4,6,9,9,11
+6,Punt Rd,1952-05-31 14:15,1952,Richmond,3,2,3,2,6,7,8,7,Geelong,2,2,6,6,6,7,11,13
+6,Arden St,1952-05-31 14:15,1952,North Melbourne,1,2,3,8,4,10,6,13,Melbourne,3,5,3,5,9,6,9,9
+7,M.C.G.,1952-06-07 14:15,1952,Melbourne,5,2,5,2,7,7,12,10,Collingwood,1,2,2,7,3,8,6,14
+7,Brunswick St,1952-06-07 14:15,1952,Fitzroy,1,2,4,6,5,8,8,15,St Kilda,0,1,0,2,2,4,3,6
+7,Arden St,1952-06-07 14:15,1952,North Melbourne,1,1,7,3,9,6,12,8,Hawthorn,1,3,2,5,5,8,7,8
+7,Princes Park,1952-06-09 14:15,1952,Carlton,8,4,12,8,17,8,18,12,Geelong,1,3,8,5,11,11,13,15
+7,Windy Hill,1952-06-09 14:15,1952,Essendon,0,7,0,8,6,15,7,18,Richmond,3,3,6,4,8,5,10,9
+7,Lake Oval,1952-06-09 14:15,1952,South Melbourne,3,5,10,11,15,12,16,14,Footscray,3,3,6,5,10,12,11,13
+8,Euroa,1952-06-14 14:15,1952,Carlton,7,3,9,5,12,10,17,15,Hawthorn,3,3,6,7,9,9,11,14
+8,S.C.G.,1952-06-14 14:15,1952,Richmond,1,2,1,2,2,3,5,6,Collingwood,2,1,8,6,9,7,10,12
+8,North Hobart,1952-06-14 14:15,1952,Fitzroy,5,4,8,8,11,9,13,12,Melbourne,2,2,4,6,8,8,10,10
+8,Yallourn,1952-06-14 14:15,1952,Footscray,1,1,1,2,2,4,5,4,St Kilda,2,1,6,2,6,4,7,7
+8,Albury,1952-06-14 14:15,1952,South Melbourne,4,1,7,5,12,9,18,10,North Melbourne,4,3,7,7,12,9,14,12
+8,Brisbane Exhibition,1952-06-16 19:30,1952,Geelong,4,3,6,5,8,7,12,14,Essendon,4,5,10,8,16,15,23,17
+9,Punt Rd,1952-06-21 14:15,1952,Richmond,0,1,3,1,3,3,5,3,Carlton,1,2,3,4,4,8,5,9
+9,Victoria Park,1952-06-21 14:15,1952,Collingwood,1,3,4,4,5,7,6,8,North Melbourne,1,2,3,3,7,9,8,12
+9,Windy Hill,1952-06-21 14:15,1952,Essendon,4,1,5,2,11,4,11,8,Melbourne,3,6,3,11,7,11,10,15
+9,Western Oval,1952-06-21 14:15,1952,Footscray,1,1,3,4,4,6,6,9,Fitzroy,2,3,2,3,6,6,7,8
+9,Kardinia Park,1952-06-21 14:15,1952,Geelong,1,5,2,7,4,9,7,13,South Melbourne,2,2,3,7,4,10,4,11
+9,Junction Oval,1952-06-21 14:15,1952,St Kilda,4,4,4,7,4,11,5,11,Hawthorn,2,2,4,2,6,3,7,6
+10,Princes Park,1952-06-28 14:15,1952,Carlton,2,4,5,9,11,14,15,22,Footscray,3,2,4,3,6,6,8,9
+10,Lake Oval,1952-06-28 14:15,1952,South Melbourne,1,6,4,8,8,10,9,10,Collingwood,0,3,2,8,6,12,12,13
+10,Brunswick St,1952-06-28 14:15,1952,Fitzroy,1,3,7,9,8,11,13,12,Essendon,1,1,1,2,2,5,5,8
+10,Glenferrie Oval,1952-06-28 14:15,1952,Hawthorn,2,1,3,4,4,5,6,8,Geelong,0,4,2,8,6,9,10,10
+10,M.C.G.,1952-06-28 14:15,1952,Melbourne,5,8,7,10,9,10,12,11,Richmond,0,4,3,5,5,7,6,10
+10,Arden St,1952-06-28 14:15,1952,North Melbourne,1,5,1,7,8,9,9,10,St Kilda,0,0,4,6,4,8,5,9
+11,Glenferrie Oval,1952-07-05 14:15,1952,Hawthorn,1,0,4,7,5,7,5,11,Carlton,4,11,4,11,6,21,9,24
+11,Victoria Park,1952-07-05 14:15,1952,Collingwood,4,13,5,13,8,18,10,19,Richmond,1,0,5,2,5,3,8,8
+11,Windy Hill,1952-07-05 14:15,1952,Essendon,2,2,6,4,7,8,10,16,Geelong,6,5,8,6,11,8,11,10
+11,M.C.G.,1952-07-05 14:15,1952,Melbourne,3,3,4,5,9,6,11,7,Fitzroy,2,5,3,11,7,13,11,17
+11,Junction Oval,1952-07-05 14:15,1952,St Kilda,0,1,3,6,6,12,11,13,Footscray,5,4,7,8,9,11,12,13
+11,Arden St,1952-07-05 14:15,1952,North Melbourne,3,2,5,4,5,4,7,4,South Melbourne,2,2,5,7,8,15,10,17
+12,Princes Park,1952-07-12 14:15,1952,Carlton,2,6,4,9,6,14,6,14,Melbourne,1,3,4,8,4,12,6,14
+12,Kardinia Park,1952-07-12 14:15,1952,Geelong,3,2,4,3,5,4,9,8,Collingwood,2,1,2,6,2,9,4,9
+12,Lake Oval,1952-07-12 14:15,1952,South Melbourne,1,5,7,9,7,10,8,12,Essendon,4,2,5,6,8,14,9,15
+12,Brunswick St,1952-07-12 14:15,1952,Fitzroy,4,1,7,5,12,10,13,11,North Melbourne,1,1,2,4,4,5,10,11
+12,Western Oval,1952-07-12 14:15,1952,Footscray,2,4,3,6,4,10,4,11,Hawthorn,6,2,8,3,8,3,9,4
+12,Punt Rd,1952-07-12 14:15,1952,Richmond,1,2,6,8,10,16,10,17,St Kilda,1,4,4,4,5,5,6,8
+13,Princes Park,1952-07-19 14:15,1952,Carlton,0,5,1,13,5,21,5,23,North Melbourne,1,1,2,3,4,5,5,8
+13,Victoria Park,1952-07-19 14:15,1952,Collingwood,2,2,4,6,9,13,12,15,Hawthorn,1,1,3,2,4,3,4,4
+13,Windy Hill,1952-07-19 14:15,1952,Essendon,1,6,2,8,2,10,5,12,Footscray,2,2,3,5,6,13,7,15
+13,Punt Rd,1952-07-19 14:15,1952,Richmond,0,4,1,10,3,13,5,17,Fitzroy,3,4,6,5,6,6,11,10
+13,Kardinia Park,1952-07-19 14:15,1952,Geelong,3,5,6,12,9,21,14,26,Melbourne,1,0,4,2,5,3,8,6
+13,Junction Oval,1952-07-19 14:15,1952,St Kilda,2,5,3,5,4,7,5,8,South Melbourne,0,1,2,3,2,3,6,8
+14,Lake Oval,1952-07-26 14:15,1952,South Melbourne,3,7,4,8,10,14,10,16,Carlton,1,2,5,9,7,9,10,16
+14,Brunswick St,1952-07-26 14:15,1952,Fitzroy,1,0,3,3,3,4,5,6,Collingwood,2,5,3,6,3,10,4,11
+14,Arden St,1952-07-26 14:15,1952,North Melbourne,3,3,3,3,7,10,7,11,Essendon,0,0,4,4,4,5,7,8
+14,Western Oval,1952-07-26 14:15,1952,Footscray,2,3,3,4,6,8,8,9,Geelong,1,4,5,7,6,9,9,12
+14,Glenferrie Oval,1952-07-26 14:15,1952,Hawthorn,2,2,3,3,6,11,8,14,Richmond,5,3,11,4,11,4,14,7
+14,M.C.G.,1952-07-26 14:15,1952,Melbourne,3,4,6,8,10,11,11,12,St Kilda,1,0,4,2,5,6,8,10
+15,Brunswick St,1952-08-02 14:15,1952,Fitzroy,1,5,3,9,4,13,5,15,Carlton,2,4,3,5,4,10,5,14
+15,Windy Hill,1952-08-02 14:15,1952,Essendon,4,1,7,2,11,6,13,10,Collingwood,3,7,6,10,9,12,12,17
+15,Western Oval,1952-08-02 14:15,1952,Footscray,1,2,1,3,4,5,7,6,North Melbourne,2,1,3,5,5,6,8,9
+15,Junction Oval,1952-08-02 14:15,1952,St Kilda,1,7,3,8,7,13,7,13,Geelong,2,6,4,7,5,8,9,16
+15,Glenferrie Oval,1952-08-02 14:15,1952,Hawthorn,2,2,3,3,7,3,9,3,Melbourne,3,5,5,11,11,11,12,13
+15,Punt Rd,1952-08-02 14:15,1952,Richmond,2,6,5,8,9,13,10,14,South Melbourne,2,4,7,9,10,10,12,14
+16,Princes Park,1952-08-09 14:15,1952,Carlton,2,1,6,9,7,12,11,16,Essendon,2,3,3,6,12,9,12,11
+16,Victoria Park,1952-08-09 14:15,1952,Collingwood,5,5,7,8,13,17,20,19,St Kilda,1,1,4,5,5,6,8,7
+16,Kardinia Park,1952-08-09 14:15,1952,Geelong,3,7,4,10,7,14,12,16,Fitzroy,1,1,2,4,5,8,5,10
+16,M.C.G.,1952-08-09 14:15,1952,Melbourne,2,6,4,8,9,14,15,17,Footscray,3,2,6,3,8,7,8,12
+16,Lake Oval,1952-08-09 14:15,1952,South Melbourne,1,1,2,4,3,11,6,14,Hawthorn,1,7,2,12,6,13,9,14
+16,Arden St,1952-08-09 14:15,1952,North Melbourne,4,1,9,6,10,7,14,10,Richmond,2,2,2,3,7,11,9,12
+17,Princes Park,1952-08-16 14:15,1952,Carlton,2,4,4,9,7,11,12,16,Collingwood,1,3,3,7,8,12,9,13
+17,Windy Hill,1952-08-16 14:15,1952,Essendon,2,4,8,7,14,11,22,15,St Kilda,2,2,4,4,4,8,7,9
+17,Glenferrie Oval,1952-08-16 14:15,1952,Hawthorn,1,1,2,3,3,4,7,6,Fitzroy,1,4,5,7,8,7,12,12
+17,Punt Rd,1952-08-16 14:15,1952,Richmond,2,3,6,5,7,9,13,11,Footscray,3,4,3,10,4,13,5,14
+17,Arden St,1952-08-16 14:15,1952,North Melbourne,1,3,3,3,4,7,11,9,Geelong,6,2,10,7,13,9,15,13
+17,Lake Oval,1952-08-16 14:15,1952,South Melbourne,4,4,6,8,10,11,10,14,Melbourne,1,4,5,7,6,11,8,18
+18,Junction Oval,1952-08-23 14:15,1952,St Kilda,1,3,5,3,7,4,8,8,Carlton,3,4,7,6,9,10,13,14
+18,Western Oval,1952-08-23 14:15,1952,Footscray,1,4,3,6,5,14,6,14,Collingwood,3,0,8,6,9,8,14,15
+18,Windy Hill,1952-08-23 14:15,1952,Essendon,6,3,10,4,14,7,20,12,Hawthorn,4,4,4,5,9,10,11,11
+18,Brunswick St,1952-08-23 14:15,1952,Fitzroy,3,3,4,4,7,9,9,10,South Melbourne,3,2,5,10,6,12,7,15
+18,Kardinia Park,1952-08-23 14:15,1952,Geelong,6,0,9,4,13,5,17,9,Richmond,1,4,2,5,6,6,10,7
+18,M.C.G.,1952-08-23 14:15,1952,Melbourne,2,4,6,8,9,10,11,16,North Melbourne,5,1,7,3,12,5,15,7
+19,Kardinia Park,1952-08-30 14:15,1952,Geelong,0,5,5,9,9,13,10,17,Carlton,1,3,2,6,2,10,3,14
+19,Victoria Park,1952-08-30 14:15,1952,Collingwood,5,4,10,6,12,11,13,14,Melbourne,1,3,3,4,5,8,10,11
+19,Punt Rd,1952-08-30 14:15,1952,Richmond,2,3,9,5,10,9,15,11,Essendon,4,2,7,4,9,7,11,10
+19,Junction Oval,1952-08-30 14:15,1952,St Kilda,3,3,5,5,8,8,10,12,Fitzroy,1,1,3,11,4,12,8,18
+19,Western Oval,1952-08-30 14:15,1952,Footscray,2,2,8,8,9,9,13,13,South Melbourne,5,5,5,6,7,10,8,13
+19,Glenferrie Oval,1952-08-30 14:15,1952,Hawthorn,1,2,3,8,6,10,8,11,North Melbourne,2,1,4,3,7,7,12,10
+Semi Final,M.C.G.,1952-09-06 14:30,1952,Fitzroy,2,1,6,3,8,5,10,9,Carlton,0,5,3,10,7,15,8,20
+Semi Final,M.C.G.,1952-09-13 14:30,1952,Geelong,2,6,5,9,12,10,14,16,Collingwood,1,4,3,5,5,6,6,10
+Preliminary Final,M.C.G.,1952-09-20 14:30,1952,Collingwood,4,4,9,9,10,12,11,15,Fitzroy,4,2,4,3,9,5,9,8
+Grand Final,M.C.G.,1952-09-27 14:50,1952,Geelong,4,2,5,3,11,6,13,8,Collingwood,1,1,3,3,5,3,5,10

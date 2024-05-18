@@ -1,0 +1,8 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Geelong,2022,1,Greater Western Sydney,8,W,12,8,4,11,19,,,,1,5,,4,4,,3,,8,12,,1,,,1,67
+Geelong,2022,2,St Kilda,9,L,12,,,,,,,,,,,,,,,,,,,,,,,
+Geelong,2022,3,Port Adelaide,10,W,12,11,5,5,16,,,,2,,6,2,2,1,,,7,9,,,,,,64
+Geelong,2022,4,Adelaide,11,W,12,6,1,9,15,,,,3,1,2,6,2,1,1,,7,8,,,1,,1,60
+Geelong,2022,5,Western Bulldogs,12,W,12,3,,6,9,,,,,1,1,,,,,,3,6,,,,,1,52
+Geelong,2022,6,West Coast,14,W,12,8,4,9,17,,,,5,,3,2,4,1,2,,5,12,,,,,,61
+Geelong,2022,7,Richmond,15,W,12,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,13 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+St Kilda,1898,1,Geelong,2,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1898,2,Fitzroy,3,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1898,3,Essendon,4,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1898,4,South Melbourne,5,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1898,5,Geelong,9,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1898,6,Fitzroy,10,L,,,,,,1,,,,,,,,,,,,,,,,,,
+St Kilda,1898,7,Essendon,11,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1898,8,South Melbourne,12,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1898,9,Collingwood,13,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1900,10,South Melbourne,9,L,,,,,,,,,,,,,,,,,,,,,,,,
+Geelong,1905,11,Fitzroy,3,L,,,,,,,,,,,,,,,,,,,,,,,,
+Geelong,1905,12,St Kilda,4,L,,,,,,,,,,,,,,,,,,,,,,,,

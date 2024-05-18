@@ -1,0 +1,6 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Hawthorn,1979,1,Melbourne,8,W,11,4,,2,6,,,,,,,,,1,2,,,,,,,,,
+Hawthorn,1979,2,Essendon,20,W,11,4,2,1,5,,,,,,,,,1,2,,,,,,,,,
+Hawthorn,1979,3,North Melbourne,21,L,11,10,1,5,15,,1,,,,,,,4,1,,,,,,,,,
+Hawthorn,1979,4,Footscray,22,W,11,2,1,,2,,,,,,,,,,,,,,,,,,,
+Hawthorn,1980,5,North Melbourne,9,L,11,7,,3,10,,,,,,,,,1,2,,,,,,,,,

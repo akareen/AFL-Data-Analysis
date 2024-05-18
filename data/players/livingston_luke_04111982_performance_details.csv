@@ -1,0 +1,47 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Carlton,2002,1,Port Adelaide,4,L,4,6,5,1,7,,,,1,3,2,,,,,,1,6,1,,,,,
+Carlton,2002,2,Kangaroos,5,L,4,3,1,6,9,,,,2,3,,,2,,2,,3,6,,,1,,,
+Carlton,2002,3,Hawthorn,8,L,4,5,6,5,10,,,,,2,2,1,1,,,,4,6,2,,3,,,
+Carlton,2002,4,Adelaide,9,L,4,,,2,2,,,,,1,,,,1,,,2,,,,6,,,
+Carlton,2002,5,Fremantle,10,L,4,3,1,2,5,,,,,,1,,1,,1,,,4,,,1,,,
+Carlton,2002,6,Geelong,11,L,4,3,3,3,6,,,1,,2,,,2,,1,,2,4,1,,7,,,
+Carlton,2002,7,West Coast,12,L,4,5,4,2,7,,,,2,4,,1,3,,1,,3,4,1,,8,,,
+Carlton,2002,8,Brisbane Lions,13,L,4,4,1,2,6,,,,,2,,,1,,1,,2,3,,,4,,,
+Carlton,2002,9,Richmond,14,W,4,6,3,4,10,,,,3,1,1,,3,,1,,2,7,1,,4,1,,
+Carlton,2002,10,Melbourne,15,L,4,1,2,4,5,,,1,1,,,,,,,,3,2,2,,3,,,
+Carlton,2002,11,St Kilda,16,L,4,4,4,8,12,,,,,2,1,2,2,,1,,8,4,,,4,,,
+Carlton,2002,12,Sydney,17,L,4,7,6,,7,,2,,1,2,1,,1,1,,,2,5,1,2,4,,,
+Carlton,2002,13,Collingwood,18,L,4,5,6,2,7,,1,,,,3,,,,,,,7,,1,3,,,
+Carlton,2002,14,Port Adelaide,19,L,4,1,1,2,3,,,,1,,,,1,,,,1,2,,1,,,,
+Carlton,2002,15,Kangaroos,20,L,4,3,2,4,7,,,,3,2,,,,,,,3,4,1,,2,,,
+Carlton,2002,16,Western Bulldogs,21,W,4,8,6,3,11,,,,1,6,,,1,1,1,,3,8,,,4,,,
+Carlton,2002,17,Essendon,22,L,4,6,5,8,14,,,,2,3,,,1,2,,,4,9,1,,6,,,
+Carlton,2003,18,Port Adelaide,4,L,4,2,1,,2,,,,1,,,,3,,2,,1,1,,,2,,,80
+Carlton,2003,19,Kangaroos,5,W,4,1,1,,1,1,,,,,1,,2,,,,,1,,,,,,31
+Carlton,2003,20,Hawthorn,6,L,4,,,,,,,,2,,,,,,,,,,,,,,,19
+Carlton,2003,21,Western Bulldogs,8,W,4,2,,3,5,,,,1,1,,,1,,,,4,1,,,2,,,35
+Carlton,2003,22,Brisbane Lions,9,L,4,1,1,2,3,,,,,,,,1,,,,1,2,,,1,,,32
+Carlton,2003,23,Essendon,18,L,4,6,4,2,8,,1,,,1,1,,,1,,,2,7,,2,2,2,,64
+Carlton,2003,24,Port Adelaide,19,L,4,4,5,5,9,,,,,1,,,1,1,1,,7,3,2,,3,,,91
+Carlton,2003,25,St Kilda,20,L,4,5,4,9,14,1,,,4,1,2,,5,1,2,,7,9,,1,3,,,100
+Carlton,2003,26,Hawthorn,21,L,4,6,6,5,11,,,,,5,,,1,,,,3,8,,,6,,,100
+Carlton,2003,27,Kangaroos,22,L,4,2,,,2,,,,,1,,,1,,1,,1,1,,,5,,,52
+Carlton,2004,28,Fremantle,18,L,4,4,2,4,8,,,,4,3,1,,2,2,,,4,4,,,5,3,,100
+Carlton,2004,29,Essendon,19,W,4,5,,2,7,,,,1,4,,,,1,,,5,2,,,5,,,100
+Carlton,2004,30,West Coast,20,L,4,3,,2,5,,,,2,1,,,4,,,,,5,,,2,,,100
+Carlton,2004,31,Melbourne,21,W,4,,,4,4,,,,2,1,,,1,,,,4,,,,6,,,100
+Carlton,2004,32,Collingwood,22,W,4,1,,,1,,,,,1,,,2,,2,,1,,,,,,,16
+Carlton,2005,33,Kangaroos,1,L,4,1,1,1,2,,,,1,1,,1,,1,,,2,1,,,3,,,47
+Carlton,2005,34,Adelaide,10,L,4,7,5,4,11,,,,2,2,1,,1,,,,4,7,,,4,,1,100
+Carlton,2005,35,Sydney,11,L,4,3,,3,6,,,1,3,3,,1,1,2,,,5,1,,,4,,,82
+Carlton,2005,36,Brisbane Lions,12,L,4,5,3,1,6,,,,2,1,,,,1,,,1,4,,,6,,,100
+Carlton,2005,37,West Coast,14,L,4,3,2,3,6,,,,1,1,,,,,,,1,4,,,2,,,100
+Carlton,2005,38,St Kilda,15,L,4,8,4,6,14,,,,2,5,,,5,1,2,,4,9,,,6,,,100
+Carlton,2005,39,Fremantle,16,L,4,6,3,2,8,,,,1,5,,,2,,,,2,5,,,1,3,,100
+Carlton,2005,40,Hawthorn,17,L,4,5,2,1,6,,,,4,3,1,,4,,1,,1,5,,,4,,,100
+Carlton,2005,41,Richmond,18,W,4,3,3,3,6,,,,4,1,,,2,1,1,,1,6,,,5,,,93
+Carlton,2006,42,Melbourne,1,W,4,5,4,2,7,,,,1,2,,,,,,,2,4,,,7,,,100
+Carlton,2006,43,Fremantle,2,L,4,4,3,1,5,,,,1,,,,1,,,,,4,,,1,,,51
+Carlton,2006,44,Adelaide,9,L,4,8,7,3,11,,,,3,3,,,1,,1,,2,9,1,,3,,,100
+Carlton,2006,45,Port Adelaide,10,L,4,2,2,6,8,,,,1,2,,1,,,,,3,6,,,2,,,75
+Carlton,2006,46,West Coast,11,L,4,4,3,2,6,,,,2,2,,,1,,,,1,4,,,3,1,,96

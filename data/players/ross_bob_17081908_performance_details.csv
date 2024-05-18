@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Collingwood,1929,1,Carlton,10,W,23,,,,,1,,,,,,,,,,,,,,,,,,
+Collingwood,1929,2,Essendon,11,W,23,,,,,1,,,,,,,,,,,,,,,,,,
+Collingwood,1929,3,Richmond,12,W,23,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1929,4,South Melbourne,14,W,23,,,,,1,,,,,,,,,,,,,,,,,,
+Collingwood,1930,5,Richmond,1,W,25,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1930,6,Hawthorn,2,W,25,,,,,1,,,,,,,,,,,,,,,,,,
+Collingwood,1930,7,South Melbourne,3,W,25,,,,,3,,,,,,,,,,,,,,,,,,
+Collingwood,1930,8,Geelong,4,L,25,,,,,1,,,,,,,,,,,,,,,,,,
+Collingwood,1930,9,North Melbourne,13,W,25,,,,,1,,,,,,,,,,,,,,,,,,
+Collingwood,1931,10,Hawthorn,2,W,24,,,,,1,,,,,,,,,,,,,,,,,,

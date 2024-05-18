@@ -1,0 +1,163 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,M.C.G.,2020-03-19 19:40,2020,Richmond,7,2,11,3,14,5,16,9,Carlton,2,1,3,5,8,7,12,9
+1,Docklands,2020-03-20 19:50,2020,Western Bulldogs,1,0,4,0,5,2,5,4,Collingwood,5,2,8,6,10,7,13,8
+1,Docklands,2020-03-21 14:10,2020,Essendon,5,2,7,5,8,8,9,9,Fremantle,2,1,3,3,4,6,8,9
+1,Adelaide Oval,2020-03-21 16:35,2020,Adelaide,6,0,7,1,9,2,11,5,Sydney,3,0,8,3,11,4,11,8
+1,Carrara,2020-03-21 18:40,2020,Gold Coast,1,1,3,2,4,5,4,5,Port Adelaide,4,2,9,6,9,9,10,16
+1,Sydney Showground,2020-03-21 19:40,2020,Greater Western Sydney,5,0,9,1,13,3,17,3,Geelong,4,2,6,6,8,7,11,7
+1,Docklands,2020-03-22 13:05,2020,North Melbourne,1,1,2,2,6,7,8,8,St Kilda,3,3,6,7,6,11,7,12
+1,M.C.G.,2020-03-22 15:35,2020,Hawthorn,3,1,6,2,10,2,14,6,Brisbane Lions,3,3,4,5,7,7,9,8
+1,Perth Stadium,2020-03-22 15:40,2020,West Coast,5,1,7,3,11,6,12,6,Melbourne,0,4,3,6,5,9,7,9
+2,M.C.G.,2020-06-11 19:40,2020,Collingwood,4,1,5,3,5,4,5,6,Richmond,0,1,3,1,5,2,5,6
+2,Kardinia Park,2020-06-12 19:50,2020,Geelong,5,2,7,4,13,6,17,6,Hawthorn,4,1,6,4,7,5,7,5
+2,Gabba,2020-06-13 13:45,2020,Brisbane Lions,4,2,8,2,11,5,12,9,Fremantle,3,0,7,3,8,5,10,9
+2,Docklands,2020-06-13 16:35,2020,Carlton,0,0,2,5,4,6,7,11,Melbourne,5,2,7,4,8,5,8,6
+2,Adelaide Oval,2020-06-13 19:10,2020,Port Adelaide,4,2,8,4,14,7,17,8,Adelaide,2,1,3,2,4,3,5,5
+2,Carrara,2020-06-13 19:40,2020,Gold Coast,2,0,6,2,11,4,14,6,West Coast,1,4,5,5,6,8,6,10
+2,Sydney Showground,2020-06-14 13:05,2020,Greater Western Sydney,1,4,2,6,5,10,8,12,North Melbourne,1,2,2,6,6,8,12,8
+2,S.C.G.,2020-06-14 15:35,2020,Sydney,2,0,5,3,9,4,11,7,Essendon,5,2,6,3,10,6,12,7
+2,Docklands,2020-06-14 18:05,2020,St Kilda,3,1,7,3,12,4,14,4,Western Bulldogs,2,4,3,4,5,6,7,7
+3,M.C.G.,2020-06-18 19:40,2020,Richmond,0,1,2,1,3,3,5,9,Hawthorn,5,3,7,3,10,5,11,5
+3,Docklands,2020-06-19 19:50,2020,Western Bulldogs,2,5,4,6,7,8,8,9,Greater Western Sydney,1,2,1,4,3,5,4,9
+3,Docklands,2020-06-20 13:45,2020,North Melbourne,2,3,3,9,5,11,8,12,Sydney,2,1,5,3,10,8,10,11
+3,M.C.G.,2020-06-20 16:35,2020,Collingwood,5,3,10,4,11,7,12,9,St Kilda,2,1,4,2,5,6,5,7
+3,Kardinia Park,2020-06-20 19:40,2020,Geelong,1,2,4,6,6,7,11,11,Carlton,5,3,9,5,12,6,12,7
+3,Gabba,2020-06-20 19:40,2020,Brisbane Lions,1,2,2,6,7,9,10,14,West Coast,2,1,3,4,5,4,6,8
+3,Carrara,2020-06-21 15:05,2020,Gold Coast,2,7,6,7,10,8,12,10,Adelaide,0,0,1,2,1,4,4,5
+3,Carrara,2020-06-21 20:10,2020,Fremantle,4,1,4,1,5,2,6,5,Port Adelaide,3,1,8,5,9,7,10,10
+4,S.C.G.,2020-06-25 19:40,2020,Sydney,0,1,1,3,2,8,5,9,Western Bulldogs,3,2,6,3,7,4,10,7
+4,Sydney Showground,2020-06-26 19:50,2020,Greater Western Sydney,1,3,4,4,8,6,10,6,Collingwood,2,2,4,4,8,5,9,10
+4,Carrara,2020-06-27 13:45,2020,Port Adelaide,4,4,6,7,10,11,13,11,West Coast,1,2,2,4,5,4,6,5
+4,Docklands,2020-06-27 16:35,2020,St Kilda,5,2,8,2,12,2,15,3,Richmond,4,1,6,3,9,5,10,7
+4,M.C.G.,2020-06-27 19:40,2020,Essendon,2,1,4,1,6,2,8,3,Carlton,3,0,5,3,5,8,7,10
+4,Carrara,2020-06-27 19:40,2020,Gold Coast,2,0,7,0,8,2,10,4,Fremantle,3,0,6,0,8,2,8,3
+4,Gabba,2020-06-28 13:05,2020,Brisbane Lions,3,3,7,10,7,15,10,23,Adelaide,1,0,2,0,6,3,7,4
+4,M.C.G.,2020-06-28 15:35,2020,Melbourne,0,1,2,3,3,5,6,8,Geelong,2,1,2,2,6,4,7,5
+4,Docklands,2020-06-28 18:10,2020,Hawthorn,2,3,5,6,7,6,8,10,North Melbourne,2,1,4,3,4,3,8,6
+5,Docklands,2020-07-02 19:40,2020,Carlton,1,1,2,4,5,6,8,7,St Kilda,4,3,7,4,9,5,11,7
+5,M.C.G.,2020-07-03 19:50,2020,Collingwood,3,0,3,1,3,5,7,6,Essendon,3,0,5,0,8,2,10,3
+5,Carrara,2020-07-04 13:45,2020,West Coast,3,1,5,4,8,9,11,11,Sydney,3,3,4,5,5,6,6,7
+5,Kardinia Park,2020-07-04 16:35,2020,Geelong,4,3,5,6,10,7,13,11,Gold Coast,1,1,5,2,8,4,8,4
+5,Docklands,2020-07-04 19:40,2020,Western Bulldogs,2,2,5,5,10,6,13,9,North Melbourne,1,2,2,3,3,5,5,8
+5,Gabba,2020-07-04 19:40,2020,Brisbane Lions,2,1,8,6,11,11,12,13,Port Adelaide,1,6,2,7,4,10,6,12
+5,Carrara,2020-07-05 13:05,2020,Adelaide,0,3,1,6,4,8,4,10,Fremantle,3,0,4,1,5,3,8,6
+5,M.C.G.,2020-07-05 15:35,2020,Melbourne,3,1,3,2,5,2,8,4,Richmond,3,2,7,3,9,7,12,7
+5,Sydney Showground,2020-07-05 18:10,2020,Greater Western Sydney,4,1,5,2,11,3,13,5,Hawthorn,0,2,3,4,7,6,7,7
+6,S.C.G.,2020-07-09 19:40,2020,Geelong,1,4,3,4,10,7,11,7,Brisbane Lions,1,6,4,8,4,9,6,10
+6,Sydney Showground,2020-07-10 19:50,2020,Collingwood,5,1,6,5,7,8,8,11,Hawthorn,1,0,2,1,2,2,3,9
+6,Carrara,2020-07-11 12:35,2020,Fremantle,1,2,6,4,9,7,12,7,St Kilda,7,2,8,5,8,5,11,7
+6,Gabba,2020-07-11 15:05,2020,West Coast,2,3,4,4,8,7,10,7,Adelaide,1,1,2,1,3,3,5,4
+6,Sydney Showground,2020-07-11 18:05,2020,Melbourne,2,1,6,5,8,8,12,8,Gold Coast,3,2,5,4,8,5,9,9
+6,Carrara,2020-07-11 19:40,2020,Essendon,2,5,5,11,8,11,9,13,North Melbourne,3,4,4,7,6,11,7,11
+6,Carrara,2020-07-12 13:05,2020,Port Adelaide,1,2,4,4,5,6,9,9,Greater Western Sydney,0,1,2,5,4,9,6,10
+6,Gabba,2020-07-12 15:35,2020,Richmond,3,3,3,5,4,7,4,10,Sydney,1,3,2,3,2,5,3,8
+6,Carrara,2020-07-12 18:45,2020,Carlton,5,2,8,5,10,6,16,7,Western Bulldogs,2,1,5,2,7,6,7,9
+7,Perth Stadium,2020-07-16 18:10,2020,Geelong,1,1,1,3,3,5,5,5,Collingwood,2,2,4,3,5,7,8,9
+7,Carrara,2020-07-17 19:50,2020,Essendon,3,3,4,3,4,6,7,9,Western Bulldogs,4,1,6,4,11,7,14,9
+7,Sydney Showground,2020-07-18 13:45,2020,Greater Western Sydney,2,3,4,4,8,5,10,8,Brisbane Lions,4,4,7,5,10,6,13,10
+7,S.C.G.,2020-07-18 16:35,2020,Sydney,2,1,5,3,9,3,9,6,Gold Coast,2,3,6,7,10,13,13,14
+7,Carrara,2020-07-18 19:40,2020,Richmond,4,3,6,5,9,7,11,11,North Melbourne,0,0,2,3,2,6,2,11
+7,Gabba,2020-07-19 13:05,2020,Carlton,4,2,5,4,6,6,9,7,Port Adelaide,4,1,6,4,7,6,9,10
+7,Sydney Showground,2020-07-19 15:35,2020,Hawthorn,1,2,2,3,4,6,7,6,Melbourne,3,2,7,3,11,6,14,7
+7,Perth Stadium,2020-07-19 16:35,2020,Fremantle,2,0,4,1,4,1,5,2,West Coast,2,2,6,4,8,7,9,8
+7,Adelaide Oval,2020-07-20 19:10,2020,Adelaide,1,2,4,2,5,6,8,7,St Kilda,3,2,7,4,8,4,12,6
+8,Carrara,2020-07-23 19:40,2020,Gold Coast,2,1,3,4,5,6,6,10,Western Bulldogs,2,3,3,6,5,8,7,9
+8,Sydney Showground,2020-07-24 19:50,2020,Greater Western Sydney,3,4,5,4,8,6,9,8,Richmond,2,6,3,9,6,10,6,14
+8,Gabba,2020-07-25 13:05,2020,North Melbourne,1,2,5,2,8,2,9,3,Carlton,5,1,7,2,8,7,9,10
+8,S.C.G.,2020-07-25 15:35,2020,Sydney,2,1,5,1,8,2,9,6,Hawthorn,3,3,5,3,6,6,7,11
+8,Adelaide Oval,2020-07-25 19:10,2020,Port Adelaide,2,1,4,4,6,6,6,8,St Kilda,1,1,5,1,7,1,12,1
+8,Adelaide Oval,2020-07-26 12:35,2020,Adelaide,2,1,4,3,7,5,8,11,Essendon,2,1,5,4,8,5,9,8
+8,Perth Stadium,2020-07-26 13:35,2020,West Coast,2,0,7,2,13,2,18,3,Collingwood,4,2,5,3,5,6,6,9
+8,Carrara,2020-07-26 18:10,2020,Melbourne,2,2,3,3,4,6,7,7,Brisbane Lions,2,2,5,5,7,6,7,11
+8,Perth Stadium,2020-07-27 18:10,2020,Fremantle,0,2,0,3,1,3,2,4,Geelong,1,2,2,9,3,9,6,12
+9,Carrara,2020-07-29 19:10,2020,Western Bulldogs,1,1,3,5,4,7,7,7,Richmond,4,3,10,4,11,10,13,12
+9,Gabba,2020-07-30 19:50,2020,Melbourne,0,2,1,3,3,5,4,8,Port Adelaide,3,2,6,6,10,9,12,11
+9,Perth Stadium,2020-07-31 15:40,2020,Carlton,5,1,6,2,7,4,9,4,Hawthorn,2,0,8,3,11,4,14,5
+9,Carrara,2020-07-31 20:10,2020,Essendon,1,3,2,3,3,4,3,10,Brisbane Lions,5,3,5,5,10,6,14,7
+9,Carrara,2020-08-01 14:35,2020,North Melbourne,4,1,9,1,12,2,19,5,Adelaide,0,2,3,3,6,7,7,8
+9,Gabba,2020-08-01 17:10,2020,St Kilda,3,3,7,4,9,6,15,11,Sydney,2,1,3,6,5,10,6,12
+9,Perth Stadium,2020-08-01 18:10,2020,West Coast,3,0,4,2,7,6,11,7,Geelong,4,0,7,0,9,2,10,4
+9,Carrara,2020-08-02 15:35,2020,Gold Coast,0,3,2,4,2,7,4,11,Greater Western Sydney,2,4,4,5,5,7,9,7
+9,Perth Stadium,2020-08-02 16:10,2020,Fremantle,0,0,4,1,6,1,10,1,Collingwood,1,2,2,4,6,5,7,7
+10,Adelaide Oval,2020-08-03 18:40,2020,Port Adelaide,1,2,3,2,7,5,8,7,Western Bulldogs,2,5,3,5,3,6,5,12
+10,Carrara,2020-08-04 19:10,2020,Richmond,3,3,8,5,9,6,12,10,Brisbane Lions,2,3,3,8,3,15,4,17
+10,Gabba,2020-08-05 17:40,2020,Geelong,4,2,5,8,8,11,13,12,North Melbourne,3,1,3,2,5,2,9,3
+10,Adelaide Oval,2020-08-05 19:40,2020,Adelaide,2,4,4,5,4,7,5,7,Melbourne,3,2,5,4,6,7,13,10
+10,Gabba,2020-08-06 17:40,2020,Collingwood,0,6,2,10,5,11,6,14,Sydney,1,0,5,0,5,2,6,5
+10,Carrara,2020-08-06 20:10,2020,Gold Coast,2,1,6,5,8,7,11,8,St Kilda,3,2,6,2,9,4,12,6
+10,Carrara,2020-08-07 19:50,2020,Essendon,0,2,6,3,7,5,8,7,Greater Western Sydney,0,2,2,5,4,7,8,11
+11,Adelaide Oval,2020-08-08 16:05,2020,Port Adelaide,4,4,8,6,10,11,13,15,Richmond,3,3,7,3,11,6,11,6
+11,Gabba,2020-08-08 19:40,2020,Brisbane Lions,3,4,9,8,13,10,14,12,Western Bulldogs,3,1,5,2,8,2,11,6
+11,Perth Stadium,2020-08-09 13:35,2020,West Coast,2,2,3,3,8,4,11,6,Carlton,2,0,5,4,6,5,7,8
+11,Adelaide Oval,2020-08-09 17:40,2020,Melbourne,1,4,4,7,7,8,13,14,North Melbourne,3,2,4,2,5,4,5,5
+11,Gabba,2020-08-10 18:10,2020,St Kilda,2,1,4,6,4,8,4,10,Geelong,2,4,7,5,11,7,14,9
+11,Perth Stadium,2020-08-10 18:40,2020,Fremantle,3,1,4,4,7,4,7,6,Hawthorn,1,1,2,4,2,6,4,8
+11,Adelaide Oval,2020-08-11 18:05,2020,Adelaide,2,1,3,4,3,8,5,8,Collingwood,1,0,2,1,7,1,10,2
+11,Carrara,2020-08-12 19:10,2020,Gold Coast,3,1,7,4,9,5,11,7,Essendon,1,3,4,3,7,5,11,7
+12,Perth Stadium,2020-08-13 18:10,2020,Sydney,3,1,5,2,6,5,10,6,Greater Western Sydney,0,1,1,3,2,6,3,7
+12,Carrara,2020-08-14 19:50,2020,Geelong,2,3,4,3,7,7,14,7,Port Adelaide,0,1,1,6,3,7,4,7
+12,Carrara,2020-08-15 14:35,2020,North Melbourne,1,3,3,3,4,3,8,4,Brisbane Lions,1,5,3,6,5,9,7,11
+12,Gabba,2020-08-15 17:10,2020,Melbourne,3,3,10,4,12,4,16,4,Collingwood,1,1,5,2,6,6,6,8
+12,Perth Stadium,2020-08-15 18:10,2020,Fremantle,3,2,4,3,5,4,5,6,Carlton,0,1,2,3,4,8,5,10
+12,Carrara,2020-08-16 13:05,2020,Western Bulldogs,6,3,8,8,12,12,16,15,Adelaide,4,1,5,3,5,5,8,6
+12,Gabba,2020-08-16 15:35,2020,St Kilda,4,4,7,5,9,5,10,8,Essendon,1,0,2,0,4,1,5,3
+12,Perth Stadium,2020-08-16 16:10,2020,West Coast,3,4,6,5,11,7,12,9,Hawthorn,0,0,2,3,5,6,7,7
+12,Gabba,2020-08-17 19:10,2020,Richmond,2,1,2,2,5,2,8,5,Gold Coast,2,1,3,6,3,8,4,8
+13,Marrara Oval,2020-08-21 19:20,2020,Gold Coast,0,0,2,0,3,2,4,3,Carlton,1,4,5,7,6,11,7,18
+13,Carrara,2020-08-22 13:45,2020,Western Bulldogs,2,4,4,4,10,5,12,8,Melbourne,1,3,5,5,5,8,7,10
+13,Adelaide Oval,2020-08-22 16:05,2020,Port Adelaide,2,3,6,5,7,10,9,14,Hawthorn,4,1,5,2,8,4,9,4
+13,Marrara Oval,2020-08-22 19:15,2020,Essendon,1,1,3,1,6,1,10,1,Richmond,1,5,3,8,7,10,10,13
+13,Perth Stadium,2020-08-22 18:10,2020,Fremantle,1,1,4,4,5,7,7,8,Sydney,1,2,1,4,1,4,2,7
+13,Adelaide Oval,2020-08-23 12:35,2020,Adelaide,1,3,3,4,5,6,5,7,Geelong,3,2,4,5,6,9,9,11
+13,Gabba,2020-08-23 15:35,2020,Brisbane Lions,2,5,3,6,6,13,6,14,St Kilda,1,0,3,2,6,3,7,6
+13,Perth Stadium,2020-08-23 16:10,2020,West Coast,4,3,5,4,8,7,9,7,Greater Western Sydney,0,1,1,6,3,6,7,7
+13,Gabba,2020-08-24 19:10,2020,Collingwood,1,2,4,3,8,3,10,5,North Melbourne,2,1,3,4,5,5,5,5
+14,Adelaide Oval,2020-08-27 16:10,2020,Hawthorn,3,4,7,10,8,10,10,11,Essendon,1,3,2,4,7,7,13,9
+14,Carrara,2020-08-27 19:10,2020,Richmond,1,1,5,2,11,2,14,4,West Coast,1,0,4,2,8,6,9,7
+14,Carrara,2020-08-28 19:50,2020,Western Bulldogs,6,3,6,6,7,7,9,7,Geelong,0,3,3,6,5,9,10,12
+14,Adelaide Oval,2020-08-29 13:15,2020,Port Adelaide,4,3,8,3,8,4,11,7,Sydney,3,1,3,1,5,4,7,5
+14,Perth Stadium,2020-08-29 14:35,2020,Fremantle,1,1,2,3,5,3,8,5,Greater Western Sydney,4,2,6,4,11,7,14,7
+14,Traeger Park,2020-08-29 19:10,2020,Melbourne,4,0,5,1,7,3,8,4,St Kilda,1,3,4,5,6,6,7,7
+14,Gabba,2020-08-30 15:35,2020,Carlton,2,0,7,2,7,4,7,6,Collingwood,2,2,5,6,6,8,10,12
+14,Carrara,2020-08-30 18:10,2020,Gold Coast,3,4,7,8,8,14,12,19,North Melbourne,2,1,4,1,4,4,4,4
+15,Adelaide Oval,2020-09-01 17:10,2020,Hawthorn,1,3,4,3,6,5,7,6,Adelaide,2,4,6,6,9,9,12,11
+15,Gabba,2020-09-01 20:10,2020,West Coast,4,1,7,3,9,5,9,6,Essendon,1,4,4,5,5,8,6,9
+15,Carrara,2020-09-02 19:10,2020,Richmond,2,2,4,3,4,4,8,8,Fremantle,1,0,1,2,3,4,4,5
+15,Cazaly's Stadium,2020-09-03 16:40,2020,Sydney,2,0,7,2,7,4,10,7,Melbourne,2,3,2,4,3,7,6,10
+15,Carrara,2020-09-03 19:10,2020,Greater Western Sydney,1,5,1,9,2,11,6,12,Carlton,4,0,4,3,5,8,5,9
+15,Gabba,2020-09-04 19:50,2020,Brisbane Lions,0,2,5,3,6,5,6,6,Collingwood,1,1,2,3,3,3,5,4
+16,Carrara,2020-09-05 19:40,2020,North Melbourne,1,2,2,2,4,4,6,6,Port Adelaide,4,2,4,5,10,8,11,12
+16,Carrara,2020-09-06 13:05,2020,St Kilda,4,4,5,8,7,13,11,14,Hawthorn,5,1,5,5,6,6,9,12
+16,Gabba,2020-09-06 15:35,2020,Geelong,6,2,12,3,14,4,17,6,Essendon,1,2,2,4,3,8,5,12
+16,Carrara,2020-09-06 18:10,2020,Western Bulldogs,0,3,3,8,4,10,6,13,West Coast,4,1,4,2,5,3,7,5
+16,Cazaly's Stadium,2020-09-07 19:10,2020,Melbourne,0,1,1,3,2,4,4,9,Fremantle,1,6,1,9,4,9,6,11
+16,Adelaide Oval,2020-09-08 17:10,2020,Adelaide,3,3,3,7,8,7,8,11,Greater Western Sydney,1,1,3,3,6,3,7,5
+16,Carrara,2020-09-08 20:10,2020,Carlton,0,4,4,4,6,9,8,9,Sydney,3,0,7,2,8,3,8,4
+16,Gabba,2020-09-09 19:10,2020,Brisbane Lions,5,4,8,6,11,10,13,10,Gold Coast,1,0,4,3,5,5,6,7
+17,Gabba,2020-09-10 19:10,2020,St Kilda,3,5,3,5,3,9,6,14,West Coast,2,1,5,6,5,9,9,11
+17,Carrara,2020-09-11 19:50,2020,Geelong,0,3,1,4,1,5,4,7,Richmond,2,5,3,5,5,13,7,15
+17,Carrara,2020-09-12 14:10,2020,North Melbourne,1,0,2,2,3,4,5,5,Fremantle,3,3,7,4,11,6,15,9
+17,Adelaide Oval,2020-09-12 16:35,2020,Port Adelaide,1,2,6,7,7,13,11,13,Essendon,2,1,2,3,3,3,4,5
+17,Gabba,2020-09-12 19:40,2020,Greater Western Sydney,2,3,7,5,10,7,11,8,Melbourne,5,2,7,5,9,6,12,7
+17,Carrara,2020-09-13 13:05,2020,Carlton,0,2,1,3,4,5,8,8,Adelaide,5,3,8,5,8,8,10,12
+17,Adelaide Oval,2020-09-13 15:05,2020,Hawthorn,1,1,1,2,5,3,6,4,Western Bulldogs,4,1,7,6,9,7,11,10
+17,Cazaly's Stadium,2020-09-13 18:10,2020,Sydney,2,0,2,0,3,3,6,5,Brisbane Lions,1,1,3,3,5,4,11,7
+17,Gabba,2020-09-14 19:10,2020,Collingwood,2,2,4,5,7,5,10,8,Gold Coast,3,1,3,5,5,6,6,10
+18,Carrara,2020-09-17 19:10,2020,North Melbourne,2,4,2,6,3,10,4,10,West Coast,0,0,3,1,4,4,7,7
+18,Gabba,2020-09-18 19:50,2020,St Kilda,3,3,5,5,8,9,12,10,Greater Western Sydney,1,5,3,8,3,10,3,12
+18,Carrara,2020-09-19 14:10,2020,Essendon,2,0,2,2,3,3,7,7,Melbourne,1,4,6,6,7,7,10,8
+18,Adelaide Oval,2020-09-19 16:40,2020,Adelaide,2,2,2,4,3,5,4,9,Richmond,3,0,5,0,9,5,12,5
+18,Gabba,2020-09-19 19:40,2020,Brisbane Lions,3,2,8,5,9,7,11,12,Carlton,4,0,4,1,6,1,10,1
+18,Adelaide Oval,2020-09-20 12:35,2020,Hawthorn,7,1,9,3,13,6,17,6,Gold Coast,1,1,3,5,5,5,8,9
+18,Carrara,2020-09-20 15:35,2020,Sydney,5,4,5,8,7,9,9,9,Geelong,4,1,4,3,7,7,10,9
+18,Cazaly's Stadium,2020-09-20 18:10,2020,Fremantle,2,2,5,4,6,5,6,8,Western Bulldogs,2,3,7,4,8,8,11,8
+18,Gabba,2020-09-21 19:15,2020,Collingwood,2,0,4,0,6,1,7,3,Port Adelaide,2,2,5,3,8,7,9,7
+Qualifying Final,Adelaide Oval,2020-10-01 19:10,2020,Port Adelaide,2,1,4,2,7,4,9,4,Geelong,1,4,3,7,4,8,5,12
+Qualifying Final,Gabba,2020-10-02 19:50,2020,Brisbane Lions,3,1,7,2,9,6,10,9,Richmond,4,1,5,1,6,3,8,6
+Elimination Final,Gabba,2020-10-03 16:40,2020,St Kilda,2,2,5,4,9,6,10,7,Western Bulldogs,3,1,4,3,5,6,9,10
+Elimination Final,Perth Stadium,2020-10-03 18:10,2020,West Coast,1,2,5,4,7,6,11,9,Collingwood,4,0,6,1,9,4,12,4
+Semi Final,Carrara,2020-10-09 18:50,2020,Richmond,5,1,9,1,10,4,12,8,St Kilda,2,2,3,6,5,11,6,13
+Semi Final,Gabba,2020-10-10 18:40,2020,Geelong,4,4,9,6,9,8,15,10,Collingwood,1,0,1,0,1,1,5,2
+Preliminary Final,Adelaide Oval,2020-10-16 19:20,2020,Port Adelaide,2,3,3,3,4,4,6,4,Richmond,2,1,3,3,4,6,6,10
+Preliminary Final,Gabba,2020-10-17 18:40,2020,Brisbane Lions,2,0,4,3,5,5,6,6,Geelong,2,5,4,8,7,11,11,16
+Grand Final,Gabba,2020-10-24 18:30,2020,Richmond,2,1,3,2,7,4,12,9,Geelong,2,2,5,5,6,8,7,8

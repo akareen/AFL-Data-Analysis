@@ -1,0 +1,120 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Western Oval,1946-04-20 14:45,1946,Footscray,2,0,7,7,8,8,15,10,Essendon,4,3,6,6,11,12,14,14
+1,Brunswick St,1946-04-20 14:45,1946,Fitzroy,1,2,4,8,7,9,12,11,Richmond,2,1,8,2,10,9,12,15
+1,Punt Rd,1946-04-20 14:45,1946,Melbourne,8,2,15,5,15,9,20,17,Geelong,2,6,7,11,8,13,12,19
+1,Junction Oval,1946-04-22 14:45,1946,South Melbourne,3,4,8,6,14,9,16,13,Carlton,6,0,11,3,14,5,18,9
+1,Glenferrie Oval,1946-04-22 14:45,1946,Hawthorn,1,6,3,10,5,12,7,19,Collingwood,3,2,7,7,12,11,18,16
+1,Arden St,1946-04-22 14:45,1946,North Melbourne,4,5,10,15,12,17,19,23,St Kilda,6,3,8,3,12,6,12,6
+2,Princes Park,1946-04-27 14:45,1946,Carlton,3,3,5,5,6,10,9,12,Melbourne,2,3,5,9,9,10,10,12
+2,Victoria Park,1946-04-27 14:45,1946,Collingwood,2,6,5,8,8,11,10,14,Fitzroy,5,2,6,5,8,7,8,10
+2,Windy Hill,1946-04-27 14:45,1946,Essendon,2,3,7,7,7,9,10,11,South Melbourne,2,1,4,3,7,5,8,5
+2,Junction Oval,1946-04-27 14:45,1946,St Kilda,4,2,5,2,8,3,11,3,Footscray,2,5,9,13,12,18,16,21
+2,Kardinia Park,1946-04-27 14:45,1946,Geelong,3,3,6,14,11,14,15,14,Hawthorn,0,4,2,6,7,10,9,19
+2,Punt Rd,1946-04-27 14:45,1946,Richmond,4,6,9,9,13,14,15,15,North Melbourne,4,4,10,9,13,11,19,19
+3,Glenferrie Oval,1946-05-04 14:45,1946,Hawthorn,4,4,8,8,10,10,15,11,Carlton,5,6,11,11,14,13,19,17
+3,Arden St,1946-05-04 14:45,1946,North Melbourne,3,3,5,7,7,10,10,14,Collingwood,4,1,7,7,9,11,12,12
+3,Windy Hill,1946-05-04 14:45,1946,Essendon,10,5,12,8,18,11,21,15,Melbourne,2,1,6,7,7,10,12,13
+3,Brunswick St,1946-05-04 14:45,1946,Fitzroy,3,7,10,9,14,14,20,19,Geelong,0,3,1,6,5,8,9,9
+3,Junction Oval,1946-05-04 14:45,1946,South Melbourne,4,5,7,9,10,10,12,14,Footscray,3,6,5,12,10,15,14,18
+3,Punt Rd,1946-05-04 14:45,1946,Richmond,4,5,8,6,11,11,16,14,St Kilda,0,7,2,8,4,14,6,15
+4,Princes Park,1946-05-11 14:45,1946,Carlton,1,3,3,6,5,12,6,16,Fitzroy,4,4,6,7,10,13,16,18
+4,Junction Oval,1946-05-11 14:45,1946,St Kilda,5,3,8,3,11,7,13,7,Collingwood,3,2,7,8,10,9,14,20
+4,Glenferrie Oval,1946-05-11 14:45,1946,Hawthorn,1,1,3,3,7,4,8,6,Essendon,6,2,13,4,16,10,24,13
+4,Western Oval,1946-05-11 14:45,1946,Footscray,3,2,11,8,12,11,19,19,Richmond,4,6,8,8,16,10,17,10
+4,Kardinia Park,1946-05-11 14:45,1946,Geelong,4,5,6,8,10,15,11,18,North Melbourne,4,3,11,9,14,10,19,12
+4,Punt Rd,1946-05-11 14:45,1946,Melbourne,3,6,6,8,7,11,12,15,South Melbourne,1,5,4,6,8,8,11,8
+5,Princes Park,1946-05-18 14:45,1946,Carlton,2,5,5,7,8,10,11,15,North Melbourne,1,3,7,6,8,8,9,11
+5,Victoria Park,1946-05-18 14:45,1946,Collingwood,0,6,0,8,2,12,2,16,Richmond,3,4,4,7,8,8,14,10
+5,Windy Hill,1946-05-18 14:45,1946,Essendon,4,1,7,5,9,13,11,13,Fitzroy,0,4,2,8,4,10,4,15
+5,Punt Rd,1946-05-18 14:45,1946,Melbourne,6,8,9,8,11,11,12,13,Footscray,2,0,11,6,14,7,22,14
+5,Kardinia Park,1946-05-18 14:45,1946,Geelong,3,0,8,4,9,5,11,8,St Kilda,6,4,7,7,12,13,13,17
+5,Junction Oval,1946-05-18 14:45,1946,South Melbourne,1,1,5,9,6,12,11,21,Hawthorn,3,5,3,5,6,13,6,17
+6,Junction Oval,1946-05-25 14:45,1946,St Kilda,2,4,5,6,8,11,10,12,Carlton,2,1,7,11,11,14,22,17
+6,Western Oval,1946-05-25 14:45,1946,Footscray,5,5,6,5,9,12,10,12,Collingwood,0,1,5,8,5,11,9,15
+6,Arden St,1946-05-25 14:45,1946,North Melbourne,1,1,1,6,3,6,5,13,Essendon,4,7,7,10,10,14,11,17
+6,Brunswick St,1946-05-25 14:45,1946,Fitzroy,2,4,2,9,3,15,7,21,South Melbourne,0,5,3,9,8,10,10,12
+6,Punt Rd,1946-05-25 14:45,1946,Richmond,6,11,10,14,14,20,21,23,Geelong,2,1,7,6,9,6,13,9
+6,Glenferrie Oval,1946-05-25 14:45,1946,Hawthorn,4,4,8,8,11,9,16,10,Melbourne,3,3,3,6,9,11,13,13
+7,Princes Park,1946-06-01 14:30,1946,Carlton,6,3,9,5,12,11,15,13,Richmond,2,0,6,7,7,8,11,10
+7,Kardinia Park,1946-06-01 14:30,1946,Geelong,2,3,4,5,8,7,10,8,Collingwood,4,2,9,4,12,8,20,12
+7,Windy Hill,1946-06-01 14:30,1946,Essendon,2,5,8,11,13,16,20,20,St Kilda,1,2,2,7,4,11,7,16
+7,Punt Rd,1946-06-01 14:30,1946,Melbourne,0,1,3,3,3,6,5,11,Fitzroy,4,4,7,7,12,8,14,13
+7,Glenferrie Oval,1946-06-01 14:30,1946,Hawthorn,4,5,7,7,11,12,13,12,Footscray,1,5,5,13,8,13,14,15
+7,Junction Oval,1946-06-01 14:30,1946,South Melbourne,3,4,6,10,9,14,10,16,North Melbourne,4,3,5,5,7,6,10,10
+8,Punt Rd,1946-06-08 14:30,1946,Richmond,3,1,4,2,9,8,10,10,Essendon,3,4,6,12,8,12,15,17
+8,Brunswick St,1946-06-08 14:30,1946,Fitzroy,3,3,7,6,11,11,14,14,Hawthorn,3,4,7,6,7,7,9,10
+8,Arden St,1946-06-08 14:30,1946,North Melbourne,0,0,5,2,5,2,9,2,Melbourne,1,2,1,5,3,8,3,9
+8,Victoria Park,1946-06-10 14:30,1946,Collingwood,7,5,10,6,14,13,16,16,Carlton,0,3,5,6,6,8,7,14
+8,Western Oval,1946-06-10 14:30,1946,Footscray,6,7,10,10,14,18,16,22,Geelong,0,3,2,6,2,7,7,13
+8,Junction Oval,1946-06-10 14:30,1946,St Kilda,3,3,5,3,6,3,7,5,South Melbourne,5,3,9,11,12,15,15,22
+9,Windy Hill,1946-06-15 14:30,1946,Essendon,3,7,8,10,11,16,16,22,Collingwood,4,3,7,7,10,9,11,10
+9,Western Oval,1946-06-15 14:30,1946,Footscray,6,2,8,3,14,5,16,10,Fitzroy,1,3,7,5,12,5,15,9
+9,Punt Rd,1946-06-15 14:30,1946,Melbourne,5,6,9,6,12,11,14,12,St Kilda,1,3,5,4,6,6,8,9
+9,Princes Park,1946-06-17 14:30,1946,Carlton,4,2,7,5,14,14,18,20,Geelong,3,2,6,8,9,10,13,11
+9,Glenferrie Oval,1946-06-17 14:30,1946,Hawthorn,7,3,9,7,15,14,17,20,North Melbourne,3,2,6,8,10,8,14,13
+9,Junction Oval,1946-06-17 14:30,1946,South Melbourne,7,5,12,10,14,14,18,16,Richmond,3,4,6,8,12,15,15,20
+10,Princes Park,1946-06-22 14:30,1946,Carlton,3,1,6,6,9,13,12,20,Footscray,3,3,6,4,10,8,13,10
+10,Victoria Park,1946-06-22 14:30,1946,Collingwood,4,3,11,6,13,11,18,17,South Melbourne,4,2,8,4,10,10,12,12
+10,Kardinia Park,1946-06-22 14:30,1946,Geelong,8,6,11,9,15,14,18,18,Essendon,1,1,5,9,7,14,12,15
+10,Arden St,1946-06-22 14:30,1946,North Melbourne,3,2,9,3,11,4,15,8,Fitzroy,4,3,5,7,10,10,13,10
+10,Junction Oval,1946-06-22 14:30,1946,St Kilda,1,5,5,13,6,15,10,24,Hawthorn,2,2,4,5,7,10,9,12
+10,Punt Rd,1946-06-22 14:30,1946,Richmond,3,4,3,8,9,14,9,16,Melbourne,5,3,7,5,11,5,13,8
+11,Windy Hill,1946-07-06 14:30,1946,Essendon,3,4,5,7,8,11,12,12,Carlton,3,2,5,4,8,7,9,9
+11,Punt Rd,1946-07-06 14:30,1946,Melbourne,2,1,5,4,10,8,13,13,Collingwood,4,7,4,8,10,9,10,9
+11,Brunswick St,1946-07-06 14:30,1946,Fitzroy,3,4,6,6,9,10,12,14,St Kilda,0,2,2,5,5,7,7,11
+11,Western Oval,1946-07-06 14:30,1946,Footscray,7,3,8,5,13,7,18,9,North Melbourne,1,1,6,6,7,9,9,12
+11,Junction Oval,1946-07-06 14:30,1946,South Melbourne,1,3,6,10,8,14,12,19,Geelong,3,3,4,5,5,8,7,12
+11,Glenferrie Oval,1946-07-06 14:30,1946,Hawthorn,1,1,3,4,6,5,9,6,Richmond,2,1,7,5,10,9,14,14
+12,Princes Park,1946-07-13 14:30,1946,Carlton,4,3,7,5,12,10,12,13,South Melbourne,4,3,7,12,9,13,11,18
+12,Victoria Park,1946-07-13 14:30,1946,Collingwood,6,4,10,7,14,17,15,23,Hawthorn,2,3,6,7,8,9,11,14
+12,Windy Hill,1946-07-13 14:30,1946,Essendon,3,4,7,10,11,14,16,24,Footscray,5,3,10,4,14,6,14,8
+12,Punt Rd,1946-07-13 14:30,1946,Richmond,3,1,6,5,10,10,14,14,Fitzroy,3,3,8,6,8,7,10,12
+12,Kardinia Park,1946-07-13 14:30,1946,Geelong,7,2,10,4,11,4,15,7,Melbourne,4,5,11,7,17,10,21,14
+12,Junction Oval,1946-07-13 14:30,1946,St Kilda,1,3,5,5,9,12,10,14,North Melbourne,3,3,8,5,10,7,12,11
+13,Punt Rd,1946-07-20 14:30,1946,Melbourne,2,0,7,8,8,10,10,12,Carlton,3,9,3,9,7,12,7,13
+13,Brunswick St,1946-07-20 14:30,1946,Fitzroy,0,1,5,4,5,5,8,8,Collingwood,3,7,3,7,6,12,8,13
+13,Junction Oval,1946-07-20 14:30,1946,South Melbourne,4,2,5,5,7,9,9,13,Essendon,3,2,5,6,6,7,10,8
+13,Western Oval,1946-07-20 14:30,1946,Footscray,2,1,2,5,4,10,5,11,St Kilda,0,2,2,5,3,7,6,10
+13,Glenferrie Oval,1946-07-20 14:30,1946,Hawthorn,1,0,4,9,6,16,15,22,Geelong,6,8,6,9,10,13,11,15
+13,Arden St,1946-07-20 14:30,1946,North Melbourne,2,4,4,4,4,7,6,11,Richmond,0,1,4,3,7,4,11,9
+14,Princes Park,1946-07-27 14:30,1946,Carlton,4,3,8,9,9,10,15,18,Hawthorn,4,5,6,7,10,11,10,11
+14,Victoria Park,1946-07-27 14:30,1946,Collingwood,5,8,9,11,16,15,17,19,North Melbourne,1,2,4,4,6,8,9,16
+14,Punt Rd,1946-07-27 14:30,1946,Melbourne,4,5,8,11,9,20,9,24,Essendon,3,2,5,6,7,9,10,13
+14,Kardinia Park,1946-07-27 14:30,1946,Geelong,4,0,7,1,8,3,9,9,Fitzroy,1,2,5,4,7,7,8,7
+14,Western Oval,1946-07-27 14:30,1946,Footscray,3,2,7,4,9,8,12,12,South Melbourne,2,2,2,2,4,5,4,7
+14,Junction Oval,1946-07-27 14:30,1946,St Kilda,1,0,3,3,6,7,9,9,Richmond,3,6,6,8,11,11,16,16
+15,Brunswick St,1946-08-03 14:45,1946,Fitzroy,2,4,6,5,9,6,14,10,Carlton,5,3,5,5,10,7,11,8
+15,Victoria Park,1946-08-03 14:45,1946,Collingwood,4,9,6,13,10,17,15,24,St Kilda,0,1,4,7,6,8,10,9
+15,Windy Hill,1946-08-03 14:45,1946,Essendon,4,6,9,12,14,17,21,18,Hawthorn,4,3,6,3,9,5,12,7
+15,Punt Rd,1946-08-03 14:45,1946,Richmond,1,4,5,12,7,17,12,21,Footscray,5,8,10,11,13,13,14,15
+15,Arden St,1946-08-03 14:45,1946,North Melbourne,1,1,7,5,8,7,15,10,Geelong,4,3,4,4,5,9,6,12
+15,Junction Oval,1946-08-03 14:45,1946,South Melbourne,4,4,8,9,10,12,15,16,Melbourne,5,3,7,5,11,10,14,11
+16,Arden St,1946-08-10 14:45,1946,North Melbourne,2,0,7,6,8,6,13,9,Carlton,1,13,2,13,9,16,10,18
+16,Punt Rd,1946-08-10 14:45,1946,Richmond,4,5,7,7,14,8,18,9,Collingwood,1,2,7,6,8,9,12,15
+16,Brunswick St,1946-08-10 14:45,1946,Fitzroy,6,4,8,10,12,14,14,18,Essendon,1,3,2,8,3,13,7,16
+16,Western Oval,1946-08-10 14:45,1946,Footscray,3,7,6,8,12,12,13,13,Melbourne,2,1,5,8,8,8,16,16
+16,Junction Oval,1946-08-10 14:45,1946,St Kilda,2,0,9,7,13,7,20,10,Geelong,3,7,3,8,6,10,8,11
+16,Glenferrie Oval,1946-08-10 14:45,1946,Hawthorn,3,2,7,6,8,9,12,15,South Melbourne,4,4,6,8,10,11,16,14
+17,Princes Park,1946-08-17 14:45,1946,Carlton,4,2,9,4,13,7,14,8,St Kilda,4,4,7,6,9,13,10,17
+17,Victoria Park,1946-08-17 14:45,1946,Collingwood,6,5,10,8,15,8,20,12,Footscray,3,3,4,6,6,9,10,10
+17,Windy Hill,1946-08-17 14:45,1946,Essendon,1,2,6,7,10,10,18,14,North Melbourne,2,3,3,8,4,9,4,10
+17,Junction Oval,1946-08-17 14:45,1946,South Melbourne,1,1,3,6,4,6,7,16,Fitzroy,4,3,5,6,11,15,12,15
+17,Kardinia Park,1946-08-17 14:45,1946,Geelong,3,2,8,6,10,7,13,11,Richmond,4,2,7,5,13,10,16,11
+17,M.C.G.,1946-08-17 14:45,1946,Melbourne,4,2,9,5,11,8,18,15,Hawthorn,4,4,9,5,13,5,13,8
+18,Punt Rd,1946-08-24 14:45,1946,Richmond,5,2,6,14,9,20,16,29,Carlton,4,6,7,10,11,13,13,15
+18,Victoria Park,1946-08-24 14:45,1946,Collingwood,6,7,7,13,11,23,17,26,Geelong,0,1,4,5,5,8,7,11
+18,Junction Oval,1946-08-24 14:45,1946,St Kilda,2,0,3,4,6,4,11,9,Essendon,6,8,9,15,13,19,16,20
+18,Brunswick St,1946-08-24 14:45,1946,Fitzroy,2,2,7,7,8,8,9,11,Melbourne,7,2,7,7,8,7,10,9
+18,Western Oval,1946-08-24 14:45,1946,Footscray,5,2,11,14,18,17,23,27,Hawthorn,0,1,1,1,7,5,8,5
+18,Arden St,1946-08-24 14:45,1946,North Melbourne,2,0,3,2,4,5,11,8,South Melbourne,1,10,10,11,13,16,15,19
+19,Princes Park,1946-08-31 14:45,1946,Carlton,1,4,4,8,9,11,15,11,Collingwood,6,6,8,10,12,12,14,12
+19,Windy Hill,1946-08-31 14:45,1946,Essendon,4,5,7,10,13,13,16,18,Richmond,5,1,10,2,15,2,18,5
+19,Glenferrie Oval,1946-08-31 14:45,1946,Hawthorn,5,4,5,4,8,13,9,15,Fitzroy,1,2,7,11,7,14,12,22
+19,Kardinia Park,1946-08-31 14:45,1946,Geelong,4,3,8,7,12,14,17,18,Footscray,3,3,8,4,11,4,12,5
+19,M.C.G.,1946-08-31 14:45,1946,Melbourne,5,4,8,5,13,7,17,11,North Melbourne,1,0,7,5,8,8,11,10
+19,Junction Oval,1946-08-31 14:45,1946,South Melbourne,2,1,7,2,9,5,14,10,St Kilda,3,3,4,7,5,12,6,13
+Semi Final,M.C.G.,1946-09-07 14:30,1946,Footscray,4,4,7,7,13,10,15,12,Melbourne,2,8,10,13,12,15,17,18
+Semi Final,M.C.G.,1946-09-14 14:30,1946,Essendon,5,2,6,5,9,11,14,16,Collingwood,3,6,7,12,11,15,13,22
+Semi Final,M.C.G.,1946-09-21 14:30,1946,Essendon,2,4,4,8,6,13,10,16,Collingwood,3,5,6,5,7,7,8,9
+Preliminary Final,M.C.G.,1946-09-28 14:30,1946,Collingwood,5,8,8,11,13,12,14,16,Melbourne,2,3,5,9,9,13,16,17
+Grand Final,M.C.G.,1946-10-05 14:50,1946,Essendon,7,2,9,7,20,15,22,18,Melbourne,8,3,10,4,11,5,13,9

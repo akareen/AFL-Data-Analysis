@@ -1,0 +1,112 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Princes Park,1927-04-30 14:45,1927,Carlton,1,6,4,7,7,9,9,15,South Melbourne,2,1,5,3,7,7,10,10
+1,Victoria Park,1927-04-30 14:45,1927,Collingwood,6,2,7,2,13,5,16,11,Geelong,1,3,6,9,11,11,12,12
+1,Western Oval,1927-04-30 14:45,1927,Footscray,3,1,3,2,3,3,10,3,Essendon,5,3,8,6,15,11,16,14
+1,Arden St,1927-04-30 14:45,1927,North Melbourne,2,5,3,10,6,16,9,21,Fitzroy,3,1,6,6,9,8,10,11
+1,Junction Oval,1927-04-30 14:45,1927,St Kilda,4,4,7,7,11,11,12,16,Hawthorn,4,2,8,2,9,2,11,2
+1,M.C.G.,1927-04-30 14:45,1927,Melbourne,5,5,7,9,12,15,16,19,Richmond,5,1,6,3,8,8,9,11
+2,Brunswick St,1927-05-07 14:45,1927,Fitzroy,1,1,3,3,9,5,11,6,Carlton,2,5,4,9,7,10,14,15
+2,Glenferrie Oval,1927-05-07 14:45,1927,Hawthorn,1,2,2,3,4,4,7,9,Collingwood,2,3,5,6,7,10,11,11
+2,Windy Hill,1927-05-07 14:45,1927,Essendon,5,3,5,4,8,5,8,6,North Melbourne,3,0,6,3,7,3,10,5
+2,Corio Oval,1927-05-07 14:45,1927,Geelong,6,6,7,10,12,16,14,20,Footscray,0,2,1,7,3,10,8,12
+2,Lake Oval,1927-05-07 14:45,1927,South Melbourne,3,2,7,5,10,8,12,11,Melbourne,0,6,2,9,4,9,7,11
+2,Punt Rd,1927-05-07 14:45,1927,Richmond,2,4,2,5,7,8,8,11,St Kilda,0,0,2,9,4,11,6,12
+3,Princes Park,1927-05-14 14:45,1927,Carlton,0,4,2,4,4,5,7,5,Essendon,0,5,2,7,2,9,4,12
+3,Victoria Park,1927-05-14 14:45,1927,Collingwood,1,3,3,5,4,9,6,13,Richmond,1,6,1,8,5,11,7,13
+3,M.C.G.,1927-05-14 14:45,1927,Melbourne,2,3,6,7,9,10,13,15,Fitzroy,1,4,2,8,4,9,8,11
+3,Western Oval,1927-05-14 14:45,1927,Footscray,2,0,5,8,5,10,10,18,Hawthorn,4,4,4,6,6,10,7,10
+3,Arden St,1927-05-14 14:45,1927,North Melbourne,1,0,4,1,5,1,8,5,Geelong,3,8,3,8,7,13,7,13
+3,Junction Oval,1927-05-14 14:45,1927,St Kilda,3,4,3,7,7,12,8,15,South Melbourne,2,2,5,9,6,11,7,13
+4,Corio Oval,1927-05-21 14:45,1927,Geelong,4,8,7,10,12,12,18,15,Carlton,2,1,7,3,9,8,11,11
+4,Lake Oval,1927-05-21 14:45,1927,South Melbourne,5,1,8,4,9,5,9,13,Collingwood,6,5,8,6,13,8,16,10
+4,Windy Hill,1927-05-21 14:45,1927,Essendon,3,2,4,7,7,8,8,12,Melbourne,3,4,5,8,8,11,11,12
+4,Brunswick St,1927-05-21 14:45,1927,Fitzroy,4,2,7,6,11,9,13,14,St Kilda,3,3,6,5,8,7,11,9
+4,Punt Rd,1927-05-21 14:45,1927,Richmond,2,3,6,13,11,19,13,22,Footscray,0,0,2,2,2,5,3,12
+4,Glenferrie Oval,1927-05-21 14:45,1927,Hawthorn,3,2,5,5,7,7,8,8,North Melbourne,3,6,7,9,15,11,20,13
+5,Princes Park,1927-05-28 14:45,1927,Carlton,6,4,9,4,12,10,14,12,Hawthorn,1,0,4,10,5,10,6,16
+5,Victoria Park,1927-05-28 14:45,1927,Collingwood,6,9,7,11,15,12,18,15,Fitzroy,3,1,7,3,8,4,9,5
+5,Junction Oval,1927-05-28 14:45,1927,St Kilda,2,1,8,5,8,5,14,7,Essendon,2,5,4,5,10,9,12,10
+5,Western Oval,1927-05-28 14:45,1927,Footscray,2,4,4,4,6,10,7,13,South Melbourne,0,1,3,8,5,11,6,13
+5,M.C.G.,1927-05-28 14:45,1927,Melbourne,2,7,4,8,7,13,7,16,Geelong,1,4,4,8,7,9,12,13
+5,Arden St,1927-05-28 14:45,1927,North Melbourne,1,3,3,7,4,8,5,8,Richmond,1,5,4,5,8,9,12,11
+6,Windy Hill,1927-06-04 14:45,1927,Essendon,1,3,3,5,6,7,7,7,Collingwood,3,4,4,7,6,10,7,14
+6,Corio Oval,1927-06-04 14:45,1927,Geelong,4,6,6,8,10,15,12,17,St Kilda,0,0,3,4,5,4,11,4
+6,Glenferrie Oval,1927-06-04 14:45,1927,Hawthorn,2,0,5,6,8,6,12,8,Melbourne,5,2,7,3,14,8,17,10
+6,Punt Rd,1927-06-06 14:45,1927,Richmond,4,3,5,5,10,15,12,18,Carlton,3,2,8,4,12,4,17,8
+6,Brunswick St,1927-06-06 14:45,1927,Fitzroy,3,6,5,7,7,8,8,13,Footscray,1,1,8,4,11,10,13,13
+6,Lake Oval,1927-06-06 14:45,1927,South Melbourne,6,6,11,8,13,11,14,13,North Melbourne,1,1,5,1,5,4,9,9
+7,Princes Park,1927-06-11 14:45,1927,Carlton,2,3,3,3,6,4,10,6,Footscray,1,5,2,6,3,8,6,12
+7,Victoria Park,1927-06-11 14:45,1927,Collingwood,4,5,11,6,15,11,25,19,St Kilda,3,3,4,7,6,13,7,15
+7,Windy Hill,1927-06-11 14:45,1927,Essendon,2,0,4,1,4,6,9,10,Geelong,2,3,5,7,8,8,11,11
+7,Glenferrie Oval,1927-06-11 14:45,1927,Hawthorn,3,2,5,5,7,8,11,11,Fitzroy,6,2,8,3,11,6,15,13
+7,M.C.G.,1927-06-11 14:45,1927,Melbourne,4,7,5,12,8,16,15,21,North Melbourne,0,2,2,3,2,7,3,9
+7,Lake Oval,1927-06-11 14:45,1927,South Melbourne,3,4,3,6,7,8,10,11,Richmond,5,5,7,11,12,12,15,17
+8,Arden St,1927-06-18 14:45,1927,North Melbourne,0,2,2,3,3,6,4,11,Carlton,3,4,6,6,9,11,9,15
+8,Western Oval,1927-06-18 14:45,1927,Footscray,0,0,2,3,2,3,4,12,Collingwood,3,4,4,4,7,15,7,16
+8,Punt Rd,1927-06-18 14:45,1927,Richmond,5,6,7,9,12,11,15,12,Essendon,2,0,5,8,6,8,11,13
+8,Brunswick St,1927-06-18 14:45,1927,Fitzroy,3,2,6,8,10,11,14,11,South Melbourne,3,6,6,7,8,11,11,14
+8,Corio Oval,1927-06-18 14:45,1927,Geelong,3,2,8,12,13,14,22,23,Hawthorn,5,4,5,4,8,6,8,8
+8,Junction Oval,1927-06-18 14:45,1927,St Kilda,5,2,5,3,8,5,8,7,Melbourne,1,1,9,6,12,8,15,15
+9,Victoria Park,1927-06-25 14:45,1927,Collingwood,6,1,8,3,12,4,13,5,Carlton,4,0,7,5,11,7,14,11
+9,Windy Hill,1927-06-25 14:45,1927,Essendon,2,5,5,10,10,10,12,12,South Melbourne,3,3,8,5,11,6,15,9
+9,Corio Oval,1927-06-25 14:45,1927,Geelong,2,2,8,7,10,11,12,15,Fitzroy,4,4,7,5,10,7,12,8
+9,M.C.G.,1927-06-25 14:45,1927,Melbourne,2,2,5,6,9,11,10,13,Footscray,4,2,5,4,7,6,7,9
+9,Glenferrie Oval,1927-06-25 14:45,1927,Hawthorn,6,2,7,4,8,5,9,6,Richmond,3,5,5,10,7,14,9,20
+9,Junction Oval,1927-06-25 14:45,1927,St Kilda,6,1,10,3,14,6,15,7,North Melbourne,2,2,6,4,10,5,13,10
+10,Princes Park,1927-07-02 14:45,1927,Carlton,1,3,1,4,4,5,8,7,Melbourne,5,3,5,6,7,8,10,10
+10,Victoria Park,1927-07-02 14:45,1927,Collingwood,1,1,2,3,5,8,8,11,North Melbourne,1,4,1,6,2,7,3,11
+10,Windy Hill,1927-07-02 14:45,1927,Essendon,2,2,3,5,4,7,6,12,Fitzroy,2,2,4,6,7,6,7,6
+10,Western Oval,1927-07-02 14:45,1927,Footscray,0,5,2,9,2,11,3,12,St Kilda,1,5,1,8,4,10,5,13
+10,Punt Rd,1927-07-02 14:45,1927,Richmond,2,6,4,6,6,11,9,15,Geelong,2,1,6,4,6,4,7,11
+10,Lake Oval,1927-07-02 14:45,1927,South Melbourne,4,8,5,13,10,16,13,19,Hawthorn,2,1,3,3,4,7,5,11
+11,Junction Oval,1927-07-09 14:45,1927,St Kilda,0,1,2,2,4,5,6,8,Carlton,6,4,10,6,15,7,21,9
+11,M.C.G.,1927-07-09 14:45,1927,Melbourne,3,8,5,8,7,10,10,12,Collingwood,1,1,6,7,10,10,11,13
+11,Glenferrie Oval,1927-07-09 14:45,1927,Hawthorn,5,2,5,8,6,15,9,17,Essendon,5,2,9,9,10,10,11,12
+11,Brunswick St,1927-07-09 14:45,1927,Fitzroy,2,2,5,2,6,4,8,7,Richmond,3,4,4,6,11,7,17,9
+11,Arden St,1927-07-09 14:45,1927,North Melbourne,2,6,4,13,7,16,9,18,Footscray,5,4,13,6,13,6,15,10
+11,Corio Oval,1927-07-09 14:45,1927,Geelong,0,1,4,4,9,10,10,12,South Melbourne,2,6,3,7,6,8,9,12
+12,Lake Oval,1927-07-16 14:45,1927,South Melbourne,2,1,5,4,8,6,12,8,Carlton,4,10,6,15,6,19,8,21
+12,Corio Oval,1927-07-16 14:45,1927,Geelong,1,1,2,3,5,5,7,7,Collingwood,2,2,5,5,7,9,9,11
+12,Windy Hill,1927-07-16 14:45,1927,Essendon,2,8,4,11,8,16,12,19,Footscray,2,1,6,6,8,6,8,9
+12,Brunswick St,1927-07-16 14:45,1927,Fitzroy,3,2,8,3,13,4,14,5,North Melbourne,0,2,3,9,6,12,10,14
+12,Glenferrie Oval,1927-07-16 14:45,1927,Hawthorn,1,1,1,5,6,10,7,12,St Kilda,0,3,5,7,5,7,8,11
+12,Punt Rd,1927-07-16 14:45,1927,Richmond,4,2,5,7,6,13,10,15,Melbourne,0,2,1,5,2,7,6,8
+13,Princes Park,1927-07-23 14:45,1927,Carlton,5,2,8,5,11,9,11,10,Fitzroy,2,3,2,7,4,12,9,16
+13,Victoria Park,1927-07-23 14:45,1927,Collingwood,6,0,10,5,11,9,18,13,Hawthorn,1,3,4,5,6,10,6,11
+13,Arden St,1927-07-23 14:45,1927,North Melbourne,1,0,4,3,4,6,7,8,Essendon,2,2,3,6,5,10,7,12
+13,Western Oval,1927-07-23 14:45,1927,Footscray,3,1,3,1,6,6,9,6,Geelong,1,3,6,11,7,12,10,19
+13,M.C.G.,1927-07-23 14:45,1927,Melbourne,5,5,11,14,13,15,20,20,South Melbourne,1,0,3,1,7,5,11,5
+13,Junction Oval,1927-07-23 14:45,1927,St Kilda,2,2,4,8,7,12,9,17,Richmond,6,8,11,11,14,14,16,14
+14,Windy Hill,1927-07-30 14:45,1927,Essendon,2,3,7,5,8,11,8,15,Carlton,3,2,5,4,9,5,10,11
+14,Punt Rd,1927-07-30 14:45,1927,Richmond,3,5,3,5,7,6,9,7,Collingwood,1,2,5,10,6,10,12,12
+14,Brunswick St,1927-07-30 14:45,1927,Fitzroy,5,5,10,8,12,9,13,11,Melbourne,3,0,5,1,8,6,11,11
+14,Glenferrie Oval,1927-07-30 14:45,1927,Hawthorn,1,3,6,14,7,17,8,19,Footscray,3,5,5,7,7,12,11,19
+14,Corio Oval,1927-07-30 14:45,1927,Geelong,2,2,7,12,9,15,17,21,North Melbourne,1,4,1,5,2,9,3,11
+14,Lake Oval,1927-07-30 14:45,1927,South Melbourne,3,3,8,8,10,14,13,20,St Kilda,0,2,3,4,3,6,8,9
+15,Princes Park,1927-08-06 14:45,1927,Carlton,5,0,6,0,9,5,10,6,Geelong,4,2,8,11,11,12,13,20
+15,Victoria Park,1927-08-06 14:45,1927,Collingwood,3,2,4,7,11,9,18,14,South Melbourne,3,5,3,6,6,7,6,7
+15,M.C.G.,1927-08-06 14:45,1927,Melbourne,7,1,14,8,17,12,20,20,Essendon,2,0,2,0,6,2,8,2
+15,Junction Oval,1927-08-06 14:45,1927,St Kilda,3,1,6,9,9,11,13,11,Fitzroy,3,4,5,5,9,11,11,16
+15,Western Oval,1927-08-06 14:45,1927,Footscray,2,3,3,5,5,8,7,8,Richmond,2,2,6,8,6,14,11,15
+15,Arden St,1927-08-06 14:45,1927,North Melbourne,4,4,7,4,10,6,11,10,Hawthorn,0,3,4,8,7,9,15,9
+16,Glenferrie Oval,1927-08-27 14:45,1927,Hawthorn,2,0,8,4,9,5,10,10,Carlton,5,1,7,4,9,9,14,14
+16,Brunswick St,1927-08-27 14:45,1927,Fitzroy,4,2,5,3,12,6,14,11,Collingwood,4,2,10,6,12,9,13,10
+16,Windy Hill,1927-08-27 14:45,1927,Essendon,3,4,4,7,7,13,9,18,St Kilda,2,1,4,5,5,5,7,6
+16,Lake Oval,1927-08-27 14:45,1927,South Melbourne,3,2,5,7,8,14,9,20,Footscray,1,2,6,5,7,7,10,10
+16,Corio Oval,1927-08-27 14:45,1927,Geelong,3,3,6,5,11,7,13,8,Melbourne,2,2,5,3,6,4,9,7
+16,Punt Rd,1927-08-27 14:45,1927,Richmond,4,4,7,5,12,12,14,15,North Melbourne,3,4,6,8,7,8,9,8
+17,Princes Park,1927-09-03 14:45,1927,Carlton,3,2,3,4,3,6,4,6,Richmond,1,1,1,3,2,4,3,5
+17,Victoria Park,1927-09-03 14:45,1927,Collingwood,0,1,0,4,1,8,3,13,Essendon,2,2,3,4,4,6,4,6
+17,Western Oval,1927-09-03 14:45,1927,Footscray,6,8,7,8,15,11,15,11,Fitzroy,0,0,3,8,3,8,9,18
+17,Junction Oval,1927-09-03 14:45,1927,St Kilda,0,1,5,8,5,9,9,18,Geelong,1,12,2,12,7,21,8,22
+17,M.C.G.,1927-09-03 14:45,1927,Melbourne,2,6,5,7,9,10,10,13,Hawthorn,0,3,0,5,0,8,3,15
+17,Arden St,1927-09-03 14:45,1927,North Melbourne,0,2,4,7,4,7,8,12,South Melbourne,3,3,4,5,10,9,11,12
+18,Princes Park,1927-09-10 14:45,1927,Carlton,3,3,5,7,10,11,15,16,St Kilda,1,3,5,5,5,8,7,9
+18,Arden St,1927-09-10 14:45,1927,North Melbourne,0,1,6,6,6,8,7,14,Collingwood,4,6,5,8,10,15,11,16
+18,Brunswick St,1927-09-10 14:45,1927,Fitzroy,1,2,3,5,4,7,5,13,Essendon,5,2,7,4,12,10,14,10
+18,Western Oval,1927-09-10 14:45,1927,Footscray,1,2,4,4,6,5,10,6,Melbourne,4,2,6,4,10,10,10,13
+18,Lake Oval,1927-09-10 14:45,1927,South Melbourne,4,2,9,6,10,9,14,11,Geelong,2,4,3,7,13,9,15,15
+18,Punt Rd,1927-09-10 14:45,1927,Richmond,5,7,8,12,12,20,16,23,Hawthorn,2,2,4,8,4,13,6,17
+Semi Final,M.C.G.,1927-09-17 14:30,1927,Richmond,4,3,6,6,10,7,12,10,Carlton,2,2,7,7,8,10,11,10
+Semi Final,M.C.G.,1927-09-24 14:30,1927,Collingwood,5,6,9,10,13,15,16,18,Geelong,1,0,1,2,2,4,7,6
+Grand Final,M.C.G.,1927-10-01 14:50,1927,Collingwood,0,1,2,6,2,9,2,13,Richmond,0,4,0,4,0,7,1,7

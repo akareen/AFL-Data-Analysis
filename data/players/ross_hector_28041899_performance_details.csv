@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Collingwood,1927,1,North Melbourne,10,W,28,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1927,2,Melbourne,11,W,28,,,,,,,,,,,,,,,,,,,,,,,
+Carlton,1928,3,Fitzroy,1,W,9,,,,,3,,,,,,,,,,,,,,,,,,
+Carlton,1928,4,Richmond,2,W,9,,,,,2,,,,,,,,,,,,,,,,,,
+Carlton,1928,5,Hawthorn,3,W,9,,,,,1,,,,,,,,,,,,,,,,,,
+Carlton,1928,6,St Kilda,4,W,9,,,,,1,,,,,,,,,,,,,,,,,,
+Carlton,1928,7,North Melbourne,5,L,9,,,,,,,,,,,,,,,,,,,,,,,
+Carlton,1928,8,South Melbourne,6,W,9,,,,,,,,,,,,,,,,,,,,,,,
+Carlton,1928,9,Collingwood,7,L,9,,,,,,,,,,,,,,,,,,,,,,,
+Carlton,1928,10,Fitzroy,12,L,9,,,,,2,,,,,,,,,,,,,,,,,,
+Carlton,1928,11,Richmond,13,L,9,,,,,1,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Hawthorn,2001,1,Richmond,14,W,14,6,6,7,13,2,1,,2,,,,,,2,,4,9,,2,,,,
+Hawthorn,2001,2,Sydney,15,L,14,5,4,1,6,,,,,,1,,1,,1,,1,5,,1,,,,
+Hawthorn,2001,3,Collingwood,16,W,14,2,2,3,5,,,,,,1,,,,,,1,4,,,,,,
+Hawthorn,2001,4,Carlton,17,W,14,3,3,3,6,,,,,,1,,,,2,,1,5,,,,,,
+Hawthorn,2001,5,Fremantle,18,L,14,7,3,2,9,1,1,,1,1,1,,,,1,,4,4,1,1,1,,,

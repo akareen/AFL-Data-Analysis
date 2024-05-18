@@ -1,0 +1,5 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Port Adelaide,2019,1,Gold Coast,9,W,27,11,5,2,13,,,,2,3,2,,1,,,,4,7,1,,2,,,84
+Port Adelaide,2019,2,Geelong,14,W,27,6,3,6,12,,,,,2,,,3,,,,8,5,1,,3,,,89
+Port Adelaide,2019,3,Western Bulldogs,15,L,27,8,3,1,9,,,,2,3,3,,2,,1,,3,6,,,6,,,83
+Port Adelaide,2019,4,Greater Western Sydney,19,L,27,10,3,4,14,,,,1,2,3,1,3,,,,5,8,,,3,,,72

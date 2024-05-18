@@ -1,0 +1,266 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Western Bulldogs,2001,1,Adelaide,11,W,13,5,2,4,9,2,1,,4,,2,,2,1,2,,5,4,1,,,,,
+Western Bulldogs,2001,2,Geelong,12,W,13,4,2,1,5,1,,,2,,,,,,,,1,3,1,1,2,,,
+Western Bulldogs,2001,3,Carlton,13,L,13,13,9,2,15,1,1,,1,,5,,3,,,,1,14,,1,,3,,
+Western Bulldogs,2001,4,Essendon,14,L,13,5,4,2,7,,,,2,1,1,1,,1,1,,3,5,,2,3,,,
+Western Bulldogs,2001,5,Fremantle,15,W,13,10,9,5,15,1,1,,1,,5,1,,,,,3,12,1,4,3,,,
+Western Bulldogs,2001,6,St Kilda,16,W,13,9,4,3,12,1,,,,,2,2,,1,,,5,8,,,3,,,
+Western Bulldogs,2001,7,Richmond,17,L,13,3,2,2,5,,1,,,,1,,2,,1,,1,4,,,2,1,,
+Western Bulldogs,2001,8,Brisbane Lions,18,L,13,9,4,3,12,,,,,1,5,,2,,1,,4,9,1,,1,,,
+Western Bulldogs,2001,9,Collingwood,19,L,13,7,5,5,12,2,1,,1,2,3,2,,1,,,4,9,1,2,,1,,
+Western Bulldogs,2001,10,Hawthorn,20,W,13,16,9,15,31,2,,,1,2,5,2,1,3,,2,8,24,1,,4,2,,
+Western Bulldogs,2001,11,Port Adelaide,21,L,13,6,4,5,11,,,,1,2,1,,1,,,,3,8,,,3,,,
+Western Bulldogs,2001,12,Melbourne,22,L,13,8,5,7,15,,1,,2,,3,,,1,1,,5,10,,2,2,6,,
+Western Bulldogs,2002,13,Adelaide,1,L,13,10,5,7,17,1,2,,3,,3,2,,1,,,9,9,,1,1,,,
+Western Bulldogs,2002,14,Kangaroos,2,L,13,12,6,5,17,3,1,,,,4,1,3,,,,6,11,2,2,3,1,,
+Western Bulldogs,2002,15,West Coast,3,L,13,15,3,4,19,2,6,,2,,2,1,2,2,,,12,5,,3,,,,
+Western Bulldogs,2002,16,Brisbane Lions,4,L,13,5,4,6,11,1,,,1,1,1,,2,,,,2,9,1,1,2,1,,
+Western Bulldogs,2002,17,Melbourne,5,L,13,11,6,11,22,1,1,,3,,,1,6,,1,,4,18,,2,6,,,
+Western Bulldogs,2002,18,Carlton,6,W,13,10,8,8,18,,,,,3,4,3,,,,,8,12,,,2,3,,
+Western Bulldogs,2002,19,Collingwood,7,L,13,11,7,6,17,,1,,1,1,3,2,1,1,1,,4,13,,1,3,2,,
+Western Bulldogs,2002,20,Sydney,8,W,13,12,9,5,17,1,3,,1,,3,1,1,,,,6,11,1,4,1,,,
+Western Bulldogs,2002,21,Geelong,9,W,13,12,10,8,20,,1,,,2,4,1,2,1,,,1,17,,,5,1,,
+Western Bulldogs,2002,22,Richmond,10,W,13,14,7,3,17,,1,,2,3,1,1,3,,2,,5,11,,,1,,,
+Western Bulldogs,2002,23,Fremantle,11,W,13,14,6,10,24,2,,,2,1,4,2,,1,,,4,20,,2,2,,,
+Western Bulldogs,2002,24,St Kilda,12,W,13,17,8,10,27,,1,,1,1,5,3,2,,,,5,22,,,2,1,,
+Western Bulldogs,2002,25,Port Adelaide,13,L,13,18,10,7,25,2,,,1,3,8,1,5,,2,,6,18,1,1,,5,,
+Western Bulldogs,2002,26,Essendon,14,D,13,13,8,3,16,,,,,3,3,,1,1,1,,4,12,,,,1,,
+Western Bulldogs,2002,27,Hawthorn,15,L,13,12,7,4,16,1,2,,1,,3,,5,1,3,,6,10,1,1,1,5,,
+Western Bulldogs,2002,28,Adelaide,16,L,13,9,4,5,14,3,1,,,1,3,2,4,,3,,6,10,,1,1,3,,
+Western Bulldogs,2002,29,Kangaroos,17,W,13,5,,6,11,2,1,,3,,1,2,,1,,,5,6,,,2,1,,
+Western Bulldogs,2002,30,West Coast,18,W,13,6,3,7,13,1,,,1,1,1,1,,,,,4,10,,1,,,,
+Western Bulldogs,2002,31,Brisbane Lions,19,L,13,3,1,5,8,,,,3,,,1,3,2,1,,3,5,,1,2,,,
+Western Bulldogs,2002,32,Melbourne,20,L,13,11,5,9,20,,,,2,1,4,3,1,,,,5,15,,,5,2,,
+Western Bulldogs,2002,33,Carlton,21,L,13,5,2,3,8,2,,,2,,,1,2,,1,,3,4,,2,2,,,
+Western Bulldogs,2002,34,Collingwood,22,W,13,9,3,3,12,3,,,5,,2,2,1,,1,,5,7,1,2,2,2,,
+Western Bulldogs,2003,35,Geelong,1,W,13,17,6,6,23,1,1,,3,3,1,2,1,1,1,,9,15,,,2,,,94
+Western Bulldogs,2003,36,Richmond,2,L,13,12,6,4,16,2,1,,5,1,4,3,1,,,,5,11,,2,2,,1,100
+Western Bulldogs,2003,37,Melbourne,3,L,13,7,6,5,12,4,,,2,,,,,,,,3,9,,4,2,,,87
+Western Bulldogs,2003,38,Essendon,4,L,13,15,6,9,24,,,,1,1,2,2,1,1,,,6,17,,,,,,100
+Western Bulldogs,2003,39,Brisbane Lions,5,L,13,13,5,3,16,,,,2,3,3,4,6,,,,6,8,,,2,,,98
+Western Bulldogs,2003,40,St Kilda,6,L,13,3,1,2,5,,,,1,,1,,2,1,,,2,4,,1,,,,63
+Western Bulldogs,2003,41,Fremantle,7,L,13,19,7,10,29,,1,,1,4,6,3,3,2,2,,9,22,,,2,1,1,97
+Western Bulldogs,2003,42,Carlton,8,L,13,12,1,8,20,,,,5,5,4,1,4,1,1,1,4,15,,,1,3,2,100
+Western Bulldogs,2003,43,Adelaide,9,L,13,12,6,8,20,,,,5,3,4,,2,1,,1,6,14,1,,1,2,1,85
+Western Bulldogs,2003,44,Kangaroos,10,L,13,11,3,13,24,2,,,4,3,5,5,,,,,13,11,1,1,2,,,100
+Western Bulldogs,2003,45,West Coast,11,D,13,5,2,9,14,,,,1,,2,2,1,,,,5,9,,,,,,77
+Western Bulldogs,2003,46,Sydney,12,L,13,18,3,4,22,3,3,,,2,3,2,4,,,,10,9,,,1,,,100
+Western Bulldogs,2003,47,Collingwood,13,L,13,8,4,6,14,1,,,,,2,1,1,,1,,4,10,,2,,,1,93
+Western Bulldogs,2003,48,Hawthorn,14,L,13,9,1,4,13,2,,,3,,2,2,1,1,,,3,8,,,1,,,90
+Western Bulldogs,2003,49,Port Adelaide,15,L,13,3,2,4,7,2,,,,,,,1,,1,,,6,,2,,,,68
+Western Bulldogs,2003,50,Geelong,16,W,13,7,4,3,10,,,,2,1,2,,3,1,2,,1,10,,,2,1,,89
+Western Bulldogs,2003,51,Richmond,17,L,13,7,3,5,12,,,,2,3,1,,,,,,1,9,,,,,,57
+Western Bulldogs,2003,52,Essendon,19,L,13,14,9,9,23,1,3,,1,5,1,1,1,2,,,7,16,1,1,3,2,,99
+Western Bulldogs,2003,53,Fremantle,20,L,13,7,1,1,8,,,,,,1,,2,1,2,,1,7,,,,1,,70
+Western Bulldogs,2003,54,St Kilda,21,L,13,12,5,5,17,1,2,,2,1,4,,3,,,,5,13,1,1,1,2,,100
+Western Bulldogs,2003,55,Brisbane Lions,22,L,13,11,4,6,17,1,,,1,2,2,3,2,2,1,,6,11,,,4,,2,93
+Western Bulldogs,2004,56,West Coast,1,L,13,6,3,6,12,,,,4,1,1,4,,1,,,6,6,,,2,,,93
+Western Bulldogs,2004,57,Collingwood,2,L,13,11,4,6,17,,3,,1,1,3,2,1,,1,,5,12,,2,4,2,,92
+Western Bulldogs,2004,58,Melbourne,3,L,13,12,2,10,22,,,,3,3,,8,2,1,1,,13,9,,,3,,,92
+Western Bulldogs,2004,59,Hawthorn,4,W,13,16,5,6,22,,,,6,2,4,,1,,,,5,19,,,2,,,91
+Western Bulldogs,2004,60,Port Adelaide,5,L,13,7,3,3,10,,,,2,3,1,1,1,2,1,,6,4,1,,1,,,74
+Western Bulldogs,2004,61,Kangaroos,6,W,13,13,5,11,24,2,1,,7,,4,4,3,2,1,,10,14,,,3,,,81
+Western Bulldogs,2004,62,Essendon,7,L,13,13,4,7,20,,,,5,2,6,3,2,2,,,8,11,,,1,1,1,93
+Western Bulldogs,2004,63,Richmond,8,L,13,12,8,6,18,,4,,1,1,2,3,,,,,5,14,,3,3,2,2,95
+Western Bulldogs,2004,64,Carlton,9,W,13,13,6,3,16,,1,,1,2,5,,5,2,2,,5,11,1,,1,,,85
+Western Bulldogs,2004,65,Sydney,10,L,13,3,,5,8,1,,1,2,1,1,2,,1,,,5,2,,,1,,2,78
+Western Bulldogs,2004,66,Geelong,11,L,13,16,3,8,24,,,,3,1,6,7,,3,,,13,12,,,3,,1,100
+Western Bulldogs,2004,67,St Kilda,12,W,13,17,7,11,28,2,,,4,,8,5,1,,,,10,17,3,1,1,,,92
+Western Bulldogs,2004,68,Adelaide,13,L,13,12,3,5,17,,,,5,1,3,3,2,,2,,4,11,,,3,,,95
+Western Bulldogs,2004,69,Fremantle,14,L,13,18,3,4,22,,1,,4,2,4,7,3,1,2,,10,9,,,,2,,89
+Western Bulldogs,2004,70,Brisbane Lions,15,L,13,2,1,,2,,1,,3,,1,,,,,,,2,,,,,,15
+Western Bulldogs,2005,71,Collingwood,1,W,13,16,6,7,23,,,,1,,7,1,2,1,,,4,17,,,2,,3,87
+Western Bulldogs,2005,72,Melbourne,2,L,13,13,5,6,19,,2,,1,2,1,4,3,4,,,11,10,,,2,1,,72
+Western Bulldogs,2005,73,Richmond,3,L,13,18,13,14,32,1,1,,1,1,7,1,5,1,1,2,6,25,,2,1,2,,91
+Western Bulldogs,2005,74,West Coast,4,L,13,14,7,3,17,,1,,3,1,6,,5,,1,,4,13,,1,2,2,,93
+Western Bulldogs,2005,75,Adelaide,5,W,13,21,8,6,27,1,1,,1,,10,4,2,,1,,6,21,,,2,,1,96
+Western Bulldogs,2005,76,Geelong,6,L,13,10,4,7,17,1,1,,1,,,4,5,,3,,8,8,,1,2,1,,100
+Western Bulldogs,2005,77,Brisbane Lions,7,W,13,16,7,10,26,2,1,,1,2,3,3,2,1,1,,10,16,,3,,,2,97
+Western Bulldogs,2005,78,Kangaroos,8,W,13,14,11,9,23,4,,,1,3,5,1,2,,1,3,5,18,,3,4,,1,86
+Western Bulldogs,2005,79,Sydney,9,L,13,14,5,9,23,,1,,2,3,4,4,1,3,1,,8,15,,,,,1,95
+Western Bulldogs,2005,80,Essendon,10,L,13,13,5,13,26,3,,,1,2,2,3,6,2,1,,13,13,,3,2,,,94
+Western Bulldogs,2005,81,Hawthorn,11,W,13,11,3,7,18,3,2,,1,1,1,,4,2,2,,3,16,1,2,1,,,100
+Western Bulldogs,2005,82,Geelong,17,W,13,8,4,7,15,2,,,2,2,3,,1,,,,4,11,,2,1,2,,52
+Western Bulldogs,2005,83,Brisbane Lions,18,W,13,19,7,8,27,2,2,,1,2,4,2,3,,1,,6,21,1,2,1,1,1,86
+Western Bulldogs,2005,84,West Coast,19,W,13,14,5,6,20,2,2,,,,3,3,1,2,1,,9,10,,1,1,2,3,90
+Western Bulldogs,2005,85,Richmond,20,W,13,3,1,5,8,1,,,3,,,2,1,2,,,7,3,,,2,,,85
+Western Bulldogs,2005,86,Melbourne,21,L,13,6,2,5,11,1,2,,4,,1,1,2,2,1,,3,8,,1,1,,,75
+Western Bulldogs,2005,87,Collingwood,22,W,13,18,9,6,24,,1,,1,1,6,2,2,1,1,,4,19,,,3,4,2,88
+Western Bulldogs,2006,88,Richmond,1,W,13,19,11,11,30,,,,2,2,6,4,2,2,1,2,10,20,,,2,1,1,90
+Western Bulldogs,2006,89,Melbourne,2,W,13,14,5,7,21,,,,3,1,7,4,4,2,1,,8,13,,,1,,3,85
+Western Bulldogs,2006,90,Essendon,3,W,13,14,8,10,24,,1,,2,,7,2,2,1,1,2,7,17,,1,3,1,3,89
+Western Bulldogs,2006,91,Geelong,4,W,13,11,4,5,16,1,,,6,,5,,2,,,,2,14,1,2,1,,2,81
+Western Bulldogs,2006,92,Adelaide,5,L,13,15,6,12,27,1,,,5,,3,6,2,,1,,8,19,,,3,2,1,90
+Western Bulldogs,2006,93,St Kilda,6,L,13,14,6,5,19,2,,,3,1,3,2,2,2,1,,8,10,,2,2,2,,86
+Western Bulldogs,2006,94,Port Adelaide,7,W,13,18,5,18,36,1,,,2,3,3,3,1,,,1,7,28,,,2,5,3,89
+Western Bulldogs,2006,95,Sydney,8,L,13,8,4,15,23,,,,4,,2,1,1,1,1,,5,17,,,3,,,91
+Western Bulldogs,2006,96,Collingwood,9,L,13,1,1,,1,,,,1,,1,,,,,,,1,,,,,,11
+Western Bulldogs,2006,97,West Coast,13,W,13,14,10,4,18,,,,1,2,4,,2,1,1,,3,16,,,,,2,76
+Western Bulldogs,2006,98,Kangaroos,14,L,13,10,6,9,19,,,,2,1,3,3,1,,,,5,12,,,1,1,,79
+Western Bulldogs,2006,99,Carlton,15,W,13,10,5,4,14,3,,,1,1,2,1,2,1,1,,7,9,1,1,2,,,69
+Western Bulldogs,2006,100,St Kilda,21,L,13,6,3,2,8,,,,2,,3,,2,,2,,1,7,,,,,,44
+Western Bulldogs,2006,101,Essendon,22,W,13,19,10,6,25,4,,,4,3,4,,3,,1,,3,22,1,3,,1,,81
+Western Bulldogs,2006,102,Collingwood,EF,W,13,13,8,10,23,1,1,,1,,4,,1,,1,,5,19,1,2,3,2,1,82
+Western Bulldogs,2006,103,West Coast,SF,L,13,11,5,6,17,,1,,,2,1,2,3,1,2,,2,15,,,2,1,,75
+Western Bulldogs,2007,104,Geelong,1,W,13,10,7,9,19,2,,,4,4,1,1,4,2,2,,4,15,,,,2,,80
+Western Bulldogs,2007,105,Adelaide,2,L,13,10,2,6,16,,2,,2,1,1,2,1,1,,,6,10,,,3,1,1,91
+Western Bulldogs,2007,106,St Kilda,3,L,13,8,4,8,16,,,,3,,4,3,1,2,,,5,11,,,1,1,1,86
+Western Bulldogs,2007,107,Richmond,4,W,13,11,7,10,21,1,,,3,2,1,2,2,,2,,5,16,,,2,,1,88
+Western Bulldogs,2007,108,Hawthorn,5,W,13,11,6,4,15,,,,1,1,4,1,3,2,1,,4,11,,1,3,,4,85
+Western Bulldogs,2007,109,West Coast,6,L,13,14,13,3,17,3,1,,2,,4,1,1,1,1,,2,17,1,3,4,2,1,92
+Western Bulldogs,2007,110,Melbourne,7,W,13,10,3,11,21,1,2,,2,,2,1,2,1,1,,8,10,1,1,1,2,,91
+Western Bulldogs,2007,111,Collingwood,8,W,13,15,10,8,23,1,2,,3,,4,2,4,,,,4,18,,2,1,1,2,85
+Western Bulldogs,2007,112,Sydney,9,L,13,9,1,2,11,,,,5,3,3,1,4,1,1,,3,9,,,,,,72
+Western Bulldogs,2007,113,Carlton,10,L,13,12,5,8,20,2,1,,4,,5,2,3,1,1,,6,14,,,,1,1,87
+Western Bulldogs,2007,114,Brisbane Lions,11,W,13,15,8,6,21,,1,,4,1,6,2,1,,,,7,13,,,1,,3,88
+Western Bulldogs,2007,115,Fremantle,12,W,13,5,1,11,16,1,,,6,,1,,1,,,,6,12,,,,,1,72
+Western Bulldogs,2007,116,Kangaroos,13,L,13,15,6,12,27,3,1,,6,4,3,4,4,1,1,,11,16,,1,3,,1,84
+Western Bulldogs,2007,117,Port Adelaide,14,W,13,12,7,8,20,1,,,1,,4,1,1,1,1,,4,16,,,1,,,81
+Western Bulldogs,2007,118,Essendon,15,W,13,17,9,6,23,,,,2,1,3,4,1,,1,,7,15,2,2,1,,1,83
+Western Bulldogs,2007,119,Geelong,16,L,13,12,8,10,22,,,,3,1,3,2,1,1,,,7,14,1,,2,1,1,88
+Western Bulldogs,2007,120,West Coast,17,L,13,11,6,5,16,1,1,,5,1,3,2,,1,,,3,12,,2,1,,,80
+Western Bulldogs,2007,121,St Kilda,18,D,13,8,5,4,12,4,,,1,,,,,2,,,6,8,1,4,1,1,1,92
+Western Bulldogs,2007,122,Melbourne,19,L,13,3,1,3,6,,,,,,2,1,,,,,1,5,,,,,1,22
+Western Bulldogs,2007,123,Adelaide,20,L,13,18,8,4,22,1,1,,,1,3,1,4,,2,,3,20,,1,,1,,83
+Western Bulldogs,2007,124,Hawthorn,21,L,13,17,9,7,24,1,,,1,3,1,3,2,1,,,6,17,1,3,,,2,93
+Western Bulldogs,2007,125,Kangaroos,22,L,13,9,5,5,14,,1,,3,2,2,,1,,1,,4,11,,,,1,,93
+Western Bulldogs,2008,126,Adelaide,1,W,13,14,12,10,24,3,,1,2,1,1,1,2,1,1,,3,20,,1,1,,,69
+Western Bulldogs,2008,127,Melbourne,2,W,13,13,5,7,20,1,3,,,,5,5,3,4,,,8,12,1,2,2,,1,64
+Western Bulldogs,2008,128,St Kilda,3,W,13,16,8,9,25,,,,3,1,3,2,2,1,,,3,22,,1,1,3,2,71
+Western Bulldogs,2008,129,Essendon,4,W,13,11,6,2,13,2,,,4,2,4,1,,,,,2,10,,1,1,,1,65
+Western Bulldogs,2008,130,Richmond,5,D,13,11,3,11,22,1,1,,4,1,3,3,2,2,1,,6,15,,,1,,1,66
+Western Bulldogs,2008,131,West Coast,6,W,13,12,5,8,20,2,,,3,1,1,,4,,2,,7,16,,1,1,,,76
+Western Bulldogs,2008,132,Sydney,7,W,13,18,6,8,26,,1,,1,5,5,4,3,,1,2,5,20,,,3,,1,68
+Western Bulldogs,2008,133,Fremantle,8,W,13,12,4,9,21,2,1,,5,2,4,3,7,2,3,,6,15,,2,2,,1,73
+Western Bulldogs,2008,134,North Melbourne,9,L,13,15,6,7,22,,,,1,4,4,1,2,,,,4,18,,,1,,,61
+Western Bulldogs,2008,135,Hawthorn,10,W,13,15,9,10,25,1,1,,7,,4,4,,4,,,9,16,2,1,2,,,70
+Western Bulldogs,2008,136,St Kilda,11,W,13,17,10,7,24,4,,,3,2,2,1,7,,2,,5,19,1,4,3,2,,79
+Western Bulldogs,2008,137,Brisbane Lions,12,W,13,7,3,7,14,,,,8,,2,4,,2,,1,9,5,,1,7,,,65
+Western Bulldogs,2008,138,Collingwood,13,W,13,10,3,13,23,,,,2,2,4,4,1,1,,,10,12,1,1,1,,2,83
+Western Bulldogs,2008,139,Port Adelaide,14,W,13,16,10,5,21,1,,,2,2,4,1,1,,1,,3,18,,1,,1,1,74
+Western Bulldogs,2008,140,Melbourne,15,W,13,12,7,9,21,2,,,2,2,,,1,2,3,,7,15,1,1,3,,,74
+Western Bulldogs,2008,141,Geelong,16,L,13,12,5,4,16,3,1,,3,2,1,3,4,1,,,5,11,1,3,2,,,76
+Western Bulldogs,2008,142,Carlton,17,L,13,14,6,4,18,1,,,1,2,4,6,3,2,1,,9,11,,1,,,2,71
+Western Bulldogs,2008,143,Sydney,18,W,13,5,2,6,11,1,,,5,1,1,1,2,1,1,,5,7,,1,,1,1,71
+Western Bulldogs,2008,144,North Melbourne,19,L,13,13,8,9,22,3,,,5,,2,3,1,1,1,,3,18,,2,2,,3,75
+Western Bulldogs,2008,145,Brisbane Lions,20,L,13,9,5,7,16,3,1,,,1,1,,1,,,,6,10,2,4,2,,,88
+Western Bulldogs,2008,146,Essendon,21,W,13,18,9,9,27,,,,3,4,3,4,1,1,,,6,21,,,1,8,1,71
+Western Bulldogs,2008,147,Adelaide,22,L,13,21,5,11,32,1,,,,4,2,4,5,1,2,,9,23,,1,2,,,68
+Western Bulldogs,2008,148,Hawthorn,QF,L,13,18,11,7,25,2,2,,2,,3,,3,1,2,,3,22,,2,2,1,,83
+Western Bulldogs,2008,149,Sydney,SF,W,13,9,7,9,18,,,,2,2,2,2,5,1,3,,7,11,,,,4,1,75
+Western Bulldogs,2008,150,Geelong,PF,L,13,12,8,12,24,,,,2,1,1,,2,,1,,6,17,1,,3,1,,75
+Western Bulldogs,2009,151,Fremantle,1,W,13,10,6,18,28,2,1,,8,1,3,5,1,,,,9,18,,2,,1,2,78
+Western Bulldogs,2009,152,North Melbourne,2,W,13,13,4,6,19,1,2,,,,2,2,3,2,1,,7,13,,1,1,,1,76
+Western Bulldogs,2009,153,Richmond,3,W,13,11,5,6,17,2,1,,2,,2,2,2,1,1,,3,13,,2,,,1,74
+Western Bulldogs,2009,154,West Coast,4,L,13,8,3,8,16,,,,2,,3,1,4,,2,,4,11,,,2,,,70
+Western Bulldogs,2009,155,Carlton,5,L,13,12,6,6,18,2,,1,3,,5,4,4,3,1,,8,11,1,2,1,1,2,76
+Western Bulldogs,2009,156,St Kilda,6,L,13,13,4,5,18,,1,,1,,3,2,3,2,,,5,13,1,,1,,,77
+Western Bulldogs,2009,157,Adelaide,7,W,13,11,4,7,18,1,,,4,,2,2,2,2,1,,6,12,,1,1,,1,72
+Western Bulldogs,2009,158,Melbourne,8,W,13,19,5,9,28,,2,,1,1,8,3,2,1,,,7,21,,1,1,2,3,79
+Western Bulldogs,2009,159,Geelong,9,L,13,9,4,12,21,2,,,4,,4,3,1,1,,,8,13,,2,2,,3,82
+Western Bulldogs,2009,160,Sydney,10,W,13,15,7,11,26,3,,,5,3,5,3,1,,,3,7,19,,2,6,2,1,75
+Western Bulldogs,2009,161,Richmond,11,W,13,14,7,8,22,2,,,2,,6,4,,,,,7,14,1,2,1,,2,75
+Western Bulldogs,2009,162,Port Adelaide,12,W,13,14,6,6,20,2,1,,1,,6,1,1,1,,,4,14,,2,,,1,82
+Western Bulldogs,2009,163,North Melbourne,13,W,13,10,5,10,20,3,,,2,1,2,1,2,,1,2,4,15,,,2,2,1,64
+Western Bulldogs,2009,164,Geelong,21,W,13,10,9,10,20,,1,,4,1,,,2,1,1,,3,17,,,,,,60
+Western Bulldogs,2009,165,Collingwood,22,W,13,6,3,4,10,,,,2,,1,1,3,,1,,1,9,,,3,,1,63
+Western Bulldogs,2009,166,Geelong,QF,L,13,9,4,5,14,,1,,2,,4,1,1,3,,,6,9,,1,1,,3,70
+Western Bulldogs,2009,167,Brisbane Lions,SF,W,13,23,9,10,33,,,,,3,4,1,4,1,,,4,29,,,,1,2,80
+Western Bulldogs,2009,168,St Kilda,PF,L,13,11,1,5,16,1,2,,5,,2,2,3,1,,,7,8,,,2,1,,69
+Western Bulldogs,2010,169,Collingwood,1,L,13,9,6,4,13,1,,,3,2,2,2,3,1,3,,5,11,,,1,,1,86
+Western Bulldogs,2010,170,Richmond,2,W,13,10,6,15,25,1,1,,1,,3,1,1,,,,4,21,,2,1,,,84
+Western Bulldogs,2010,171,Hawthorn,3,W,13,9,4,9,18,1,1,,2,2,5,1,2,,,,2,16,,,1,,1,82
+Western Bulldogs,2010,172,Brisbane Lions,4,L,13,10,5,5,15,3,,,3,,2,1,1,1,,,5,9,1,2,1,,,82
+Western Bulldogs,2010,173,Adelaide,5,W,13,21,4,14,35,1,1,,3,3,5,2,1,3,,2,14,20,,,,,,80
+Western Bulldogs,2010,174,St Kilda,6,L,13,24,9,5,29,1,,,10,1,4,2,3,2,1,,4,24,,1,2,,,85
+Western Bulldogs,2010,175,Melbourne,7,W,13,22,8,10,32,,1,,9,4,5,6,4,1,2,2,17,13,,,1,,2,84
+Western Bulldogs,2010,176,Sydney,8,W,13,8,2,7,15,,1,,4,,1,1,3,1,2,,9,6,,,1,1,,86
+Western Bulldogs,2010,177,North Melbourne,9,W,13,10,6,6,16,1,,,4,1,3,1,1,,1,,4,12,,1,,,,65
+Western Bulldogs,2010,178,Essendon,10,L,13,6,4,8,14,,,,3,,2,2,,2,,,7,7,,1,,1,1,81
+Western Bulldogs,2010,179,Collingwood,11,L,13,7,5,5,12,,,,2,,,,1,,1,,5,7,,,1,,,89
+Western Bulldogs,2010,180,Brisbane Lions,12,W,13,14,7,8,22,3,3,,1,,7,3,,4,,,12,8,3,6,,1,4,86
+Western Bulldogs,2010,181,West Coast,13,W,13,14,8,9,23,2,1,,3,,3,,,1,,,8,15,2,3,,,4,89
+Western Bulldogs,2010,182,Hawthorn,14,L,13,7,4,4,11,2,1,,4,,2,1,2,1,,,6,5,1,2,1,,1,89
+Western Bulldogs,2010,183,Carlton,15,W,13,10,5,10,20,1,,,3,2,2,3,2,1,1,,7,13,1,2,,3,,88
+Western Bulldogs,2010,184,Port Adelaide,16,W,13,9,4,3,12,1,,,3,1,4,2,2,1,,,4,8,,,3,,1,83
+Western Bulldogs,2010,185,Fremantle,17,W,13,15,7,11,26,1,,,6,,5,5,,1,,,8,18,,2,1,2,3,82
+Western Bulldogs,2010,186,North Melbourne,18,W,13,12,7,7,19,5,,,3,,2,2,6,1,1,1,6,14,1,3,3,,,82
+Western Bulldogs,2010,187,Adelaide,19,W,13,25,9,5,30,1,1,,6,2,2,4,3,,1,3,5,22,1,2,,,1,82
+Western Bulldogs,2010,188,Geelong,20,L,13,16,7,11,27,3,,,6,3,5,1,2,,,,7,19,1,3,,,1,85
+Western Bulldogs,2010,189,Sydney,21,L,13,5,1,3,8,,,,2,,2,2,,3,,,6,1,,,1,,,87
+Western Bulldogs,2010,190,Essendon,22,W,13,10,4,15,25,2,1,,4,1,2,4,1,1,,,11,13,1,2,3,,1,80
+Western Bulldogs,2010,191,Collingwood,QF,L,13,11,4,9,20,1,,,5,,3,2,3,,,,5,15,,,,,1,84
+Western Bulldogs,2010,192,Sydney,SF,W,13,8,3,3,11,3,1,,2,,1,1,,3,,,8,4,1,,,,1,84
+Western Bulldogs,2010,193,St Kilda,PF,L,13,5,1,6,11,1,,,2,,2,,,,,,4,7,,,,,,85
+Western Bulldogs,2011,194,Essendon,1,L,13,11,3,2,13,2,1,,3,,2,1,3,,1,,3,8,,2,,1,1,83
+Western Bulldogs,2011,195,Brisbane Lions,2,W,13,10,9,7,17,2,1,,1,,3,,3,1,2,,6,13,3,3,,,1,91
+Western Bulldogs,2011,196↓,Gold Coast,3,W,13,10,9,4,14,,1,,1,,2,,4,,1,,2,13,,1,,,2,57
+Western Bulldogs,2011,197,Sydney,7,L,13,11,10,11,22,2,1,,2,1,1,1,1,,,,7,15,2,3,2,,,87
+Western Bulldogs,2011,198,Richmond,8,W,13,9,2,7,16,1,,,5,1,4,,2,1,1,,5,10,,,,,1,80
+Western Bulldogs,2011,199,West Coast,9,L,13,11,7,6,17,1,,,1,1,3,,2,1,2,,3,14,,1,1,,3,86
+Western Bulldogs,2011,200,Hawthorn,10,L,13,15,5,7,22,3,2,,1,1,5,7,7,,2,,13,10,2,2,,1,1,87
+Western Bulldogs,2011,201,Geelong,11,L,13,15,7,8,23,5,,,4,,3,4,4,1,1,,7,14,,4,2,,,88
+Western Bulldogs,2011,202,St Kilda,12,L,13,6,2,9,15,2,,,,,,2,3,,1,,12,4,2,2,1,,1,93
+Western Bulldogs,2011,203,Adelaide,13,W,13,12,7,6,18,4,1,,3,1,1,,3,2,1,,6,12,,5,3,,1,89
+Western Bulldogs,2011,204,Gold Coast,14,W,13,11,7,10,21,3,,,7,1,,,2,1,2,,4,18,,4,,,2,88
+Western Bulldogs,2011,205,Melbourne,15,W,13,22,6,3,25,4,2,,4,,8,2,4,3,1,3,9,16,1,2,2,,2,83
+Western Bulldogs,2011,206,Carlton,16,W,13,12,5,3,15,1,1,,2,,3,,3,1,,,5,10,1,1,1,3,1,83
+Western Bulldogs,2011,207,North Melbourne,17,L,13,12,8,7,19,3,,,3,,3,,4,2,2,,9,11,3,4,,,1,81
+Western Bulldogs,2011,208,Sydney,18,L,13,9,3,5,14,1,2,,2,1,2,1,4,1,2,,6,9,,2,2,,,89
+Western Bulldogs,2011,209,West Coast,19,L,13,12,5,10,22,4,1,,3,,2,3,1,1,1,,11,10,1,4,,,,90
+Western Bulldogs,2011,210,Essendon,21,L,13,8,3,13,21,1,1,,3,,3,1,4,2,1,,12,9,1,,1,4,,87
+Western Bulldogs,2011,211,Port Adelaide,22,W,13,12,5,5,17,2,2,,6,1,1,3,,3,,,9,10,2,1,1,,,90
+Western Bulldogs,2011,212,Hawthorn,23,L,13,7,4,4,11,2,,,2,,1,,2,,2,,,11,,1,1,,1,87
+Western Bulldogs,2011,213,Fremantle,24,W,13,14,7,8,22,2,2,,3,,3,3,1,4,,,10,12,1,3,2,,2,89
+Western Bulldogs,2012,214,West Coast,1,L,13,15,5,7,22,1,4,,3,,2,4,1,1,,,9,13,1,2,,,,87
+Western Bulldogs,2012,215,Adelaide,2,L,13,14,5,6,20,1,1,,1,,4,,1,1,1,,7,12,,3,1,,3,93
+Western Bulldogs,2012,216,St Kilda,3,L,13,5,1,4,9,1,1,,1,,1,1,2,1,,,3,6,,,2,,,81
+Western Bulldogs,2012,217,Melbourne,4,W,13,7,1,3,10,2,,,,,2,1,6,,4,,2,8,,,5,,,85
+Western Bulldogs,2012,218,Collingwood,6,L,13,8,3,3,11,3,,,,,4,,1,2,,,8,3,1,1,,,,90
+Western Bulldogs,2012,219,North Melbourne,7,W,13,11,5,3,14,3,,,2,,5,1,,,,,7,7,2,2,1,,1,85
+Western Bulldogs,2012,220,Gold Coast,8,W,13,15,2,3,18,1,1,,2,,5,2,4,2,,,8,10,,1,,,1,85
+Western Bulldogs,2012,221,Geelong,9,L,13,10,3,1,11,3,,,6,,5,1,5,1,4,,5,6,,2,2,,1,90
+Western Bulldogs,2012,222,Sydney,10,L,13,4,,6,10,,,,3,,2,1,,2,,,6,4,,,1,,,89
+Western Bulldogs,2012,223,Port Adelaide,12,W,13,17,7,7,24,1,2,,4,1,2,,4,,2,,7,17,1,1,1,1,1,86
+Western Bulldogs,2012,224,Brisbane Lions,13,L,13,7,2,7,14,2,,,3,1,2,,,1,,,7,8,,,1,,1,76
+Western Bulldogs,2012,225,Carlton,17,L,13,7,6,4,11,1,1,,5,,2,,1,1,1,,4,8,1,1,1,,,87
+Western Bulldogs,2012,226,St Kilda,18,L,13,7,5,8,15,2,,,1,,1,,,1,,,5,10,,1,2,,1,86
+Western Bulldogs,2012,227,North Melbourne,19,L,13,9,5,13,22,1,3,,5,,2,,1,2,1,,7,15,1,1,,,1,86
+Western Bulldogs,2012,228,Richmond,20,L,13,7,6,7,14,3,,,,,2,,2,,2,,7,7,1,2,,,1,89
+Western Bulldogs,2012,229,Sydney,21,L,13,11,4,7,18,2,,,1,,3,1,3,1,2,,8,10,,1,1,,1,86
+Western Bulldogs,2012,230↓,Geelong,22,L,13,7,3,6,13,1,2,,,,1,,1,2,,,5,8,,,1,,,45
+Western Bulldogs,2013,231,Brisbane Lions,1,W,13,13,9,5,18,3,,,1,,3,2,,3,,,3,14,,3,1,,3,83
+Western Bulldogs,2013,232,Fremantle,2,L,13,10,3,1,11,,2,,1,,3,,3,1,1,,4,6,,,,,,83
+Western Bulldogs,2013,233,Richmond,3,L,13,5,4,6,11,1,,,2,1,2,,2,,2,,2,10,,,,,1,87
+Western Bulldogs,2013,234↓,Adelaide,4,L,13,2,1,3,5,,,,2,,1,,,,,,3,2,,,,,,54
+Western Bulldogs,2013,235,North Melbourne,7,L,13,9,4,2,11,4,,,1,,1,1,4,3,2,,4,7,,3,,,,82
+Western Bulldogs,2013,236,Gold Coast,8,L,13,12,10,7,19,1,1,,1,1,5,2,1,1,1,,8,11,3,2,,,,81
+Western Bulldogs,2013,237↑,St Kilda,9,W,13,5,,4,9,1,,,1,1,1,1,,,,,2,8,,,2,,1,42
+Western Bulldogs,2013,238↑,Port Adelaide,10,W,13,9,2,12,21,2,2,,4,,3,,5,,1,,9,12,,2,1,,2,59
+Western Bulldogs,2013,239↑,Collingwood,12,L,13,11,6,4,15,2,,,1,,3,,,,,,2,13,,2,1,,1,45
+Western Bulldogs,2013,240↑,Richmond,13,L,13,3,2,1,4,1,,,1,,,1,1,1,1,,1,3,,,,,,32
+Western Bulldogs,2013,241,Melbourne,14,L,13,13,6,6,19,3,1,,3,,4,,,1,,,7,12,1,3,,,,85
+Western Bulldogs,2013,242,Greater Western Sydney,15,W,13,8,5,5,13,3,,,2,,,,3,1,2,,6,6,1,3,,,,80
+Western Bulldogs,2013,243,Essendon,16,L,13,13,7,11,24,2,,,,1,5,,,1,,,9,15,2,1,1,,2,85
+Western Bulldogs,2013,244,Hawthorn,17,L,13,14,8,14,28,2,,,3,1,6,,,3,,1,11,18,2,3,,,,86
+Western Bulldogs,2013,245↓,West Coast,18,W,13,8,5,5,13,1,1,,1,,2,,,,,,2,10,,3,,,1,74
+Western Bulldogs,2013,246↑,Sydney,19,L,13,7,5,1,8,2,1,,1,,3,,,,,,1,6,,1,,2,,37
+Western Bulldogs,2013,247,Carlton,20,W,13,14,5,2,16,2,2,,3,,8,,1,,1,,2,14,,,1,,1,80
+Western Bulldogs,2013,248,Adelaide,21,W,13,11,5,2,13,2,2,,2,,1,,1,2,1,,5,8,1,4,,2,1,79
+Western Bulldogs,2013,249,Brisbane Lions,22,L,13,9,2,10,19,2,3,,3,3,2,1,,1,,,6,13,,1,,,1,83
+Western Bulldogs,2013,250,Melbourne,23,W,13,9,3,5,14,2,1,,3,1,2,1,2,1,,,4,11,,2,2,,1,79
+Western Bulldogs,2014,251↑,West Coast,1,L,13,7,5,4,11,,,,1,1,3,,1,,,,1,10,,,,3,1,38
+Western Bulldogs,2014,252↑,North Melbourne,2,L,13,4,1,3,7,,,,1,,,1,1,,,,1,6,,,,,,20
+Western Bulldogs,2014,253↑,Richmond,3,W,13,2,,2,4,2,,,1,,1,,1,1,1,,1,3,,,,,,23
+Western Bulldogs,2014,254,Greater Western Sydney,4,W,13,10,7,7,17,1,1,,2,1,2,1,3,,2,,4,13,,1,1,2,,81
+Western Bulldogs,2014,255↑,Carlton,5,L,13,8,1,1,9,1,2,,2,,1,1,2,2,,,3,4,,1,,,,34
+Western Bulldogs,2014,256,Adelaide,6,L,13,6,2,5,11,1,,,2,,2,1,2,,1,,1,10,,1,1,,,85
+Western Bulldogs,2014,257↑,Melbourne,8,W,13,8,2,4,12,1,,,1,4,2,3,,,,,3,7,,,1,,,56
+Western Bulldogs,2014,258↑,Gold Coast,10,L,13,3,2,1,4,2,1,,1,,,,,,,,,4,,2,,,,27
+Western Bulldogs,2014,259↑,Fremantle,11,L,13,6,4,5,11,,1,,1,1,1,,1,,,,2,9,1,1,,,2,36
+Western Bulldogs,2014,260↑,Brisbane Lions,12,L,13,8,4,2,10,2,1,,1,,2,,,1,,,4,6,,3,,,2,38
+Western Bulldogs,2014,261↑,Collingwood,13,W,13,10,2,12,22,1,,,3,2,5,,2,,1,,9,12,1,,,,3,72
+Western Bulldogs,2014,262↑,Port Adelaide,14,L,13,3,1,3,6,2,,,,,,,2,,1,,,6,,1,,1,,51
+Western Bulldogs,2014,263↑,North Melbourne,21,L,13,3,1,5,8,,1,,1,,2,1,2,,1,,3,5,,,,,,28
+Western Bulldogs,2014,264↑,Sydney,22,L,13,9,4,2,11,,1,,,2,3,,1,3,,,3,8,,,,,,52
+Western Bulldogs,2014,265,Greater Western Sydney,23,L,13,13,5,7,20,2,2,,1,,6,,8,,3,,5,15,1,3,,,,82

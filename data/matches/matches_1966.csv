@@ -1,0 +1,113 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Victoria Park,1966-04-23 14:20,1966,Collingwood,2,2,7,5,11,10,17,13,Hawthorn,1,4,4,6,6,6,9,8
+1,Windy Hill,1966-04-23 14:20,1966,Essendon,3,0,4,3,7,4,11,6,Geelong,2,1,6,2,7,2,9,4
+1,Lake Oval,1966-04-23 14:20,1966,South Melbourne,4,1,8,7,12,12,16,19,Fitzroy,2,2,4,5,6,7,9,8
+1,Princes Park,1966-04-25 14:20,1966,Carlton,3,3,7,5,10,10,14,16,Richmond,3,4,7,6,11,7,16,10
+1,Western Oval,1966-04-25 14:20,1966,Footscray,1,0,5,4,7,6,11,9,North Melbourne,5,3,8,6,13,8,13,9
+1,M.C.G.,1966-04-25 14:20,1966,Melbourne,1,0,2,4,4,7,4,9,St Kilda,4,4,5,5,12,6,17,7
+2,Moorabbin Oval,1966-04-30 14:20,1966,St Kilda,1,2,8,4,11,7,15,17,Carlton,4,5,5,7,7,11,7,12
+2,Brunswick St,1966-04-30 14:20,1966,Fitzroy,2,4,4,7,5,12,5,12,Collingwood,1,2,2,6,4,10,9,17
+2,Arden St,1966-04-30 14:20,1966,North Melbourne,2,2,3,5,3,8,5,13,Essendon,3,0,8,8,9,12,12,20
+2,M.C.G.,1966-04-30 14:20,1966,Richmond,1,7,5,10,10,13,17,15,Footscray,1,2,1,5,2,12,5,17
+2,Kardinia Park,1966-04-30 14:20,1966,Geelong,2,0,6,11,11,12,13,16,South Melbourne,4,4,5,5,10,6,11,8
+2,Glenferrie Oval,1966-04-30 14:20,1966,Hawthorn,1,6,3,8,5,11,7,14,Melbourne,1,1,1,8,2,10,3,11
+3,Brunswick St,1966-05-07 14:20,1966,Fitzroy,0,2,3,3,4,4,6,8,Carlton,0,4,2,6,9,10,10,16
+3,Windy Hill,1966-05-07 14:20,1966,Essendon,3,4,5,8,7,14,8,18,Collingwood,2,1,2,4,4,5,8,6
+3,Kardinia Park,1966-05-07 14:20,1966,Geelong,2,4,4,7,10,8,12,14,Footscray,2,0,5,2,6,2,7,4
+3,Lake Oval,1966-05-07 14:20,1966,South Melbourne,2,6,5,12,9,19,14,22,Hawthorn,2,3,5,6,6,10,7,15
+3,M.C.G.,1966-05-07 14:20,1966,Richmond,4,2,7,8,14,10,18,15,Melbourne,2,3,3,5,7,8,11,14
+3,Arden St,1966-05-07 14:20,1966,North Melbourne,1,3,6,5,9,7,9,13,St Kilda,3,6,5,6,11,13,15,13
+4,Princes Park,1966-05-14 14:20,1966,Carlton,5,4,6,7,12,9,15,12,Essendon,1,2,2,3,3,7,5,11
+4,Victoria Park,1966-05-14 14:20,1966,Collingwood,4,2,8,5,9,9,12,13,Richmond,2,5,2,9,5,15,5,18
+4,Western Oval,1966-05-14 14:20,1966,Footscray,4,1,5,2,11,12,12,12,Fitzroy,0,0,1,11,1,11,5,16
+4,Moorabbin Oval,1966-05-14 14:20,1966,St Kilda,0,0,9,3,11,4,15,11,Geelong,4,6,4,10,6,16,7,16
+4,Glenferrie Oval,1966-05-14 14:20,1966,Hawthorn,1,1,3,3,6,9,9,13,North Melbourne,6,4,8,9,11,11,14,15
+4,M.C.G.,1966-05-14 14:20,1966,Melbourne,2,5,8,9,8,13,12,17,South Melbourne,6,4,11,9,16,13,17,17
+5,M.C.G.,1966-05-21 14:20,1966,Melbourne,0,2,2,3,3,5,3,14,Carlton,3,4,6,7,8,12,11,13
+5,Arden St,1966-05-21 14:20,1966,North Melbourne,2,0,2,3,6,3,7,4,Collingwood,1,5,5,7,8,11,11,15
+5,Brunswick St,1966-05-21 14:20,1966,Fitzroy,3,2,5,7,9,9,9,10,Essendon,4,1,9,4,11,5,17,11
+5,Western Oval,1966-05-21 14:20,1966,Footscray,4,1,5,4,8,8,10,10,Hawthorn,0,1,2,2,2,5,4,10
+5,Kardinia Park,1966-05-21 14:20,1966,Geelong,3,1,6,5,9,5,12,8,Richmond,9,4,12,4,14,5,15,8
+5,Lake Oval,1966-05-21 14:20,1966,South Melbourne,1,2,4,3,6,9,7,11,St Kilda,2,1,7,6,8,8,13,17
+6,Princes Park,1966-05-28 14:20,1966,Carlton,0,5,5,7,8,8,11,13,Footscray,1,4,1,6,3,8,6,10
+6,Victoria Park,1966-05-28 14:20,1966,Collingwood,2,3,5,10,6,14,12,18,Melbourne,3,3,4,4,6,7,8,9
+6,Windy Hill,1966-05-28 14:20,1966,Essendon,3,8,6,10,10,13,15,15,Hawthorn,0,1,4,3,6,6,12,9
+6,Moorabbin Oval,1966-05-28 14:20,1966,St Kilda,3,4,5,9,9,11,17,16,Fitzroy,0,3,2,4,4,5,8,6
+6,Arden St,1966-05-28 14:20,1966,North Melbourne,3,2,5,3,8,7,8,7,Geelong,4,4,5,6,10,13,12,20
+6,M.C.G.,1966-05-28 14:20,1966,Richmond,1,5,5,11,7,15,12,16,South Melbourne,4,6,6,6,8,7,9,9
+7,Kardinia Park,1966-06-04 14:20,1966,Geelong,4,1,4,3,5,6,8,9,Carlton,1,3,4,7,8,7,8,8
+7,Western Oval,1966-06-04 14:20,1966,Footscray,3,4,3,5,5,10,6,12,Collingwood,1,4,4,12,7,15,8,20
+7,M.C.G.,1966-06-04 14:20,1966,Melbourne,2,3,7,4,9,7,14,10,Essendon,3,2,4,3,6,5,9,6
+7,Brunswick St,1966-06-04 14:20,1966,Fitzroy,3,2,5,4,10,5,12,6,Richmond,3,2,5,6,11,8,15,12
+7,Glenferrie Oval,1966-06-04 14:20,1966,Hawthorn,3,3,7,7,10,10,11,12,St Kilda,2,0,11,2,13,6,15,12
+7,Lake Oval,1966-06-04 14:20,1966,South Melbourne,4,5,10,7,15,12,17,16,North Melbourne,2,5,4,8,7,14,15,16
+8,Princes Park,1966-06-11 14:20,1966,Carlton,2,3,5,8,5,12,7,15,South Melbourne,2,1,6,4,8,6,8,6
+8,Victoria Park,1966-06-11 14:20,1966,Collingwood,1,3,6,8,9,14,14,21,Geelong,2,3,4,4,9,8,11,10
+8,Western Oval,1966-06-11 14:20,1966,Footscray,0,0,5,2,5,2,11,5,Melbourne,3,1,3,3,7,6,7,8
+8,Moorabbin Oval,1966-06-13 14:20,1966,St Kilda,1,0,5,2,6,5,8,8,Essendon,2,4,3,5,7,7,7,7
+8,Brunswick St,1966-06-13 14:20,1966,Fitzroy,1,2,3,4,5,7,8,13,Hawthorn,1,7,5,9,9,13,11,14
+8,M.C.G.,1966-06-13 14:20,1966,Richmond,1,5,3,7,7,9,10,11,North Melbourne,2,3,4,10,6,15,8,23
+9,Glenferrie Oval,1966-06-18 14:20,1966,Hawthorn,0,4,1,7,5,9,9,13,Carlton,2,3,5,4,7,7,9,9
+9,Lake Oval,1966-06-18 14:20,1966,South Melbourne,1,1,5,3,8,4,11,7,Collingwood,3,6,6,9,11,14,13,20
+9,Windy Hill,1966-06-18 14:20,1966,Essendon,1,3,4,9,7,12,9,17,Footscray,1,5,2,5,3,9,4,13
+9,Kardinia Park,1966-06-18 14:20,1966,Geelong,4,1,8,7,10,13,20,24,Fitzroy,4,0,5,0,5,1,5,1
+9,Arden St,1966-06-18 14:20,1966,North Melbourne,2,3,3,3,9,8,9,11,Melbourne,1,1,1,9,1,9,4,12
+9,M.C.G.,1966-06-18 14:20,1966,Richmond,4,5,11,8,12,11,16,13,St Kilda,3,2,6,2,9,6,11,8
+10,Arden St,1966-06-25 14:20,1966,North Melbourne,1,2,1,10,4,14,8,17,Carlton,3,2,5,4,6,4,6,6
+10,Victoria Park,1966-06-25 14:20,1966,Collingwood,2,2,7,7,13,11,17,15,St Kilda,1,2,4,4,5,5,6,9
+10,Windy Hill,1966-06-25 14:20,1966,Essendon,3,2,6,5,11,13,14,16,Richmond,4,2,8,4,10,5,15,6
+10,M.C.G.,1966-06-25 14:20,1966,Melbourne,4,5,6,8,9,12,11,17,Fitzroy,0,1,1,4,2,5,3,7
+10,Western Oval,1966-06-25 14:20,1966,Footscray,3,6,3,8,7,17,8,19,South Melbourne,0,1,6,4,6,7,8,7
+10,Kardinia Park,1966-06-25 14:20,1966,Geelong,4,4,7,8,11,13,17,15,Hawthorn,0,2,3,5,5,7,8,9
+11,Brunswick St,1966-07-02 14:20,1966,Fitzroy,1,1,4,3,5,4,10,7,North Melbourne,4,5,9,6,18,8,22,8
+11,Moorabbin Oval,1966-07-02 14:20,1966,St Kilda,6,3,9,8,14,11,15,15,Footscray,3,4,4,8,6,10,7,12
+11,M.C.G.,1966-07-02 14:20,1966,Melbourne,2,4,5,7,9,15,9,21,Geelong,0,3,6,9,11,12,13,15
+11,Princes Park,1966-07-09 14:20,1966,Carlton,4,3,5,6,6,8,7,11,Collingwood,2,4,5,4,5,5,6,6
+11,Lake Oval,1966-07-09 14:20,1966,South Melbourne,4,4,6,5,9,8,12,10,Essendon,4,2,10,4,12,6,13,12
+11,Glenferrie Oval,1966-07-09 14:20,1966,Hawthorn,2,4,3,6,5,9,6,13,Richmond,3,3,8,7,8,10,11,13
+12,M.C.G.,1966-07-16 14:20,1966,Richmond,2,3,4,7,6,12,8,13,Carlton,1,3,3,3,3,4,4,6
+12,Glenferrie Oval,1966-07-16 14:20,1966,Hawthorn,3,4,4,5,5,5,5,7,Collingwood,3,3,9,9,13,12,16,14
+12,Kardinia Park,1966-07-16 14:20,1966,Geelong,2,1,7,2,11,4,15,7,Essendon,2,2,4,2,4,5,5,7
+12,Brunswick St,1966-07-16 14:20,1966,Fitzroy,4,0,7,1,8,3,8,5,South Melbourne,4,4,5,6,6,13,10,15
+12,Arden St,1966-07-16 14:20,1966,North Melbourne,1,5,4,9,7,13,10,15,Footscray,3,2,5,4,5,5,6,6
+12,Moorabbin Oval,1966-07-16 14:20,1966,St Kilda,1,2,7,7,8,7,12,13,Melbourne,2,3,4,5,6,6,6,6
+13,Princes Park,1966-07-23 14:20,1966,Carlton,1,4,3,7,4,11,7,15,St Kilda,4,0,4,5,4,9,5,11
+13,Victoria Park,1966-07-23 14:20,1966,Collingwood,2,4,9,7,12,10,19,14,Fitzroy,0,2,2,3,7,6,9,7
+13,Windy Hill,1966-07-23 14:20,1966,Essendon,2,5,3,11,5,14,6,16,North Melbourne,1,2,4,3,5,5,6,6
+13,Western Oval,1966-07-23 14:20,1966,Footscray,1,0,4,7,4,10,7,15,Richmond,6,3,8,5,11,14,11,16
+13,Lake Oval,1966-07-23 14:20,1966,South Melbourne,2,3,4,8,6,9,9,11,Geelong,2,4,4,9,8,13,9,17
+13,M.C.G.,1966-07-23 14:20,1966,Melbourne,4,3,7,8,16,10,23,13,Hawthorn,3,2,4,2,6,3,9,5
+14,Princes Park,1966-07-30 14:20,1966,Carlton,2,2,7,7,9,10,12,15,Fitzroy,2,3,5,3,7,5,9,6
+14,Victoria Park,1966-07-30 14:20,1966,Collingwood,2,5,4,7,5,8,7,10,Essendon,8,1,10,5,12,8,18,9
+14,Western Oval,1966-07-30 14:20,1966,Footscray,2,4,2,8,6,9,7,9,Geelong,1,1,5,4,6,7,10,11
+14,Glenferrie Oval,1966-07-30 14:20,1966,Hawthorn,6,8,6,11,8,16,10,16,South Melbourne,1,0,3,9,8,11,14,17
+14,M.C.G.,1966-07-30 14:20,1966,Melbourne,3,3,4,6,6,8,10,12,Richmond,2,4,5,6,9,12,14,13
+14,Moorabbin Oval,1966-07-30 14:20,1966,St Kilda,3,5,5,5,6,15,10,18,North Melbourne,1,4,1,10,1,11,4,16
+15,Windy Hill,1966-08-06 14:20,1966,Essendon,3,3,9,5,12,6,18,7,Carlton,4,2,5,4,8,10,10,13
+15,M.C.G.,1966-08-06 14:20,1966,Richmond,5,3,7,5,9,5,13,8,Collingwood,1,6,9,7,11,8,16,9
+15,Brunswick St,1966-08-06 14:20,1966,Fitzroy,4,5,8,9,9,14,13,17,Footscray,3,2,7,5,10,7,13,11
+15,Kardinia Park,1966-08-06 14:20,1966,Geelong,3,2,7,6,8,8,14,11,St Kilda,2,3,4,6,8,11,10,12
+15,Arden St,1966-08-06 14:20,1966,North Melbourne,4,2,5,5,9,7,11,16,Hawthorn,3,3,8,8,9,10,12,11
+15,Lake Oval,1966-08-06 14:20,1966,South Melbourne,5,3,8,11,12,15,18,17,Melbourne,5,1,7,7,11,12,15,19
+16,Princes Park,1966-08-13 14:20,1966,Carlton,6,5,9,8,12,13,14,15,Melbourne,1,0,7,3,7,7,10,10
+16,Victoria Park,1966-08-13 14:20,1966,Collingwood,3,8,4,14,6,17,12,21,North Melbourne,2,3,4,3,4,4,6,8
+16,Windy Hill,1966-08-13 14:20,1966,Essendon,5,1,9,3,13,6,14,9,Fitzroy,0,2,2,4,3,6,6,9
+16,Glenferrie Oval,1966-08-13 14:20,1966,Hawthorn,3,0,9,3,13,5,18,11,Footscray,2,3,5,3,8,8,9,13
+16,M.C.G.,1966-08-13 14:20,1966,Richmond,0,3,4,7,5,9,6,12,Geelong,3,2,7,4,11,12,11,16
+16,Moorabbin Oval,1966-08-13 14:20,1966,St Kilda,5,4,10,10,14,16,19,19,South Melbourne,2,2,5,4,9,5,10,6
+17,Western Oval,1966-08-20 14:20,1966,Footscray,2,0,3,0,4,1,4,1,Carlton,1,3,5,9,9,13,12,14
+17,M.C.G.,1966-08-20 14:20,1966,Melbourne,2,4,5,8,7,9,12,12,Collingwood,4,3,9,5,14,12,21,15
+17,Glenferrie Oval,1966-08-20 14:20,1966,Hawthorn,2,3,4,6,9,11,11,13,Essendon,1,2,9,2,13,6,15,10
+17,Brunswick St,1966-08-20 14:20,1966,Fitzroy,2,6,3,7,5,9,5,10,St Kilda,0,7,8,15,12,16,17,22
+17,Kardinia Park,1966-08-20 14:20,1966,Geelong,3,5,10,8,13,12,17,16,North Melbourne,3,3,6,8,7,10,11,13
+17,Lake Oval,1966-08-20 14:20,1966,South Melbourne,2,2,7,5,9,7,10,11,Richmond,4,3,4,5,8,10,10,12
+18,Princes Park,1966-08-27 14:20,1966,Carlton,2,5,2,9,5,9,5,10,Geelong,4,1,6,8,12,10,16,14
+18,Victoria Park,1966-08-27 14:20,1966,Collingwood,4,6,7,12,14,17,18,24,Footscray,1,2,1,6,1,8,3,10
+18,Windy Hill,1966-08-27 14:20,1966,Essendon,3,2,5,6,9,12,11,18,Melbourne,5,3,5,5,7,5,7,7
+18,M.C.G.,1966-08-27 14:20,1966,Richmond,4,9,6,11,13,18,20,23,Fitzroy,2,3,7,7,9,8,11,10
+18,Moorabbin Oval,1966-08-27 14:20,1966,St Kilda,1,2,6,4,9,8,14,9,Hawthorn,3,3,4,3,9,4,13,5
+18,Arden St,1966-08-27 14:20,1966,North Melbourne,5,3,7,6,8,13,12,16,South Melbourne,3,0,5,4,8,5,11,5
+Semi Final,M.C.G.,1966-09-03 14:30,1966,Geelong,3,4,3,5,7,9,12,14,Essendon,6,1,10,5,13,6,15,6
+Semi Final,M.C.G.,1966-09-10 14:30,1966,Collingwood,5,2,6,3,10,5,15,9,St Kilda,0,1,6,5,10,9,13,11
+Preliminary Final,M.C.G.,1966-09-17 14:30,1966,St Kilda,4,1,10,2,10,2,15,4,Essendon,2,4,3,4,3,9,7,10
+Grand Final,M.C.G.,1966-09-24 14:50,1966,Collingwood,2,1,5,7,7,11,10,13,St Kilda,2,5,5,6,8,9,10,14

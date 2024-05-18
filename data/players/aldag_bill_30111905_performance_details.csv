@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Footscray,1928,1,South Melbourne,12,W,11,,,,,,,,,,,,,,,,,,,,,,,
+Footscray,1928,2,Essendon,13,L,11,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1930,3,Carlton,17,W,30,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1930,4,Essendon,18,W,30,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1930,5,Geelong,GF,W,30,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1931,6,Geelong,1,W,2,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1931,7,Hawthorn,2,W,2,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1931,8,South Melbourne,3,W,2,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1931,9,Richmond,4,L,2,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1931,10,Footscray,9,W,2,,,,,,,,,,,,,,,,,,,,,,,
+Collingwood,1931,11,Essendon,10,L,2,,,,,,,,,,,,,,,,,,,,,,,

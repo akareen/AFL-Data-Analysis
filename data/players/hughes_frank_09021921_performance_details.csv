@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Richmond,1944,1,Geelong,7,W,4,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1944,2,South Melbourne,8,W,4,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1944,3,St Kilda,9,W,4,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,1945,4,South Melbourne,8,L,31,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,1945,5,Fitzroy,9,L,31,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,1945,6,Hawthorn,10,W,31,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,1945,7,Essendon,11,W,31,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,1945,8,Carlton,12,L,31,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,1945,9,St Kilda,13,W,31,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,1945,10,Collingwood,14,L,31,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,1945,11,Footscray,17,W,31,,,,,,,,,,,,,,,,,,,,,,,

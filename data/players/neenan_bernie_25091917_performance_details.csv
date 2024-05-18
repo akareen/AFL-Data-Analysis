@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Melbourne,1940,1,Footscray,14,W,33,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,1940,2,Carlton,15,L,33,,,,,1,,,,,,,,,,,,,,,,,,
+Melbourne,1941,3,Fitzroy,1,L,33,,,,,4,,,,,,,,,,,,,,,,,,
+Melbourne,1941,4,South Melbourne,2,W,33,,,,,2,,,,,,,,,,,,,,,,,,
+Melbourne,1941,5,Geelong,3,W,33,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,1941,6,St Kilda,4,W,33,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,1941,7,North Melbourne,9,W,33,,,,,2,,,,,,,,,,,,,,,,,,
+Melbourne,1942,8,North Melbourne,7,W,22,,,,,2,,,,,,,,,,,,,,,,,,
+South Melbourne,1942,9,North Melbourne,15,W,22,,,,,1,,,,,,,,,,,,,,,,,,
+South Melbourne,1942,10,Melbourne,16,W,22,,,,,1,,,,,,,,,,,,,,,,,,
+South Melbourne,1942,11,Footscray,SF,W,22,,,,,,,,,,,,,,,,,,,,,,,

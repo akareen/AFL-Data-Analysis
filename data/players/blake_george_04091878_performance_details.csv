@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+St Kilda,1897,1,Geelong,7,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1897,2,Collingwood,8,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1897,3,Fitzroy,9,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1898,4,Melbourne,16,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1903,5,Collingwood,10,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1903,6,Carlton,11,L,,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1903,7,Fitzroy,12,W,,,,,,,,,,,,,,,,,,,,,,,,
+Carlton,1905,8,St Kilda,7,W,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Hawthorn,1968,1,Essendon,1,L,11,10,1,,10,,1,,,,,,,1,2,,,,,,,,,
+Hawthorn,1968,2,South Melbourne,2,D,11,6,,3,9,,,,,,,,,,4,,,,,,,,,
+Hawthorn,1968,3,North Melbourne,10,W,11,4,1,,4,,,,,,,,,,1,,,,,,,,,
+Hawthorn,1968,4,Essendon,12,L,11,5,1,,5,,,,,,,,,,,,,,,,,,,
+Hawthorn,1969,5,North Melbourne,6,W,11,2,,,2,,,,,,,,,1,,,,,,,,,,
+Hawthorn,1969,6,Richmond,7,W,11,1,,,1,,,,,,,,,,1,,,,,,,,,
+Hawthorn,1969,7,Fitzroy,10,W,11,16,4,5,21,3,1,,,,,,,5,2,,,,,,,,,
+Hawthorn,1969,8,Collingwood,12,L,11,12,2,1,13,1,,,,,,,,,2,,,,,,,,,
+Hawthorn,1969,9,Carlton,13,L,11,5,4,1,6,,2,,,,,,,1,1,,,,,,,,,

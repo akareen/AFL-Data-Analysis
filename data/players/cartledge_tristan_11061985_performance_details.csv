@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Essendon,2005,1,Carlton,2,L,22,2,1,2,4,,,7,,,2,,,,,,,4,,,2,,,36
+Essendon,2005,2,Fremantle,8,W,22,1,1,1,2,,,,2,,,,,,,,1,1,,,2,,,27
+Essendon,2005,3,Collingwood,16,W,22,5,2,,5,1,,11,2,,2,,3,,2,,,5,,,,,,45
+Essendon,2005,4,Hawthorn,20,L,22,1,1,1,2,,,2,1,,,,1,,1,,1,1,,,1,,,16
+Essendon,2006,5,Kangaroos,13,L,22,,,3,3,,,1,,,,,1,1,,,1,2,,,,,,17
+Essendon,2006,6,Richmond,21,L,22,2,2,3,5,,,8,2,,1,1,1,,1,,,5,,,4,,,75
+Essendon,2006,7,Western Bulldogs,22,L,22,3,4,10,13,,,13,1,,1,1,2,,,,4,9,,,3,,,69
+Richmond,2008,8,Hawthorn,20,W,38,3,,4,7,1,,5,4,,4,2,4,2,1,,3,4,,,,,1,43
+Richmond,2008,9,Fremantle,21,W,38,2,,4,6,,,9,1,,1,,,,,,2,4,,,2,,,43

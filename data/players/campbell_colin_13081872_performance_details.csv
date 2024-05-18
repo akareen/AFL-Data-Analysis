@@ -1,0 +1,13 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Essendon,1897,1,Geelong,SF,W,,,,,,1,,,,,,,,,,,,,,,,,,
+Essendon,1897,2,Collingwood,SF,W,,,,,,,,,,,,,,,,,,,,,,,,
+Essendon,1898,3,Geelong,6,L,,,,,,,,,,,,,,,,,,,,,,,,
+Essendon,1898,4,Collingwood,7,L,,,,,,,,,,,,,,,,,,,,,,,,
+Essendon,1898,5,South Melbourne,9,W,,,,,,,,,,,,,,,,,,,,,,,,
+Essendon,1898,6,Carlton,10,W,,,,,,,,,,,,,,,,,,,,,,,,
+Essendon,1898,7,St Kilda,11,W,,,,,,2,,,,,,,,,,,,,,,,,,
+Essendon,1898,8,Melbourne,12,W,,,,,,,,,,,,,,,,,,,,,,,,
+Essendon,1898,9,Collingwood,14,L,,,,,,,,,,,,,,,,,,,,,,,,
+Essendon,1898,10,Carlton,15,W,,,,,,1,,,,,,,,,,,,,,,,,,
+Essendon,1898,11,Fitzroy,GF,L,,,,,,,,,,,,,,,,,,,,,,,,
+Essendon,1899,12,Collingwood,7,L,,,,,,,,,,,,,,,,,,,,,,,,

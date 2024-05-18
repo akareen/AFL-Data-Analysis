@@ -1,0 +1,5 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Richmond,1989,1,North Melbourne,5,W,37,6,3,3,9,4,2,3,,,,,,1,1,,,,,,,,,
+Richmond,1989,2,Carlton,6,L,37,1,1,,1,1,,1,,,,,,,1,,,,,,,,,
+Richmond,1989,3,West Coast,7,W,37,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1989,4,Essendon,8,L,37,2,2,,2,,,1,,,,,,,1,,,,,,,,,

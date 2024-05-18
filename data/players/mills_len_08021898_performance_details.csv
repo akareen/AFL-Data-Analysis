@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+St Kilda,1929,1,Fitzroy,15,W,29,,,,,3,,,,,,,,,,,,,,,,,,
+St Kilda,1929,2,Melbourne,17,W,29,,,,,,,,,,,,,,,,,,,,,,,
+Hawthorn,1930,3,St Kilda,1,W,16,,,,,3,,,,,,,,,,,,,,,,,,
+Hawthorn,1930,4,Collingwood,2,L,16,,,,,3,,,,,,,,,,,,,,,,,,
+Hawthorn,1930,5,Carlton,3,L,16,,,,,2,,,,,,,,,,,,,,,,,,
+Hawthorn,1930,6,Essendon,4,L,16,,,,,1,,,,,,,,,,,,,,,,,,
+Hawthorn,1930,7,Geelong,8,W,16,,,,,3,,,,,,,,,,,,,,,,,,
+Hawthorn,1930,8,Fitzroy,9,L,16,,,,,4,,,,,,,,,,,,,,,,,,
+Hawthorn,1930,9,North Melbourne,10,W,16,,,,,1,,,,,,,,,,,,,,,,,,
+Hawthorn,1930,10,Footscray,13,W,16,,,,,,,,,,,,,,,,,,,,,,,

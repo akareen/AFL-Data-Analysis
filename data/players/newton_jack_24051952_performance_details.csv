@@ -1,0 +1,13 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Fitzroy,1971,1,Melbourne,5,L,27,7,6,,7,4,1,,,,,,,1,2,,,,,,,,,
+Fitzroy,1971,2,Geelong,6,W,27,9,3,,9,2,2,,,,,,,1,2,,,,,,,,,
+Fitzroy,1971,3,St Kilda,7,L,27,5,1,,5,1,1,,,,,,,1,2,,,,,,,,,
+Fitzroy,1971,4,South Melbourne,8,W,27,11,7,2,13,8,1,,,,,,,1,2,,,,,,,,,
+Fitzroy,1971,5,Footscray,9,W,27,8,6,,8,6,1,,,,,,,1,2,,,,,,,,,
+Fitzroy,1971,6,Carlton,10,L,27,5,1,,5,2,1,,,,,,,1,4,,,,,,,,,
+Fitzroy,1971,7,Essendon,11,W,27,7,5,,7,4,1,,,,,,,1,6,,,,,,,,,
+Fitzroy,1971,8,Richmond,12,W,27,3,3,,3,1,2,,,,,,,,2,,,,,,,,,
+Fitzroy,1971,9,Hawthorn,13,L,27,6,4,,6,2,1,,,,,,,,,,,,,,,,,
+Fitzroy,1971,10,North Melbourne,14,L,27,6,3,,6,,5,,,,,,,2,1,,,,,,,,,
+Fitzroy,1973,11,Melbourne,4,L,27,4,1,,4,2,1,,,,,,,1,,,,,,,,,,
+Fitzroy,1973,12,South Melbourne,20,W,27,6,2,,6,1,,,,,,,,1,1,,,,,,,,,

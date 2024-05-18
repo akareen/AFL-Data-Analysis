@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Melbourne,1932,1,South Melbourne,1,L,10,,,,,3,,,,,,,,,,,,,,,,,,
+Melbourne,1932,2,Richmond,2,L,10,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,1932,3,Hawthorn,3,L,10,,,,,,,,,,,,,,,,,,,,,,,
+Melbourne,1932,4,Carlton,6,L,10,,,,,1,,,,,,,,,,,,,,,,,,
+Melbourne,1933,5,Richmond,1,L,10,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1934,6,Geelong,1,L,2,,,,,1,,,,,,,,,,,,,,,,,,
+St Kilda,1934,7,Essendon,9,W,2,,,,,,,,,,,,,,,,,,,,,,,
+St Kilda,1934,8,Melbourne,17,W,2,,,,,1,,,,,,,,,,,,,,,,,,

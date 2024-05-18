@@ -1,0 +1,137 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Arden St,1971-04-03 14:10,1971,North Melbourne,4,5,8,8,14,12,18,16,Carlton,3,3,7,8,10,12,14,14
+1,Victoria Park,1971-04-03 14:10,1971,Collingwood,11,2,16,6,20,8,25,10,Footscray,4,1,5,3,7,9,11,11
+1,Windy Hill,1971-04-03 14:10,1971,Essendon,2,6,5,7,8,10,10,12,Hawthorn,4,3,8,11,11,15,13,18
+1,Junction Oval,1971-04-03 14:10,1971,Fitzroy,2,3,6,6,8,6,14,15,Richmond,6,3,11,6,20,16,22,18
+1,Kardinia Park,1971-04-03 14:10,1971,Geelong,5,2,6,4,7,7,8,9,St Kilda,2,4,8,15,13,17,21,25
+1,M.C.G.,1971-04-03 14:10,1971,Melbourne,5,5,10,8,15,13,24,21,South Melbourne,1,3,4,11,6,14,7,18
+2,Princes Park,1971-04-10 14:10,1971,Carlton,5,3,9,4,11,5,20,9,Essendon,1,2,3,5,7,12,9,15
+2,Glenferrie Oval,1971-04-10 14:10,1971,Hawthorn,3,3,9,6,13,8,14,13,Fitzroy,3,3,5,5,6,10,7,11
+2,Lake Oval,1971-04-10 14:10,1971,South Melbourne,1,5,5,12,9,16,12,20,Geelong,4,2,9,4,14,8,16,14
+2,M.C.G.,1971-04-12 14:10,1971,Richmond,4,1,6,3,9,4,10,9,Collingwood,5,1,8,6,13,8,16,10
+2,Western Oval,1971-04-12 14:10,1971,Footscray,2,1,5,11,7,11,8,15,Melbourne,4,3,5,4,10,8,16,11
+2,Moorabbin Oval,1971-04-12 14:10,1971,St Kilda,7,4,7,9,13,11,16,12,North Melbourne,1,2,7,6,11,6,12,8
+3,M.C.G.,1971-04-17 14:10,1971,Melbourne,4,2,9,3,14,9,19,13,Carlton,3,3,6,8,10,9,15,10
+3,Windy Hill,1971-04-17 14:10,1971,Essendon,1,2,4,7,6,8,9,12,Collingwood,2,3,5,3,8,6,9,12
+3,Junction Oval,1971-04-17 14:10,1971,Fitzroy,3,3,9,9,12,18,17,26,North Melbourne,5,5,6,6,13,7,14,10
+3,Western Oval,1971-04-17 14:10,1971,Footscray,3,5,8,7,12,10,14,15,South Melbourne,1,0,5,4,10,8,14,9
+3,Glenferrie Oval,1971-04-17 14:10,1971,Hawthorn,5,6,9,8,12,14,16,19,Geelong,5,2,10,4,13,7,16,11
+3,Waverley Park,1971-04-17 14:10,1971,Richmond,4,3,5,3,7,5,10,8,St Kilda,0,3,2,8,4,10,6,13
+4,Kardinia Park,1971-04-24 14:10,1971,Geelong,1,3,5,5,10,7,13,8,Carlton,4,5,5,10,10,17,13,21
+4,Victoria Park,1971-04-24 14:10,1971,Collingwood,2,7,10,16,15,20,19,20,Fitzroy,2,3,6,4,8,5,12,9
+4,Waverley Park,1971-04-24 14:10,1971,Melbourne,1,6,3,8,6,11,10,18,Essendon,3,3,5,5,6,6,6,7
+4,Arden St,1971-04-24 14:10,1971,North Melbourne,3,1,8,9,8,12,14,15,Footscray,3,5,6,7,12,11,13,14
+4,Moorabbin Oval,1971-04-24 14:10,1971,St Kilda,2,3,7,3,9,5,10,9,Hawthorn,3,4,8,8,11,16,18,19
+4,Lake Oval,1971-04-24 14:10,1971,South Melbourne,2,2,3,2,3,9,5,9,Richmond,2,3,8,6,17,10,20,13
+5,Princes Park,1971-05-01 14:10,1971,Carlton,3,4,5,8,9,16,13,18,St Kilda,2,2,4,9,6,12,11,17
+5,Victoria Park,1971-05-01 14:10,1971,Collingwood,6,3,10,7,12,10,16,15,North Melbourne,2,4,6,6,8,7,10,11
+5,Windy Hill,1971-05-01 14:10,1971,Essendon,8,4,13,5,18,9,21,15,Geelong,2,0,10,2,14,7,16,12
+5,Junction Oval,1971-05-01 14:10,1971,Fitzroy,2,4,3,6,10,8,14,8,Melbourne,5,5,12,10,14,12,17,18
+5,M.C.G.,1971-05-01 14:10,1971,Richmond,3,1,7,4,10,12,14,17,Footscray,8,6,12,10,16,14,17,19
+5,Waverley Park,1971-05-01 14:10,1971,Hawthorn,1,4,4,9,9,16,12,21,South Melbourne,2,2,2,4,2,5,6,9
+6,Lake Oval,1971-05-08 14:10,1971,South Melbourne,5,2,10,6,12,9,13,14,Carlton,4,2,7,5,11,7,14,10
+6,M.C.G.,1971-05-08 14:10,1971,Melbourne,4,3,5,3,7,6,10,12,Collingwood,6,4,12,8,15,13,18,19
+6,Moorabbin Oval,1971-05-08 14:10,1971,St Kilda,6,11,9,12,12,20,14,25,Essendon,2,0,6,6,7,7,9,11
+6,Waverley Park,1971-05-08 14:10,1971,Geelong,3,5,4,6,12,11,13,13,Fitzroy,3,4,10,10,13,13,20,16
+6,Western Oval,1971-05-08 14:10,1971,Footscray,8,1,9,4,13,4,18,5,Hawthorn,5,4,9,8,12,9,16,11
+6,Arden St,1971-05-08 14:10,1971,North Melbourne,4,1,6,6,11,8,12,12,Richmond,4,3,9,6,16,10,22,14
+7,Waverley Park,1971-05-15 14:10,1971,Carlton,1,4,7,10,9,14,12,19,Footscray,1,3,3,7,10,9,11,13
+7,Victoria Park,1971-05-15 14:10,1971,Collingwood,5,2,7,8,10,12,15,16,Geelong,2,2,6,5,11,6,14,8
+7,Windy Hill,1971-05-15 14:10,1971,Essendon,2,6,7,8,9,12,12,17,South Melbourne,4,1,6,5,11,8,16,9
+7,Junction Oval,1971-05-15 14:10,1971,Fitzroy,3,4,3,12,3,15,11,16,St Kilda,1,3,4,9,12,12,13,14
+7,Glenferrie Oval,1971-05-15 14:10,1971,Hawthorn,6,5,15,7,17,13,21,19,Richmond,0,0,6,3,10,3,12,6
+7,M.C.G.,1971-05-15 14:10,1971,Melbourne,5,2,10,5,14,12,22,17,North Melbourne,5,4,10,10,12,12,15,14
+8,M.C.G.,1971-05-22 14:10,1971,Richmond,3,4,6,10,8,17,16,26,Carlton,3,4,6,11,9,15,9,16
+8,Moorabbin Oval,1971-05-22 14:10,1971,St Kilda,6,3,13,8,16,11,20,15,Collingwood,3,5,7,8,11,9,13,10
+8,Western Oval,1971-05-22 14:10,1971,Footscray,5,3,9,6,12,13,17,17,Essendon,2,1,6,3,9,6,12,7
+8,Lake Oval,1971-05-22 14:10,1971,South Melbourne,4,3,7,7,10,8,13,11,Fitzroy,2,3,10,7,15,15,19,19
+8,Kardinia Park,1971-05-22 14:10,1971,Geelong,4,2,5,7,7,9,10,12,Melbourne,3,6,6,9,9,16,14,22
+8,Waverley Park,1971-05-22 14:10,1971,North Melbourne,1,2,2,5,2,6,7,10,Hawthorn,5,6,10,8,20,12,22,15
+9,Princes Park,1971-05-29 14:10,1971,Carlton,2,1,3,4,4,10,4,12,Hawthorn,2,4,5,7,11,8,14,12
+9,Victoria Park,1971-05-29 14:10,1971,Collingwood,2,1,7,4,10,7,15,10,South Melbourne,2,2,5,4,7,5,10,6
+9,Waverley Park,1971-05-29 14:10,1971,Essendon,1,2,4,6,7,9,13,11,Richmond,8,2,9,3,13,6,17,11
+9,Junction Oval,1971-05-29 14:10,1971,Fitzroy,2,3,10,10,11,11,17,17,Footscray,5,8,5,10,9,17,10,18
+9,Arden St,1971-05-29 14:10,1971,North Melbourne,3,5,6,18,9,19,16,28,Geelong,7,7,7,7,11,12,16,13
+9,M.C.G.,1971-05-29 14:10,1971,Melbourne,1,4,5,8,7,9,10,10,St Kilda,2,2,4,3,9,4,10,7
+10,Princes Park,1971-06-05 14:10,1971,Carlton,5,4,9,6,11,10,13,12,Fitzroy,1,2,5,6,9,9,10,15
+10,Glenferrie Oval,1971-06-05 14:10,1971,Hawthorn,4,0,8,5,11,9,15,17,Collingwood,4,6,4,8,6,12,7,13
+10,Windy Hill,1971-06-05 14:10,1971,Essendon,3,3,4,10,9,13,13,18,North Melbourne,2,3,5,5,7,9,8,15
+10,Waverley Park,1971-06-05 14:10,1971,Footscray,2,3,5,7,12,9,19,10,Geelong,5,5,7,8,12,12,18,14
+10,M.C.G.,1971-06-05 14:10,1971,Richmond,3,4,8,6,13,9,15,16,Melbourne,6,1,7,4,9,6,11,9
+10,Lake Oval,1971-06-05 14:10,1971,South Melbourne,2,0,5,3,5,4,9,6,St Kilda,6,3,9,5,16,14,18,23
+11,Waverley Park,1971-06-14 14:10,1971,Collingwood,6,3,14,6,19,9,24,14,Carlton,0,2,3,3,4,5,11,7
+11,Junction Oval,1971-06-14 14:10,1971,Fitzroy,2,2,6,6,8,7,17,13,Essendon,3,2,4,3,7,7,8,9
+11,Moorabbin Oval,1971-06-14 14:10,1971,St Kilda,3,6,8,7,16,11,17,16,Footscray,1,2,5,4,6,4,9,5
+11,Kardinia Park,1971-06-14 14:10,1971,Geelong,4,6,7,7,10,10,12,11,Richmond,3,4,6,9,14,10,20,13
+11,M.C.G.,1971-06-14 14:10,1971,Melbourne,1,5,3,5,6,8,10,14,Hawthorn,7,1,8,4,11,8,14,10
+11,Arden St,1971-06-14 14:10,1971,North Melbourne,3,3,7,7,9,11,12,17,South Melbourne,5,4,8,10,12,16,13,20
+12,Princes Park,1971-06-19 14:10,1971,Carlton,3,5,7,10,8,12,16,18,North Melbourne,2,1,2,1,3,4,3,5
+12,Western Oval,1971-06-19 14:10,1971,Footscray,1,1,4,6,6,8,8,15,Collingwood,0,2,2,3,3,9,6,10
+12,Glenferrie Oval,1971-06-19 14:10,1971,Hawthorn,3,6,8,9,11,10,14,20,Essendon,2,1,5,1,10,5,11,5
+12,M.C.G.,1971-06-19 14:10,1971,Richmond,4,6,4,6,5,9,6,11,Fitzroy,3,4,4,10,6,12,8,17
+12,Moorabbin Oval,1971-06-19 14:10,1971,St Kilda,5,2,7,9,12,10,14,15,Geelong,1,0,2,1,3,2,3,3
+12,Waverley Park,1971-06-19 14:10,1971,South Melbourne,2,0,2,3,2,5,2,6,Melbourne,1,6,2,9,5,11,6,13
+13,Windy Hill,1971-06-26 14:10,1971,Essendon,2,1,4,4,7,5,13,6,Carlton,1,4,5,7,10,12,14,14
+13,Victoria Park,1971-06-26 14:10,1971,Collingwood,3,5,10,10,14,12,18,16,Richmond,3,7,6,7,8,9,12,12
+13,Waverley Park,1971-06-26 14:10,1971,Fitzroy,3,0,4,3,5,7,7,16,Hawthorn,4,3,10,5,12,9,14,9
+13,M.C.G.,1971-06-26 14:10,1971,Melbourne,4,5,5,8,6,12,11,13,Footscray,2,2,7,4,10,7,12,8
+13,Kardinia Park,1971-06-26 14:10,1971,Geelong,3,3,7,5,9,6,13,9,South Melbourne,1,1,3,5,5,11,9,12
+13,Arden St,1971-06-26 14:10,1971,North Melbourne,5,6,6,6,6,14,6,16,St Kilda,1,4,11,9,11,10,16,15
+14,Waverley Park,1971-07-03 14:10,1971,Carlton,1,6,5,9,8,15,12,16,Melbourne,3,2,7,3,9,4,11,6
+14,Victoria Park,1971-07-03 14:10,1971,Collingwood,5,5,13,10,23,15,30,20,Essendon,2,5,3,9,5,10,7,11
+14,Arden St,1971-07-03 14:10,1971,North Melbourne,5,4,9,5,13,10,13,11,Fitzroy,4,1,6,7,8,10,11,16
+14,Lake Oval,1971-07-03 14:10,1971,South Melbourne,6,3,10,6,13,12,18,15,Footscray,5,2,8,3,17,8,19,11
+14,Kardinia Park,1971-07-03 14:10,1971,Geelong,1,0,3,2,10,5,13,6,Hawthorn,6,6,9,9,12,10,15,13
+14,Moorabbin Oval,1971-07-03 14:10,1971,St Kilda,3,2,4,6,12,8,13,9,Richmond,1,5,5,6,7,8,13,12
+15,Princes Park,1971-07-10 14:10,1971,Carlton,8,4,13,8,16,12,21,15,Geelong,4,3,10,9,13,12,15,14
+15,Junction Oval,1971-07-10 14:10,1971,Fitzroy,2,4,4,6,4,13,11,18,Collingwood,6,4,11,5,13,5,16,6
+15,Windy Hill,1971-07-10 14:10,1971,Essendon,3,1,4,5,7,11,11,12,Melbourne,4,5,6,8,9,13,12,17
+15,Waverley Park,1971-07-10 14:10,1971,Footscray,6,6,11,12,18,18,22,31,North Melbourne,2,1,3,3,7,3,11,5
+15,Glenferrie Oval,1971-07-10 14:10,1971,Hawthorn,5,2,7,4,13,5,20,5,St Kilda,2,2,8,4,11,6,15,12
+15,M.C.G.,1971-07-10 14:10,1971,Richmond,2,9,4,13,10,15,12,18,South Melbourne,1,4,7,6,8,8,11,13
+16,Moorabbin Oval,1971-07-17 14:10,1971,St Kilda,4,7,8,12,11,14,13,19,Carlton,1,2,6,2,8,5,8,6
+16,Arden St,1971-07-17 14:10,1971,North Melbourne,2,5,3,5,4,8,6,9,Collingwood,1,2,3,8,8,10,8,12
+16,Waverley Park,1971-07-17 14:10,1971,Geelong,4,1,10,2,10,6,13,7,Essendon,8,5,8,8,13,14,16,18
+16,M.C.G.,1971-07-17 14:10,1971,Melbourne,1,2,1,7,2,8,4,10,Fitzroy,2,4,4,4,5,6,7,7
+16,Western Oval,1971-07-17 14:10,1971,Footscray,3,2,10,3,11,4,13,8,Richmond,2,7,4,9,6,13,6,15
+16,Lake Oval,1971-07-17 14:10,1971,South Melbourne,0,3,1,9,2,12,3,15,Hawthorn,5,6,8,7,11,12,11,16
+17,Princes Park,1971-07-24 14:10,1971,Carlton,5,3,13,7,20,12,24,16,South Melbourne,1,1,3,3,9,3,11,7
+17,Victoria Park,1971-07-24 14:10,1971,Collingwood,2,3,4,5,8,9,12,12,Melbourne,4,3,6,4,7,9,11,12
+17,Windy Hill,1971-07-24 14:10,1971,Essendon,0,3,3,6,5,8,7,8,St Kilda,4,7,8,11,10,12,14,15
+17,Junction Oval,1971-07-24 14:10,1971,Fitzroy,4,9,9,10,13,15,20,19,Geelong,4,1,6,3,7,7,11,10
+17,Glenferrie Oval,1971-07-24 14:10,1971,Hawthorn,3,4,8,11,13,14,23,16,Footscray,1,3,1,5,3,14,4,15
+17,Waverley Park,1971-07-24 14:10,1971,Richmond,3,3,11,7,18,11,25,19,North Melbourne,3,2,5,3,7,6,12,7
+18,Western Oval,1971-07-31 14:10,1971,Footscray,2,3,5,6,9,8,11,10,Carlton,2,5,6,7,9,10,15,16
+18,Kardinia Park,1971-07-31 14:10,1971,Geelong,4,2,10,6,15,8,21,11,Collingwood,4,5,11,7,18,10,19,14
+18,Lake Oval,1971-07-31 14:10,1971,South Melbourne,4,4,6,4,9,5,13,8,Essendon,1,2,8,10,9,12,13,18
+18,Waverley Park,1971-07-31 14:10,1971,St Kilda,5,1,6,1,11,5,13,5,Fitzroy,1,2,4,9,5,9,9,10
+18,M.C.G.,1971-07-31 14:10,1971,Richmond,5,1,7,7,11,9,16,12,Hawthorn,4,3,6,4,10,6,11,10
+18,Arden St,1971-07-31 14:10,1971,North Melbourne,2,7,3,8,7,13,8,14,Melbourne,1,4,4,5,4,5,9,8
+19,Princes Park,1971-08-07 14:10,1971,Carlton,3,2,7,5,8,6,8,10,Richmond,2,4,4,9,9,13,14,17
+19,Waverley Park,1971-08-07 14:10,1971,Collingwood,2,1,7,5,7,6,8,10,St Kilda,3,2,5,2,11,5,12,7
+19,Windy Hill,1971-08-07 14:10,1971,Essendon,1,4,4,6,7,17,7,23,Footscray,0,2,4,7,8,8,9,12
+19,Junction Oval,1971-08-07 14:10,1971,Fitzroy,5,8,6,8,10,14,11,17,South Melbourne,2,2,6,6,7,9,8,10
+19,M.C.G.,1971-08-07 14:10,1971,Melbourne,4,5,6,7,10,13,18,17,Geelong,2,2,4,3,8,6,9,8
+19,Glenferrie Oval,1971-08-07 14:10,1971,Hawthorn,4,5,12,6,18,9,23,16,North Melbourne,3,4,5,5,7,7,9,8
+20,Glenferrie Oval,1971-08-14 14:10,1971,Hawthorn,4,3,6,4,7,7,11,15,Carlton,6,3,10,4,14,5,19,6
+20,Waverley Park,1971-08-14 14:10,1971,South Melbourne,5,2,7,3,8,8,9,8,Collingwood,6,7,11,8,13,9,18,18
+20,M.C.G.,1971-08-14 14:10,1971,Richmond,4,7,10,11,13,14,18,18,Essendon,2,2,3,4,8,6,10,12
+20,Western Oval,1971-08-14 14:10,1971,Footscray,5,4,7,6,9,8,11,9,Fitzroy,2,4,7,11,8,17,15,20
+20,Kardinia Park,1971-08-14 14:10,1971,Geelong,5,1,12,2,16,6,24,7,North Melbourne,3,3,6,4,9,5,11,10
+20,Moorabbin Oval,1971-08-14 14:10,1971,St Kilda,1,0,8,8,9,9,14,11,Melbourne,4,7,5,7,7,9,9,10
+21,Victoria Park,1971-08-21 14:10,1971,Collingwood,4,3,7,9,9,9,15,15,Hawthorn,4,3,8,5,14,16,20,20
+21,Arden St,1971-08-21 14:10,1971,North Melbourne,6,4,10,7,12,8,15,13,Essendon,2,3,3,5,6,11,10,12
+21,Kardinia Park,1971-08-21 14:10,1971,Geelong,5,7,9,11,13,14,18,18,Footscray,2,2,5,4,9,5,15,5
+21,M.C.G.,1971-08-21 14:10,1971,Melbourne,7,4,12,8,13,9,15,12,Richmond,4,1,9,4,14,9,19,9
+21,Moorabbin Oval,1971-08-21 14:10,1971,St Kilda,3,2,7,4,11,9,18,14,South Melbourne,1,2,2,7,4,8,6,14
+21,Junction Oval,1971-08-21 14:13,1971,Fitzroy,2,4,9,10,11,13,15,15,Carlton,3,7,5,9,10,13,11,16
+22,Princes Park,1971-08-28 14:10,1971,Carlton,2,0,3,5,8,6,16,10,Collingwood,7,2,10,5,11,8,13,9
+22,Windy Hill,1971-08-28 14:10,1971,Essendon,4,5,7,5,11,10,12,12,Fitzroy,1,4,5,11,9,15,13,17
+22,Western Oval,1971-08-28 14:10,1971,Footscray,2,3,3,8,6,9,10,14,St Kilda,2,9,4,11,12,18,12,18
+22,M.C.G.,1971-08-28 14:10,1971,Richmond,5,4,10,7,10,13,16,14,Geelong,1,3,6,5,9,13,14,18
+22,Glenferrie Oval,1971-08-28 14:10,1971,Hawthorn,2,4,9,11,14,12,18,16,Melbourne,2,4,4,6,7,13,8,17
+22,Lake Oval,1971-08-28 14:10,1971,South Melbourne,5,7,5,8,17,12,19,17,North Melbourne,1,1,2,3,2,5,8,11
+Semi Final,M.C.G.,1971-09-04 14:30,1971,Richmond,4,4,8,8,11,10,18,13,Collingwood,4,1,5,5,11,8,11,11
+Semi Final,M.C.G.,1971-09-11 14:30,1971,Hawthorn,2,7,8,12,11,16,12,18,St Kilda,1,4,4,5,7,7,12,16
+Preliminary Final,M.C.G.,1971-09-18 14:30,1971,St Kilda,1,2,6,7,11,10,16,12,Richmond,3,2,7,2,9,4,12,6
+Grand Final,M.C.G.,1971-09-25 14:30,1971,Hawthorn,2,2,4,4,5,7,12,10,St Kilda,2,1,4,6,8,9,11,9

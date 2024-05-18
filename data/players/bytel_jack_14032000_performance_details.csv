@@ -1,0 +1,24 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+St Kilda,2020,1,Geelong,11,L,23,7,2,11,18,,,,2,1,1,5,2,1,2,,8,10,,,,,1,73
+St Kilda,2020,2,Essendon,12,W,23,,,13,13,,,,1,,,3,1,,1,,5,8,,,,,,71
+St Kilda,2020,3,Brisbane Lions,13,L,23,2,1,6,8,,,,5,,2,1,2,2,1,,3,7,,,1,,,57
+St Kilda,2021,4,Greater Western Sydney,1,W,23,9,1,4,13,,,,10,1,5,6,2,1,,,7,5,,,2,,,78
+St Kilda,2021,5↑,Melbourne,2,L,23,2,1,4,6,,,,1,1,,,1,,1,,5,2,,,1,,,20
+St Kilda,2021,6,West Coast,4,W,23,6,1,13,19,,,,7,,3,5,3,,1,,10,9,,,,1,,66
+St Kilda,2021,7,Richmond,5,L,23,4,3,6,10,,,,4,2,2,2,1,,,,3,6,,,,,,74
+St Kilda,2021,8↑,Port Adelaide,6,L,23,1,,5,6,,,,,,1,3,1,,,,4,1,,,,,,17
+St Kilda,2021,9,Hawthorn,7,W,23,8,2,13,21,,,,8,1,5,7,3,1,2,,12,10,,,,,1,73
+St Kilda,2021,10,Gold Coast,8,W,23,7,3,8,15,,1,,2,1,4,3,4,1,1,,4,11,,,,,,74
+St Kilda,2021,11,Geelong,9,L,23,8,3,8,16,,,,7,1,,4,2,,,,7,9,,1,,,,72
+St Kilda,2021,12,Western Bulldogs,10,L,23,5,1,7,12,,,,3,,1,4,2,3,1,,8,5,,,,,,58
+St Kilda,2021,13↑,Adelaide,13,L,23,3,,1,4,,,,2,1,,1,,1,,,2,,,,1,,,38
+St Kilda,2021,14↑,Port Adelaide,18,L,23,4,1,1,5,,,,3,,1,,,,,,,5,,,,,,35
+St Kilda,2021,15↑,Sydney,21,W,23,3,,2,5,,,,1,,,,,,,,,5,,,,,,12
+St Kilda,2021,16,Fremantle,23,W,23,10,2,7,17,2,,,7,1,2,3,6,1,2,,6,13,,,1,,,88
+St Kilda,2023,17,Fremantle,1,W,23,9,4,7,16,1,,,7,2,1,3,4,2,1,,7,9,,1,,,,79
+St Kilda,2023,18↑,Gold Coast,4,W,23,2,2,1,3,,,,,1,,,,,,,1,2,,,,1,,7
+St Kilda,2023,19↑,Collingwood,5,L,23,2,1,4,6,,,,,,,1,,,,,3,3,,,,,,12
+St Kilda,2023,20↑,North Melbourne,8,W,23,2,2,2,4,,1,,1,1,,,2,,1,,2,3,,1,1,,,21
+St Kilda,2023,21↑,Adelaide,9,L,23,3,1,4,7,,,,3,,2,1,2,,1,,3,4,,,1,,,30
+St Kilda,2023,22,North Melbourne,19,W,23,7,5,5,12,,,,,,1,2,3,,1,,3,9,,,,,,66
+Collingwood,2024,23↑,West Coast,10,W,27,3,4,4,7,,,,,1,1,,1,1,,,2,5,1,,,1,,46

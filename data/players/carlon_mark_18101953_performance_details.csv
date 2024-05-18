@@ -1,0 +1,7 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+St Kilda,1977,1,Hawthorn,6,L,21,2,1,,2,,,,,,,,,,,,,,,,,,,
+St Kilda,1977,2,Geelong,13,W,21,11,4,3,14,,1,,,,,,,2,4,,,,,,,,,
+St Kilda,1977,3,Hawthorn,17,L,21,7,2,6,13,,,,,,,,,1,,,,,,,,,,
+St Kilda,1977,4,South Melbourne,18,L,21,3,,,3,,,,,,,,,1,1,,,,,,,,,
+St Kilda,1977,5,Collingwood,19,L,21,6,1,5,11,,,,,,,,,4,1,,,,,,,,,
+St Kilda,1977,6,Melbourne,20,L,21,6,2,4,10,1,,,,,,,,2,2,,,,,,,,,

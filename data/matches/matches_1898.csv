@@ -1,0 +1,71 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Princes Park,1898-05-14 15:00,1898,Carlton,2,2,4,3,5,5,6,11,South Melbourne,1,2,1,7,2,10,3,12
+1,Victoria Park,1898-05-14 15:00,1898,Collingwood,3,2,3,4,6,4,7,6,Geelong,0,4,1,4,2,9,3,9
+1,East Melbourne,1898-05-14 15:00,1898,Essendon,1,1,5,7,9,8,10,10,Fitzroy,0,1,1,1,2,1,2,5
+1,Junction Oval,1898-05-14 15:00,1898,St Kilda,0,0,1,1,1,3,2,4,Melbourne,4,6,6,9,10,12,13,14
+2,M.C.G.,1898-05-21 15:00,1898,Melbourne,2,3,6,4,10,9,12,11,Carlton,1,0,3,0,3,0,4,2
+2,Brunswick St,1898-05-21 15:00,1898,Fitzroy,4,4,5,4,7,5,7,6,Collingwood,0,1,3,3,3,4,5,6
+2,Lake Oval,1898-05-21 15:00,1898,South Melbourne,0,0,1,7,2,7,3,9,Essendon,2,2,2,4,5,7,5,8
+2,Corio Oval,1898-05-21 15:00,1898,Geelong,4,8,5,11,8,15,11,19,St Kilda,0,1,2,2,2,3,2,5
+3,Princes Park,1898-05-24 15:00,1898,Carlton,1,0,2,0,2,3,2,4,Essendon,2,4,4,4,4,4,4,4
+3,M.C.G.,1898-05-24 15:00,1898,Melbourne,1,3,4,5,5,8,6,10,Collingwood,2,1,2,2,5,4,5,6
+3,Junction Oval,1898-05-24 15:00,1898,St Kilda,0,1,0,1,2,4,2,4,Fitzroy,1,1,4,3,4,6,7,11
+3,Corio Oval,1898-05-24 15:00,1898,Geelong,1,0,4,7,6,9,7,18,South Melbourne,1,2,1,2,1,2,1,2
+4,Princes Park,1898-05-28 15:00,1898,Carlton,1,1,1,2,3,4,4,5,Geelong,0,3,1,9,1,12,3,12
+4,Lake Oval,1898-05-28 15:00,1898,South Melbourne,1,3,3,5,4,10,7,11,Collingwood,1,0,2,1,3,2,6,6
+4,East Melbourne,1898-05-28 15:00,1898,Essendon,5,4,7,10,11,12,16,16,St Kilda,1,1,3,7,4,7,5,7
+4,Brunswick St,1898-05-28 15:00,1898,Fitzroy,1,2,1,7,2,11,4,14,Melbourne,1,2,1,3,1,5,2,7
+5,Victoria Park,1898-06-04 15:00,1898,Collingwood,2,1,5,5,6,9,6,12,Carlton,0,3,0,3,0,5,0,6
+5,East Melbourne,1898-06-04 15:00,1898,Essendon,2,2,2,4,5,8,6,12,Melbourne,1,0,2,3,3,5,3,5
+5,Corio Oval,1898-06-04 15:00,1898,Geelong,1,2,2,5,2,8,4,10,Fitzroy,2,1,3,2,5,2,6,3
+5,Junction Oval,1898-06-04 15:00,1898,St Kilda,0,2,0,2,1,3,3,3,South Melbourne,1,3,4,10,5,16,7,20
+6,Brunswick St,1898-06-11 15:00,1898,Fitzroy,4,2,4,3,5,7,5,7,Carlton,0,1,3,5,3,5,4,9
+6,Junction Oval,1898-06-11 15:00,1898,St Kilda,1,1,2,2,2,2,5,4,Collingwood,4,0,5,1,8,4,10,8
+6,Corio Oval,1898-06-11 15:00,1898,Geelong,1,2,2,2,3,5,4,7,Essendon,2,0,3,3,3,3,3,6
+6,M.C.G.,1898-06-11 15:00,1898,Melbourne,1,0,1,2,1,5,1,7,South Melbourne,0,1,0,2,1,2,2,3
+7,Princes Park,1898-06-18 15:00,1898,Carlton,3,5,4,7,5,12,5,13,St Kilda,1,0,3,2,3,3,5,3
+7,Victoria Park,1898-06-18 15:00,1898,Collingwood,2,2,4,5,5,8,5,10,Essendon,1,1,1,1,3,1,3,2
+7,Lake Oval,1898-06-18 15:00,1898,South Melbourne,4,3,5,4,6,9,7,9,Fitzroy,0,1,0,7,0,7,2,10
+7,M.C.G.,1898-06-18 15:00,1898,Melbourne,1,1,5,1,9,4,9,5,Geelong,0,2,3,4,4,4,5,9
+8,Lake Oval,1898-06-25 15:00,1898,South Melbourne,0,3,2,4,6,7,6,8,Carlton,0,0,0,3,0,3,1,6
+8,Corio Oval,1898-06-25 15:00,1898,Geelong,3,1,3,2,6,4,6,5,Collingwood,0,1,0,4,1,5,2,10
+8,Brunswick St,1898-06-25 15:00,1898,Fitzroy,0,0,1,2,1,3,2,4,Essendon,3,2,4,5,5,10,8,11
+8,M.C.G.,1898-06-25 15:00,1898,Melbourne,2,8,2,11,3,15,5,15,St Kilda,1,0,2,2,2,2,3,3
+9,Princes Park,1898-07-09 15:00,1898,Carlton,3,0,3,1,4,4,4,4,Melbourne,0,1,1,8,2,8,3,10
+9,Victoria Park,1898-07-09 15:00,1898,Collingwood,0,3,0,8,4,10,4,11,Fitzroy,0,1,1,3,1,3,3,5
+9,East Melbourne,1898-07-09 15:00,1898,Essendon,3,4,4,8,5,10,7,12,South Melbourne,1,2,1,4,3,5,4,6
+9,Junction Oval,1898-07-09 15:00,1898,St Kilda,2,1,3,4,3,5,3,7,Geelong,4,6,7,9,9,13,13,15
+10,East Melbourne,1898-07-16 15:00,1898,Essendon,1,2,3,4,5,7,10,17,Carlton,0,2,0,2,0,2,1,3
+10,Victoria Park,1898-07-16 15:00,1898,Collingwood,1,5,6,9,7,10,8,11,Melbourne,0,1,0,1,0,4,1,5
+10,Brunswick St,1898-07-16 15:00,1898,Fitzroy,4,4,7,5,9,8,9,13,St Kilda,0,0,0,1,2,1,3,1
+10,Lake Oval,1898-07-16 15:00,1898,South Melbourne,1,2,1,2,1,3,1,3,Geelong,0,2,1,3,2,6,3,11
+11,Corio Oval,1898-07-23 15:00,1898,Geelong,4,2,4,2,6,9,8,10,Carlton,0,0,3,0,3,0,5,2
+11,Victoria Park,1898-07-23 15:00,1898,Collingwood,0,2,2,5,5,8,10,13,South Melbourne,1,4,1,5,1,7,1,7
+11,Junction Oval,1898-07-23 15:00,1898,St Kilda,0,1,0,5,0,7,1,9,Essendon,4,0,7,2,8,6,10,11
+11,M.C.G.,1898-07-23 15:00,1898,Melbourne,2,2,2,2,5,2,5,3,Fitzroy,0,1,2,3,3,6,7,8
+12,Princes Park,1898-07-30 15:00,1898,Carlton,0,0,0,1,1,4,1,4,Collingwood,1,3,2,6,3,6,3,11
+12,M.C.G.,1898-07-30 15:00,1898,Melbourne,0,1,0,2,1,5,2,8,Essendon,3,2,7,4,8,7,11,9
+12,Brunswick St,1898-07-30 15:00,1898,Fitzroy,1,1,1,4,1,7,5,9,Geelong,2,3,2,4,3,5,4,6
+12,Lake Oval,1898-07-30 15:00,1898,South Melbourne,1,6,4,9,6,9,12,15,St Kilda,1,1,1,2,3,6,3,6
+13,Princes Park,1898-08-13 15:00,1898,Carlton,2,2,2,3,3,4,3,4,Fitzroy,1,0,4,2,5,4,8,6
+13,Victoria Park,1898-08-13 15:00,1898,Collingwood,1,4,2,4,5,12,8,17,St Kilda,0,0,1,0,1,0,1,0
+13,East Melbourne,1898-08-13 15:00,1898,Essendon,0,1,2,7,3,7,7,13,Geelong,1,3,4,3,5,7,5,7
+13,Lake Oval,1898-08-13 15:00,1898,South Melbourne,0,2,4,3,4,7,6,7,Melbourne,0,3,2,6,3,7,5,8
+14,Junction Oval,1898-08-20 15:00,1898,St Kilda,4,1,5,5,5,5,8,7,Carlton,2,3,3,4,8,8,10,9
+14,East Melbourne,1898-08-20 15:00,1898,Essendon,0,2,1,9,2,11,2,13,Collingwood,4,1,5,4,5,11,7,14
+14,Brunswick St,1898-08-20 15:00,1898,Fitzroy,4,0,5,4,6,7,9,11,South Melbourne,0,1,1,1,1,2,1,4
+14,Corio Oval,1898-08-20 15:00,1898,Geelong,2,1,4,6,6,7,7,9,Melbourne,0,0,0,1,2,4,2,7
+15,East Melbourne,1898-08-27 14:30,1898,Essendon,0,7,2,11,8,14,9,21,Carlton,0,0,1,1,1,1,1,2
+15,Junction Oval,1898-08-27 14:30,1898,St Kilda,2,2,2,2,2,3,4,3,Collingwood,3,1,6,13,8,17,14,19
+15,Lake Oval,1898-08-27 14:30,1898,South Melbourne,1,1,2,1,3,1,5,3,Fitzroy,0,1,0,5,3,8,6,11
+15,Corio Oval,1898-08-27 14:30,1898,Geelong,1,2,6,6,8,11,11,12,Melbourne,1,3,1,3,1,3,2,4
+16,Brunswick St,1898-09-03 14:30,1898,Fitzroy,2,7,4,10,8,14,12,18,Carlton,1,1,1,1,1,1,1,1
+16,Victoria Park,1898-09-03 14:30,1898,Collingwood,1,3,3,4,5,5,6,9,Geelong,2,1,3,2,4,3,4,6
+16,Lake Oval,1898-09-03 14:30,1898,South Melbourne,1,2,1,5,1,5,3,6,Essendon,3,2,3,3,5,7,5,11
+16,Junction Oval,1898-09-03 14:30,1898,St Kilda,0,0,1,2,1,2,2,5,Melbourne,2,4,2,6,4,8,5,8
+17,Lake Oval,1898-09-10 14:30,1898,South Melbourne,0,1,3,4,5,8,6,11,Carlton,0,2,0,2,2,2,3,4
+17,Victoria Park,1898-09-10 14:30,1898,Collingwood,2,5,5,9,6,10,7,13,Melbourne,3,0,3,0,6,3,6,5
+17,Brunswick St,1898-09-10 14:30,1898,Fitzroy,1,1,1,11,2,12,5,15,Essendon,2,3,2,3,2,3,2,4
+17,Corio Oval,1898-09-10 14:30,1898,Geelong,6,4,8,9,13,14,14,18,St Kilda,0,0,0,1,2,2,4,3
+Semi Final,Brunswick St,1898-09-17 14:30,1898,Collingwood,1,2,1,4,1,4,1,5,Fitzroy,0,3,1,5,1,8,2,10
+Grand Final,Junction Oval,1898-09-24 14:50,1898,Essendon,1,0,3,1,3,2,3,5,Fitzroy,2,5,4,5,5,6,5,8

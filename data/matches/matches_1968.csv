@@ -1,0 +1,125 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Princes Park,1968-04-15 14:20,1968,Carlton,1,2,3,10,9,15,13,22,Geelong,2,1,3,2,5,7,7,12
+1,Victoria Park,1968-04-15 14:20,1968,Collingwood,2,3,6,5,6,9,10,12,Richmond,2,5,3,11,10,16,11,22
+1,Windy Hill,1968-04-15 14:20,1968,Essendon,5,4,12,6,16,9,26,16,Hawthorn,3,4,6,6,11,8,15,9
+1,M.C.G.,1968-04-15 14:20,1968,Melbourne,4,3,9,4,11,8,14,10,Fitzroy,6,2,7,8,9,12,12,18
+1,Western Oval,1968-04-15 14:20,1968,Footscray,2,2,4,8,7,10,9,18,North Melbourne,3,2,7,4,12,10,13,10
+1,Lake Oval,1968-04-15 14:20,1968,South Melbourne,4,5,8,11,12,14,18,17,St Kilda,3,6,6,13,10,17,13,22
+2,M.C.G.,1968-04-20 14:20,1968,Richmond,5,6,8,7,11,13,17,16,Carlton,1,3,7,8,8,11,10,12
+2,Princes Park,1968-04-20 14:20,1968,Fitzroy,4,4,7,7,13,11,14,16,Collingwood,1,1,4,6,7,7,10,11
+2,Arden St,1968-04-20 14:20,1968,North Melbourne,1,1,3,3,6,6,9,9,Essendon,1,5,5,11,9,16,10,22
+2,Kardinia Park,1968-04-20 14:20,1968,Geelong,2,8,2,9,4,11,9,17,Footscray,2,3,3,8,5,10,6,11
+2,Glenferrie Oval,1968-04-20 14:20,1968,Hawthorn,5,3,9,9,15,20,17,24,South Melbourne,4,3,8,8,11,10,19,12
+2,Moorabbin Oval,1968-04-20 14:20,1968,St Kilda,2,3,6,12,10,15,16,22,Melbourne,3,2,4,3,7,6,9,8
+3,Princes Park,1968-04-25 14:20,1968,Carlton,0,6,0,7,1,10,1,11,Essendon,0,1,0,5,3,6,7,8
+3,M.C.G.,1968-04-25 14:20,1968,Richmond,6,3,7,6,8,10,10,15,Geelong,4,4,9,8,13,14,17,21
+3,Victoria Park,1968-04-27 14:20,1968,Collingwood,0,4,1,9,1,18,2,19,St Kilda,1,1,4,3,8,5,10,7
+3,Arden St,1968-04-27 14:20,1968,North Melbourne,5,9,9,13,14,14,15,17,Fitzroy,2,2,6,3,9,4,14,7
+3,Western Oval,1968-04-27 14:20,1968,Footscray,2,0,7,6,9,7,14,10,Hawthorn,5,1,7,2,15,9,16,9
+3,Lake Oval,1968-04-27 14:20,1968,South Melbourne,3,2,7,3,11,6,13,10,Melbourne,6,2,9,8,13,11,14,14
+4,Glenferrie Oval,1968-05-04 14:20,1968,Hawthorn,3,0,5,5,5,8,11,11,Carlton,7,3,8,3,15,7,15,10
+4,Kardinia Park,1968-05-04 14:20,1968,Geelong,2,3,3,7,4,9,6,10,Collingwood,1,2,2,6,3,9,4,13
+4,Windy Hill,1968-05-04 14:20,1968,Essendon,3,8,9,9,14,17,16,19,South Melbourne,2,2,6,7,6,8,10,15
+4,Princes Park,1968-05-04 14:20,1968,Fitzroy,5,5,8,11,12,18,13,19,Footscray,1,3,5,8,8,9,12,13
+4,M.C.G.,1968-05-04 14:20,1968,Melbourne,2,3,5,4,8,6,12,10,North Melbourne,2,0,8,3,10,4,12,4
+4,Moorabbin Oval,1968-05-04 14:20,1968,St Kilda,3,1,6,6,10,11,12,12,Richmond,1,4,2,7,5,12,7,18
+5,Princes Park,1968-05-11 14:20,1968,Carlton,6,3,9,7,13,11,16,15,Footscray,1,2,2,4,3,9,5,9
+5,Victoria Park,1968-05-11 14:20,1968,Collingwood,5,3,10,7,14,8,17,11,Hawthorn,4,2,7,7,10,10,11,16
+5,Windy Hill,1968-05-11 14:20,1968,Essendon,3,4,9,9,14,12,16,16,Fitzroy,3,7,6,9,8,12,11,15
+5,M.C.G.,1968-05-11 14:20,1968,Melbourne,1,2,3,7,6,8,9,9,Geelong,1,3,5,7,9,8,10,10
+5,Arden St,1968-05-11 14:20,1968,North Melbourne,1,1,4,8,4,10,6,13,St Kilda,4,2,5,3,8,5,9,7
+5,Lake Oval,1968-05-11 14:20,1968,South Melbourne,2,2,7,5,7,8,8,10,Richmond,2,1,6,7,11,19,13,25
+6,Lake Oval,1968-05-18 14:20,1968,South Melbourne,3,3,4,3,8,7,10,11,Carlton,2,1,10,6,11,8,12,11
+6,Victoria Park,1968-05-18 14:20,1968,Collingwood,6,6,6,9,10,12,13,14,Essendon,2,2,4,6,6,8,9,12
+6,Princes Park,1968-05-18 14:20,1968,Fitzroy,1,2,3,6,5,6,6,8,St Kilda,2,1,5,2,13,3,19,6
+6,Western Oval,1968-05-18 14:20,1968,Footscray,3,1,8,6,10,6,13,7,Melbourne,1,2,2,6,6,8,6,12
+6,Glenferrie Oval,1968-05-18 14:20,1968,Hawthorn,3,0,5,6,8,8,10,11,Geelong,3,2,5,4,9,7,12,10
+6,M.C.G.,1968-05-18 14:20,1968,Richmond,3,3,7,11,11,16,14,17,North Melbourne,1,0,2,1,4,4,4,7
+7,Princes Park,1968-05-25 14:20,1968,Carlton,2,4,9,8,13,9,15,11,Collingwood,1,7,3,9,7,12,9,13
+7,Windy Hill,1968-05-25 14:20,1968,Essendon,2,6,4,8,7,12,11,14,Richmond,1,1,6,7,9,9,10,18
+7,Kardinia Park,1968-05-25 14:20,1968,Geelong,4,13,5,15,8,19,11,21,Fitzroy,0,0,2,4,3,5,7,6
+7,Moorabbin Oval,1968-05-25 14:20,1968,St Kilda,1,1,5,7,5,9,11,13,Footscray,2,4,2,5,2,8,4,11
+7,M.C.G.,1968-05-25 14:20,1968,Melbourne,4,7,5,11,6,12,11,14,Hawthorn,3,2,6,7,11,10,11,10
+7,Arden St,1968-05-25 14:20,1968,North Melbourne,0,3,3,11,4,13,7,15,South Melbourne,4,4,5,7,7,12,8,13
+8,Victoria Park,1968-06-08 14:20,1968,Collingwood,2,2,3,3,10,9,11,13,Melbourne,4,0,7,3,10,4,13,7
+8,Western Oval,1968-06-08 14:20,1968,Footscray,2,6,3,6,7,8,9,8,South Melbourne,2,1,5,6,8,6,11,9
+8,Arden St,1968-06-08 14:20,1968,North Melbourne,1,1,3,4,4,8,9,11,Geelong,4,3,7,5,11,7,13,11
+8,Princes Park,1968-06-10 14:20,1968,Fitzroy,1,2,3,4,4,5,4,10,Carlton,1,4,3,7,9,10,13,15
+8,Moorabbin Oval,1968-06-10 14:20,1968,St Kilda,8,7,8,10,12,15,16,17,Essendon,0,0,3,4,4,5,8,9
+8,M.C.G.,1968-06-10 14:20,1968,Richmond,2,4,5,7,10,11,11,15,Hawthorn,1,1,5,4,6,8,11,14
+9,Princes Park,1968-06-15 14:20,1968,Carlton,5,5,9,8,14,11,20,11,North Melbourne,4,6,4,9,7,14,10,15
+9,Lake Oval,1968-06-15 14:20,1968,South Melbourne,1,3,7,5,13,8,19,10,Collingwood,7,2,8,4,14,8,15,9
+9,Windy Hill,1968-06-15 14:20,1968,Essendon,5,1,6,6,6,10,11,17,Footscray,1,4,1,4,5,6,5,11
+9,Glenferrie Oval,1968-06-15 14:20,1968,Hawthorn,5,3,12,6,17,10,21,14,Fitzroy,6,4,11,7,12,12,16,14
+9,Kardinia Park,1968-06-15 14:20,1968,Geelong,2,3,7,3,12,6,15,9,St Kilda,3,4,5,5,8,7,11,9
+9,M.C.G.,1968-06-15 14:20,1968,Melbourne,1,2,4,4,6,8,9,9,Richmond,4,6,10,12,12,13,17,17
+10,Moorabbin Oval,1968-06-22 14:20,1968,St Kilda,1,4,1,5,3,10,3,10,Carlton,2,2,2,3,4,3,8,8
+10,Western Oval,1968-06-22 14:20,1968,Footscray,3,5,5,6,5,7,5,7,Collingwood,3,3,5,5,7,7,9,11
+10,M.C.G.,1968-06-22 14:20,1968,Melbourne,4,5,4,9,9,13,9,14,Essendon,4,4,8,4,11,4,15,6
+10,Princes Park,1968-06-22 14:20,1968,Fitzroy,3,2,5,5,5,8,12,12,Richmond,1,7,4,10,12,14,15,15
+10,Kardinia Park,1968-06-22 14:20,1968,Geelong,3,2,10,7,11,10,13,15,South Melbourne,4,3,4,6,8,8,8,15
+10,Arden St,1968-06-22 14:20,1968,North Melbourne,0,2,3,7,6,7,8,14,Hawthorn,1,9,3,10,8,15,15,16
+11,Princes Park,1968-06-29 14:20,1968,Carlton,4,6,6,6,9,12,11,19,Melbourne,2,3,6,5,6,5,6,7
+11,Victoria Park,1968-06-29 14:20,1968,Collingwood,4,5,7,6,9,14,13,16,North Melbourne,1,0,3,2,3,4,4,8
+11,Windy Hill,1968-06-29 14:20,1968,Essendon,3,1,9,6,12,14,14,20,Geelong,2,1,4,4,10,8,12,9
+11,Lake Oval,1968-06-29 14:20,1968,South Melbourne,6,1,9,5,12,6,17,15,Fitzroy,6,2,9,4,12,9,13,12
+11,M.C.G.,1968-06-29 14:20,1968,Richmond,2,2,8,7,12,12,17,20,Footscray,3,5,9,5,11,6,16,8
+11,Glenferrie Oval,1968-06-29 14:20,1968,Hawthorn,2,4,3,7,8,11,15,11,St Kilda,2,1,7,5,10,5,17,9
+12,Kardinia Park,1968-07-06 14:20,1968,Geelong,4,3,4,6,6,6,8,7,Carlton,2,2,4,3,7,6,9,9
+12,M.C.G.,1968-07-06 14:20,1968,Richmond,2,5,8,9,14,12,17,12,Collingwood,6,4,7,9,12,10,17,15
+12,Glenferrie Oval,1968-07-06 14:20,1968,Hawthorn,5,6,6,11,9,16,11,17,Essendon,1,2,7,4,9,7,17,10
+12,Princes Park,1968-07-06 14:20,1968,Fitzroy,4,2,5,6,7,13,11,14,Melbourne,4,1,6,8,10,12,14,16
+12,Arden St,1968-07-06 14:20,1968,North Melbourne,1,2,3,5,5,6,8,9,Footscray,2,8,3,14,6,16,9,18
+12,Moorabbin Oval,1968-07-06 14:20,1968,St Kilda,4,3,8,10,11,14,15,19,South Melbourne,2,3,3,5,5,9,6,9
+13,Princes Park,1968-07-13 14:20,1968,Carlton,4,6,7,10,9,11,11,14,Richmond,2,8,3,10,7,14,10,14
+13,Victoria Park,1968-07-13 14:20,1968,Collingwood,4,6,11,8,15,11,18,14,Fitzroy,4,3,6,4,11,4,18,7
+13,Windy Hill,1968-07-13 14:20,1968,Essendon,3,7,4,10,10,17,16,19,North Melbourne,2,0,3,4,4,7,9,9
+13,Western Oval,1968-07-13 14:20,1968,Footscray,7,4,10,8,15,14,18,18,Geelong,1,1,3,4,5,7,5,13
+13,Lake Oval,1968-07-13 14:20,1968,South Melbourne,4,3,5,9,9,10,12,10,Hawthorn,2,3,5,3,12,8,15,11
+13,M.C.G.,1968-07-13 14:20,1968,Melbourne,4,5,6,7,8,8,10,11,St Kilda,2,4,6,7,8,14,10,16
+14,Windy Hill,1968-07-20 14:20,1968,Essendon,0,3,1,5,4,9,7,13,Carlton,3,1,3,6,3,12,6,13
+14,Moorabbin Oval,1968-07-20 14:20,1968,St Kilda,1,3,7,6,8,7,11,10,Collingwood,2,2,7,6,9,10,12,13
+14,Princes Park,1968-07-20 14:20,1968,Fitzroy,5,6,8,8,12,12,13,17,North Melbourne,3,1,5,5,6,10,9,14
+14,Glenferrie Oval,1968-07-20 14:20,1968,Hawthorn,5,2,10,6,19,7,24,8,Footscray,4,1,5,2,5,5,10,10
+14,Kardinia Park,1968-07-20 14:20,1968,Geelong,3,6,7,7,11,9,13,11,Richmond,2,2,6,7,7,9,9,16
+14,M.C.G.,1968-07-20 14:20,1968,Melbourne,3,1,4,4,8,10,10,10,South Melbourne,2,3,5,5,6,6,12,8
+15,Princes Park,1968-07-27 14:20,1968,Carlton,1,5,1,7,6,12,9,14,Hawthorn,1,2,4,6,7,9,11,15
+15,Victoria Park,1968-07-27 14:20,1968,Collingwood,0,2,4,6,4,8,4,12,Geelong,1,4,3,7,6,10,7,12
+15,Lake Oval,1968-07-27 14:20,1968,South Melbourne,1,1,3,6,6,9,7,12,Essendon,5,2,8,3,11,7,14,13
+15,Western Oval,1968-07-27 14:20,1968,Footscray,3,8,3,8,9,12,9,12,Fitzroy,0,0,3,6,5,9,10,11
+15,Arden St,1968-07-27 14:20,1968,North Melbourne,2,6,2,6,5,8,5,8,Melbourne,0,0,2,3,5,3,6,4
+15,M.C.G.,1968-07-27 14:20,1968,Richmond,4,5,10,10,11,14,13,16,St Kilda,2,4,5,5,6,6,9,10
+16,Western Oval,1968-08-03 14:20,1968,Footscray,1,0,6,4,8,4,16,6,Carlton,2,3,2,3,5,8,10,10
+16,Glenferrie Oval,1968-08-03 14:20,1968,Hawthorn,6,2,8,7,9,7,15,11,Collingwood,2,3,5,7,8,16,10,16
+16,Princes Park,1968-08-03 14:20,1968,Fitzroy,4,5,9,7,11,9,13,15,Essendon,1,2,5,6,9,10,13,16
+16,Kardinia Park,1968-08-03 14:20,1968,Geelong,1,2,6,5,8,6,11,9,Melbourne,3,2,3,2,7,7,10,8
+16,Moorabbin Oval,1968-08-03 14:20,1968,St Kilda,4,5,4,8,7,11,8,13,North Melbourne,0,0,3,3,4,3,6,3
+16,M.C.G.,1968-08-03 14:20,1968,Richmond,3,7,5,13,9,16,15,21,South Melbourne,1,6,6,7,9,9,10,11
+17,Princes Park,1968-08-10 14:20,1968,Carlton,6,2,9,4,14,10,18,14,South Melbourne,5,2,8,6,8,7,11,14
+17,Windy Hill,1968-08-10 14:20,1968,Essendon,4,6,7,10,14,15,20,18,Collingwood,4,1,5,6,5,6,7,11
+17,Moorabbin Oval,1968-08-10 14:20,1968,St Kilda,2,4,6,10,8,13,12,19,Fitzroy,3,2,3,4,5,4,6,5
+17,M.C.G.,1968-08-10 14:20,1968,Melbourne,5,2,5,8,7,11,10,14,Footscray,4,0,5,3,8,8,9,11
+17,Kardinia Park,1968-08-10 14:20,1968,Geelong,3,1,5,3,10,5,10,7,Hawthorn,3,2,5,8,6,8,7,9
+17,Arden St,1968-08-10 14:20,1968,North Melbourne,2,5,3,5,5,7,7,9,Richmond,0,2,3,8,5,12,11,19
+18,Victoria Park,1968-08-17 14:20,1968,Collingwood,2,2,4,7,7,8,10,10,Carlton,5,4,6,6,10,7,16,11
+18,M.C.G.,1968-08-17 14:20,1968,Richmond,3,4,6,7,9,12,10,14,Essendon,2,4,5,6,6,8,7,12
+18,Princes Park,1968-08-17 14:20,1968,Fitzroy,1,6,7,8,8,9,10,12,Geelong,4,0,7,3,9,6,14,10
+18,Western Oval,1968-08-17 14:20,1968,Footscray,0,0,2,3,3,6,6,8,St Kilda,6,6,9,7,14,13,16,13
+18,Glenferrie Oval,1968-08-17 14:20,1968,Hawthorn,5,4,9,9,12,11,14,13,Melbourne,3,4,3,6,7,7,8,11
+18,Lake Oval,1968-08-17 14:20,1968,South Melbourne,4,5,6,6,7,11,9,14,North Melbourne,2,0,5,7,8,11,11,13
+19,Princes Park,1968-08-24 14:20,1968,Carlton,4,3,8,10,15,12,21,17,Fitzroy,4,1,6,6,7,14,12,19
+19,M.C.G.,1968-08-24 14:20,1968,Melbourne,2,6,6,10,10,12,12,14,Collingwood,3,3,4,9,8,11,12,15
+19,Windy Hill,1968-08-24 14:20,1968,Essendon,2,1,3,1,7,6,10,6,St Kilda,4,2,7,4,8,9,9,12
+19,Lake Oval,1968-08-24 14:20,1968,South Melbourne,3,2,5,5,8,10,11,12,Footscray,4,2,7,7,10,12,11,16
+19,Kardinia Park,1968-08-24 14:20,1968,Geelong,2,3,8,4,10,7,14,13,North Melbourne,4,4,6,6,11,9,13,9
+19,Glenferrie Oval,1968-08-24 14:20,1968,Hawthorn,3,4,5,8,10,8,11,13,Richmond,4,6,7,12,11,17,11,22
+20,Arden St,1968-08-31 14:20,1968,North Melbourne,1,3,3,6,7,8,11,13,Carlton,4,4,7,6,13,8,15,10
+20,Victoria Park,1968-08-31 14:20,1968,Collingwood,3,7,8,11,14,15,23,19,South Melbourne,2,4,5,9,13,13,14,14
+20,Western Oval,1968-08-31 14:20,1968,Footscray,2,2,6,6,10,10,12,13,Essendon,4,6,6,9,11,14,15,22
+20,Princes Park,1968-08-31 14:20,1968,Fitzroy,4,2,7,8,10,10,17,14,Hawthorn,4,8,8,12,16,16,18,18
+20,Moorabbin Oval,1968-08-31 14:20,1968,St Kilda,4,2,9,5,11,9,16,14,Geelong,2,3,5,6,7,10,8,11
+20,M.C.G.,1968-08-31 14:20,1968,Richmond,5,3,9,6,15,15,18,21,Melbourne,2,2,5,3,6,5,12,8
+Semi Final,M.C.G.,1968-09-07 14:30,1968,Geelong,4,4,9,7,14,10,19,13,St Kilda,2,4,4,10,8,13,11,17
+Semi Final,M.C.G.,1968-09-14 14:30,1968,Essendon,1,2,7,6,7,8,8,11,Carlton,5,8,6,9,11,12,13,17
+Preliminary Final,M.C.G.,1968-09-21 14:30,1968,Essendon,3,6,7,10,10,18,11,25,Geelong,5,3,8,6,8,10,9,13
+Grand Final,M.C.G.,1968-09-28 14:30,1968,Essendon,2,1,5,1,6,4,8,5,Carlton,2,2,6,8,7,9,7,14

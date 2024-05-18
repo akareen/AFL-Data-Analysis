@@ -1,0 +1,82 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,S.C.G.,2024-03-07 19:30,2024,Sydney,3,3,4,3,7,10,12,14,Melbourne,1,6,2,8,7,8,9,10
+1,Gabba,2024-03-08 18:40,2024,Brisbane Lions,7,2,9,5,10,11,12,13,Carlton,2,0,4,4,11,6,13,8
+1,Carrara,2024-03-09 15:20,2024,Gold Coast,5,4,11,8,11,11,14,15,Richmond,1,0,2,1,8,3,9,6
+1,Sydney Showground,2024-03-09 19:30,2024,Greater Western Sydney,5,2,10,5,14,5,18,6,Collingwood,3,6,6,10,6,13,11,16
+2,M.C.G.,2024-03-14 19:30,2024,Carlton,3,3,6,9,9,11,12,14,Richmond,5,2,7,4,11,7,12,9
+2,M.C.G.,2024-03-15 19:40,2024,Collingwood,3,1,5,2,6,5,10,9,Sydney,2,6,7,8,12,10,15,12
+2,M.C.G.,2024-03-16 13:45,2024,Essendon,4,2,7,3,12,3,17,5,Hawthorn,2,7,5,11,9,14,11,17
+2,Sydney Showground,2024-03-16 16:35,2024,Greater Western Sydney,4,3,10,7,15,11,17,19,North Melbourne,2,0,8,0,10,4,13,4
+2,Kardinia Park,2024-03-16 19:30,2024,Geelong,2,3,6,7,6,13,10,16,St Kilda,1,5,4,6,5,9,9,14
+2,Carrara,2024-03-16 19:10,2024,Gold Coast,3,2,5,4,7,9,8,12,Adelaide,1,1,1,2,3,4,8,6
+2,M.C.G.,2024-03-17 13:00,2024,Melbourne,4,4,8,5,10,8,16,13,Western Bulldogs,4,3,6,5,7,7,9,10
+2,Adelaide Oval,2024-03-17 15:30,2024,Port Adelaide,3,6,9,10,11,15,16,24,West Coast,3,1,5,3,7,7,10,10
+2,Perth Stadium,2024-03-17 15:50,2024,Fremantle,2,2,7,5,11,9,14,9,Brisbane Lions,4,3,4,5,5,7,10,10
+3,M.C.G.,2024-03-21 19:30,2024,St Kilda,5,1,6,2,11,7,14,10,Collingwood,3,1,7,4,8,5,12,7
+3,Adelaide Oval,2024-03-22 19:10,2024,Adelaide,3,2,5,5,8,7,11,11,Geelong,6,3,7,5,12,7,14,12
+3,Docklands,2024-03-23 13:45,2024,North Melbourne,4,1,8,4,9,5,11,10,Fremantle,2,1,5,5,12,10,15,12
+3,M.C.G.,2024-03-23 16:35,2024,Hawthorn,0,1,2,3,4,6,5,8,Melbourne,5,3,6,5,10,7,14,9
+3,S.C.G.,2024-03-23 19:30,2024,Sydney,4,4,8,9,13,13,19,17,Essendon,4,1,8,5,10,8,15,11
+3,Eureka Stadium,2024-03-24 13:00,2024,Western Bulldogs,9,1,10,3,14,4,18,7,Gold Coast,2,2,5,5,9,6,10,7
+3,M.C.G.,2024-03-24 16:00,2024,Richmond,3,2,7,8,11,11,13,14,Port Adelaide,3,7,5,9,12,12,18,14
+3,Perth Stadium,2024-03-24 15:50,2024,West Coast,2,3,2,5,2,7,5,13,Greater Western Sydney,5,4,8,8,11,11,16,12
+4,Gabba,2024-03-28 18:30,2024,Brisbane Lions,1,3,5,8,6,10,10,12,Collingwood,5,3,5,3,10,6,14,8
+4,Docklands,2024-03-29 16:20,2024,North Melbourne,3,2,6,3,11,5,12,9,Carlton,5,6,10,8,16,10,21,11
+4,Perth Stadium,2024-03-29 16:30,2024,Fremantle,2,2,4,7,5,12,9,15,Adelaide,2,5,3,5,4,8,4,10
+4,Docklands,2024-03-30 16:20,2024,Essendon,3,1,5,3,8,5,10,11,St Kilda,4,4,6,8,8,12,9,13
+4,Adelaide Oval,2024-03-30 19:00,2024,Port Adelaide,4,1,7,3,10,8,13,11,Melbourne,3,2,7,3,10,4,15,6
+4,Docklands,2024-03-31 13:00,2024,Western Bulldogs,2,4,8,6,11,8,16,10,West Coast,2,2,2,3,2,7,3,12
+4,M.C.G.,2024-03-31 16:00,2024,Richmond,4,3,5,9,10,13,11,16,Sydney,2,1,7,5,8,9,11,11
+4,M.C.G.,2024-04-01 15:20,2024,Hawthorn,1,1,6,3,8,4,10,10,Geelong,7,1,8,2,14,4,17,4
+5,Adelaide Oval,2024-04-04 19:10,2024,Adelaide,2,5,3,8,6,9,8,15,Melbourne,2,0,6,7,10,13,10,18
+5,Norwood Oval,2024-04-05 16:40,2024,Brisbane Lions,7,3,11,9,13,11,16,16,North Melbourne,2,0,3,1,5,5,6,6
+5,Adelaide Oval,2024-04-05 19:40,2024,Port Adelaide,4,0,10,3,13,7,17,9,Essendon,3,3,4,4,6,5,6,6
+5,Summit Sports Park,2024-04-06 13:00,2024,West Coast,2,0,7,6,8,7,11,12,Sydney,3,5,6,7,10,10,15,14
+5,Adelaide Oval,2024-04-06 15:50,2024,Fremantle,2,2,4,2,7,7,9,9,Carlton,2,1,3,5,5,10,10,13
+5,Adelaide Oval,2024-04-06 19:40,2024,Western Bulldogs,2,1,6,3,11,5,14,7,Geelong,3,3,7,6,13,9,14,11
+5,Summit Sports Park,2024-04-07 12:00,2024,Gold Coast,3,3,7,7,11,8,13,11,Greater Western Sydney,5,0,8,3,13,4,18,9
+5,Norwood Oval,2024-04-07 14:50,2024,Richmond,4,1,5,3,7,3,9,6,St Kilda,0,4,1,5,7,11,9,13
+5,Adelaide Oval,2024-04-07 16:40,2024,Collingwood,4,1,9,4,11,6,11,11,Hawthorn,1,1,3,2,7,5,11,6
+6,M.C.G.,2024-04-11 19:30,2024,Melbourne,2,0,2,4,3,7,8,12,Brisbane Lions,4,2,7,4,10,8,12,10
+6,Docklands,2024-04-12 19:40,2024,Western Bulldogs,4,2,6,6,7,9,9,13,Essendon,5,0,8,2,10,5,15,6
+6,Manuka Oval,2024-04-13 13:45,2024,Greater Western Sydney,4,4,7,6,10,10,11,14,St Kilda,1,3,4,5,6,5,12,7
+6,Docklands,2024-04-13 16:35,2024,Carlton,5,1,8,2,11,9,14,14,Adelaide,4,0,7,2,12,3,16,4
+6,Adelaide Oval,2024-04-13 19:00,2024,Port Adelaide,3,3,4,5,6,9,9,12,Fremantle,2,2,5,5,7,7,9,9
+6,Carrara,2024-04-13 19:30,2024,Gold Coast,4,4,6,8,11,10,16,13,Hawthorn,1,4,3,4,5,6,8,8
+6,Kardinia Park,2024-04-14 13:00,2024,Geelong,5,2,12,6,15,10,21,13,North Melbourne,3,1,4,3,6,4,10,4
+6,Perth Stadium,2024-04-14 14:00,2024,West Coast,3,1,11,2,15,8,16,13,Richmond,4,3,7,7,8,8,10,10
+7,Docklands,2024-04-18 19:30,2024,St Kilda,1,0,4,3,5,7,9,10,Western Bulldogs,7,1,12,4,17,6,19,10
+7,Adelaide Oval,2024-04-19 19:10,2024,Adelaide,2,2,5,4,9,5,11,9,Essendon,2,4,5,9,8,14,10,18
+7,M.C.G.,2024-04-20 13:45,2024,Collingwood,3,4,9,9,14,15,17,21,Port Adelaide,6,3,8,3,10,4,12,9
+7,Docklands,2024-04-20 16:35,2024,Carlton,5,1,7,7,14,10,17,15,Greater Western Sydney,4,1,9,4,12,7,15,8
+7,Gabba,2024-04-20 19:30,2024,Brisbane Lions,2,5,3,8,4,11,4,13,Geelong,2,1,4,4,6,6,9,9
+7,Perth Stadium,2024-04-20 18:10,2024,West Coast,4,1,9,4,14,9,16,9,Fremantle,0,3,3,3,4,5,10,8
+7,S.C.G.,2024-04-21 13:05,2024,Sydney,5,3,5,4,12,8,17,8,Gold Coast,1,2,3,5,5,7,8,9
+7,Docklands,2024-04-21 16:05,2024,North Melbourne,2,2,5,5,8,6,10,8,Hawthorn,3,3,11,6,14,8,17,11
+8,M.C.G.,2024-04-24 19:25,2024,Richmond,1,3,3,6,4,8,5,12,Melbourne,2,3,3,5,8,7,13,7
+8,M.C.G.,2024-04-25 15:20,2024,Essendon,6,1,7,6,9,11,12,13,Collingwood,2,6,6,11,9,12,12,13
+8,Manuka Oval,2024-04-25 19:35,2024,Greater Western Sydney,4,3,8,4,13,6,17,11,Brisbane Lions,2,4,6,8,6,10,8,11
+8,Adelaide Oval,2024-04-26 19:10,2024,Port Adelaide,1,8,6,9,9,13,11,16,St Kilda,3,3,5,5,8,6,11,6
+8,Bellerive Oval,2024-04-27 13:45,2024,North Melbourne,2,3,6,4,7,7,12,9,Adelaide,5,5,11,9,16,12,20,18
+8,M.C.G.,2024-04-27 16:35,2024,Geelong,5,2,10,4,13,9,18,10,Carlton,2,8,6,9,11,10,15,15
+8,Perth Stadium,2024-04-27 17:40,2024,Fremantle,4,4,7,6,10,9,14,11,Western Bulldogs,3,2,7,3,9,10,10,11
+8,Carrara,2024-04-28 13:00,2024,Gold Coast,2,3,7,5,13,7,17,10,West Coast,3,1,7,2,8,3,12,3
+8,M.C.G.,2024-04-28 16:00,2024,Hawthorn,2,2,3,6,4,9,5,12,Sydney,6,3,10,6,15,8,18,10
+9,Adelaide Oval,2024-05-02 19:00,2024,Adelaide,5,0,7,2,9,4,12,6,Port Adelaide,3,4,3,7,4,11,5,18
+9,M.C.G.,2024-05-03 19:40,2024,Carlton,5,4,6,5,9,7,12,7,Collingwood,3,2,8,4,8,8,12,13
+9,S.C.G.,2024-05-04 13:45,2024,Sydney,2,6,6,8,10,11,14,14,Greater Western Sydney,5,3,5,5,8,5,10,9
+9,Docklands,2024-05-04 16:35,2024,St Kilda,4,2,8,6,12,8,15,13,North Melbourne,3,2,4,2,7,4,10,5
+9,M.C.G.,2024-05-04 19:30,2024,Melbourne,3,2,3,7,5,14,10,14,Geelong,2,4,2,8,6,10,9,12
+9,Perth Stadium,2024-05-04 18:10,2024,West Coast,1,1,4,2,8,5,11,5,Essendon,2,5,7,6,10,8,11,11
+9,M.C.G.,2024-05-05 13:00,2024,Richmond,1,3,1,7,4,11,6,13,Fremantle,3,4,6,8,8,11,15,13
+9,Docklands,2024-05-05 16:00,2024,Western Bulldogs,5,1,6,3,8,7,14,7,Hawthorn,4,2,7,5,9,9,14,14
+9,Gabba,2024-05-05 19:10,2024,Brisbane Lions,5,5,8,8,8,17,10,19,Gold Coast,2,1,2,4,4,5,6,9
+10,M.C.G.,2024-05-09 19:30,2024,Carlton,5,0,8,2,11,4,12,5,Melbourne,0,0,3,1,7,6,11,10
+10,Kardinia Park,2024-05-10 19:10,2024,Geelong,3,3,5,6,11,8,14,11,Port Adelaide,8,2,12,5,14,8,15,11
+10,Perth Stadium,2024-05-10 18:30,2024,Fremantle,1,5,1,8,2,13,4,15,Sydney,3,0,9,0,11,2,13,9
+10,York Park,2024-05-11 13:45,2024,Hawthorn,4,1,6,2,8,6,8,10,St Kilda,3,3,4,4,5,9,7,11
+10,Docklands,2024-05-11 16:35,2024,Essendon,1,2,4,6,9,9,12,10,Greater Western Sydney,4,3,6,6,8,7,9,8
+10,Marrara Oval,2024-05-11 19:00,2024,Gold Coast,2,4,5,12,10,14,17,18,North Melbourne,1,4,2,5,4,7,7,10
+10,M.C.G.,2024-05-11 19:30,2024,Richmond,0,1,3,2,4,3,6,6,Western Bulldogs,3,6,9,13,13,15,19,19
+10,Docklands,2024-05-12 13:00,2024,Collingwood,4,4,11,8,14,11,15,13,West Coast,1,1,3,1,3,5,5,7
+10,Adelaide Oval,2024-05-12 15:30,2024,Adelaide,3,5,6,9,9,11,13,12,Brisbane Lions,4,2,6,7,9,10,13,12

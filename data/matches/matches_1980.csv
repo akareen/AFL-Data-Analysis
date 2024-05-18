@@ -1,0 +1,139 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Victoria Park,1980-03-29 14:10,1980,Collingwood,0,3,4,11,5,13,13,16,Carlton,4,5,7,11,15,18,19,18
+1,Windy Hill,1980-03-29 14:10,1980,Essendon,3,2,7,6,8,9,12,15,North Melbourne,5,3,9,7,13,10,15,10
+1,Western Oval,1980-03-29 14:10,1980,Footscray,3,2,6,7,8,8,17,11,Fitzroy,3,7,6,12,13,16,18,17
+1,Kardinia Park,1980-03-29 14:10,1980,Geelong,4,1,8,7,11,10,12,13,South Melbourne,4,3,6,3,10,7,13,10
+1,Princes Park,1980-03-29 14:10,1980,Hawthorn,5,4,8,7,8,12,15,16,Richmond,1,2,9,7,11,12,16,15
+1,Waverley Park,1980-03-29 14:10,1980,St Kilda,1,2,4,7,7,11,14,16,Melbourne,6,4,7,6,14,12,18,14
+2,Arden St,1980-04-05 14:10,1980,North Melbourne,1,5,2,6,5,11,7,14,Collingwood,3,4,5,12,5,16,7,19
+2,M.C.G.,1980-04-05 14:10,1980,Richmond,4,6,9,10,15,14,17,15,Essendon,4,4,11,7,12,15,17,22
+2,Moorabbin Oval,1980-04-05 14:10,1980,St Kilda,4,4,5,4,9,14,11,17,Hawthorn,2,4,4,14,8,17,15,26
+2,Princes Park,1980-04-07 14:10,1980,Carlton,2,5,5,16,11,19,14,25,Geelong,7,4,10,7,11,13,15,14
+2,Waverley Park,1980-04-07 14:10,1980,Fitzroy,5,6,7,10,13,11,17,14,Melbourne,6,0,10,3,16,5,22,8
+2,Lake Oval,1980-04-07 14:10,1980,South Melbourne,3,5,10,9,12,14,14,17,Footscray,1,3,3,5,9,10,10,13
+3,Western Oval,1980-04-12 14:10,1980,Footscray,4,0,8,5,10,8,14,10,Carlton,8,9,13,13,14,15,17,17
+3,Princes Park,1980-04-12 14:10,1980,Hawthorn,5,9,12,11,14,15,19,16,Collingwood,1,5,8,13,13,19,16,23
+3,Waverley Park,1980-04-12 14:10,1980,South Melbourne,3,7,8,14,10,15,14,17,Essendon,2,8,8,10,16,11,24,12
+3,Junction Oval,1980-04-12 14:10,1980,Fitzroy,5,1,7,10,8,12,14,18,North Melbourne,3,8,8,12,14,20,21,22
+3,Kardinia Park,1980-04-12 14:10,1980,Geelong,4,3,6,9,11,10,17,17,Melbourne,3,1,6,7,11,8,14,9
+3,M.C.G.,1980-04-12 14:10,1980,Richmond,4,5,7,10,12,15,18,20,St Kilda,5,3,9,6,14,9,19,14
+4,Princes Park,1980-04-19 14:10,1980,Carlton,3,2,6,6,15,13,22,18,South Melbourne,4,4,5,8,7,12,13,15
+4,Victoria Park,1980-04-19 14:10,1980,Collingwood,2,2,5,6,7,7,8,9,Richmond,3,2,4,3,9,9,16,13
+4,Moorabbin Oval,1980-04-19 14:10,1980,St Kilda,4,8,6,10,9,14,11,17,Essendon,1,2,5,5,7,6,12,8
+4,Waverley Park,1980-04-19 14:10,1980,Fitzroy,6,2,6,4,10,7,12,10,Hawthorn,3,5,9,15,11,16,11,19
+4,M.C.G.,1980-04-19 14:10,1980,Melbourne,3,5,8,9,14,14,18,21,Footscray,5,2,7,7,11,11,18,12
+4,Arden St,1980-04-19 14:10,1980,North Melbourne,4,5,6,6,7,7,10,9,Geelong,3,3,8,6,9,9,16,10
+5,Waverley Park,1980-04-25 14:10,1980,Carlton,5,3,8,11,12,18,14,19,Melbourne,1,3,2,9,4,16,9,20
+5,M.C.G.,1980-04-25 14:10,1980,Richmond,6,1,13,8,18,19,29,25,Fitzroy,4,3,4,8,9,13,11,15
+5,Kardinia Park,1980-04-25 14:10,1980,Geelong,6,2,11,4,12,7,14,10,Hawthorn,3,2,6,5,10,6,13,11
+5,Windy Hill,1980-04-26 14:10,1980,Essendon,4,5,4,7,8,13,9,15,Collingwood,3,2,5,7,7,10,10,13
+5,Lake Oval,1980-04-26 14:10,1980,South Melbourne,3,3,8,8,10,14,17,20,St Kilda,4,3,5,5,6,13,7,15
+5,S.C.G.,1980-04-27 14:10,1980,Footscray,5,1,5,2,6,4,8,7,North Melbourne,3,5,12,14,14,17,26,21
+6,Arden St,1980-05-03 14:10,1980,North Melbourne,3,5,7,7,14,11,18,11,Carlton,0,3,6,4,6,8,12,15
+6,Victoria Park,1980-05-03 14:10,1980,Collingwood,3,6,10,8,18,11,26,12,St Kilda,3,2,8,6,9,9,16,12
+6,Junction Oval,1980-05-03 14:10,1980,Fitzroy,4,1,6,4,11,8,16,12,Essendon,4,6,5,13,9,20,15,23
+6,Princes Park,1980-05-03 14:10,1980,Hawthorn,3,1,8,7,13,12,19,16,Footscray,3,0,7,3,14,3,18,5
+6,Waverley Park,1980-05-03 14:10,1980,Geelong,1,5,3,7,4,10,10,17,Richmond,5,3,6,7,9,13,12,16
+6,M.C.G.,1980-05-03 14:10,1980,Melbourne,5,2,6,5,10,11,15,14,South Melbourne,5,3,9,10,12,13,19,16
+7,Princes Park,1980-05-10 14:10,1980,Carlton,1,5,5,10,13,13,14,27,Hawthorn,5,5,11,10,13,15,16,17
+7,Lake Oval,1980-05-10 14:10,1980,South Melbourne,1,6,8,9,12,11,17,13,Collingwood,3,3,7,6,9,9,13,12
+7,Windy Hill,1980-05-10 14:10,1980,Essendon,7,2,8,5,8,13,13,15,Geelong,3,3,6,5,10,7,16,11
+7,Moorabbin Oval,1980-05-10 14:10,1980,St Kilda,3,6,5,11,8,17,12,20,Fitzroy,7,3,9,8,11,14,18,23
+7,Western Oval,1980-05-10 14:10,1980,Footscray,1,2,3,6,6,7,10,10,Richmond,3,1,9,10,17,12,27,18
+7,Waverley Park,1980-05-10 14:10,1980,Melbourne,2,2,4,5,7,9,10,12,North Melbourne,8,5,13,9,17,15,24,15
+8,M.C.G.,1980-05-17 14:10,1980,Richmond,4,4,7,10,12,16,19,24,Carlton,2,4,5,5,10,7,12,13
+8,Junction Oval,1980-05-17 14:10,1980,Fitzroy,4,7,7,10,13,14,17,16,Collingwood,3,4,10,8,12,11,17,16
+8,Waverley Park,1980-05-17 14:10,1980,Footscray,6,4,6,6,8,10,10,11,Essendon,4,0,8,5,12,11,22,16
+8,Kardinia Park,1980-05-17 14:10,1980,Geelong,6,1,7,7,15,10,20,15,St Kilda,3,2,5,8,5,9,10,12
+8,Princes Park,1980-05-17 14:10,1980,Hawthorn,3,2,10,7,15,11,17,16,Melbourne,3,5,6,8,10,13,15,18
+8,Arden St,1980-05-17 14:10,1980,North Melbourne,6,2,9,4,11,14,15,19,South Melbourne,5,2,8,6,11,8,16,10
+9,Victoria Park,1980-05-24 14:10,1980,Collingwood,2,8,10,18,13,23,18,28,Geelong,0,7,6,10,10,13,15,15
+9,Junction Oval,1980-05-24 14:10,1980,Fitzroy,3,6,6,9,13,15,14,16,South Melbourne,3,2,7,11,10,16,16,25
+9,Moorabbin Oval,1980-05-24 14:10,1980,St Kilda,1,4,7,7,10,10,19,15,Footscray,5,4,7,6,12,9,15,13
+9,Waverley Park,1980-05-24 14:10,1980,North Melbourne,5,1,6,6,13,6,14,9,Hawthorn,5,4,7,6,8,8,13,10
+9,M.C.G.,1980-05-24 14:10,1980,Melbourne,2,3,5,6,10,10,15,12,Richmond,8,6,16,8,24,15,29,21
+9,S.C.G.,1980-05-25 14:10,1980,Essendon,2,6,5,10,8,15,13,16,Carlton,1,1,5,5,14,8,20,11
+10,Waverley Park,1980-05-31 14:10,1980,Carlton,2,4,7,11,10,16,14,20,St Kilda,2,2,3,3,6,7,9,8
+10,Western Oval,1980-05-31 14:10,1980,Footscray,6,2,7,8,11,10,18,11,Collingwood,9,3,12,8,19,13,24,17
+10,Windy Hill,1980-05-31 14:10,1980,Essendon,3,3,6,6,11,12,17,18,Melbourne,2,5,6,7,11,7,11,10
+10,Kardinia Park,1980-05-31 14:10,1980,Geelong,4,7,8,11,10,14,18,15,Fitzroy,3,0,7,3,15,5,17,6
+10,Lake Oval,1980-05-31 14:10,1980,South Melbourne,4,5,11,9,18,11,28,15,Hawthorn,5,4,7,9,10,14,14,15
+10,M.C.G.,1980-05-31 14:10,1980,Richmond,6,4,9,7,13,10,15,15,North Melbourne,4,7,7,13,10,15,13,20
+11,Junction Oval,1980-06-07 14:10,1980,Fitzroy,7,2,11,4,14,7,19,12,Carlton,7,4,13,11,19,18,22,24
+11,Victoria Park,1980-06-07 14:10,1980,Collingwood,3,6,9,8,13,11,19,15,Melbourne,4,3,9,8,15,8,18,11
+11,Princes Park,1980-06-07 14:10,1980,Hawthorn,2,3,4,6,7,11,9,17,Essendon,4,5,9,6,12,8,13,11
+11,Western Oval,1980-06-07 14:10,1980,Footscray,2,2,4,5,11,10,15,13,Geelong,4,4,11,9,12,10,22,12
+11,Moorabbin Oval,1980-06-07 14:10,1980,St Kilda,5,2,8,3,10,7,12,8,North Melbourne,2,2,10,7,18,9,25,13
+11,Waverley Park,1980-06-07 14:10,1980,Richmond,4,5,6,9,10,9,18,13,South Melbourne,3,4,5,5,7,7,10,8
+12,Arden St,1980-06-14 14:10,1980,North Melbourne,2,3,6,6,13,8,15,11,Essendon,4,4,4,4,6,8,10,12
+12,Junction Oval,1980-06-14 14:10,1980,Fitzroy,2,3,8,6,12,10,18,15,Footscray,3,8,11,9,19,12,25,17
+12,M.C.G.,1980-06-14 14:10,1980,Melbourne,4,3,6,13,10,17,19,20,St Kilda,4,4,8,4,12,6,14,8
+12,S.C.G.,1980-06-15 14:10,1980,South Melbourne,2,3,4,5,6,11,12,12,Geelong,8,3,12,10,17,17,21,21
+12,Princes Park,1980-06-16 14:10,1980,Carlton,6,5,10,7,11,12,13,12,Collingwood,3,6,6,8,9,13,11,19
+12,M.C.G.,1980-06-16 14:10,1980,Richmond,4,2,8,6,12,11,16,12,Hawthorn,1,7,3,15,7,17,11,22
+13,Kardinia Park,1980-06-21 14:10,1980,Geelong,1,3,4,4,7,8,12,11,Carlton,1,2,4,2,8,4,12,6
+13,Waverley Park,1980-06-21 14:10,1980,Collingwood,6,6,11,12,14,16,20,19,North Melbourne,1,1,4,8,8,12,13,15
+13,Windy Hill,1980-06-21 14:10,1980,Essendon,6,6,9,10,11,15,15,17,Richmond,4,6,8,10,10,16,16,21
+13,M.C.G.,1980-06-21 14:10,1980,Melbourne,3,8,7,12,12,18,18,21,Fitzroy,3,4,9,5,14,8,18,9
+13,Western Oval,1980-06-21 14:10,1980,Footscray,4,0,9,4,13,12,15,14,South Melbourne,3,5,5,9,8,12,12,15
+13,Princes Park,1980-06-21 14:10,1980,Hawthorn,4,5,8,8,13,11,21,17,St Kilda,5,4,8,7,14,11,16,13
+14,Lake Oval,1980-06-28 14:10,1980,South Melbourne,2,2,2,6,3,6,5,9,Carlton,1,6,3,6,6,16,10,18
+14,M.C.G.,1980-06-28 14:10,1980,Richmond,1,4,6,8,8,14,9,19,Collingwood,2,9,6,11,6,18,7,22
+14,Waverley Park,1980-06-28 14:10,1980,Essendon,3,5,5,8,6,12,6,12,St Kilda,0,3,2,10,3,10,7,11
+14,Princes Park,1980-06-28 14:10,1980,Hawthorn,6,7,8,12,19,16,21,17,Fitzroy,1,1,6,3,6,3,8,7
+14,Western Oval,1980-06-28 14:10,1980,Footscray,3,6,5,9,8,12,10,13,Melbourne,3,2,5,5,5,5,6,7
+14,Kardinia Park,1980-06-28 14:10,1980,Geelong,1,3,5,6,11,6,13,6,North Melbourne,3,2,4,3,4,3,4,3
+15,M.C.G.,1980-07-12 14:10,1980,Melbourne,3,2,7,7,12,11,15,13,Carlton,4,4,8,11,14,19,18,24
+15,Victoria Park,1980-07-12 14:10,1980,Collingwood,2,9,6,14,7,18,11,22,Essendon,3,1,5,1,12,3,13,6
+15,Junction Oval,1980-07-12 14:10,1980,Fitzroy,8,3,9,5,14,13,15,19,Richmond,2,4,6,10,8,12,12,16
+15,Arden St,1980-07-12 14:10,1980,North Melbourne,5,7,9,11,11,17,15,19,Footscray,2,0,4,2,4,5,7,8
+15,Waverley Park,1980-07-12 14:10,1980,Hawthorn,1,5,2,7,3,8,4,13,Geelong,6,4,7,7,14,14,17,15
+15,Moorabbin Oval,1980-07-12 14:10,1980,St Kilda,2,0,3,4,4,5,5,6,South Melbourne,3,3,4,6,5,11,6,14
+16,Princes Park,1980-07-19 14:10,1980,Carlton,5,2,11,6,18,11,24,16,Footscray,0,7,6,10,8,12,15,13
+16,Victoria Park,1980-07-19 14:10,1980,Collingwood,2,5,9,7,15,12,22,17,Hawthorn,3,3,8,4,14,7,19,8
+16,Windy Hill,1980-07-19 14:10,1980,Essendon,4,5,9,7,13,8,20,9,South Melbourne,4,2,9,7,14,16,19,19
+16,Waverley Park,1980-07-19 14:10,1980,North Melbourne,5,4,9,8,13,12,17,13,Fitzroy,4,2,7,4,10,6,13,8
+16,M.C.G.,1980-07-19 14:10,1980,Melbourne,3,4,7,7,12,10,15,15,Geelong,4,4,8,10,13,11,17,12
+16,S.C.G.,1980-07-20 14:10,1980,St Kilda,7,1,7,1,10,3,11,4,Richmond,5,3,13,7,24,11,34,18
+17,Princes Park,1980-07-26 14:10,1980,Carlton,5,4,6,8,13,13,14,17,North Melbourne,4,3,5,8,10,10,20,13
+17,Waverley Park,1980-07-26 14:10,1980,St Kilda,7,2,7,4,11,9,16,11,Collingwood,6,3,13,10,22,14,32,19
+17,Windy Hill,1980-07-26 14:10,1980,Essendon,2,3,10,6,16,7,18,14,Fitzroy,5,5,9,9,13,12,17,14
+17,Western Oval,1980-07-26 14:10,1980,Footscray,9,6,17,9,20,10,25,10,Hawthorn,3,1,7,5,9,12,15,17
+17,M.C.G.,1980-07-26 14:10,1980,Richmond,3,3,7,7,10,11,13,15,Geelong,3,3,7,5,13,9,16,14
+17,Lake Oval,1980-07-26 14:10,1980,South Melbourne,5,6,9,10,13,12,17,22,Melbourne,3,4,6,6,12,7,13,12
+18,Princes Park,1980-08-02 14:10,1980,Hawthorn,1,2,5,10,6,12,9,15,Carlton,4,7,4,10,12,15,16,17
+18,Victoria Park,1980-08-02 14:10,1980,Collingwood,3,10,4,13,8,21,11,24,South Melbourne,2,3,6,5,6,7,8,9
+18,Kardinia Park,1980-08-02 14:10,1980,Geelong,3,6,8,10,11,14,15,14,Essendon,5,2,10,5,12,10,13,12
+18,Junction Oval,1980-08-02 14:10,1980,Fitzroy,2,5,6,6,11,11,15,14,St Kilda,2,0,5,4,9,5,12,8
+18,Waverley Park,1980-08-02 14:10,1980,Richmond,11,6,15,8,19,14,23,18,Footscray,2,1,5,2,5,3,6,5
+18,Arden St,1980-08-02 14:10,1980,North Melbourne,3,2,6,4,9,10,12,15,Melbourne,2,5,2,8,6,14,7,15
+19,Princes Park,1980-08-09 14:10,1980,Carlton,2,1,4,6,9,11,12,19,Richmond,3,3,5,6,7,7,10,10
+19,Waverley Park,1980-08-09 14:10,1980,Collingwood,4,1,7,6,10,9,19,10,Fitzroy,4,9,8,11,13,16,16,19
+19,Windy Hill,1980-08-09 14:10,1980,Essendon,3,4,11,4,14,6,18,8,Footscray,2,1,3,5,7,6,11,8
+19,Moorabbin Oval,1980-08-09 14:10,1980,St Kilda,4,4,4,5,11,8,13,10,Geelong,3,3,5,10,6,11,11,17
+19,M.C.G.,1980-08-09 14:10,1980,Melbourne,1,1,2,4,3,8,9,10,Hawthorn,8,9,13,18,16,21,19,27
+19,Lake Oval,1980-08-09 14:10,1980,South Melbourne,3,4,6,7,8,11,12,13,North Melbourne,3,2,5,3,8,6,11,7
+20,Princes Park,1980-08-16 14:10,1980,Carlton,2,3,8,5,17,10,25,14,Essendon,6,0,11,2,12,4,16,7
+20,Kardinia Park,1980-08-16 14:10,1980,Geelong,2,2,4,9,11,13,14,15,Collingwood,5,2,5,2,7,2,12,9
+20,Lake Oval,1980-08-16 14:10,1980,South Melbourne,5,2,8,4,14,10,20,14,Fitzroy,4,4,9,7,12,10,17,15
+20,Western Oval,1980-08-16 14:10,1980,Footscray,1,7,10,9,13,14,16,22,St Kilda,3,4,5,7,9,7,11,7
+20,Waverley Park,1980-08-16 14:10,1980,Hawthorn,2,4,5,7,7,9,11,13,North Melbourne,3,6,7,9,16,14,20,15
+20,M.C.G.,1980-08-16 14:10,1980,Richmond,3,3,9,8,17,13,26,18,Melbourne,3,4,9,6,13,10,16,13
+21,Moorabbin Oval,1980-08-23 14:10,1980,St Kilda,1,1,8,6,9,6,13,9,Carlton,3,5,8,8,17,9,20,16
+21,Victoria Park,1980-08-23 14:10,1980,Collingwood,4,3,7,9,15,14,19,16,Footscray,1,3,6,8,9,12,13,14
+21,M.C.G.,1980-08-23 14:10,1980,Melbourne,6,5,8,7,11,10,14,17,Essendon,5,7,9,9,14,12,18,14
+21,Junction Oval,1980-08-23 14:10,1980,Fitzroy,7,5,8,8,13,16,16,21,Geelong,5,2,10,6,13,7,20,12
+21,Waverley Park,1980-08-23 14:10,1980,Hawthorn,3,4,6,8,11,14,16,17,South Melbourne,1,3,4,6,8,8,12,11
+21,Arden St,1980-08-23 14:10,1980,North Melbourne,4,5,6,7,10,11,14,14,Richmond,2,3,8,10,12,16,15,19
+22,Princes Park,1980-08-30 14:10,1980,Carlton,5,5,9,11,19,17,21,20,Fitzroy,3,5,5,11,11,14,20,22
+22,M.C.G.,1980-08-30 14:10,1980,Melbourne,2,1,5,2,6,6,9,12,Collingwood,4,2,7,4,13,5,19,10
+22,Windy Hill,1980-08-30 14:10,1980,Essendon,3,4,6,6,11,7,15,12,Hawthorn,2,5,4,6,8,11,8,14
+22,Waverley Park,1980-08-30 14:10,1980,Geelong,5,2,9,5,11,14,12,18,Footscray,1,4,3,6,3,6,5,10
+22,Arden St,1980-08-30 14:10,1980,North Melbourne,4,5,4,6,9,16,11,17,St Kilda,2,1,5,5,7,7,12,11
+22,Lake Oval,1980-08-30 14:10,1980,South Melbourne,4,4,6,8,11,10,16,11,Richmond,2,3,3,7,4,9,7,11
+Qualifying Final,Waverley Park,1980-09-06 14:30,1980,Carlton,2,1,5,5,5,8,10,14,Richmond,6,3,11,4,16,7,18,8
+Elimination Final,M.C.G.,1980-09-06 14:30,1980,North Melbourne,2,2,5,5,11,6,14,12,Collingwood,2,8,5,12,11,17,14,20
+Semi Final,M.C.G.,1980-09-13 14:30,1980,Carlton,4,3,11,6,13,11,15,12,Collingwood,5,5,10,10,16,15,22,20
+Semi Final,Waverley Park,1980-09-13 14:30,1980,Geelong,5,2,7,4,9,4,11,5,Richmond,3,2,7,3,10,6,14,11
+Preliminary Final,Waverley Park,1980-09-20 14:30,1980,Geelong,2,2,5,5,9,8,13,11,Collingwood,3,5,6,8,12,10,13,15
+Grand Final,M.C.G.,1980-09-27 14:32,1980,Richmond,6,5,11,11,15,17,23,21,Collingwood,2,6,4,10,5,18,9,24

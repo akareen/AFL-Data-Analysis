@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Carlton,1966,1,St Kilda,2,L,13,4,,,4,,1,,,,,,,,,,,,,,,,,
+Carlton,1966,2,Fitzroy,3,W,13,7,1,6,13,1,1,,,,,,,1,3,,,,,,,,,
+Carlton,1966,3,Essendon,4,W,13,8,7,,8,4,,,,,,,,1,1,,,,,,,,,
+Carlton,1966,4,Melbourne,5,W,13,4,1,3,7,,2,,,,,,,,1,,,,,,,,,
+Carlton,1968,5,St Kilda,10,W,12,3,,,3,,,,,,,,,1,4,,,,,,,,,
+Carlton,1968,6,Footscray,16,L,12,8,3,,8,2,1,,,,,,,2,3,,,,,,,,,
+Carlton,1968,7,South Melbourne,17,W,12,5,3,1,6,,,,,,,,,,,,,,,,,,,
+Carlton,1968,8,Fitzroy,19,W,12,13,5,8,21,1,1,,,,,,,3,3,,,,,,,,,
+Carlton,1968,9,North Melbourne,20,W,12,7,4,2,9,1,,,,,,,,3,5,,,,,,,,,
+Carlton,1968,10,Essendon,SF,W,12,1,1,1,2,,,,,,,,,,,,,,,,,,,
+Carlton,1968,11,Essendon,GF,W,12,4,1,,4,,,,,,,,,,2,,,,,,,,,

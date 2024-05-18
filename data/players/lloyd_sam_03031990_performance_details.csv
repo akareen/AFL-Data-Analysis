@@ -1,0 +1,90 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Richmond,2014,1,Collingwood,4,L,42,13,3,9,22,3,,,5,,2,1,1,3,,,9,13,,1,1,,,88
+Richmond,2014,2,Brisbane Lions,5,W,42,8,3,5,13,,1,,6,,3,,1,2,,,4,8,,1,1,,1,81
+Richmond,2014,3↓,Hawthorn,6,L,42,6,5,4,10,,,,1,,,,3,,1,,1,8,,,,,,52
+Richmond,2014,4,Geelong,7,L,42,9,5,3,12,3,,,4,,3,,1,,,,2,10,,1,,,,87
+Richmond,2014,5,Melbourne,9,L,42,6,2,7,13,1,1,,6,,2,1,2,2,,,9,4,,,1,,,92
+Richmond,2014,6,Port Adelaide,17,W,42,8,5,3,11,3,3,,3,,2,,1,,1,,5,6,2,3,2,,1,92
+Richmond,2014,7↓,West Coast,18,W,42,5,2,2,7,,,,2,,3,1,3,,1,,2,3,,,,,,66
+Richmond,2014,8↓,Greater Western Sydney,19,W,42,3,2,4,7,,,,1,,1,,,,,,2,5,,1,1,,,53
+Richmond,2015,9,Carlton,1,W,27,10,7,4,14,3,2,,1,,4,1,2,,1,,4,9,,2,,1,,80
+Richmond,2015,10,Western Bulldogs,2,L,27,7,7,9,16,1,,,1,,3,2,4,2,1,,7,10,,3,,,,92
+Richmond,2015,11↑,Brisbane Lions,3,W,27,5,5,5,10,1,,,4,,2,1,1,,,,2,8,,2,,,1,52
+Richmond,2015,12,Melbourne,4,L,27,5,2,7,12,,,,3,,1,,2,,,,7,6,1,1,,1,,94
+Richmond,2015,13↑,Geelong,5,L,27,4,3,3,7,,,,1,,4,,,,,,2,5,,,,,,34
+Richmond,2015,14↑,Fremantle,17,L,27,7,4,4,11,1,2,,1,,2,,,,,,5,7,,1,,,,43
+Richmond,2015,15↑,Hawthorn,18,W,27,3,1,,3,1,1,,,,,,,,,,1,2,,,,1,,14
+Richmond,2015,16↑,Adelaide,19,L,27,4,2,4,8,,,,4,,3,,3,,1,,3,5,,,,,,41
+Richmond,2015,17,Gold Coast,20,W,27,8,1,8,16,3,1,,1,,3,2,2,1,2,,10,6,1,,,,,81
+Richmond,2015,18,Collingwood,21,W,27,11,4,3,14,3,1,,4,2,3,2,1,3,1,,8,7,1,2,4,1,2,93
+Richmond,2015,19↑,Essendon,22,W,27,3,2,3,6,,1,,,,2,,2,,2,,5,1,1,,,,,33
+Richmond,2015,20↑,North Melbourne,23,W,27,4,,2,6,,,,1,,1,,,2,,,3,3,,,,,,28
+Richmond,2016,21,Carlton,1,W,27,10,3,4,14,2,,,3,,4,2,2,,1,,6,7,1,,,,,87
+Richmond,2016,22,Collingwood,2,L,27,6,3,11,17,1,,,4,,,1,2,1,,,9,8,,3,,,1,89
+Richmond,2016,23,Adelaide,3,L,27,12,6,4,16,3,,,2,1,2,1,3,1,2,,6,10,1,4,,,,80
+Richmond,2016,24,West Coast,4,L,27,8,4,2,10,2,,,3,1,2,1,,,,,2,8,,2,1,,,88
+Richmond,2016,25,Melbourne,5,L,27,8,1,6,14,3,1,,7,,1,1,,1,,,8,5,1,1,,,,80
+Richmond,2016,26,Port Adelaide,6,L,27,9,2,5,14,,2,,3,,1,,5,1,1,,4,9,,,1,,,88
+Richmond,2016,27,Hawthorn,7,L,27,8,6,4,12,1,,,3,,2,,1,1,1,,5,7,1,3,,,1,82
+Richmond,2016,28,Sydney,8,W,27,10,7,5,15,3,2,,3,,3,,3,,2,,5,11,1,4,,,,66
+Richmond,2016,29,Fremantle,9,W,27,8,6,6,14,1,,,3,,2,1,4,2,3,,5,9,1,1,,,1,80
+Richmond,2016,30,Essendon,10,W,27,11,6,2,13,2,,,,,3,,2,,,,3,11,1,3,1,,1,81
+Richmond,2016,31,North Melbourne,11,L,27,7,4,2,9,1,1,,4,,,,4,,3,,2,8,1,1,1,,,89
+Richmond,2016,32,Gold Coast,12,W,27,9,3,4,13,2,1,,4,,2,,1,1,,,3,10,1,2,2,,,80
+Richmond,2016,33,Brisbane Lions,14,W,27,9,8,3,12,2,,,,,2,,,,,,2,10,1,2,,,,77
+Richmond,2016,34,Port Adelaide,15,L,27,10,6,7,17,2,1,,1,2,2,,2,2,1,,7,10,,1,1,,1,73
+Richmond,2016,35,Western Bulldogs,16,L,27,11,5,4,15,1,1,,3,,3,,1,2,,,4,9,,1,1,1,,68
+Richmond,2016,36,Essendon,17,W,27,11,2,4,15,3,1,,3,,2,,3,3,1,,6,10,,1,,,,81
+Richmond,2016,37,Hawthorn,18,L,27,6,3,2,8,,1,,3,,1,,,1,,,3,5,,,,,,82
+Richmond,2016,38,Greater Western Sydney,19,L,27,7,6,1,8,1,1,,4,,1,,,,,,2,6,1,2,,,,81
+Richmond,2016,39,Collingwood,20,W,27,9,4,6,15,1,,,2,,3,1,1,1,,,8,7,,1,,,1,79
+Richmond,2016,40,Geelong,21,L,27,6,2,3,9,3,,,2,,1,,1,1,1,,3,6,,1,,,,83
+Richmond,2016,41,St Kilda,22,L,27,9,4,2,11,,1,,2,,2,,4,1,2,,4,9,1,1,,,,64
+Richmond,2016,42,Sydney,23,L,27,11,4,2,13,1,,,4,2,1,1,2,1,1,,4,10,,,,,,71
+Richmond,2017,43,Carlton,1,W,27,5,3,5,10,1,,,1,,1,,3,1,,,6,3,1,1,,,,73
+Richmond,2017,44,Greater Western Sydney,9,L,27,9,5,4,13,1,2,,2,,2,,1,1,,,3,9,1,2,1,,,80
+Richmond,2017,45,Essendon,10,W,27,8,3,4,12,1,1,,3,1,2,1,5,,2,,4,8,,2,2,,1,82
+Richmond,2017,46,North Melbourne,11,W,27,9,7,2,11,,1,,5,,2,,2,1,1,,2,9,,1,,,1,78
+Richmond,2017,47,Sydney,13,L,27,12,6,7,19,1,1,,1,,5,1,3,2,,,6,12,,1,2,,2,76
+Richmond,2017,48,Carlton,14,W,27,15,5,6,21,,,,5,2,6,,4,2,2,,6,15,,,,,2,87
+Richmond,2017,49,Port Adelaide,15,W,27,8,4,5,13,1,,,5,2,3,,,2,,,5,7,,2,,,1,81
+Richmond,2017,50,St Kilda,16,L,27,6,6,4,10,1,1,,1,,3,1,,1,,,4,6,2,2,1,3,,84
+Richmond,2018,51,Hawthorn,3,W,27,8,1,9,17,1,,,1,1,2,1,1,,1,,9,8,,,,,,73
+Richmond,2018,52,Melbourne,5,W,27,10,1,3,13,2,,,1,4,2,,1,,1,,7,7,,,3,1,,77
+Richmond,2018,53,Fremantle,7,W,27,15,1,3,18,1,1,,4,5,1,1,2,2,,,5,13,,,2,1,1,78
+Richmond,2018,54,North Melbourne,8,W,27,14,6,10,24,,,,4,1,4,4,5,2,1,,13,10,1,,,,,74
+Richmond,2018,55,West Coast,9,L,27,9,5,8,17,,,,,,3,1,4,,,,7,9,,,1,,1,69
+Richmond,2018,56,Geelong,20,W,27,8,2,9,17,1,,,7,1,4,2,2,,1,,8,9,,1,3,,2,69
+Richmond,2018,57,Essendon,22,W,27,9,5,7,16,,,,2,,5,2,2,1,1,,5,13,,,3,,,71
+Western Bulldogs,2019,58,Sydney,1,W,22,12,2,10,22,2,1,,3,,3,2,4,1,2,,9,12,,,1,,,75
+Western Bulldogs,2019,59,Hawthorn,2,W,22,12,6,4,16,,,,1,4,2,1,1,,,,4,10,,,3,,,78
+Western Bulldogs,2019,60,Gold Coast,3,L,22,7,4,6,13,1,2,,,1,,,5,1,2,,8,5,1,2,1,,1,84
+Western Bulldogs,2019,61,Collingwood,4,L,22,10,6,2,12,2,1,,3,,3,,1,,,,1,12,,3,,,1,83
+Western Bulldogs,2019,62,Carlton,5,L,22,7,3,4,11,2,1,,,1,,,1,,,,6,4,2,1,,,,79
+Western Bulldogs,2019,63,Fremantle,6,L,22,6,6,4,10,2,,,2,,2,,1,,,,1,9,1,2,,,1,80
+Western Bulldogs,2019,64,Richmond,7,W,22,15,7,5,20,1,3,,4,,5,1,1,1,,,3,16,,3,,,3,85
+Western Bulldogs,2019,65,Brisbane Lions,8,W,22,17,6,2,19,2,1,,5,1,4,2,3,4,1,,13,8,2,2,1,,,77
+Western Bulldogs,2019,66,Geelong,9,L,22,15,3,1,16,1,,,5,2,6,3,4,,2,,6,10,,1,1,,,81
+Western Bulldogs,2019,67,North Melbourne,10,L,22,13,6,3,16,3,3,,,1,2,2,,2,,,7,9,,3,,1,1,80
+Western Bulldogs,2019,68,West Coast,11,L,22,15,8,6,21,1,1,,3,2,5,,5,1,2,,4,17,1,2,,1,,78
+Western Bulldogs,2019,69,Carlton,13,W,22,10,5,6,16,3,1,,2,,2,1,5,,,,4,13,,2,2,,,86
+Western Bulldogs,2019,70,Collingwood,14,L,22,11,6,5,16,2,3,,2,,3,,2,1,1,,7,9,2,3,1,,,80
+Western Bulldogs,2019,71,Port Adelaide,15,W,22,10,4,3,13,,1,,8,,4,,4,,,,6,7,,1,2,,,78
+Western Bulldogs,2019,72,Geelong,16,W,22,9,5,4,13,3,,,3,1,4,,2,,1,,3,11,1,2,,,1,77
+Western Bulldogs,2019,73,Melbourne,17,W,22,12,6,5,17,2,2,,1,,1,1,2,,2,,6,9,2,3,2,,1,86
+Western Bulldogs,2019,74,St Kilda,18,L,22,11,6,6,17,2,1,,3,,4,,3,,1,,5,11,1,3,,,1,81
+Western Bulldogs,2019,75,Fremantle,19,W,22,13,7,3,16,3,1,,2,,4,,4,1,,,5,13,,2,1,,,80
+Western Bulldogs,2019,76,Brisbane Lions,20,L,22,8,5,4,12,,3,,3,1,1,1,1,,1,,4,9,1,1,1,,1,79
+Western Bulldogs,2019,77,Essendon,21,W,22,10,6,3,13,1,3,,1,,2,,1,,1,,4,9,,1,,,,77
+Western Bulldogs,2019,78,Greater Western Sydney,22,W,22,13,5,6,19,2,3,,1,,3,1,1,,,,8,11,2,2,,,3,78
+Western Bulldogs,2019,79,Adelaide,23,W,22,8,4,8,16,2,,,1,1,,,3,2,,,6,10,,1,2,,,80
+Western Bulldogs,2019,80,Greater Western Sydney,EF,L,22,6,3,4,10,1,,,1,1,1,,1,,,,,9,,,,,,85
+Western Bulldogs,2020,81,Collingwood,1,L,22,6,4,2,8,,1,,5,,1,,1,2,,,2,6,,,,,,83
+Western Bulldogs,2020,82,St Kilda,2,L,22,5,2,2,7,,1,,3,,2,,4,1,,,2,5,,1,1,,,78
+Western Bulldogs,2020,83,Greater Western Sydney,3,W,22,2,3,5,7,,,,1,,1,,2,,1,,1,6,,2,,,,81
+Western Bulldogs,2020,84,Sydney,4,W,22,3,1,2,5,1,1,,2,,1,1,,2,,,4,2,,,2,,1,45
+Western Bulldogs,2020,85,Richmond,9,L,22,4,1,2,6,,,,1,,1,,1,,,,3,3,1,,,,,83
+Western Bulldogs,2020,86,Port Adelaide,10,L,22,9,6,6,15,2,1,,2,,2,,,,,,4,10,1,1,1,,1,79
+Western Bulldogs,2020,87,Brisbane Lions,11,L,22,7,4,,7,2,,,2,1,1,1,,1,,,2,5,,2,,,,74
+Western Bulldogs,2020,88,Adelaide,12,W,22,4,3,6,10,1,,,2,,3,1,3,,2,,6,6,1,,,,1,78
+Western Bulldogs,2020,89,West Coast,16,W,22,7,2,5,12,1,1,,2,1,4,2,1,2,1,,5,8,,1,,,,75

@@ -1,0 +1,91 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Port Adelaide,2011,1,Sydney,8,L,16,12,5,2,14,,,,1,1,,1,7,,2,,3,11,,,3,,,73
+Port Adelaide,2011,2,Fremantle,9,L,16,14,5,8,22,1,1,,3,1,6,4,3,2,1,,7,15,1,,2,1,,78
+Port Adelaide,2011,3,Richmond,10,W,16,8,3,5,13,1,,,5,1,2,,2,1,1,,5,8,,1,,,,81
+Port Adelaide,2011,4,Carlton,11,L,16,5,2,9,14,,,,4,1,3,,2,,1,,5,10,,,2,,,76
+Port Adelaide,2011,5↑,West Coast,13,L,16,4,3,,4,,,,1,,,,1,,,,2,2,1,,,,,32
+Port Adelaide,2011,6,North Melbourne,14,L,16,14,6,10,24,,,,4,2,1,,2,,,,3,21,,,4,,,88
+Port Adelaide,2011,7,Brisbane Lions,15,L,16,9,,6,15,,,,2,2,1,1,2,,,,4,11,,,2,1,,79
+Port Adelaide,2011,8,St Kilda,16,L,16,11,5,8,19,,,,4,2,1,1,2,2,1,,5,13,,,4,,,75
+Port Adelaide,2011,9,Melbourne,17,L,16,12,2,10,22,,,,1,5,2,3,2,1,1,,10,10,,,1,1,,81
+Port Adelaide,2011,10,Collingwood,20,L,16,8,4,8,16,,,,1,1,2,,1,,1,,7,7,1,,2,,,79
+Port Adelaide,2011,11,Hawthorn,21,L,16,7,2,17,24,,,,1,3,1,4,2,,,,8,16,,,5,1,,83
+Port Adelaide,2011,12,Western Bulldogs,22,L,16,6,2,4,10,,,,,2,,,1,,1,,3,7,,,2,,,80
+Port Adelaide,2012,13,St Kilda,1,W,16,5,2,7,12,,,,,1,1,,2,,1,,3,6,,,1,,,94
+Port Adelaide,2012,14,Essendon,2,L,16,8,4,6,14,,,,2,4,1,1,5,,,,1,12,,,,3,,89
+Port Adelaide,2012,15,Sydney,3,L,16,10,4,7,17,,,,3,3,1,1,3,,1,,5,12,,,2,,,90
+Port Adelaide,2012,16,Collingwood,4,L,16,6,2,15,21,,,,2,,,2,1,2,,,10,11,,,2,,1,92
+Port Adelaide,2012,17,Adelaide,5,L,16,8,5,7,15,1,,,1,,3,,2,1,,,6,9,,1,5,,,93
+Port Adelaide,2012,18,Richmond,6,L,16,12,3,11,23,1,,,2,,4,5,1,1,,,14,12,,,2,,,84
+Port Adelaide,2012,19,Fremantle,7,L,16,9,4,10,19,,,,,,3,1,3,,2,,5,14,,,2,,,81
+Port Adelaide,2012,20,North Melbourne,8,W,16,7,5,10,17,1,,,4,1,1,1,1,,,,5,11,,1,1,,1,77
+Port Adelaide,2012,21,Gold Coast,9,W,16,7,4,14,21,,,,1,4,1,2,3,,1,,9,13,,,2,,1,83
+Port Adelaide,2012,22,Carlton,10,W,16,12,5,6,18,,,,1,2,3,,2,,1,,2,15,,,1,,,80
+Port Adelaide,2012,23,Hawthorn,11,L,16,11,4,4,15,,,,3,1,,2,1,,,,7,8,,,4,,,75
+Port Adelaide,2012,24,Western Bulldogs,12,L,16,12,4,5,17,,,,2,,4,,3,1,,,4,13,,,,,,81
+Port Adelaide,2012,25,Geelong,14,L,16,8,5,6,14,,,,3,1,1,2,1,,,,2,11,,,1,,,82
+Port Adelaide,2012,26↑,Adelaide,15,L,16,2,2,3,5,,,,3,,,,1,,,,3,2,1,,1,,,31
+North Melbourne,2013,27↓,Collingwood,1,L,5,3,1,9,12,,1,,,,1,2,1,,,,6,6,,,1,,,62
+North Melbourne,2013,28↑,Geelong,2,L,5,5,3,3,8,,1,,,,1,1,2,,2,,1,8,,,,,,25
+North Melbourne,2013,29↓,Geelong,19,W,5,5,,13,18,1,,,1,,3,3,6,,5,,8,10,,,1,,,63
+North Melbourne,2013,30,Adelaide,20,L,5,3,1,12,15,,,,4,2,,4,,,,,7,8,,,2,,1,78
+North Melbourne,2013,31,Essendon,21,W,5,10,2,9,19,,2,,5,,5,2,,1,,,7,13,,,1,1,1,78
+North Melbourne,2013,32,Hawthorn,22,L,5,3,1,3,6,1,,,2,,2,,1,,1,,,6,,,1,1,,78
+North Melbourne,2013,33↑,Collingwood,23,W,5,5,,2,7,,,,1,1,1,,2,,,,1,6,,,,,,31
+North Melbourne,2014,34↑,Port Adelaide,3,W,5,2,,5,7,1,,,1,,,1,,,,,3,4,,,,,,23
+North Melbourne,2014,35↑,Sydney,4,W,5,3,3,,3,,,,,,,,2,,2,,,3,,,1,,,25
+North Melbourne,2014,36↑,Collingwood,5,L,5,8,3,7,15,,1,,4,,4,2,5,1,,,3,12,,,,,,38
+North Melbourne,2014,37↑,Brisbane Lions,15,L,5,6,1,7,13,,,,,1,,2,4,1,2,,6,7,,,2,,,27
+North Melbourne,2014,38,Hawthorn,16,W,5,6,4,14,20,,,,2,1,,1,2,1,2,,4,16,,,,,,72
+North Melbourne,2014,39,St Kilda,17,W,5,8,4,8,16,,1,,1,,,,2,1,1,,2,14,,,2,1,1,78
+North Melbourne,2014,40,Carlton,18,L,5,7,2,6,13,,,,2,1,3,3,2,1,1,,4,9,,,1,1,,75
+North Melbourne,2014,41,Geelong,19,L,5,9,6,12,21,,,,1,3,2,2,3,,2,,6,15,,,1,2,,88
+North Melbourne,2014,42,Greater Western Sydney,20,W,5,11,5,10,21,,,,1,2,3,,2,1,2,,7,15,,,2,1,,87
+North Melbourne,2014,43,Western Bulldogs,21,W,5,10,3,8,18,,,,2,3,4,2,2,,1,,8,8,2,,,,1,91
+North Melbourne,2014,44,Adelaide,22,W,5,6,2,7,13,,,,2,1,1,,1,,,,2,10,,,1,,,72
+North Melbourne,2014,45,Melbourne,23,W,5,3,2,8,11,,,,1,3,,,1,,1,,4,7,,,,4,,91
+North Melbourne,2014,46↓,Essendon,EF,W,5,6,2,9,15,,,,1,2,1,,2,1,1,,5,13,,,3,,,60
+North Melbourne,2014,47,Sydney,PF,L,5,7,2,4,11,,,,2,1,,,2,1,,,6,5,,,1,,,72
+North Melbourne,2015,48,Adelaide,1,L,5,9,3,2,11,,,,1,3,1,,3,1,1,,2,8,,,1,,,61
+North Melbourne,2015,49↑,Port Adelaide,3,L,5,19,5,11,30,,,,1,5,3,1,4,1,2,,8,23,,,1,,1,72
+North Melbourne,2015,50,Geelong,4,W,5,13,5,10,23,,,,,3,5,,2,,,,5,18,,,2,2,,83
+North Melbourne,2015,51,Hawthorn,5,L,5,8,6,11,19,,,,,2,,,2,,,,5,15,1,,3,1,,82
+North Melbourne,2015,52,Richmond,6,W,5,14,5,9,23,,,,5,4,3,,5,,2,,5,14,1,,2,,1,84
+North Melbourne,2015,53,Essendon,7,W,5,9,9,11,20,,,,,,3,,5,1,3,,2,18,,,2,2,,91
+North Melbourne,2015,54,Fremantle,8,L,5,12,4,12,24,,,,3,3,4,1,3,,1,,4,20,,,,,,80
+North Melbourne,2015,55↑,West Coast,10,W,5,1,,4,5,,,,4,,,2,1,,1,,5,,,,,,,31
+North Melbourne,2015,56,Sydney,11,L,5,3,3,10,13,,,,5,1,2,3,1,,,,6,6,,,1,,,82
+North Melbourne,2015,57,Greater Western Sydney,12,W,5,8,5,8,16,,,,3,,2,6,3,,2,,6,9,,,,,,88
+North Melbourne,2015,58,Gold Coast,14,L,5,1,1,6,7,,,,7,,,2,1,,1,,5,3,,,2,,,79
+North Melbourne,2015,59,Geelong,15,W,5,5,2,14,19,,,,6,,2,2,6,2,4,,7,12,,,2,,,87
+North Melbourne,2015,60,Essendon,16,W,5,7,3,8,15,,,,9,,2,,1,1,1,,4,10,,,1,,1,84
+North Melbourne,2015,61,Brisbane Lions,17,W,5,5,,3,8,,1,,10,1,2,2,1,,1,,4,5,,,1,,,81
+North Melbourne,2015,62,Carlton,18,W,5,7,5,14,21,,,,6,1,3,3,2,2,1,,7,12,,,1,,1,81
+North Melbourne,2015,63,Melbourne,19,W,5,9,1,2,11,1,,,7,,5,5,2,2,1,,8,2,,1,,,1,85
+North Melbourne,2015,64,St Kilda,20,W,5,9,3,11,20,,1,,6,,4,9,6,1,2,,13,8,,,1,,,81
+North Melbourne,2015,65,Fremantle,21,W,5,8,4,8,16,,,,4,2,1,,,1,,,5,11,,,,,,88
+North Melbourne,2015,66,Western Bulldogs,22,L,5,7,2,6,13,,,,5,1,2,2,1,2,1,,6,8,1,,,,1,85
+North Melbourne,2015,67,Richmond,23,L,5,7,6,6,13,,,,2,,1,2,3,,2,,3,11,,1,2,,1,70
+North Melbourne,2015,68,Richmond,EF,W,5,4,3,5,9,,,,8,,2,1,1,,1,,4,5,1,1,,,,85
+North Melbourne,2015,69,Sydney,SF,W,5,4,1,8,12,,,,5,,1,2,,1,,,10,3,1,,3,,,84
+North Melbourne,2015,70,West Coast,PF,L,5,3,,4,7,,,,3,,,2,2,2,2,,5,3,,,,,,79
+North Melbourne,2016,71,Brisbane Lions,2,W,5,1,,5,6,,,,3,,1,,,,,,4,2,,,,,,75
+North Melbourne,2016,72,Melbourne,3,W,5,2,1,4,6,,,,3,,1,1,1,1,,,5,2,,,2,,,86
+North Melbourne,2016,73,Fremantle,4,W,5,7,2,13,20,,,,4,1,2,1,4,1,,,4,15,,,2,,1,84
+North Melbourne,2016,74,Gold Coast,5,W,5,2,1,8,10,,,,3,1,2,5,1,1,,,9,2,,,1,,,73
+North Melbourne,2016,75,Western Bulldogs,6,W,5,7,4,10,17,,,,1,1,3,1,3,,,,11,10,1,,3,,,85
+North Melbourne,2016,76,St Kilda,7,W,5,7,2,7,14,,1,,6,1,2,1,1,,1,,5,10,,,1,,,82
+North Melbourne,2016,77,Essendon,8,W,5,5,2,9,14,1,,,5,,1,,3,,1,,2,12,,,2,,,86
+North Melbourne,2018,78,Gold Coast,1,L,5,5,,1,6,,,,7,,,1,5,1,3,,4,3,,,3,,,80
+North Melbourne,2018,79,St Kilda,2,W,5,11,4,7,18,1,,,10,3,2,2,,2,,,8,9,,,1,,,78
+North Melbourne,2018,80,Melbourne,3,L,5,4,6,11,15,,,,10,1,3,2,3,,2,,7,9,,,,1,,80
+North Melbourne,2018,81,Carlton,4,W,5,6,,5,11,,,,7,,2,2,5,1,4,,8,4,,,2,,,78
+North Melbourne,2018,82,Hawthorn,5,W,5,5,,14,19,,,,5,1,1,7,4,3,1,,11,8,,,1,,,84
+North Melbourne,2018,83,Port Adelaide,6,L,5,11,1,12,23,,,,4,,5,1,6,1,2,,10,14,,,3,,1,88
+North Melbourne,2018,84,Sydney,7,W,5,10,6,19,29,,,,9,1,5,3,3,,1,1,5,24,,,2,,,83
+North Melbourne,2018,85,Richmond,8,L,5,4,1,11,15,,,,6,1,1,3,2,1,2,,8,8,1,,1,,,76
+North Melbourne,2018,86,Greater Western Sydney,9,W,5,6,4,8,14,,,,10,1,2,5,4,1,3,,9,6,,,1,,2,78
+North Melbourne,2018,87,Fremantle,10,W,5,11,4,18,29,1,,,9,,1,4,8,3,4,3,18,10,,2,1,,,85
+North Melbourne,2018,88,Brisbane Lions,11,W,5,7,2,15,22,2,,,4,,1,2,6,2,5,,8,15,1,1,3,,1,86
+North Melbourne,2018,89,Geelong,12,L,5,8,1,13,21,,,,3,1,2,4,1,3,1,,11,10,,,1,,,81
+North Melbourne,2018,90,Gold Coast,16,W,5,11,3,15,26,1,1,,4,,2,4,3,,,,8,16,,,,1,2,82

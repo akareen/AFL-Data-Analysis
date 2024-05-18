@@ -1,0 +1,13 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Richmond,1981,1,Footscray,8,W,27,5,,1,6,,,,,,,,,3,,,,,,,,,,
+Richmond,1981,2,St Kilda,9,W,27,9,1,6,15,,1,,,,,,,2,2,,,,,,,,,
+Richmond,1981,3,Melbourne,11,W,27,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1981,4,South Melbourne,12,W,27,4,1,2,6,,,,,,,,,1,1,,,,,,,,,
+Richmond,1981,5,Essendon,13,L,27,4,1,5,9,,,,,,,,,1,,,,,,,,,,
+Footscray,1983,6,Geelong,1,L,31,6,2,1,7,,1,,,,,,,1,2,,,,,,,,,
+Footscray,1983,7,North Melbourne,19,L,31,18,2,6,24,,3,1,,,,,,2,5,,,,,,,,,
+Footscray,1983,8,Fitzroy,20,W,31,13,4,2,15,,,,,,,,,1,4,,,,,,,,,
+Footscray,1983,9,St Kilda,21,W,31,10,2,2,12,2,,,,,,,,1,5,,,,,,,,,
+Footscray,1983,10,Sydney,22,W,31,2,,,2,,,,,,,,,,,,,,,,,,,
+Footscray,1984,11,Hawthorn,5,L,31,7,2,5,12,1,1,,,,,,,1,1,,,,,,,,,
+Footscray,1984,12,Sydney,6,W,31,1,,2,3,,,,,,,,,,2,,,,,,,,,

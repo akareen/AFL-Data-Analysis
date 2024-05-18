@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Carlton,1986,1,Hawthorn,1,L,40,8,5,2,10,1,2,,,,,,,,3,,,,,,,,,
+Carlton,1986,2,Richmond,2,W,40,8,5,1,9,4,1,,,,,,,,,,,,,,,,,
+Carlton,1986,3,St Kilda,3,W,40,10,3,1,11,2,4,,,,,,,,2,,,,,,,,,
+Carlton,1986,4,Fitzroy,4,W,40,9,5,4,13,2,,,,,,,,1,,,,,,,,,,
+Carlton,1986,5,Essendon,5,W,40,1,1,1,2,1,,,,,,,,,1,,,,,,,,,
+Carlton,1986,6,Melbourne,10,W,40,4,2,,4,3,1,,,,,,,1,,,,,,,,,,
+Carlton,1986,7,North Melbourne,11,W,40,6,5,,6,4,,,,,,,,,2,,,,,,,,,
+Carlton,1986,8,Hawthorn,12,L,40,9,7,1,10,2,2,,,,,,,1,1,,,,,,,,,
+Carlton,1986,9,Richmond,13,W,40,4,,1,5,,,,,,,,,,3,,,,,,,,,
+Carlton,1986,10,North Melbourne,16,W,40,4,2,7,11,1,1,,,,,,,1,2,,,,,,,,,
+Carlton,1986,11,Essendon,17,L,40,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Fitzroy,1912,1,Geelong,12,L,18,,,,,,,,,,,,,,,,,,,,,,,
+Fitzroy,1912,2,University,14,W,18,,,,,1,,,,,,,,,,,,,,,,,,
+Fitzroy,1912,3,Melbourne,15,W,18,,,,,,,,,,,,,,,,,,,,,,,
+Essendon,1915,4,Carlton,13,L,29,,,,,,,,,,,,,,,,,,,,,,,
+Essendon,1915,5,St Kilda,14,L,29,,,,,,,,,,,,,,,,,,,,,,,
+Essendon,1915,6,South Melbourne,15,L,29,,,,,,,,,,,,,,,,,,,,,,,
+Essendon,1915,7,Geelong,16,L,29,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,27 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Fremantle,2010,1,Adelaide,1,W,2,7,1,6,13,1,,3,2,2,2,2,3,,1,,4,9,,,3,2,,63
+Fremantle,2010,2,Essendon,2,W,2,8,5,7,15,,,1,3,,3,3,2,,1,,5,10,,,1,,,69
+Fremantle,2010,3,Geelong,3,W,2,11,2,4,15,2,,,9,2,5,3,1,3,,,9,6,1,,,3,,57
+Fremantle,2010,4,St Kilda,4,L,2,11,1,3,14,,,,2,1,5,,4,,1,,2,11,,,1,1,1,74
+Fremantle,2010,5,Richmond,5,W,2,6,3,8,14,,,,2,2,1,2,5,,3,,4,12,1,,1,2,,74
+Fremantle,2010,6,West Coast,6,W,2,8,3,4,12,,1,2,4,1,4,4,3,,2,,8,5,2,1,1,,1,75
+Fremantle,2010,7,Brisbane Lions,7,W,2,8,5,3,11,1,4,,2,1,2,,1,,,,4,7,2,1,,,,67
+Fremantle,2010,8,Collingwood,8,L,2,6,3,8,14,,,,5,1,2,1,2,,1,,4,11,,,1,1,,73
+Fremantle,2010,9,Sydney,9,W,2,5,2,3,8,1,,,5,1,5,1,2,1,2,,5,3,1,,1,,,65
+Fremantle,2010,10,North Melbourne,10,W,2,5,,13,18,,,,2,,3,4,3,2,2,,10,7,,,2,2,,65
+Fremantle,2010,11,Adelaide,11,L,2,8,2,3,11,,,,2,,5,,5,,,,4,6,,1,,,1,66
+Fremantle,2010,12,St Kilda,12,L,2,7,2,7,14,2,,,1,,5,3,2,1,1,,6,8,1,1,2,,,80
+Fremantle,2010,13,Carlton,13,W,2,5,,4,9,1,1,,5,1,2,,4,1,3,,7,2,,,2,,2,78
+Fremantle,2010,14,Port Adelaide,14,W,2,11,7,6,17,1,1,1,3,3,3,1,1,,1,2,4,14,,1,3,3,,86
+Fremantle,2010,15,Richmond,15,L,2,11,3,3,14,1,1,,9,,5,,3,,1,,2,12,,,2,,,79
+Fremantle,2010,16,Melbourne,16,W,2,12,2,5,17,,4,,1,1,2,6,1,2,,1,8,9,,,2,1,,81
+Fremantle,2010,17,Western Bulldogs,17,L,2,3,2,3,6,,,1,3,,1,,3,,1,,1,5,1,1,1,,,77
+Fremantle,2010,18,West Coast,18,W,2,6,1,7,13,,1,,1,1,4,6,1,1,1,,9,4,1,,,,2,75
+Fremantle,2010,19,North Melbourne,19,L,2,4,5,8,12,,,,1,2,1,2,3,1,,,3,9,1,,1,2,,78
+Fremantle,2010,20,Sydney,20,L,2,9,4,1,10,1,2,,4,2,2,2,1,,1,,3,7,,,3,,1,82
+Fremantle,2010,21,Carlton,22,W,2,12,4,6,18,1,,,,1,6,2,1,1,,,7,11,,,3,,,62
+Fremantle,2010,22,Hawthorn,EF,W,2,12,5,5,17,1,3,,6,,5,3,,2,,,7,10,,1,,4,,65
+Fremantle,2010,23,Geelong,SF,L,2,8,3,4,12,,,1,3,1,5,3,,,,,5,6,,,1,,,75
+Fremantle,2014,24↑,Melbourne,16,W,2,5,,3,8,,1,,2,,1,,1,1,,,3,6,,,1,,,37
+Fremantle,2014,25↑,Greater Western Sydney,17,W,2,7,1,8,15,,,,,,4,1,1,,,,6,9,1,,2,1,2,36
+Fremantle,2014,26,St Kilda,18,L,2,3,1,1,4,1,,,2,1,,,1,,1,,3,2,1,1,1,,,75

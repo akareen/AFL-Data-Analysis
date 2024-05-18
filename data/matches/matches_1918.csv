@@ -1,0 +1,60 @@
+round_num,venue,date,year,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,Victoria Park,1918-05-11 15:00,1918,Collingwood,0,6,1,10,6,15,8,17,Carlton,2,2,3,3,4,3,4,6
+1,Punt Rd,1918-05-11 15:00,1918,Richmond,1,4,2,10,4,12,5,16,Essendon,1,1,2,4,3,6,4,10
+1,Junction Oval,1918-05-11 15:00,1918,St Kilda,2,6,2,8,4,13,4,16,Fitzroy,1,1,3,3,3,5,4,10
+1,Lake Oval,1918-05-11 15:00,1918,South Melbourne,0,5,0,10,3,11,7,15,Geelong,1,1,1,5,2,5,4,7
+2,Princes Park,1918-05-18 15:00,1918,Carlton,1,1,3,3,6,5,8,5,Richmond,3,3,5,5,5,11,7,16
+2,Corio Oval,1918-05-18 15:00,1918,Geelong,0,0,3,2,4,4,5,6,Collingwood,4,2,4,3,6,4,7,6
+2,East Melbourne,1918-05-18 15:00,1918,Essendon,2,2,5,8,6,8,8,13,St Kilda,3,6,3,6,6,11,6,18
+2,Brunswick St,1918-05-18 15:00,1918,Fitzroy,1,2,3,3,5,7,5,8,South Melbourne,4,0,5,2,8,3,12,6
+3,Princes Park,1918-05-25 15:00,1918,Carlton,3,4,4,6,8,8,11,11,St Kilda,0,2,4,5,6,8,7,9
+3,Lake Oval,1918-05-25 15:00,1918,South Melbourne,3,2,6,5,7,6,12,13,Collingwood,1,4,3,5,7,9,9,13
+3,Corio Oval,1918-05-25 15:00,1918,Geelong,0,1,4,7,5,8,6,16,Essendon,2,8,3,8,4,11,4,12
+3,Punt Rd,1918-05-25 15:00,1918,Richmond,0,0,4,2,5,3,6,8,Fitzroy,4,0,5,5,9,9,10,12
+4,East Melbourne,1918-06-01 15:00,1918,Essendon,0,1,1,7,3,10,4,13,Carlton,2,8,2,15,4,20,8,27
+4,Victoria Park,1918-06-01 15:00,1918,Collingwood,2,3,6,7,9,10,11,10,Richmond,3,1,4,1,7,6,8,8
+4,Brunswick St,1918-06-03 15:00,1918,Fitzroy,3,5,4,10,6,13,10,14,Geelong,2,2,5,6,8,11,8,14
+4,Junction Oval,1918-06-03 15:00,1918,St Kilda,3,6,3,7,6,11,6,13,South Melbourne,1,1,6,3,6,3,6,8
+5,Lake Oval,1918-06-08 15:00,1918,South Melbourne,4,3,5,3,8,9,11,10,Carlton,3,4,6,9,7,10,10,12
+5,Victoria Park,1918-06-08 15:00,1918,Collingwood,3,4,6,10,8,14,14,21,St Kilda,1,4,4,5,6,7,6,9
+5,Brunswick St,1918-06-08 15:00,1918,Fitzroy,0,2,4,8,8,10,9,12,Essendon,1,4,1,7,1,8,2,13
+5,Corio Oval,1918-06-08 15:00,1918,Geelong,2,3,3,8,5,11,6,13,Richmond,2,4,2,13,2,16,7,18
+6,Princes Park,1918-06-15 15:00,1918,Carlton,4,3,6,8,7,11,16,15,Geelong,3,0,5,1,6,3,7,3
+6,Victoria Park,1918-06-15 15:00,1918,Collingwood,1,0,3,5,4,9,7,11,Fitzroy,2,1,3,2,3,5,3,6
+6,East Melbourne,1918-06-15 15:00,1918,Essendon,0,1,2,5,3,6,4,8,South Melbourne,1,2,2,4,6,9,7,10
+6,Punt Rd,1918-06-15 15:00,1918,Richmond,2,4,4,7,4,11,5,13,St Kilda,3,6,4,8,7,16,7,18
+7,Brunswick St,1918-06-22 15:00,1918,Fitzroy,0,5,1,11,2,12,6,15,Carlton,2,5,4,8,6,10,12,11
+7,East Melbourne,1918-06-22 15:00,1918,Essendon,3,2,4,4,4,6,4,9,Collingwood,2,2,4,6,10,9,14,14
+7,Junction Oval,1918-06-22 15:00,1918,St Kilda,4,1,10,5,12,10,15,13,Geelong,1,2,1,5,3,8,5,9
+7,Lake Oval,1918-06-22 15:00,1918,South Melbourne,3,2,5,6,8,9,12,14,Richmond,1,5,2,5,4,9,4,10
+8,Princes Park,1918-06-29 15:00,1918,Carlton,1,6,3,7,6,12,6,13,Collingwood,1,0,3,1,4,1,6,5
+8,East Melbourne,1918-06-29 15:00,1918,Essendon,1,1,2,1,3,2,3,4,Richmond,1,4,2,7,3,7,5,15
+8,Brunswick St,1918-06-29 15:00,1918,Fitzroy,1,6,3,6,4,6,7,6,St Kilda,1,0,3,3,3,4,3,5
+8,Corio Oval,1918-06-29 15:00,1918,Geelong,1,1,4,4,4,5,7,8,South Melbourne,4,1,5,6,6,11,7,13
+9,Punt Rd,1918-07-06 15:00,1918,Richmond,1,5,5,9,6,13,7,16,Carlton,3,3,5,4,5,9,8,13
+9,Victoria Park,1918-07-06 15:00,1918,Collingwood,5,4,7,9,10,9,12,14,Geelong,1,2,4,4,5,6,7,10
+9,Junction Oval,1918-07-06 15:00,1918,St Kilda,1,3,3,9,6,13,6,14,Essendon,2,1,4,2,5,4,6,6
+9,Lake Oval,1918-07-06 15:00,1918,South Melbourne,3,2,6,9,8,10,12,14,Fitzroy,1,4,1,7,5,9,8,13
+10,Junction Oval,1918-07-13 15:00,1918,St Kilda,0,8,0,11,2,18,4,20,Carlton,1,2,2,2,2,2,2,5
+10,Victoria Park,1918-07-13 15:00,1918,Collingwood,0,2,2,3,3,4,6,8,South Melbourne,3,3,3,3,6,8,7,9
+10,East Melbourne,1918-07-13 15:00,1918,Essendon,4,3,4,6,5,7,8,10,Geelong,0,2,2,6,3,7,5,9
+10,Brunswick St,1918-07-13 15:00,1918,Fitzroy,5,3,5,5,8,9,10,11,Richmond,1,0,4,4,4,4,6,7
+11,Princes Park,1918-07-20 15:00,1918,Carlton,2,4,4,9,5,13,10,20,Essendon,1,1,1,6,3,6,4,7
+11,Punt Rd,1918-07-20 15:00,1918,Richmond,4,1,6,7,6,10,6,13,Collingwood,1,4,5,6,8,8,11,10
+11,Corio Oval,1918-07-20 15:00,1918,Geelong,1,1,1,3,3,5,5,6,Fitzroy,4,2,6,3,7,4,11,6
+11,Lake Oval,1918-07-20 15:00,1918,South Melbourne,3,3,6,11,10,14,14,17,St Kilda,1,6,2,7,2,7,7,9
+12,Princes Park,1918-07-27 15:00,1918,Carlton,0,5,2,8,5,10,5,13,South Melbourne,0,3,3,4,5,6,8,7
+12,Junction Oval,1918-07-27 15:00,1918,St Kilda,4,3,7,6,8,8,9,9,Collingwood,2,4,4,6,5,12,6,14
+12,East Melbourne,1918-07-27 15:00,1918,Essendon,2,4,5,6,6,8,8,10,Fitzroy,0,3,2,4,4,6,6,6
+12,Punt Rd,1918-07-27 15:00,1918,Richmond,4,8,7,12,13,12,15,15,Geelong,2,2,5,5,7,7,10,11
+13,Brunswick St,1918-08-03 15:00,1918,Fitzroy,2,2,4,5,5,8,8,12,Collingwood,2,2,5,9,8,15,10,19
+13,Lake Oval,1918-08-03 15:00,1918,South Melbourne,2,2,8,4,10,8,12,13,Essendon,2,1,4,3,5,9,7,10
+13,Junction Oval,1918-08-03 15:00,1918,St Kilda,2,2,5,4,9,4,10,7,Richmond,0,2,2,5,6,6,8,9
+13,Corio Oval,1918-08-03 15:15,1918,Geelong,2,3,4,5,7,7,10,7,Carlton,2,5,3,10,3,11,4,13
+14,Princes Park,1918-08-10 15:00,1918,Carlton,2,4,7,7,9,10,10,14,Fitzroy,4,1,6,2,8,5,9,7
+14,Victoria Park,1918-08-10 15:00,1918,Collingwood,0,3,4,6,6,9,9,14,Essendon,1,3,1,3,2,7,3,8
+14,Corio Oval,1918-08-10 15:00,1918,Geelong,2,7,4,14,6,20,10,27,St Kilda,0,1,1,1,4,3,6,6
+14,Punt Rd,1918-08-10 15:00,1918,Richmond,4,3,4,7,6,11,7,12,South Melbourne,2,2,4,8,4,11,7,17
+Semi Final,M.C.G.,1918-08-17 14:30,1918,Collingwood,2,5,4,6,5,11,7,16,St Kilda,2,1,6,5,7,6,7,7
+Semi Final,M.C.G.,1918-08-31 14:30,1918,South Melbourne,3,3,4,3,6,8,8,10,Carlton,2,3,4,6,5,7,7,11
+Grand Final,M.C.G.,1918-09-07 14:50,1918,South Melbourne,2,5,2,5,6,6,9,8,Collingwood,3,3,4,9,7,12,7,15

@@ -1,0 +1,13 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Richmond,1925,1,Hawthorn,12,W,4,,,,,,,,,,,,,,,,,,,,,,,
+Richmond,1925,2,Geelong,13,L,4,,,,,,,,,,,,,,,,,,,,,,,
+Hawthorn,1929,3,Carlton,3,L,34,,,,,1,,,,,,,,,,,,,,,,,,
+Hawthorn,1929,4,Essendon,4,L,34,,,,,,,,,,,,,,,,,,,,,,,
+Hawthorn,1929,5,Carlton,14,L,34,,,,,,,,,,,,,,,,,,,,,,,
+Hawthorn,1929,6,Essendon,15,L,34,,,,,,,,,,,,,,,,,,,,,,,
+Hawthorn,1929,7,Richmond,16,L,34,,,,,,,,,,,,,,,,,,,,,,,
+Hawthorn,1930,8,St Kilda,1,W,,,,,,,,,,,,,,,,,,,,,,,,
+Hawthorn,1930,9,Collingwood,2,L,,,,,,,,,,,,,,,,,,,,,,,,
+Hawthorn,1930,10,Richmond,5,L,,,,,,,,,,,,,,,,,,,,,,,,
+Hawthorn,1930,11,Footscray,6,L,,,,,,,,,,,,,,,,,,,,,,,,
+Hawthorn,1930,12,South Melbourne,7,L,,,,,,,,,,,,,,,,,,,,,,,,
