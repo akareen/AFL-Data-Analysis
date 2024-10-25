@@ -1,8 +1,10 @@
 from game_scraper import GameScraper
 from player_scraper import PlayerScraper
+from team_scraper  import TeamScraper
 
 def main() -> None:
-    start_year: int = 1897
+    # 1897 for overall history but team history starts from 1964
+    start_year: int = 1964
     end_year: int = 2024
     folder_path = "data/"
 
@@ -15,6 +17,9 @@ def main() -> None:
     player_scraper.scrape_all_players(
         player_folder_path=folder_path + "players"
     )
+    
+    team_scraper: TeamScraper = TeamScraper()
+    team_scraper.scrape_team_stats(start_year, end_year, folder_path + "teams")
 
 if __name__ == "__main__":
     main()
