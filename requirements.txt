@@ -2,3 +2,4 @@ datetime
 bs4
 requests
 tqdm
+pandas
