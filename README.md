@@ -55,7 +55,7 @@ Contributions are encouraged; don't hesitate to submit a pull request or contact
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/akareen/AFL-Data-Analysis.git](https://github.com/apur27/SuperCoach-VIA.git)
+   git clone https://github.com/apur27/SuperCoach-VIA.git
    cd SuperCoach-VIA
    ```
 
