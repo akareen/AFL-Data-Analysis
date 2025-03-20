@@ -41,10 +41,10 @@ class MatchScraper:
             self._process_year(year, match_folder_path)
 
         for team, value in self.team_lineups.items():
-            team = team.replace(' ', '_').lower()
+            team_filename = team.replace(' ', '_').lower()
             df = pd.DataFrame(value)
             df['players'] = df['players'].apply(lambda x: ';'.join(x))
-            df.to_csv(f'{lineup_folder_path}/team_lineups_{team}.csv', index=False, encoding='utf-8')
+            df.to_csv(f'{lineup_folder_path}/team_lineups_{team_filename}.csv', index=False, encoding='utf-8')
     
     def _process_year(self, year: int, folder_path: str) -> None:
         """
@@ -59,9 +59,16 @@ class MatchScraper:
         """
         year_soup: BeautifulSoup = get_soup(self.base_url + str(year) + '.html')
         game_links: List[str] = self._find_game_links(year_soup)
-        match_data: List[Optional[Dict[str, Any]]] = [self._extract_match_summary_table_data(link) for link in game_links]
-        df = pd.DataFrame(match_data)
-        df.to_csv(f'{folder_path}/matches_{year}.csv', index=False)
+        match_data: List[Optional[Dict[str, Any]]] = []
+        
+        for link in game_links:
+            match_info = self._extract_match_summary_table_data(link)
+            if match_info:
+                match_data.append(match_info)
+        
+        if match_data:
+            df = pd.DataFrame(match_data)
+            df.to_csv(f'{folder_path}/matches_{year}.csv', index=False)
 
     def _extract_match_summary_table_data(self, url: str) -> Optional[Dict[str, Any]]:
         """
@@ -73,35 +80,73 @@ class MatchScraper:
         Returns:
             Optional[Dict[str, Any]]: The extracted match data.
         """
-        soup: BeautifulSoup = get_soup(url)
-        tables = soup.find_all('table')
-        td_elements = tables[0].find_all('td')
-        data_list: List[str] = [elem.text for elem in td_elements]
+        try:
+            soup: BeautifulSoup = get_soup(url)
+            tables = soup.find_all('table')
+            
+            if not tables:
+                return None
+                
+            td_elements = tables[0].find_all('td')
+            data_list: List[str] = [elem.text.strip() for elem in td_elements]
+            
+            if len(data_list) < 13:  # Basic validation
+                return None
 
-        data: Dict[str, Any] = self._extract_match_details(data_list)
+            data: Dict[str, Any] = self._extract_match_details(data_list)
+            
+            team_detail_tables: List[BeautifulSoup] = soup.find_all(class_='sortable')
+            if len(team_detail_tables) < 2:
+                return data
+                
+            team_lineup: Dict[str, List[str]] = {}
+            teams: List[Dict[str, Union[str, int]]] = []
+            team_data: List[str] = data_list[3:13]
+            
+            table_num: int = 0
+            for i in range(0, len(team_data), 5):
+                if i + 4 >= len(team_data):
+                    break
+                    
+                team: Dict[str, Union[str, int, List[str]]] = {}
+                team['team_name'] = team_data[i]
+                
+                if table_num < len(team_detail_tables):
+                    team_lineup[team['team_name']] = self._extract_player_names(team_detail_tables[table_num])
+                
+                team['q1_goals'], team['q1_behinds'] = self._parse_score(team_data[i+1])
+                team['q2_goals'], team['q2_behinds'] = self._parse_score(team_data[i+2])
+                team['q3_goals'], team['q3_behinds'] = self._parse_score(team_data[i+3])
+                team['final_goals'], team['final_behinds'] = self._parse_score(team_data[i+4])
+                
+                teams.append(team)
+                table_num += 1
 
-        team_detail_tables: List[BeautifulSoup] = soup.find_all(class_='sortable', limit=2)
-        team_lineup: Dict[str, List[str]] = {}
-        teams: List[Dict[str, Union[str, int]]] = []
-        team_data: List[str] = data_list[3:13]
-        if '.' in data_list[8]:
+            data.update({f'team_{i+1}_{k}': v for i, team in enumerate(teams) for k, v in team.items()})
+            self._add_team_lineups(data, team_lineup)
+            
             return data
-        table_num: int = 0
-        for i in range(0, len(team_data), 5):
-            team: Dict[str, Union[str, int, List[str]]] = {}
-            team['team_name'] = team_data[i]
-            team_lineup[team['team_name']] = self._extract_player_names(team_detail_tables[table_num])
-            team['q1_goals'], team['q1_behinds'], _ = map(int, team_data[i+1].split('.'))
-            team['q2_goals'], team['q2_behinds'], _ = map(int, team_data[i+2].split('.'))
-            team['q3_goals'], team['q3_behinds'], _ = map(int, team_data[i+3].split('.'))
-            team['final_goals'], team['final_behinds'], _ = map(int, team_data[i+4].split('.'))
-            teams.append(team)
-            table_num += 1
-
-        data.update({f'team_{i+1}_{k}': v for i, team in enumerate(teams) for k, v in team.items()})
-        self._add_team_lineups(data, team_lineup)
+        except Exception as e:
+            print(f"Error processing {url}: {e}")
+            return None
+    
+    def _parse_score(self, score_str: str) -> Tuple[int, int]:
+        """
+        Parses a score string into goals and behinds.
         
-        return data
+        Args:
+            score_str (str): The score string to parse.
+            
+        Returns:
+            Tuple[int, int]: The goals and behinds.
+        """
+        parts = score_str.split('.')
+        if len(parts) >= 2:
+            try:
+                return int(parts[0]), int(parts[1])
+            except ValueError:
+                return 0, 0
+        return 0, 0
     
     def _extract_match_details(self, data_list: List[str]) -> Dict[str, Any]:
         """
@@ -113,7 +158,7 @@ class MatchScraper:
         Returns:
             Dict[str, Any]: The extracted match details.
         """
-        pattern: str = r"Round: (.+) Venue: (.+) Date: (\w+, \d+-\w+-\d{4} \d{1,2}:\d{2} (?:AM|PM))(?: \((\d{1,2}:\d{2} (?:AM|PM))\))?(?: Attendance: \d+)?"       
+        pattern: str = r"Round: (.+) Venue: (.+) Date: (\w+, \d+-\w+-\d{4} \d{1,2}:\d{2} (?:AM|PM))(?: \((\d{1,2}:\d{2} (?:AM|PM))\))?(?: Attendance: (\d+))?"       
 
         data: Dict[str, Any] = {}
 
@@ -121,11 +166,23 @@ class MatchScraper:
         if match:
             data['round_num'] = match.group(1)
             data['venue'] = match.group(2)
-            data['date'] = datetime.strptime(match.group(3).split('(')[0].strip(), "%a, %d-%b-%Y %I:%M %p").strftime("%Y-%m-%d %H:%M")
-            data['year'] = data['date'][:4]
-            data['attendance'] = match.group(4) if match.group(4) else "N/A"
+            try:
+                date_str = match.group(3).split('(')[0].strip()
+                data['date'] = datetime.strptime(date_str, "%a, %d-%b-%Y %I:%M %p").strftime("%Y-%m-%d %H:%M")
+                data['year'] = data['date'][:4]
+            except ValueError:
+                # Fallback for date parsing issues
+                data['date'] = match.group(3)
+                data['year'] = match.group(3).split('-')[-1][:4]
+                
+            data['attendance'] = match.group(5) if match.group(5) else "N/A"
         else:
-            print(f"No match found: {data_list[1]}")
+            print(f"No match found in: {data_list[1]}")
+            data['round_num'] = "Unknown"
+            data['venue'] = "Unknown"
+            data['date'] = "Unknown"
+            data['year'] = "Unknown"
+            data['attendance'] = "N/A"
 
         return data
     
@@ -164,7 +221,11 @@ class MatchScraper:
         result: List[str] = []
         links = team_detail_table.find_all("a", href=lambda href: href and href.startswith("../../players/"))
         for link in links:
-            result.append(" ".join(reversed(link.text.strip().split(", "))))
+            name_parts = link.text.strip().split(", ")
+            if len(name_parts) == 2:
+                result.append(f"{name_parts[1]} {name_parts[0]}")
+            else:
+                result.append(link.text.strip())
         return result
 
     def _find_game_links(self, year_soup: BeautifulSoup) -> List[str]:
@@ -184,6 +245,29 @@ class MatchScraper:
                 href=lambda href: href and href.startswith("../stats/games/")
             )
         ]
-        base_url: str = "https://afltables.com/afl/seas/"
-        absolute_links: List[str] = [urljoin(base_url, link) for link in relative_links]
+        base_url: str = "https://afltables.com/afl/stats/"
+        absolute_links: List[str] = [urljoin(base_url, link.replace("../stats/", "")) for link in relative_links]
         return absolute_links
+
+if __name__ == "__main__":
+    import os
+    
+    # Set start year to 2011 and end year to current year (2025)
+    start_year = 2011
+    end_year = 2025
+    
+    # Define output folder paths
+    match_folder_path = "./data/matches"
+    lineup_folder_path = "./data/lineups"
+    
+    # Create output directories if they don't exist
+    os.makedirs(match_folder_path, exist_ok=True)
+    os.makedirs(lineup_folder_path, exist_ok=True)
+    
+    # Create an instance of MatchScraper
+    scraper = MatchScraper(start_year, end_year)
+    
+    # Run the scraper
+    print(f"Starting to scrape AFL match data from {start_year} to {end_year}...")
+    scraper.scrape_all_matches(match_folder_path, lineup_folder_path)
+    print("Scraping completed successfully!")
