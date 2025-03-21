@@ -1,0 +1,55 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1960,1,Carlton,2,W,24,,,,,,,,,,,,,,,,,,,,,,,,1960-03-08
+Fitzroy,1960,2,Geelong,3,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1960-03-15
+Fitzroy,1960,3,Richmond,4,W,24,,,,,,,,,,,,,,,,,,,,,,,,1960-03-22
+Fitzroy,1960,4,Footscray,5,W,24,,,,,,,,,,,,,,,,,,,,,,,,1960-03-29
+Fitzroy,1960,5,Essendon,6,W,24,,,,,,,,,,,,,,,,,,,,,,,,1960-04-05
+Fitzroy,1960,6,St Kilda,7,L,24,,,,,,,,,,,,,,,,,,,,,,,,1960-04-12
+Fitzroy,1960,7,South Melbourne,8,W,24,,,,,,,,,,,,,,,,,,,,,,,,1960-04-19
+Fitzroy,1960,8,Melbourne,9,L,24,,,,,,,,,,,,,,,,,,,,,,,,1960-04-26
+Fitzroy,1960,9,Melbourne,SF,L,24,,,,,,,,,,,,,,,,,,,,,,,,1960-03-01
+Fitzroy,1960,10,Collingwood,PF,L,24,,,,,,,,,,,,,,,,,,,,,,,,1960-03-01
+Fitzroy,1961,11,Carlton,2,L,24,,,,,,,,,,,,,,,,,,,,,,,,1961-03-08
+Fitzroy,1961,12,Hawthorn,3,L,24,,,,,,,,,,,,,,,,,,,,,,,,1961-03-15
+Fitzroy,1961,13,South Melbourne,7,W,24,,,,,,,,,,,,,,,,,,,,,,,,1961-04-12
+Carlton,1962,14,Essendon,5,L,40,,,,,,,,,,,,,,,,,,,,,,,,1962-03-29
+Carlton,1962,15,Collingwood,6,L,40,,,,,,,,,,,,,,,,,,,,,,,,1962-04-05
+Carlton,1962,16,Melbourne,7,W,40,,,,,,,,,,,,,,,,,,,,,,,,1962-04-12
+Carlton,1962,17,St Kilda,8,W,40,,,,,,,,,,,,,,,,,,,,,,,,1962-04-19
+Carlton,1962,18,Footscray,9,W,40,,,,,,,,,,,,,,,,,,,,,,,,1962-04-26
+Carlton,1962,19,Fitzroy,10,W,40,,,,,,,,,,,,,,,,,,,,,,,,1962-05-03
+Carlton,1962,20,South Melbourne,11,W,40,,,,,,,,,,,,,,,,,,,,,,,,1962-05-10
+Carlton,1962,21,Geelong,12,W,40,,,,,2,,,,,,,,,,,,,,,,,,,1962-05-17
+Carlton,1962,22,Richmond,13,W,40,,,,,,,,,,,,,,,,,,,,,,,,1962-05-24
+Carlton,1962,23,North Melbourne,14,W,40,,,,,1,,,,,,,,,,,,,,,,,,,1962-05-31
+Carlton,1962,24,Hawthorn,15,W,40,,,,,,,,,,,,,,,,,,,,,,,,1962-06-07
+Carlton,1962,25,Essendon,16,L,40,,,,,,,,,,,,,,,,,,,,,,,,1962-06-14
+Carlton,1962,26,Collingwood,17,W,40,,,,,,,,,,,,,,,,,,,,,,,,1962-06-21
+Carlton,1962,27,Melbourne,18,L,40,,,,,,,,,,,,,,,,,,,,,,,,1962-06-28
+Carlton,1963,28,St Kilda,2,W,40,,,,,,,,,,,,,,,,,,,,,,,,1963-03-08
+Carlton,1963,29,South Melbourne,3,W,40,,,,,1,,,,,,,,,,,,,,,,,,,1963-03-15
+Carlton,1963,30,Essendon,4,W,40,,,,,1,,,,,,,,,,,,,,,,,,,1963-03-22
+Carlton,1963,31,Richmond,5,W,40,,,,,,,,,,,,,,,,,,,,,,,,1963-03-29
+Carlton,1963,32,Footscray,7,W,40,,,,,,,,,,,,,,,,,,,,,,,,1963-04-12
+Carlton,1963,33,Collingwood,8,L,40,,,,,,,,,,,,,,,,,,,,,,,,1963-04-19
+Carlton,1963,34,North Melbourne,11,L,40,,,,,,,,,,,,,,,,,,,,,,,,1963-05-10
+Carlton,1963,35,Fitzroy,12,W,40,,,,,,,,,,,,,,,,,,,,,,,,1963-05-17
+Carlton,1963,36,St Kilda,13,L,40,,,,,,,,,,,,,,,,,,,,,,,,1963-05-24
+Carlton,1964,37,North Melbourne,1,W,40,,,,,1,,,,,,,,,,,,,,,,,,,1964-03-01
+Carlton,1964,38,Hawthorn,2,L,40,,,,,,,,,,,,,,,,,,,,,,,,1964-03-08
+Carlton,1964,39,Footscray,4,L,40,,,,,,,,,,,,,,,,,,,,,,,,1964-03-22
+St Kilda,1965,40,Collingwood,1,W,36,5,,1,6,,,,,,,,,2,1,,,,,,,,,,1965-03-01
+St Kilda,1965,41,South Melbourne,2,W,36,17,1,,17,3,2,,,,,,,2,,,,,,,,,,,1965-03-08
+St Kilda,1965,42,Richmond,3,W,36,12,,,12,,2,,,,,,,1,,,,,,,,,,,1965-03-15
+St Kilda,1965,43,Footscray,4,W,36,14,3,1,15,,,,,,,,,,,,,,,,,,,,1965-03-22
+St Kilda,1965,44,Essendon,5,L,36,10,1,1,11,,1,,,,,,,2,2,,,,,,,,,,1965-03-29
+St Kilda,1965,45,North Melbourne,6,W,36,7,1,1,8,,,,,,,,,,,,,,,,,,,,1965-04-05
+St Kilda,1965,46,Fitzroy,7,W,36,3,,,3,,1,,,,,,,,,,,,,,,,,,1965-04-12
+St Kilda,1965,47,Geelong,8,L,36,3,,1,4,,,,,,,,,1,1,,,,,,,,,,1965-04-19
+St Kilda,1965,48,Melbourne,9,W,36,18,5,3,21,2,,,,,,,,,1,,,,,,,,,,1965-04-26
+St Kilda,1965,49,Hawthorn,10,W,36,9,1,2,11,,,,,,,,,1,1,,,,,,,,,,1965-05-03
+St Kilda,1965,50,Carlton,11,W,36,12,,1,13,1,1,,,,,,,2,,,,,,,,,,,1965-05-10
+St Kilda,1965,51,Collingwood,12,L,36,10,,2,12,,1,,,,,,,2,,,,,,,,,,,1965-05-17
+St Kilda,1965,52,Richmond,14,W,36,11,,3,14,1,,,,,,,,1,1,,,,,,,,,,1965-05-31
+St Kilda,1965,53,Collingwood,SF,W,36,4,1,,4,,,,,,,,,,,,,,,,,,,,1965-03-01
+St Kilda,1965,54,Essendon,GF,L,36,10,1,,10,,,,,,,,,1,1,,,,,,,,,,1965-03-01

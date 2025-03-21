@@ -1,0 +1,16 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1937,1,St Kilda,2,L,33,,,,,2,,,,,,,,,,,,,,,,,,,1937-03-08
+Hawthorn,1937,2,Fitzroy,3,L,33,,,,,,,,,,,,,,,,,,,,,,,,1937-03-15
+Hawthorn,1937,3,Essendon,4,L,33,,,,,2,,,,,,,,,,,,,,,,,,,1937-03-22
+Hawthorn,1937,4,Geelong,5,L,33,,,,,,,,,,,,,,,,,,,,,,,,1937-03-29
+Hawthorn,1937,5,South Melbourne,6,L,33,,,,,2,,,,,,,,,,,,,,,,,,,1937-04-05
+Hawthorn,1937,6,St Kilda,13,L,33,,,,,,,,,,,,,,,,,,,,,,,,1937-05-24
+Hawthorn,1937,7,Essendon,15,W,33,,,,,1,,,,,,,,,,,,,,,,,,,1937-06-07
+Hawthorn,1937,8,Geelong,16,L,33,,,,,,,,,,,,,,,,,,,,,,,,1937-06-14
+Hawthorn,1937,9,South Melbourne,17,W,33,,,,,,,,,,,,,,,,,,,,,,,,1937-06-21
+Hawthorn,1937,10,Richmond,18,L,33,,,,,2,,,,,,,,,,,,,,,,,,,1937-06-28
+Hawthorn,1940,11,Richmond,3,L,35,,,,,4,,,,,,,,,,,,,,,,,,,1940-03-15
+Hawthorn,1940,12,South Melbourne,4,L,35,,,,,1,,,,,,,,,,,,,,,,,,,1940-03-22
+Hawthorn,1942,13,Melbourne,4,L,27,,,,,,,,,,,,,,,,,,,,,,,,1942-03-22
+Hawthorn,1942,14,Collingwood,5,W,27,,,,,,,,,,,,,,,,,,,,,,,,1942-03-29
+Hawthorn,1942,15,Fitzroy,7,L,27,,,,,,,,,,,,,,,,,,,,,,,,1942-04-12

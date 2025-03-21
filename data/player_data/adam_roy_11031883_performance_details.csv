@@ -1,0 +1,15 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1901,1,Fitzroy,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1901-06-07
+St Kilda,1901,2,Melbourne,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1901-06-14
+Melbourne,1904,3,Carlton,6,W,,,,,,1,,,,,,,,,,,,,,,,,,,1904-04-05
+Melbourne,1904,4,St Kilda,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-04-19
+Melbourne,1904,5,Collingwood,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-04-26
+Melbourne,1904,6,Fitzroy,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-05-03
+Melbourne,1904,7,Essendon,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-05-10
+Melbourne,1904,8,South Melbourne,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-05-17
+Melbourne,1904,9,Carlton,13,L,,,,,,1,,,,,,,,,,,,,,,,,,,1904-05-24
+Melbourne,1904,10,Geelong,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-05-31
+Melbourne,1904,11,St Kilda,15,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-06-07
+Melbourne,1904,12,Carlton,16,W,,,,,,1,,,,,,,,,,,,,,,,,,,1904-06-14
+Melbourne,1904,13,Collingwood,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-06-21
+Melbourne,1905,14,St Kilda,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-01

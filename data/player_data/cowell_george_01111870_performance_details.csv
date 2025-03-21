@@ -1,0 +1,19 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1898,1,Geelong,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-03-01
+Collingwood,1898,2,Melbourne,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1898-03-15
+Collingwood,1898,3,South Melbourne,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1898-03-22
+Collingwood,1898,4,Carlton,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-03-29
+Collingwood,1898,5,St Kilda,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-04-05
+Collingwood,1898,6,Fitzroy,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-04-26
+Collingwood,1898,7,Melbourne,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-05-03
+Collingwood,1898,8,South Melbourne,11,W,,,,,,2,,,,,,,,,,,,,,,,,,,1898-05-10
+Collingwood,1898,9,Carlton,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-05-17
+Collingwood,1898,10,St Kilda,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-05-24
+Collingwood,1898,11,Melbourne,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-06-21
+Carlton,1899,12,South Melbourne,1,L,,,,,,1,,,,,,,,,,,,,,,,,,,1899-03-01
+Carlton,1899,13,South Melbourne,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1899-04-19
+Carlton,1899,14,Geelong,9,L,,,,,,1,,,,,,,,,,,,,,,,,,,1899-04-26
+Carlton,1899,15,Melbourne,10,L,,,,,,1,,,,,,,,,,,,,,,,,,,1899-05-03
+Carlton,1899,16,Essendon,11,L,,,,,,1,,,,,,,,,,,,,,,,,,,1899-05-10
+Carlton,1899,17,Collingwood,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-05-17
+Carlton,1899,18,Collingwood,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-06-14

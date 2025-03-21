@@ -1,0 +1,25 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1976,1,Hawthorn,12,W,38,,,,,,,,,,,,,,,,,,,,,,,,1976-05-17
+St Kilda,1976,2,Collingwood,16,W,38,9,3,2,11,2,,1,,,,,,4,3,,,,,,,,,,1976-06-14
+St Kilda,1976,3,Carlton,19,L,38,,1,2,2,,,,,,,,,,1,,,,,,,,,,1976-07-05
+St Kilda,1976,4,South Melbourne,21,L,38,3,1,1,4,,,1,,,,,,,,,,,,,,,,,1976-07-19
+St Kilda,1976,5,Richmond,22,L,38,14,11,5,19,1,2,4,,,,,,2,3,,,,,,,,,,1976-07-26
+St Kilda,1977,6,Essendon,1,L,38,2,1,1,3,,,,,,,,,,2,,,,,,,,,,1977-03-01
+St Kilda,1978,7,Fitzroy,1,W,38,3,1,4,7,,,,,,,,,,2,,,,,,,,,,1978-03-01
+St Kilda,1978,8,Footscray,2,W,38,1,,1,2,,,,,,,,,,,,,,,,,,,,1978-03-08
+St Kilda,1978,9,Richmond,3,D,38,8,1,3,11,,,1,,,,,,3,1,,,,,,,,,,1978-03-15
+St Kilda,1978,10,North Melbourne,4,L,38,2,2,4,6,,,,,,,,,,2,,,,,,,,,,1978-03-22
+St Kilda,1978,11,Geelong,5,W,38,5,4,13,18,,,,,,,,,,,,,,,,,,,,1978-03-29
+St Kilda,1978,12,Melbourne,6,W,38,8,1,4,12,,,,,,,,,1,2,,,,,,,,,,1978-04-05
+St Kilda,1978,13,Essendon,7,W,38,5,2,1,6,1,,,,,,,,,2,,,,,,,,,,1978-04-12
+St Kilda,1978,14,South Melbourne,8,L,38,7,2,2,9,,,,,,,,,2,2,,,,,,,,,,1978-04-19
+St Kilda,1978,15,Hawthorn,9,L,38,1,1,2,3,,1,1,,,,,,,3,,,,,,,,,,1978-04-26
+St Kilda,1978,16,Collingwood,10,L,38,6,3,4,10,,,,,,,,,,,,,,,,,,,,1978-05-03
+St Kilda,1978,17,Carlton,11,L,38,5,1,3,8,,,,,,,,,1,3,,,,,,,,,,1978-05-10
+St Kilda,1978,18,North Melbourne,14,W,38,3,2,3,6,,1,2,,,,,,,4,,,,,,,,,,1978-05-31
+St Kilda,1978,19,Richmond,15,L,38,8,7,6,14,,,,,,,,,1,1,,,,,,,,,,1978-06-07
+St Kilda,1978,20,Geelong,16,L,38,2,2,1,3,,1,,,,,,,,1,,,,,,,,,,1978-06-14
+St Kilda,1982,21,Hawthorn,1,L,15,4,2,6,10,,1,7,,,,,,1,4,,,,,,,,,,1982-03-01
+St Kilda,1982,22,Melbourne,2,L,15,2,1,3,5,,,,,,,,,,1,,,,,,,,,,1982-03-08
+St Kilda,1982,23,Geelong,4,W,15,,,2,2,,,1,,,,,,,2,,,,,,,,,,1982-03-22
+St Kilda,1982,24,Sydney,13,L,15,10,3,7,17,,,20,,,,,,1,7,,,,,,,,,,1982-05-24

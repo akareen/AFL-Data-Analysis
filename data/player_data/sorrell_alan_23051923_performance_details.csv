@@ -1,0 +1,26 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1947,1,Melbourne,1,W,14,,,,,2,,,,,,,,,,,,,,,,,,,1947-03-01
+Carlton,1947,2,South Melbourne,2,L,14,,,,,1,,,,,,,,,,,,,,,,,,,1947-03-08
+Carlton,1947,3,Essendon,16,L,14,,,,,,,,,,,,,,,,,,,,,,,,1947-06-14
+Carlton,1948,4,Hawthorn,1,W,14,,,,,,,,,,,,,,,,,,,,,,,,1948-03-01
+Carlton,1948,5,Fitzroy,2,L,14,,,,,,,,,,,,,,,,,,,,,,,,1948-03-08
+Carlton,1948,6,Geelong,3,W,14,,,,,,,,,,,,,,,,,,,,,,,,1948-03-15
+Carlton,1948,7,Collingwood,5,L,14,,,,,,,,,,,,,,,,,,,,,,,,1948-03-29
+Carlton,1948,8,Essendon,6,L,14,,,,,,,,,,,,,,,,,,,,,,,,1948-04-05
+Carlton,1948,9,Melbourne,7,L,14,,,,,,,,,,,,,,,,,,,,,,,,1948-04-12
+Carlton,1948,10,North Melbourne,11,L,14,,,,,,,,,,,,,,,,,,,,,,,,1948-05-10
+Carlton,1948,11,Hawthorn,12,W,14,,,,,,,,,,,,,,,,,,,,,,,,1948-05-17
+Carlton,1948,12,Fitzroy,13,W,14,,,,,,,,,,,,,,,,,,,,,,,,1948-05-24
+Carlton,1948,13,Geelong,14,W,14,,,,,,,,,,,,,,,,,,,,,,,,1948-05-31
+Carlton,1948,14,Footscray,15,W,14,,,,,,,,,,,,,,,,,,,,,,,,1948-06-07
+Carlton,1948,15,Richmond,19,W,14,,,,,,,,,,,,,,,,,,,,,,,,1948-07-05
+Carlton,1949,16,Hawthorn,3,W,14,,,,,,,,,,,,,,,,,,,,,,,,1949-03-15
+Carlton,1949,17,Geelong,6,W,14,,,,,,,,,,,,,,,,,,,,,,,,1949-04-05
+Carlton,1949,18,St Kilda,7,W,14,,,,,,,,,,,,,,,,,,,,,,,,1949-04-12
+Carlton,1949,19,Footscray,11,L,14,,,,,,,,,,,,,,,,,,,,,,,,1949-05-10
+Carlton,1949,20,Fitzroy,13,W,14,,,,,,,,,,,,,,,,,,,,,,,,1949-05-24
+Carlton,1949,21,Hawthorn,14,W,14,,,,,,,,,,,,,,,,,,,,,,,,1949-05-31
+Carlton,1949,22,St Kilda,18,W,14,,,,,,,,,,,,,,,,,,,,,,,,1949-06-28
+Carlton,1949,23,North Melbourne,19,L,14,,,,,,,,,,,,,,,,,,,,,,,,1949-07-05
+Carlton,1949,24,North Melbourne,SF,W,14,,,,,,,,,,,,,,,,,,,,,,,,1949-03-01
+Fitzroy,1950,25,Collingwood,2,L,16,,,,,,,,,,,,,,,,,,,,,,,,1950-03-08

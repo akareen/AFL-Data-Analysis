@@ -1,0 +1,16 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1932,1,Collingwood,1,L,1,,,,,,,,,,,,,,,,,,,,,,,,1932-03-01
+Hawthorn,1932,2,St Kilda,2,L,1,,,,,2,,,,,,,,,,,,,,,,,,,1932-03-08
+Hawthorn,1932,3,Melbourne,3,W,1,,,,,,,,,,,,,,,,,,,,,,,,1932-03-15
+Hawthorn,1935,4,North Melbourne,1,W,2,,,,,,,,,,,,,,,,,,,,,,,,1935-03-01
+Hawthorn,1942,5,Footscray,14,L,25,,,,,,,,,,,,,,,,,,,,,,,,1942-05-31
+Hawthorn,1942,6,Melbourne,15,L,25,,,,,,,,,,,,,,,,,,,,,,,,1942-06-07
+Hawthorn,1943,7,Richmond,14,W,26,,,,,1,,,,,,,,,,,,,,,,,,,1943-05-31
+Hawthorn,1943,8,South Melbourne,15,W,26,,,,,,,,,,,,,,,,,,,,,,,,1943-06-07
+Hawthorn,1943,9,North Melbourne,16,L,26,,,,,,,,,,,,,,,,,,,,,,,,1943-06-14
+Hawthorn,1944,10,South Melbourne,9,L,26,,,,,,,,,,,,,,,,,,,,,,,,1944-04-26
+Hawthorn,1944,11,Richmond,10,L,26,,,,,,,,,,,,,,,,,,,,,,,,1944-05-03
+Hawthorn,1944,12,Melbourne,11,L,26,,,,,,,,,,,,,,,,,,,,,,,,1944-05-10
+Hawthorn,1944,13,Carlton,13,L,26,,,,,1,,,,,,,,,,,,,,,,,,,1944-05-24
+Hawthorn,1944,14,Geelong,14,L,26,,,,,1,,,,,,,,,,,,,,,,,,,1944-05-31
+Hawthorn,1944,15,St Kilda,15,D,26,,,,,,,,,,,,,,,,,,,,,,,,1944-06-07

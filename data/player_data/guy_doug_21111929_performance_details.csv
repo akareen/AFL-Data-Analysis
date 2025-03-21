@@ -1,0 +1,40 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1950,1,South Melbourne,7,W,4,,,,,,,,,,,,,,,,,,,,,,,,1950-04-12
+Carlton,1950,2,Fitzroy,11,L,4,,,,,,,,,,,,,,,,,,,,,,,,1950-05-10
+Carlton,1950,3,Melbourne,12,L,4,,,,,,,,,,,,,,,,,,,,,,,,1950-05-17
+Carlton,1950,4,North Melbourne,13,L,4,,,,,,,,,,,,,,,,,,,,,,,,1950-05-24
+Carlton,1951,5,Essendon,7,W,4,,,,,,,,,,,,,,,,,,,,,,,,1951-04-12
+Carlton,1951,6,St Kilda,9,W,4,,,,,,,,,,,,,,,,,,,,,,,,1951-04-26
+Carlton,1951,7,South Melbourne,11,W,4,,,,,,,,,,,,,,,,,,,,,,,,1951-05-10
+Carlton,1951,8,Hawthorn,12,W,4,,,,,,,,,,,,,,,,,,,,,,,,1951-05-17
+Carlton,1951,9,Footscray,13,L,4,,,,,1,,,,,,,,,,,,,,,,,,,1951-05-24
+Carlton,1951,10,Richmond,14,L,4,,,,,,,,,,,,,,,,,,,,,,,,1951-05-31
+Carlton,1952,11,Collingwood,5,L,4,,,,,,,,,,,,,,,,,,,,,,,,1952-03-29
+Carlton,1952,12,St Kilda,6,W,4,,,,,,,,,,,,,,,,,,,,,,,,1952-04-05
+Carlton,1952,13,Footscray,10,W,4,,,,,,,,,,,,,,,,,,,,,,,,1952-05-03
+Carlton,1952,14,Melbourne,12,D,4,,,,,,,,,,,,,,,,,,,,,,,,1952-05-17
+Carlton,1952,15,North Melbourne,13,W,4,,,,,1,,,,,,,,,,,,,,,,,,,1952-05-24
+Carlton,1952,16,South Melbourne,14,D,4,,,,,,,,,,,,,,,,,,,,,,,,1952-05-31
+Carlton,1952,17,Fitzroy,15,L,4,,,,,,,,,,,,,,,,,,,,,,,,1952-06-07
+Carlton,1952,18,Essendon,16,L,4,,,,,,,,,,,,,,,,,,,,,,,,1952-06-14
+Carlton,1952,19,St Kilda,18,W,4,,,,,,,,,,,,,,,,,,,,,,,,1952-06-28
+Carlton,1952,20,Geelong,19,L,4,,,,,,,,,,,,,,,,,,,,,,,,1952-07-05
+Carlton,1952,21,Fitzroy,SF,L,4,,,,,,,,,,,,,,,,,,,,,,,,1952-03-01
+Carlton,1953,22,Footscray,1,L,4,,,,,,,,,,,,,,,,,,,,,,,,1953-03-01
+Carlton,1953,23,Melbourne,2,W,4,,,,,,,,,,,,,,,,,,,,,,,,1953-03-08
+Carlton,1953,24,Richmond,3,W,4,,,,,,,,,,,,,,,,,,,,,,,,1953-03-15
+Carlton,1953,25,Collingwood,4,L,4,,,,,,,,,,,,,,,,,,,,,,,,1953-03-22
+Carlton,1953,26,St Kilda,5,W,4,,,,,,,,,,,,,,,,,,,,,,,,1953-03-29
+Carlton,1953,27,Hawthorn,6,L,4,,,,,,,,,,,,,,,,,,,,,,,,1953-04-05
+Carlton,1953,28,North Melbourne,7,W,4,,,,,,,,,,,,,,,,,,,,,,,,1953-04-12
+Carlton,1953,29,Essendon,8,L,4,,,,,,,,,,,,,,,,,,,,,,,,1953-04-19
+Carlton,1953,30,Fitzroy,9,W,4,,,,,,,,,,,,,,,,,,,,,,,,1953-04-26
+Carlton,1953,31,Geelong,10,L,4,,,,,,,,,,,,,,,,,,,,,,,,1953-05-03
+Carlton,1953,32,South Melbourne,11,W,4,,,,,,,,,,,,,,,,,,,,,,,,1953-05-10
+Carlton,1953,33,Footscray,12,L,4,,,,,,,,,,,,,,,,,,,,,,,,1953-05-17
+Carlton,1953,34,Melbourne,13,W,4,,,,,,,,,,,,,,,,,,,,,,,,1953-05-24
+Carlton,1953,35,Richmond,14,W,4,,,,,,,,,,,,,,,,,,,,,,,,1953-05-31
+Carlton,1953,36,Collingwood,15,L,4,,,,,,,,,,,,,,,,,,,,,,,,1953-06-07
+Carlton,1953,37,St Kilda,16,L,4,,,,,,,,,,,,,,,,,,,,,,,,1953-06-14
+Carlton,1953,38,Hawthorn,17,W,4,,,,,,,,,,,,,,,,,,,,,,,,1953-06-21
+Carlton,1953,39,North Melbourne,18,W,4,,,,,,,,,,,,,,,,,,,,,,,,1953-06-28

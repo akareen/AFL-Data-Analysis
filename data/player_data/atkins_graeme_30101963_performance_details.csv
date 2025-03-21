@@ -1,0 +1,83 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+North Melbourne,1982,1,Fitzroy,3,W,36,4,1,7,11,,1,,,,,,,1,,,,,,,,,,,1982-03-15
+North Melbourne,1982,2,Essendon,4,W,36,5,,1,6,,1,,,,,,,,1,,,,,,,,,,1982-03-22
+North Melbourne,1982,3,Collingwood,5,W,36,2,1,,2,,,,,,,,,,,,,,,,,,,,1982-03-29
+North Melbourne,1982,4,Hawthorn,6,L,36,13,1,6,19,2,1,,,,,,,1,1,,,,,,,,,,1982-04-05
+North Melbourne,1982,5,Footscray,10,W,36,7,3,6,13,,2,,,,,,,,1,,,,,,,,,,1982-05-03
+North Melbourne,1982,6,Carlton,11,L,36,13,1,2,15,1,,,,,,,,2,2,,,,,,,,,,1982-05-10
+North Melbourne,1982,7,Sydney,12,W,36,5,1,1,6,,,,,,,,,2,,,,,,,,,,,1982-05-17
+North Melbourne,1982,8,Fitzroy,13,W,36,9,2,3,12,1,1,,,,,,,,1,,,,,,,,,,1982-05-24
+North Melbourne,1982,9,Essendon,14,L,36,8,,4,12,1,,,,,,,,,1,,,,,,,,,,1982-05-31
+North Melbourne,1982,10,Collingwood,15,W,36,3,,8,11,,,,,,,,,,1,,,,,,,,,,1982-06-07
+North Melbourne,1982,11,Hawthorn,16,L,36,10,3,9,19,1,1,,,,,,,,1,,,,,,,,,,1982-06-14
+North Melbourne,1982,12,Melbourne,17,W,36,7,,10,17,,2,,,,,,,1,3,,,,,,,,,,1982-06-21
+North Melbourne,1982,13,St Kilda,18,W,36,10,,7,17,,1,,,,,,,,2,,,,,,,,,,1982-06-28
+North Melbourne,1982,14,Geelong,19,W,36,16,,7,23,,1,,,,,,,1,2,,,,,,,,,,1982-07-05
+North Melbourne,1982,15,Footscray,20,W,36,13,,14,27,2,,,,,,,,2,,,,,,,,,,,1982-07-12
+North Melbourne,1982,16,Carlton,21,L,36,8,,6,14,1,,1,,,,,,1,1,,,,,,,,,,1982-07-19
+North Melbourne,1982,17,Richmond,22,L,36,6,1,4,10,,1,,,,,,,,5,,,,,,,,,,1982-07-26
+North Melbourne,1982,18,Essendon,EF,W,36,10,1,7,17,1,,,,,,,,,2,,,,,,,,,,1982-03-01
+North Melbourne,1982,19,Hawthorn,SF,L,36,9,2,5,14,2,,,,,,,,,1,,,,,,,,,,1982-03-01
+North Melbourne,1983,20,St Kilda,1,W,36,11,1,6,17,1,1,,,,,,,,1,,,,,,,,,,1983-03-01
+North Melbourne,1983,21,Fitzroy,2,L,36,8,1,7,15,2,,,,,,,,1,1,,,,,,,,,,1983-03-08
+North Melbourne,1983,22,Collingwood,6,L,36,6,2,7,13,,,,,,,,,2,,,,,,,,,,,1983-04-05
+North Melbourne,1983,23,Hawthorn,7,W,36,9,1,9,18,2,1,,,,,,,1,1,,,,,,,,,,1983-04-12
+North Melbourne,1983,24,Footscray,8,W,36,22,6,12,34,2,,,,,,,,2,1,,,,,,,,,,1983-04-19
+North Melbourne,1983,25,Geelong,9,W,36,16,3,8,24,,,,,,,,,1,2,,,,,,,,,,1983-04-26
+North Melbourne,1983,26,Carlton,10,W,36,10,2,7,17,3,2,,,,,,,1,1,,,,,,,,,,1983-05-03
+North Melbourne,1983,27,Melbourne,11,W,36,9,,6,15,,2,,,,,,,2,,,,,,,,,,,1983-05-10
+North Melbourne,1983,28,St Kilda,12,W,36,8,1,4,12,1,1,,,,,,,2,3,,,,,,,,,,1983-05-17
+North Melbourne,1983,29,Hawthorn,18,L,36,15,4,5,20,,,,,,,,,1,,,,,,,,,,,1983-06-28
+North Melbourne,1983,30,Footscray,19,W,36,,,,,,,,,,,,,,,,,,,,,,,,1983-07-05
+North Melbourne,1983,31,Melbourne,22,W,36,2,1,8,10,,,1,,,,,,,2,,,,,,,,,,1983-07-26
+North Melbourne,1983,32,Hawthorn,SF,L,36,14,2,6,20,1,1,,,,,,,1,,,,,,,,,,,1983-03-01
+North Melbourne,1983,33,Essendon,PF,L,36,16,3,3,19,2,,,,,,,,,2,,,,,,,,,,1983-03-01
+North Melbourne,1984,34,Melbourne,5,W,36,19,8,8,27,1,1,,,,,,,,2,,,,,,,,,,1984-03-29
+North Melbourne,1984,35,Essendon,10,L,36,7,1,2,9,,,,,,,,,3,1,,,,,,,,,,1984-05-03
+North Melbourne,1984,36,Collingwood,16,L,36,14,3,5,19,1,1,,,,,,,1,1,,,,,,,,,,1984-06-14
+North Melbourne,1984,37,St Kilda,17,W,36,14,3,6,20,,1,,,,,,,1,1,,,,,,,,,,1984-06-21
+North Melbourne,1984,38,Sydney,18,W,36,12,1,5,17,,2,,,,,,,,1,,,,,,,,,,1984-06-28
+North Melbourne,1984,39,Hawthorn,19,W,36,20,4,3,23,,,,,,,,,,2,,,,,,,,,,1984-07-05
+North Melbourne,1984,40,Carlton,20,L,36,11,2,2,13,1,2,,,,,,,,,,,,,,,,,,1984-07-12
+North Melbourne,1984,41,Fitzroy,21,L,36,12,1,4,16,,2,,,,,,,,2,,,,,,,,,,1984-07-19
+North Melbourne,1984,42,Essendon,22,L,36,4,1,,4,,,,,,,,,,,,,,,,,,,,1984-07-26
+North Melbourne,1986,43,Sydney,1,L,36,8,4,15,23,2,,,,,,,,2,1,,,,,,,,,,1986-03-01
+North Melbourne,1986,44,Hawthorn,2,L,36,14,6,8,22,,,,,,,,,,1,2,,,,,,,,,1986-03-08
+North Melbourne,1986,45,Collingwood,3,W,36,10,3,7,17,1,,,,,,,,1,1,,,,,,,,,,1986-03-15
+North Melbourne,1986,46,Richmond,4,L,36,12,1,7,19,,1,,,,,,,2,1,,,,,,,,,,1986-03-22
+North Melbourne,1986,47,Geelong,5,W,36,6,1,10,16,1,,,,,,,,1,1,,,,,,,,,,1986-03-29
+North Melbourne,1986,48,St Kilda,6,W,36,11,2,11,22,,4,,,,,,,1,1,,,,,,,,,,1986-04-05
+North Melbourne,1986,49,Footscray,7,L,36,12,,7,19,,2,,,,,,,2,2,,,,,,,,,,1986-04-12
+North Melbourne,1986,50,Fitzroy,8,W,36,12,5,3,15,,,,,,,,,1,2,,,,,,,,,,1986-04-19
+North Melbourne,1986,51,Melbourne,9,W,36,11,1,2,13,1,,,,,,,,,3,,,,,,,,,,1986-04-26
+North Melbourne,1986,52,Essendon,10,W,36,16,5,5,21,1,1,,,,,,,2,2,,,,,,,,,,1986-05-03
+North Melbourne,1986,53,Carlton,11,L,36,12,1,2,14,,,,,,,,,1,2,,,,,,,,,,1986-05-10
+North Melbourne,1986,54,Sydney,12,W,36,8,,8,16,,,,,,,,,,,,,,,,,,,,1986-05-17
+North Melbourne,1986,55,Hawthorn,13,L,36,7,,4,11,,,,,,,,,2,,,,,,,,,,,1986-05-24
+North Melbourne,1986,56,Collingwood,14,L,36,7,1,6,13,,,,,,,,,1,2,,,,,,,,,,1986-05-31
+North Melbourne,1986,57,Richmond,15,L,36,7,3,6,13,,,,,,,,,1,,,,,,,,,,,1986-06-07
+North Melbourne,1986,58,Geelong,17,W,36,6,2,5,11,2,,,,,,,,,1,,,,,,,,,,1986-06-21
+North Melbourne,1986,59,Footscray,19,W,36,10,2,7,17,2,,,,,,,,1,1,,,,,,,,,,1986-07-05
+North Melbourne,1986,60,Fitzroy,20,W,36,14,2,3,17,,,,,,,,,,,,,,,,,,,,1986-07-12
+North Melbourne,1986,61,Melbourne,21,L,36,5,2,3,8,,,,,,,,,1,1,,,,,,,,,,1986-07-19
+Collingwood,1987,62,Hawthorn,3,L,5,7,2,9,16,,,,1,,,,,,1,,,,,,,,,,1987-03-15
+Collingwood,1987,63,Richmond,4,W,5,8,1,8,16,1,1,,5,,,,,,,,,,,,,,,,1987-03-22
+Collingwood,1987,64,Footscray,5,W,5,9,1,6,15,,,,4,,,,,1,2,,,,,,,,,,1987-03-29
+Collingwood,1987,65,Brisbane Bears,6,W,5,12,5,10,22,1,,,,,,,,1,2,,,,,,,,,,1987-04-05
+Collingwood,1987,66,Melbourne,7,L,5,5,2,9,14,,,,,,,,,,2,,,,,,,,,,1987-04-12
+Collingwood,1987,67,Essendon,8,L,5,18,4,6,24,1,1,,2,,,,,1,,,,,,,,,,,1987-04-19
+Collingwood,1987,68,St Kilda,9,W,5,15,2,6,21,3,2,,1,,,,,1,2,,,,,,,,,,1987-04-26
+Collingwood,1987,69,West Coast,10,L,5,5,4,14,19,2,1,,1,,,,,1,,,,,,,,,,,1987-05-03
+Collingwood,1987,70,Geelong,11,L,5,7,,4,11,2,,,4,,,,,1,,,,,,,,,,,1987-05-10
+Collingwood,1987,71,Fitzroy,12,W,5,14,6,6,20,3,1,,3,,,,,2,1,,,,,,,,,,1987-05-17
+Collingwood,1987,72,North Melbourne,13,L,5,13,2,7,20,,,,1,,,,,2,,,,,,,,,,,1987-05-24
+Collingwood,1987,73,Sydney,14,L,5,4,,7,11,,,,2,,,,,1,1,,,,,,,,,,1987-05-31
+Collingwood,1987,74,Carlton,15,L,5,8,2,6,14,1,2,,1,,,,,,,,,,,,,,,,1987-06-07
+Collingwood,1987,75,Footscray,18,L,5,11,2,10,21,,,,1,,,,,3,,,,,,,,,,,1987-06-28
+Collingwood,1987,76,Brisbane Bears,19,W,5,18,6,6,24,,,,,,,,,,2,,,,,,,,,,1987-07-05
+Collingwood,1987,77,Melbourne,20,L,5,11,5,7,18,,1,,2,,,,,,,,,,,,,,,,1987-07-12
+Collingwood,1987,78,St Kilda,21,L,5,9,,8,17,,,,,,,,,,1,,,,,,,,,,1987-07-19
+Collingwood,1987,79,Essendon,22,W,5,3,1,10,13,,,,2,,,,,1,1,,,,,,,,,,1987-07-26
+Collingwood,1988,80,Brisbane Bears,1,W,5,8,,4,12,,3,,1,,,,,1,,,,,,,,,,,1988-03-01
+Collingwood,1988,81,Richmond,3,W,5,3,2,3,6,,,,,,,,,,1,,,,,,,,,,1988-03-15
+Collingwood,1989,82,Hawthorn,16,L,5,8,,4,12,,,,,,,,,,1,,,,,,,,,,1989-06-14

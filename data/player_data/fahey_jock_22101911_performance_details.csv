@@ -1,0 +1,32 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1932,1,North Melbourne,4,W,27,,,,,,,,,,,,,,,,,,,,,,,,1932-03-22
+South Melbourne,1932,2,Hawthorn,6,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1932-04-05
+South Melbourne,1932,3,Geelong,7,W,27,,,,,,,,,,,,,,,,,,,,,,,,1932-04-12
+South Melbourne,1932,4,Richmond,8,W,27,,,,,,,,,,,,,,,,,,,,,,,,1932-04-19
+South Melbourne,1932,5,Melbourne,12,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1932-05-17
+South Melbourne,1932,6,Carlton,13,L,27,,,,,,,,,,,,,,,,,,,,,,,,1932-05-24
+South Melbourne,1932,7,Footscray,14,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1932-05-31
+South Melbourne,1932,8,North Melbourne,15,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1932-06-07
+South Melbourne,1932,9,Essendon,16,L,27,,,,,,,,,,,,,,,,,,,,,,,,1932-06-14
+South Melbourne,1932,10,Hawthorn,17,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1932-06-21
+South Melbourne,1932,11,Geelong,18,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1932-06-28
+South Melbourne,1932,12,Collingwood,SF,L,27,,,,,,,,,,,,,,,,,,,,,,,,1932-03-01
+South Melbourne,1933,13,Footscray,2,W,24,,,,,,,,,,,,,,,,,,,,,,,,1933-03-08
+South Melbourne,1933,14,Collingwood,3,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1933-03-15
+South Melbourne,1933,15,St Kilda,4,W,24,,,,,,,,,,,,,,,,,,,,,,,,1933-03-22
+South Melbourne,1933,16,Essendon,5,W,24,,,,,2,,,,,,,,,,,,,,,,,,,1933-03-29
+South Melbourne,1933,17,Richmond,8,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1933-04-19
+South Melbourne,1933,18,North Melbourne,11,W,24,,,,,,,,,,,,,,,,,,,,,,,,1933-05-10
+South Melbourne,1934,19,Footscray,4,W,24,,,,,,,,,,,,,,,,,,,,,,,,1934-03-22
+South Melbourne,1934,20,Hawthorn,5,W,24,,,,,1,,,,,,,,,,,,,,,,,,,1934-03-29
+South Melbourne,1934,21,Richmond,6,L,24,,,,,,,,,,,,,,,,,,,,,,,,1934-04-05
+South Melbourne,1934,22,Geelong,7,L,24,,,,,,,,,,,,,,,,,,,,,,,,1934-04-12
+South Melbourne,1934,23,Fitzroy,8,W,24,,,,,,,,,,,,,,,,,,,,,,,,1934-04-19
+South Melbourne,1934,24,North Melbourne,9,W,24,,,,,,,,,,,,,,,,,,,,,,,,1934-04-26
+South Melbourne,1934,25,St Kilda,10,W,24,,,,,,,,,,,,,,,,,,,,,,,,1934-05-03
+South Melbourne,1934,26,Collingwood,12,W,24,,,,,,,,,,,,,,,,,,,,,,,,1934-05-17
+South Melbourne,1934,27,Carlton,13,W,24,,,,,,,,,,,,,,,,,,,,,,,,1934-05-24
+South Melbourne,1934,28,Essendon,14,W,24,,,,,,,,,,,,,,,,,,,,,,,,1934-05-31
+South Melbourne,1934,29,Footscray,15,W,24,,,,,,,,,,,,,,,,,,,,,,,,1934-06-07
+South Melbourne,1934,30,Hawthorn,16,W,24,,,,,,,,,,,,,,,,,,,,,,,,1934-06-14
+South Melbourne,1934,31,Richmond,17,L,24,,,,,,,,,,,,,,,,,,,,,,,,1934-06-21

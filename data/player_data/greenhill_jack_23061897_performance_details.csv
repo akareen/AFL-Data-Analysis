@@ -1,0 +1,42 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1917,1,Collingwood,2,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1917-03-08
+Carlton,1917,2,South Melbourne,3,L,17,,,,,,,,,,,,,,,,,,,,,,,,1917-03-15
+Carlton,1917,3,Geelong,4,L,17,,,,,,,,,,,,,,,,,,,,,,,,1917-03-22
+Carlton,1917,4,Fitzroy,6,L,17,,,,,,,,,,,,,,,,,,,,,,,,1917-04-05
+Carlton,1917,5,Geelong,14,W,17,,,,,,,,,,,,,,,,,,,,,,,,1917-05-31
+Carlton,1917,6,Richmond,15,W,17,,,,,,,,,,,,,,,,,,,,,,,,1917-06-07
+Carlton,1920,7,Fitzroy,3,L,29,,,,,,,,,,,,,,,,,,,,,,,,1920-03-15
+Carlton,1920,8,Essendon,4,W,29,,,,,,,,,,,,,,,,,,,,,,,,1920-03-22
+Carlton,1920,9,South Melbourne,5,L,29,,,,,,,,,,,,,,,,,,,,,,,,1920-03-29
+Carlton,1920,10,Melbourne,6,L,29,,,,,,,,,,,,,,,,,,,,,,,,1920-04-05
+Carlton,1920,11,Richmond,11,W,29,,,,,,,,,,,,,,,,,,,,,,,,1920-05-10
+Carlton,1920,12,Fitzroy,12,L,29,,,,,,,,,,,,,,,,,,,,,,,,1920-05-17
+Carlton,1920,13,South Melbourne,13,W,29,,,,,,,,,,,,,,,,,,,,,,,,1920-05-24
+Carlton,1920,14,Essendon,14,W,29,,,,,,,,,,,,,,,,,,,,,,,,1920-05-31
+Carlton,1920,15,Melbourne,15,W,29,,,,,,,,,,,,,,,,,,,,,,,,1920-06-07
+Carlton,1920,16,Geelong,16,W,29,,,,,,,,,,,,,,,,,,,,,,,,1920-06-14
+Carlton,1920,17,Collingwood,17,W,29,,,,,,,,,,,,,,,,,,,,,,,,1920-06-21
+Carlton,1920,18,Richmond,SF,W,29,,,,,,,,,,,,,,,,,,,,,,,,1920-03-01
+Carlton,1920,19,Collingwood,PF,L,29,,,,,,,,,,,,,,,,,,,,,,,,1920-03-01
+Carlton,1921,20,Richmond,1,W,6,,,,,,,,,,,,,,,,,,,,,,,,1921-03-01
+Carlton,1921,21,St Kilda,3,W,6,,,,,,,,,,,,,,,,,,,,,,,,1921-03-15
+Carlton,1921,22,Fitzroy,4,D,6,,,,,,,,,,,,,,,,,,,,,,,,1921-03-22
+Carlton,1921,23,South Melbourne,5,D,6,,,,,,,,,,,,,,,,,,,,,,,,1921-03-29
+Carlton,1921,24,Essendon,6,W,6,,,,,,,,,,,,,,,,,,,,,,,,1921-04-05
+Carlton,1921,25,Geelong,7,W,6,,,,,,,,,,,,,,,,,,,,,,,,1921-04-12
+Carlton,1921,26,Melbourne,8,W,6,,,,,,,,,,,,,,,,,,,,,,,,1921-04-19
+Carlton,1921,27,Collingwood,9,W,6,,,,,,,,,,,,,,,,,,,,,,,,1921-04-26
+Carlton,1921,28,Richmond,10,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1921-05-03
+Carlton,1921,29,St Kilda,12,W,6,,,,,,,,,,,,,,,,,,,,,,,,1921-05-17
+Carlton,1921,30,Fitzroy,13,L,6,,,,,,,,,,,,,,,,,,,,,,,,1921-05-24
+Carlton,1921,31,South Melbourne,14,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1921-05-31
+Carlton,1921,32,Essendon,15,W,6,,,,,,,,,,,,,,,,,,,,,,,,1921-06-07
+Carlton,1921,33,Geelong,16,W,6,,,,,,,,,,,,,,,,,,,,,,,,1921-06-14
+Carlton,1921,34,Melbourne,17,W,6,,,,,,,,,,,,,,,,,,,,,,,,1921-06-21
+Carlton,1921,35,Collingwood,18,W,6,,,,,,,,,,,,,,,,,,,,,,,,1921-06-28
+Carlton,1921,36,Collingwood,SF,W,6,,,,,,,,,,,,,,,,,,,,,,,,1921-03-01
+Carlton,1921,37,Richmond,PF,L,6,,,,,,,,,,,,,,,,,,,,,,,,1921-03-01
+Carlton,1921,38,Richmond,GF,L,6,,,,,,,,,,,,,,,,,,,,,,,,1921-03-01
+Carlton,1923,39,Essendon,4,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1923-03-22
+Carlton,1923,40,South Melbourne,6,L,6,,,,,,,,,,,,,,,,,,,,,,,,1923-04-05
+Carlton,1923,41,Collingwood,7,L,6,,,,,,,,,,,,,,,,,,,,,,,,1923-04-12

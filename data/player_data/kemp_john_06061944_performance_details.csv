@@ -1,0 +1,7 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1965,1,Hawthorn,1,W,7,,,,,,,,,,,,,,1,,,,,,,,,,1965-03-01
+Carlton,1965,2,Geelong,2,L,7,,,,,,,,,,,,,,,,,,,,,,,,1965-03-08
+Carlton,1966,3,Collingwood,11,W,7,6,,,6,,,1,,,,,,1,1,,,,,,,,,,1966-05-10
+Carlton,1966,4,Richmond,12,L,7,8,1,,8,,,,,,,,,2,,,,,,,,,,,1966-05-17
+Carlton,1966,5,St Kilda,13,W,7,8,2,,8,,,,,,,,,2,1,,,,,,,,,,1966-05-24
+Carlton,1966,6,Fitzroy,14,W,7,7,3,,7,,1,,,,,,,1,,,,,,,,,,,1966-05-31

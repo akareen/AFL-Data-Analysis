@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1897,1,Geelong,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-04-12
+St Kilda,1897,2,Collingwood,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-04-19
+St Kilda,1897,3,Fitzroy,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-04-26
+St Kilda,1898,4,Melbourne,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1898-06-14
+St Kilda,1903,5,Collingwood,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-03
+St Kilda,1903,6,Carlton,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-10
+St Kilda,1903,7,Fitzroy,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-17
+Carlton,1905,8,St Kilda,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-04-12

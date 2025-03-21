@@ -1,0 +1,22 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1950,1,South Melbourne,13,W,28,,,,,,,,,,,,,,,,,,,,,,,,1950-05-24
+Essendon,1950,2,Geelong,14,W,28,,,,,,,,,,,,,,,,,,,,,,,,1950-05-31
+Essendon,1951,3,Collingwood,4,W,28,,,,,,,,,,,,,,,,,,,,,,,,1951-03-22
+Essendon,1951,4,Geelong,5,L,28,,,,,,,,,,,,,,,,,,,,,,,,1951-03-29
+Essendon,1952,5,Geelong,11,D,28,,,,,1,,,,,,,,,,,,,,,,,,,1952-05-10
+Essendon,1952,6,South Melbourne,12,W,28,,,,,,,,,,,,,,,,,,,,,,,,1952-05-17
+Essendon,1952,7,Footscray,13,L,28,,,,,1,,,,,,,,,,,,,,,,,,,1952-05-24
+Essendon,1952,8,North Melbourne,14,L,28,,,,,,,,,,,,,,,,,,,,,,,,1952-05-31
+Essendon,1953,9,St Kilda,3,W,28,,,,,,,,,,,,,,,,,,,,,,,,1953-03-15
+Essendon,1953,10,Geelong,4,L,28,,,,,,,,,,,,,,,,,,,,,,,,1953-03-22
+Essendon,1953,11,Melbourne,5,L,28,,,,,,,,,,,,,,,,,,,,,,,,1953-03-29
+St Kilda,1955,12,Geelong,6,L,22,,,,,,,,,,,,,,,,,,,,,,,,1955-04-05
+St Kilda,1955,13,Richmond,7,L,22,,,,,1,,,,,,,,,,,,,,,,,,,1955-04-12
+St Kilda,1955,14,Footscray,8,L,22,,,,,,,,,,,,,,,,,,,,,,,,1955-04-19
+St Kilda,1955,15,Fitzroy,9,L,22,,,,,,,,,,,,,,,,,,,,,,,,1955-04-26
+St Kilda,1955,16,Hawthorn,10,L,22,,,,,,,,,,,,,,,,,,,,,,,,1955-05-03
+St Kilda,1955,17,North Melbourne,11,W,22,,,,,,,,,,,,,,,,,,,,,,,,1955-05-10
+St Kilda,1955,18,Melbourne,12,L,22,,,,,,,,,,,,,,,,,,,,,,,,1955-05-17
+St Kilda,1955,19,Essendon,13,L,22,,,,,1,,,,,,,,,,,,,,,,,,,1955-05-24
+St Kilda,1955,20,Collingwood,14,L,22,,,,,,,,,,,,,,,,,,,,,,,,1955-05-31
+St Kilda,1955,21,Carlton,15,L,22,,,,,,,,,,,,,,,,,,,,,,,,1955-06-07

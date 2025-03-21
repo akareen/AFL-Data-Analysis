@@ -1,0 +1,56 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1904,1,Carlton,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-03-01
+Fitzroy,1904,2,St Kilda,2,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-03-08
+Fitzroy,1904,3,Melbourne,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-03-15
+Fitzroy,1904,4,Collingwood,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-03-22
+Fitzroy,1904,5,Essendon,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-03-29
+Fitzroy,1904,6,Geelong,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-04-05
+Fitzroy,1904,7,South Melbourne,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-04-12
+Fitzroy,1904,8,Carlton,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-04-19
+Fitzroy,1904,9,St Kilda,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-04-26
+Fitzroy,1904,10,Melbourne,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-05-03
+Fitzroy,1904,11,Collingwood,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-05-10
+Fitzroy,1904,12,Essendon,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-05-17
+Fitzroy,1904,13,Geelong,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-05-24
+Fitzroy,1904,14,South Melbourne,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-05-31
+Fitzroy,1904,15,South Melbourne,15,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-06-07
+Fitzroy,1904,16,Geelong,16,W,,,,,,1,,,,,,,,,,,,,,,,,,,1904-06-14
+Fitzroy,1904,17,Essendon,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-06-21
+Fitzroy,1904,18,Collingwood,SF,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-03-01
+Fitzroy,1904,19,Carlton,GF,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-03-01
+Fitzroy,1905,20,Collingwood,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-01
+Fitzroy,1905,21,St Kilda,2,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-08
+Fitzroy,1905,22,Geelong,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-15
+Fitzroy,1905,23,Carlton,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-22
+Fitzroy,1905,24,Melbourne,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-29
+Fitzroy,1905,25,Essendon,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-04-05
+Fitzroy,1905,26,South Melbourne,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-04-12
+Fitzroy,1905,27,Collingwood,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-04-19
+Fitzroy,1905,28,St Kilda,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-04-26
+Fitzroy,1905,29,Geelong,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-05-03
+Fitzroy,1905,30,Carlton,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-05-10
+Fitzroy,1905,31,Melbourne,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-05-17
+Fitzroy,1905,32,Essendon,13,W,,,,,,1,,,,,,,,,,,,,,,,,,,1905-05-24
+Fitzroy,1905,33,South Melbourne,14,D,,,,,,1,,,,,,,,,,,,,,,,,,,1905-05-31
+Fitzroy,1905,34,St Kilda,15,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-06-07
+Fitzroy,1905,35,Essendon,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-06-21
+Fitzroy,1905,36,Essendon,SF,W,,,,,,1,,,,,,,,,,,,,,,,,,,1905-03-01
+Fitzroy,1905,37,Carlton,PF,W,,,,,,2,,,,,,,,,,,,,,,,,,,1905-03-01
+Fitzroy,1905,38,Collingwood,GF,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-01
+Fitzroy,1906,39,Collingwood,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-15
+Fitzroy,1906,40,Geelong,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-22
+Fitzroy,1906,41,Essendon,5,L,,,,,,1,,,,,,,,,,,,,,,,,,,1906-03-29
+Fitzroy,1906,42,Carlton,6,L,,,,,,2,,,,,,,,,,,,,,,,,,,1906-04-05
+Fitzroy,1906,43,South Melbourne,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-12
+Fitzroy,1906,44,St Kilda,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-19
+Fitzroy,1906,45,Melbourne,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-26
+Fitzroy,1906,46,Collingwood,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-03
+Fitzroy,1906,47,Geelong,11,W,,,,,,3,,,,,,,,,,,,,,,,,,,1906-05-10
+Fitzroy,1906,48,Essendon,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-17
+Fitzroy,1906,49,Carlton,13,W,,,,,,1,,,,,,,,,,,,,,,,,,,1906-05-24
+Fitzroy,1906,50,South Melbourne,14,W,,,,,,1,,,,,,,,,,,,,,,,,,,1906-05-31
+Fitzroy,1906,51,Melbourne,15,W,,,,,,1,,,,,,,,,,,,,,,,,,,1906-06-07
+Fitzroy,1906,52,Collingwood,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-06-14
+Fitzroy,1906,53,St Kilda,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-06-21
+Fitzroy,1906,54,Essendon,SF,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-01
+Fitzroy,1906,55,Carlton,GF,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-01

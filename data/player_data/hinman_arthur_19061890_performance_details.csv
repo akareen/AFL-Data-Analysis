@@ -1,0 +1,26 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+University,1910,1,Richmond,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-15
+University,1910,2,Geelong,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-22
+University,1910,3,Carlton,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-05
+University,1910,4,Fitzroy,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-12
+University,1910,5,Collingwood,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-19
+University,1910,6,Melbourne,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-26
+University,1910,7,St Kilda,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-03
+University,1910,8,Essendon,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-10
+University,1910,9,Richmond,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-17
+University,1910,10,Geelong,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-24
+University,1910,11,South Melbourne,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-31
+University,1910,12,Fitzroy,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-14
+University,1910,13,Collingwood,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-21
+University,1911,14,South Melbourne,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-01
+University,1911,15,St Kilda,2,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-08
+University,1911,16,Richmond,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-15
+University,1911,17,Carlton,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-22
+University,1911,18,Collingwood,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-12
+University,1911,19,Geelong,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-26
+University,1911,20,South Melbourne,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-03
+University,1911,21,St Kilda,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-10
+University,1911,22,Richmond,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-17
+University,1911,23,Carlton,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-24
+University,1911,24,Fitzroy,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-07
+University,1911,25,Melbourne,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-21

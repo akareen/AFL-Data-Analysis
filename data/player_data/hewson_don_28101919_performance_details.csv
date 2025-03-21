@@ -1,0 +1,19 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1942,1,Essendon,1,L,8,,,,,,,,,,,,,,,,,,,,,,,,1942-03-01
+Melbourne,1942,2,Richmond,2,L,8,,,,,,,,,,,,,,,,,,,,,,,,1942-03-08
+Melbourne,1942,3,Fitzroy,3,L,8,,,,,,,,,,,,,,,,,,,,,,,,1942-03-15
+Melbourne,1942,4,South Melbourne,5,L,8,,,,,,,,,,,,,,,,,,,,,,,,1942-03-29
+Melbourne,1942,5,St Kilda,6,L,8,,,,,,,,,,,,,,,,,,,,,,,,1942-04-05
+Melbourne,1942,6,North Melbourne,7,W,8,,,,,,,,,,,,,,,,,,,,,,,,1942-04-12
+Melbourne,1942,7,Collingwood,8,L,8,,,,,,,,,,,,,,,,,,,,,,,,1942-04-19
+Melbourne,1942,8,Hawthorn,15,W,8,,,,,,,,,,,,,,,,,,,,,,,,1942-06-07
+Melbourne,1943,9,Fitzroy,1,L,8,,,,,,,,,,,,,,,,,,,,,,,,1943-03-01
+Melbourne,1943,10,South Melbourne,2,W,8,,,,,,,,,,,,,,,,,,,,,,,,1943-03-08
+Melbourne,1943,11,North Melbourne,4,L,8,,,,,,,,,,,,,,,,,,,,,,,,1943-03-22
+Melbourne,1943,12,Richmond,5,L,8,,,,,,,,,,,,,,,,,,,,,,,,1943-03-29
+Melbourne,1943,13,Footscray,6,L,8,,,,,,,,,,,,,,,,,,,,,,,,1943-04-05
+Melbourne,1943,14,St Kilda,9,W,8,,,,,,,,,,,,,,,,,,,,,,,,1943-04-26
+Melbourne,1943,15,Essendon,10,W,8,,,,,,,,,,,,,,,,,,,,,,,,1943-05-03
+Melbourne,1943,16,Footscray,12,W,8,,,,,,,,,,,,,,,,,,,,,,,,1943-05-17
+Melbourne,1943,17,South Melbourne,13,L,8,,,,,,,,,,,,,,,,,,,,,,,,1943-05-24
+Melbourne,1944,18,North Melbourne,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1944-04-12

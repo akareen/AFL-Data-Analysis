@@ -1,0 +1,24 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1950,1,North Melbourne,1,L,23,,,,,,,,,,,,,,,,,,,,,,,,1950-03-01
+Richmond,1950,2,Melbourne,2,L,23,,,,,3,,,,,,,,,,,,,,,,,,,1950-03-08
+Richmond,1950,3,Fitzroy,3,W,23,,,,,,,,,,,,,,,,,,,,,,,,1950-03-15
+Richmond,1950,4,Carlton,4,L,23,,,,,2,,,,,,,,,,,,,,,,,,,1950-03-22
+Richmond,1950,5,Essendon,5,L,23,,,,,,,,,,,,,,,,,,,,,,,,1950-03-29
+Richmond,1950,6,Collingwood,6,W,23,,,,,,,,,,,,,,,,,,,,,,,,1950-04-05
+Richmond,1950,7,Geelong,7,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1950-04-12
+Richmond,1950,8,Hawthorn,8,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1950-04-19
+Richmond,1950,9,South Melbourne,10,L,23,,,,,,,,,,,,,,,,,,,,,,,,1950-05-03
+Richmond,1950,10,Footscray,11,W,23,,,,,,,,,,,,,,,,,,,,,,,,1950-05-10
+Richmond,1950,11,North Melbourne,12,W,23,,,,,,,,,,,,,,,,,,,,,,,,1950-05-17
+Richmond,1950,12,Melbourne,13,L,23,,,,,,,,,,,,,,,,,,,,,,,,1950-05-24
+Richmond,1950,13,Fitzroy,14,L,23,,,,,,,,,,,,,,,,,,,,,,,,1950-05-31
+Richmond,1950,14,Carlton,15,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1950-06-07
+Richmond,1950,15,Essendon,16,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1950-06-14
+Richmond,1950,16,Collingwood,17,W,23,,,,,,,,,,,,,,,,,,,,,,,,1950-06-21
+Richmond,1950,17,Geelong,18,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1950-06-28
+Richmond,1952,18,Fitzroy,1,W,23,,,,,,,,,,,,,,,,,,,,,,,,1952-03-01
+Richmond,1952,19,Hawthorn,2,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1952-03-08
+Richmond,1952,20,Collingwood,8,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1952-04-19
+Richmond,1952,21,Carlton,9,L,23,,,,,,,,,,,,,,,,,,,,,,,,1952-04-26
+Richmond,1953,22,Melbourne,1,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1953-03-01
+Richmond,1953,23,Fitzroy,2,L,23,,,,,,,,,,,,,,,,,,,,,,,,1953-03-08

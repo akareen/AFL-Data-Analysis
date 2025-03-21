@@ -1,0 +1,27 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1920,1,Geelong,14,W,25,,,,,,,,,,,,,,,,,,,,,,,,1920-05-31
+Richmond,1920,2,South Melbourne,15,W,25,,,,,,,,,,,,,,,,,,,,,,,,1920-06-07
+Richmond,1920,3,Melbourne,16,W,25,,,,,,,,,,,,,,,,,,,,,,,,1920-06-14
+Richmond,1920,4,St Kilda,17,W,25,,,,,,,,,,,,,,,,,,,,,,,,1920-06-21
+Richmond,1920,5,Essendon,18,W,25,,,,,,,,,,,,,,,,,,,,,,,,1920-06-28
+Richmond,1921,6,Geelong,13,W,33,,,,,,,,,,,,,,,,,,,,,,,,1921-05-24
+Richmond,1922,7,Collingwood,1,W,23,,,,,,,,,,,,,,,,,,,,,,,,1922-03-01
+Richmond,1922,8,Melbourne,2,L,23,,,,,2,,,,,,,,,,,,,,,,,,,1922-03-08
+Richmond,1922,9,Geelong,4,L,23,,,,,,,,,,,,,,,,,,,,,,,,1922-03-22
+Richmond,1922,10,Essendon,5,L,23,,,,,,,,,,,,,,,,,,,,,,,,1922-03-29
+Richmond,1922,11,Carlton,8,L,23,,,,,,,,,,,,,,,,,,,,,,,,1922-04-19
+Richmond,1922,12,St Kilda,9,W,23,,,,,,,,,,,,,,,,,,,,,,,,1922-04-26
+Richmond,1922,13,Collingwood,10,L,23,,,,,,,,,,,,,,,,,,,,,,,,1922-05-03
+Richmond,1922,14,Melbourne,11,W,23,,,,,,,,,,,,,,,,,,,,,,,,1922-05-10
+Richmond,1922,15,Geelong,13,W,23,,,,,,,,,,,,,,,,,,,,,,,,1922-05-24
+Richmond,1922,16,Essendon,14,L,23,,,,,,,,,,,,,,,,,,,,,,,,1922-05-31
+Richmond,1922,17,Carlton,17,L,23,,,,,,,,,,,,,,,,,,,,,,,,1922-06-21
+Richmond,1923,18,Carlton,3,L,23,,,,,,,,,,,,,,,,,,,,,,,,1923-03-15
+Richmond,1923,19,St Kilda,4,L,23,,,,,,,,,,,,,,,,,,,,,,,,1923-03-22
+Richmond,1923,20,Collingwood,5,L,23,,,,,,,,,,,,,,,,,,,,,,,,1923-03-29
+Richmond,1923,21,Essendon,6,L,23,,,,,,,,,,,,,,,,,,,,,,,,1923-04-05
+Richmond,1923,22,Geelong,7,W,23,,,,,,,,,,,,,,,,,,,,,,,,1923-04-12
+Richmond,1923,23,South Melbourne,8,L,23,,,,,,,,,,,,,,,,,,,,,,,,1923-04-19
+Richmond,1923,24,Melbourne,10,W,23,,,,,,,,,,,,,,,,,,,,,,,,1923-05-03
+Richmond,1924,25,Fitzroy,4,L,4,,,,,,,,,,,,,,,,,,,,,,,,1924-03-22
+Richmond,1924,26,Essendon,SF,W,4,,,,,,,,,,,,,,,,,,,,,,,,1924-03-01

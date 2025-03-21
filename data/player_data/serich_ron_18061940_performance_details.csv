@@ -1,0 +1,29 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1961,1,Collingwood,2,W,38,,,,,,,,,,,,,,,,,,,,,,,,1961-03-08
+Richmond,1961,2,South Melbourne,3,L,38,,,,,,,,,,,,,,,,,,,,,,,,1961-03-15
+Richmond,1961,3,Fitzroy,4,W,38,,,,,3,,,,,,,,,,,,,,,,,,,1961-03-22
+Richmond,1961,4,St Kilda,5,L,38,,,,,2,,,,,,,,,,,,,,,,,,,1961-03-29
+Richmond,1961,5,Geelong,6,L,38,,,,,4,,,,,,,,,,,,,,,,,,,1961-04-05
+Richmond,1961,6,Melbourne,11,L,38,,,,,,,,,,,,,,,,,,,,,,,,1961-05-10
+Richmond,1961,7,South Melbourne,14,L,38,,,,,3,,,,,,,,,,,,,,,,,,,1961-05-31
+Richmond,1961,8,Fitzroy,15,L,38,,,,,2,,,,,,,,,,,,,,,,,,,1961-06-07
+Richmond,1961,9,St Kilda,16,L,38,,,,,,,,,,,,,,,,,,,,,,,,1961-06-14
+Richmond,1962,10,St Kilda,6,L,38,,,,,2,,,,,,,,,,,,,,,,,,,1962-04-05
+Richmond,1962,11,North Melbourne,7,W,38,,,,,5,,,,,,,,,,,,,,,,,,,1962-04-12
+Richmond,1962,12,Footscray,8,L,38,,,,,,,,,,,,,,,,,,,,,,,,1962-04-19
+Richmond,1962,13,South Melbourne,9,W,38,,,,,4,,,,,,,,,,,,,,,,,,,1962-04-26
+Richmond,1962,14,Collingwood,10,L,38,,,,,4,,,,,,,,,,,,,,,,,,,1962-05-03
+Richmond,1962,15,Fitzroy,11,W,38,,,,,2,,,,,,,,,,,,,,,,,,,1962-05-10
+Richmond,1962,16,Melbourne,12,L,38,,,,,2,,,,,,,,,,,,,,,,,,,1962-05-17
+Richmond,1962,17,Carlton,13,L,38,,,,,,,,,,,,,,,,,,,,,,,,1962-05-24
+Richmond,1962,18,Essendon,14,L,38,,,,,2,,,,,,,,,,,,,,,,,,,1962-05-31
+Richmond,1962,19,North Melbourne,18,W,38,,,,,,,,,,,,,,,,,,,,,,,,1962-06-28
+Richmond,1963,20,North Melbourne,3,L,38,,,,,,,,,,,,,,,,,,,,,,,,1963-03-15
+Richmond,1963,21,Footscray,4,L,38,,,,,,,,,,,,,,,,,,,,,,,,1963-03-22
+Richmond,1963,22,Carlton,5,L,38,,,,,,,,,,,,,,,,,,,,,,,,1963-03-29
+Richmond,1963,23,Melbourne,6,L,38,,,,,,,,,,,,,,,,,,,,,,,,1963-04-05
+Richmond,1963,24,Fitzroy,7,W,38,,,,,,,,,,,,,,,,,,,,,,,,1963-04-12
+Richmond,1963,25,Essendon,8,L,38,,,,,,,,,,,,,,,,,,,,,,,,1963-04-19
+Richmond,1963,26,Collingwood,12,W,38,,,,,,,,,,,,,,,,,,,,,,,,1963-05-17
+Richmond,1963,27,South Melbourne,13,L,38,,,,,,,,,,,,,,,,,,,,,,,,1963-05-24
+Richmond,1963,28,Fitzroy,18,W,38,,,,,1,,,,,,,,,,,,,,,,,,,1963-06-28

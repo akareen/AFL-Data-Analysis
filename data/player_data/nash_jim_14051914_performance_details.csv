@@ -1,0 +1,45 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1935,1,Carlton,1,W,2,,,,,1,,,,,,,,,,,,,,,,,,,1935-03-01
+Geelong,1935,2,Melbourne,2,W,2,,,,,,,,,,,,,,,,,,,,,,,,1935-03-08
+Geelong,1935,3,St Kilda,3,L,2,,,,,,,,,,,,,,,,,,,,,,,,1935-03-15
+Geelong,1935,4,Collingwood,4,L,2,,,,,,,,,,,,,,,,,,,,,,,,1935-03-22
+Geelong,1935,5,South Melbourne,5,L,2,,,,,,,,,,,,,,,,,,,,,,,,1935-03-29
+Geelong,1935,6,Hawthorn,6,W,2,,,,,,,,,,,,,,,,,,,,,,,,1935-04-05
+Geelong,1935,7,Essendon,7,W,2,,,,,,,,,,,,,,,,,,,,,,,,1935-04-12
+Geelong,1935,8,Richmond,8,W,2,,,,,,,,,,,,,,,,,,,,,,,,1935-04-19
+Geelong,1935,9,Fitzroy,9,L,2,,,,,,,,,,,,,,,,,,,,,,,,1935-04-26
+Geelong,1935,10,North Melbourne,10,W,2,,,,,,,,,,,,,,,,,,,,,,,,1935-05-03
+Geelong,1935,11,Footscray,11,D,2,,,,,,,,,,,,,,,,,,,,,,,,1935-05-10
+Geelong,1935,12,Carlton,12,L,2,,,,,,,,,,,,,,,,,,,,,,,,1935-05-17
+Geelong,1935,13,Melbourne,13,L,2,,,,,,,,,,,,,,,,,,,,,,,,1935-05-24
+Geelong,1935,14,Collingwood,15,L,2,,,,,,,,,,,,,,,,,,,,,,,,1935-06-07
+Geelong,1935,15,St Kilda,14,L,2,,,,,,,,,,,,,,,,,,,,,,,,1935-05-31
+Geelong,1935,16,South Melbourne,16,L,2,,,,,,,,,,,,,,,,,,,,,,,,1935-06-14
+Geelong,1936,17,Footscray,1,W,2,,,,,,,,,,,,,,,,,,,,,,,,1936-03-01
+Geelong,1936,18,North Melbourne,2,W,2,,,,,,,,,,,,,,,,,,,,,,,,1936-03-08
+Geelong,1936,19,Fitzroy,5,L,2,,,,,,,,,,,,,,,,,,,,,,,,1936-03-29
+Geelong,1939,20,North Melbourne,7,W,27,,,,,,,,,,,,,,,,,,,,,,,,1939-04-12
+Geelong,1939,21,Fitzroy,8,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1939-04-19
+Geelong,1939,22,Richmond,9,L,27,,,,,,,,,,,,,,,,,,,,,,,,1939-04-26
+Geelong,1939,23,South Melbourne,10,W,27,,,,,,,,,,,,,,,,,,,,,,,,1939-05-03
+Geelong,1939,24,Footscray,11,L,27,,,,,,,,,,,,,,,,,,,,,,,,1939-05-10
+Geelong,1939,25,Collingwood,12,W,27,,,,,,,,,,,,,,,,,,,,,,,,1939-05-17
+Geelong,1939,26,Carlton,13,L,27,,,,,,,,,,,,,,,,,,,,,,,,1939-05-24
+Geelong,1939,27,Hawthorn,14,W,27,,,,,,,,,,,,,,,,,,,,,,,,1939-05-31
+Geelong,1939,28,Melbourne,16,L,27,,,,,,,,,,,,,,,,,,,,,,,,1939-06-14
+Geelong,1939,29,St Kilda,17,L,27,,,,,,,,,,,,,,,,,,,,,,,,1939-06-21
+Geelong,1939,30,North Melbourne,18,L,27,,,,,,,,,,,,,,,,,,,,,,,,1939-06-28
+Geelong,1940,31,Carlton,1,L,2,,,,,,,,,,,,,,,,,,,,,,,,1940-03-01
+Geelong,1940,32,Collingwood,2,W,2,,,,,,,,,,,,,,,,,,,,,,,,1940-03-08
+Geelong,1940,33,Fitzroy,3,W,2,,,,,,,,,,,,,,,,,,,,,,,,1940-03-15
+Geelong,1940,34,Richmond,4,L,2,,,,,,,,,,,,,,,,,,,,,,,,1940-03-22
+Geelong,1940,35,Footscray,6,W,2,,,,,3,,,,,,,,,,,,,,,,,,,1940-04-05
+Geelong,1940,36,Melbourne,10,W,2,,,,,,,,,,,,,,,,,,,,,,,,1940-05-03
+Geelong,1940,37,St Kilda,11,W,2,,,,,,,,,,,,,,,,,,,,,,,,1940-05-10
+Geelong,1940,38,Carlton,12,W,2,,,,,,,,,,,,,,,,,,,,,,,,1940-05-17
+Geelong,1940,39,Collingwood,13,W,2,,,,,1,,,,,,,,,,,,,,,,,,,1940-05-24
+Geelong,1940,40,Fitzroy,14,L,2,,,,,,,,,,,,,,,,,,,,,,,,1940-05-31
+Geelong,1940,41,Richmond,15,L,2,,,,,,,,,,,,,,,,,,,,,,,,1940-06-07
+Geelong,1940,42,South Melbourne,16,L,2,,,,,,,,,,,,,,,,,,,,,,,,1940-06-14
+Geelong,1940,43,Essendon,18,L,2,,,,,,,,,,,,,,,,,,,,,,,,1940-06-28
+Geelong,1940,44,Essendon,SF,L,2,,,,,,,,,,,,,,,,,,,,,,,,1940-03-01

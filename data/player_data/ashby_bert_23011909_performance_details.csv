@@ -1,0 +1,26 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1928,1,Essendon,18,L,15,,,,,,,,,,,,,,,,,,,,,,,,1928-06-28
+Hawthorn,1929,2,Carlton,3,L,15,,,,,,,,,,,,,,,,,,,,,,,,1929-03-15
+Hawthorn,1931,3,South Melbourne,5,L,15,,,,,1,,,,,,,,,,,,,,,,,,,1931-03-29
+Hawthorn,1931,4,Essendon,7,W,15,,,,,2,,,,,,,,,,,,,,,,,,,1931-04-12
+Hawthorn,1931,5,Fitzroy,8,W,15,,,,,,,,,,,,,,,,,,,,,,,,1931-04-19
+Hawthorn,1931,6,Richmond,6,L,15,,,,,,,,,,,,,,,,,,,,,,,,1931-04-05
+Hawthorn,1931,7,Geelong,9,L,15,,,,,,,,,,,,,,,,,,,,,,,,1931-04-26
+Hawthorn,1931,8,North Melbourne,10,W,15,,,,,,,,,,,,,,,,,,,,,,,,1931-05-03
+Hawthorn,1931,9,Carlton,11,L,15,,,,,,,,,,,,,,,1,,,,,,,,,1931-05-10
+Hawthorn,1931,10,Footscray,12,L,15,,,,,,,,,,,,,,,,,,,,,,,,1931-05-17
+Hawthorn,1931,11,Collingwood,13,L,15,,,,,,,,,,,,,,,,,,,,,,,,1931-05-24
+Hawthorn,1931,12,St Kilda,14,L,15,,,,,,,,,,,,,,,1,,,,,,,,,1931-05-31
+Hawthorn,1931,13,Melbourne,15,L,15,,,,,,,,,,,,,,,,,,,,,,,,1931-06-07
+Hawthorn,1931,14,South Melbourne,16,L,15,,,,,,,,,,,,,,,,,,,,,,,,1931-06-14
+Hawthorn,1932,15,Collingwood,1,L,15,,,,,,,,,,,,,,,,,,,,,,,,1932-03-01
+Hawthorn,1932,16,Melbourne,3,W,15,,,,,,,,,,,,,,,,,,,,,,,,1932-03-15
+Hawthorn,1933,17,St Kilda,1,W,15,,,,,,,,,,,,,,,,,,,,,,,,1933-03-01
+Hawthorn,1933,18,Carlton,2,L,15,,,,,,,,,,,,,,,,,,,,,,,,1933-03-08
+Hawthorn,1934,19,Carlton,1,L,15,,,,,,,,,,,,,,,,,,,,,,,,1934-03-01
+Hawthorn,1934,20,Melbourne,2,L,15,,,,,,,,,,,,,,,,,,,,,,,,1934-03-08
+Hawthorn,1934,21,North Melbourne,10,W,15,,,,,1,,,,,,,,,,2,,,,,,,,,1934-05-03
+Hawthorn,1935,22,North Melbourne,1,W,15,,,,,,,,,,,,,,,,,,,,,,,,1935-03-01
+Hawthorn,1935,23,Carlton,2,L,15,,,,,1,,,,,,,,,,,,,,,,,,,1935-03-08
+Hawthorn,1935,24,Melbourne,3,L,15,,,,,,,,,,,,,,,,,,,,,,,,1935-03-15
+Hawthorn,1935,25,Fitzroy,7,L,15,,,,,1,,,,,,,,,,,,,,,,,,,1935-04-12

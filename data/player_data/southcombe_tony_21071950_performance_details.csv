@@ -1,0 +1,14 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1977,1,Geelong,1,W,4,7,2,4,11,1,2,7,,,,,,,1,,,,,,,,,,1977-03-01
+Carlton,1977,2,Fitzroy,2,W,4,5,1,4,9,3,1,6,,,,,,,3,,,,,,,,,,1977-03-08
+Carlton,1977,3,St Kilda,3,W,4,9,3,3,12,3,1,15,,,,,,,,,,,,,,,,,1977-03-15
+Carlton,1977,4,Hawthorn,4,L,4,3,,2,5,,,6,,,,,,2,1,,,,,,,,,,1977-03-22
+Carlton,1977,5,South Melbourne,5,W,4,8,,1,9,,1,13,,,,,,6,3,,,,,,,,,,1977-03-29
+Carlton,1977,6,Collingwood,6,L,4,10,3,4,14,1,,12,,,,,,4,1,,,,,,,,,,1977-04-05
+Carlton,1977,7,Melbourne,7,W,4,20,6,4,24,,1,15,,,,,,5,3,,,,,,,,,,1977-04-12
+Carlton,1977,8,North Melbourne,8,W,4,8,2,4,12,,1,8,,,,,,2,2,,,,,,,,,,1977-04-19
+Carlton,1977,9,Essendon,9,L,4,9,3,6,15,1,1,6,,,,,,4,6,,,,,,,,,,1977-04-26
+Carlton,1977,10,Richmond,10,L,4,8,4,2,10,,,6,,,,,,1,2,,,,,,,,,,1977-05-03
+Carlton,1977,11,Footscray,11,W,4,6,4,7,13,,1,7,,,,,,1,1,,,,,,,,,,1977-05-10
+Carlton,1977,12,Geelong,12,W,4,8,3,5,13,1,1,8,,,,,,3,6,,,,,,,,,,1977-05-17
+Carlton,1977,13,Fitzroy,13,L,4,10,4,4,14,1,3,,,,,,,3,1,,,,,,,,,,1977-05-24

@@ -1,0 +1,40 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1945,1,Essendon,3,L,10,,,,,1,,,,,,,,,,,,,,,,,,,1945-03-15
+Carlton,1945,2,Fitzroy,4,W,10,,,,,,,,,,,,,,,,,,,,,,,,1945-03-22
+Carlton,1945,3,St Kilda,5,W,10,,,,,2,,,,,,,,,,,,,,,,,,,1945-03-29
+Carlton,1945,4,Collingwood,6,L,10,,,,,2,,,,,,,,,,,,,,,,,,,1945-04-05
+Carlton,1945,5,Richmond,7,L,10,,,,,,,,,,,,,,,,,,,,,,,,1945-04-12
+Carlton,1945,6,Geelong,8,W,10,,,,,,,,,,,,,,,,,,,,,,,,1945-04-19
+Carlton,1945,7,Footscray,9,L,10,,,,,,,,,,,,,,,,,,,,,,,,1945-04-26
+Carlton,1945,8,North Melbourne,10,W,10,,,,,,,,,,,,,,,,,,,,,,,,1945-05-03
+Carlton,1945,9,South Melbourne,11,W,10,,,,,1,,,,,,,,,,,,,,,,,,,1945-05-10
+Carlton,1945,10,Melbourne,12,W,10,,,,,,,,,,,,,,,,,,,,,,,,1945-05-17
+Carlton,1945,11,Hawthorn,13,W,10,,,,,,,,,,,,,,,,,,,,,,,,1945-05-24
+Carlton,1945,12,Essendon,14,L,10,,,,,,,,,,,,,,,,,,,,,,,,1945-05-31
+Carlton,1945,13,Fitzroy,15,W,10,,,,,,,,,,,,,,,,,,,,,,,,1945-06-07
+Carlton,1945,14,Collingwood,17,W,10,,,,,,,,,,,,,,,,,,,,,,,,1945-06-21
+Carlton,1945,15,Richmond,18,W,10,,,,,,,,,,,,,,,,,,,,,,,,1945-06-28
+Carlton,1945,16,Geelong,19,W,10,,,,,,,,,,,,,,,,,,,,,,,,1945-07-05
+Carlton,1945,17,Footscray,20,W,10,,,,,,,,,,,,,,,,,,,,,,,,1945-07-12
+Carlton,1945,18,North Melbourne,SF,W,10,,,,,,,,,,,,,,,,,,,,,,,,1945-03-01
+Carlton,1945,19,Collingwood,PF,W,10,,,,,,,,,,,,,,,,,,,,,,,,1945-03-01
+Carlton,1945,20,South Melbourne,GF,W,10,,,,,1,,,,,,,,,,,,,,,,,,,1945-03-01
+Carlton,1946,21,South Melbourne,1,W,10,,,,,,,,,,,,,,,,,,,,,,,,1946-03-01
+Carlton,1946,22,Melbourne,2,L,10,,,,,,,,,,,,,,,,,,,,,,,,1946-03-08
+Carlton,1946,23,Hawthorn,3,W,10,,,,,,,,,,,,,,,,,,,,,,,,1946-03-15
+Carlton,1946,24,Fitzroy,4,L,10,,,,,,,,,,,,,,,,,,,,,,,,1946-03-22
+Carlton,1946,25,North Melbourne,5,W,10,,,,,,,,,,,,,,,,,,,,,,,,1946-03-29
+Carlton,1946,26,St Kilda,6,W,10,,,,,,,,,,,,,,,,,,,,,,,,1946-04-05
+Carlton,1946,27,Richmond,7,W,10,,,,,,,,,,,,,,,,,,,,,,,,1946-04-12
+Carlton,1946,28,Collingwood,8,L,10,,,,,,,,,,,,,,,,,,,,,,,,1946-04-19
+Carlton,1946,29,Geelong,9,W,10,,,,,,,,,,,,,,,,,,,,,,,,1946-04-26
+Carlton,1946,30,Footscray,10,W,10,,,,,1,,,,,,,,,,,,,,,,,,,1946-05-03
+Carlton,1946,31,Essendon,11,L,10,,,,,,,,,,,,,,,,,,,,,,,,1946-05-10
+Carlton,1946,32,South Melbourne,12,W,10,,,,,,,,,,,,,,,,,,,,,,,,1946-05-17
+Carlton,1946,33,Melbourne,13,L,10,,,,,,,,,,,,,,,,,,,,,,,,1946-05-24
+Carlton,1946,34,Hawthorn,14,W,10,,,,,1,,,,,,,,,,,,,,,,,,,1946-05-31
+Carlton,1946,35,Fitzroy,15,L,10,,,,,,,,,,,,,,,,,,,,,,,,1946-06-07
+Carlton,1946,36,North Melbourne,16,L,10,,,,,,,,,,,,,,,,,,,,,,,,1946-06-14
+Carlton,1946,37,St Kilda,17,W,10,,,,,,,,,,,,,,,,,,,,,,,,1946-06-21
+Carlton,1946,38,Richmond,18,L,10,,,,,,,,,,,,,,,,,,,,,,,,1946-06-28
+Carlton,1946,39,Collingwood,19,W,10,,,,,1,,,,,,,,,,,,,,,,,,,1946-07-05

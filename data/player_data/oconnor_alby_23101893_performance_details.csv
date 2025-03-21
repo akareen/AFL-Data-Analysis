@@ -1,0 +1,14 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1915,1,Carlton,4,W,10,,,,,,,,,,,,,,,,,,,,,,,,1915-03-22
+Essendon,1915,2,St Kilda,5,W,10,,,,,,,,,,,,,,,,,,,,,,,,1915-03-29
+Essendon,1915,3,South Melbourne,6,L,10,,,,,,,,,,,,,,,,,,,,,,,,1915-04-05
+Essendon,1915,4,Geelong,7,L,10,,,,,,,,,,,,,,,,,,,,,,,,1915-04-12
+Essendon,1915,5,Richmond,9,L,10,,,,,,,,,,,,,,,,,,,,,,,,1915-04-26
+Essendon,1915,6,Fitzroy,12,L,10,,,,,,,,,,,,,,,,,,,,,,,,1915-05-17
+Essendon,1915,7,Carlton,13,L,10,,,,,,,,,,,,,,,,,,,,,,,,1915-05-24
+Essendon,1915,8,St Kilda,14,L,10,,,,,,,,,,,,,,,,,,,,,,,,1915-05-31
+Essendon,1915,9,South Melbourne,15,L,10,,,,,,,,,,,,,,,,,,,,,,,,1915-06-07
+Essendon,1918,10,Carlton,4,L,10,,,,,,,,,,,,,,,,,,,,,,,,1918-03-22
+Essendon,1918,11,Fitzroy,5,L,10,,,,,,,,,,,,,,,,,,,,,,,,1918-03-29
+Essendon,1918,12,South Melbourne,6,L,10,,,,,1,,,,,,,,,,,,,,,,,,,1918-04-05
+Essendon,1918,13,Collingwood,7,L,10,,,,,,,,,,,,,,,,,,,,,,,,1918-04-12

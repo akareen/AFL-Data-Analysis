@@ -1,0 +1,22 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+West Coast,2022,1,Geelong,14,L,33,4,6,3,7,,,,2,3,,,1,,1,,1,6,1,,,,,82,2022-05-31
+West Coast,2022,2,Essendon,15,W,33,8,6,3,11,,1,,2,3,1,,2,,,,3,7,,,1,,,89,2022-06-07
+West Coast,2022,3,Richmond,16,L,33,2,1,7,9,,,,,1,1,,1,,1,,1,8,,,3,,,86,2022-06-14
+West Coast,2022,4,Carlton,17,L,33,6,1,2,8,,,,3,2,,,3,1,,,2,5,,,1,,,85,2022-06-21
+West Coast,2022,5,Hawthorn,18,L,33,9,6,3,12,,,,,3,,,,,,,3,10,1,,5,,,83,2022-06-28
+West Coast,2022,6,St Kilda,19,L,33,8,4,8,16,,,,2,2,,,2,,,,4,13,,,2,,,82,2022-07-05
+West Coast,2022,7,Adelaide,21,L,33,,,,,,,,,,,,,,,,,,,,,,,,2022-07-19
+West Coast,2022,8,Fremantle,22,L,33,7,5,4,11,,,,1,4,,,1,,,,5,6,,,7,,,85,2022-07-26
+West Coast,2022,9,Geelong,23,L,33,13,9,2,15,,,,,4,3,,1,,,,3,12,1,,1,,,82,2022-08-02
+West Coast,2023,10↑,Port Adelaide,6,L,33,2,2,4,6,,,,,1,,,1,1,1,,2,4,,,,,,41,2023-04-05
+West Coast,2023,11↑,Carlton,7,L,33,1,,2,3,,,,,,,,1,,,,3,1,,,2,,,16,2023-04-12
+West Coast,2023,12,Hawthorn,10,L,33,2,1,3,5,,,,1,1,,,1,1,1,,3,2,,,1,,,82,2023-05-03
+West Coast,2023,13,Essendon,11,L,33,4,5,9,13,,,,2,,1,,2,,1,,4,9,,,1,,,86,2023-05-10
+West Coast,2023,14,Collingwood,12,L,33,5,3,8,13,,,,,2,2,,2,,1,,4,9,1,,6,,,84,2023-05-17
+West Coast,2023,15,Adelaide,13,L,33,6,6,6,12,,,,,2,,,7,,3,,6,7,2,,6,,,81,2023-05-24
+West Coast,2023,16,Sydney,15,L,33,2,1,4,6,,,,,2,,,1,,1,,,7,,,3,,,79,2023-06-07
+West Coast,2023,17,St Kilda,16,L,33,9,4,3,12,,,,2,3,2,,2,,2,,1,10,,,2,1,,79,2023-06-14
+West Coast,2023,18,Brisbane Lions,17,L,33,5,6,3,8,,,,1,1,,,1,2,1,,2,6,,,,,,80,2023-06-21
+West Coast,2023,19,Carlton,19,L,33,4,4,9,13,,,,,,,1,2,,,,6,7,1,,5,,,84,2023-07-05
+West Coast,2023,20↓,North Melbourne,20,W,33,1,2,3,4,,,,2,1,,,1,,1,,2,3,,,1,,,36,2023-07-12
+West Coast,2024,21,Geelong,25,L,33,4,3,2,6,,,,1,3,,,1,,1,,2,4,,,3,,,80,2024-08-16

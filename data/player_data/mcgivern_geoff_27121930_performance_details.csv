@@ -1,0 +1,106 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1950,1,Carlton,1,W,17,,,,,,,,,,,,,,,,,,,,,,,,1950-03-01
+Melbourne,1950,2,Richmond,2,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1950-03-08
+Melbourne,1950,3,North Melbourne,3,L,17,,,,,2,,,,,,,,,,,,,,,,,,,1950-03-15
+Melbourne,1950,4,Geelong,4,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1950-03-22
+Melbourne,1950,5,Footscray,5,W,17,,,,,2,,,,,,,,,,,,,,,,,,,1950-03-29
+Melbourne,1950,6,Fitzroy,6,W,17,,,,,,,,,,,,,,,,,,,,,,,,1950-04-05
+Melbourne,1950,7,Hawthorn,7,W,17,,,,,,,,,,,,,,,,,,,,,,,,1950-04-12
+Melbourne,1950,8,Collingwood,8,W,17,,,,,,,,,,,,,,,,,,,,,,,,1950-04-19
+Melbourne,1950,9,Essendon,10,L,17,,,,,,,,,,,,,,,,,,,,,,,,1950-05-03
+Melbourne,1950,10,St Kilda,11,W,17,,,,,,,,,,,,,,,,,,,,,,,,1950-05-10
+Melbourne,1950,11,Carlton,12,W,17,,,,,,,,,,,,,,,,,,,,,,,,1950-05-17
+Melbourne,1950,12,Richmond,13,W,17,,,,,3,,,,,,,,,,,,,,,,,,,1950-05-24
+Melbourne,1950,13,North Melbourne,14,L,17,,,,,,,,,,,,,,,,,,,,,,,,1950-05-31
+Melbourne,1950,14,Geelong,15,L,17,,,,,,,,,,,,,,,,,,,,,,,,1950-06-07
+Melbourne,1950,15,Footscray,16,W,17,,,,,,,,,,,,,,,,,,,,,,,,1950-06-14
+Melbourne,1950,16,Fitzroy,17,L,17,,,,,,,,,,,,,,,,,,,,,,,,1950-06-21
+Melbourne,1950,17,Hawthorn,18,W,17,,,,,2,,,,,,,,,,,,,,,,,,,1950-06-28
+Melbourne,1950,18,Geelong,SF,L,17,,,,,,,,,,,,,,,,,,,,,,,,1950-03-01
+Melbourne,1951,19,Essendon,1,L,17,,,,,,,,,,,,,,,,,,,,,,,,1951-03-01
+Melbourne,1951,20,Collingwood,2,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1951-03-08
+Melbourne,1951,21,Fitzroy,3,L,17,,,,,,,,,,,,,,,,,,,,,,,,1951-03-15
+Melbourne,1951,22,St Kilda,4,L,17,,,,,,,,,,,,,,,,,,,,,,,,1951-03-22
+Melbourne,1951,23,South Melbourne,5,L,17,,,,,,,,,,,,,,,,,,,,,,,,1951-03-29
+Melbourne,1951,24,Carlton,6,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1951-04-05
+Melbourne,1951,25,Richmond,7,L,17,,,,,,,,,,,,,,,,,,,,,,,,1951-04-12
+Melbourne,1951,26,North Melbourne,8,L,17,,,,,,,,,,,,,,,,,,,,,,,,1951-04-19
+Melbourne,1951,27,Geelong,10,L,17,,,,,,,,,,,,,,,,,,,,,,,,1951-05-03
+Melbourne,1951,28,Hawthorn,11,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1951-05-10
+Melbourne,1951,29,Collingwood,13,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1951-05-24
+Melbourne,1951,30,Fitzroy,14,L,17,,,,,,,,,,,,,,,,,,,,,,,,1951-05-31
+Melbourne,1952,31,Geelong,1,L,17,,,,,3,,,,,,,,,,,,,,,,,,,1952-03-01
+Melbourne,1952,32,St Kilda,2,W,17,,,,,,,,,,,,,,,,,,,,,,,,1952-03-08
+Melbourne,1952,33,Hawthorn,3,L,17,,,,,,,,,,,,,,,,,,,,,,,,1952-03-15
+Melbourne,1952,34,Footscray,4,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1952-03-22
+Melbourne,1952,35,South Melbourne,5,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1952-03-29
+Melbourne,1952,36,North Melbourne,6,W,17,,,,,,,,,,,,,,,,,,,,,,,,1952-04-05
+Melbourne,1952,37,Collingwood,7,W,17,,,,,,,,,,,,,,,,,,,,,,,,1952-04-12
+Melbourne,1952,38,Fitzroy,8,L,17,,,,,2,,,,,,,,,,,,,,,,,,,1952-04-19
+Melbourne,1952,39,Essendon,9,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1952-04-26
+Melbourne,1952,40,Richmond,10,W,17,,,,,,,,,,,,,,,,,,,,,,,,1952-05-03
+Melbourne,1952,41,Fitzroy,11,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1952-05-10
+Melbourne,1952,42,Carlton,12,D,17,,,,,1,,,,,,,,,,,,,,,,,,,1952-05-17
+Melbourne,1952,43,Geelong,13,L,17,,,,,,,,,,,,,,,,,,,,,,,,1952-05-24
+Melbourne,1952,44,St Kilda,14,W,17,,,,,,,,,,,,,,,,,,,,,,,,1952-05-31
+Melbourne,1952,45,Hawthorn,15,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1952-06-07
+Melbourne,1952,46,Footscray,16,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1952-06-14
+Melbourne,1952,47,South Melbourne,17,L,17,,,,,2,,,,,,,,,,,,,,,,,,,1952-06-21
+Melbourne,1952,48,North Melbourne,18,L,17,,,,,,,,,,,,,,,,,,,,,,,,1952-06-28
+Melbourne,1952,49,Collingwood,19,L,17,,,,,,,,,,,,,,,,,,,,,,,,1952-07-05
+Melbourne,1953,50,Richmond,1,L,17,,,,,,,,,,,,,,,,,,,,,,,,1953-03-01
+Melbourne,1953,51,Carlton,2,L,17,,,,,2,,,,,,,,,,,,,,,,,,,1953-03-08
+Melbourne,1953,52,North Melbourne,3,L,17,,,,,,,,,,,,,,,,,,,,,,,,1953-03-15
+Melbourne,1953,53,Footscray,4,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1953-03-22
+Melbourne,1953,54,Essendon,5,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1953-03-29
+Melbourne,1953,55,Fitzroy,6,L,17,,,,,2,,,,,,,,,,,,,,,,,,,1953-04-05
+Melbourne,1953,56,Geelong,7,L,17,,,,,,,,,,,,,,,,,,,,,,,,1953-04-12
+Melbourne,1953,57,South Melbourne,8,L,17,,,,,2,,,,,,,,,,,,,,,,,,,1953-04-19
+Melbourne,1953,58,Collingwood,9,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1953-04-26
+Melbourne,1953,59,Hawthorn,10,L,17,,,,,,,,,,,,,,,,,,,,,,,,1953-05-03
+Melbourne,1953,60,St Kilda,11,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1953-05-10
+Melbourne,1953,61,Richmond,12,D,17,,,,,,,,,,,,,,,,,,,,,,,,1953-05-17
+Melbourne,1953,62,Carlton,13,L,17,,,,,2,,,,,,,,,,,,,,,,,,,1953-05-24
+Melbourne,1953,63,North Melbourne,14,W,17,,,,,,,,,,,,,,,,,,,,,,,,1953-05-31
+Melbourne,1953,64,Footscray,15,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1953-06-07
+Melbourne,1953,65,Essendon,16,L,17,,,,,,,,,,,,,,,,,,,,,,,,1953-06-14
+Melbourne,1953,66,Fitzroy,17,W,17,,,,,,,,,,,,,,,,,,,,,,,,1953-06-21
+Melbourne,1953,67,Geelong,18,L,17,,,,,,,,,,,,,,,,,,,,,,,,1953-06-28
+Melbourne,1954,68,Collingwood,1,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1954-03-01
+Melbourne,1954,69,South Melbourne,7,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1954-04-12
+Melbourne,1954,70,Geelong,8,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1954-04-19
+Melbourne,1954,71,Essendon,9,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1954-04-26
+Melbourne,1954,72,Footscray,10,L,17,,,,,,,,,,,,,,,,,,,,,,,,1954-05-03
+Melbourne,1954,73,North Melbourne,11,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1954-05-10
+Melbourne,1954,74,Collingwood,12,L,17,,,,,,,,,,,,,,,,,,,,,,,,1954-05-17
+Melbourne,1954,75,Carlton,13,W,17,,,,,,,,,,,,,,,,,,,,,,,,1954-05-24
+Melbourne,1954,76,Hawthorn,14,W,17,,,,,2,,,,,,,,,,,,,,,,,,,1954-05-31
+Melbourne,1954,77,Fitzroy,15,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1954-06-07
+Melbourne,1954,78,Richmond,16,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1954-06-14
+Melbourne,1954,79,St Kilda,17,W,17,,,,,,,,,,,,,,,,,,,,,,,,1954-06-21
+Melbourne,1954,80,South Melbourne,18,W,17,,,,,2,,,,,,,,,,,,,,,,,,,1954-06-28
+Melbourne,1954,81,North Melbourne,SF,W,17,,,,,,,,,,,,,,,,,,,,,,,,1954-03-01
+Melbourne,1954,82,Geelong,PF,W,17,,,,,,,,,,,,,,,,,,,,,,,,1954-03-01
+Melbourne,1954,83,Footscray,GF,L,17,,,,,,,,,,,,,,,,,,,,,,,,1954-03-01
+Melbourne,1955,84,St Kilda,12,W,17,,,,,,,,,,,,,,,,,,,,,,,,1955-05-17
+Melbourne,1955,85,Geelong,13,L,17,,,,,,,,,,,,,,,,,,,,,,,,1955-05-24
+Melbourne,1955,86,Footscray,14,L,17,,,,,,,,,,,,,,,,,,,,,,,,1955-05-31
+Melbourne,1955,87,North Melbourne,15,W,17,,,,,,,,,,,,,,,,,,,,,,,,1955-06-07
+Melbourne,1955,88,Essendon,16,W,17,,,,,,,,,,,,,,,,,,,,,,,,1955-06-14
+Melbourne,1955,89,Hawthorn,17,W,17,,,,,,,,,,,,,,,,,,,,,,,,1955-06-21
+Melbourne,1955,90,South Melbourne,18,W,17,,,,,,,,,,,,,,,,,,,,,,,,1955-06-28
+Melbourne,1955,91,Collingwood,SF,W,17,,,,,,,,,,,,,,,,,,,,,,,,1955-03-01
+Melbourne,1955,92,Collingwood,GF,W,17,,,,,,,,,,,,,,,,,,,,,,,,1955-03-01
+Melbourne,1956,93,Richmond,1,W,17,,,,,,,,,,,,,,,,,,,,,,,,1956-03-01
+Melbourne,1956,94,Carlton,2,W,17,,,,,,,,,,,,,,,,,,,,,,,,1956-03-08
+Melbourne,1956,95,Footscray,3,W,17,,,,,,,,,,,,,,,,,,,,,,,,1956-03-15
+Melbourne,1956,96,Fitzroy,4,W,17,,,,,,,,,,,,,,,,,,,,,,,,1956-03-22
+Melbourne,1956,97,Collingwood,7,W,17,,,,,,,,,,,,,,,,,,,,,,,,1956-04-12
+Melbourne,1956,98,St Kilda,8,W,17,,,,,,,,,,,,,,,,,,,,,,,,1956-04-19
+Melbourne,1956,99,South Melbourne,10,W,17,,,,,,,,,,,,,,,,,,,,,,,,1956-05-03
+Melbourne,1956,100,Richmond,12,W,17,,,,,,,,,,,,,,,,,,,,,,,,1956-05-17
+Melbourne,1956,101,Carlton,13,W,17,,,,,,,,,,,,,,,,,,,,,,,,1956-05-24
+Melbourne,1956,102,Footscray,14,L,17,,,,,,,,,,,,,,,,,,,,,,,,1956-05-31
+Melbourne,1956,103,Fitzroy,15,W,17,,,,,,,,,,,,,,,,,,,,,,,,1956-06-07
+Melbourne,1956,104,Collingwood,18,W,17,,,,,,,,,,,,,,,,,,,,,,,,1956-06-28
+Melbourne,1956,105,Collingwood,SF,W,17,,,,,,,,,,,,,,,,,,,,,,,,1956-03-01

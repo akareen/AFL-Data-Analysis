@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1943,1,Collingwood,9,W,7,,,,,3,,,,,,,,,,,,,,,,,,,1943-04-26
+Fitzroy,1943,2,St Kilda,10,W,7,,,,,2,,,,,,,,,,,,,,,,,,,1943-05-03
+Fitzroy,1944,3,Footscray,5,L,19,,,,,,,,,,,,,,,,,,,,,,,,1944-03-29
+Fitzroy,1944,4,South Melbourne,6,W,19,,,,,,,,,,,,,,,,,,,,,,,,1944-04-05
+Fitzroy,1944,5,Melbourne,8,W,19,,,,,,,,,,,,,,,,,,,,,,,,1944-04-19
+Fitzroy,1944,6,Essendon,9,D,19,,,,,,,,,,,,,,,,,,,,,,,,1944-04-26
+Fitzroy,1944,7,Carlton,10,L,19,,,,,,,,,,,,,,,,,,,,,,,,1944-05-03
+Fitzroy,1944,8,Geelong,11,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1944-05-10
+Fitzroy,1944,9,St Kilda,12,L,19,,,,,,,,,,,,,,,,,,,,,,,,1944-05-17

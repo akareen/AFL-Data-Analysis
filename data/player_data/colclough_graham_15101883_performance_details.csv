@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1901,1,South Melbourne,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1901-03-08
+Melbourne,1901,2,St Kilda,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1901-03-15
+Melbourne,1901,3,Essendon,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1901-03-29
+Melbourne,1901,4,Carlton,6,W,,,,,,3,,,,,,,,,,,,,,,,,,,1901-04-05
+Melbourne,1901,5,Fitzroy,7,D,,,,,,,,,,,,,,,,,,,,,,,,,1901-04-12
+Melbourne,1901,6,South Melbourne,9,W,,,,,,2,,,,,,,,,,,,,,,,,,,1901-04-26
+Melbourne,1901,7,Collingwood,11,W,,,,,,1,,,,,,,,,,,,,,,,,,,1901-05-10
+Melbourne,1901,8,Essendon,12,W,,,,,,1,,,,,,,,,,,,,,,,,,,1901-05-17
+Melbourne,1901,9,Carlton,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1901-05-24
+Melbourne,1901,10,Fitzroy,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1901-05-31
+Melbourne,1901,11,Fitzroy,17,L,,,,,,1,,,,,,,,,,,,,,,,,,,1901-06-21

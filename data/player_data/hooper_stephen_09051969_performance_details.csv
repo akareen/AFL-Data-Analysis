@@ -1,0 +1,22 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1991,1,St Kilda,2,W,10,5,1,5,10,,1,4,,,,,,,,,,,,,,,,,1991-03-08
+Geelong,1991,2,Footscray,3,W,10,5,2,2,7,,1,5,1,,,,,1,2,,,,,,,,,,1991-03-15
+Geelong,1991,3,Brisbane Bears,4,W,10,2,2,2,4,,,5,1,,,,,,1,,,,,,,,,,1991-03-22
+Geelong,1991,4,Carlton,5,W,10,1,,3,4,,,5,2,,,,,1,,,,,,,,,,,1991-03-29
+Geelong,1991,5,West Coast,6,L,10,2,4,3,5,,,10,,,,,,1,,,,,,,,,,,1991-04-05
+Geelong,1991,6,Sydney,7,L,10,2,1,2,4,,,4,1,,,,,1,1,,,,,,,,,,1991-04-12
+Geelong,1991,7,St Kilda,17,W,10,2,2,5,7,,,6,2,,,,,1,2,,,,,,,,,,1991-06-21
+Geelong,1991,8,Footscray,18,W,10,7,5,11,18,,,18,2,,,,,2,1,,,,,,,,,,1991-06-28
+Geelong,1991,9,Brisbane Bears,19,W,10,3,3,1,4,,,4,1,,,,,,,,,,,,,,,,1991-07-05
+Geelong,1991,10,Carlton,20,L,10,3,,3,6,,,8,2,,,,,1,,,,,,,,,,,1991-07-12
+Geelong,1991,11,West Coast,21,L,10,8,7,9,17,,,38,2,,,,,,2,,,,,,,,,,1991-07-19
+Geelong,1991,12,Sydney,22,W,10,1,1,5,6,,,20,4,,,,,,1,,,,,,,,,,1991-07-26
+Geelong,1991,13,St Kilda,EF,W,10,4,3,10,14,,,21,1,,,,,2,,,,,,,,,,,1991-03-01
+Geelong,1991,14,West Coast,PF,L,10,5,5,3,8,,,10,1,,,,,,1,,,,,,,,,,1991-03-01
+Geelong,1993,15,North Melbourne,3,L,10,3,,3,6,,,12,1,,,,,2,2,,,,,,,,,,1993-03-15
+Geelong,1993,16,Hawthorn,4,W,10,,1,4,4,,,7,,,,,,,3,,,,,,,,,,1993-03-22
+Geelong,1993,17,Essendon,6,L,10,,2,3,3,,,3,2,,,,,,,,,,,,,,,,1993-04-05
+Geelong,1993,18,Fitzroy,12,W,10,2,3,4,6,,,11,1,,,,,2,1,,,,,,,,,,1993-05-17
+Geelong,1993,19,Adelaide,13,L,10,2,3,5,7,,,6,4,,,,,1,3,,,,,,,,,,1993-05-24
+Geelong,1993,20,Footscray,14,W,10,2,1,3,5,,,3,,,,,,1,3,,,,,,,,,,1993-05-31
+Geelong,1993,21,Melbourne,15,L,10,,1,2,2,,,,,,,,,,2,,,,,,,,,,1993-06-07

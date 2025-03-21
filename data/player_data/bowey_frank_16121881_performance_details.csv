@@ -1,0 +1,45 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1901,1,Melbourne,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1901-03-01
+Geelong,1901,2,Carlton,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1901-03-15
+Geelong,1901,3,South Melbourne,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1901-06-14
+Geelong,1901,4,Essendon,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1901-06-21
+Geelong,1901,5,Collingwood,SF,L,,,,,,,,,,,,,,,,,,,,,,,,,1901-03-01
+Geelong,1902,6,Carlton,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-01
+Geelong,1902,7,Essendon,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-08
+Geelong,1902,8,Collingwood,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-15
+Geelong,1902,9,St Kilda,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-22
+Geelong,1902,10,South Melbourne,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-29
+Geelong,1902,11,Carlton,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-04-19
+Geelong,1902,12,Essendon,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-04-26
+Geelong,1902,13,Collingwood,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-03
+Geelong,1902,14,St Kilda,11,W,,,,,,1,,,,,,,,,,,,,,,,,,,1902-05-10
+Geelong,1903,15,St Kilda,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-01
+Geelong,1903,16,Melbourne,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-15
+Geelong,1903,17,South Melbourne,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-22
+Geelong,1903,18,Essendon,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-29
+Geelong,1903,19,Collingwood,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-05
+Geelong,1903,20,Fitzroy,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-12
+Geelong,1903,21,St Kilda,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-19
+Geelong,1903,22,Carlton,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-26
+Geelong,1903,23,Melbourne,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-03
+Geelong,1903,24,South Melbourne,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-10
+Geelong,1903,25,Essendon,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-17
+Geelong,1903,26,Collingwood,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-24
+Geelong,1903,27,Carlton,2,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-08
+Geelong,1903,28,Fitzroy,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-31
+Geelong,1903,29,South Melbourne,15,W,,,,,,1,,,,,,,,,,,,,,,,,,,1903-06-07
+Geelong,1903,30,Essendon,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-14
+Geelong,1903,31,Fitzroy,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-21
+Geelong,1903,32,Fitzroy,SF,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-01
+Geelong,1904,33,St Kilda,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-03-29
+Geelong,1904,34,Collingwood,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-04-19
+Geelong,1904,35,Essendon,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-04-26
+Geelong,1904,36,Carlton,10,D,,,,,,,,,,,,,,,,,,,,,,,,,1904-05-03
+Geelong,1904,37,South Melbourne,11,L,,,,,,2,,,,,,,,,,,,,,,,,,,1904-05-10
+Geelong,1904,38,St Kilda,12,W,,,,,,1,,,,,,,,,,,,,,,,,,,1904-05-17
+Geelong,1904,39,Fitzroy,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-05-24
+Geelong,1904,40,Melbourne,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-05-31
+Geelong,1904,41,Essendon,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-06-07
+Geelong,1904,42,Fitzroy,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-06-14
+Geelong,1904,43,South Melbourne,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-06-21
+Geelong,1909,44,Collingwood,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-19

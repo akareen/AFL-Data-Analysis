@@ -1,0 +1,20 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1945,1,Fitzroy,6,L,33,,,,,1,,,,,,,,,,,,,,,,,,,1945-04-05
+St Kilda,1945,2,Collingwood,7,L,33,,,,,,,,,,,,,,,,,,,,,,,,1945-04-12
+St Kilda,1945,3,Richmond,8,L,33,,,,,,,,,,,,,,,,,,,,,,,,1945-04-19
+St Kilda,1945,4,Footscray,10,L,33,,,,,,,,,,,,,,,,,,,,,,,,1945-05-03
+St Kilda,1945,5,North Melbourne,11,L,33,,,,,,,,,,,,,,,,,,,,,,,,1945-05-10
+St Kilda,1945,6,South Melbourne,12,L,33,,,,,,,,,,,,,,,,,,,,,,,,1945-05-17
+St Kilda,1945,7,Melbourne,13,L,33,,,,,,,,,,,,,,,,,,,,,,,,1945-05-24
+St Kilda,1946,8,North Melbourne,1,L,33,,,,,,,,,,,,,,,,,,,,,,,,1946-03-01
+St Kilda,1946,9,Footscray,2,L,33,,,,,,,,,,,,,,,,,,,,,,,,1946-03-08
+St Kilda,1946,10,Carlton,6,L,33,,,,,,,,,,,,,,,,,,,,,,,,1946-04-05
+St Kilda,1946,11,North Melbourne,12,L,33,,,,,,,,,,,,,,,,,,,,,,,,1946-05-17
+St Kilda,1946,12,Footscray,13,W,33,,,,,,,,,,,,,,,,,,,,,,,,1946-05-24
+St Kilda,1946,13,Richmond,14,L,33,,,,,,,,,,,,,,,,,,,,,,,,1946-05-31
+St Kilda,1946,14,Collingwood,15,L,33,,,,,,,,,,,,,,,,,,,,,,,,1946-06-07
+St Kilda,1946,15,Geelong,16,W,33,,,,,1,,,,,,,,,,,,,,,,,,,1946-06-14
+St Kilda,1946,16,Carlton,17,L,33,,,,,,,,,,,,,,,,,,,,,,,,1946-06-21
+St Kilda,1946,17,Essendon,18,L,33,,,,,,,,,,,,,,,,,,,,,,,,1946-06-28
+St Kilda,1946,18,South Melbourne,19,L,33,,,,,,,,,,,,,,,,,,,,,,,,1946-07-05
+St Kilda,1947,19,Footscray,1,L,19,,,,,,,,,,,,,,,,,,,,,,,,1947-03-01

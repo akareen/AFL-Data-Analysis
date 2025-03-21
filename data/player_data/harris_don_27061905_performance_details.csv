@@ -1,0 +1,97 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1926,1,Geelong,6,L,2,,,,,,,,,,,,,,,,,,,,,,,,1926-04-05
+Richmond,1926,2,North Melbourne,7,W,2,,,,,,,,,,,,,,,,,,,,,,,,1926-04-12
+Richmond,1926,3,St Kilda,8,W,2,,,,,1,,,,,,,,,,,,,,,,,,,1926-04-19
+Richmond,1926,4,Footscray,9,W,2,,,,,,,,,,,,,,,,,,,,,,,,1926-04-26
+Richmond,1926,5,South Melbourne,12,L,2,,,,,,,,,,,,,,,,,,,,,,,,1926-05-17
+Richmond,1926,6,Fitzroy,13,W,2,,,,,,,,,,,,,,,,,,,,,,,,1926-05-24
+Richmond,1926,7,Essendon,14,L,2,,,,,,,,,,,,,,,,,,,,,,,,1926-05-31
+Richmond,1926,8,Hawthorn,15,W,2,,,,,1,,,,,,,,,,,,,,,,,,,1926-06-07
+Richmond,1926,9,Melbourne,16,L,2,,,,,,,,,,,,,,,,,,,,,,,,1926-06-14
+Richmond,1926,10,Geelong,17,L,2,,,,,,,,,,,,,,,,,,,,,,,,1926-06-21
+Richmond,1927,11,Melbourne,1,L,2,,,,,,,,,,,,,,,,,,,,,,,,1927-03-01
+Richmond,1927,12,St Kilda,2,W,2,,,,,,,,,,,,,,,,,,,,,,,,1927-03-08
+Richmond,1927,13,Collingwood,3,W,2,,,,,,,,,,,,,,,,,,,,,,,,1927-03-15
+Richmond,1927,14,Footscray,4,W,2,,,,,,,,,,,,,,,,,,,,,,,,1927-03-22
+Richmond,1927,15,North Melbourne,5,W,2,,,,,,,,,,,,,,,,,,,,,,,,1927-03-29
+Richmond,1927,16,Carlton,6,L,2,,,,,,,,,,,,,,,,,,,,,,,,1927-04-05
+Richmond,1927,17,South Melbourne,7,W,2,,,,,,,,,,,,,,,,,,,,,,,,1927-04-12
+Richmond,1927,18,Essendon,8,W,2,,,,,,,,,,,,,,,,,,,,,,,,1927-04-19
+Richmond,1927,19,Hawthorn,9,W,2,,,,,,,,,,,,,,,,,,,,,,,,1927-04-26
+Richmond,1927,20,Geelong,10,W,2,,,,,,,,,,,,,,,,,,,,,,,,1927-05-03
+Richmond,1927,21,Fitzroy,11,W,2,,,,,,,,,,,,,,,,,,,,,,,,1927-05-10
+Richmond,1927,22,Melbourne,12,W,2,,,,,,,,,,,,,,,,,,,,,,,,1927-05-17
+Richmond,1927,23,St Kilda,13,W,2,,,,,,,,,,,,,,,,,,,,,,,,1927-05-24
+Richmond,1927,24,Collingwood,14,L,2,,,,,,,,,,,,,,,,,,,,,,,,1927-05-31
+Richmond,1927,25,Footscray,15,W,2,,,,,,,,,,,,,,,,,,,,,,,,1927-06-07
+Richmond,1927,26,North Melbourne,16,W,2,,,,,,,,,,,,,,,,,,,,,,,,1927-06-14
+Richmond,1927,27,Carlton,17,L,2,,,,,,,,,,,,,,,,,,,,,,,,1927-06-21
+Richmond,1927,28,Hawthorn,18,W,2,,,,,,,,,,,,,,,,,,,,,,,,1927-06-28
+Richmond,1927,29,Carlton,SF,W,2,,,,,,,,,,,,,,,,,,,,,,,,1927-03-01
+Richmond,1927,30,Collingwood,GF,L,2,,,,,,,,,,,,,,,,,,,,,,,,1927-03-01
+Richmond,1928,31,North Melbourne,1,W,2,,,,,,,,,,,,,,,,,,,,,,,,1928-03-01
+Richmond,1928,32,Melbourne,4,L,2,,,,,,,,,,,,,,,,,,,,,,,,1928-03-22
+Richmond,1928,33,Footscray,5,W,2,,,,,,,,,,,,,,,,,,,,,,,,1928-03-29
+Richmond,1928,34,Essendon,6,L,2,,,,,,,,,,,,,,,,,,,,,,,,1928-04-05
+Richmond,1928,35,Geelong,7,W,2,,,,,,,,,,,,,,,,,,,,,,,,1928-04-12
+Richmond,1928,36,Fitzroy,8,W,2,,,,,,,,,,,,,,,,,,,,,,,,1928-04-19
+Richmond,1928,37,South Melbourne,9,W,2,,,,,,,,,,,,,,,,,,,,,,,,1928-04-26
+Richmond,1928,38,Hawthorn,10,W,2,,,,,,,,,,,,,,,,,,,,,,,,1928-05-03
+Richmond,1928,39,St Kilda,11,W,2,,,,,,,,,,,,,,,,,,,,,,,,1928-05-10
+Richmond,1928,40,North Melbourne,12,W,2,,,,,,,,,,,,,,,,,,,,,,,,1928-05-17
+Richmond,1928,41,Carlton,13,W,2,,,,,,,,,,,,,,,,,,,,,,,,1928-05-24
+Richmond,1928,42,Collingwood,14,L,2,,,,,,,,,,,,,,,,,,,,,,,,1928-05-31
+Richmond,1928,43,Melbourne,15,W,2,,,,,,,,,,,,,,,,,,,,,,,,1928-06-07
+Richmond,1928,44,Footscray,16,W,2,,,,,1,,,,,,,,,,,,,,,,,,,1928-06-14
+Richmond,1928,45,Essendon,17,W,2,,,,,,,,,,,,,,,,,,,,,,,,1928-06-21
+Richmond,1928,46,Geelong,18,W,2,,,,,,,,,,,,,,,,,,,,,,,,1928-06-28
+Richmond,1928,47,Carlton,SF,W,2,,,,,,,,,,,,,,,,,,,,,,,,1928-03-01
+Richmond,1928,48,Collingwood,GF,L,2,,,,,,,,,,,,,,,,,,,,,,,,1928-03-01
+Richmond,1929,49,Geelong,7,W,2,,,,,,,,,,,,,,,,,,,,,,,,1929-04-12
+Richmond,1929,50,Fitzroy,8,W,2,,,,,,,,,,,,,,,,,,,,,,,,1929-04-19
+Richmond,1929,51,North Melbourne,9,W,2,,,,,,,,,,,,,,,,,,,,,,,,1929-04-26
+Richmond,1929,52,Melbourne,10,L,2,,,,,,,,,,,,,,,,,,,,,,,,1929-05-03
+Richmond,1929,53,St Kilda,11,W,2,,,,,,,,,,,,,,,,,,,,,,,,1929-05-10
+Richmond,1929,54,Collingwood,12,L,2,,,,,,,,,,,,,,,,,,,,,,,,1929-05-17
+Richmond,1929,55,Carlton,13,W,2,,,,,,,,,,,,,,,,,,,,,,,,1929-05-24
+Richmond,1929,56,Essendon,14,D,2,,,,,,,,,,,,,,,,,,,,,,,,1929-05-31
+Richmond,1929,57,Carlton,PF,W,2,,,,,,,,,,,,,,,,,,,,,,,,1929-03-01
+Richmond,1929,58,Collingwood,GF,L,2,,,,,,,,,,,,,,,,,,,,,,,,1929-03-01
+Richmond,1930,59,Collingwood,1,L,2,,,,,,,,,,,,,,,,,,,,,,,,1930-03-01
+Richmond,1930,60,Essendon,3,L,2,,,,,,,,,,,,,,,,,,,,,,,,1930-03-15
+Richmond,1930,61,Footscray,4,W,2,,,,,,,,,,,,,,,,,,,,,,,,1930-03-22
+Richmond,1930,62,Hawthorn,5,W,2,,,,,2,,,,,,,,,,,,,,,,,,,1930-03-29
+Richmond,1930,63,South Melbourne,6,W,2,,,,,,,,,,,,,,,,,,,,,,,,1930-04-05
+Richmond,1930,64,Geelong,14,L,2,,,,,,,,,,,,,,,,,,,,,,,,1930-05-31
+Collingwood,1931,65,Hawthorn,2,W,3,,,,,2,,,,,,,,,,,,,,,,,,,1931-03-08
+Collingwood,1931,66,South Melbourne,3,W,3,,,,,,,,,,,,,,,,,,,,,,,,1931-03-15
+Collingwood,1931,67,Carlton,5,L,3,,,,,,,,,,,,,,,,,,,,,,,,1931-03-29
+Collingwood,1931,68,St Kilda,6,W,3,,,,,,,,,,,,,,,,,,,,,,,,1931-04-05
+Collingwood,1931,69,Melbourne,7,W,3,,,,,,,,,,,,,,,,,,,,,,,,1931-04-12
+Collingwood,1931,70,North Melbourne,8,W,3,,,,,,,,,,,,,,,,,,,,,,,,1931-04-19
+Collingwood,1931,71,Footscray,9,W,3,,,,,,,,,,,,,,,,,,,,,,,,1931-04-26
+Collingwood,1931,72,Essendon,10,L,3,,,,,,,,,,,,,,,2,,,,,,,,,1931-05-03
+Collingwood,1931,73,Fitzroy,11,W,3,,,,,,,,,,,,,,,1,,,,,,,,,1931-05-10
+Collingwood,1931,74,Geelong,12,L,3,,,,,,,,,,,,,,,2,,,,,,,,,1931-05-17
+Collingwood,1931,75,Richmond,15,L,3,,,,,,,,,,,,,,,,,,,,,,,,1931-06-07
+Collingwood,1931,76,Carlton,16,W,3,,,,,,,,,,,,,,,,,,,,,,,,1931-06-14
+Collingwood,1931,77,St Kilda,17,L,3,,,,,,,,,,,,,,,,,,,,,,,,1931-06-21
+Collingwood,1931,78,Melbourne,18,W,3,,,,,,,,,,,,,,,,,,,,,,,,1931-06-28
+Collingwood,1931,79,Carlton,SF,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1931-03-01
+Collingwood,1932,80,Fitzroy,4,W,12,,,,,,,,,,,,,,,,,,,,,,,,1932-03-22
+Collingwood,1932,81,Carlton,5,L,12,,,,,,,,,,,,,,,,,,,,,,,,1932-03-29
+Collingwood,1932,82,Footscray,6,W,12,,,,,,,,,,,,,,,2,,,,,,,,,1932-04-05
+Collingwood,1932,83,Melbourne,7,W,12,,,,,,,,,,,,,,,,,,,,,,,,1932-04-12
+Collingwood,1932,84,St Kilda,8,W,12,,,,,,,,,,,,,,,,,,,,,,,,1932-04-19
+Collingwood,1932,85,North Melbourne,9,W,12,,,,,,,,,,,,,,,,,,,,,,,,1932-04-26
+Collingwood,1932,86,Richmond,10,W,12,,,,,,,,,,,,,,,,,,,,,,,,1932-05-03
+Collingwood,1932,87,South Melbourne,11,W,12,,,,,,,,,,,,,,,,,,,,,,,,1932-05-10
+Collingwood,1932,88,Hawthorn,12,W,12,,,,,,,,,,,,,,,,,,,,,,,,1932-05-17
+Collingwood,1932,89,Geelong,13,L,12,,,,,,,,,,,,,,,3,,,,,,,,,1932-05-24
+Collingwood,1932,90,Essendon,14,W,12,,,,,,,,,,,,,,,,,,,,,,,,1932-05-31
+Collingwood,1932,91,Fitzroy,15,W,12,,,,,,,,,,,,,,,,,,,,,,,,1932-06-07
+Collingwood,1932,92,Carlton,16,L,12,,,,,,,,,,,,,,,,,,,,,,,,1932-06-14
+Collingwood,1932,93,Footscray,17,W,12,,,,,,,,,,,,,,,,,,,,,,,,1932-06-21
+Collingwood,1932,94,Melbourne,18,W,12,,,,,,,,,,,,,,,2,,,,,,,,,1932-06-28
+Collingwood,1932,95,South Melbourne,SF,W,12,,,,,,,,,,,,,,,,,,,,,,,,1932-03-01
+Collingwood,1932,96,Carlton,PF,L,12,,,,,,,,,,,,,,,,,,,,,,,,1932-03-01

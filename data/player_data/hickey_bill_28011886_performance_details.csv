@@ -1,0 +1,21 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1911,1,St Kilda,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-29
+Melbourne,1911,2,Collingwood,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-05
+Melbourne,1911,3,Richmond,7,L,,,,,,1,,,,,,,,,,,,,,,,,,,1911-04-12
+Melbourne,1911,4,University,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-19
+Melbourne,1911,5,Carlton,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-26
+Melbourne,1911,6,Fitzroy,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-03
+Melbourne,1911,7,Geelong,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-10
+Melbourne,1911,8,Essendon,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-17
+Melbourne,1911,9,South Melbourne,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-24
+Melbourne,1911,10,St Kilda,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-31
+Melbourne,1911,11,Collingwood,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-07
+Melbourne,1911,12,Richmond,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-14
+Melbourne,1911,13,University,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-21
+Melbourne,1911,14,Carlton,18,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-28
+Melbourne,1912,15,Collingwood,1,W,7,,,,,,,,,,,,,,,,,,,,,,,,1912-03-01
+Melbourne,1912,16,University,2,W,7,,,,,,,,,,,,,,,,,,,,,,,,1912-03-08
+Melbourne,1912,17,South Melbourne,3,L,7,,,,,,,,,,,,,,,,,,,,,,,,1912-03-15
+Melbourne,1912,18,Carlton,5,W,7,,,,,,,,,,,,,,,,,,,,,,,,1912-03-29
+Melbourne,1912,19,Fitzroy,6,L,7,,,,,,,,,,,,,,,,,,,,,,,,1912-04-05
+Melbourne,1912,20,St Kilda,9,W,7,,,,,,,,,,,,,,,,,,,,,,,,1912-04-26

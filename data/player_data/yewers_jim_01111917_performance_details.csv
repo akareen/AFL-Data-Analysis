@@ -1,0 +1,23 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1939,1,Hawthorn,1,W,14,,,,,4,,,,,,,,,,,,,,,,,,,1939-03-01
+St Kilda,1939,2,Fitzroy,2,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1939-03-08
+St Kilda,1939,3,Melbourne,3,L,14,,,,,1,,,,,,,,,,,,,,,,,,,1939-03-15
+St Kilda,1939,4,Collingwood,4,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1939-03-22
+St Kilda,1939,5,Essendon,5,L,14,,,,,1,,,,,,,,,,,,,,,,,,,1939-03-29
+St Kilda,1939,6,Geelong,6,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1939-04-05
+St Kilda,1939,7,South Melbourne,7,W,14,,,,,,,,,,,,,,,,,,,,,,,,1939-04-12
+St Kilda,1939,8,North Melbourne,8,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1939-04-19
+St Kilda,1939,9,Footscray,9,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1939-04-26
+St Kilda,1939,10,Carlton,10,W,14,,,,,,,,,,,,,,,,,,,,,,,,1939-05-03
+St Kilda,1939,11,Melbourne,14,L,14,,,,,,,,,,,,,,,,,,,,,,,,1939-05-31
+St Kilda,1939,12,Collingwood,15,L,14,,,,,,,,,,,,,,,,,,,,,,,,1939-06-07
+St Kilda,1939,13,Essendon,16,L,14,,,,,,,,,,,,,,,,,,,,,,,,1939-06-14
+St Kilda,1939,14,Richmond,SF,W,14,,,,,,,,,,,,,,,,,,,,,,,,1939-03-01
+St Kilda,1940,15,Fitzroy,1,L,14,,,,,,,,,,,,,,,,,,,,,,,,1940-03-01
+St Kilda,1940,16,Hawthorn,2,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1940-03-08
+St Kilda,1940,17,North Melbourne,3,W,14,,,,,,,,,,,,,,,,,,,,,,,,1940-03-15
+St Kilda,1940,18,Footscray,4,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1940-03-22
+St Kilda,1940,19,Carlton,5,L,14,,,,,,,,,,,,,,,,,,,,,,,,1940-03-29
+St Kilda,1940,20,Melbourne,9,L,14,,,,,1,,,,,,,,,,,,,,,,,,,1940-04-26
+St Kilda,1940,21,Geelong,11,L,14,,,,,1,,,,,,,,,,,,,,,,,,,1940-05-10
+St Kilda,1942,22,Fitzroy,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1942-05-17

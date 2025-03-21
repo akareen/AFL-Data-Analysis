@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1968,1,Fitzroy,1,W,27,13,3,1,14,,,,,,,,,2,5,,,,,,,,,,1968-03-01
+Melbourne,1968,2,St Kilda,2,L,27,5,,,5,,,,,,,,,3,3,,,,,,,,,,1968-03-08
+Melbourne,1968,3,Carlton,11,L,27,1,,,1,,,,,,,,,,1,,,,,,,,,,1968-05-10
+Melbourne,1968,4,South Melbourne,14,L,27,,,,,,,,,,,,,,,,,,,,,,,,1968-05-31
+Melbourne,1968,5,North Melbourne,15,W,27,,,,,,,,,,,,,,,,,,,,,,,,1968-06-07
+Melbourne,1969,6,Collingwood,3,L,27,10,2,1,11,,1,,,,,,,1,2,,,,,,,,,,1969-03-15
+Melbourne,1969,7,Fitzroy,8,W,27,2,,,2,,,,,,,,,,1,,,,,,,,,,1969-04-19
+Melbourne,1970,8,Collingwood,16,L,27,6,1,1,7,,1,,,,,,,1,,,,,,,,,,,1970-06-14
+Melbourne,1970,9,Essendon,17,L,27,6,1,3,9,,,,,,,,,1,1,,,,,,,,,,1970-06-21

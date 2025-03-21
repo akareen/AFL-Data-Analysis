@@ -1,0 +1,29 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1903,1,Fitzroy,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-07
+Essendon,1903,2,Geelong,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-14
+Essendon,1903,3,South Melbourne,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-21
+Essendon,1904,4,Melbourne,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-03-22
+Essendon,1904,5,Geelong,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-04-26
+Essendon,1904,6,Carlton,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-05-31
+Essendon,1904,7,Geelong,15,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-06-07
+Essendon,1904,8,South Melbourne,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-06-14
+Essendon,1904,9,Fitzroy,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-06-21
+Essendon,1904,10,Carlton,SF,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-03-01
+Essendon,1905,11,Carlton,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-01
+Essendon,1905,12,Geelong,2,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-08
+Essendon,1905,13,Melbourne,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-15
+Essendon,1905,14,South Melbourne,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-22
+Essendon,1905,15,St Kilda,5,W,,,,,,1,,,,,,,,,,,,,,,,,,,1905-03-29
+Essendon,1905,16,Fitzroy,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-04-05
+Essendon,1905,17,Collingwood,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-04-12
+Essendon,1905,18,Carlton,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-04-19
+Essendon,1905,19,Geelong,9,L,,,,,,1,,,,,,,,,,,,,,,,,,,1905-04-26
+Essendon,1905,20,Melbourne,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-05-03
+Essendon,1905,21,South Melbourne,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-05-10
+Essendon,1905,22,Fitzroy,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-05-24
+Essendon,1905,23,Collingwood,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-05-31
+Essendon,1905,24,Geelong,15,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-06-07
+Essendon,1905,25,St Kilda,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-06-14
+Essendon,1905,26,Fitzroy,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-06-21
+Essendon,1905,27,Fitzroy,SF,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-01
+Essendon,1906,28,Melbourne,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-03

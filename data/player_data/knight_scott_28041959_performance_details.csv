@@ -1,0 +1,6 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1984,1,Fitzroy,9,W,26,4,2,2,6,2,1,1,,,,,,1,,,,,,,,,,,1984-04-26
+Collingwood,1984,2,Footscray,10,L,26,6,2,6,12,,,1,,,,,,1,1,,,,,,,,,,1984-05-03
+Collingwood,1984,3,Hawthorn,11,L,26,9,5,,9,,3,2,,,,,,4,2,,,,,,,,,,1984-05-10
+Collingwood,1984,4,St Kilda,12,W,26,2,,,2,,,3,,,,,,,3,,,,,,,,,,1984-05-17
+Collingwood,1984,5,Essendon,13,L,26,,,,,,,,,,,,,,,,,,,,,,,,1984-05-24

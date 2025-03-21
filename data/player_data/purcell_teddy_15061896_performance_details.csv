@@ -1,0 +1,18 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1916,1,Carlton,1,W,6,,,,,,,,,,,,,,,,,,,,,,,,1916-03-01
+Fitzroy,1916,2,Richmond,2,W,6,,,,,,,,,,,,,,,,,,,,,,,,1916-03-08
+Fitzroy,1916,3,Collingwood,3,D,6,,,,,,,,,,,,,,,,,,,,,,,,1916-03-15
+Fitzroy,1916,4,Carlton,4,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1916-03-22
+Fitzroy,1916,5,Collingwood,6,L,6,,,,,,,,,,,,,,,,,,,,,,,,1916-04-05
+Fitzroy,1916,6,Richmond,8,L,6,,,,,,,,,,,,,,,,,,,,,,,,1916-04-19
+Fitzroy,1916,7,Collingwood,9,L,6,,,,,,,,,,,,,,,,,,,,,,,,1916-04-26
+Fitzroy,1916,8,Richmond,11,L,6,,,,,,,,,,,,,,,,,,,,,,,,1916-05-10
+Fitzroy,1916,9,Collingwood,12,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1916-05-17
+Fitzroy,1916,10,Collingwood,SF,W,6,,,,,,,,,,,,,,,,,,,,,,,,1916-03-01
+Fitzroy,1916,11,Carlton,PF,W,6,,,,,,,,,,,,,,,,,,,,,,,,1916-03-01
+Fitzroy,1916,12,Carlton,GF,W,6,,,,,,,,,,,,,,,,,,,,,,,,1916-03-01
+Fitzroy,1917,13,Richmond,4,W,6,,,,,,,,,,,,,,,,,,,,,,,,1917-03-22
+Fitzroy,1917,14,South Melbourne,5,W,6,,,,,,,,,,,,,,,,,,,,,,,,1917-03-29
+Fitzroy,1917,15,Carlton,6,W,6,,,,,,,,,,,,,,,,,,,,,,,,1917-04-05
+Fitzroy,1917,16,Geelong,7,L,6,,,,,,,,,,,,,,,,,,,,,,,,1917-04-12
+Fitzroy,1917,17,Geelong,12,W,6,,,,,,,,,,,,,,,,,,,,,,,,1917-05-17

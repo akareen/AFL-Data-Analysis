@@ -1,0 +1,21 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1960,1,Footscray,9,W,8,,,,,,,,,,,,,,,,,,,,,,,,1960-04-26
+Collingwood,1960,2,Richmond,10,W,8,,,,,,,,,,,,,,,,,,,,,,,,1960-05-03
+Collingwood,1960,3,North Melbourne,18,W,8,,,,,,,,,,,,,,,,,,,,,,,,1960-06-28
+Collingwood,1960,4,Essendon,SF,W,8,,,,,,,,,,,,,,,,,,,,,,,,1960-03-01
+Collingwood,1960,5,Fitzroy,PF,W,8,,,,,2,,,,,,,,,,,,,,,,,,,1960-03-01
+Collingwood,1960,6,Melbourne,GF,L,8,,,,,,,,,,,,,,,,,,,,,,,,1960-03-01
+Collingwood,1961,7,Richmond,2,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1961-03-08
+Collingwood,1961,8,Footscray,4,L,6,,,,,,,,,,,,,,,,,,,,,,,,1961-03-22
+Collingwood,1961,9,Fitzroy,5,L,6,,,,,,,,,,,,,,,,,,,,,,,,1961-03-29
+Collingwood,1961,10,Carlton,6,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1961-04-05
+Collingwood,1961,11,Melbourne,8,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1961-04-19
+Collingwood,1961,12,Geelong,12,L,6,,,,,2,,,,,,,,,,,,,,,,,,,1961-05-17
+Collingwood,1961,13,Richmond,13,W,6,,,,,,,,,,,,,,,,,,,,,,,,1961-05-24
+Collingwood,1961,14,Essendon,18,D,6,,,,,1,,,,,,,,,,,,,,,,,,,1961-06-28
+Collingwood,1964,15,Fitzroy,1,W,8,,,,,6,,,,,,,,,,,,,,,,,,,1964-03-01
+Collingwood,1964,16,Geelong,2,L,8,,,,,1,,,,,,,,,,,,,,,,,,,1964-03-08
+Collingwood,1964,17,Footscray,3,W,8,,,,,1,,,,,,,,,,,,,,,,,,,1964-03-15
+Collingwood,1964,18,South Melbourne,4,W,8,,,,,,,,,,,,,,,,,,,,,,,,1964-03-22
+Collingwood,1964,19,Carlton,5,W,8,,,,,,,,,,,,,,,,,,,,,,,,1964-03-29
+Collingwood,1964,20,Essendon,6,L,8,,,,,1,,,,,,,,,,,,,,,,,,,1964-04-05

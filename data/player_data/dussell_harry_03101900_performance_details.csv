@@ -1,0 +1,33 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1919,1,Richmond,1,L,19,,,,,2,,,,,,,,,,,,,,,,,,,1919-03-01
+Essendon,1919,2,Carlton,2,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1919-03-08
+Essendon,1919,3,Fitzroy,3,L,19,,,,,2,,,,,,,,,,,,,,,,,,,1919-03-15
+Essendon,1919,4,St Kilda,4,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1919-03-22
+Essendon,1919,5,South Melbourne,5,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1919-03-29
+Essendon,1919,6,Geelong,7,W,19,,,,,,,,,,,,,,,,,,,,,,,,1919-04-12
+Essendon,1919,7,Collingwood,8,L,19,,,,,2,,,,,,,,,,,,,,,,,,,1919-04-19
+Essendon,1919,8,Melbourne,9,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1919-04-26
+Essendon,1919,9,Richmond,10,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1919-05-03
+Essendon,1919,10,Carlton,11,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1919-05-10
+Essendon,1919,11,Fitzroy,12,W,19,,,,,,,,,,,,,,,,,,,,,,,,1919-05-17
+Essendon,1919,12,St Kilda,13,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1919-05-24
+Essendon,1919,13,Geelong,16,W,19,,,,,,,,,,,,,,,,,,,,,,,,1919-06-14
+Essendon,1919,14,Collingwood,17,L,19,,,,,,,,,,,,,,,,,,,,,,,,1919-06-21
+Essendon,1919,15,Melbourne,18,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1919-06-28
+Essendon,1920,16,Collingwood,1,W,19,,,,,,,,,,,,,,,,,,,,,,,,1920-03-01
+Essendon,1920,17,Melbourne,2,L,19,,,,,,,,,,,,,,,,,,,,,,,,1920-03-08
+Essendon,1920,18,South Melbourne,3,L,19,,,,,,,,,,,,,,,,,,,,,,,,1920-03-15
+Essendon,1920,19,Carlton,4,L,19,,,,,,,,,,,,,,,,,,,,,,,,1920-03-22
+Essendon,1920,20,St Kilda,5,W,19,,,,,,,,,,,,,,,,,,,,,,,,1920-03-29
+Essendon,1920,21,Geelong,6,W,19,,,,,,,,,,,,,,,,,,,,,,,,1920-04-05
+Essendon,1920,22,Fitzroy,7,W,19,,,,,,,,,,,,,,,,,,,,,,,,1920-04-12
+Essendon,1920,23,Richmond,9,L,19,,,,,,,,,,,,,,,,,,,,,,,,1920-04-26
+Essendon,1920,24,Collingwood,10,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1920-05-03
+Essendon,1920,25,Melbourne,11,W,19,,,,,,,,,,,,,,,,,,,,,,,,1920-05-10
+Essendon,1920,26,South Melbourne,12,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1920-05-17
+Essendon,1920,27,St Kilda,13,L,19,,,,,,,,,,,,,,,,,,,,,,,,1920-05-24
+Essendon,1920,28,Carlton,14,L,19,,,,,,,,,,,,,,,,,,,,,,,,1920-05-31
+Essendon,1920,29,Geelong,15,L,19,,,,,,,,,,,,,,,,,,,,,,,,1920-06-07
+Essendon,1920,30,Richmond,18,L,19,,,,,,,,,,,,,,,,,,,,,,,,1920-06-28
+Essendon,1921,31,Melbourne,1,D,19,,,,,,,,,,,,,,,,,,,,,,,,1921-03-01
+Essendon,1921,32,South Melbourne,3,W,19,,,,,,,,,,,,,,,,,,,,,,,,1921-03-15

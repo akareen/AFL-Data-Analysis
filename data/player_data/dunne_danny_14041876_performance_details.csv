@@ -1,0 +1,14 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1897,1,Collingwood,1,L,,,,,,1,,,,,,,,,,,,,,,,,,,1897-03-01
+St Kilda,1897,2,Fitzroy,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-03-08
+St Kilda,1897,3,South Melbourne,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-03-15
+St Kilda,1897,4,Melbourne,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-03-22
+St Kilda,1897,5,Essendon,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-03-29
+St Kilda,1897,6,Carlton,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-04-05
+St Kilda,1897,7,Geelong,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-04-12
+St Kilda,1897,8,Collingwood,8,L,,,,,,2,,,,,,,,,,,,,,,,,,,1897-04-19
+St Kilda,1897,9,Fitzroy,9,L,,,,,,1,,,,,,,,,,,,,,,,,,,1897-04-26
+St Kilda,1897,10,South Melbourne,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-05-03
+St Kilda,1897,11,Melbourne,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-05-10
+St Kilda,1897,12,Carlton,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-05-24
+St Kilda,1897,13,Geelong,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-05-31

@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1919,1,Essendon,1,W,7,,,,,1,,,,,,,,,,,,,,,,,,,1919-03-01
+Richmond,1919,2,Geelong,2,W,7,,,,,2,,,,,,,,,,,,,,,,,,,1919-03-08
+Richmond,1919,3,Melbourne,3,W,7,,,,,1,,,,,,,,,,,,,,,,,,,1919-03-15
+Richmond,1919,4,Fitzroy,5,L,7,,,,,,,,,,,,,,,,,,,,,,,,1919-03-29
+Richmond,1919,5,South Melbourne,6,L,7,,,,,,,,,,,,,,,,,,,,,,,,1919-04-05
+Richmond,1923,6,Carlton,3,L,28,,,,,,,,,,,,,,,,,,,,,,,,1923-03-15
+Richmond,1923,7,Melbourne,10,W,28,,,,,,,,,,,,,,,,,,,,,,,,1923-05-03
+Richmond,1924,8,Essendon,5,L,19,,,,,,,,,,,,,,,,,,,,,,,,1924-03-29

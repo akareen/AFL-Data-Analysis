@@ -1,0 +1,21 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1902,1,Essendon,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-17
+Carlton,1902,2,Fitzroy,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-24
+Carlton,1902,3,Melbourne,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-06-07
+Carlton,1902,4,St Kilda,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-06-14
+Carlton,1902,5,Essendon,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-06-21
+Carlton,1903,6,St Kilda,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-10
+Carlton,1903,7,South Melbourne,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-17
+Carlton,1903,8,Fitzroy,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-24
+Carlton,1903,9,Geelong,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-08
+Carlton,1903,10,Melbourne,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-31
+Carlton,1903,11,Melbourne,15,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-07
+Carlton,1903,12,Collingwood,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-14
+Carlton,1903,13,St Kilda,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-21
+Carlton,1903,14,Collingwood,SF,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-01
+Carlton,1904,15,South Melbourne,2,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-03-08
+Carlton,1904,16,Geelong,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-03-15
+Carlton,1904,17,St Kilda,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-03-22
+Carlton,1904,18,Collingwood,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-03-29
+Carlton,1904,19,Melbourne,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-04-05
+Carlton,1904,20,St Kilda,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-06-21

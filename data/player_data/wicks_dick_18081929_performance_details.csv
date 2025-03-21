@@ -1,0 +1,17 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1949,1,South Melbourne,13,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1949-05-24
+St Kilda,1949,2,Essendon,14,L,16,,,,,,,,,,,,,,,,,,,,,,,,1949-05-31
+St Kilda,1949,3,Richmond,15,W,16,,,,,,,,,,,,,,,,,,,,,,,,1949-06-07
+St Kilda,1949,4,Geelong,16,W,16,,,,,,,,,,,,,,,,,,,,,,,,1949-06-14
+St Kilda,1949,5,Melbourne,17,L,16,,,,,,,,,,,,,,,,,,,,,,,,1949-06-21
+St Kilda,1949,6,Carlton,18,L,16,,,,,2,,,,,,,,,,,,,,,,,,,1949-06-28
+St Kilda,1949,7,Collingwood,19,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1949-07-05
+St Kilda,1950,8,Footscray,1,W,16,,,,,,,,,,,,,,,,,,,,,,,,1950-03-01
+St Kilda,1950,9,Hawthorn,2,W,16,,,,,,,,,,,,,,,,,,,,,,,,1950-03-08
+St Kilda,1950,10,Carlton,5,W,16,,,,,,,,,,,,,,,,,,,,,,,,1950-03-29
+St Kilda,1950,11,Geelong,6,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1950-04-05
+St Kilda,1951,12,Fitzroy,1,L,16,,,,,,,,,,,,,,,,,,,,,,,,1951-03-01
+St Kilda,1951,13,North Melbourne,2,W,16,,,,,,,,,,,,,,,,,,,,,,,,1951-03-08
+St Kilda,1951,14,Hawthorn,3,L,16,,,,,,,,,,,,,,,,,,,,,,,,1951-03-15
+St Kilda,1951,15,Melbourne,4,W,16,,,,,,,,,,,,,,,,,,,,,,,,1951-03-22
+St Kilda,1951,16,Essendon,8,L,16,,,,,,,,,,,,,,,,,,,,,,,,1951-04-19

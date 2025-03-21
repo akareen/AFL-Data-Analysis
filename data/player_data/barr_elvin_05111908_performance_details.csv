@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1930,1,South Melbourne,3,W,2,,,,,,,,,,,,,,,,,,,,,,,,1930-03-15
+Collingwood,1930,2,Geelong,4,L,2,,,,,,,,,,,,,,,,,,,,,,,,1930-03-22
+Collingwood,1930,3,Fitzroy,5,L,2,,,,,,,,,,,,,,,,,,,,,,,,1930-03-29
+Collingwood,1930,4,Melbourne,7,W,2,,,,,2,,,,,,,,,,,,,,,,,,,1930-04-12
+Collingwood,1930,5,Footscray,16,W,2,,,,,,,,,,,,,,,,,,,,,,,,1930-06-14
+Collingwood,1930,6,Carlton,17,W,2,,,,,,,,,,,,,,,,,,,,,,,,1930-06-21
+Collingwood,1930,7,Richmond,SF,W,2,,,,,1,,,,,,,,,,,,,,,,,,,1930-03-01
+Collingwood,1932,8,Hawthorn,1,W,2,,,,,,,,,,,,,,,,,,,,,,,,1932-03-01
+Collingwood,1932,9,Geelong,2,L,2,,,,,,,,,,,,,,,,,,,,,,,,1932-03-08

@@ -1,0 +1,32 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1949,1,Footscray,2,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1949-03-08
+Geelong,1949,2,South Melbourne,3,W,6,,,,,2,,,,,,,,,,,,,,,,,,,1949-03-15
+Geelong,1949,3,Fitzroy,4,W,6,,,,,3,,,,,,,,,,,,,,,,,,,1949-03-22
+Geelong,1949,4,St Kilda,5,W,6,,,,,3,,,,,,,,,,,,,,,,,,,1949-03-29
+Geelong,1949,5,Carlton,6,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1949-04-05
+Geelong,1949,6,North Melbourne,7,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1949-04-12
+Geelong,1949,7,Richmond,8,L,6,,,,,2,,,,,,,,,,,,,,,,,,,1949-04-19
+Geelong,1949,8,Collingwood,9,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1949-04-26
+Geelong,1949,9,Hawthorn,10,W,6,,,,,3,,,,,,,,,,,,,,,,,,,1949-05-03
+Geelong,1949,10,Essendon,11,W,6,,,,,3,,,,,,,,,,,,,,,,,,,1949-05-10
+Geelong,1949,11,Melbourne,12,L,6,,,,,2,,,,,,,,,,,,,,,,,,,1949-05-17
+Geelong,1949,12,Footscray,13,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1949-05-24
+Geelong,1949,13,North Melbourne,18,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1949-06-28
+Geelong,1949,14,Richmond,19,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1949-07-05
+Geelong,1950,15,Hawthorn,1,W,6,,,,,,,,,,,,,,,,,,,,,,,,1950-03-01
+Geelong,1950,16,Footscray,2,W,6,,,,,8,,,,,,,,,,,,,,,,,,,1950-03-08
+Geelong,1950,17,Essendon,3,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1950-03-15
+Geelong,1950,18,Melbourne,4,W,6,,,,,,,,,,,,,,,,,,,,,,,,1950-03-22
+Geelong,1950,19,Collingwood,5,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1950-03-29
+Geelong,1950,20,St Kilda,6,W,6,,,,,2,,,,,,,,,,,,,,,,,,,1950-04-05
+Geelong,1950,21,North Melbourne,8,L,6,,,,,,,,,,,,,,,,,,,,,,,,1950-04-19
+Geelong,1950,22,Carlton,9,L,6,,,,,,,,,,,,,,,,,,,,,,,,1950-04-26
+Geelong,1950,23,Hawthorn,12,W,6,,,,,3,,,,,,,,,,,,,,,,,,,1950-05-17
+Geelong,1950,24,Footscray,13,W,6,,,,,,,,,,,,,,,,,,,,,,,,1950-05-24
+Geelong,1950,25,Essendon,14,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1950-05-31
+Geelong,1950,26,Melbourne,15,W,6,,,,,,,,,,,,,,,,,,,,,,,,1950-06-07
+Geelong,1950,27,Collingwood,16,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1950-06-14
+Geelong,1950,28,St Kilda,17,L,6,,,,,,,,,,,,,,,,,,,,,,,,1950-06-21
+Geelong,1950,29,Richmond,18,L,6,,,,,3,,,,,,,,,,,,,,,,,,,1950-06-28
+Geelong,1950,30,Melbourne,SF,W,6,,,,,,,,,,,,,,,,,,,,,,,,1950-03-01
+Geelong,1950,31,North Melbourne,PF,L,6,,,,,2,,,,,,,,,,,,,,,,,,,1950-03-01

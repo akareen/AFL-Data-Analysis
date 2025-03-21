@@ -1,0 +1,155 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1927,1,St Kilda,3,L,30,,,,,1,,,,,,,,,,,,,,,,,,,1927-03-15
+South Melbourne,1927,2,Collingwood,4,L,30,,,,,1,,,,,,,,,,,,,,,,,,,1927-03-22
+South Melbourne,1927,3,Footscray,5,L,30,,,,,1,,,,,,,,,,,,,,,,,,,1927-03-29
+South Melbourne,1927,4,North Melbourne,6,W,30,,,,,1,,,,,,,,,,,,,,,,,,,1927-04-05
+South Melbourne,1927,5,Richmond,7,L,30,,,,,,,,,,,,,,,,,,,,,,,,1927-04-12
+South Melbourne,1927,6,Fitzroy,8,L,30,,,,,,,,,,,,,,,,,,,,,,,,1927-04-19
+South Melbourne,1927,7,Essendon,9,W,30,,,,,,,,,,,,,,,,,,,,,,,,1927-04-26
+South Melbourne,1927,8,Hawthorn,10,W,30,,,,,,,,,,,,,,,,,,,,,,,,1927-05-03
+South Melbourne,1927,9,Geelong,11,L,30,,,,,,,,,,,,,,,,,,,,,,,,1927-05-10
+South Melbourne,1927,10,Carlton,12,W,30,,,,,,,,,,,,,,,,,,,,,,,,1927-05-17
+South Melbourne,1927,11,Melbourne,13,L,30,,,,,2,,,,,,,,,,,,,,,,,,,1927-05-24
+South Melbourne,1927,12,St Kilda,14,W,30,,,,,,,,,,,,,,,,,,,,,,,,1927-05-31
+South Melbourne,1927,13,Collingwood,15,L,30,,,,,,,,,,,,,,,,,,,,,,,,1927-06-07
+South Melbourne,1927,14,Footscray,16,W,30,,,,,1,,,,,,,,,,,,,,,,,,,1927-06-14
+South Melbourne,1927,15,North Melbourne,17,W,30,,,,,,,,,,,,,,,,,,,,,,,,1927-06-21
+South Melbourne,1927,16,Geelong,18,L,30,,,,,,,,,,,,,,,,,,,,,,,,1927-06-28
+South Melbourne,1928,17,St Kilda,2,W,30,,,,,,,,,,,,,,,,,,,,,,,,1928-03-08
+South Melbourne,1928,18,North Melbourne,4,L,30,,,,,1,,,,,,,,,,,,,,,,,,,1928-03-22
+South Melbourne,1928,19,St Kilda,13,L,30,,,,,1,,,,,,,,,,,,,,,,,,,1928-05-24
+South Melbourne,1929,20,Melbourne,1,L,30,,,,,1,,,,,,,,,,,,,,,,,,,1929-03-01
+South Melbourne,1929,21,St Kilda,2,W,30,,,,,,,,,,,,,,,,,,,,,,,,1929-03-08
+South Melbourne,1929,22,Collingwood,3,L,30,,,,,,,,,,,,,,,,,,,,,,,,1929-03-15
+South Melbourne,1929,23,Carlton,4,L,30,,,,,,,,,,,,,,,,,,,,,,,,1929-03-22
+South Melbourne,1929,24,Essendon,5,L,30,,,,,1,,,,,,,,,,,,,,,,,,,1929-03-29
+South Melbourne,1929,25,Hawthorn,7,L,30,,,,,,,,,,,,,,,,,,,,,,,,1929-04-12
+South Melbourne,1929,26,Footscray,8,L,30,,,,,2,,,,,,,,,,,,,,,,,,,1929-04-19
+South Melbourne,1929,27,Geelong,9,L,30,,,,,1,,,,,,,,,,,,,,,,,,,1929-04-26
+South Melbourne,1929,28,Fitzroy,10,W,30,,,,,7,,,,,,,,,,,,,,,,,,,1929-05-03
+South Melbourne,1929,29,North Melbourne,11,W,30,,,,,8,,,,,,,,,,,,,,,,,,,1929-05-10
+South Melbourne,1929,30,Melbourne,12,W,30,,,,,6,,,,,,,,,,,,,,,,,,,1929-05-17
+South Melbourne,1929,31,St Kilda,13,L,30,,,,,2,,,,,,,,,,,,,,,,,,,1929-05-24
+South Melbourne,1929,32,Collingwood,14,L,30,,,,,1,,,,,,,,,,,,,,,,,,,1929-05-31
+South Melbourne,1929,33,Carlton,15,L,30,,,,,7,,,,,,,,,,,,,,,,,,,1929-06-07
+South Melbourne,1929,34,Essendon,16,W,30,,,,,6,,,,,,,,,,,,,,,,,,,1929-06-14
+South Melbourne,1929,35,Richmond,17,L,30,,,,,5,,,,,,,,,,,,,,,,,,,1929-06-21
+South Melbourne,1929,36,Hawthorn,18,W,30,,,,,6,,,,,,,,,,,,,,,,,,,1929-06-28
+South Melbourne,1930,37,Essendon,5,L,30,,,,,2,,,,,,,,,,,,,,,,,,,1930-03-29
+South Melbourne,1930,38,Richmond,6,L,30,,,,,3,,,,,,,,,,,,,,,,,,,1930-04-05
+South Melbourne,1930,39,Hawthorn,7,W,30,,,,,6,,,,,,,,,,,,,,,,,,,1930-04-12
+South Melbourne,1930,40,Footscray,8,W,30,,,,,5,,,,,,,,,,,,,,,,,,,1930-04-19
+South Melbourne,1930,41,Geelong,9,L,30,,,,,3,,,,,,,,,,,,,,,,,,,1930-04-26
+South Melbourne,1930,42,Fitzroy,10,W,30,,,,,4,,,,,,,,,,,,,,,,,,,1930-05-03
+South Melbourne,1930,43,North Melbourne,11,W,30,,,,,4,,,,,,,,,,,,,,,,,,,1930-05-10
+South Melbourne,1930,44,Essendon,12,W,30,,,,,7,,,,,,,,,,,,,,,,,,,1930-05-17
+South Melbourne,1930,45,Richmond,13,W,30,,,,,3,,,,,,,,,,,,,,,,,,,1930-05-24
+South Melbourne,1930,46,Hawthorn,14,W,30,,,,,4,,,,,,,,,,,,,,,,,,,1930-05-31
+South Melbourne,1930,47,Footscray,15,W,30,,,,,8,,,,,,,,,,,,,,,,,,,1930-06-07
+South Melbourne,1930,48,Geelong,16,L,30,,,,,3,,,,,,,,,,,,,,,,,,,1930-06-14
+South Melbourne,1930,49,North Melbourne,18,W,30,,,,,2,,,,,,,,,,,,,,,,,,,1930-06-28
+South Melbourne,1931,50,North Melbourne,1,W,16,,,,,4,,,,,,,,,,,,,,,,,,,1931-03-01
+South Melbourne,1931,51,Footscray,2,L,16,,,,,5,,,,,,,,,,,,,,,,,,,1931-03-08
+South Melbourne,1931,52,Collingwood,3,L,16,,,,,2,,,,,,,,,,,,,,,,,,,1931-03-15
+South Melbourne,1931,53,St Kilda,4,W,16,,,,,3,,,,,,,,,,,,,,,,,,,1931-03-22
+South Melbourne,1931,54,Hawthorn,5,W,16,,,,,5,,,,,,,,,,,,,,,,,,,1931-03-29
+South Melbourne,1931,55,Geelong,6,L,16,,,,,,,,,,,,,,,,,,,,,,,,1931-04-05
+South Melbourne,1931,56,Fitzroy,7,W,16,,,,,7,,,,,,,,,,,,,,,,,,,1931-04-12
+South Melbourne,1931,57,Richmond,8,L,16,,,,,2,,,,,,,,,,,,,,,,,,,1931-04-19
+South Melbourne,1931,58,Essendon,9,W,16,,,,,2,,,,,,,,,,,,,,,,,,,1931-04-26
+South Melbourne,1931,59,Carlton,10,L,16,,,,,3,,,,,,,,,,2,,,,,,,,,1931-05-03
+South Melbourne,1931,60,Melbourne,11,W,16,,,,,,,,,,,,,,,,,,,,,,,,1931-05-10
+South Melbourne,1931,61,North Melbourne,12,W,16,,,,,3,,,,,,,,,,,,,,,,,,,1931-05-17
+South Melbourne,1931,62,Footscray,13,L,16,,,,,,,,,,,,,,,,,,,,,,,,1931-05-24
+South Melbourne,1931,63,Collingwood,14,L,16,,,,,,,,,,,,,,,,,,,,,,,,1931-05-31
+South Melbourne,1931,64,St Kilda,15,W,16,,,,,,,,,,,,,,,1,,,,,,,,,1931-06-07
+South Melbourne,1931,65,Hawthorn,16,W,16,,,,,,,,,,,,,,,,,,,,,,,,1931-06-14
+South Melbourne,1931,66,Geelong,17,L,16,,,,,,,,,,,,,,,1,,,,,,,,,1931-06-21
+South Melbourne,1931,67,Fitzroy,18,L,16,,,,,2,,,,,,,,,,,,,,,,,,,1931-06-28
+South Melbourne,1932,68,Melbourne,1,W,16,,,,,,,,,,,,,,,2,,,,,,,,,1932-03-01
+South Melbourne,1932,69,Carlton,2,W,16,,,,,,,,,,,,,,,,,,,,,,,,1932-03-08
+South Melbourne,1932,70,Footscray,3,W,16,,,,,,,,,,,,,,,,,,,,,,,,1932-03-15
+South Melbourne,1932,71,North Melbourne,4,W,16,,,,,1,,,,,,,,,,1,,,,,,,,,1932-03-22
+South Melbourne,1932,72,Essendon,5,W,16,,,,,,,,,,,,,,,,,,,,,,,,1932-03-29
+South Melbourne,1932,73,Hawthorn,6,W,16,,,,,,,,,,,,,,,,,,,,,,,,1932-04-05
+South Melbourne,1932,74,Geelong,7,W,16,,,,,,,,,,,,,,,,,,,,,,,,1932-04-12
+South Melbourne,1932,75,Richmond,8,W,16,,,,,,,,,,,,,,,,,,,,,,,,1932-04-19
+South Melbourne,1932,76,Fitzroy,9,W,16,,,,,,,,,,,,,,,,,,,,,,,,1932-04-26
+South Melbourne,1932,77,St Kilda,10,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1932-05-03
+South Melbourne,1932,78,Collingwood,11,L,16,,,,,,,,,,,,,,,,,,,,,,,,1932-05-10
+South Melbourne,1932,79,Melbourne,12,W,16,,,,,,,,,,,,,,,,,,,,,,,,1932-05-17
+South Melbourne,1932,80,Carlton,13,L,16,,,,,,,,,,,,,,,,,,,,,,,,1932-05-24
+South Melbourne,1932,81,North Melbourne,15,W,16,,,,,2,,,,,,,,,,,,,,,,,,,1932-06-07
+South Melbourne,1932,82,Essendon,16,L,16,,,,,,,,,,,,,,,,,,,,,,,,1932-06-14
+South Melbourne,1932,83,Hawthorn,17,W,16,,,,,4,,,,,,,,,,,,,,,,,,,1932-06-21
+South Melbourne,1932,84,Geelong,18,L,16,,,,,,,,,,,,,,,,,,,,,,,,1932-06-28
+South Melbourne,1932,85,Collingwood,SF,L,16,,,,,2,,,,,,,,,,,,,,,,,,,1932-03-01
+South Melbourne,1933,86,Carlton,1,L,16,,,,,1,,,,,,,,,,2,,,,,,,,,1933-03-01
+South Melbourne,1933,87,Footscray,2,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1933-03-08
+South Melbourne,1934,88,Collingwood,1,W,16,,,,,3,,,,,,,,,,,,,,,,,,,1934-03-01
+South Melbourne,1934,89,Carlton,2,L,16,,,,,,,,,,,,,,,,,,,,,,,,1934-03-08
+South Melbourne,1934,90,Essendon,3,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1934-03-15
+South Melbourne,1934,91,Footscray,4,W,16,,,,,2,,,,,,,,,,,,,,,,,,,1934-03-22
+South Melbourne,1934,92,Hawthorn,5,W,16,,,,,5,,,,,,,,,,3,,,,,,,,,1934-03-29
+South Melbourne,1934,93,Richmond,6,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1934-04-05
+South Melbourne,1934,94,Geelong,7,L,16,,,,,,,,,,,,,,,,,,,,,,,,1934-04-12
+South Melbourne,1934,95,Fitzroy,8,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1934-04-19
+South Melbourne,1934,96,North Melbourne,9,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1934-04-26
+South Melbourne,1934,97,St Kilda,10,W,16,,,,,,,,,,,,,,,3,,,,,,,,,1934-05-03
+South Melbourne,1934,98,Melbourne,11,W,16,,,,,2,,,,,,,,,,,,,,,,,,,1934-05-10
+South Melbourne,1934,99,Collingwood,12,W,16,,,,,2,,,,,,,,,,,,,,,,,,,1934-05-17
+South Melbourne,1934,100,Carlton,13,W,16,,,,,,,,,,,,,,,,,,,,,,,,1934-05-24
+South Melbourne,1934,101,Essendon,14,W,16,,,,,,,,,,,,,,,,,,,,,,,,1934-05-31
+South Melbourne,1934,102,Footscray,15,W,16,,,,,,,,,,,,,,,,,,,,,,,,1934-06-07
+South Melbourne,1934,103,Hawthorn,16,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1934-06-14
+South Melbourne,1934,104,Richmond,17,L,16,,,,,2,,,,,,,,,,,,,,,,,,,1934-06-21
+South Melbourne,1935,105,Collingwood,1,L,16,,,,,2,,,,,,,,,,,,,,,,,,,1935-03-01
+South Melbourne,1935,106,Footscray,2,W,16,,,,,2,,,,,,,,,,,,,,,,,,,1935-03-08
+South Melbourne,1935,107,North Melbourne,3,W,16,,,,,,,,,,,,,,,,,,,,,,,,1935-03-15
+South Melbourne,1935,108,Carlton,4,W,16,,,,,,,,,,,,,,,,,,,,,,,,1935-03-22
+South Melbourne,1935,109,Geelong,5,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1935-03-29
+South Melbourne,1935,110,Fitzroy,6,W,16,,,,,2,,,,,,,,,,,,,,,,,,,1935-04-05
+South Melbourne,1935,111,Richmond,7,W,16,,,,,2,,,,,,,,,,,,,,,,,,,1935-04-12
+South Melbourne,1935,112,Hawthorn,8,W,16,,,,,2,,,,,,,,,,,,,,,,,,,1935-04-19
+South Melbourne,1935,113,St Kilda,10,W,16,,,,,,,,,,,,,,,,,,,,,,,,1935-05-03
+South Melbourne,1935,114,Melbourne,11,W,16,,,,,3,,,,,,,,,,,,,,,,,,,1935-05-10
+South Melbourne,1935,115,Collingwood,12,W,16,,,,,,,,,,,,,,,,,,,,,,,,1935-05-17
+South Melbourne,1935,116,Footscray,13,W,16,,,,,,,,,,,,,,,,,,,,,,,,1935-05-24
+South Melbourne,1935,117,Carlton,15,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1935-06-07
+South Melbourne,1935,118,North Melbourne,14,W,16,,,,,,,,,,,,,,,,,,,,,,,,1935-05-31
+South Melbourne,1935,119,Geelong,16,W,16,,,,,4,,,,,,,,,,,,,,,,,,,1935-06-14
+South Melbourne,1935,120,Fitzroy,17,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1935-06-21
+South Melbourne,1935,121,Collingwood,SF,W,16,,,,,,,,,,,,,,,,,,,,,,,,1935-03-01
+South Melbourne,1935,122,Collingwood,GF,L,16,,,,,,,,,,,,,,,,,,,,,,,,1935-03-01
+South Melbourne,1936,123,Melbourne,1,W,16,,,,,4,,,,,,,,,,,,,,,,,,,1936-03-01
+South Melbourne,1936,124,St Kilda,2,W,16,,,,,3,,,,,,,,,,,,,,,,,,,1936-03-08
+South Melbourne,1936,125,Footscray,3,W,16,,,,,2,,,,,,,,,,,,,,,,,,,1936-03-15
+South Melbourne,1936,126,North Melbourne,4,W,16,,,,,5,,,,,,,,,,,,,,,,,,,1936-03-22
+South Melbourne,1936,127,Essendon,5,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1936-03-29
+South Melbourne,1936,128,Hawthorn,6,W,16,,,,,2,,,,,,,,,,,,,,,,,,,1936-04-05
+South Melbourne,1936,129,Fitzroy,7,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1936-04-12
+South Melbourne,1936,130,Geelong,8,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1936-04-19
+South Melbourne,1936,131,Richmond,9,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1936-04-26
+South Melbourne,1936,132,Collingwood,10,W,16,,,,,,,,,,,,,,,,,,,,,,,,1936-05-03
+South Melbourne,1936,133,Carlton,11,W,16,,,,,3,,,,,,,,,,,,,,,,,,,1936-05-10
+South Melbourne,1936,134,Melbourne,12,L,16,,,,,2,,,,,,,,,,,,,,,,,,,1936-05-17
+South Melbourne,1936,135,St Kilda,13,W,16,,,,,,,,,,,,,,,,,,,,,,,,1936-05-24
+South Melbourne,1936,136,North Melbourne,15,W,16,,,,,2,,,,,,,,,,,,,,,,,,,1936-06-07
+South Melbourne,1936,137,Essendon,16,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1936-06-14
+South Melbourne,1936,138,Hawthorn,17,W,16,,,,,5,,,,,,,,,,,,,,,,,,,1936-06-21
+South Melbourne,1936,139,Fitzroy,18,W,16,,,,,3,,,,,,,,,,,,,,,,,,,1936-06-28
+South Melbourne,1936,140,Collingwood,SF,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1936-03-01
+South Melbourne,1936,141,Melbourne,PF,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1936-03-01
+South Melbourne,1936,142,Collingwood,GF,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1936-03-01
+South Melbourne,1937,143,Carlton,1,L,16,,,,,,,,,,,,,,,,,,,,,,,,1937-03-01
+South Melbourne,1937,144,Collingwood,2,L,16,,,,,,,,,,,,,,,,,,,,,,,,1937-03-08
+South Melbourne,1937,145,Richmond,3,D,16,,,,,1,,,,,,,,,,,,,,,,,,,1937-03-15
+South Melbourne,1937,146,Geelong,4,L,16,,,,,,,,,,,,,,,,,,,,,,,,1937-03-22
+South Melbourne,1937,147,Hawthorn,6,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1937-04-05
+South Melbourne,1937,148,Essendon,7,L,16,,,,,3,,,,,,,,,,,,,,,,,,,1937-04-12
+South Melbourne,1937,149,North Melbourne,8,W,16,,,,,,,,,,,,,,,,,,,,,,,,1937-04-19
+South Melbourne,1937,150,Footscray,9,W,16,,,,,,,,,,,,,,,,,,,,,,,,1937-04-26
+South Melbourne,1937,151,St Kilda,10,W,16,,,,,,,,,,,,,,,,,,,,,,,,1937-05-03
+South Melbourne,1937,152,Melbourne,11,L,16,,,,,,,,,,,,,,,,,,,,,,,,1937-05-10
+South Melbourne,1937,153,Carlton,12,W,16,,,,,,,,,,,,,,,,,,,,,,,,1937-05-17
+South Melbourne,1937,154,Collingwood,13,L,16,,,,,,,,,,,,,,,,,,,,,,,,1937-05-24

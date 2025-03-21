@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1968,1,Richmond,1,L,34,8,2,,8,,,,,,,,,3,2,,,,,,,,,,1968-03-01
+Collingwood,1968,2,Fitzroy,2,L,34,17,2,,17,,1,,,,,,,4,3,,,,,,,,,,1968-03-08
+Collingwood,1968,3,St Kilda,3,L,34,6,2,2,8,,2,,,,,,,1,1,,,,,,,,,,1968-03-15
+Collingwood,1968,4,Geelong,4,L,34,6,1,2,8,,2,,,,,,,2,1,,,,,,,,,,1968-03-22
+Collingwood,1968,5,Hawthorn,5,W,34,,,,,,,,,,,,,,,,,,,,,,,,1968-03-29
+Collingwood,1968,6,Melbourne,8,L,34,4,1,1,5,,,,,,,,,2,,,,,,,,,,,1968-04-19
+Collingwood,1969,7,Richmond,13,L,24,,,,,,,,,,,,,,,,,,,,,,,,1969-05-24
+Collingwood,1969,8,Carlton,15,L,24,,,,,,,,,,,,,,,,,,,,,,,,1969-06-07

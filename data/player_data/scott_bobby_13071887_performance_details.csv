@@ -1,0 +1,13 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1910,1,South Melbourne,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-01
+Richmond,1910,2,University,3,L,,,,,,2,,,,,,,,,,,,,,,,,,,1910-03-15
+Richmond,1910,3,Fitzroy,4,W,,,,,,1,,,,,,,,,,,,,,,,,,,1910-03-22
+Richmond,1910,4,Geelong,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-29
+Richmond,1910,5,St Kilda,6,W,,,,,,1,,,,,,,,,,,,,,,,,,,1910-04-05
+Richmond,1910,6,Collingwood,7,L,,,,,,1,,,,,,,,,,,,,,,,,,,1910-04-12
+Richmond,1910,7,Carlton,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-19
+Richmond,1910,8,Essendon,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-26
+Richmond,1910,9,Melbourne,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-10
+Richmond,1910,10,Essendon,18,W,,,,,,2,,,,,,,,,,,,,,,,,,,1910-06-28
+Richmond,1911,11,Collingwood,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-01
+Richmond,1911,12,Geelong,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-22

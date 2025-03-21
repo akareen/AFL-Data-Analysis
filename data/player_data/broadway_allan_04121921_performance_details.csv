@@ -1,0 +1,20 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Footscray,1945,1,Richmond,1,W,28,,,,,1,,,,,,,,,,,,,,,,,,,1945-03-01
+Footscray,1945,2,Geelong,2,W,28,,,,,2,,,,,,,,,,,,,,,,,,,1945-03-08
+Footscray,1945,3,Fitzroy,3,W,28,,,,,2,,,,,,,,,,,,,,,,,,,1945-03-15
+Footscray,1945,4,North Melbourne,4,L,28,,,,,2,,,,,,,,,,,,,,,,,,,1945-03-22
+Footscray,1945,5,South Melbourne,5,L,28,,,,,1,,,,,,,,,,,,,,,,,,,1945-03-29
+Footscray,1945,6,Melbourne,6,W,28,,,,,1,,,,,,,,,,,,,,,,,,,1945-04-05
+Footscray,1945,7,Hawthorn,7,W,28,,,,,2,,,,,,,,,,,,,,,,,,,1945-04-12
+Footscray,1945,8,Essendon,8,W,28,,,,,,,,,,,,,,,,,,,,,,,,1945-04-19
+Footscray,1945,9,Collingwood,11,W,28,,,,,,,,,,,,,,,,,,,,,,,,1945-05-10
+Footscray,1945,10,Richmond,12,W,28,,,,,,,,,,,,,,,,,,,,,,,,1945-05-17
+Footscray,1945,11,South Melbourne,16,L,28,,,,,1,,,,,,,,,,,,,,,,,,,1945-06-14
+Footscray,1945,12,Melbourne,17,L,28,,,,,,,,,,,,,,,,,,,,,,,,1945-06-21
+Footscray,1945,13,Carlton,20,L,28,,,,,,,,,,,,,,,,,,,,,,,,1945-07-12
+Footscray,1946,14,Collingwood,6,W,32,,,,,,,,,,,,,,,,,,,,,,,,1946-04-05
+Footscray,1946,15,Hawthorn,7,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1946-04-12
+Footscray,1946,16,Geelong,8,W,32,,,,,,,,,,,,,,,,,,,,,,,,1946-04-19
+Fitzroy,1946,17,South Melbourne,17,W,32,,,,,,,,,,,,,,,,,,,,,,,,1946-06-21
+Fitzroy,1946,18,Melbourne,18,L,32,,,,,1,,,,,,,,,,,,,,,,,,,1946-06-28
+Fitzroy,1946,19,Hawthorn,19,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1946-07-05

@@ -1,0 +1,7 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1932,1,Richmond,2,L,1,,,,,2,,,,,,,,,,,,,,,,,,,1932-03-08
+Melbourne,1932,2,Hawthorn,3,L,1,,,,,,,,,,,,,,,,,,,,,,,,1932-03-15
+Melbourne,1932,3,Carlton,6,L,1,,,,,,,,,,,,,,,,,,,,,,,,1932-04-05
+Melbourne,1932,4,Collingwood,7,L,1,,,,,2,,,,,,,,,,,,,,,,,,,1932-04-12
+Melbourne,1932,5,Footscray,8,L,1,,,,,,,,,,,,,,,,,,,,,,,,1932-04-19
+Melbourne,1932,6,Carlton,17,L,1,,,,,,,,,,,,,,,,,,,,,,,,1932-06-21

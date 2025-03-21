@@ -1,0 +1,14 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+North Melbourne,1935,1,Fitzroy,4,L,31,,,,,1,,,,,,,,,,,,,,,,,,,1935-03-22
+North Melbourne,1935,2,Footscray,5,L,31,,,,,,,,,,,,,,,,,,,,,,,,1935-03-29
+North Melbourne,1935,3,Carlton,6,L,31,,,,,,,,,,,,,,,,,,,,,,,,1935-04-05
+North Melbourne,1935,4,Melbourne,7,L,31,,,,,1,,,,,,,,,,,,,,,,,,,1935-04-12
+North Melbourne,1935,5,St Kilda,9,L,31,,,,,,,,,,,,,,,,,,,,,,,,1935-04-26
+North Melbourne,1935,6,Hawthorn,12,L,31,,,,,,,,,,,,,,,,,,,,,,,,1935-05-17
+North Melbourne,1935,7,Melbourne,18,L,31,,,,,,,,,,,,,,,,,,,,,,,,1935-06-28
+North Melbourne,1936,8,South Melbourne,15,L,31,,,,,,,,,,,,,,,,,,,,,,,,1936-06-07
+Melbourne,1937,9,Richmond,12,L,11,,,,,1,,,,,,,,,,,,,,,,,,,1937-05-17
+Melbourne,1937,10,Essendon,13,W,11,,,,,,,,,,,,,,,,,,,,,,,,1937-05-24
+Melbourne,1937,11,Carlton,14,L,11,,,,,,,,,,,,,,,,,,,,,,,,1937-05-31
+St Kilda,1938,12,Essendon,12,L,13,,,,,,,,,,,,,,,,,,,,,,,,1938-05-17
+St Kilda,1938,13,Melbourne,9,L,13,,,,,,,,,,,,,,,,,,,,,,,,1938-04-26

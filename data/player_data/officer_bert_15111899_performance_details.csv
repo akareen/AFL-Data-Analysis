@@ -1,0 +1,19 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1922,1,Geelong,8,W,29,,,,,2,,,,,,,,,,,,,,,,,,,1922-04-19
+St Kilda,1923,2,Richmond,4,W,24,,,,,2,,,,,,,,,,,,,,,,,,,1923-03-22
+St Kilda,1923,3,Melbourne,5,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1923-03-29
+St Kilda,1924,4,Melbourne,1,W,10,,,,,4,,,,,,,,,,,,,,,,,,,1924-03-01
+St Kilda,1924,5,Collingwood,2,L,10,,,,,,,,,,,,,,,,,,,,,,,,1924-03-08
+St Kilda,1924,6,South Melbourne,4,L,10,,,,,1,,,,,,,,,,,,,,,,,,,1924-03-22
+Hawthorn,1925,7,Richmond,1,L,21,,,,,,,,,,,,,,,,,,,,,,,,1925-03-01
+Hawthorn,1925,8,St Kilda,2,L,21,,,,,,,,,,,,,,,,,,,,,,,,1925-03-08
+Hawthorn,1925,9,Collingwood,3,L,21,,,,,,,,,,,,,,,,,,,,,,,,1925-03-15
+Hawthorn,1925,10,Carlton,4,L,21,,,,,1,,,,,,,,,,,,,,,,,,,1925-03-22
+Hawthorn,1925,11,North Melbourne,6,L,21,,,,,,,,,,,,,,,,,,,,,,,,1925-04-05
+Hawthorn,1925,12,Essendon,8,L,21,,,,,1,,,,,,,,,,,,,,,,,,,1925-04-19
+Hawthorn,1925,13,South Melbourne,9,L,21,,,,,,,,,,,,,,,,,,,,,,,,1925-04-26
+Hawthorn,1925,14,St Kilda,13,W,21,,,,,1,,,,,,,,,,,,,,,,,,,1925-05-24
+Hawthorn,1925,15,Collingwood,14,L,21,,,,,1,,,,,,,,,,,,,,,,,,,1925-05-31
+Hawthorn,1925,16,Carlton,15,L,21,,,,,1,,,,,,,,,,,,,,,,,,,1925-06-07
+Hawthorn,1925,17,Footscray,16,L,21,,,,,1,,,,,,,,,,,,,,,,,,,1925-06-14
+Hawthorn,1925,18,North Melbourne,17,W,21,,,,,,,,,,,,,,,,,,,,,,,,1925-06-21

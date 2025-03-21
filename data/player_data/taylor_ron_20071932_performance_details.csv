@@ -1,0 +1,27 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1953,1,Collingwood,12,L,32,,,,,,,,,,,,,,,,,,,,,,,,1953-05-17
+South Melbourne,1953,2,Essendon,13,L,32,,,,,1,,,,,,,,,,,,,,,,,,,1953-05-24
+South Melbourne,1953,3,North Melbourne,16,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1953-06-14
+South Melbourne,1953,4,Geelong,17,W,32,,,,,,,,,,,,,,,,,,,,,,,,1953-06-21
+South Melbourne,1954,5,Essendon,2,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1954-03-08
+South Melbourne,1954,6,Footscray,3,L,32,,,,,,,,,,,,,,,,,,,,,,,,1954-03-15
+South Melbourne,1955,7,Geelong,1,L,32,,,,,2,,,,,,,,,,,,,,,,,,,1955-03-01
+South Melbourne,1955,8,Fitzroy,2,W,32,,,,,,,,,,,,,,,,,,,,,,,,1955-03-08
+South Melbourne,1955,9,Hawthorn,3,L,32,,,,,,,,,,,,,,,,,,,,,,,,1955-03-15
+South Melbourne,1955,10,Richmond,4,L,32,,,,,1,,,,,,,,,,,,,,,,,,,1955-03-22
+South Melbourne,1955,11,St Kilda,5,W,32,,,,,,,,,,,,,,,,,,,,,,,,1955-03-29
+South Melbourne,1955,12,Carlton,6,W,32,,,,,,,,,,,,,,,,,,,,,,,,1955-04-05
+South Melbourne,1955,13,Melbourne,7,L,32,,,,,,,,,,,,,,,,,,,,,,,,1955-04-12
+South Melbourne,1955,14,Essendon,8,L,32,,,,,3,,,,,,,,,,,,,,,,,,,1955-04-19
+South Melbourne,1955,15,Collingwood,9,L,32,,,,,,,,,,,,,,,,,,,,,,,,1955-04-26
+South Melbourne,1955,16,Fitzroy,13,L,32,,,,,1,,,,,,,,,,,,,,,,,,,1955-05-24
+South Melbourne,1955,17,Hawthorn,14,L,32,,,,,2,,,,,,,,,,,,,,,,,,,1955-05-31
+South Melbourne,1955,18,Richmond,15,L,32,,,,,1,,,,,,,,,,,,,,,,,,,1955-06-07
+South Melbourne,1955,19,St Kilda,16,W,32,,,,,,,,,,,,,,,,,,,,,,,,1955-06-14
+South Melbourne,1955,20,Carlton,17,L,32,,,,,,,,,,,,,,,,,,,,,,,,1955-06-21
+South Melbourne,1955,21,Melbourne,18,L,32,,,,,,,,,,,,,,,,,,,,,,,,1955-06-28
+South Melbourne,1956,22,Geelong,1,L,32,,,,,,,,,,,,,,,,,,,,,,,,1956-03-01
+St Kilda,1958,23,Hawthorn,1,L,40,,,,,,,,,,,,,,,,,,,,,,,,1958-03-01
+St Kilda,1958,24,South Melbourne,5,W,40,,,,,,,,,,,,,,,,,,,,,,,,1958-03-29
+St Kilda,1958,25,Melbourne,6,W,40,,,,,,,,,,,,,,,,,,,,,,,,1958-04-05
+St Kilda,1958,26,Geelong,7,L,40,,,,,,,,,,,,,,,,,,,,,,,,1958-04-12

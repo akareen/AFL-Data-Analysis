@@ -1,0 +1,6 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1969,1,Melbourne,19,W,36,12,7,2,14,,,1,,,,,,1,2,,,,,,,,,,1969-07-05
+Fitzroy,1969,2,Geelong,20,W,36,9,2,2,11,,,,,,,,,2,1,,,,,,,,,,1969-07-12
+Fitzroy,1970,3,Melbourne,4,L,8,12,,3,15,,,1,,,,,,1,5,,,,,,,,,,1970-03-22
+Fitzroy,1970,4,South Melbourne,21,L,8,4,1,,4,,,,,,,,,1,,,,,,,,,,,1970-07-19
+Fitzroy,1970,5,Hawthorn,22,L,8,,,,,,,,,,,,,,,,,,,,,,,,1970-07-26

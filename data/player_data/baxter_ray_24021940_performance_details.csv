@@ -1,0 +1,81 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Footscray,1958,1,Fitzroy,16,W,18,,,,,3,,,,,,,,,,,,,,,,,,,1958-06-14
+Footscray,1958,2,Geelong,17,L,18,,,,,,,,,,,,,,,,,,,,,,,,1958-06-21
+Footscray,1959,3,St Kilda,1,L,18,,,,,3,,,,,,,,,,,,,,,,,,,1959-03-01
+Footscray,1959,4,Carlton,2,L,18,,,,,2,,,,,,,,,,,,,,,,,,,1959-03-08
+Footscray,1959,5,Hawthorn,3,L,18,,,,,2,,,,,,,,,,,,,,,,,,,1959-03-15
+Footscray,1959,6,Melbourne,4,L,18,,,,,3,,,,,,,,,,,,,,,,,,,1959-03-22
+Footscray,1959,7,South Melbourne,5,W,18,,,,,5,,,,,,,,,,,,,,,,,,,1959-03-29
+Footscray,1959,8,Collingwood,6,L,18,,,,,4,,,,,,,,,,,,,,,,,,,1959-04-05
+Footscray,1959,9,Essendon,7,L,18,,,,,6,,,,,,,,,,,,,,,,,,,1959-04-12
+Footscray,1959,10,Richmond,8,L,18,,,,,2,,,,,,,,,,,,,,,,,,,1959-04-19
+Footscray,1959,11,North Melbourne,9,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1959-04-26
+Footscray,1959,12,Geelong,10,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1959-05-03
+Footscray,1959,13,Fitzroy,11,L,18,,,,,2,,,,,,,,,,,,,,,,,,,1959-05-10
+Footscray,1959,14,St Kilda,12,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1959-05-17
+Footscray,1959,15,Carlton,13,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1959-05-24
+Footscray,1959,16,Hawthorn,14,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1959-05-31
+Footscray,1959,17,Essendon,18,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1959-06-28
+Footscray,1960,18,Geelong,1,W,18,,,,,6,,,,,,,,,,,,,,,,,,,1960-03-01
+Footscray,1960,19,North Melbourne,2,W,18,,,,,4,,,,,,,,,,,,,,,,,,,1960-03-08
+Footscray,1960,20,Hawthorn,3,W,18,,,,,2,,,,,,,,,,,,,,,,,,,1960-03-15
+Footscray,1960,21,Essendon,4,L,18,,,,,2,,,,,,,,,,,,,,,,,,,1960-03-22
+Footscray,1960,22,Fitzroy,5,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1960-03-29
+Footscray,1960,23,St Kilda,6,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1960-04-05
+Footscray,1960,24,Richmond,7,W,18,,,,,3,,,,,,,,,,,,,,,,,,,1960-04-12
+Footscray,1960,25,Melbourne,8,L,18,,,,,4,,,,,,,,,,,,,,,,,,,1960-04-19
+Footscray,1960,26,Collingwood,9,L,18,,,,,4,,,,,,,,,,,,,,,,,,,1960-04-26
+Footscray,1960,27,South Melbourne,11,L,18,,,,,3,,,,,,,,,,,,,,,,,,,1960-05-10
+Footscray,1960,28,Geelong,12,L,18,,,,,3,,,,,,,,,,,,,,,,,,,1960-05-17
+Footscray,1960,29,North Melbourne,13,W,18,,,,,1,,,,,,,,,,,,,,,,,,,1960-05-24
+Footscray,1960,30,Hawthorn,14,L,18,,,,,,,,,,,,,,,,,,,,,,,,1960-05-31
+Footscray,1960,31,Essendon,15,L,18,,,,,2,,,,,,,,,,,,,,,,,,,1960-06-07
+Footscray,1960,32,Fitzroy,16,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1960-06-14
+Footscray,1961,33,Richmond,1,W,18,,,,,,,,,,,,,,,,,,,,,,,,1961-03-01
+Footscray,1961,34,North Melbourne,2,W,18,,,,,1,,,,,,,,,,,,,,,,,,,1961-03-08
+Footscray,1961,35,Carlton,3,W,18,,,,,2,,,,,,,,,,,,,,,,,,,1961-03-15
+Footscray,1961,36,Collingwood,4,W,18,,,,,1,,,,,,,,,,,,,,,,,,,1961-03-22
+Footscray,1961,37,South Melbourne,5,L,18,,,,,4,,,,,,,,,,,,,,,,,,,1961-03-29
+Footscray,1961,38,Melbourne,6,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1961-04-05
+Footscray,1961,39,Geelong,7,L,18,,,,,,,,,,,,,,,,,,,,,,,,1961-04-12
+Footscray,1961,40,Hawthorn,8,W,18,,,,,2,,,,,,,,,,,,,,,,,,,1961-04-19
+Footscray,1961,41,Fitzroy,9,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1961-04-26
+Footscray,1961,42,St Kilda,10,L,18,,,,,,,,,,,,,,,,,,,,,,,,1961-05-03
+Footscray,1961,43,North Melbourne,13,L,18,,,,,,,,,,,,,,,,,,,,,,,,1961-05-24
+Footscray,1962,44,South Melbourne,4,W,18,,,,,,,,,,,,,,,,,,,,,,,,1962-03-22
+Footscray,1962,45,St Kilda,5,W,18,,,,,1,,,,,,,,,,,,,,,,,,,1962-03-29
+Footscray,1962,46,Essendon,6,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1962-04-05
+Footscray,1962,47,Richmond,8,W,18,,,,,,,,,,,,,,,,,,,,,,,,1962-04-19
+Footscray,1962,48,North Melbourne,10,W,18,,,,,1,,,,,,,,,,,,,,,,,,,1962-05-03
+Footscray,1962,49,Hawthorn,12,W,18,,,,,3,,,,,,,,,,,,,,,,,,,1962-05-17
+Footscray,1962,50,Fitzroy,13,W,18,,,,,2,,,,,,,,,,,,,,,,,,,1962-05-24
+Footscray,1962,51,Melbourne,14,L,18,,,,,3,,,,,,,,,,,,,,,,,,,1962-05-31
+Footscray,1962,52,South Melbourne,15,W,18,,,,,2,,,,,,,,,,,,,,,,,,,1962-06-07
+Footscray,1962,53,St Kilda,16,L,18,,,,,,,,,,,,,,,,,,,,,,,,1962-06-14
+Footscray,1962,54,Essendon,17,W,18,,,,,5,,,,,,,,,,,,,,,,,,,1962-06-21
+Footscray,1962,55,Collingwood,18,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1962-06-28
+Footscray,1963,56,North Melbourne,1,L,18,,,,,,,,,,,,,,,,,,,,,,,,1963-03-01
+Footscray,1963,57,Geelong,3,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1963-03-15
+Footscray,1963,58,Carlton,7,L,18,,,,,,,,,,,,,,,,,,,,,,,,1963-04-12
+Footscray,1963,59,South Melbourne,8,W,18,,,,,,,,,,,,,,,,,,,,,,,,1963-04-19
+Footscray,1963,60,Collingwood,9,L,18,,,,,,,,,,,,,,,,,,,,,,,,1963-04-26
+Footscray,1963,61,St Kilda,10,W,18,,,,,,,,,,,,,,,,,,,,,,,,1963-05-03
+Footscray,1963,62,Melbourne,11,L,18,,,,,,,,,,,,,,,,,,,,,,,,1963-05-10
+Footscray,1963,63,North Melbourne,12,W,18,,,,,,,,,,,,,,,,,,,,,,,,1963-05-17
+Footscray,1963,64,Fitzroy,13,W,18,,,,,,,,,,,,,,,,,,,,,,,,1963-05-24
+Footscray,1963,65,Geelong,14,L,18,,,,,,,,,,,,,,,,,,,,,,,,1963-05-31
+Footscray,1963,66,Richmond,15,W,18,,,,,,,,,,,,,,,,,,,,,,,,1963-06-07
+Footscray,1963,67,Hawthorn,16,L,18,,,,,2,,,,,,,,,,,,,,,,,,,1963-06-14
+Footscray,1963,68,Essendon,17,L,18,,,,,,,,,,,,,,,,,,,,,,,,1963-06-21
+Footscray,1963,69,Carlton,18,L,18,,,,,,,,,,,,,,,,,,,,,,,,1963-06-28
+Footscray,1964,70,Richmond,1,W,18,,,,,3,,,,,,,,,,,,,,,,,,,1964-03-01
+Footscray,1964,71,St Kilda,2,L,18,,,,,,,,,,,,,,,,,,,,,,,,1964-03-08
+Footscray,1964,72,South Melbourne,6,W,18,,,,,2,,,,,,,,,,,,,,,,,,,1964-04-05
+Footscray,1964,73,Melbourne,7,L,18,,,,,,,,,,,,,,,,,,,,,,,,1964-04-12
+Footscray,1964,74,Geelong,8,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1964-04-19
+Footscray,1964,75,Essendon,9,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1964-04-26
+Footscray,1964,76,St Kilda,13,W,18,,,,,4,,,,,,,,,,,,,,,,,,,1964-05-24
+Footscray,1964,77,Collingwood,14,L,18,,,,,,,,,,,,,,,,,,,,,,,,1964-05-31
+Footscray,1964,78,Carlton,15,W,18,,,,,,,,,,,,,,,,,,,,,,,,1964-06-07
+Footscray,1964,79,North Melbourne,16,W,18,,,,,,,,,,,,,,,,,,,,,,,,1964-06-14
+Footscray,1964,80,Melbourne,18,W,18,,,,,,,,,,,,,,,,,,,,,,,,1964-06-28

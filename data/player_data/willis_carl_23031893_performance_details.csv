@@ -1,0 +1,76 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+University,1912,1,Essendon,1,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1912-03-01
+University,1912,2,Melbourne,2,L,24,,,,,,,,,,,,,,,,,,,,,,,,1912-03-08
+University,1912,3,Richmond,3,W,24,,,,,2,,,,,,,,,,,,,,,,,,,1912-03-15
+University,1912,4,St Kilda,4,L,24,,,,,,,,,,,,,,,,,,,,,,,,1912-03-22
+University,1912,5,Carlton,9,L,24,,,,,3,,,,,,,,,,,,,,,,,,,1912-04-26
+University,1912,6,Essendon,10,L,24,,,,,2,,,,,,,,,,,,,,,,,,,1912-05-03
+University,1912,7,Melbourne,11,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1912-05-10
+University,1912,8,Richmond,12,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1912-05-17
+University,1912,9,St Kilda,13,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1912-05-24
+University,1912,10,Fitzroy,14,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1912-05-31
+University,1912,11,South Melbourne,15,L,24,,,,,3,,,,,,,,,,,,,,,,,,,1912-06-07
+University,1912,12,Collingwood,16,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1912-06-14
+University,1912,13,Geelong,17,L,24,,,,,3,,,,,,,,,,,,,,,,,,,1912-06-21
+University,1912,14,Carlton,18,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1912-06-28
+University,1913,15,Fitzroy,1,L,5,,,,,1,,,,,,,,,,,,,,,,,,,1913-03-01
+University,1913,16,Melbourne,2,L,5,,,,,1,,,,,,,,,,,,,,,,,,,1913-03-08
+University,1913,17,St Kilda,3,L,5,,,,,,,,,,,,,,,,,,,,,,,,1913-03-15
+University,1913,18,Collingwood,6,L,5,,,,,,,,,,,,,,,,,,,,,,,,1913-04-05
+University,1913,19,Essendon,7,L,5,,,,,1,,,,,,,,,,,,,,,,,,,1913-04-12
+University,1913,20,South Melbourne,8,L,5,,,,,2,,,,,,,,,,,,,,,,,,,1913-04-19
+University,1913,21,Richmond,9,L,5,,,,,1,,,,,,,,,,,,,,,,,,,1913-04-26
+University,1913,22,Fitzroy,10,L,5,,,,,,,,,,,,,,,,,,,,,,,,1913-05-03
+University,1913,23,Melbourne,11,L,5,,,,,1,,,,,,,,,,,,,,,,,,,1913-05-10
+University,1913,24,St Kilda,12,L,5,,,,,1,,,,,,,,,,,,,,,,,,,1913-05-17
+University,1913,25,Geelong,13,L,5,,,,,,,,,,,,,,,,,,,,,,,,1913-05-24
+University,1913,26,Carlton,14,L,5,,,,,2,,,,,,,,,,,,,,,,,,,1913-05-31
+University,1913,27,Collingwood,15,L,5,,,,,,,,,,,,,,,,,,,,,,,,1913-06-07
+University,1913,28,Essendon,16,L,5,,,,,1,,,,,,,,,,,,,,,,,,,1913-06-14
+University,1913,29,South Melbourne,17,L,5,,,,,,,,,,,,,,,,,,,,,,,,1913-06-21
+University,1913,30,Richmond,18,L,5,,,,,1,,,,,,,,,,,,,,,,,,,1913-06-28
+University,1914,31,South Melbourne,1,L,7,,,,,,,,,,,,,,,,,,,,,,,,1914-03-01
+University,1914,32,Essendon,2,L,7,,,,,,,,,,,,,,,,,,,,,,,,1914-03-08
+University,1914,33,Carlton,3,L,7,,,,,,,,,,,,,,,,,,,,,,,,1914-03-15
+University,1914,34,Geelong,4,L,7,,,,,2,,,,,,,,,,,,,,,,,,,1914-03-22
+University,1914,35,Melbourne,7,L,7,,,,,1,,,,,,,,,,,,,,,,,,,1914-04-12
+University,1914,36,Fitzroy,8,L,7,,,,,,,,,,,,,,,,,,,,,,,,1914-04-19
+University,1914,37,St Kilda,9,L,7,,,,,1,,,,,,,,,,,,,,,,,,,1914-04-26
+University,1914,38,South Melbourne,10,L,7,,,,,1,,,,,,,,,,,,,,,,,,,1914-05-03
+University,1914,39,Essendon,11,L,7,,,,,,,,,,,,,,,,,,,,,,,,1914-05-10
+University,1914,40,Carlton,12,L,7,,,,,,,,,,,,,,,,,,,,,,,,1914-05-17
+University,1914,41,Geelong,13,L,7,,,,,,,,,,,,,,,,,,,,,,,,1914-05-24
+University,1914,42,Collingwood,14,L,7,,,,,,,,,,,,,,,,,,,,,,,,1914-05-31
+University,1914,43,Richmond,15,L,7,,,,,2,,,,,,,,,,,,,,,,,,,1914-06-07
+University,1914,44,Melbourne,16,L,7,,,,,,,,,,,,,,,,,,,,,,,,1914-06-14
+University,1914,45,Fitzroy,17,L,7,,,,,,,,,,,,,,,,,,,,,,,,1914-06-21
+University,1914,46,St Kilda,18,L,7,,,,,2,,,,,,,,,,,,,,,,,,,1914-06-28
+South Melbourne,1915,47,St Kilda,1,L,10,,,,,,,,,,,,,,,,,,,,,,,,1915-03-01
+South Melbourne,1915,48,Carlton,2,L,10,,,,,,,,,,,,,,,,,,,,,,,,1915-03-08
+South Melbourne,1915,49,Richmond,3,L,10,,,,,,,,,,,,,,,,,,,,,,,,1915-03-15
+South Melbourne,1915,50,Fitzroy,5,W,10,,,,,3,,,,,,,,,,,,,,,,,,,1915-03-29
+South Melbourne,1915,51,Essendon,6,W,10,,,,,,,,,,,,,,,,,,,,,,,,1915-04-05
+South Melbourne,1915,52,Melbourne,7,L,10,,,,,,,,,,,,,,,,,,,,,,,,1915-04-12
+South Melbourne,1915,53,Geelong,8,W,10,,,,,,,,,,,,,,,,,,,,,,,,1915-04-19
+South Melbourne,1915,54,Collingwood,9,L,10,,,,,,,,,,,,,,,,,,,,,,,,1915-04-26
+South Melbourne,1915,55,Carlton,11,L,10,,,,,1,,,,,,,,,,,,,,,,,,,1915-05-10
+South Melbourne,1915,56,Richmond,12,W,10,,,,,,,,,,,,,,,,,,,,,,,,1915-05-17
+South Melbourne,1915,57,Fitzroy,14,L,10,,,,,,,,,,,,,,,,,,,,,,,,1915-05-31
+South Melbourne,1915,58,Essendon,15,W,10,,,,,1,,,,,,,,,,,,,,,,,,,1915-06-07
+South Melbourne,1915,59,Melbourne,16,W,10,,,,,,,,,,,,,,,,,,,,,,,,1915-06-14
+South Melbourne,1915,60,Geelong,17,W,10,,,,,2,,,,,,,,,,,,,,,,,,,1915-06-21
+South Melbourne,1920,61,St Kilda,16,W,5,,,,,1,,,,,,,,,,,,,,,,,,,1920-06-14
+South Melbourne,1920,62,Geelong,17,L,5,,,,,1,,,,,,,,,,,,,,,,,,,1920-06-21
+South Melbourne,1920,63,Collingwood,18,L,5,,,,,2,,,,,,,,,,,,,,,,,,,1920-06-28
+South Melbourne,1921,64,St Kilda,1,W,24,,,,,,,,,,,,,,,,,,,,,,,,1921-03-01
+South Melbourne,1921,65,Richmond,2,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1921-03-08
+South Melbourne,1921,66,Melbourne,4,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1921-03-22
+South Melbourne,1921,67,Carlton,5,D,24,,,,,,,,,,,,,,,,,,,,,,,,1921-03-29
+South Melbourne,1921,68,Collingwood,6,L,24,,,,,,,,,,,,,,,,,,,,,,,,1921-04-05
+South Melbourne,1921,69,Geelong,8,W,24,,,,,,,,,,,,,,,,,,,,,,,,1921-04-19
+South Melbourne,1921,70,Fitzroy,9,W,24,,,,,1,,,,,,,,,,,,,,,,,,,1921-04-26
+South Melbourne,1921,71,St Kilda,10,W,24,,,,,1,,,,,,,,,,,,,,,,,,,1921-05-03
+South Melbourne,1921,72,Richmond,11,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1921-05-10
+South Melbourne,1921,73,Essendon,12,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1921-05-17
+South Melbourne,1921,74,Collingwood,15,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1921-06-07
+South Melbourne,1921,75,Fitzroy,18,L,24,,,,,,,,,,,,,,,,,,,,,,,,1921-06-28

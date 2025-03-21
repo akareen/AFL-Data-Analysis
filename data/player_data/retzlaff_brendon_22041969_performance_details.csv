@@ -1,0 +1,25 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Brisbane Bears,1992,1,Fitzroy,3,W,6,8,6,9,17,,,,1,,,,,1,,,,,,,,,,,1992-03-15
+Brisbane Bears,1992,2,West Coast,5,D,6,10,2,3,13,,1,,1,,,,,1,1,,,,,,,,,,1992-03-29
+Brisbane Bears,1992,3,Adelaide,6,L,6,10,4,6,16,,,1,3,,,,,1,1,,,,,,,,,,1992-04-05
+Brisbane Bears,1992,4,Geelong,7,L,6,13,8,6,19,,,,,,,,,1,,,,,,,,,,,1992-04-12
+Brisbane Bears,1992,5,St Kilda,10,L,6,14,7,7,21,,,,1,,,,,,1,,,,,,,,,,1992-05-03
+Brisbane Bears,1992,6,Melbourne,12,W,6,19,5,8,27,,,,2,,,,,2,1,,,,,,,,,,1992-05-17
+Brisbane Bears,1992,7,Essendon,13,L,6,8,3,7,15,,,,,,,,,,3,,,,,,,,,,1992-05-24
+Brisbane Bears,1992,8,North Melbourne,14,L,6,18,7,2,20,1,,,1,,,,,,,,,,,,,,,,1992-05-31
+Brisbane Bears,1992,9,Hawthorn,15,L,6,12,4,9,21,,2,,2,,,,,1,2,,,,,,,,,,1992-06-07
+Brisbane Bears,1992,10,Carlton,16,L,6,4,1,3,7,,,,,,,,,1,,,,,,,,,,,1992-06-14
+Brisbane Bears,1992,11,Collingwood,17,L,6,9,3,3,12,1,,,1,,,,,1,2,,,,,,,,,,1992-06-21
+Brisbane Bears,1992,12,Fitzroy,18,W,6,1,,1,2,,,,1,,,,,,,,,,,,,,,,1992-06-28
+Brisbane Bears,1992,13,West Coast,20,L,6,7,3,7,14,,,,,,,,,,1,,,,,,,,,,1992-07-12
+Brisbane Bears,1992,14,Sydney,23,W,6,10,3,4,14,,,,2,,,,,1,1,,,,,,,,,,1992-08-02
+Brisbane Bears,1992,15,Footscray,24,L,6,10,1,4,14,,,,4,,,,,3,,,,,,,,,,,1992-08-09
+West Coast,1993,16,Collingwood,13,W,48,11,2,2,13,,1,,2,,,,,3,,,,,,,,,,,1993-05-24
+West Coast,1993,17,Carlton,14,L,48,2,1,1,3,,,,,,,,,,1,,,,,,,,,,1993-05-31
+West Coast,1993,18,Richmond,18,W,48,2,2,5,7,,,,3,,,,,,3,,,,,,,,,,1993-06-28
+Fremantle,1995,19,Collingwood,8,L,12,15,6,5,20,,,,1,,,,,1,2,,,,,,,,,,1995-04-19
+Fremantle,1995,20,Hawthorn,15,L,12,13,8,7,20,,,,2,,,,,2,2,,,,,,,,,,1995-06-07
+Fremantle,1995,21,Richmond,16,L,12,14,5,4,18,1,,,,,,,,1,1,,,,,,,,,,1995-06-14
+Fremantle,1995,22,Essendon,17,L,12,9,4,4,13,1,,,,,,,,,,,,,,,,,,,1995-06-21
+Fremantle,1995,23,Fitzroy,18,W,12,10,4,6,16,,,,1,,,,,,1,,,,,,,,,,1995-06-28
+Fremantle,1995,24,Geelong,19,L,12,7,1,3,10,,,,2,,,,,1,,,,,,,,,,,1995-07-05

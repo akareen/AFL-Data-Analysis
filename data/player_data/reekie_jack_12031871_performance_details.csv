@@ -1,0 +1,28 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1897,1,Fitzroy,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-03-01
+Carlton,1897,2,South Melbourne,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-03-08
+Carlton,1897,3,Essendon,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-03-15
+Carlton,1897,4,Geelong,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-03-22
+Carlton,1897,5,Melbourne,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-03-29
+Carlton,1897,6,St Kilda,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1897-04-05
+Carlton,1897,7,Fitzroy,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-04-19
+Carlton,1897,8,South Melbourne,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-04-26
+Carlton,1897,9,Essendon,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-05-03
+Carlton,1897,10,Geelong,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-05-10
+Carlton,1897,11,Melbourne,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-05-17
+Carlton,1897,12,St Kilda,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1897-05-24
+Carlton,1897,13,Collingwood,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-05-31
+Carlton,1898,14,South Melbourne,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-03-01
+Carlton,1898,15,Melbourne,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1898-03-08
+Carlton,1898,16,Essendon,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1898-03-15
+Carlton,1898,17,Geelong,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1898-03-22
+Carlton,1898,18,Collingwood,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1898-03-29
+Carlton,1898,19,Fitzroy,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1898-04-05
+Carlton,1898,20,South Melbourne,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1898-04-19
+Carlton,1898,21,Melbourne,9,D,,,,,,,,,,,,,,,,,,,,,,,,,1898-04-26
+Carlton,1898,22,Essendon,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1898-05-03
+Carlton,1898,23,Fitzroy,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1898-05-24
+Carlton,1898,24,St Kilda,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-05-31
+Carlton,1898,25,Essendon,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1898-06-07
+Carlton,1898,26,Fitzroy,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1898-06-14
+Carlton,1898,27,South Melbourne,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1898-06-21

@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1912,1,Geelong,5,L,26,,,,,1,,,,,,,,,,,,,,,,,,,1912-03-29
+Essendon,1912,2,Richmond,6,W,26,,,,,,,,,,,,,,,,,,,,,,,,1912-04-05
+Essendon,1912,3,Fitzroy,9,W,26,,,,,,,,,,,,,,,,,,,,,,,,1912-04-26
+Essendon,1912,4,University,10,W,26,,,,,,,,,,,,,,,,,,,,,,,,1912-05-03
+Essendon,1912,5,Carlton,12,L,26,,,,,,,,,,,,,,,,,,,,,,,,1912-05-17
+Essendon,1912,6,South Melbourne,13,L,26,,,,,,,,,,,,,,,,,,,,,,,,1912-05-24
+Essendon,1912,7,Geelong,14,L,26,,,,,,,,,,,,,,,,,,,,,,,,1912-05-31
+Essendon,1912,8,Richmond,15,W,26,,,,,,,,,,,,,,,,,,,,,,,,1912-06-07
+Essendon,1912,9,St Kilda,17,L,26,,,,,1,,,,,,,,,,,,,,,,,,,1912-06-21

@@ -1,0 +1,30 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1957,1,Hawthorn,1,L,22,,,,,,,,,,,,,,,,,,,,,,,,1957-03-01
+Carlton,1957,2,South Melbourne,2,W,22,,,,,,,,,,,,,,,,,,,,,,,,1957-03-08
+Carlton,1957,3,Footscray,3,L,22,,,,,,,,,,,,,,,,,,,,,,,,1957-03-15
+Carlton,1957,4,Geelong,4,W,22,,,,,,,,,,,,,,,,,,,,,,,,1957-03-22
+Carlton,1957,5,Richmond,5,W,22,,,,,,,,,,,,,,,,,,,,,,,,1957-03-29
+Carlton,1957,6,Fitzroy,6,W,22,,,,,4,,,,,,,,,,,,,,,,,,,1957-04-05
+Carlton,1957,7,Essendon,7,W,22,,,,,3,,,,,,,,,,,,,,,,,,,1957-04-12
+Carlton,1957,8,Melbourne,8,L,22,,,,,2,,,,,,,,,,,,,,,,,,,1957-04-19
+Carlton,1957,9,North Melbourne,9,W,22,,,,,,,,,,,,,,,,,,,,,,,,1957-04-26
+Carlton,1957,10,Collingwood,10,L,22,,,,,,,,,,,,,,,,,,,,,,,,1957-05-03
+Carlton,1957,11,St Kilda,11,W,22,,,,,3,,,,,,,,,,,,,,,,,,,1957-05-10
+Carlton,1957,12,Hawthorn,12,W,22,,,,,,,,,,,,,,,,,,,,,,,,1957-05-17
+Carlton,1957,13,South Melbourne,13,W,22,,,,,,,,,,,,,,,,,,,,,,,,1957-05-24
+Carlton,1957,14,Footscray,14,W,22,,,,,1,,,,,,,,,,,,,,,,,,,1957-05-31
+Carlton,1957,15,Geelong,15,L,22,,,,,,,,,,,,,,,,,,,,,,,,1957-06-07
+Carlton,1957,16,Richmond,16,L,22,,,,,,,,,,,,,,,,,,,,,,,,1957-06-14
+Carlton,1957,17,Fitzroy,17,W,22,,,,,1,,,,,,,,,,,,,,,,,,,1957-06-21
+Carlton,1957,18,Essendon,18,L,22,,,,,1,,,,,,,,,,,,,,,,,,,1957-06-28
+Carlton,1957,19,Hawthorn,SF,L,22,,,,,,,,,,,,,,,,,,,,,,,,1957-03-01
+Carlton,1958,20,St Kilda,15,W,22,,,,,1,,,,,,,,,,,,,,,,,,,1958-06-07
+Carlton,1958,21,Collingwood,16,L,22,,,,,,,,,,,,,,,,,,,,,,,,1958-06-14
+Carlton,1959,22,Geelong,8,W,22,,,,,,,,,,,,,,,,,,,,,,,,1959-04-19
+Carlton,1960,23,Essendon,5,L,22,,,,,,,,,,,,,,,,,,,,,,,,1960-03-29
+Carlton,1960,24,Geelong,6,L,22,,,,,,,,,,,,,,,,,,,,,,,,1960-04-05
+Carlton,1960,25,South Melbourne,7,L,22,,,,,,,,,,,,,,,,,,,,,,,,1960-04-12
+Carlton,1960,26,Collingwood,8,L,22,,,,,,,,,,,,,,,,,,,,,,,,1960-04-19
+Carlton,1960,27,North Melbourne,9,W,22,,,,,,,,,,,,,,,,,,,,,,,,1960-04-26
+Carlton,1960,28,Footscray,10,W,22,,,,,,,,,,,,,,,,,,,,,,,,1960-05-03
+Carlton,1960,29,Melbourne,11,L,22,,,,,,,,,,,,,,,,,,,,,,,,1960-05-10

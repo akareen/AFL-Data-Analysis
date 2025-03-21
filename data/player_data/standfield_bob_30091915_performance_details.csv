@@ -1,0 +1,28 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1938,1,South Melbourne,5,W,6,,,,,,,,,,,,,,,,,,,,,,,,1938-03-29
+Essendon,1938,2,Fitzroy,6,L,6,,,,,,,,,,,,,,,,,,,,,,,,1938-04-05
+Essendon,1938,3,Hawthorn,7,W,6,,,,,,,,,,,,,,,,,,,,,,,,1938-04-12
+Essendon,1938,4,Geelong,8,L,6,,,,,,,,,,,,,,,,,,,,,,,,1938-04-19
+Essendon,1938,5,St Kilda,12,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1938-05-17
+Essendon,1938,6,Richmond,9,L,6,,,,,,,,,,,,,,,,,,,,,,,,1938-04-26
+Essendon,1938,7,Footscray,10,L,6,,,,,,,,,,,,,,,,,,,,,,,,1938-05-03
+Essendon,1938,8,Melbourne,11,W,6,,,,,,,,,,,,,,,,,,,,,,,,1938-05-10
+Essendon,1938,9,Collingwood,13,W,6,,,,,,,,,,,,,,,,,,,,,,,,1938-05-24
+Essendon,1938,10,Carlton,14,L,6,,,,,,,,,,,,,,,,,,,,,,,,1938-05-31
+Essendon,1938,11,North Melbourne,15,L,6,,,,,,,,,,,,,,,,,,,,,,,,1938-06-07
+Essendon,1938,12,Fitzroy,17,W,6,,,,,,,,,,,,,,,,,,,,,,,,1938-06-21
+Essendon,1938,13,Hawthorn,18,W,6,,,,,,,,,,,,,,,,,,,,,,,,1938-06-28
+Essendon,1939,14,Footscray,1,W,6,,,,,,,,,,,,,,,,,,,,,,,,1939-03-01
+Essendon,1939,15,Melbourne,2,L,6,,,,,,,,,,,,,,,,,,,,,,,,1939-03-08
+Essendon,1939,16,Richmond,3,L,6,,,,,,,,,,,,,,,,,,,,,,,,1939-03-15
+Essendon,1939,17,Geelong,4,L,6,,,,,,,,,,,,,,,,,,,,,,,,1939-03-22
+Essendon,1939,18,St Kilda,5,W,6,,,,,,,,,,,,,,,,,,,,,,,,1939-03-29
+Essendon,1939,19,North Melbourne,6,L,6,,,,,,,,,,,,,,,,,,,,,,,,1939-04-05
+Essendon,1939,20,Collingwood,11,L,6,,,,,,,,,,,,,,,,,,,,,,,,1939-05-10
+Essendon,1939,21,Footscray,12,L,6,,,,,,,,,,,,,,,,,,,,,,,,1939-05-17
+Essendon,1939,22,Richmond,14,L,6,,,,,,,,,,,,,,,,,,,,,,,,1939-05-31
+Essendon,1939,23,North Melbourne,17,W,6,,,,,,,,,,,,,,,,,,,,,,,,1939-06-21
+Essendon,1939,24,Carlton,18,L,6,,,,,,,,,,,,,,,,,,,,,,,,1939-06-28
+Essendon,1940,25,Melbourne,1,W,6,,,,,,,,,,,,,,,,,,,,,,,,1940-03-01
+Essendon,1940,26,Fitzroy,4,L,6,,,,,,,,,,,,,,,,,,,,,,,,1940-03-22
+Carlton,1942,27,Fitzroy,4,W,20,,,,,,,,,,,,,,,,,,,,,,,,1942-03-22

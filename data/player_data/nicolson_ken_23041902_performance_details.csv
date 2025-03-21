@@ -1,0 +1,24 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1923,1,St Kilda,6,W,27,,,,,,,,,,,,,,,,,,,,,,,,1923-04-05
+Geelong,1923,2,Richmond,7,L,27,,,,,,,,,,,,,,,,,,,,,,,,1923-04-12
+Geelong,1923,3,Essendon,8,L,27,,,,,,,,,,,,,,,,,,,,,,,,1923-04-19
+Geelong,1923,4,Carlton,9,W,27,,,,,,,,,,,,,,,,,,,,,,,,1923-04-26
+Geelong,1923,5,Fitzroy,12,W,27,,,,,,,,,,,,,,,,,,,,,,,,1923-05-17
+Geelong,1923,6,Collingwood,13,W,27,,,,,,,,,,,,,,,,,,,,,,,,1923-05-24
+Geelong,1923,7,South Melbourne,14,L,27,,,,,,,,,,,,,,,,,,,,,,,,1923-05-31
+Geelong,1923,8,St Kilda,15,W,27,,,,,,,,,,,,,,,,,,,,,,,,1923-06-07
+Geelong,1923,9,Richmond,16,W,27,,,,,,,,,,,,,,,,,,,,,,,,1923-06-14
+Geelong,1923,10,Essendon,17,L,27,,,,,,,,,,,,,,,,,,,,,,,,1923-06-21
+Geelong,1923,11,Carlton,18,W,27,,,,,,,,,,,,,,,,,,,,,,,,1923-06-28
+Geelong,1923,12,Fitzroy,SF,L,27,,,,,,,,,,,,,,,,,,,,,,,,1923-03-01
+Geelong,1924,13,Richmond,2,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1924-03-08
+Geelong,1924,14,Fitzroy,3,L,27,,,,,,,,,,,,,,,,,,,,,,,,1924-03-15
+Geelong,1924,15,Essendon,4,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1924-03-22
+Geelong,1924,16,St Kilda,5,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1924-03-29
+Geelong,1924,17,Melbourne,6,W,27,,,,,2,,,,,,,,,,,,,,,,,,,1924-04-05
+Geelong,1924,18,Collingwood,7,W,27,,,,,,,,,,,,,,,,,,,,,,,,1924-04-12
+Geelong,1924,19,Carlton,8,W,27,,,,,,,,,,,,,,,,,,,,,,,,1924-04-19
+Geelong,1924,20,South Melbourne,9,L,27,,,,,,,,,,,,,,,,,,,,,,,,1924-04-26
+Geelong,1924,21,Richmond,11,L,27,,,,,2,,,,,,,,,,,,,,,,,,,1924-05-10
+Geelong,1924,22,Carlton,17,L,27,,,,,,,,,,,,,,,,,,,,,,,,1924-06-21
+Geelong,1924,23,South Melbourne,18,L,27,,,,,,,,,,,,,,,,,,,,,,,,1924-06-28

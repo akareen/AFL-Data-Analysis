@@ -1,0 +1,29 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1923,1,Collingwood,1,L,15,,,,,,,,,,,,,,,,,,,,,,,,1923-03-01
+South Melbourne,1923,2,Fitzroy,2,L,15,,,,,,,,,,,,,,,,,,,,,,,,1923-03-08
+South Melbourne,1923,3,Essendon,3,L,15,,,,,,,,,,,,,,,,,,,,,,,,1923-03-15
+South Melbourne,1923,4,Melbourne,4,L,15,,,,,,,,,,,,,,,,,,,,,,,,1923-03-22
+South Melbourne,1924,5,Richmond,1,W,15,,,,,,,,,,,,,,,,,,,,,,,,1924-03-01
+South Melbourne,1924,6,Fitzroy,2,L,15,,,,,1,,,,,,,,,,,,,,,,,,,1924-03-08
+South Melbourne,1924,7,Essendon,3,L,15,,,,,,,,,,,,,,,,,,,,,,,,1924-03-15
+South Melbourne,1924,8,St Kilda,4,W,15,,,,,,,,,,,,,,,,,,,,,,,,1924-03-22
+South Melbourne,1924,9,Melbourne,5,L,15,,,,,,,,,,,,,,,,,,,,,,,,1924-03-29
+South Melbourne,1924,10,Collingwood,6,W,15,,,,,,,,,,,,,,,,,,,,,,,,1924-04-05
+South Melbourne,1924,11,Carlton,7,W,15,,,,,,,,,,,,,,,,,,,,,,,,1924-04-12
+South Melbourne,1924,12,Geelong,9,W,15,,,,,,,,,,,,,,,,,,,,,,,,1924-04-26
+South Melbourne,1924,13,Essendon,12,W,15,,,,,,,,,,,,,,,,,,,,,,,,1924-05-17
+South Melbourne,1924,14,St Kilda,13,L,15,,,,,,,,,,,,,,,,,,,,,,,,1924-05-24
+South Melbourne,1924,15,Melbourne,14,W,15,,,,,,,,,,,,,,,,,,,,,,,,1924-05-31
+South Melbourne,1924,16,Collingwood,15,L,15,,,,,1,,,,,,,,,,,,,,,,,,,1924-06-07
+South Melbourne,1924,17,Carlton,16,W,15,,,,,,,,,,,,,,,,,,,,,,,,1924-06-14
+South Melbourne,1924,18,Geelong,18,W,15,,,,,,,,,,,,,,,,,,,,,,,,1924-06-28
+South Melbourne,1924,19,Richmond,SF,L,15,,,,,,,,,,,,,,,,,,,,,,,,1924-03-01
+South Melbourne,1924,20,Essendon,SF,L,15,,,,,,,,,,,,,,,,,,,,,,,,1924-03-01
+South Melbourne,1925,21,Carlton,1,W,15,,,,,,,,,,,,,,,,,,,,,,,,1925-03-01
+South Melbourne,1925,22,Footscray,2,L,15,,,,,,,,,,,,,,,,,,,,,,,,1925-03-08
+South Melbourne,1925,23,Richmond,4,L,15,,,,,2,,,,,,,,,,,,,,,,,,,1925-03-22
+South Melbourne,1925,24,St Kilda,5,W,15,,,,,2,,,,,,,,,,,,,,,,,,,1925-03-29
+South Melbourne,1925,25,Collingwood,6,L,15,,,,,,,,,,,,,,,,,,,,,,,,1925-04-05
+South Melbourne,1925,26,Essendon,7,L,15,,,,,,,,,,,,,,,,,,,,,,,,1925-04-12
+South Melbourne,1925,27,Melbourne,8,L,15,,,,,,,,,,,,,,,,,,,,,,,,1925-04-19
+South Melbourne,1925,28,Geelong,10,L,15,,,,,,,,,,,,,,,,,,,,,,,,1925-05-03

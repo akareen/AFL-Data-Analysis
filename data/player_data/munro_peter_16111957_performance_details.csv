@@ -1,0 +1,20 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Footscray,1976,1,Hawthorn,14,L,10,2,,2,4,,,,,,,,,,,,,,,,,,,,1976-05-31
+Footscray,1976,2,South Melbourne,15,L,10,15,3,5,20,1,,,,,,,,1,2,,,,,,,,,,1976-06-07
+Footscray,1976,3,Richmond,16,W,10,8,4,1,9,,,1,,,,,,2,2,,,,,,,,,,1976-06-14
+Footscray,1976,4,St Kilda,17,L,10,6,1,,6,2,,,,,,,,2,6,,,,,,,,,,1976-06-21
+Footscray,1976,5,Geelong,18,W,10,4,2,5,9,,,,,,,,,,2,,,,,,,,,,1976-06-28
+Footscray,1976,6,North Melbourne,19,L,10,6,1,6,12,,,,,,,,,7,2,,,,,,,,,,1976-07-05
+Footscray,1976,7,Collingwood,20,W,10,7,5,4,11,1,,,,,,,,1,1,,,,,,,,,,1976-07-12
+Footscray,1976,8,Fitzroy,21,W,10,7,7,3,10,1,,,,,,,,2,4,,,,,,,,,,1976-07-19
+Footscray,1977,9,Collingwood,1,L,10,10,1,2,12,,,,,,,,,2,2,,,,,,,,,,1977-03-01
+Footscray,1977,10,North Melbourne,4,L,10,9,4,4,13,,1,,,,,,,,,,,,,,,,,,1977-03-22
+Footscray,1977,11,St Kilda,5,D,10,,,,,,,,,,,,,,,,,,,,,,,,1977-03-29
+Footscray,1977,12,Melbourne,13,W,10,,,,,,,,,,,,,,,,,,,,,,,,1977-05-24
+Footscray,1977,13,Richmond,19,W,10,6,2,,6,,1,,,,,,,1,1,,,,,,,,,,1977-07-05
+Footscray,1977,14,Geelong,21,W,10,4,3,,4,1,,,,,,,,1,,,,,,,,,,,1977-07-19
+Footscray,1977,15,Carlton,22,W,10,8,6,2,10,3,1,,,,,,,2,1,,,,,,,,,,1977-07-26
+Footscray,1978,16,North Melbourne,1,L,10,7,3,1,8,2,,,,,,,,2,2,,,,,,,,,,1978-03-01
+Footscray,1978,17,St Kilda,2,L,10,3,3,1,4,1,,,,,,,,1,1,,,,,,,,,,1978-03-08
+Footscray,1978,18,Hawthorn,7,L,10,2,3,4,6,,,,,,,,,,,,,,,,,,,,1978-04-12
+Footscray,1978,19,Richmond,22,L,10,12,7,3,15,,2,,,,,,,1,2,,,,,,,,,,1978-07-26

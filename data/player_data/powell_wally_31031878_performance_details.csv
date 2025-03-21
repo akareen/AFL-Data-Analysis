@@ -1,0 +1,29 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1900,1,Geelong,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-03-01
+Carlton,1900,2,Fitzroy,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-03-08
+Carlton,1900,3,St Kilda,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1900-03-22
+Carlton,1900,4,Essendon,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-03-29
+Carlton,1900,5,Collingwood,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1900-04-05
+Carlton,1900,6,South Melbourne,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-04-12
+Carlton,1900,7,Geelong,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-04-19
+Carlton,1900,8,Fitzroy,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-04-26
+Carlton,1900,9,Melbourne,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-05-03
+Carlton,1900,10,St Kilda,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1900-05-10
+Carlton,1900,11,Collingwood,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-05-24
+Carlton,1900,12,South Melbourne,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1900-05-31
+Carlton,1900,13,Melbourne,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1900-03-15
+Carlton,1900,14,Fitzroy,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-06-07
+Carlton,1900,15,South Melbourne,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1900-06-14
+Carlton,1900,16,Essendon,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-06-21
+Carlton,1902,17,Melbourne,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-22
+Carlton,1902,18,Essendon,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-29
+Carlton,1902,19,Fitzroy,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-04-05
+Carlton,1902,20,Geelong,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-04-19
+Carlton,1902,21,South Melbourne,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-04-26
+Carlton,1902,22,St Kilda,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-03
+Carlton,1902,23,Melbourne,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-10
+Carlton,1902,24,Essendon,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-17
+Carlton,1902,25,Fitzroy,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-24
+Carlton,1902,26,Collingwood,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-31
+Carlton,1902,27,Melbourne,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-06-07
+Carlton,1902,28,Essendon,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-06-21

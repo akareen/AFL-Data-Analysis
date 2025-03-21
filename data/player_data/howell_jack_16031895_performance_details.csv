@@ -1,0 +1,41 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1915,1,Richmond,3,L,31,,,,,,,,,,,,,,,,,,,,,,,,1915-03-15
+South Melbourne,1915,2,Fitzroy,5,W,31,,,,,1,,,,,,,,,,,,,,,,,,,1915-03-29
+South Melbourne,1915,3,Essendon,6,W,31,,,,,,,,,,,,,,,,,,,,,,,,1915-04-05
+South Melbourne,1915,4,Melbourne,7,L,31,,,,,,,,,,,,,,,,,,,,,,,,1915-04-12
+South Melbourne,1915,5,St Kilda,10,W,31,,,,,,,,,,,,,,,,,,,,,,,,1915-05-03
+South Melbourne,1915,6,Carlton,11,L,31,,,,,,,,,,,,,,,,,,,,,,,,1915-05-10
+South Melbourne,1915,7,Richmond,12,W,31,,,,,,,,,,,,,,,,,,,,,,,,1915-05-17
+South Melbourne,1915,8,Fitzroy,14,L,31,,,,,,,,,,,,,,,,,,,,,,,,1915-05-31
+South Melbourne,1915,9,Essendon,15,W,31,,,,,,,,,,,,,,,,,,,,,,,,1915-06-07
+South Melbourne,1915,10,Melbourne,16,W,31,,,,,,,,,,,,,,,,,,,,,,,,1915-06-14
+South Melbourne,1915,11,Geelong,17,W,31,,,,,,,,,,,,,,,,,,,,,,,,1915-06-21
+South Melbourne,1915,12,Collingwood,18,L,31,,,,,,,,,,,,,,,,,,,,,,,,1915-06-28
+South Melbourne,1917,13,Geelong,1,W,3,,,,,3,,,,,,,,,,,,,,,,,,,1917-03-01
+South Melbourne,1917,14,Richmond,2,W,3,,,,,,,,,,,,,,,,,,,,,,,,1917-03-08
+South Melbourne,1917,15,Carlton,3,W,3,,,,,1,,,,,,,,,,,,,,,,,,,1917-03-15
+South Melbourne,1917,16,Collingwood,4,L,3,,,,,,,,,,,,,,,,,,,,,,,,1917-03-22
+South Melbourne,1917,17,Fitzroy,5,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1917-03-29
+South Melbourne,1917,18,Richmond,7,W,3,,,,,,,,,,,,,,,,,,,,,,,,1917-04-12
+South Melbourne,1917,19,Carlton,8,L,3,,,,,,,,,,,,,,,,,,,,,,,,1917-04-19
+South Melbourne,1917,20,Collingwood,9,W,3,,,,,,,,,,,,,,,,,,,,,,,,1917-04-26
+South Melbourne,1917,21,Fitzroy,10,L,3,,,,,,,,,,,,,,,,,,,,,,,,1917-05-03
+South Melbourne,1917,22,Geelong,11,W,3,,,,,1,,,,,,,,,,,,,,,,,,,1917-05-10
+South Melbourne,1917,23,Richmond,12,W,3,,,,,,,,,,,,,,,,,,,,,,,,1917-05-17
+South Melbourne,1917,24,Carlton,13,W,3,,,,,,,,,,,,,,,,,,,,,,,,1917-05-24
+South Melbourne,1917,25,Collingwood,14,L,3,,,,,,,,,,,,,,,,,,,,,,,,1917-05-31
+South Melbourne,1917,26,Fitzroy,15,W,3,,,,,,,,,,,,,,,,,,,,,,,,1917-06-07
+South Melbourne,1917,27,Collingwood,SF,L,3,,,,,,,,,,,,,,,,,,,,,,,,1917-03-01
+South Melbourne,1918,28,Geelong,1,W,14,,,,,2,,,,,,,,,,,,,,,,,,,1918-03-01
+South Melbourne,1918,29,Fitzroy,2,W,14,,,,,2,,,,,,,,,,,,,,,,,,,1918-03-08
+South Melbourne,1918,30,Collingwood,3,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1918-03-15
+South Melbourne,1918,31,St Kilda,4,L,14,,,,,3,,,,,,,,,,,,,,,,,,,1918-03-22
+South Melbourne,1918,32,Carlton,5,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1918-03-29
+South Melbourne,1918,33,Essendon,6,W,14,,,,,,,,,,,,,,,,,,,,,,,,1918-04-05
+South Melbourne,1918,34,Richmond,7,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1918-04-12
+South Melbourne,1918,35,Geelong,8,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1918-04-19
+South Melbourne,1918,36,St Kilda,11,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1918-05-10
+South Melbourne,1918,37,Carlton,12,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1918-05-17
+South Melbourne,1918,38,Essendon,13,W,14,,,,,3,,,,,,,,,,,,,,,,,,,1918-05-24
+South Melbourne,1918,39,Carlton,SF,W,14,,,,,,,,,,,,,,,,,,,,,,,,1918-03-01
+South Melbourne,1918,40,Collingwood,GF,W,14,,,,,,,,,,,,,,,,,,,,,,,,1918-03-01

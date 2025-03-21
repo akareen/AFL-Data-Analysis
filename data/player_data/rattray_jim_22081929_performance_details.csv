@@ -1,0 +1,19 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1949,1,North Melbourne,17,W,33,,,,,,,,,,,,,,,,,,,,,,,,1949-06-21
+Hawthorn,1949,2,Melbourne,19,L,33,,,,,,,,,,,,,,,,,,,,,,,,1949-07-05
+Hawthorn,1950,3,St Kilda,2,L,9,,,,,,,,,,,,,,,,,,,,,,,,1950-03-08
+Hawthorn,1950,4,Footscray,3,L,9,,,,,,,,,,,,,,,,,,,,,,,,1950-03-15
+Hawthorn,1950,5,Collingwood,4,L,9,,,,,1,,,,,,,,,,,,,,,,,,,1950-03-22
+Hawthorn,1950,6,South Melbourne,6,L,9,,,,,1,,,,,,,,,,,,,,,,,,,1950-04-05
+Hawthorn,1950,7,Melbourne,7,L,9,,,,,,,,,,,,,,,,,,,,,,,,1950-04-12
+Hawthorn,1950,8,North Melbourne,11,L,9,,,,,,,,,,,,,,,,,,,,,,,,1950-05-10
+Hawthorn,1950,9,St Kilda,13,L,9,,,,,,,,,,,,,,,,,,,,,,,,1950-05-24
+Hawthorn,1951,10,Essendon,2,L,9,,,,,,,,,,,,,,,,,,,,,,,,1951-03-08
+Hawthorn,1951,11,Fitzroy,10,W,9,,,,,,,,,,,,,,,,,,,,,,,,1951-05-03
+Hawthorn,1951,12,Essendon,13,L,9,,,,,,,,,,,,,,,,,,,,,,,,1951-05-24
+Hawthorn,1951,13,St Kilda,14,L,9,,,,,1,,,,,,,,,,,,,,,,,,,1951-05-31
+Hawthorn,1951,14,Richmond,15,L,9,,,,,,,,,,,,,,,,,,,,,,,,1951-06-07
+Hawthorn,1951,15,North Melbourne,16,L,9,,,,,1,,,,,,,,,,,,,,,,,,,1951-06-14
+Hawthorn,1951,16,Footscray,17,L,9,,,,,,,,,,,,,,,,,,,,,,,,1951-06-21
+Hawthorn,1951,17,Geelong,18,L,9,,,,,,,,,,,,,,,,,,,,,,,,1951-06-28
+Hawthorn,1952,18,Fitzroy,5,L,9,,,,,,,,,,,,,,,,,,,,,,,,1952-03-29

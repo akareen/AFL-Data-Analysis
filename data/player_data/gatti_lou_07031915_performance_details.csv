@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1935,1,Essendon,9,W,31,,,,,,,,,,,,,,,,,,,,,,,,1935-04-26
+South Melbourne,1935,2,St Kilda,10,W,31,,,,,,,,,,,,,,,,,,,,,,,,1935-05-03
+South Melbourne,1935,3,Carlton,15,L,31,,,,,,,,,,,,,,,,,,,,,,,,1935-06-07
+South Melbourne,1935,4,Geelong,16,W,31,,,,,1,,,,,,,,,,,,,,,,,,,1935-06-14
+St Kilda,1936,5,Footscray,9,W,34,,,,,3,,,,,,,,,,,,,,,,,,,1936-04-26
+St Kilda,1936,6,Hawthorn,10,W,34,,,,,,,,,,,,,,,,,,,,,,,,1936-05-03
+St Kilda,1937,7,Fitzroy,1,W,32,,,,,,,,,,,,,,,,,,,,,,,,1937-03-01
+St Kilda,1937,8,Hawthorn,2,W,32,,,,,,,,,,,,,,,,,,,,,,,,1937-03-08
+St Kilda,1937,9,Footscray,3,W,32,,,,,,,,,,,,,,,,,,,,,,,,1937-03-15

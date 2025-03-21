@@ -1,0 +1,6 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1988,1,Carlton,15,L,39,2,2,,2,,,,,,,,,,,,,,,,,,,,1988-06-07
+St Kilda,1988,2,Richmond,16,L,39,3,,2,5,,,,,,,,,,,,,,,,,,,,1988-06-14
+St Kilda,1989,3,Geelong,7,L,39,5,,2,7,,,,1,,,,,2,1,,,,,,,,,,1989-04-12
+St Kilda,1989,4,Carlton,20,L,39,10,4,5,15,,,,1,,,,,2,2,,,,,,,,,,1989-07-12
+St Kilda,1990,5,Brisbane Bears,10,W,39,1,,2,3,,,,,,,,,,1,,,,,,,,,,1990-05-03

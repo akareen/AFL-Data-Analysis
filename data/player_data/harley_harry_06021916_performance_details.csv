@@ -1,0 +1,21 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1938,1,Essendon,11,L,22,,,,,2,,,,,,,,,,,,,,,,,,,1938-05-10
+Melbourne,1938,2,Geelong,12,L,22,,,,,,,,,,,,,,,,,,,,,,,,1938-05-17
+Melbourne,1938,3,Fitzroy,14,W,22,,,,,,,,,,,,,,,,,,,,,,,,1938-05-31
+Melbourne,1938,4,South Melbourne,15,W,22,,,,,,,,,,,,,,,,,,,,,,,,1938-06-07
+Melbourne,1938,5,Carlton,17,W,22,,,,,,,,,,,,,,,,,,,,,,,,1938-06-21
+Melbourne,1938,6,Collingwood,18,L,22,,,,,,,,,,,,,,,,,,,,,,,,1938-06-28
+Melbourne,1939,7,Essendon,2,W,22,,,,,,,,,,,,,,,,,,,,,,,,1939-03-08
+Melbourne,1939,8,St Kilda,3,W,22,,,,,,,,,,,,,,,,,,,,,,,,1939-03-15
+Melbourne,1939,9,North Melbourne,4,W,22,,,,,1,,,,,,,,,,,,,,,,,,,1939-03-22
+Melbourne,1939,10,Geelong,5,W,22,,,,,,,,,,,,,,,,,,,,,,,,1939-03-29
+Melbourne,1939,11,South Melbourne,6,W,22,,,,,,,,,,,,,,,,,,,,,,,,1939-04-05
+Melbourne,1939,12,Fitzroy,7,W,22,,,,,,,,,,,,,,,,,,,,,,,,1939-04-12
+Melbourne,1939,13,Footscray,8,W,22,,,,,,,,,,,,,,,,,,,,,,,,1939-04-19
+Melbourne,1939,14,Carlton,9,L,22,,,,,,,,,,,,,,,,,,,,,,,,1939-04-26
+Melbourne,1939,15,Collingwood,10,W,22,,,,,1,,,,,,,,,,,,,,,,,,,1939-05-03
+Melbourne,1939,16,Hawthorn,11,W,22,,,,,1,,,,,,,,,,,,,,,,,,,1939-05-10
+Melbourne,1939,17,Richmond,12,W,22,,,,,,,,,,,,,,,,,,,,,,,,1939-05-17
+Melbourne,1939,18,Essendon,13,L,22,,,,,,,,,,,,,,,,,,,,,,,,1939-05-24
+Melbourne,1939,19,St Kilda,14,W,22,,,,,,,,,,,,,,,,,,,,,,,,1939-05-31
+Melbourne,1939,20,Geelong,16,W,22,,,,,,,,,,,,,,,,,,,,,,,,1939-06-14

@@ -1,0 +1,14 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1912,1,Richmond,1,L,26,,,,,,,,,,,,,,,,,,,,,,,,1912-03-01
+St Kilda,1912,2,Geelong,2,L,26,,,,,,,,,,,,,,,,,,,,,,,,1912-03-08
+St Kilda,1912,3,Geelong,11,W,26,,,,,1,,,,,,,,,,,,,,,,,,,1912-05-10
+St Kilda,1912,4,South Melbourne,14,L,26,,,,,,,,,,,,,,,,,,,,,,,,1912-05-31
+St Kilda,1912,5,Carlton,15,L,26,,,,,,,,,,,,,,,,,,,,,,,,1912-06-07
+St Kilda,1912,6,Essendon,17,W,26,,,,,,,,,,,,,,,,,,,,,,,,1912-06-21
+St Kilda,1912,7,Melbourne,18,L,26,,,,,,,,,,,,,,,,,,,,,,,,1912-06-28
+St Kilda,1913,8,Fitzroy,2,W,24,,,,,,,,,,,,,,,,,,,,,,,,1913-03-08
+St Kilda,1913,9,University,3,W,24,,,,,,,,,,,,,,,,,,,,,,,,1913-03-15
+St Kilda,1913,10,Richmond,4,L,24,,,,,,,,,,,,,,,,,,,,,,,,1913-03-22
+St Kilda,1913,11,Melbourne,5,W,24,,,,,,,,,,,,,,,,,,,,,,,,1913-03-29
+St Kilda,1913,12,Carlton,6,L,24,,,,,,,,,,,,,,,,,,,,,,,,1913-04-05
+St Kilda,1913,13,South Melbourne,10,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1913-05-03

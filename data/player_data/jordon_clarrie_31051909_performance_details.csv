@@ -1,0 +1,16 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1934,1,Collingwood,4,L,32,,,,,,,,,,,,,,,,,,,,,,,,1934-03-22
+Richmond,1934,2,Essendon,5,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1934-03-29
+Richmond,1934,3,Footscray,8,W,32,,,,,,,,,,,,,,,,,,,,,,,,1934-04-19
+Richmond,1934,4,North Melbourne,11,W,32,,,,,,,,,,,,,,,,,,,,,,,,1934-05-10
+Richmond,1934,5,Melbourne,12,L,32,,,,,,,,,,,,,,,,,,,,,,,,1934-05-17
+Richmond,1934,6,Essendon,16,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1934-06-14
+Richmond,1935,7,Footscray,1,W,32,,,,,2,,,,,,,,,,,,,,,,,,,1935-03-01
+Richmond,1935,8,Carlton,3,L,32,,,,,,,,,,,,,,,,,,,,,,,,1935-03-15
+Richmond,1935,9,Melbourne,4,W,32,,,,,,,,,,,,,,,,,,,,,,,,1935-03-22
+Richmond,1935,10,Essendon,6,W,32,,,,,,,,,,,,,,,,,,,,,,,,1935-04-05
+Richmond,1936,11,Collingwood,2,L,32,,,,,,,,,,,,,,,,,,,,,,,,1936-03-08
+Richmond,1936,12,South Melbourne,9,W,32,,,,,,,,,,,,,,,,,,,,,,,,1936-04-26
+Richmond,1936,13,Footscray,10,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1936-05-03
+Richmond,1936,14,Melbourne,11,L,32,,,,,1,,,,,,,,,,,,,,,,,,,1936-05-10
+Richmond,1936,15,Hawthorn,16,L,32,,,,,,,,,,,,,,,,,,,,,,,,1936-06-14

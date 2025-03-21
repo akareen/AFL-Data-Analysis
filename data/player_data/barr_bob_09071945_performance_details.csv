@@ -1,0 +1,8 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Footscray,1964,1,Carlton,15,W,35,,,,,,,,,,,,,,,,,,,,,,,,1964-06-07
+Footscray,1964,2,North Melbourne,16,W,35,,,,,,,,,,,,,,,,,,,,,,,,1964-06-14
+Footscray,1964,3,South Melbourne,17,W,35,,,,,1,,,,,,,,,,,,,,,,,,,1964-06-21
+Footscray,1964,4,Melbourne,18,W,35,,,,,,,,,,,,,,,,,,,,,,,,1964-06-28
+Footscray,1965,5,Geelong,1,L,35,7,2,,7,,,,,,,,,,,,,,,,,,,,1965-03-01
+Footscray,1965,6,Fitzroy,2,L,35,6,1,,6,,,,,,,,,1,,,,,,,,,,,1965-03-08
+Footscray,1965,7,St Kilda,4,L,35,17,3,4,21,,,,,,,,,4,1,,,,,,,,,,1965-03-22

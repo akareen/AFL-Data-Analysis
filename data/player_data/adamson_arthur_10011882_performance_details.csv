@@ -1,0 +1,29 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1902,1,Essendon,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-22
+South Melbourne,1902,2,Geelong,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-29
+South Melbourne,1902,3,St Kilda,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-04-05
+South Melbourne,1902,4,Melbourne,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-04-12
+South Melbourne,1902,5,Collingwood,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-04-19
+South Melbourne,1902,6,Carlton,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-04-26
+South Melbourne,1902,7,Fitzroy,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-03
+South Melbourne,1902,8,Essendon,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-10
+South Melbourne,1902,9,Geelong,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-17
+South Melbourne,1902,10,Melbourne,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-31
+South Melbourne,1902,11,Collingwood,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-06-07
+South Melbourne,1902,12,Geelong,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-06-14
+South Melbourne,1902,13,Fitzroy,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-06-21
+South Melbourne,1903,14,Melbourne,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-01
+South Melbourne,1903,15,Fitzroy,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-15
+South Melbourne,1903,16,Geelong,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-22
+South Melbourne,1903,17,Carlton,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-29
+South Melbourne,1903,18,Essendon,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-05
+South Melbourne,1903,19,St Kilda,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-12
+South Melbourne,1903,20,Melbourne,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-19
+South Melbourne,1903,21,Collingwood,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-26
+South Melbourne,1903,22,Fitzroy,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-03
+South Melbourne,1903,23,Geelong,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-10
+South Melbourne,1903,24,Essendon,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-24
+South Melbourne,1903,25,St Kilda,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-31
+South Melbourne,1903,26,Geelong,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-07
+South Melbourne,1903,27,Fitzroy,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-14
+South Melbourne,1903,28,Essendon,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-21

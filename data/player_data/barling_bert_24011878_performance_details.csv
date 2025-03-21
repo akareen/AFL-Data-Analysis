@@ -1,0 +1,18 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1897,1,South Melbourne,5,W,,,,,,1,,,,,,,,,,,,,,,,,,,1897-03-29
+Geelong,1897,2,Fitzroy,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1897-04-05
+Geelong,1897,3,St Kilda,7,W,,,,,,2,,,,,,,,,,,,,,,,,,,1897-04-12
+Geelong,1897,4,Essendon,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1897-04-19
+Geelong,1897,5,Melbourne,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1897-04-26
+Geelong,1897,6,Collingwood,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1897-05-03
+Geelong,1897,7,Carlton,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1897-05-10
+Geelong,1897,8,Fitzroy,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1897-05-24
+Geelong,1897,9,St Kilda,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1897-05-31
+Geelong,1898,10,Collingwood,1,L,,,,,,1,,,,,,,,,,,,,,,,,,,1898-03-01
+Geelong,1898,11,Carlton,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-03-22
+Geelong,1898,12,Essendon,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-04-05
+Geelong,1898,13,Melbourne,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1898-04-12
+Geelong,1898,14,Collingwood,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-04-19
+Geelong,1898,15,St Kilda,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-04-26
+Geelong,1898,16,South Melbourne,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-05-03
+Geelong,1898,17,Carlton,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-05-10

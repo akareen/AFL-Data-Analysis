@@ -1,0 +1,15 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Footscray,1969,1,Fitzroy,1,W,21,1,,,1,,,,,,,,,,,,,,,,,,,,1969-03-01
+Footscray,1969,2,North Melbourne,11,W,21,,,,,,,,,,,,,,,,,,,,,,,,1969-05-10
+Footscray,1970,3,Collingwood,12,L,32,15,1,6,21,,,,,,,,,4,3,,,,,,,,,,1970-05-17
+Footscray,1970,4,Essendon,13,W,32,10,2,3,13,,,,,,,,,1,2,,,,,,,,,,1970-05-24
+Footscray,1970,5,St Kilda,14,L,32,6,1,,6,,,,,,,,,1,1,,,,,,,,,,1970-05-31
+Footscray,1970,6,North Melbourne,19,W,32,,,,,,,,,,,,,,,,,,,,,,,,1970-07-05
+Footscray,1970,7,Fitzroy,20,L,32,2,1,,2,,,,,,,,,1,,,,,,,,,,,1970-07-12
+Footscray,1971,8,Melbourne,2,L,17,9,,4,13,,,,,,,,,1,1,,,,,,,,,,1971-03-08
+Footscray,1971,9,South Melbourne,3,W,17,,,,,,,,,,,,,,,,,,,,,,,,1971-03-15
+Footscray,1971,10,Fitzroy,9,L,17,2,,,2,,1,,,,,,,,1,,,,,,,,,,1971-04-26
+Footscray,1971,11,Richmond,16,W,17,11,1,4,15,,,,,,,,,2,1,,,,,,,,,,1971-06-14
+Footscray,1971,12,Hawthorn,17,L,17,7,2,1,8,,,,,,,,,,4,,,,,,,,,,1971-06-21
+Footscray,1971,13,Carlton,18,L,17,,,,,,,,,,,,,,,,,,,,,,,,1971-06-28
+Footscray,1971,14,St Kilda,22,L,17,18,1,2,20,,,,,,,,,7,4,,,,,,,,,,1971-07-26

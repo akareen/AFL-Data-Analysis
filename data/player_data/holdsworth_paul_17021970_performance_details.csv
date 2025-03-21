@@ -1,0 +1,7 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Sydney,1989,1,West Coast,3,W,11,3,1,2,5,,,,1,,,,,1,,,,,,,,,,,1989-03-15
+Sydney,1989,2,Fitzroy,4,W,11,3,1,2,5,1,,,,,,,,1,1,,,,,,,,,,1989-03-22
+Sydney,1989,3,Collingwood,5,W,11,5,2,,5,1,1,,,,,,,1,,,,,,,,,,,1989-03-29
+Sydney,1989,4,St Kilda,6,L,11,6,2,1,7,,1,,1,,,,,,1,,,,,,,,,,1989-04-05
+Sydney,1989,5,Geelong,13,L,11,5,,7,12,1,,1,1,,,,,,1,,,,,,,,,,1989-05-24
+Sydney,1989,6,Footscray,15,W,11,6,2,3,9,,,,,,,,,,,,,,,,,,,,1989-06-07

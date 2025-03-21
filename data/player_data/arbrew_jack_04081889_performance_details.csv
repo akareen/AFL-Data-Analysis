@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1909,1,Richmond,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-26
+Richmond,1913,2,Collingwood,5,L,23,,,,,,,,,,,,,,,,,,,,,,,,1913-03-29
+Richmond,1913,3,Fitzroy,6,L,23,,,,,,,,,,,,,,,,,,,,,,,,1913-04-05
+Richmond,1913,4,Carlton,7,L,23,,,,,,,,,,,,,,,,,,,,,,,,1913-04-12
+Richmond,1913,5,Melbourne,8,W,23,,,,,,,,,,,,,,,,,,,,,,,,1913-04-19
+Richmond,1913,6,University,9,W,23,,,,,,,,,,,,,,,,,,,,,,,,1913-04-26
+Richmond,1913,7,Essendon,11,W,23,,,,,,,,,,,,,,,,,,,,,,,,1913-05-10
+Richmond,1914,8,Collingwood,3,L,23,,,,,,,,,,,,,,,,,,,,,,,,1914-03-15
+Richmond,1914,9,Essendon,4,L,23,,,,,,,,,,,,,,,,,,,,,,,,1914-03-22
+Richmond,1914,10,Carlton,9,L,23,,,,,,,,,,,,,,,,,,,,,,,,1914-04-26
+Richmond,1914,11,Collingwood,12,W,23,,,,,,,,,,,,,,,,,,,,,,,,1914-05-17

@@ -1,0 +1,21 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1955,1,Fitzroy,3,W,4,,,,,,,,,,,,,,,,,,,,,,,,1955-03-15
+Carlton,1955,2,St Kilda,4,W,4,,,,,,,,,,,,,,,,,,,,,,,,1955-03-22
+Carlton,1955,3,Collingwood,5,L,4,,,,,,,,,,,,,,,,,,,,,,,,1955-03-29
+Carlton,1955,4,South Melbourne,6,L,4,,,,,,,,,,,,,,,,,,,,,,,,1955-04-05
+Carlton,1955,5,Geelong,7,L,4,,,,,1,,,,,,,,,,,,,,,,,,,1955-04-12
+Carlton,1955,6,Melbourne,8,L,4,,,,,,,,,,,,,,,,,,,,,,,,1955-04-19
+Carlton,1955,7,Essendon,9,L,4,,,,,1,,,,,,,,,,,,,,,,,,,1955-04-26
+Carlton,1955,8,Footscray,10,L,4,,,,,,,,,,,,,,,,,,,,,,,,1955-05-03
+Carlton,1955,9,Richmond,11,L,4,,,,,,,,,,,,,,,,,,,,,,,,1955-05-10
+Carlton,1955,10,North Melbourne,12,W,4,,,,,,,,,,,,,,,,,,,,,,,,1955-05-17
+Carlton,1955,11,Hawthorn,13,W,4,,,,,1,,,,,,,,,,,,,,,,,,,1955-05-24
+Carlton,1956,12,Essendon,1,L,4,,,,,,,,,,,,,,,,,,,,,,,,1956-03-01
+Carlton,1956,13,Melbourne,2,L,4,,,,,,,,,,,,,,,,,,,,,,,,1956-03-08
+Carlton,1956,14,St Kilda,3,W,4,,,,,,,,,,,,,,,,,,,,,,,,1956-03-15
+Carlton,1956,15,Collingwood,5,W,4,,,,,1,,,,,,,,,,,,,,,,,,,1956-03-29
+Carlton,1956,16,Fitzroy,10,W,4,,,,,,,,,,,,,,,,,,,,,,,,1956-05-03
+Carlton,1956,17,South Melbourne,11,L,4,,,,,,,,,,,,,,,,,,,,,,,,1956-05-10
+Carlton,1956,18,Essendon,12,W,4,,,,,,,,,,,,,,,,,,,,,,,,1956-05-17
+Carlton,1956,19,St Kilda,14,D,4,,,,,,,,,,,,,,,,,,,,,,,,1956-05-31
+Carlton,1956,20,North Melbourne,15,W,4,,,,,,,,,,,,,,,,,,,,,,,,1956-06-07

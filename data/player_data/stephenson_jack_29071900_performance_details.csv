@@ -1,0 +1,23 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1920,1,Melbourne,6,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1920-04-05
+Carlton,1920,2,Geelong,7,W,3,,,,,1,,,,,,,,,,,,,,,,,,,1920-04-12
+Carlton,1920,3,St Kilda,10,W,3,,,,,1,,,,,,,,,,,,,,,,,,,1920-05-03
+Carlton,1921,4,Richmond,1,W,3,,,,,,,,,,,,,,,,,,,,,,,,1921-03-01
+Carlton,1921,5,St Kilda,3,W,3,,,,,,,,,,,,,,,,,,,,,,,,1921-03-15
+Carlton,1921,6,Fitzroy,4,D,3,,,,,,,,,,,,,,,,,,,,,,,,1921-03-22
+Carlton,1921,7,South Melbourne,5,D,3,,,,,,,,,,,,,,,,,,,,,,,,1921-03-29
+Carlton,1921,8,Essendon,6,W,3,,,,,,,,,,,,,,,,,,,,,,,,1921-04-05
+Carlton,1921,9,Geelong,7,W,3,,,,,,,,,,,,,,,,,,,,,,,,1921-04-12
+Carlton,1921,10,Melbourne,8,W,3,,,,,,,,,,,,,,,,,,,,,,,,1921-04-19
+Carlton,1921,11,Richmond,10,W,3,,,,,,,,,,,,,,,,,,,,,,,,1921-05-03
+Carlton,1921,12,St Kilda,12,W,3,,,,,,,,,,,,,,,,,,,,,,,,1921-05-17
+Carlton,1921,13,Fitzroy,13,L,3,,,,,,,,,,,,,,,,,,,,,,,,1921-05-24
+Carlton,1921,14,Essendon,15,W,3,,,,,,,,,,,,,,,,,,,,,,,,1921-06-07
+Carlton,1921,15,Geelong,16,W,3,,,,,,,,,,,,,,,,,,,,,,,,1921-06-14
+Carlton,1921,16,Melbourne,17,W,3,,,,,,,,,,,,,,,,,,,,,,,,1921-06-21
+Carlton,1921,17,Collingwood,18,W,3,,,,,,,,,,,,,,,,,,,,,,,,1921-06-28
+Carlton,1921,18,Collingwood,SF,W,3,,,,,,,,,,,,,,,,,,,,,,,,1921-03-01
+Carlton,1921,19,Richmond,PF,L,3,,,,,,,,,,,,,,,,,,,,,,,,1921-03-01
+Carlton,1921,20,Richmond,GF,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1921-03-01
+Carlton,1922,21,Essendon,1,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1922-03-01
+Carlton,1922,22,Fitzroy,2,W,3,,,,,,,,,,,,,,,,,,,,,,,,1922-03-08

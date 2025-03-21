@@ -1,0 +1,39 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1924,1,South Melbourne,6,L,3,,,,,,,,,,,,,,,,,,,,,,,,1924-04-05
+Collingwood,1924,2,Geelong,7,L,3,,,,,,,,,,,,,,,,,,,,,,,,1924-04-12
+Collingwood,1924,3,Richmond,8,L,3,,,,,,,,,,,,,,,,,,,,,,,,1924-04-19
+Collingwood,1924,4,Fitzroy,9,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1924-04-26
+Collingwood,1924,5,Essendon,10,L,3,,,,,,,,,,,,,,,,,,,,,,,,1924-05-03
+Collingwood,1924,6,St Kilda,11,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1924-05-10
+Collingwood,1924,7,Melbourne,12,W,3,,,,,1,,,,,,,,,,,,,,,,,,,1924-05-17
+Collingwood,1924,8,South Melbourne,15,W,3,,,,,1,,,,,,,,,,,,,,,,,,,1924-06-07
+Collingwood,1924,9,Fitzroy,18,W,3,,,,,1,,,,,,,,,,,,,,,,,,,1924-06-28
+Collingwood,1925,10,Essendon,1,L,3,,,,,2,,,,,,,,,,,,,,,,,,,1925-03-01
+Collingwood,1925,11,Melbourne,2,W,3,,,,,2,,,,,,,,,,,,,,,,,,,1925-03-08
+Collingwood,1925,12,Hawthorn,3,W,3,,,,,1,,,,,,,,,,,,,,,,,,,1925-03-15
+Collingwood,1925,13,Geelong,4,L,3,,,,,,,,,,,,,,,,,,,,,,,,1925-03-22
+Collingwood,1925,14,St Kilda,7,L,3,,,,,,,,,,,,,,,,,,,,,,,,1925-04-12
+Collingwood,1925,15,Footscray,10,W,3,,,,,1,,,,,,,,,,,,,,,,,,,1925-05-03
+Collingwood,1925,16,Essendon,SF,W,3,,,,,,,,,,,,,,,,,,,,,,,,1925-03-01
+Collingwood,1925,17,Melbourne,PF,W,3,,,,,,,,,,,,,,,,,,,,,,,,1925-03-01
+Collingwood,1925,18,Geelong,GF,L,3,,,,,,,,,,,,,,,,,,,,,,,,1925-03-01
+Collingwood,1926,19,Fitzroy,1,W,3,,,,,,,,,,,,,,,,,,,,,,,,1926-03-01
+Collingwood,1926,20,Geelong,5,W,3,,,,,,,,,,,,,,,,,,,,,,,,1926-03-29
+Collingwood,1926,21,South Melbourne,6,W,3,,,,,,,,,,,,,,,,,,,,,,,,1926-04-05
+Collingwood,1926,22,St Kilda,7,W,3,,,,,,,,,,,,,,,,,,,,,,,,1926-04-12
+Collingwood,1926,23,Footscray,8,W,3,,,,,,,,,,,,,,,,,,,,,,,,1926-04-19
+Collingwood,1926,24,Carlton,9,L,3,,,,,,,,,,,,,,,,,,,,,,,,1926-04-26
+Collingwood,1926,25,North Melbourne,10,W,3,,,,,,,,,,,,,,,,,,,,,,,,1926-05-03
+Collingwood,1926,26,Hawthorn,14,W,3,,,,,,,,,,,,,,,,,,,,,,,,1926-05-31
+Collingwood,1926,27,Melbourne,15,W,3,,,,,3,,,,,,,,,,,,,,,,,,,1926-06-07
+Collingwood,1926,28,Geelong,16,L,3,,,,,,,,,,,,,,,,,,,,,,,,1926-06-14
+Collingwood,1926,29,South Melbourne,17,W,3,,,,,,,,,,,,,,,,,,,,,,,,1926-06-21
+Collingwood,1926,30,Melbourne,SF,L,3,,,,,,,,,,,,,,,,,,,,,,,,1926-03-01
+Collingwood,1926,31,Melbourne,GF,L,3,,,,,,,,,,,,,,,,,,,,,,,,1926-03-01
+Collingwood,1927,32,Richmond,3,L,5,,,,,,,,,,,,,,,,,,,,,,,,1927-03-15
+Collingwood,1927,33,South Melbourne,4,W,5,,,,,2,,,,,,,,,,,,,,,,,,,1927-03-22
+Collingwood,1927,34,Fitzroy,5,W,5,,,,,,,,,,,,,,,,,,,,,,,,1927-03-29
+Collingwood,1927,35,Essendon,6,W,5,,,,,,,,,,,,,,,,,,,,,,,,1927-04-05
+Collingwood,1927,36,St Kilda,7,W,5,,,,,,,,,,,,,,,,,,,,,,,,1927-04-12
+Collingwood,1927,37,Carlton,9,L,5,,,,,,,,,,,,,,,,,,,,,,,,1927-04-26
+Collingwood,1928,38,Geelong,1,W,2,,,,,1,,,,,,,,,,,,,,,,,,,1928-03-01

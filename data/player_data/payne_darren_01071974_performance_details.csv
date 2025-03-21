@@ -1,0 +1,7 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1993,1,Footscray,18,L,46,6,1,4,10,,,,1,,,,,,,,,,,,,,,,1993-06-28
+Fitzroy,1994,2,North Melbourne,8,L,27,9,3,5,14,,1,,1,,,,,,1,,,,,,,,,,1994-04-19
+Fitzroy,1994,3,Melbourne,15,L,27,3,,,3,,,,,,,,,1,,,,,,,,,,,1994-06-07
+Fitzroy,1995,4,Melbourne,15,L,29,5,3,6,11,,,,2,,,,,1,1,,,,,,,,,,1995-06-07
+Fitzroy,1995,5,Essendon,16,L,29,6,2,2,8,1,1,,1,,,,,2,,,,,,,,,,,1995-06-14
+Fitzroy,1995,6,Sydney,19,L,29,3,,,3,,,,,,,,,,1,,,,,,,,,,1995-07-05

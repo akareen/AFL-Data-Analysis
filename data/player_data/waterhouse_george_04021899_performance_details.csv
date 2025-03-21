@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1925,1,North Melbourne,3,W,5,,,,,,,,,,,,,,,,,,,,,,,,1925-03-15
+South Melbourne,1925,2,Essendon,7,L,5,,,,,1,,,,,,,,,,,,,,,,,,,1925-04-12
+Richmond,1926,3,South Melbourne,1,W,7,,,,,,,,,,,,,,,,,,,,,,,,1926-03-01
+Richmond,1926,4,Fitzroy,2,W,7,,,,,,,,,,,,,,,,,,,,,,,,1926-03-08
+Richmond,1926,5,Essendon,3,L,7,,,,,,,,,,,,,,,,,,,,,,,,1926-03-15
+Richmond,1926,6,Hawthorn,4,W,7,,,,,1,,,,,,,,,,,,,,,,,,,1926-03-22
+Richmond,1926,7,South Melbourne,12,L,7,,,,,,,,,,,,,,,,,,,,,,,,1926-05-17
+Richmond,1926,8,Geelong,17,L,7,,,,,1,,,,,,,,,,,,,,,,,,,1926-06-21
+Richmond,1926,9,Footscray,18,L,7,,,,,,,,,,,,,,,,,,,,,,,,1926-06-28
+Fitzroy,1927,10,Essendon,18,L,,,,,,,,,,,,,,,,,,,,,,,,,1927-06-28

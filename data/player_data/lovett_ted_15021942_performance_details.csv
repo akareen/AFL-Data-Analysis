@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1963,1,North Melbourne,8,L,44,,,,,,,,,,,,,,,,,,,,,,,,1963-04-19
+Fitzroy,1963,2,South Melbourne,9,L,44,,,,,,,,,,,,,,,,,,,,,,,,1963-04-26
+Fitzroy,1964,3,Collingwood,1,L,22,,,,,,,,,,,,,,,,,,,,,,,,1964-03-01
+Fitzroy,1964,4,South Melbourne,2,L,22,,,,,,,,,,,,,,,,,,,,,,,,1964-03-08
+Fitzroy,1964,5,Geelong,3,L,22,,,,,,,,,,,,,,,,,,,,,,,,1964-03-15
+Fitzroy,1964,6,Richmond,4,L,22,,,,,,,,,,,,,,,,,,,,,,,,1964-03-22
+Fitzroy,1964,7,Hawthorn,5,L,22,,,,,1,,,,,,,,,,,,,,,,,,,1964-03-29
+Fitzroy,1964,8,North Melbourne,6,L,22,,,,,,,,,,,,,,,,,,,,,,,,1964-04-05
+Fitzroy,1964,9,Essendon,11,L,22,,,,,1,,,,,,,,,,,,,,,,,,,1964-05-10

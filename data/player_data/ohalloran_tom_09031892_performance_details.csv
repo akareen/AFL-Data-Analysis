@@ -1,0 +1,63 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1918,1,Geelong,1,W,20,,,,,,,,,,,,,,,,,,,,,,,,1918-03-01
+South Melbourne,1918,2,Fitzroy,2,W,20,,,,,,,,,,,,,,,,,,,,,,,,1918-03-08
+South Melbourne,1918,3,Collingwood,3,W,20,,,,,1,,,,,,,,,,,,,,,,,,,1918-03-15
+South Melbourne,1918,4,St Kilda,4,L,20,,,,,,,,,,,,,,,,,,,,,,,,1918-03-22
+South Melbourne,1918,5,Carlton,5,W,20,,,,,,,,,,,,,,,,,,,,,,,,1918-03-29
+South Melbourne,1918,6,Essendon,6,W,20,,,,,,,,,,,,,,,,,,,,,,,,1918-04-05
+South Melbourne,1918,7,Richmond,7,W,20,,,,,,,,,,,,,,,,,,,,,,,,1918-04-12
+South Melbourne,1918,8,Geelong,8,W,20,,,,,,,,,,,,,,,,,,,,,,,,1918-04-19
+South Melbourne,1918,9,Fitzroy,9,W,20,,,,,2,,,,,,,,,,,,,,,,,,,1918-04-26
+South Melbourne,1918,10,Collingwood,10,W,20,,,,,1,,,,,,,,,,,,,,,,,,,1918-05-03
+South Melbourne,1918,11,St Kilda,11,W,20,,,,,,,,,,,,,,,,,,,,,,,,1918-05-10
+South Melbourne,1918,12,Carlton,12,W,20,,,,,,,,,,,,,,,,,,,,,,,,1918-05-17
+South Melbourne,1918,13,Essendon,13,W,20,,,,,,,,,,,,,,,,,,,,,,,,1918-05-24
+South Melbourne,1918,14,Richmond,14,W,20,,,,,,,,,,,,,,,,,,,,,,,,1918-05-31
+South Melbourne,1918,15,Carlton,SF,W,20,,,,,1,,,,,,,,,,,,,,,,,,,1918-03-01
+South Melbourne,1918,16,Collingwood,GF,W,20,,,,,,,,,,,,,,,,,,,,,,,,1918-03-01
+South Melbourne,1919,17,Collingwood,1,L,20,,,,,,,,,,,,,,,,,,,,,,,,1919-03-01
+South Melbourne,1919,18,Melbourne,2,W,20,,,,,,,,,,,,,,,,,,,,,,,,1919-03-08
+South Melbourne,1919,19,St Kilda,3,W,20,,,,,,,,,,,,,,,,,,,,,,,,1919-03-15
+South Melbourne,1919,20,Fitzroy,4,W,20,,,,,1,,,,,,,,,,,,,,,,,,,1919-03-22
+South Melbourne,1919,21,Essendon,5,W,20,,,,,,,,,,,,,,,,,,,,,,,,1919-03-29
+South Melbourne,1919,22,Richmond,6,W,20,,,,,,,,,,,,,,,,,,,,,,,,1919-04-05
+South Melbourne,1919,23,Carlton,8,W,20,,,,,,,,,,,,,,,,,,,,,,,,1919-04-19
+South Melbourne,1919,24,Geelong,9,W,20,,,,,,,,,,,,,,,,,,,,,,,,1919-04-26
+South Melbourne,1919,25,Collingwood,10,L,20,,,,,,,,,,,,,,,,,,,,,,,,1919-05-03
+South Melbourne,1919,26,St Kilda,12,W,20,,,,,,,,,,,,,,,,,,,,,,,,1919-05-17
+South Melbourne,1919,27,Fitzroy,13,W,20,,,,,,,,,,,,,,,,,,,,,,,,1919-05-24
+South Melbourne,1919,28,Essendon,14,W,20,,,,,,,,,,,,,,,,,,,,,,,,1919-05-31
+South Melbourne,1919,29,Richmond,15,W,20,,,,,,,,,,,,,,,,,,,,,,,,1919-06-07
+South Melbourne,1919,30,Carlton,17,L,20,,,,,,,,,,,,,,,,,,,,,,,,1919-06-21
+South Melbourne,1919,31,Geelong,18,L,20,,,,,,,,,,,,,,,,,,,,,,,,1919-06-28
+South Melbourne,1919,32,Richmond,SF,L,20,,,,,,,,,,,,,,,,,,,,,,,,1919-03-01
+South Melbourne,1920,33,Melbourne,1,L,16,,,,,,,,,,,,,,,,,,,,,,,,1920-03-01
+South Melbourne,1920,34,Fitzroy,2,L,16,,,,,,,,,,,,,,,,,,,,,,,,1920-03-08
+South Melbourne,1920,35,Essendon,3,W,16,,,,,,,,,,,,,,,,,,,,,,,,1920-03-15
+South Melbourne,1920,36,Carlton,5,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1920-03-29
+South Melbourne,1920,37,Richmond,6,L,16,,,,,,,,,,,,,,,,,,,,,,,,1920-04-05
+South Melbourne,1920,38,St Kilda,7,W,16,,,,,3,,,,,,,,,,,,,,,,,,,1920-04-12
+South Melbourne,1920,39,Geelong,8,W,16,,,,,,,,,,,,,,,,,,,,,,,,1920-04-19
+South Melbourne,1920,40,Collingwood,9,L,16,,,,,,,,,,,,,,,,,,,,,,,,1920-04-26
+South Melbourne,1920,41,Melbourne,10,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1920-05-03
+South Melbourne,1920,42,Fitzroy,11,L,16,,,,,,,,,,,,,,,,,,,,,,,,1920-05-10
+South Melbourne,1920,43,Essendon,12,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1920-05-17
+South Melbourne,1920,44,Carlton,13,L,16,,,,,,,,,,,,,,,,,,,,,,,,1920-05-24
+South Melbourne,1920,45,Richmond,15,L,16,,,,,,,,,,,,,,,,,,,,,,,,1920-06-07
+South Melbourne,1920,46,St Kilda,16,W,16,,,,,,,,,,,,,,,,,,,,,,,,1920-06-14
+South Melbourne,1920,47,Geelong,17,L,16,,,,,,,,,,,,,,,,,,,,,,,,1920-06-21
+South Melbourne,1920,48,Collingwood,18,L,16,,,,,,,,,,,,,,,,,,,,,,,,1920-06-28
+South Melbourne,1921,49,St Kilda,1,W,16,,,,,,,,,,,,,,,,,,,,,,,,1921-03-01
+South Melbourne,1921,50,Richmond,2,L,16,,,,,,,,,,,,,,,,,,,,,,,,1921-03-08
+South Melbourne,1921,51,Essendon,3,L,16,,,,,,,,,,,,,,,,,,,,,,,,1921-03-15
+South Melbourne,1921,52,Carlton,5,D,16,,,,,,,,,,,,,,,,,,,,,,,,1921-03-29
+South Melbourne,1921,53,Collingwood,6,L,16,,,,,,,,,,,,,,,,,,,,,,,,1921-04-05
+South Melbourne,1921,54,Geelong,8,W,16,,,,,,,,,,,,,,,,,,,,,,,,1921-04-19
+South Melbourne,1921,55,Fitzroy,9,W,16,,,,,,,,,,,,,,,,,,,,,,,,1921-04-26
+South Melbourne,1921,56,St Kilda,10,W,16,,,,,,,,,,,,,,,,,,,,,,,,1921-05-03
+South Melbourne,1921,57,Essendon,12,L,16,,,,,,,,,,,,,,,,,,,,,,,,1921-05-17
+South Melbourne,1921,58,Melbourne,13,W,16,,,,,,,,,,,,,,,,,,,,,,,,1921-05-24
+South Melbourne,1921,59,Carlton,14,L,16,,,,,,,,,,,,,,,,,,,,,,,,1921-05-31
+South Melbourne,1921,60,Collingwood,15,L,16,,,,,,,,,,,,,,,,,,,,,,,,1921-06-07
+South Melbourne,1921,61,Geelong,17,L,16,,,,,,,,,,,,,,,,,,,,,,,,1921-06-21
+South Melbourne,1921,62,Fitzroy,18,L,16,,,,,,,,,,,,,,,,,,,,,,,,1921-06-28

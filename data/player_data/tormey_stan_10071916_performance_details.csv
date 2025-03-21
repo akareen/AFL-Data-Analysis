@@ -1,0 +1,32 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1941,1,Melbourne,4,L,36,,,,,,,,,,,,,,,,,,,,,,,,1941-03-22
+St Kilda,1941,2,Carlton,5,L,36,,,,,,,,,,,,,,,,,,,,,,,,1941-03-29
+St Kilda,1941,3,North Melbourne,6,L,36,,,,,,,,,,,,,,,,,,,,,,,,1941-04-05
+St Kilda,1941,4,Footscray,7,W,36,,,,,,,,,,,,,,,,,,,,,,,,1941-04-12
+St Kilda,1941,5,Richmond,8,L,36,,,,,,,,,,,,,,,,,,,,,,,,1941-04-19
+St Kilda,1941,6,Fitzroy,10,L,36,,,,,,,,,,,,,,,,,,,,,,,,1941-05-03
+St Kilda,1941,7,Geelong,13,W,36,,,,,,,,,,,,,,,,,,,,,,,,1941-05-24
+St Kilda,1941,8,Essendon,14,L,36,,,,,,,,,,,,,,,,,,,,,,,,1941-05-31
+St Kilda,1941,9,Melbourne,15,L,36,,,,,,,,,,,,,,,,,,,,,,,,1941-06-07
+St Kilda,1941,10,North Melbourne,17,L,36,,,,,,,,,,,,,,,,,,,,,,,,1941-06-21
+St Kilda,1941,11,Footscray,18,L,36,,,,,,,,,,,,,,,,,,,,,,,,1941-06-28
+St Kilda,1942,12,Fitzroy,1,L,14,,,,,,,,,,,,,,,,,,,,,,,,1942-03-01
+St Kilda,1942,13,Hawthorn,2,W,14,,,,,,,,,,,,,,,,,,,,,,,,1942-03-08
+St Kilda,1942,14,South Melbourne,3,L,14,,,,,,,,,,,,,,,,,,,,,,,,1942-03-15
+St Kilda,1942,15,Richmond,4,L,14,,,,,,,,,,,,,,,,,,,,,,,,1942-03-22
+St Kilda,1942,16,Melbourne,6,W,14,,,,,,,,,,,,,,,,,,,,,,,,1942-04-05
+St Kilda,1942,17,Collingwood,7,W,14,,,,,,,,,,,,,,,,,,,,,,,,1942-04-12
+St Kilda,1942,18,Carlton,8,L,14,,,,,,,,,,,,,,,,,,,,,,,,1942-04-19
+St Kilda,1942,19,Essendon,9,W,14,,,,,,,,,,,,,,,,,,,,,,,,1942-04-26
+St Kilda,1942,20,Footscray,10,L,14,,,,,,,,,,,,,,,,,,,,,,,,1942-05-03
+St Kilda,1942,21,North Melbourne,11,W,14,,,,,,,,,,,,,,,,,,,,,,,,1942-05-10
+St Kilda,1942,22,Fitzroy,12,L,14,,,,,,,,,,,,,,,,,,,,,,,,1942-05-17
+St Kilda,1942,23,Hawthorn,13,W,14,,,,,,,,,,,,,,,,,,,,,,,,1942-05-24
+St Kilda,1942,24,South Melbourne,14,L,14,,,,,,,,,,,,,,,,,,,,,,,,1942-05-31
+St Kilda,1942,25,Richmond,15,L,14,,,,,,,,,,,,,,,,,,,,,,,,1942-06-07
+St Kilda,1943,26,Hawthorn,1,L,14,,,,,,,,,,,,,,,,,,,,,,,,1943-03-01
+St Kilda,1943,27,North Melbourne,2,D,14,,,,,1,,,,,,,,,,,,,,,,,,,1943-03-08
+St Kilda,1943,28,Footscray,4,L,14,,,,,1,,,,,,,,,,,,,,,,,,,1943-03-22
+St Kilda,1943,29,Carlton,5,W,14,,,,,,,,,,,,,,,,,,,,,,,,1943-03-29
+St Kilda,1943,30,Essendon,8,L,14,,,,,,,,,,,,,,,,,,,,,,,,1943-04-19
+St Kilda,1943,31,South Melbourne,11,L,14,,,,,,,,,,,,,,,,,,,,,,,,1943-05-10

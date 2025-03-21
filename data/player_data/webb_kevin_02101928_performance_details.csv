@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1949,1,North Melbourne,3,L,13,,,,,,,,,,,,,,,,,,,,,,,,1949-03-15
+Richmond,1949,2,St Kilda,4,W,13,,,,,,,,,,,,,,,,,,,,,,,,1949-03-22
+Richmond,1949,3,South Melbourne,6,W,13,,,,,,,,,,,,,,,,,,,,,,,,1949-04-05
+Richmond,1949,4,Fitzroy,7,W,13,,,,,,,,,,,,,,,,,,,,,,,,1949-04-12
+Richmond,1949,5,Melbourne,11,L,13,,,,,,,,,,,,,,,,,,,,,,,,1949-05-10
+Richmond,1949,6,Hawthorn,13,W,13,,,,,,,,,,,,,,,,,,,,,,,,1949-05-24
+Richmond,1949,7,North Melbourne,14,L,13,,,,,,,,,,,,,,,,,,,,,,,,1949-05-31
+Melbourne,1951,8,Essendon,12,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1951-05-17
+Melbourne,1951,9,Collingwood,13,L,6,,,,,,,,,,,,,,,,,,,,,,,,1951-05-24
+Melbourne,1951,10,Fitzroy,14,L,6,,,,,2,,,,,,,,,,,,,,,,,,,1951-05-31
+Melbourne,1951,11,St Kilda,15,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1951-06-07

@@ -1,0 +1,67 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1919,1,St Kilda,4,L,12,,,,,,,,,,,,,,,,,,,,,,,,1919-03-22
+Essendon,1919,2,South Melbourne,5,L,12,,,,,,,,,,,,,,,,,,,,,,,,1919-03-29
+Essendon,1919,3,Geelong,7,W,12,,,,,,,,,,,,,,,,,,,,,,,,1919-04-12
+Essendon,1919,4,Collingwood,8,L,12,,,,,,,,,,,,,,,,,,,,,,,,1919-04-19
+Essendon,1919,5,Melbourne,9,W,12,,,,,7,,,,,,,,,,,,,,,,,,,1919-04-26
+Essendon,1919,6,Richmond,10,L,12,,,,,1,,,,,,,,,,,,,,,,,,,1919-05-03
+Essendon,1919,7,Carlton,11,W,12,,,,,,,,,,,,,,,,,,,,,,,,1919-05-10
+Essendon,1919,8,Fitzroy,12,W,12,,,,,,,,,,,,,,,,,,,,,,,,1919-05-17
+Essendon,1919,9,St Kilda,13,L,12,,,,,,,,,,,,,,,,,,,,,,,,1919-05-24
+Essendon,1919,10,South Melbourne,14,L,12,,,,,,,,,,,,,,,,,,,,,,,,1919-05-31
+Essendon,1919,11,Geelong,16,W,12,,,,,,,,,,,,,,,,,,,,,,,,1919-06-14
+Essendon,1919,12,Collingwood,17,L,12,,,,,1,,,,,,,,,,,,,,,,,,,1919-06-21
+Essendon,1919,13,Melbourne,18,W,12,,,,,,,,,,,,,,,,,,,,,,,,1919-06-28
+Essendon,1920,14,Collingwood,1,W,12,,,,,,,,,,,,,,,,,,,,,,,,1920-03-01
+Essendon,1920,15,Melbourne,2,L,12,,,,,,,,,,,,,,,,,,,,,,,,1920-03-08
+Essendon,1920,16,Carlton,4,L,12,,,,,,,,,,,,,,,,,,,,,,,,1920-03-22
+Essendon,1920,17,Fitzroy,7,W,12,,,,,,,,,,,,,,,,,,,,,,,,1920-04-12
+Essendon,1920,18,Richmond,9,L,12,,,,,,,,,,,,,,,,,,,,,,,,1920-04-26
+Essendon,1920,19,Collingwood,10,L,12,,,,,2,,,,,,,,,,,,,,,,,,,1920-05-03
+Essendon,1920,20,Melbourne,11,W,12,,,,,,,,,,,,,,,,,,,,,,,,1920-05-10
+Essendon,1920,21,South Melbourne,12,L,12,,,,,,,,,,,,,,,,,,,,,,,,1920-05-17
+Essendon,1920,22,St Kilda,13,L,12,,,,,,,,,,,,,,,,,,,,,,,,1920-05-24
+Essendon,1920,23,Carlton,14,L,12,,,,,1,,,,,,,,,,,,,,,,,,,1920-05-31
+Essendon,1920,24,Fitzroy,16,L,12,,,,,,,,,,,,,,,,,,,,,,,,1920-06-14
+Essendon,1921,25,South Melbourne,3,W,12,,,,,,,,,,,,,,,,,,,,,,,,1921-03-15
+Essendon,1921,26,Collingwood,4,L,12,,,,,,,,,,,,,,,,,,,,,,,,1921-03-22
+Essendon,1921,27,Melbourne,10,W,12,,,,,,,,,,,,,,,,,,,,,,,,1921-05-03
+Essendon,1921,28,Carlton,15,L,12,,,,,,,,,,,,,,,,,,,,,,,,1921-06-07
+Essendon,1921,29,Richmond,16,L,12,,,,,,,,,,,,,,,,,,,,,,,,1921-06-14
+Essendon,1921,30,Fitzroy,17,D,12,,,,,,,,,,,,,,,,,,,,,,,,1921-06-21
+Essendon,1921,31,St Kilda,18,L,12,,,,,,,,,,,,,,,,,,,,,,,,1921-06-28
+Essendon,1922,32,South Melbourne,12,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1922-05-17
+Essendon,1922,33,Fitzroy,13,W,19,,,,,,,,,,,,,,,,,,,,,,,,1922-05-24
+Essendon,1922,34,Richmond,14,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1922-05-31
+Essendon,1922,35,Melbourne,15,W,19,,,,,,,,,,,,,,,,,,,,,,,,1922-06-07
+Essendon,1922,36,St Kilda,16,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1922-06-14
+Essendon,1922,37,Collingwood,18,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1922-06-28
+Essendon,1922,38,Carlton,SF,W,19,,,,,,,,,,,,,,,,,,,,,,,,1922-03-01
+Essendon,1922,39,Fitzroy,PF,L,19,,,,,,,,,,,,,,,,,,,,,,,,1922-03-01
+Essendon,1923,40,Richmond,6,W,12,,,,,,,,,,,,,,,,,,,,,,,,1923-04-05
+Essendon,1923,41,St Kilda,10,L,12,,,,,,,,,,,,,,,,,,,,,,,,1923-05-03
+Footscray,1925,42,Fitzroy,1,L,14,,,,,,,,,,,,,,,,,,,,,,,,1925-03-01
+Footscray,1925,43,South Melbourne,2,W,14,,,,,,,,,,,,,,,,,,,,,,,,1925-03-08
+Footscray,1925,44,Essendon,3,L,14,,,,,,,,,,,,,,,,,,,,,,,,1925-03-15
+Footscray,1925,45,Melbourne,4,L,14,,,,,,,,,,,,,,,,,,,,,,,,1925-03-22
+Footscray,1925,46,Hawthorn,5,L,14,,,,,,,,,,,,,,,,,,,,,,,,1925-03-29
+Footscray,1925,47,Geelong,6,L,14,,,,,,,,,,,,,,,,,,,,,,,,1925-04-05
+Footscray,1925,48,North Melbourne,7,L,14,,,,,,,,,,,,,,,,,,,,,,,,1925-04-12
+Footscray,1925,49,Richmond,8,W,14,,,,,,,,,,,,,,,,,,,,,,,,1925-04-19
+Footscray,1925,50,St Kilda,9,L,14,,,,,,,,,,,,,,,,,,,,,,,,1925-04-26
+Footscray,1925,51,Collingwood,10,L,14,,,,,,,,,,,,,,,,,,,,,,,,1925-05-03
+Footscray,1925,52,Carlton,11,L,14,,,,,,,,,,,,,,,,,,,,,,,,1925-05-10
+Footscray,1925,53,Fitzroy,12,W,14,,,,,,,,,,,,,,,,,,,,,,,,1925-05-17
+Footscray,1925,54,South Melbourne,13,L,14,,,,,1,,,,,,,,,,,,,,,,,,,1925-05-24
+Footscray,1925,55,Essendon,14,L,14,,,,,,,,,,,,,,,,,,,,,,,,1925-05-31
+Footscray,1925,56,Melbourne,15,L,14,,,,,,,,,,,,,,,,,,,,,,,,1925-06-07
+Footscray,1925,57,Hawthorn,16,W,14,,,,,,,,,,,,,,,,,,,,,,,,1925-06-14
+Footscray,1925,58,Geelong,17,L,14,,,,,,,,,,,,,,,,,,,,,,,,1925-06-21
+Footscray,1926,59,Geelong,1,L,9,,,,,,,,,,,,,,,,,,,,,,,,1926-03-01
+Footscray,1926,60,South Melbourne,2,L,9,,,,,,,,,,,,,,,,,,,,,,,,1926-03-08
+Footscray,1926,61,Fitzroy,3,L,9,,,,,,,,,,,,,,,,,,,,,,,,1926-03-15
+Footscray,1926,62,Essendon,4,L,9,,,,,,,,,,,,,,,,,,,,,,,,1926-03-22
+Footscray,1926,63,Hawthorn,5,W,9,,,,,,,,,,,,,,,,,,,,,,,,1926-03-29
+Footscray,1926,64,Melbourne,6,L,9,,,,,,,,,,,,,,,,,,,,,,,,1926-04-05
+Footscray,1926,65,Carlton,7,L,9,,,,,,,,,,,,,,,,,,,,,,,,1926-04-12
+Footscray,1926,66,Fitzroy,14,L,9,,,,,,,,,,,,,,,,,,,,,,,,1926-05-31

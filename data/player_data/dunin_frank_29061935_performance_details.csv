@@ -1,0 +1,70 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1953,1,Hawthorn,11,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1953-05-10
+Richmond,1953,2,Melbourne,12,D,23,,,,,,,,,,,,,,,,,,,,,,,,1953-05-17
+Richmond,1953,3,Fitzroy,13,L,23,,,,,3,,,,,,,,,,,,,,,,,,,1953-05-24
+Richmond,1953,4,Carlton,14,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1953-05-31
+Richmond,1953,5,St Kilda,15,W,23,,,,,2,,,,,,,,,,,,,,,,,,,1953-06-07
+Richmond,1953,6,Geelong,16,L,23,,,,,,,,,,,,,,,,,,,,,,,,1953-06-14
+Richmond,1953,7,Collingwood,17,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1953-06-21
+Richmond,1953,8,Essendon,18,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1953-06-28
+Richmond,1955,9,South Melbourne,4,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1955-03-22
+Richmond,1955,10,Fitzroy,5,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1955-03-29
+Richmond,1955,11,North Melbourne,6,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1955-04-05
+Richmond,1955,12,St Kilda,7,W,23,,,,,,,,,,,,,,,,,,,,,,,,1955-04-12
+Richmond,1955,13,Hawthorn,8,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1955-04-19
+Richmond,1955,14,Melbourne,9,L,23,,,,,2,,,,,,,,,,,,,,,,,,,1955-04-26
+Richmond,1955,15,Collingwood,10,L,23,,,,,,,,,,,,,,,,,,,,,,,,1955-05-03
+Richmond,1955,16,Carlton,11,W,23,,,,,3,,,,,,,,,,,,,,,,,,,1955-05-10
+Richmond,1955,17,Essendon,12,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1955-05-17
+Richmond,1955,18,Footscray,13,W,23,,,,,,,,,,,,,,,,,,,,,,,,1955-05-24
+Richmond,1955,19,Geelong,14,W,23,,,,,,,,,,,,,,,,,,,,,,,,1955-05-31
+Richmond,1955,20,South Melbourne,15,W,23,,,,,,,,,,,,,,,,,,,,,,,,1955-06-07
+Richmond,1955,21,Fitzroy,16,W,23,,,,,,,,,,,,,,,,,,,,,,,,1955-06-14
+Richmond,1955,22,North Melbourne,17,W,23,,,,,,,,,,,,,,,,,,,,,,,,1955-06-21
+Richmond,1955,23,St Kilda,18,W,23,,,,,,,,,,,,,,,,,,,,,,,,1955-06-28
+Richmond,1956,24,Hawthorn,2,L,23,,,,,,,,,,,,,,,,,,,,,,,,1956-03-08
+Richmond,1956,25,Collingwood,3,W,23,,,,,,,,,,,,,,,,,,,,,,,,1956-03-15
+Richmond,1956,26,Geelong,4,L,23,,,,,,,,,,,,,,,,,,,,,,,,1956-03-22
+Richmond,1956,27,Essendon,5,L,23,,,,,,,,,,,,,,,,,,,,,,,,1956-03-29
+Richmond,1956,28,Carlton,6,L,23,,,,,,,,,,,,,,,,,,,,,,,,1956-04-05
+Richmond,1956,29,St Kilda,7,L,23,,,,,,,,,,,,,,,,,,,,,,,,1956-04-12
+Richmond,1956,30,South Melbourne,8,L,23,,,,,,,,,,,,,,,,,,,,,,,,1956-04-19
+Richmond,1956,31,Footscray,9,L,23,,,,,,,,,,,,,,,,,,,,,,,,1956-04-26
+Richmond,1956,32,North Melbourne,10,W,23,,,,,,,,,,,,,,,,,,,,,,,,1956-05-03
+Richmond,1956,33,Fitzroy,11,W,23,,,,,,,,,,,,,,,,,,,,,,,,1956-05-10
+Richmond,1956,34,Melbourne,12,L,23,,,,,,,,,,,,,,,,,,,,,,,,1956-05-17
+Richmond,1956,35,Hawthorn,13,W,23,,,,,,,,,,,,,,,,,,,,,,,,1956-05-24
+Richmond,1956,36,Geelong,15,L,23,,,,,,,,,,,,,,,,,,,,,,,,1956-06-07
+Richmond,1956,37,Essendon,16,W,23,,,,,,,,,,,,,,,,,,,,,,,,1956-06-14
+Richmond,1956,38,Carlton,17,W,23,,,,,,,,,,,,,,,,,,,,,,,,1956-06-21
+Richmond,1956,39,St Kilda,18,L,23,,,,,,,,,,,,,,,,,,,,,,,,1956-06-28
+Richmond,1957,40,North Melbourne,1,W,23,,,,,,,,,,,,,,,,,,,,,,,,1957-03-01
+Richmond,1957,41,Hawthorn,2,L,23,,,,,,,,,,,,,,,,,,,,,,,,1957-03-08
+Richmond,1957,42,South Melbourne,3,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1957-03-15
+Richmond,1957,43,Fitzroy,4,W,23,,,,,,,,,,,,,,,,,,,,,,,,1957-03-22
+Richmond,1957,44,Carlton,5,L,23,,,,,,,,,,,,,,,,,,,,,,,,1957-03-29
+Richmond,1957,45,Melbourne,7,W,23,,,,,,,,,,,,,,,,,,,,,,,,1957-04-12
+Richmond,1957,46,St Kilda,8,W,23,,,,,,,,,,,,,,,,,,,,,,,,1957-04-19
+Richmond,1958,47,South Melbourne,1,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1958-03-01
+Richmond,1958,48,Footscray,2,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1958-03-08
+Richmond,1958,49,St Kilda,3,W,23,,,,,,,,,,,,,,,,,,,,,,,,1958-03-15
+Richmond,1958,50,Fitzroy,4,L,23,,,,,3,,,,,,,,,,,,,,,,,,,1958-03-22
+Richmond,1958,51,Geelong,5,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1958-03-29
+Richmond,1958,52,Collingwood,6,L,23,,,,,,,,,,,,,,,,,,,,,,,,1958-04-05
+Richmond,1958,53,Essendon,7,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1958-04-12
+Richmond,1958,54,Melbourne,8,L,23,,,,,,,,,,,,,,,,,,,,,,,,1958-04-19
+Richmond,1958,55,Hawthorn,11,W,23,,,,,,,,,,,,,,,,,,,,,,,,1958-05-10
+Richmond,1958,56,South Melbourne,12,W,23,,,,,,,,,,,,,,,,,,,,,,,,1958-05-17
+Richmond,1958,57,Footscray,13,L,23,,,,,,,,,,,,,,,,,,,,,,,,1958-05-24
+Richmond,1958,58,Geelong,16,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1958-06-14
+Richmond,1958,59,Collingwood,17,L,23,,,,,,,,,,,,,,,,,,,,,,,,1958-06-21
+Richmond,1958,60,Essendon,18,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1958-06-28
+Richmond,1959,61,Melbourne,1,L,23,,,,,,,,,,,,,,,,,,,,,,,,1959-03-01
+Richmond,1959,62,North Melbourne,2,L,23,,,,,,,,,,,,,,,,,,,,,,,,1959-03-08
+Richmond,1959,63,Melbourne,12,L,23,,,,,,,,,,,,,,,,,,,,,,,,1959-05-17
+Richmond,1959,64,North Melbourne,13,W,23,,,,,,,,,,,,,,,,,,,,,,,,1959-05-24
+Richmond,1959,65,Geelong,14,L,23,,,,,,,,,,,,,,,,,,,,,,,,1959-05-31
+Richmond,1959,66,Carlton,15,L,23,,,,,,,,,,,,,,,,,,,,,,,,1959-06-07
+Richmond,1959,67,Collingwood,16,L,23,,,,,,,,,,,,,,,,,,,,,,,,1959-06-14
+Richmond,1959,68,St Kilda,17,L,23,,,,,,,,,,,,,,,,,,,,,,,,1959-06-21
+Richmond,1959,69,Hawthorn,18,L,23,,,,,,,,,,,,,,,,,,,,,,,,1959-06-28

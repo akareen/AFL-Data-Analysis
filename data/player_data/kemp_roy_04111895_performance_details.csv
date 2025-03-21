@@ -1,0 +1,13 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1922,1,Carlton,1,W,9,,,,,,,,,,,,,,,,,,,,,,,,1922-03-01
+Essendon,1922,2,Geelong,2,W,9,,,,,,,,,,,,,,,,,,,,,,,,1922-03-08
+Essendon,1922,3,South Melbourne,3,W,9,,,,,,,,,,,,,,,,,,,,,,,,1922-03-15
+Essendon,1922,4,Richmond,5,W,9,,,,,,,,,,,,,,,,,,,,,,,,1922-03-29
+Essendon,1922,5,Melbourne,6,W,9,,,,,,,,,,,,,,,,,,,,,,,,1922-04-05
+Essendon,1922,6,St Kilda,7,W,9,,,,,2,,,,,,,,,,,,,,,,,,,1922-04-12
+Essendon,1922,7,Collingwood,9,L,9,,,,,,,,,,,,,,,,,,,,,,,,1922-04-26
+Essendon,1922,8,Carlton,10,L,9,,,,,,,,,,,,,,,,,,,,,,,,1922-05-03
+Essendon,1922,9,Geelong,11,L,9,,,,,2,,,,,,,,,,,,,,,,,,,1922-05-10
+Essendon,1922,10,South Melbourne,12,L,9,,,,,,,,,,,,,,,,,,,,,,,,1922-05-17
+Essendon,1922,11,Fitzroy,13,W,9,,,,,,,,,,,,,,,,,,,,,,,,1922-05-24
+Essendon,1922,12,Richmond,14,W,9,,,,,,,,,,,,,,,,,,,,,,,,1922-05-31

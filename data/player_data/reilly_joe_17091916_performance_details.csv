@@ -1,0 +1,18 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1940,1,Geelong,4,W,34,,,,,,,,,,,,,,,,,,,,,,,,1940-03-22
+Richmond,1940,2,Fitzroy,5,W,34,,,,,,,,,,,,,,,,,,,,,,,,1940-03-29
+Richmond,1940,3,St Kilda,6,W,34,,,,,,,,,,,,,,,,,,,,,,,,1940-04-05
+Richmond,1940,4,South Melbourne,7,W,34,,,,,,,,,,,,,,,,,,,,,,,,1940-04-12
+Richmond,1940,5,Fitzroy,16,W,34,,,,,,,,,,,,,,,,,,,,,,,,1940-06-14
+Richmond,1940,6,St Kilda,17,W,34,,,,,,,,,,,,,,,,,,,,,,,,1940-06-21
+Richmond,1940,7,South Melbourne,18,W,34,,,,,,,,,,,,,,,,,,,,,,,,1940-06-28
+Richmond,1941,8,Carlton,2,W,34,,,,,,,,,,,,,,,,,,,,,,,,1941-03-08
+Richmond,1941,9,North Melbourne,3,W,34,,,,,,,,,,,,,,,,,,,,,,,,1941-03-15
+Richmond,1942,10,Collingwood,3,W,34,,,,,,,,,,,,,,,,,,,,,,,,1942-03-15
+Richmond,1942,11,Carlton,5,W,34,,,,,,,,,,,,,,,,,,,,,,,,1942-03-29
+Richmond,1942,12,Essendon,6,L,34,,,,,,,,,,,,,,,,,,,,,,,,1942-04-05
+Richmond,1942,13,South Melbourne,7,L,34,,,,,,,,,,,,,,,,,,,,,,,,1942-04-12
+Richmond,1942,14,Melbourne,13,W,34,,,,,,,,,,,,,,,,,,,,,,,,1942-05-24
+Richmond,1942,15,Collingwood,14,W,34,,,,,,,,,,,,,,,,,,,,,,,,1942-05-31
+Richmond,1942,16,St Kilda,15,W,34,,,,,,,,,,,,,,,,,,,,,,,,1942-06-07
+Richmond,1942,17,Essendon,GF,L,34,,,,,,,,,,,,,,,,,,,,,,,,1942-03-01

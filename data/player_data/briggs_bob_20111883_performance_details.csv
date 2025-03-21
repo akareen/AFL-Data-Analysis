@@ -1,0 +1,34 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1909,1,University,9,L,,,,,,1,,,,,,,,,,,,,,,,,,,1909-04-26
+Fitzroy,1909,2,Collingwood,10,L,,,,,,1,,,,,,,,,,,,,,,,,,,1909-05-03
+Fitzroy,1909,3,Geelong,11,W,,,,,,5,,,,,,,,,,,,,,,,,,,1909-05-10
+Fitzroy,1909,4,Richmond,12,W,,,,,,5,,,,,,,,,,,,,,,,,,,1909-05-17
+Fitzroy,1909,5,Carlton,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-07
+Fitzroy,1909,6,St Kilda,16,W,,,,,,3,,,,,,,,,,,,,,,,,,,1909-06-14
+Fitzroy,1909,7,Melbourne,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-21
+Fitzroy,1909,8,University,18,D,,,,,,2,,,,,,,,,,,,,,,,,,,1909-06-28
+Fitzroy,1910,9,Essendon,1,W,,,,,,4,,,,,,,,,,,,,,,,,,,1910-03-01
+Fitzroy,1910,10,St Kilda,2,W,,,,,,2,,,,,,,,,,,,,,,,,,,1910-03-08
+Fitzroy,1910,11,Geelong,3,L,,,,,,3,,,,,,,,,,,,,,,,,,,1910-03-15
+Fitzroy,1910,12,Richmond,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-22
+Fitzroy,1910,13,Carlton,5,L,,,,,,2,,,,,,,,,,,,,,,,,,,1910-03-29
+Fitzroy,1910,14,Collingwood,6,L,,,,,,3,,,,,,,,,,,,,,,,,,,1910-04-05
+Fitzroy,1910,15,University,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-12
+Fitzroy,1910,16,Melbourne,8,W,,,,,,2,,,,,,,,,,,,,,,,,,,1910-04-19
+Fitzroy,1910,17,South Melbourne,9,L,,,,,,2,,,,,,,,,,,,,,,,,,,1910-04-26
+Fitzroy,1910,18,Essendon,10,L,,,,,,2,,,,,,,,,,,,,,,,,,,1910-05-03
+Fitzroy,1910,19,St Kilda,11,W,,,,,,2,,,,,,,,,,,,,,,,,,,1910-05-10
+Fitzroy,1910,20,Geelong,12,L,,,,,,2,,,,,,,,,,,,,,,,,,,1910-05-17
+Fitzroy,1910,21,Richmond,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-24
+Fitzroy,1910,22,Carlton,14,L,,,,,,1,,,,,,,,,,,,,,,,,,,1910-05-31
+Fitzroy,1910,23,Collingwood,15,L,,,,,,3,,,,,,,,,,,,,,,,,,,1910-06-07
+Fitzroy,1910,24,University,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-14
+Fitzroy,1910,25,Melbourne,17,W,,,,,,2,,,,,,,,,,,,,,,,,,,1910-06-21
+Fitzroy,1910,26,South Melbourne,18,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-28
+St Kilda,1911,27,Carlton,6,L,,,,,,1,,,,,,,,,,,,,,,,,,,1911-04-05
+St Kilda,1911,28,Essendon,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-12
+St Kilda,1911,29,Collingwood,9,L,,,,,,2,,,,,,,,,,,,,,,,,,,1911-04-26
+St Kilda,1911,30,Geelong,10,L,,,,,,2,,,,,,,,,,,,,,,,,,,1911-05-03
+St Kilda,1911,31,University,11,W,,,,,,1,,,,,,,,,,,,,,,,,,,1911-05-10
+St Kilda,1911,32,South Melbourne,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-17
+St Kilda,1911,33,Fitzroy,13,L,,,,,,1,,,,,,,,,,,,,,,,,,,1911-05-24

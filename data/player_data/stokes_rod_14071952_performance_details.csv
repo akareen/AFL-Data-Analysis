@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1971,1,South Melbourne,2,W,7,9,1,1,10,,,,,,,,,3,2,,,,,,,,,,1971-03-08
+Geelong,1971,2,Hawthorn,3,L,7,2,,1,3,,,,,,,,,,,,,,,,,,,,1971-03-15
+Geelong,1971,3,Carlton,4,L,7,5,1,2,7,,,,,,,,,1,1,,,,,,,,,,1971-03-22
+Geelong,1971,4,North Melbourne,20,W,7,17,4,5,22,1,,,,,,,,,4,,,,,,,,,,1971-07-12
+Geelong,1971,5,Footscray,21,W,7,4,,1,5,,,,,,,,,1,3,,,,,,,,,,1971-07-19
+Geelong,1972,6,South Melbourne,1,L,7,15,5,2,17,,,,,,,,,2,5,,,,,,,,,,1972-03-01
+Geelong,1972,7,Fitzroy,5,L,7,8,2,1,9,,,,,,,,,2,,,,,,,,,,,1972-03-29
+Geelong,1972,8,Hawthorn,15,L,7,2,,,2,,2,,,,,,,,,,,,,,,,,,1972-06-07
+Geelong,1972,9,Fitzroy,16,W,7,10,3,2,12,,,,,,,,,1,3,,,,,,,,,,1972-06-14
+Geelong,1972,10,Carlton,17,L,7,7,2,,7,,2,,,,,,,2,4,,,,,,,,,,1972-06-21

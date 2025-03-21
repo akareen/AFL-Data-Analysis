@@ -1,0 +1,26 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1996,1,Richmond,6,L,30,1,,2,3,,,,1,,,,,,1,,,,,,,,,,1996-04-05
+Fitzroy,1996,2,Carlton,7,L,30,8,4,12,20,,,,2,,,,,1,1,,,,,,,,,,1996-04-12
+Fitzroy,1996,3,Fremantle,8,W,30,14,6,17,31,,1,,2,,,,,4,1,,,,,,,,,,1996-04-19
+Fitzroy,1996,4,North Melbourne,9,L,30,5,2,10,15,1,1,,3,,,,,,2,,,,,,,,,,1996-04-26
+Fitzroy,1996,5,Sydney,10,L,30,6,5,10,16,,,,,,,,,,,,,,,,,,,,1996-05-03
+Fitzroy,1996,6,Melbourne,11,L,30,9,4,12,21,,,,1,,,,,2,1,,,,,,,,,,1996-05-10
+Fitzroy,1996,7,Hawthorn,12,L,30,5,1,5,10,,1,,3,,,,,,,,,,,,,,,,1996-05-17
+Fitzroy,1996,8,Geelong,13,L,30,6,4,7,13,,,,3,,,,,,2,,,,,,,,,,1996-05-24
+Fitzroy,1996,9,Essendon,14,L,30,4,,7,11,,,,,,,,,1,1,,,,,,,,,,1996-05-31
+Fitzroy,1996,10,West Coast,15,L,30,21,5,4,25,1,,,,,,,,1,,,,,,,,,,,1996-06-07
+Fitzroy,1996,11,Collingwood,16,L,30,4,1,4,8,1,2,,2,,,,,2,2,,,,,,,,,,1996-06-14
+Fitzroy,1996,12,Adelaide,17,L,30,3,1,2,5,,,,1,,,,,1,2,,,,,,,,,,1996-06-21
+Fitzroy,1996,13,Footscray,18,L,30,8,2,10,18,,,,,,,,,1,,,,,,,,,,,1996-06-28
+Fitzroy,1996,14,St Kilda,19,L,30,6,2,12,18,,,,,,,,,,1,,,,,,,,,,1996-07-05
+Fitzroy,1996,15,Brisbane Bears,20,L,30,5,2,2,7,1,,,2,,,,,,,,,,,,,,,,1996-07-12
+Fitzroy,1996,16,Richmond,21,L,30,2,,8,10,,,,1,,,,,1,,,,,,,,,,,1996-07-19
+Fitzroy,1996,17,Fremantle,22,L,30,,,,,,,,,,,,,,,,,,,,,,,,1996-07-26
+Brisbane Lions,1997,18,West Coast,7,L,37,2,,3,5,,1,,,,,,,,1,,,,,,,,,,1997-04-12
+Brisbane Lions,1997,19,Carlton,11,L,37,3,1,3,6,1,,,1,,,,,1,,,,,,,,,,,1997-05-10
+Brisbane Lions,1998,20,Sydney,2,L,37,2,,4,6,,,,1,,1,3,,,2,,,,,,,,,,1998-03-08
+Brisbane Lions,1998,21,Sydney,17,L,37,4,,5,9,,,,,,1,2,1,,1,,,,,,,,,,1998-06-21
+Brisbane Lions,1998,22,Melbourne,18,L,37,7,1,3,10,,,,5,1,7,3,1,4,,,,,,,,,,,1998-06-28
+Melbourne,1999,23,Essendon,7,W,32,1,,2,3,,,,,,,2,,,,,3,,,,,,,,1999-04-12
+Melbourne,1999,24,Western Bulldogs,8,L,32,4,,8,12,1,,,4,,,2,1,,3,,9,4,,,,,,,1999-04-19
+Melbourne,1999,25,Collingwood,11,W,32,,,1,1,,,,,,,,,,1,,1,,,,,,,,1999-05-10

@@ -1,0 +1,5 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1975,1,Essendon,1,L,16,6,2,2,8,,,,,,,,,,1,,,,,,,,,,1975-03-01
+St Kilda,1975,2,Hawthorn,2,L,16,7,3,5,12,,,,,,,,,1,2,,,,,,,,,,1975-03-08
+St Kilda,1975,3,South Melbourne,3,W,16,,,,,,,,,,,,,,,,,,,,,,,,1975-03-15
+St Kilda,1975,4,Fitzroy,6,W,16,1,2,2,3,,,,,,,,,,,,,,,,,,,,1975-04-05

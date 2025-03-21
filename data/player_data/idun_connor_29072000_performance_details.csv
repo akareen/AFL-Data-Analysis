@@ -1,0 +1,96 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Greater Western Sydney,2019,1,Sydney,20,W,39,5,3,3,8,,,,2,,1,,3,1,2,,3,5,,,4,,,69,2019-07-12
+Greater Western Sydney,2020,2,Melbourne,17,L,39,2,2,2,4,,,,,1,1,,1,,,,2,2,,,2,,,78,2020-06-21
+Greater Western Sydney,2020,3,St Kilda,18,L,39,7,3,6,13,,,,1,3,,,4,2,1,,5,7,,,8,,,89,2020-06-28
+Greater Western Sydney,2021,4,St Kilda,1,L,39,7,3,2,9,,,,1,1,3,,1,,,,1,7,,,7,,,78,2021-03-01
+Greater Western Sydney,2021,5,Melbourne,3,L,39,9,8,7,16,,,,2,1,2,1,,1,,,4,13,,,3,1,,90,2021-03-15
+Greater Western Sydney,2021,6,Collingwood,4,W,39,5,5,9,14,,,,4,3,,,,1,,,4,10,,,2,,,83,2021-03-22
+Greater Western Sydney,2021,7,Sydney,5,W,39,3,4,7,10,,,,1,2,1,,2,,1,,2,8,1,,7,,,85,2021-03-29
+Greater Western Sydney,2021,8,Western Bulldogs,6,L,39,7,6,6,13,,,,5,1,,,1,1,,,3,10,,,5,,,85,2021-04-05
+Greater Western Sydney,2021,9,Adelaide,7,W,39,10,7,6,16,,,,2,3,1,,,,,,5,12,,,7,,,87,2021-04-12
+Greater Western Sydney,2021,10,Essendon,8,W,39,11,4,4,15,,,,2,3,,1,2,1,,,5,9,,,7,,,82,2021-04-19
+Greater Western Sydney,2021,11,Richmond,9,L,39,8,5,4,12,,,,2,6,,,,,,,2,9,,,4,,,85,2021-04-26
+Greater Western Sydney,2021,12,West Coast,10,W,39,10,7,8,18,,,,1,1,1,,2,,,,6,12,,,3,,,89,2021-05-03
+Greater Western Sydney,2021,13,Brisbane Lions,11,L,39,6,7,6,12,,,,2,2,,,3,,2,,4,8,1,,6,,,87,2021-05-10
+Greater Western Sydney,2021,14,North Melbourne,13,D,39,8,5,6,14,,,,4,3,,,1,3,,,4,10,,,6,,,85,2021-05-24
+Greater Western Sydney,2021,15,Carlton,14,W,39,12,10,1,13,,,,4,2,2,1,,,,,3,10,1,,3,,1,88,2021-05-31
+Greater Western Sydney,2021,16,Hawthorn,15,L,39,8,6,2,10,,,,2,,1,,2,1,1,,3,8,,,3,,,89,2021-06-07
+Greater Western Sydney,2021,17,Melbourne,16,W,39,3,2,2,5,,,,1,3,,,3,1,2,,2,4,,,4,,,89,2021-06-14
+Greater Western Sydney,2021,18,Gold Coast,17,L,39,3,1,7,10,,,,,2,,,3,,3,,6,4,,,3,,,87,2021-06-21
+Greater Western Sydney,2021,19,Sydney,18,L,39,10,6,3,13,,,,1,3,1,,,1,,,4,9,,,1,,,84,2021-06-28
+Greater Western Sydney,2021,20,Essendon,19,W,39,11,9,5,16,,,,,,2,2,1,2,,,4,14,,,4,,,86,2021-07-05
+Greater Western Sydney,2021,21,Port Adelaide,20,L,39,7,5,4,11,,,,1,2,1,1,1,,,,1,10,,,3,,,83,2021-07-12
+Greater Western Sydney,2021,22,Geelong,21,W,39,8,4,5,13,,,,2,2,2,,,1,,,5,10,,,7,,,81,2021-07-19
+Greater Western Sydney,2021,23,Richmond,22,W,39,4,3,3,7,,,,3,3,,,,1,,,4,5,,1,3,,,83,2021-07-26
+Greater Western Sydney,2021,24,Carlton,23,W,39,8,5,9,17,,,,,3,,1,1,,,,5,12,,,2,,,85,2021-08-02
+Greater Western Sydney,2021,25,Sydney,EF,W,39,9,8,2,11,,,,1,3,,,1,,1,,1,9,,,1,,,82,2021-03-01
+Greater Western Sydney,2021,26,Geelong,SF,L,39,6,4,5,11,,,,,4,2,,2,1,1,,2,9,,,4,,,79,2021-03-01
+Greater Western Sydney,2022,27,Sydney,1,L,39,10,7,,10,,,,2,3,3,,1,1,1,,2,8,1,,5,1,,84,2022-03-01
+Greater Western Sydney,2022,28,Richmond,2,L,39,9,5,12,21,,,,2,2,,,3,,2,,4,17,,,5,1,,85,2022-03-08
+Greater Western Sydney,2022,29,Gold Coast,3,W,39,11,6,6,17,,,,,5,,,2,1,,,4,11,,,4,,,85,2022-03-15
+Greater Western Sydney,2022,30,Fremantle,4,L,39,6,3,4,10,,1,,2,1,,,1,,1,,2,9,,,3,,,85,2022-03-22
+Greater Western Sydney,2022,31,Melbourne,5,L,39,3,3,5,8,,,,1,3,,,1,1,1,,4,5,,,7,,,80,2022-03-29
+Greater Western Sydney,2022,32,St Kilda,6,L,39,6,1,8,14,,2,,3,1,1,1,3,1,1,,9,6,,,2,,1,82,2022-04-05
+Greater Western Sydney,2022,33,Adelaide,7,W,39,11,6,9,20,,,,,8,1,,1,3,,,8,11,,,5,,,86,2022-04-12
+Greater Western Sydney,2022,34,Geelong,8,L,39,6,4,8,14,,,,2,3,1,,2,,1,,1,11,,,,,,81,2022-04-19
+Greater Western Sydney,2022,35,Carlton,9,L,39,11,7,5,16,,,,2,4,1,,,,,,4,11,,,5,1,,84,2022-04-26
+Greater Western Sydney,2022,36,West Coast,10,W,39,3,3,5,8,,,,,2,,,1,,,,2,6,,,4,,,83,2022-05-03
+Greater Western Sydney,2022,37,Brisbane Lions,11,L,39,9,7,5,14,,,,1,6,2,,,,,,4,10,,,4,1,,88,2022-05-10
+Greater Western Sydney,2022,38,North Melbourne,13,W,39,10,8,7,17,,,,2,2,,,3,2,1,,2,16,,,,1,,82,2022-05-24
+Greater Western Sydney,2022,39,Western Bulldogs,14,L,39,7,2,9,16,,,,2,5,,,1,2,,,5,12,,,4,,,83,2022-05-31
+Greater Western Sydney,2022,40,Collingwood,15,L,39,10,7,4,14,,,,2,4,,,,,,,3,10,1,,3,,,79,2022-06-07
+Greater Western Sydney,2022,41,Hawthorn,16,W,39,6,1,3,9,,,,4,3,,1,4,1,,,7,4,,,10,,,90,2022-06-14
+Greater Western Sydney,2022,42,Brisbane Lions,18,L,39,6,4,6,12,,,,2,2,,,1,1,,,2,10,,,4,,,83,2022-06-28
+Greater Western Sydney,2023,43,Adelaide,1,W,39,8,5,12,20,,,,,2,1,,,,,,6,11,,,5,,,89,2023-03-01
+Greater Western Sydney,2023,44,West Coast,2,L,39,6,7,9,15,,,,1,4,2,,3,,,,1,14,,,5,,,85,2023-03-08
+Greater Western Sydney,2023,45,Carlton,3,L,39,6,4,8,14,,,,1,5,,1,2,,1,,5,10,,,6,,,89,2023-03-15
+Greater Western Sydney,2023,46,Essendon,4,L,39,9,7,6,15,,,,3,2,,1,1,,,,6,7,,,10,1,,92,2023-03-22
+Greater Western Sydney,2023,47,Hawthorn,5,W,39,13,9,10,23,,,,4,6,2,1,2,1,,,6,16,1,,4,,,79,2023-03-29
+Greater Western Sydney,2023,48,Brisbane Lions,6,L,39,11,7,7,18,,,,,7,,,2,1,,,7,10,,,4,1,,86,2023-04-05
+Greater Western Sydney,2023,49,Sydney,7,W,39,5,4,7,12,,,,6,3,,,2,,1,,5,7,1,,11,,,85,2023-04-12
+Greater Western Sydney,2023,50,Western Bulldogs,8,L,39,13,10,15,28,,,,,2,,,1,,1,,9,21,,,7,1,,95,2023-04-19
+Greater Western Sydney,2023,51,Collingwood,9,L,39,7,6,11,18,,,,,,,,,,,,5,12,,,4,,,93,2023-04-26
+Greater Western Sydney,2023,52,St Kilda,10,L,39,7,2,9,16,,,,2,4,1,,2,2,,,6,10,,,7,,,98,2023-05-03
+Greater Western Sydney,2023,53,Geelong,11,W,39,12,5,7,19,,,,3,4,1,,2,1,,1,9,10,1,,11,1,,89,2023-05-10
+Greater Western Sydney,2023,54,Richmond,12,L,39,8,3,9,17,,,,1,2,1,,1,,,,7,9,,,5,1,,92,2023-05-17
+Greater Western Sydney,2023,55,North Melbourne,13,W,39,6,2,7,13,,,,1,3,,1,2,1,1,,6,8,,,3,,,92,2023-05-24
+Greater Western Sydney,2023,56,Fremantle,14,W,39,12,9,3,15,,,,3,3,3,,2,,,,6,10,2,,8,,,95,2023-05-31
+Greater Western Sydney,2023,57,Melbourne,16,W,39,6,3,7,13,,,,3,6,,,2,1,,,7,7,,,11,,,88,2023-06-14
+Greater Western Sydney,2023,58,Hawthorn,17,W,39,12,8,6,18,,,,3,1,3,,1,1,1,,6,12,1,,3,,,88,2023-06-21
+Greater Western Sydney,2023,59,Adelaide,18,W,39,9,7,6,15,,,,3,4,1,,2,,1,,5,10,,,9,,,91,2023-06-28
+Greater Western Sydney,2023,60,Gold Coast,19,W,39,12,12,9,21,,,,1,3,1,,,,,,3,18,1,,1,,,85,2023-07-05
+Greater Western Sydney,2023,61,Western Bulldogs,20,W,39,6,2,11,17,,,,4,7,1,,1,1,,,6,12,,,6,,,89,2023-07-12
+Greater Western Sydney,2023,62,Sydney,21,L,39,2,2,7,9,,,,1,2,1,,1,,,,5,6,,,6,,,79,2023-07-19
+Greater Western Sydney,2023,63,Port Adelaide,22,L,39,9,3,9,18,,,,3,4,2,,2,1,1,,6,13,,,3,2,,82,2023-07-26
+Greater Western Sydney,2023,64,Essendon,23,W,39,12,7,12,24,,,,,4,1,1,3,1,,,6,18,,,2,,1,85,2023-08-02
+Greater Western Sydney,2023,65,Carlton,24,W,39,7,4,11,18,,,,1,5,,,1,,,,8,9,1,,5,1,,89,2023-08-09
+Greater Western Sydney,2023,66,St Kilda,EF,W,39,9,5,9,18,,,,2,4,1,,2,2,1,,7,13,,,4,,,86,2023-03-01
+Greater Western Sydney,2023,67,Port Adelaide,SF,W,39,11,4,4,15,,,,,4,,,1,2,1,,3,12,,,2,1,,91,2023-03-01
+Greater Western Sydney,2023,68,Collingwood,PF,L,39,7,5,9,16,,,,2,7,1,,,1,,,6,10,,,7,2,,94,2023-03-01
+Greater Western Sydney,2024,69,Collingwood,1,W,39,8,5,8,16,,,,1,2,1,1,1,1,1,,8,9,1,,2,1,,86,2024-03-01
+Greater Western Sydney,2024,70,North Melbourne,2,W,39,10,6,9,19,,1,,,4,2,,,,,,5,14,1,,6,,,93,2024-03-08
+Greater Western Sydney,2024,71,West Coast,3,W,39,15,9,13,28,,,,1,5,2,,1,,,,6,20,1,,3,,,93,2024-03-15
+Greater Western Sydney,2024,72,Gold Coast,5,W,39,8,6,5,13,,,,1,6,,,6,,2,,3,11,,,4,1,,95,2024-03-29
+Greater Western Sydney,2024,73,St Kilda,6,W,39,13,9,9,22,,,,,5,,1,,,,,6,15,,,8,1,,98,2024-04-05
+Greater Western Sydney,2024,74,Carlton,7,L,39,9,9,5,14,,,,2,4,,,,,,,2,11,,,5,2,,91,2024-04-12
+Greater Western Sydney,2024,75,Brisbane Lions,8,W,39,8,5,4,12,,,,1,2,,,2,,,,5,9,,,9,,,88,2024-04-19
+Greater Western Sydney,2024,76,Sydney,9,L,39,4,6,14,18,,,,2,4,,,1,,,,7,11,,,6,,,96,2024-04-26
+Greater Western Sydney,2024,77,Essendon,10,L,39,7,4,13,20,,,,1,4,,2,3,,,,9,11,1,,5,,,97,2024-05-03
+Greater Western Sydney,2024,78,Western Bulldogs,11,L,39,6,6,11,17,,,,3,4,,,1,,1,,3,14,,,3,,,84,2024-05-10
+Greater Western Sydney,2024,79,Geelong,12,W,39,7,2,12,19,,,,2,1,,,3,1,1,,12,6,,,5,,,98,2024-05-17
+Greater Western Sydney,2024,80,Hawthorn,14,L,39,9,8,12,21,,,,1,2,,,1,1,,,4,16,,,5,,,96,2024-05-31
+Greater Western Sydney,2024,81,Port Adelaide,15,W,39,9,5,7,16,,,,2,1,,,1,,1,,6,11,1,,2,4,,86,2024-06-07
+Greater Western Sydney,2024,82,Sydney,16,L,39,10,9,10,20,,,,1,5,,,1,,,,3,17,,,8,,,96,2024-06-14
+Greater Western Sydney,2024,83,Adelaide,17,L,39,14,11,9,23,,,,3,6,2,,1,1,,,3,19,,,6,,,80,2024-06-21
+Greater Western Sydney,2024,84,Carlton,18,W,39,13,9,11,24,,,,,3,,,,,,,6,16,,,6,,,90,2024-06-28
+Greater Western Sydney,2024,85,Richmond,19,W,39,10,10,11,21,,,,1,2,,,2,,,,6,16,1,,2,,,100,2024-07-05
+Greater Western Sydney,2024,86,Gold Coast,20,W,39,9,7,18,27,,,,1,5,,1,1,,,,10,16,,,5,1,,100,2024-07-12
+Greater Western Sydney,2024,87,Melbourne,21,W,39,7,6,8,15,,,,4,3,,,1,,,,5,9,,,7,,,100,2024-07-19
+Greater Western Sydney,2024,88,Hawthorn,22,W,39,10,8,10,20,,,,,6,,,1,,1,,3,15,,,4,,,93,2024-07-26
+Greater Western Sydney,2024,89,Brisbane Lions,23,W,39,10,6,13,23,,,,1,6,,2,3,1,1,,10,13,,,4,,,91,2024-08-02
+Greater Western Sydney,2024,90,Fremantle,24,W,39,8,8,10,18,,,,1,4,2,,1,,1,,4,12,,,2,,,84,2024-08-09
+Greater Western Sydney,2024,91,Western Bulldogs,25,L,39,8,3,11,19,,,,,4,2,,2,1,,,9,9,1,,6,,,86,2024-08-16
+Greater Western Sydney,2024,92,Sydney,QF,L,39,7,7,11,18,,,,4,2,1,,1,,,,6,14,,,7,1,,91,2024-03-01
+Greater Western Sydney,2024,93,Brisbane Lions,SF,L,39,7,6,8,15,,,,3,2,,1,1,,,,8,7,2,,2,1,,93,2024-03-01
+Greater Western Sydney,2025,94,Collingwood,1,W,39,10,6,5,15,,,,4,4,1,,1,,,,4,11,,,3,1,,89,2025-03-01
+Greater Western Sydney,2025,95,Melbourne,2,W,39,7,4,5,12,,,,1,2,2,1,1,,,,5,10,,,12,,,81,2025-03-08

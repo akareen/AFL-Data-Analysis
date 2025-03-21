@@ -1,0 +1,15 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1914,1,University,7,W,34,,,,,2,,,,,,,,,,,,,,,,,,,1914-04-12
+Melbourne,1914,2,Richmond,8,L,34,,,,,,,,,,,,,,,,,,,,,,,,1914-04-19
+Melbourne,1914,3,South Melbourne,9,L,34,,,,,1,,,,,,,,,,,,,,,,,,,1914-04-26
+Melbourne,1914,4,Fitzroy,10,L,34,,,,,,,,,,,,,,,,,,,,,,,,1914-05-03
+Melbourne,1914,5,Collingwood,11,L,34,,,,,2,,,,,,,,,,,,,,,,,,,1914-05-10
+Melbourne,1914,6,Geelong,12,L,34,,,,,,,,,,,,,,,,,,,,,,,,1914-05-17
+Melbourne,1914,7,St Kilda,13,L,34,,,,,5,,,,,,,,,,,,,,,,,,,1914-05-24
+Melbourne,1914,8,Essendon,14,L,34,,,,,,,,,,,,,,,,,,,,,,,,1914-05-31
+Melbourne,1914,9,Carlton,15,L,34,,,,,,,,,,,,,,,,,,,,,,,,1914-06-07
+Melbourne,1919,10,Richmond,3,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1919-03-15
+Melbourne,1919,11,Carlton,5,L,27,,,,,,,,,,,,,,,,,,,,,,,,1919-03-29
+Melbourne,1919,12,Collingwood,6,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1919-04-05
+Melbourne,1919,13,Fitzroy,7,L,27,,,,,,,,,,,,,,,,,,,,,,,,1919-04-12
+Melbourne,1919,14,Geelong,8,L,27,,,,,,,,,,,,,,,,,,,,,,,,1919-04-19

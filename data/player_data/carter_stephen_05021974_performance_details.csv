@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Port Adelaide,1997,1,Collingwood,1,L,36,7,2,1,8,,,,2,,,,,1,,,,,,,,,,,1997-03-01
+Port Adelaide,1997,2,Geelong,3,W,36,,,,,,,,,,,,,,,,,,,,,,,,1997-03-15
+Port Adelaide,1997,3,Richmond,6,W,36,6,3,1,7,,,,2,,,,,,,,,,,,,,,,1997-04-05
+Port Adelaide,1997,4,St Kilda,7,L,36,8,3,1,9,,,,1,,,,,,,,,,,,,,,,1997-04-12
+Port Adelaide,1997,5,North Melbourne,8,L,36,2,1,2,4,,,,,,,,,,1,,,,,,,,,,1997-04-19
+Port Adelaide,1997,6,Melbourne,9,W,36,1,,,1,,,,,,,,,,,,,,,,,,,,1997-04-26
+Port Adelaide,1997,7,Carlton,10,W,36,3,,,3,,,,,,,,,,,,,,,,,,,,1997-05-03
+Port Adelaide,1997,8,Collingwood,16,W,36,5,3,,5,,1,2,,,,,,1,,,,,,,,,,,1997-06-14
+Port Adelaide,1997,9,Essendon,17,W,36,12,7,4,16,,2,,3,,,,,,1,,,,,,,,,,1997-06-21
+Port Adelaide,1997,10,Geelong,18,L,36,4,1,2,6,,1,,2,,,,,,1,,,,,,,,,,1997-06-28

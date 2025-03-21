@@ -1,0 +1,55 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Footscray,1950,1,North Melbourne,10,L,7,,,,,,,,,,,,,,,,,,,,,,,,1950-05-03
+Footscray,1950,2,Richmond,11,L,7,,,,,,,,,,,,,,,,,,,,,,,,1950-05-10
+Footscray,1950,3,St Kilda,12,W,7,,,,,,,,,,,,,,,,,,,,,,,,1950-05-17
+Footscray,1950,4,Geelong,13,L,7,,,,,,,,,,,,,,,,,,,,,,,,1950-05-24
+Footscray,1951,5,Richmond,1,W,14,,,,,,,,,,,,,,,,,,,,,,,,1951-03-01
+Footscray,1951,6,Carlton,2,W,14,,,,,,,,,,,,,,,,,,,,,,,,1951-03-08
+Footscray,1951,7,South Melbourne,7,L,14,,,,,,,,,,,,,,,,,,,,,,,,1951-04-12
+Footscray,1951,8,Geelong,8,L,14,,,,,,,,,,,,,,,,,,,,,,,,1951-04-19
+Footscray,1951,9,North Melbourne,14,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1951-05-31
+Footscray,1951,10,Fitzroy,15,L,14,,,,,,,,,,,,,,,,,,,,,,,,1951-06-07
+Footscray,1951,11,South Melbourne,18,W,14,,,,,,,,,,,,,,,,,,,,,,,,1951-06-28
+Footscray,1952,12,Essendon,1,W,14,,,,,,,,,,,,,,,,,,,,,,,,1952-03-01
+Footscray,1952,13,Geelong,2,L,14,,,,,,,,,,,,,,,,,,,,,,,,1952-03-08
+Footscray,1952,14,North Melbourne,3,L,14,,,,,,,,,,,,,,,,,,,,,,,,1952-03-15
+Footscray,1952,15,Melbourne,4,L,14,,,,,,,,,,,,,,,,,,,,,,,,1952-03-22
+Footscray,1952,16,Richmond,5,W,14,,,,,,,,,,,,,,,,,,,,,,,,1952-03-29
+Footscray,1952,17,St Kilda,8,L,14,,,,,,,,,,,,,,,,,,,,,,,,1952-04-19
+Footscray,1952,18,Fitzroy,9,L,14,,,,,,,,,,,,,,,,,,,,,,,,1952-04-26
+Footscray,1952,19,Carlton,10,L,14,,,,,,,,,,,,,,,,,,,,,,,,1952-05-03
+Footscray,1952,20,St Kilda,11,W,14,,,,,,,,,,,,,,,,,,,,,,,,1952-05-10
+Footscray,1952,21,Hawthorn,12,L,14,,,,,,,,,,,,,,,,,,,,,,,,1952-05-17
+Footscray,1952,22,Essendon,13,W,14,,,,,,,,,,,,,,,,,,,,,,,,1952-05-24
+Footscray,1952,23,Geelong,14,L,14,,,,,,,,,,,,,,,,,,,,,,,,1952-05-31
+Footscray,1952,24,North Melbourne,15,L,14,,,,,,,,,,,,,,,,,,,,,,,,1952-06-07
+Footscray,1952,25,Melbourne,16,L,14,,,,,,,,,,,,,,,,,,,,,,,,1952-06-14
+Footscray,1952,26,Richmond,17,L,14,,,,,,,,,,,,,,,,,,,,,,,,1952-06-21
+Footscray,1952,27,Collingwood,18,L,14,,,,,,,,,,,,,,,,,,,,,,,,1952-06-28
+Footscray,1952,28,South Melbourne,19,W,14,,,,,,,,,,,,,,,,,,,,,,,,1952-07-05
+Footscray,1953,29,Hawthorn,3,W,14,,,,,,,,,,,,,,,,,,,,,,,,1953-03-15
+Footscray,1953,30,Melbourne,4,W,14,,,,,,,,,,,,,,,,,,,,,,,,1953-03-22
+Footscray,1953,31,Carlton,12,W,14,,,,,,,,,,,,,,,,,,,,,,,,1953-05-17
+Footscray,1953,32,St Kilda,17,W,14,,,,,,,,,,,,,,,,,,,,,,,,1953-06-21
+Fitzroy,1954,33,St Kilda,5,D,36,,,,,,,,,,,,,,,,,,,,,,,,1954-03-29
+Fitzroy,1954,34,Carlton,6,L,36,,,,,,,,,,,,,,,,,,,,,,,,1954-04-05
+Fitzroy,1954,35,Essendon,7,L,36,,,,,,,,,,,,,,,,,,,,,,,,1954-04-12
+Fitzroy,1954,36,Footscray,8,L,36,,,,,,,,,,,,,,,,,,,,,,,,1954-04-19
+Fitzroy,1954,37,Richmond,9,L,36,,,,,,,,,,,,,,,,,,,,,,,,1954-04-26
+Fitzroy,1954,38,South Melbourne,10,W,36,,,,,,,,,,,,,,,,,,,,,,,,1954-05-03
+Fitzroy,1954,39,Hawthorn,11,L,36,,,,,,,,,,,,,,,,,,,,,,,,1954-05-10
+Fitzroy,1954,40,Geelong,12,L,36,,,,,,,,,,,,,,,,,,,,,,,,1954-05-17
+Fitzroy,1954,41,Collingwood,13,W,36,,,,,,,,,,,,,,,,,,,,,,,,1954-05-24
+Fitzroy,1954,42,North Melbourne,14,L,36,,,,,,,,,,,,,,,,,,,,,,,,1954-05-31
+Fitzroy,1954,43,Melbourne,15,W,36,,,,,,,,,,,,,,,,,,,,,,,,1954-06-07
+Fitzroy,1954,44,St Kilda,16,L,36,,,,,,,,,,,,,,,,,,,,,,,,1954-06-14
+Fitzroy,1954,45,Carlton,17,L,36,,,,,,,,,,,,,,,,,,,,,,,,1954-06-21
+Fitzroy,1954,46,Essendon,18,W,36,,,,,,,,,,,,,,,,,,,,,,,,1954-06-28
+Fitzroy,1955,47,Hawthorn,1,W,32,,,,,,,,,,,,,,,,,,,,,,,,1955-03-01
+Fitzroy,1955,48,South Melbourne,2,L,32,,,,,,,,,,,,,,,,,,,,,,,,1955-03-08
+Fitzroy,1955,49,Footscray,6,W,32,,,,,,,,,,,,,,,,,,,,,,,,1955-04-05
+Fitzroy,1955,50,North Melbourne,8,W,32,,,,,,,,,,,,,,,,,,,,,,,,1955-04-19
+Fitzroy,1955,51,St Kilda,9,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1955-04-26
+Fitzroy,1955,52,Melbourne,10,L,32,,,,,,,,,,,,,,,,,,,,,,,,1955-05-03
+Fitzroy,1955,53,South Melbourne,13,W,32,,,,,,,,,,,,,,,,,,,,,,,,1955-05-24
+Fitzroy,1955,54,Carlton,14,L,32,,,,,,,,,,,,,,,,,,,,,,,,1955-05-31

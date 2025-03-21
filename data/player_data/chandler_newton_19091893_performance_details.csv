@@ -1,0 +1,70 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1919,1,Fitzroy,1,W,8,,,,,,,,,,,,,,,,,,,,,,,,1919-03-01
+Carlton,1919,2,Essendon,2,L,8,,,,,,,,,,,,,,,,,,,,,,,,1919-03-08
+Carlton,1919,3,Geelong,4,W,8,,,,,1,,,,,,,,,,,,,,,,,,,1919-03-22
+Carlton,1919,4,Melbourne,5,W,8,,,,,,,,,,,,,,,,,,,,,,,,1919-03-29
+Carlton,1919,5,St Kilda,6,W,8,,,,,1,,,,,,,,,,,,,,,,,,,1919-04-05
+Carlton,1919,6,Collingwood,7,W,8,,,,,,,,,,,,,,,,,,,,,,,,1919-04-12
+Carlton,1919,7,South Melbourne,8,L,8,,,,,,,,,,,,,,,,,,,,,,,,1919-04-19
+Carlton,1919,8,Richmond,9,L,8,,,,,,,,,,,,,,,,,,,,,,,,1919-04-26
+Carlton,1919,9,Geelong,13,W,8,,,,,,,,,,,,,,,,,,,,,,,,1919-05-24
+Carlton,1919,10,Melbourne,14,W,8,,,,,,,,,,,,,,,,,,,,,,,,1919-05-31
+Carlton,1919,11,St Kilda,15,W,8,,,,,,,,,,,,,,,,,,,,,,,,1919-06-07
+Carlton,1919,12,Collingwood,16,L,8,,,,,,,,,,,,,,,,,,,,,,,,1919-06-14
+Carlton,1919,13,South Melbourne,17,W,8,,,,,,,,,,,,,,,,,,,,,,,,1919-06-21
+Carlton,1919,14,Richmond,18,W,8,,,,,,,,,,,,,,,,,,,,,,,,1919-06-28
+Carlton,1919,15,Collingwood,SF,L,8,,,,,,,,,,,,,,,,,,,,,,,,1919-03-01
+Carlton,1920,16,St Kilda,1,W,8,,,,,,,,,,,,,,,,,,,,,,,,1920-03-01
+Carlton,1920,17,Richmond,2,L,8,,,,,,,,,,,,,,,,,,,,,,,,1920-03-08
+Carlton,1920,18,Fitzroy,3,L,8,,,,,,,,,,,,,,,,,,,,,,,,1920-03-15
+Carlton,1920,19,Essendon,4,W,8,,,,,,,,,,,,,,,,,,,,,,,,1920-03-22
+Carlton,1920,20,South Melbourne,5,L,8,,,,,,,,,,,,,,,,,,,,,,,,1920-03-29
+Carlton,1920,21,Melbourne,6,L,8,,,,,,,,,,,,,,,,,,,,,,,,1920-04-05
+Carlton,1920,22,Geelong,7,W,8,,,,,,,,,,,,,,,,,,,,,,,,1920-04-12
+Carlton,1920,23,Collingwood,8,L,8,,,,,,,,,,,,,,,,,,,,,,,,1920-04-19
+Carlton,1920,24,St Kilda,10,W,8,,,,,,,,,,,,,,,,,,,,,,,,1920-05-03
+Carlton,1920,25,Richmond,11,W,8,,,,,,,,,,,,,,,,,,,,,,,,1920-05-10
+Carlton,1920,26,Fitzroy,12,L,8,,,,,,,,,,,,,,,,,,,,,,,,1920-05-17
+Carlton,1920,27,South Melbourne,13,W,8,,,,,,,,,,,,,,,,,,,,,,,,1920-05-24
+Carlton,1920,28,Essendon,14,W,8,,,,,1,,,,,,,,,,,,,,,,,,,1920-05-31
+Carlton,1920,29,Melbourne,15,W,8,,,,,,,,,,,,,,,,,,,,,,,,1920-06-07
+Carlton,1920,30,Geelong,16,W,8,,,,,,,,,,,,,,,,,,,,,,,,1920-06-14
+Carlton,1920,31,Collingwood,17,W,8,,,,,,,,,,,,,,,,,,,,,,,,1920-06-21
+Carlton,1920,32,Richmond,SF,W,8,,,,,,,,,,,,,,,,,,,,,,,,1920-03-01
+Carlton,1920,33,Collingwood,PF,L,8,,,,,,,,,,,,,,,,,,,,,,,,1920-03-01
+Carlton,1921,34,South Melbourne,14,W,8,,,,,,,,,,,,,,,,,,,,,,,,1921-05-31
+Carlton,1921,35,Essendon,15,W,8,,,,,,,,,,,,,,,,,,,,,,,,1921-06-07
+Carlton,1921,36,Geelong,16,W,8,,,,,,,,,,,,,,,,,,,,,,,,1921-06-14
+Carlton,1921,37,Melbourne,17,W,8,,,,,,,,,,,,,,,,,,,,,,,,1921-06-21
+Carlton,1921,38,Collingwood,18,W,8,,,,,,,,,,,,,,,,,,,,,,,,1921-06-28
+Carlton,1921,39,Collingwood,SF,W,8,,,,,1,,,,,,,,,,,,,,,,,,,1921-03-01
+Carlton,1921,40,Richmond,PF,L,8,,,,,,,,,,,,,,,,,,,,,,,,1921-03-01
+Carlton,1921,41,Richmond,GF,L,8,,,,,,,,,,,,,,,,,,,,,,,,1921-03-01
+Carlton,1922,42,Essendon,1,L,8,,,,,,,,,,,,,,,,,,,,,,,,1922-03-01
+Carlton,1922,43,Fitzroy,2,W,8,,,,,1,,,,,,,,,,,,,,,,,,,1922-03-08
+Carlton,1922,44,Collingwood,3,L,8,,,,,,,,,,,,,,,,,,,,,,,,1922-03-15
+Carlton,1922,45,Melbourne,4,W,8,,,,,,,,,,,,,,,,,,,,,,,,1922-03-22
+Carlton,1922,46,South Melbourne,5,L,8,,,,,,,,,,,,,,,,,,,,,,,,1922-03-29
+Carlton,1922,47,St Kilda,6,W,8,,,,,1,,,,,,,,,,,,,,,,,,,1922-04-05
+Carlton,1922,48,Geelong,7,L,8,,,,,,,,,,,,,,,,,,,,,,,,1922-04-12
+Carlton,1922,49,Richmond,8,W,8,,,,,,,,,,,,,,,,,,,,,,,,1922-04-19
+Carlton,1922,50,Essendon,10,W,8,,,,,,,,,,,,,,,,,,,,,,,,1922-05-03
+Carlton,1922,51,Fitzroy,11,L,8,,,,,,,,,,,,,,,,,,,,,,,,1922-05-10
+Carlton,1922,52,Melbourne,13,L,8,,,,,,,,,,,,,,,,,,,,,,,,1922-05-24
+Carlton,1922,53,South Melbourne,14,W,8,,,,,,,,,,,,,,,,,,,,,,,,1922-05-31
+Carlton,1922,54,Geelong,16,W,8,,,,,,,,,,,,,,,,,,,,,,,,1922-06-14
+Carlton,1923,55,South Melbourne,15,W,7,,,,,,,,,,,,,,,,,,,,,,,,1923-06-07
+Carlton,1923,56,Collingwood,16,D,7,,,,,,,,,,,,,,,,,,,,,,,,1923-06-14
+Carlton,1923,57,Melbourne,17,W,7,,,,,,,,,,,,,,,,,,,,,,,,1923-06-21
+Carlton,1923,58,Geelong,18,L,7,,,,,,,,,,,,,,,,,,,,,,,,1923-06-28
+Carlton,1924,59,Essendon,2,D,2,,,,,,,,,,,,,,,,,,,,,,,,1924-03-08
+Carlton,1924,60,St Kilda,3,W,2,,,,,,,,,,,,,,,,,,,,,,,,1924-03-15
+Carlton,1924,61,Melbourne,4,L,2,,,,,,,,,,,,,,,,,,,,,,,,1924-03-22
+Carlton,1924,62,Collingwood,5,L,2,,,,,,,,,,,,,,,,,,,,,,,,1924-03-29
+Carlton,1924,63,South Melbourne,7,L,2,,,,,2,,,,,,,,,,,,,,,,,,,1924-04-12
+Carlton,1924,64,Geelong,8,L,2,,,,,,,,,,,,,,,,,,,,,,,,1924-04-19
+Carlton,1924,65,Richmond,9,L,2,,,,,,,,,,,,,,,,,,,,,,,,1924-04-26
+Carlton,1924,66,Fitzroy,10,W,2,,,,,,,,,,,,,,,,,,,,,,,,1924-05-03
+Carlton,1924,67,Collingwood,14,L,2,,,,,,,,,,,,,,,,,,,,,,,,1924-05-31
+Carlton,1924,68,Geelong,17,W,2,,,,,3,,,,,,,,,,,,,,,,,,,1924-06-21
+Carlton,1924,69,Richmond,18,L,2,,,,,,,,,,,,,,,,,,,,,,,,1924-06-28

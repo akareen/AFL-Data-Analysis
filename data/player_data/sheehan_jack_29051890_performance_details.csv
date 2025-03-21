@@ -1,0 +1,18 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1911,1,Geelong,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-15
+Collingwood,1911,2,University,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-12
+Collingwood,1911,3,St Kilda,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-26
+Richmond,1915,4,Geelong,4,W,28,,,,,,,,,,,,,,,,,,,,,,,,1915-03-22
+Richmond,1915,5,Fitzroy,6,L,28,,,,,,,,,,,,,,,,,,,,,,,,1915-04-05
+Richmond,1915,6,St Kilda,7,L,28,,,,,,,,,,,,,,,,,,,,,,,,1915-04-12
+Richmond,1915,7,Essendon,9,W,28,,,,,,,,,,,,,,,,,,,,,,,,1915-04-26
+Richmond,1915,8,Melbourne,10,L,28,,,,,,,,,,,,,,,,,,,,,,,,1915-05-03
+Richmond,1915,9,Collingwood,11,L,28,,,,,,,,,,,,,,,,,,,,,,,,1915-05-10
+Richmond,1915,10,South Melbourne,12,L,28,,,,,,,,,,,,,,,,,,,,,,,,1915-05-17
+Richmond,1915,11,Geelong,13,W,28,,,,,,,,,,,,,,,,,,,,,,,,1915-05-24
+Richmond,1915,12,Fitzroy,15,L,28,,,,,,,,,,,,,,,,,,,,,,,,1915-06-07
+Richmond,1915,13,St Kilda,16,L,28,,,,,,,,,,,,,,,,,,,,,,,,1915-06-14
+Richmond,1917,14,Collingwood,1,L,27,,,,,,,,,,,,,,,,,,,,,,,,1917-03-01
+Richmond,1917,15,South Melbourne,2,L,27,,,,,,,,,,,,,,,,,,,,,,,,1917-03-08
+Richmond,1917,16,Collingwood,6,D,27,,,,,,,,,,,,,,,,,,,,,,,,1917-04-05
+Richmond,1917,17,South Melbourne,7,L,27,,,,,,,,,,,,,,,,,,,,,,,,1917-04-12

@@ -1,0 +1,148 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1912,1,Melbourne,1,L,13,,,,,,,,,,,,,,,,,,,,,,,,1912-03-01
+Collingwood,1912,2,Essendon,2,L,13,,,,,,,,,,,,,,,,,,,,,,,,1912-03-08
+Collingwood,1912,3,St Kilda,3,L,13,,,,,,,,,,,,,,,,,,,,,,,,1912-03-15
+Collingwood,1912,4,Carlton,4,W,13,,,,,,,,,,,,,,,,,,,,,,,,1912-03-22
+Collingwood,1912,5,Richmond,5,W,13,,,,,,,,,,,,,,,,,,,,,,,,1912-03-29
+Collingwood,1912,6,South Melbourne,9,L,13,,,,,,,,,,,,,,,,,,,,,,,,1912-04-26
+Collingwood,1912,7,Melbourne,10,W,13,,,,,1,,,,,,,,,,,,,,,,,,,1912-05-03
+Collingwood,1912,8,St Kilda,12,W,13,,,,,,,,,,,,,,,,,,,,,,,,1912-05-17
+Collingwood,1912,9,Carlton,13,L,13,,,,,,,,,,,,,,,,,,,,,,,,1912-05-24
+Collingwood,1912,10,Richmond,14,W,13,,,,,,,,,,,,,,,,,,,,,,,,1912-05-31
+Collingwood,1912,11,Geelong,15,W,13,,,,,1,,,,,,,,,,,,,,,,,,,1912-06-07
+Collingwood,1912,12,University,16,W,13,,,,,1,,,,,,,,,,,,,,,,,,,1912-06-14
+Collingwood,1912,13,Fitzroy,17,L,13,,,,,,,,,,,,,,,,,,,,,,,,1912-06-21
+Collingwood,1912,14,South Melbourne,18,L,13,,,,,1,,,,,,,,,,,,,,,,,,,1912-06-28
+Collingwood,1913,15,Melbourne,1,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1913-03-01
+Collingwood,1913,16,Geelong,2,W,16,,,,,2,,,,,,,,,,,,,,,,,,,1913-03-08
+Collingwood,1913,17,Essendon,3,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1913-03-15
+Collingwood,1913,18,Richmond,5,W,16,,,,,,,,,,,,,,,,,,,,,,,,1913-03-29
+Collingwood,1913,19,St Kilda,7,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1913-04-12
+Collingwood,1913,20,Fitzroy,8,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1913-04-19
+Collingwood,1913,21,Geelong,11,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1913-05-10
+Collingwood,1913,22,Essendon,12,W,16,,,,,,,,,,,,,,,,,,,,,,,,1913-05-17
+Collingwood,1913,23,Carlton,13,W,16,,,,,2,,,,,,,,,,,,,,,,,,,1913-05-24
+Collingwood,1913,24,Richmond,14,W,16,,,,,,,,,,,,,,,,,,,,,,,,1913-05-31
+Collingwood,1913,25,University,15,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1913-06-07
+Collingwood,1913,26,St Kilda,16,L,16,,,,,,,,,,,,,,,,,,,,,,,,1913-06-14
+Collingwood,1913,27,Fitzroy,17,L,16,,,,,,,,,,,,,,,,,,,,,,,,1913-06-21
+Collingwood,1913,28,South Melbourne,18,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1913-06-28
+Collingwood,1913,29,Fitzroy,SF,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1913-03-01
+Collingwood,1914,30,Carlton,1,D,14,,,,,,,,,,,,,,,,,,,,,,,,1914-03-01
+Collingwood,1914,31,Melbourne,2,W,14,,,,,,,,,,,,,,,,,,,,,,,,1914-03-08
+Collingwood,1914,32,Richmond,3,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1914-03-15
+Collingwood,1914,33,Fitzroy,4,L,14,,,,,,,,,,,,,,,,,,,,,,,,1914-03-22
+Collingwood,1914,34,University,5,W,14,,,,,2,,,,,,,,,,,,,,,,,,,1914-03-29
+Collingwood,1914,35,St Kilda,6,L,14,,,,,1,,,,,,,,,,,,,,,,,,,1914-04-05
+Collingwood,1914,36,Essendon,7,W,14,,,,,3,,,,,,,,,,,,,,,,,,,1914-04-12
+Collingwood,1914,37,South Melbourne,8,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1914-04-19
+Collingwood,1914,38,Geelong,9,L,14,,,,,,,,,,,,,,,,,,,,,,,,1914-04-26
+Collingwood,1914,39,Carlton,10,L,14,,,,,1,,,,,,,,,,,,,,,,,,,1914-05-03
+Collingwood,1914,40,Melbourne,11,W,14,,,,,,,,,,,,,,,,,,,,,,,,1914-05-10
+Collingwood,1914,41,Richmond,12,L,14,,,,,,,,,,,,,,,,,,,,,,,,1914-05-17
+Collingwood,1914,42,Fitzroy,13,W,14,,,,,,,,,,,,,,,,,,,,,,,,1914-05-24
+Collingwood,1914,43,University,14,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1914-05-31
+Collingwood,1914,44,St Kilda,15,W,14,,,,,,,,,,,,,,,,,,,,,,,,1914-06-07
+Collingwood,1914,45,Essendon,16,W,14,,,,,,,,,,,,,,,,,,,,,,,,1914-06-14
+Collingwood,1914,46,South Melbourne,17,L,14,,,,,1,,,,,,,,,,,,,,,,,,,1914-06-21
+Collingwood,1914,47,Geelong,18,L,14,,,,,,,,,,,,,,,,,,,,,,,,1914-06-28
+Collingwood,1915,48,Essendon,1,W,12,,,,,,,,,,,,,,,,,,,,,,,,1915-03-01
+Collingwood,1915,49,Richmond,2,W,12,,,,,,,,,,,,,,,,,,,,,,,,1915-03-08
+Collingwood,1915,50,St Kilda,3,W,12,,,,,1,,,,,,,,,,,,,,,,,,,1915-03-15
+Collingwood,1915,51,Melbourne,4,W,12,,,,,1,,,,,,,,,,,,,,,,,,,1915-03-22
+Collingwood,1915,52,Geelong,5,W,12,,,,,,,,,,,,,,,,,,,,,,,,1915-03-29
+Collingwood,1915,53,Carlton,7,L,12,,,,,,,,,,,,,,,,,,,,,,,,1915-04-12
+Collingwood,1915,54,Fitzroy,8,W,12,,,,,1,,,,,,,,,,,,,,,,,,,1915-04-19
+Collingwood,1915,55,South Melbourne,9,W,12,,,,,,,,,,,,,,,,,,,,,,,,1915-04-26
+Collingwood,1915,56,Essendon,10,W,12,,,,,2,,,,,,,,,,,,,,,,,,,1915-05-03
+Collingwood,1915,57,Richmond,11,W,12,,,,,2,,,,,,,,,,,,,,,,,,,1915-05-10
+Collingwood,1915,58,St Kilda,12,W,12,,,,,,,,,,,,,,,,,,,,,,,,1915-05-17
+Collingwood,1915,59,Melbourne,13,W,12,,,,,,,,,,,,,,,,,,,,,,,,1915-05-24
+Collingwood,1915,60,Geelong,14,W,12,,,,,,,,,,,,,,,,,,,,,,,,1915-05-31
+Collingwood,1915,61,Carlton,16,L,12,,,,,,,,,,,,,,,,,,,,,,,,1915-06-14
+Collingwood,1915,62,South Melbourne,18,W,12,,,,,,,,,,,,,,,,,,,,,,,,1915-06-28
+Collingwood,1915,63,Fitzroy,SF,L,12,,,,,,,,,,,,,,,,,,,,,,,,1915-03-01
+Collingwood,1915,64,Carlton,GF,L,12,,,,,,,,,,,,,,,,,,,,,,,,1915-03-01
+Collingwood,1916,65,Richmond,1,W,14,,,,,,,,,,,,,,,,,,,,,,,,1916-03-01
+Collingwood,1916,66,Carlton,2,L,14,,,,,,,,,,,,,,,,,,,,,,,,1916-03-08
+Collingwood,1916,67,Fitzroy,3,D,14,,,,,1,,,,,,,,,,,,,,,,,,,1916-03-15
+Collingwood,1916,68,Richmond,4,W,14,,,,,,,,,,,,,,,,,,,,,,,,1916-03-22
+Collingwood,1916,69,Carlton,5,W,14,,,,,,,,,,,,,,,,,,,,,,,,1916-03-29
+Collingwood,1916,70,Fitzroy,6,W,14,,,,,3,,,,,,,,,,,,,,,,,,,1916-04-05
+Collingwood,1916,71,Richmond,7,L,14,,,,,,,,,,,,,,,,,,,,,,,,1916-04-12
+Collingwood,1916,72,Carlton,8,L,14,,,,,1,,,,,,,,,,,,,,,,,,,1916-04-19
+Collingwood,1916,73,Fitzroy,9,W,14,,,,,2,,,,,,,,,,,,,,,,,,,1916-04-26
+Collingwood,1916,74,Richmond,10,L,14,,,,,,,,,,,,,,,,,,,,,,,,1916-05-03
+Collingwood,1916,75,Carlton,11,L,14,,,,,,,,,,,,,,,,,,,,,,,,1916-05-10
+Collingwood,1916,76,Fitzroy,12,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1916-05-17
+Collingwood,1916,77,Fitzroy,SF,L,14,,,,,,,,,,,,,,,,,,,,,,,,1916-03-01
+Collingwood,1917,78,Richmond,1,W,14,,,,,,,,,,,,,,,,,,,,,,,,1917-03-01
+Collingwood,1917,79,Carlton,2,L,14,,,,,1,,,,,,,,,,,,,,,,,,,1917-03-08
+Collingwood,1917,80,Fitzroy,3,W,14,,,,,,,,,,,,,,,,,,,,,,,,1917-03-15
+Collingwood,1917,81,South Melbourne,4,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1917-03-22
+Collingwood,1917,82,Geelong,5,W,14,,,,,,,,,,,,,,,,,,,,,,,,1917-03-29
+Collingwood,1917,83,Richmond,6,D,14,,,,,1,,,,,,,,,,,,,,,,,,,1917-04-05
+Collingwood,1917,84,Carlton,7,W,14,,,,,,,,,,,,,,,,,,,,,,,,1917-04-12
+Collingwood,1917,85,Fitzroy,8,W,14,,,,,,,,,,,,,,,,,,,,,,,,1917-04-19
+Collingwood,1917,86,Richmond,11,W,14,,,,,,,,,,,,,,,,,,,,,,,,1917-05-10
+Collingwood,1917,87,Carlton,12,L,14,,,,,,,,,,,,,,,,,,,,,,,,1917-05-17
+Collingwood,1917,88,Fitzroy,13,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1917-05-24
+Collingwood,1917,89,South Melbourne,14,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1917-05-31
+Collingwood,1917,90,Geelong,15,L,14,,,,,2,,,,,,,,,,,,,,,,,,,1917-06-07
+Collingwood,1917,91,South Melbourne,SF,W,14,,,,,4,,,,,,,,,,,,,,,,,,,1917-03-01
+Collingwood,1917,92,Fitzroy,PF,L,14,,,,,,,,,,,,,,,,,,,,,,,,1917-03-01
+Collingwood,1917,93,Fitzroy,GF,W,14,,,,,,,,,,,,,,,,,,,,,,,,1917-03-01
+Collingwood,1918,94,Carlton,1,W,11,,,,,,,,,,,,,,,,,,,,,,,,1918-03-01
+Collingwood,1918,95,Geelong,2,W,11,,,,,2,,,,,,,,,,,,,,,,,,,1918-03-08
+Collingwood,1918,96,South Melbourne,3,L,11,,,,,1,,,,,,,,,,,,,,,,,,,1918-03-15
+Collingwood,1918,97,Richmond,4,W,11,,,,,,,,,,,,,,,,,,,,,,,,1918-03-22
+Collingwood,1918,98,St Kilda,5,W,11,,,,,1,,,,,,,,,,,,,,,,,,,1918-03-29
+Collingwood,1918,99,Fitzroy,6,W,11,,,,,,,,,,,,,,,,,,,,,,,,1918-04-05
+Collingwood,1918,100,Essendon,7,W,11,,,,,,,,,,,,,,,,,,,,,,,,1918-04-12
+Collingwood,1918,101,South Melbourne,10,L,11,,,,,1,,,,,,,,,,,,,,,,,,,1918-05-03
+Collingwood,1918,102,Richmond,11,W,11,,,,,1,,,,,,,,,,,,,,,,,,,1918-05-10
+Collingwood,1918,103,St Kilda,12,L,11,,,,,1,,,,,,,,,,,,,,,,,,,1918-05-17
+Collingwood,1918,104,St Kilda,SF,W,11,,,,,,,,,,,,,,,,,,,,,,,,1918-03-01
+Collingwood,1918,105,South Melbourne,GF,L,11,,,,,1,,,,,,,,,,,,,,,,,,,1918-03-01
+Collingwood,1919,106,South Melbourne,1,W,11,,,,,1,,,,,,,,,,,,,,,,,,,1919-03-01
+Collingwood,1919,107,St Kilda,2,L,11,,,,,,,,,,,,,,,,,,,,,,,,1919-03-08
+Collingwood,1919,108,Geelong,3,W,11,,,,,,,,,,,,,,,,,,,,,,,,1919-03-15
+Collingwood,1919,109,Richmond,4,W,11,,,,,,,,,,,,,,,,,,,,,,,,1919-03-22
+Collingwood,1919,110,Melbourne,6,W,11,,,,,,,,,,,,,,,,,,,,,,,,1919-04-05
+Collingwood,1919,111,Carlton,7,L,11,,,,,,,,,,,,,,,,,,,,,,,,1919-04-12
+Collingwood,1919,112,Essendon,8,W,11,,,,,,,,,,,,,,,,,,,,,,,,1919-04-19
+Collingwood,1919,113,Fitzroy,9,L,11,,,,,1,,,,,,,,,,,,,,,,,,,1919-04-26
+Collingwood,1919,114,Essendon,17,W,11,,,,,1,,,,,,,,,,,,,,,,,,,1919-06-21
+Collingwood,1919,115,Fitzroy,18,W,11,,,,,,,,,,,,,,,,,,,,,,,,1919-06-28
+Collingwood,1919,116,Carlton,SF,W,11,,,,,,,,,,,,,,,,,,,,,,,,1919-03-01
+Collingwood,1919,117,Richmond,PF,L,11,,,,,1,,,,,,,,,,,,,,,,,,,1919-03-01
+Collingwood,1919,118,Richmond,GF,W,11,,,,,1,,,,,,,,,,,,,,,,,,,1919-03-01
+Collingwood,1920,119,Essendon,1,L,11,,,,,2,,,,,,,,,,,,,,,,,,,1920-03-01
+Collingwood,1920,120,Geelong,2,W,11,,,,,,,,,,,,,,,,,,,,,,,,1920-03-08
+Collingwood,1920,121,Melbourne,3,W,11,,,,,,,,,,,,,,,,,,,,,,,,1920-03-15
+Collingwood,1920,122,Fitzroy,4,L,11,,,,,,,,,,,,,,,,,,,,,,,,1920-03-22
+Collingwood,1920,123,Richmond,5,L,11,,,,,1,,,,,,,,,,,,,,,,,,,1920-03-29
+Collingwood,1920,124,St Kilda,6,W,11,,,,,1,,,,,,,,,,,,,,,,,,,1920-04-05
+Collingwood,1920,125,Carlton,8,W,11,,,,,1,,,,,,,,,,,,,,,,,,,1920-04-19
+Collingwood,1920,126,South Melbourne,9,W,11,,,,,1,,,,,,,,,,,,,,,,,,,1920-04-26
+Collingwood,1920,127,Essendon,10,W,11,,,,,,,,,,,,,,,,,,,,,,,,1920-05-03
+Collingwood,1920,128,Geelong,11,W,11,,,,,1,,,,,,,,,,,,,,,,,,,1920-05-10
+Collingwood,1920,129,Richmond,13,L,11,,,,,,,,,,,,,,,,,,,,,,,,1920-05-24
+Collingwood,1920,130,Fitzroy,14,L,11,,,,,2,,,,,,,,,,,,,,,,,,,1920-05-31
+Collingwood,1920,131,St Kilda,15,W,11,,,,,2,,,,,,,,,,,,,,,,,,,1920-06-07
+Collingwood,1920,132,Carlton,17,L,11,,,,,,,,,,,,,,,,,,,,,,,,1920-06-21
+Collingwood,1920,133,South Melbourne,18,W,11,,,,,1,,,,,,,,,,,,,,,,,,,1920-06-28
+Collingwood,1920,134,Fitzroy,SF,W,11,,,,,,,,,,,,,,,,,,,,,,,,1920-03-01
+Collingwood,1920,135,Carlton,PF,W,11,,,,,1,,,,,,,,,,,,,,,,,,,1920-03-01
+Collingwood,1920,136,Richmond,GF,L,11,,,,,,,,,,,,,,,,,,,,,,,,1920-03-01
+Collingwood,1921,137,Fitzroy,1,W,21,,,,,4,,,,,,,,,,,,,,,,,,,1921-03-01
+Collingwood,1921,138,Melbourne,2,W,21,,,,,4,,,,,,,,,,,,,,,,,,,1921-03-08
+Collingwood,1921,139,Essendon,4,W,21,,,,,,,,,,,,,,,,,,,,,,,,1921-03-22
+Collingwood,1921,140,Richmond,5,L,21,,,,,,,,,,,,,,,,,,,,,,,,1921-03-29
+Collingwood,1921,141,St Kilda,7,W,21,,,,,1,,,,,,,,,,,,,,,,,,,1921-04-12
+Collingwood,1921,142,Carlton,9,L,21,,,,,,,,,,,,,,,,,,,,,,,,1921-04-26
+Collingwood,1921,143,Fitzroy,10,L,21,,,,,,,,,,,,,,,,,,,,,,,,1921-05-03
+Collingwood,1921,144,Geelong,12,L,21,,,,,1,,,,,,,,,,,,,,,,,,,1921-05-17
+Collingwood,1921,145,Essendon,13,W,21,,,,,,,,,,,,,,,,,,,,,,,,1921-05-24
+Collingwood,1921,146,Richmond,14,L,21,,,,,,,,,,,,,,,,,,,,,,,,1921-05-31
+Collingwood,1921,147,Carlton,18,L,21,,,,,,,,,,,,,,,,,,,,,,,,1921-06-28

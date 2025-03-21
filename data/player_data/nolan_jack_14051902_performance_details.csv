@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+North Melbourne,1926,1,Geelong,4,L,5,,,,,,,,,,,,,,,,,,,,,,,,1926-03-22
+North Melbourne,1926,2,South Melbourne,5,L,5,,,,,2,,,,,,,,,,,,,,,,,,,1926-03-29
+North Melbourne,1926,3,Fitzroy,6,L,5,,,,,1,,,,,,,,,,,,,,,,,,,1926-04-05
+North Melbourne,1926,4,Richmond,7,L,5,,,,,2,,,,,,,,,,,,,,,,,,,1926-04-12
+North Melbourne,1926,5,Carlton,8,L,5,,,,,1,,,,,,,,,,,,,,,,,,,1926-04-19
+North Melbourne,1926,6,Collingwood,10,L,5,,,,,2,,,,,,,,,,,,,,,,,,,1926-05-03
+North Melbourne,1926,7,Footscray,11,L,5,,,,,,,,,,,,,,,,,,,,,,,,1926-05-10
+North Melbourne,1926,8,Essendon,12,L,5,,,,,,,,,,,,,,,,,,,,,,,,1926-05-17
+North Melbourne,1926,9,Geelong,15,L,5,,,,,2,,,,,,,,,,,,,,,,,,,1926-06-07

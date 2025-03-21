@@ -1,0 +1,45 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1959,1,Footscray,1,W,9,,,,,,,,,,,,,,,,,,,,,,,,1959-03-01
+St Kilda,1959,2,Footscray,12,W,9,,,,,,,,,,,,,,,,,,,,,,,,1959-05-17
+St Kilda,1959,3,Collingwood,15,L,9,,,,,,,,,,,,,,,,,,,,,,,,1959-06-07
+St Kilda,1959,4,Richmond,17,W,9,,,,,,,,,,,,,,,,,,,,,,,,1959-06-21
+St Kilda,1959,5,Fitzroy,18,L,9,,,,,,,,,,,,,,,,,,,,,,,,1959-06-28
+St Kilda,1960,6,South Melbourne,1,L,9,,,,,,,,,,,,,,,,,,,,,,,,1960-03-01
+St Kilda,1960,7,Melbourne,2,L,9,,,,,,,,,,,,,,,,,,,,,,,,1960-03-08
+St Kilda,1960,8,Essendon,10,L,9,,,,,,,,,,,,,,,,,,,,,,,,1960-05-03
+St Kilda,1960,9,Richmond,11,W,9,,,,,,,,,,,,,,,,,,,,,,,,1960-05-10
+St Kilda,1960,10,South Melbourne,12,W,9,,,,,,,,,,,,,,,,,,,,,,,,1960-05-17
+St Kilda,1960,11,Melbourne,13,L,9,,,,,,,,,,,,,,,,,,,,,,,,1960-05-24
+St Kilda,1960,12,Geelong,15,L,9,,,,,,,,,,,,,,,,,,,,,,,,1960-06-07
+St Kilda,1960,13,Collingwood,16,L,9,,,,,,,,,,,,,,,,,,,,,,,,1960-06-14
+St Kilda,1960,14,Footscray,17,W,9,,,,,,,,,,,,,,,,,,,,,,,,1960-06-21
+St Kilda,1960,15,Fitzroy,18,L,9,,,,,,,,,,,,,,,,,,,,,,,,1960-06-28
+St Kilda,1961,16,Carlton,1,L,9,,,,,,,,,,,,,,,,,,,,,,,,1961-03-01
+St Kilda,1961,17,Essendon,2,L,9,,,,,,,,,,,,,,,,,,,,,,,,1961-03-08
+St Kilda,1961,18,Geelong,3,W,9,,,,,,,,,,,,,,,,,,,,,,,,1961-03-15
+St Kilda,1961,19,North Melbourne,7,W,9,,,,,,,,,,,,,,,,,,,,,,,,1961-04-12
+St Kilda,1961,20,Footscray,10,W,9,,,,,,,,,,,,,,,,,,,,,,,,1961-05-03
+St Kilda,1961,21,Carlton,12,L,9,,,,,,,,,,,,,,,,,,,,,,,,1961-05-17
+St Kilda,1961,22,Essendon,13,W,9,,,,,,,,,,,,,,,,,,,,,,,,1961-05-24
+St Kilda,1961,23,Geelong,14,L,9,,,,,1,,,,,,,,,,,,,,,,,,,1961-05-31
+St Kilda,1961,24,Melbourne,15,W,9,,,,,,,,,,,,,,,,,,,,,,,,1961-06-07
+St Kilda,1961,25,Richmond,16,W,9,,,,,,,,,,,,,,,,,,,,,,,,1961-06-14
+St Kilda,1961,26,Hawthorn,17,L,9,,,,,,,,,,,,,,,,,,,,,,,,1961-06-21
+St Kilda,1961,27,Footscray,SF,L,9,,,,,,,,,,,,,,,,,,,,,,,,1961-03-01
+St Kilda,1962,28,Collingwood,1,W,9,,,,,,,,,,,,,,,,,,,,,,,,1962-03-01
+St Kilda,1962,29,Essendon,4,L,9,,,,,,,,,,,,,,,,,,,,,,,,1962-03-22
+St Kilda,1962,30,Footscray,5,L,9,,,,,,,,,,,,,,,,,,,,,,,,1962-03-29
+St Kilda,1962,31,Richmond,6,W,9,,,,,,,,,,,,,,,,,,,,,,,,1962-04-05
+St Kilda,1962,32,Hawthorn,7,W,9,,,,,,,,,,,,,,,,,,,,,,,,1962-04-12
+St Kilda,1962,33,Carlton,8,L,9,,,,,,,,,,,,,,,,,,,,,,,,1962-04-19
+St Kilda,1962,34,Collingwood,12,W,9,,,,,,,,,,,,,,,,,,,,,,,,1962-05-17
+St Kilda,1963,35,Collingwood,4,W,9,,,,,,,,,,,,,,,,,,,,,,,,1963-03-22
+St Kilda,1963,36,Geelong,5,L,9,,,,,,,,,,,,,,,,,,,,,,,,1963-03-29
+St Kilda,1963,37,South Melbourne,6,W,9,,,,,,,,,,,,,,,,,,,,,,,,1963-04-05
+St Kilda,1963,38,North Melbourne,7,W,9,,,,,,,,,,,,,,,,,,,,,,,,1963-04-12
+St Kilda,1963,39,Hawthorn,8,L,9,,,,,,,,,,,,,,,,,,,,,,,,1963-04-19
+St Kilda,1963,40,Essendon,9,W,9,,,,,,,,,,,,,,,,,,,,,,,,1963-04-26
+St Kilda,1963,41,Footscray,10,L,9,,,,,,,,,,,,,,,,,,,,,,,,1963-05-03
+St Kilda,1963,42,Richmond,11,W,9,,,,,,,,,,,,,,,,,,,,,,,,1963-05-10
+St Kilda,1963,43,Melbourne,12,L,9,,,,,,,,,,,,,,,,,,,,,,,,1963-05-17
+St Kilda,1963,44,Melbourne,SF,L,9,,,,,,,,,,,,,,,,,,,,,,,,1963-03-01

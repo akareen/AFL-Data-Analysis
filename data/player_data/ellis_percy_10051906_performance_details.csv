@@ -1,0 +1,60 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1929,1,Footscray,1,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1929-03-01
+Fitzroy,1929,2,North Melbourne,2,W,23,,,,,,,,,,,,,,,,,,,,,,,,1929-03-08
+Fitzroy,1929,3,Melbourne,3,L,23,,,,,,,,,,,,,,,,,,,,,,,,1929-03-15
+Fitzroy,1929,4,St Kilda,4,L,23,,,,,2,,,,,,,,,,,,,,,,,,,1929-03-22
+Fitzroy,1929,5,Collingwood,5,L,23,,,,,,,,,,,,,,,,,,,,,,,,1929-03-29
+Fitzroy,1929,6,Carlton,6,L,23,,,,,,,,,,,,,,,,,,,,,,,,1929-04-05
+Fitzroy,1929,7,Essendon,7,L,23,,,,,,,,,,,,,,,,,,,,,,,,1929-04-12
+Fitzroy,1929,8,South Melbourne,10,L,23,,,,,,,,,,,,,,,,,,,,,,,,1929-05-03
+Fitzroy,1929,9,Geelong,11,L,23,,,,,,,,,,,,,,,,,,,,,,,,1929-05-10
+Fitzroy,1929,10,North Melbourne,13,W,23,,,,,,,,,,,,,,,,,,,,,,,,1929-05-24
+Fitzroy,1929,11,Melbourne,14,L,23,,,,,,,,,,,,,,,,,,,,,,,,1929-05-31
+Fitzroy,1929,12,St Kilda,15,L,23,,,,,,,,,,,,,,,,,,,,,,,,1929-06-07
+Fitzroy,1929,13,Collingwood,16,L,23,,,,,,,,,,,,,,,,,,,,,,,,1929-06-14
+Fitzroy,1929,14,Carlton,17,L,23,,,,,,,,,,,,,,,,,,,,,,,,1929-06-21
+Fitzroy,1929,15,Essendon,18,W,23,,,,,,,,,,,,,,,,,,,,,,,,1929-06-28
+Fitzroy,1930,16,Footscray,1,W,23,,,,,,,,,,,,,,,,,,,,,,,,1930-03-01
+Fitzroy,1930,17,North Melbourne,2,W,23,,,,,,,,,,,,,,,,,,,,,,,,1930-03-08
+Fitzroy,1930,18,Melbourne,3,L,23,,,,,,,,,,,,,,,,,,,,,,,,1930-03-15
+Fitzroy,1930,19,St Kilda,4,L,23,,,,,,,,,,,,,,,,,,,,,,,,1930-03-22
+Fitzroy,1930,20,Collingwood,5,W,23,,,,,,,,,,,,,,,,,,,,,,,,1930-03-29
+Fitzroy,1930,21,Carlton,6,L,23,,,,,,,,,,,,,,,,,,,,,,,,1930-04-05
+Fitzroy,1930,22,Essendon,7,L,23,,,,,,,,,,,,,,,,,,,,,,,,1930-04-12
+Fitzroy,1930,23,Richmond,8,L,23,,,,,,,,,,,,,,,,,,,,,,,,1930-04-19
+Fitzroy,1930,24,Hawthorn,9,W,23,,,,,,,,,,,,,,,,,,,,,,,,1930-04-26
+Fitzroy,1930,25,South Melbourne,10,L,23,,,,,,,,,,,,,,,,,,,,,,,,1930-05-03
+Fitzroy,1930,26,Geelong,11,L,23,,,,,,,,,,,,,,,,,,,,,,,,1930-05-10
+Fitzroy,1930,27,Collingwood,12,L,23,,,,,,,,,,,,,,,,,,,,,,,,1930-05-17
+Fitzroy,1930,28,Carlton,13,L,23,,,,,,,,,,,,,,,,,,,,,,,,1930-05-24
+Fitzroy,1930,29,Essendon,14,L,23,,,,,,,,,,,,,,,,,,,,,,,,1930-05-31
+Fitzroy,1930,30,Richmond,15,W,23,,,,,,,,,,,,,,,,,,,,,,,,1930-06-07
+Fitzroy,1930,31,Hawthorn,16,W,23,,,,,,,,,,,,,,,,,,,,,,,,1930-06-14
+Fitzroy,1930,32,South Melbourne,17,W,23,,,,,,,,,,,,,,,,,,,,,,,,1930-06-21
+Fitzroy,1930,33,Geelong,18,L,23,,,,,,,,,,,,,,,,,,,,,,,,1930-06-28
+Fitzroy,1931,34,Melbourne,1,L,23,,,,,,,,,,,,,,,,,,,,,,,,1931-03-01
+Fitzroy,1931,35,Carlton,2,L,23,,,,,,,,,,,,,,,,,,,,,,,,1931-03-08
+Fitzroy,1931,36,North Melbourne,3,W,23,,,,,,,,,,,,,,,,,,,,,,,,1931-03-15
+Fitzroy,1931,37,Footscray,4,L,23,,,,,,,,,,,,,,,,,,,,,,,,1931-03-22
+Fitzroy,1931,38,Geelong,5,L,23,,,,,,,,,,,,,,,,,,,,,,,,1931-03-29
+Fitzroy,1931,39,South Melbourne,7,L,23,,,,,,,,,,,,,,,,,,,,,,,,1931-04-12
+Fitzroy,1931,40,Hawthorn,8,L,23,,,,,,,,,,,,,,,,,,,,,,,,1931-04-19
+Fitzroy,1931,41,Essendon,6,L,23,,,,,,,,,,,,,,,,,,,,,,,,1931-04-05
+Fitzroy,1931,42,Richmond,9,L,23,,,,,,,,,,,,,,,,,,,,,,,,1931-04-26
+Fitzroy,1931,43,North Melbourne,14,W,23,,,,,,,,,,,,,,,,,,,,,,,,1931-05-31
+Fitzroy,1931,44,Footscray,15,L,23,,,,,,,,,,,,,,,,,,,,,,,,1931-06-07
+Fitzroy,1931,45,Geelong,16,L,23,,,,,,,,,,,,,,,,,,,,,,,,1931-06-14
+Fitzroy,1931,46,Essendon,17,L,23,,,,,,,,,,,,,,,,,,,,,,,,1931-06-21
+Fitzroy,1931,47,South Melbourne,18,W,23,,,,,,,,,,,,,,,,,,,,,,,,1931-06-28
+Fitzroy,1932,48,Carlton,1,W,23,,,,,,,,,,,,,,,,,,,,,,,,1932-03-01
+Fitzroy,1932,49,Footscray,2,L,23,,,,,,,,,,,,,,,,,,,,,,,,1932-03-08
+Fitzroy,1932,50,North Melbourne,3,L,23,,,,,,,,,,,,,,,,,,,,,,,,1932-03-15
+Fitzroy,1932,51,Collingwood,4,L,23,,,,,,,,,,,,,,,,,,,,,,,,1932-03-22
+Fitzroy,1932,52,Geelong,5,L,23,,,,,,,,,,,,,,,,,,,,,,,,1932-03-29
+Fitzroy,1932,53,Richmond,7,L,23,,,,,,,,,,,,,,,,,,,,,,,,1932-04-12
+Fitzroy,1932,54,Hawthorn,8,W,23,,,,,,,,,,,,,,,,,,,,,,,,1932-04-19
+Fitzroy,1932,55,South Melbourne,9,L,23,,,,,,,,,,,,,,,,,,,,,,,,1932-04-26
+Fitzroy,1932,56,Melbourne,10,L,23,,,,,,,,,,,,,,,,,,,,,,,,1932-05-03
+Fitzroy,1932,57,Carlton,12,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1932-05-17
+Fitzroy,1932,58,Footscray,13,L,23,,,,,,,,,,,,,,,,,,,,,,,,1932-05-24
+Fitzroy,1932,59,North Melbourne,14,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1932-05-31

@@ -1,0 +1,16 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1912,1,Collingwood,3,W,8,,,,,1,,,,,,,,,,,,,,,,,,,1912-03-15
+St Kilda,1912,2,University,4,W,8,,,,,,,,,,,,,,,,,,,,,,,,1912-03-22
+St Kilda,1912,3,South Melbourne,5,L,8,,,,,,,,,,,,,,,,,,,,,,,,1912-03-29
+St Kilda,1912,4,Carlton,6,L,8,,,,,1,,,,,,,,,,,,,,,,,,,1912-04-05
+St Kilda,1912,5,Essendon,8,W,8,,,,,,,,,,,,,,,,,,,,,,,,1912-04-19
+St Kilda,1912,6,Melbourne,9,L,8,,,,,,,,,,,,,,,,,,,,,,,,1912-04-26
+St Kilda,1912,7,Richmond,10,W,8,,,,,,,,,,,,,,,,,,,,,,,,1912-05-03
+St Kilda,1912,8,Geelong,11,W,8,,,,,,,,,,,,,,,,,,,,,,,,1912-05-10
+St Kilda,1912,9,Collingwood,12,L,8,,,,,,,,,,,,,,,,,,,,,,,,1912-05-17
+St Kilda,1912,10,University,13,W,8,,,,,,,,,,,,,,,,,,,,,,,,1912-05-24
+St Kilda,1912,11,Carlton,15,L,8,,,,,,,,,,,,,,,,,,,,,,,,1912-06-07
+St Kilda,1912,12,Essendon,17,W,8,,,,,,,,,,,,,,,,,,,,,,,,1912-06-21
+St Kilda,1912,13,Melbourne,18,L,8,,,,,,,,,,,,,,,,,,,,,,,,1912-06-28
+Essendon,1914,14,South Melbourne,6,L,6,,,,,,,,,,,,,,,,,,,,,,,,1914-04-05
+Essendon,1914,15,Carlton,8,L,6,,,,,,,,,,,,,,,,,,,,,,,,1914-04-19

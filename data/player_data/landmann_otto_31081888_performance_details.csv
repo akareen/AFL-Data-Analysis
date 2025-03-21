@@ -1,0 +1,30 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1907,1,Geelong,1,W,,,,,,3,,,,,,,,,,,,,,,,,,,1907-03-01
+Essendon,1907,2,St Kilda,3,L,,,,,,2,,,,,,,,,,,,,,,,,,,1907-03-15
+Essendon,1907,3,South Melbourne,4,L,,,,,,1,,,,,,,,,,,,,,,,,,,1907-03-22
+Essendon,1907,4,Collingwood,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-03-29
+Essendon,1907,5,Fitzroy,6,L,,,,,,3,,,,,,,,,,,,,,,,,,,1907-04-05
+Essendon,1907,6,Carlton,7,L,,,,,,1,,,,,,,,,,,,,,,,,,,1907-04-12
+Essendon,1907,7,Geelong,8,L,,,,,,1,,,,,,,,,,,,,,,,,,,1907-04-19
+Essendon,1907,8,South Melbourne,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-05-10
+Essendon,1908,9,University,1,W,,,,,,2,,,,,,,,,,,,,,,,,,,1908-03-01
+Essendon,1908,10,St Kilda,2,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-03-08
+Essendon,1908,11,Richmond,4,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-03-22
+Essendon,1908,12,Collingwood,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-29
+Essendon,1908,13,Fitzroy,6,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-04-05
+Essendon,1908,14,Melbourne,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-04-12
+Essendon,1908,15,South Melbourne,8,W,,,,,,7,,,,,,,,,,,,,,,,,,,1908-04-19
+Essendon,1908,16,Geelong,9,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-04-26
+Essendon,1908,17,University,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-03
+Essendon,1908,18,St Kilda,11,L,,,,,,2,,,,,,,,,,,,,,,,,,,1908-05-10
+Essendon,1908,19,Carlton,12,W,,,,,,3,,,,,,,,,,,,,,,,,,,1908-05-17
+Essendon,1908,20,Richmond,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-24
+Essendon,1908,21,Fitzroy,15,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-06-07
+Essendon,1908,22,Melbourne,16,W,,,,,,2,,,,,,,,,,,,,,,,,,,1908-06-14
+Essendon,1908,23,Geelong,18,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-06-28
+Essendon,1908,24,Collingwood,SF,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-01
+Essendon,1909,25,St Kilda,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-01
+Essendon,1909,26,University,4,L,,,,,,1,,,,,,,,,,,,,,,,,,,1909-03-22
+Essendon,1910,27,Geelong,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-19
+Melbourne,1910,28,Richmond,11,L,,,,,,1,,,,,,,,,,,,,,,,,,,1910-05-10
+Melbourne,1910,29,St Kilda,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-24

@@ -1,0 +1,25 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1934,1,Fitzroy,4,W,11,,,,,1,,,,,,,,,,,,,,,,,,,1934-03-22
+Melbourne,1934,2,St Kilda,6,L,11,,,,,,,,,,,,,,,,,,,,,,,,1934-04-05
+Melbourne,1934,3,Footscray,7,W,11,,,,,,,,,,,,,,,,,,,,,,,,1934-04-12
+Melbourne,1935,4,Richmond,4,L,11,,,,,,,,,,,,,,,,,,,,,,,,1935-03-22
+Melbourne,1935,5,Collingwood,5,L,11,,,,,,,,,,,,,,,,,,,,,,,,1935-03-29
+Melbourne,1935,6,St Kilda,6,L,11,,,,,,,,,,,,,,,,,,,,,,,,1935-04-05
+Melbourne,1935,7,North Melbourne,7,W,11,,,,,,,,,,,,,,,,,,,,,,,,1935-04-12
+Melbourne,1935,8,Carlton,8,L,11,,,,,,,,,,,,,,,,,,,,,,,,1935-04-19
+Melbourne,1935,9,Footscray,9,W,11,,,,,,,,,,,,,,,,,,,,,,,,1935-04-26
+Melbourne,1935,10,Fitzroy,10,W,11,,,,,,,,,,,,,,,,,,,,,,,,1935-05-03
+Melbourne,1935,11,South Melbourne,11,L,11,,,,,1,,,,,,,,,,,,,,,,,,,1935-05-10
+Melbourne,1935,12,Essendon,12,W,11,,,,,,,,,,,,,,,,,,,,,,,,1935-05-17
+Melbourne,1935,13,Geelong,13,W,11,,,,,,,,,,,,,,,,,,,,,,,,1935-05-24
+Melbourne,1935,14,Hawthorn,14,W,11,,,,,,,,,,,,,,,,,,,,,,,,1935-05-31
+Melbourne,1935,15,Richmond,15,L,11,,,,,,,,,,,,,,,,,,,,,,,,1935-06-07
+Melbourne,1935,16,Collingwood,16,D,11,,,,,,,,,,,,,,,,,,,,,,,,1935-06-14
+Melbourne,1935,17,St Kilda,17,L,11,,,,,,,,,,,,,,,,,,,,,,,,1935-06-21
+Melbourne,1935,18,North Melbourne,18,W,11,,,,,,,,,,,,,,,,,,,,,,,,1935-06-28
+Melbourne,1936,19,South Melbourne,1,L,11,,,,,,,,,,,,,,,,,,,,,,,,1936-03-01
+Melbourne,1936,20,Fitzroy,2,W,11,,,,,,,,,,,,,,,,,,,,,,,,1936-03-08
+Melbourne,1936,21,Hawthorn,4,W,11,,,,,,,,,,,,,,,,,,,,,,,,1936-03-22
+Melbourne,1936,22,North Melbourne,5,W,11,,,,,,,,,,,,,,,,,,,,,,,,1936-03-29
+Melbourne,1936,23,Carlton,9,W,11,,,,,,,,,,,,,,,,,,,,,,,,1936-04-26
+Melbourne,1938,24,Essendon,11,L,11,,,,,,,,,,,,,,,,,,,,,,,,1938-05-10

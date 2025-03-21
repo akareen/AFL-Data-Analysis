@@ -1,0 +1,32 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1945,1,Footscray,2,L,32,,,,,,,,,,,,,,,,,,,,,,,,1945-03-08
+Geelong,1945,2,North Melbourne,3,L,32,,,,,,,,,,,,,,,,,,,,,,,,1945-03-15
+Geelong,1945,3,South Melbourne,4,L,32,,,,,,,,,,,,,,,,,,,,,,,,1945-03-22
+Geelong,1945,4,Melbourne,5,L,32,,,,,,,,,,,,,,,,,,,,,,,,1945-03-29
+Geelong,1945,5,Hawthorn,6,W,32,,,,,,,,,,,,,,,,,,,,,,,,1945-04-05
+Geelong,1945,6,Fitzroy,12,L,32,,,,,,,,,,,,,,,,,,,,,,,,1945-05-17
+Geelong,1945,7,Footscray,13,L,32,,,,,,,,,,,,,,,,,,,,,,,,1945-05-24
+Geelong,1945,8,North Melbourne,14,L,32,,,,,,,,,,,,,,,,,,,,,,,,1945-05-31
+Geelong,1945,9,South Melbourne,15,L,32,,,,,,,,,,,,,,,,,,,,,,,,1945-06-07
+Geelong,1945,10,Melbourne,16,L,32,,,,,,,,,,,,,,,,,,,,,,,,1945-06-14
+Geelong,1945,11,Hawthorn,17,L,32,,,,,,,,,,,,,,,,,,,,,,,,1945-06-21
+Geelong,1945,12,Essendon,18,L,32,,,,,,,,,,,,,,,,,,,,,,,,1945-06-28
+Geelong,1945,13,Carlton,19,L,32,,,,,,,,,,,,,,,,,,,,,,,,1945-07-05
+Geelong,1945,14,St Kilda,20,W,32,,,,,,,,,,,,,,,,,,,,,,,,1945-07-12
+Geelong,1946,15,Melbourne,1,L,23,,,,,,,,,,,,,,,,,,,,,,,,1946-03-01
+Geelong,1946,16,Hawthorn,2,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1946-03-08
+Geelong,1946,17,Fitzroy,3,L,23,,,,,,,,,,,,,,,,,,,,,,,,1946-03-15
+Geelong,1946,18,Collingwood,7,L,23,,,,,,,,,,,,,,,,,,,,,,,,1946-04-12
+Geelong,1946,19,Essendon,10,W,23,,,,,,,,,,,,,,,,,,,,,,,,1946-05-03
+Geelong,1946,20,South Melbourne,11,L,23,,,,,,,,,,,,,,,,,,,,,,,,1946-05-10
+Geelong,1946,21,Melbourne,12,L,23,,,,,,,,,,,,,,,,,,,,,,,,1946-05-17
+Geelong,1946,22,Hawthorn,13,L,23,,,,,,,,,,,,,,,,,,,,,,,,1946-05-24
+Geelong,1946,23,North Melbourne,15,L,23,,,,,,,,,,,,,,,,,,,,,,,,1946-06-07
+Geelong,1946,24,Collingwood,18,L,23,,,,,,,,,,,,,,,,,,,,,,,,1946-06-28
+Geelong,1946,25,Footscray,19,W,23,,,,,,,,,,,,,,,,,,,,,,,,1946-07-05
+Geelong,1947,26,Essendon,4,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1947-03-22
+Geelong,1947,27,South Melbourne,5,W,23,,,,,,,,,,,,,,,,,,,,,,,,1947-03-29
+Geelong,1947,28,Fitzroy,11,L,23,,,,,,,,,,,,,,,,,,,,,,,,1947-05-10
+Geelong,1947,29,Melbourne,13,W,23,,,,,,,,,,,,,,,,,,,,,,,,1947-05-24
+Geelong,1947,30,Collingwood,14,L,23,,,,,,,,,,,,,,,,,,,,,,,,1947-05-31
+Geelong,1947,31,Richmond,17,W,23,,,,,,,,,,,,,,,,,,,,,,,,1947-06-21

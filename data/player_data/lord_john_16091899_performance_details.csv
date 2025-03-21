@@ -1,0 +1,55 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1921,1,Essendon,1,D,11,,,,,,,,,,,,,,,,,,,,,,,,1921-03-01
+Melbourne,1921,2,Collingwood,2,L,11,,,,,1,,,,,,,,,,,,,,,,,,,1921-03-08
+Melbourne,1921,3,South Melbourne,4,W,11,,,,,,,,,,,,,,,,,,,,,,,,1921-03-22
+Melbourne,1921,4,St Kilda,5,D,11,,,,,2,,,,,,,,,,,,,,,,,,,1921-03-29
+Melbourne,1921,5,Richmond,6,L,11,,,,,2,,,,,,,,,,,,,,,,,,,1921-04-05
+Melbourne,1921,6,Fitzroy,7,W,11,,,,,,,,,,,,,,,,,,,,,,,,1921-04-12
+Melbourne,1921,7,Carlton,8,L,11,,,,,,,,,,,,,,,,,,,,,,,,1921-04-19
+Melbourne,1921,8,Geelong,9,L,11,,,,,,,,,,,,,,,,,,,,,,,,1921-04-26
+Melbourne,1921,9,Collingwood,11,W,11,,,,,,,,,,,,,,,,,,,,,,,,1921-05-10
+Melbourne,1921,10,South Melbourne,13,L,11,,,,,,,,,,,,,,,,,,,,,,,,1921-05-24
+Melbourne,1921,11,St Kilda,14,W,11,,,,,,,,,,,,,,,,,,,,,,,,1921-05-31
+Melbourne,1921,12,Richmond,15,L,11,,,,,,,,,,,,,,,,,,,,,,,,1921-06-07
+Melbourne,1921,13,Fitzroy,16,W,11,,,,,2,,,,,,,,,,,,,,,,,,,1921-06-14
+Melbourne,1921,14,Carlton,17,L,11,,,,,,,,,,,,,,,,,,,,,,,,1921-06-21
+Melbourne,1922,15,Richmond,2,W,26,,,,,,,,,,,,,,,,,,,,,,,,1922-03-08
+Melbourne,1922,16,Carlton,4,L,26,,,,,,,,,,,,,,,,,,,,,,,,1922-03-22
+Melbourne,1922,17,Collingwood,8,W,26,,,,,,,,,,,,,,,,,,,,,,,,1922-04-19
+Melbourne,1922,18,Fitzroy,9,L,26,,,,,,,,,,,,,,,,,,,,,,,,1922-04-26
+Melbourne,1922,19,South Melbourne,10,W,26,,,,,,,,,,,,,,,,,,,,,,,,1922-05-03
+Melbourne,1922,20,Richmond,11,L,26,,,,,,,,,,,,,,,,,,,,,,,,1922-05-10
+Melbourne,1922,21,St Kilda,12,W,26,,,,,,,,,,,,,,,,,,,,,,,,1922-05-17
+Melbourne,1923,22,Geelong,2,W,26,,,,,,,,,,,,,,,,,,,,,,,,1923-03-08
+Melbourne,1923,23,South Melbourne,4,W,26,,,,,,,,,,,,,,,,,,,,,,,,1923-03-22
+Melbourne,1923,24,Essendon,16,L,26,,,,,,,,,,,,,,,,,,,,,,,,1923-06-14
+St Kilda,1924,25,Collingwood,2,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1924-03-08
+St Kilda,1924,26,Collingwood,11,W,17,,,,,,,,,,,,,,,,,,,,,,,,1924-05-10
+St Kilda,1924,27,Carlton,12,L,17,,,,,,,,,,,,,,,,,,,,,,,,1924-05-17
+St Kilda,1924,28,South Melbourne,13,W,17,,,,,2,,,,,,,,,,,,,,,,,,,1924-05-24
+St Kilda,1924,29,Geelong,14,L,17,,,,,,,,,,,,,,,,,,,,,,,,1924-05-31
+St Kilda,1924,30,Richmond,15,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1924-06-07
+St Kilda,1924,31,Fitzroy,16,L,17,,,,,,,,,,,,,,,,,,,,,,,,1924-06-14
+St Kilda,1924,32,Essendon,17,L,17,,,,,,,,,,,,,,,,,,,,,,,,1924-06-21
+St Kilda,1925,33,Melbourne,1,L,17,,,,,,,,,,,,,,,,,,,,,,,,1925-03-01
+St Kilda,1925,34,Hawthorn,2,W,17,,,,,,,,,,,,,,,,,,,,,,,,1925-03-08
+St Kilda,1925,35,Fitzroy,4,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1925-03-22
+St Kilda,1925,36,South Melbourne,5,L,17,,,,,,,,,,,,,,,,,,,,,,,,1925-03-29
+St Kilda,1925,37,Essendon,6,W,17,,,,,,,,,,,,,,,,,,,,,,,,1925-04-05
+St Kilda,1925,38,Collingwood,7,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1925-04-12
+St Kilda,1925,39,North Melbourne,8,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1925-04-19
+St Kilda,1925,40,Footscray,9,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1925-04-26
+St Kilda,1925,41,Carlton,10,W,17,,,,,,,,,,,,,,,,,,,,,,,,1925-05-03
+St Kilda,1925,42,Richmond,11,L,17,,,,,,,,,,,,,,,,,,,,,,,,1925-05-10
+St Kilda,1925,43,Geelong,14,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1925-05-31
+St Kilda,1925,44,Fitzroy,15,L,17,,,,,,,,,,,,,,,,,,,,,,,,1925-06-07
+St Kilda,1925,45,South Melbourne,16,W,17,,,,,2,,,,,,,,,,,,,,,,,,,1925-06-14
+St Kilda,1926,46,Melbourne,1,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1926-03-01
+St Kilda,1926,47,Fitzroy,4,W,17,,,,,,,,,,,,,,,,,,,,,,,,1926-03-22
+St Kilda,1926,48,Richmond,8,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1926-04-19
+St Kilda,1926,49,North Melbourne,9,W,17,,,,,,,,,,,,,,,,,,,,,,,,1926-04-26
+St Kilda,1926,50,Footscray,10,L,17,,,,,2,,,,,,,,,,,,,,,,,,,1926-05-03
+St Kilda,1926,51,Carlton,11,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1926-05-10
+St Kilda,1926,52,Melbourne,12,L,17,,,,,,,,,,,,,,,,,,,,,,,,1926-05-17
+St Kilda,1926,53,Geelong,13,L,17,,,,,,,,,,,,,,,,,,,,,,,,1926-05-24
+St Kilda,1926,54,South Melbourne,14,L,17,,,,,2,,,,,,,,,,,,,,,,,,,1926-05-31

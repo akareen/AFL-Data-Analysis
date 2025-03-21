@@ -1,0 +1,45 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+North Melbourne,2021,1,Western Bulldogs,3,L,29,4,2,5,9,,,,3,,,1,2,1,1,,4,5,,,,,,71,2021-03-15
+North Melbourne,2021,2,Adelaide,4,L,29,6,1,7,13,1,,,1,1,3,2,3,1,1,,5,8,,,1,,,60,2021-03-22
+North Melbourne,2021,3,Geelong,5,L,29,3,3,4,7,,,,3,,,,1,1,,,4,4,,,1,,1,71,2021-03-29
+North Melbourne,2021,4,Fremantle,6,L,29,5,1,4,9,1,,,1,,,1,1,1,,,3,6,,,,,,82,2021-04-05
+North Melbourne,2021,5,Melbourne,7,L,29,9,4,7,16,,1,,3,,2,1,2,,,,6,10,,,1,,,77,2021-04-12
+North Melbourne,2021,6↑,Collingwood,8,L,29,,,1,1,,,,1,,,,,,,,,1,,,,,,20,2021-04-19
+North Melbourne,2021,7,Hawthorn,9,W,29,,,,,,,,,,,,,,,,,,,,,,,,2021-04-26
+North Melbourne,2021,8,Gold Coast,15,W,29,7,4,5,12,,2,,4,,,2,1,1,,,2,10,,1,,,,65,2021-06-07
+North Melbourne,2021,9,Western Bulldogs,16,L,29,5,3,3,8,,1,,1,,1,,1,,,,4,4,2,1,1,,,66,2021-06-14
+North Melbourne,2021,10,West Coast,17,W,29,2,2,8,10,,,,3,,1,4,,,,,8,5,,,4,,,63,2021-06-21
+North Melbourne,2021,11,Essendon,18,L,29,5,3,10,15,,,,2,1,1,3,1,,,,4,11,,,,,,72,2021-06-28
+North Melbourne,2021,12↓,Carlton,19,W,29,9,4,4,13,,,,2,1,4,,1,,,,1,12,,,,,1,55,2021-07-05
+North Melbourne,2021,13,Geelong,20,L,29,8,3,9,17,,,,2,,2,1,4,1,1,,8,9,,,1,1,,74,2021-07-12
+North Melbourne,2021,14,Richmond,21,L,29,,,,,,,,,,,,,,,,,,,,,,,,2021-07-19
+North Melbourne,2021,15,Sydney,22,L,29,6,,6,12,,,,5,,3,3,2,1,,,8,4,,,1,,1,64,2021-07-26
+North Melbourne,2021,16,Adelaide,23,L,29,2,1,8,10,1,,,2,,1,1,2,,2,,6,5,,,,,,59,2021-08-02
+North Melbourne,2023,17↑,West Coast,1,W,29,5,,12,17,,1,,2,,3,4,1,1,1,,8,10,,,,1,1,53,2023-03-01
+North Melbourne,2023,18,Hawthorn,3,L,29,6,2,10,16,,,,5,,1,2,2,3,,,9,8,2,,,2,,76,2023-03-15
+North Melbourne,2023,19,Carlton,4,L,29,5,2,12,17,1,,,4,,3,5,3,2,1,,9,8,,,,,1,73,2023-03-22
+North Melbourne,2023,20,Brisbane Lions,5,L,29,8,2,11,19,1,,,1,,6,2,2,,,,5,13,,1,,,,75,2023-03-29
+North Melbourne,2023,21↓,Gold Coast,6,L,29,5,,3,8,,,,1,2,,2,2,,1,,6,3,,,1,,,39,2023-04-05
+North Melbourne,2023,22,Sydney,10,L,29,2,1,14,16,,,,4,,,5,,1,,,11,7,,1,2,,1,77,2023-05-03
+North Melbourne,2023,23,Collingwood,11,L,29,6,2,23,29,,,,5,1,2,5,3,,,,10,19,,,1,,,67,2023-05-10
+North Melbourne,2023,24,Essendon,12,L,29,9,,18,27,1,,,6,2,5,8,1,,1,,14,13,,,1,,2,75,2023-05-17
+North Melbourne,2023,25,Greater Western Sydney,13,L,29,7,4,11,18,,,,1,1,2,3,3,1,2,,11,8,,1,1,,,82,2023-05-24
+North Melbourne,2023,26,Western Bulldogs,14,L,29,9,1,13,22,,,,2,3,1,6,4,2,1,,12,12,,,1,,1,75,2023-05-31
+North Melbourne,2023,27,Adelaide,16,L,29,9,2,8,17,,,,3,,4,5,5,,,,7,10,,,1,,1,71,2023-06-14
+North Melbourne,2023,28,St Kilda,19,L,29,8,1,12,20,,,,11,2,4,2,3,2,1,,7,13,,,2,,,77,2023-07-05
+North Melbourne,2023,29,West Coast,20,L,29,7,2,9,16,,,,3,2,1,4,1,,,,8,9,,,,,,75,2023-07-12
+North Melbourne,2023,30,Melbourne,21,L,29,11,3,6,17,,1,,7,4,1,1,2,,,,2,15,,,,,1,68,2023-07-19
+North Melbourne,2023,31,Richmond,23,L,29,6,2,10,16,,,,8,,5,3,5,,1,,6,10,,,,,,72,2023-08-02
+North Melbourne,2023,32,Gold Coast,24,W,29,10,4,16,26,,,,3,,6,6,2,1,,1,8,18,,,1,,1,69,2023-08-09
+North Melbourne,2024,33,Hawthorn,7,L,29,3,1,11,14,,,,4,,2,3,1,,,,4,10,,,1,,,64,2024-04-12
+North Melbourne,2024,34↓,Adelaide,8,L,29,3,3,5,8,,,,1,2,,1,2,1,1,,4,5,,,,,,43,2024-04-19
+North Melbourne,2024,35,Gold Coast,10,L,29,5,4,14,19,,,,2,1,1,2,2,2,,,6,13,,,1,,,79,2024-05-03
+North Melbourne,2024,36↓,Collingwood,15,L,29,2,,11,13,1,,,2,,,3,2,,1,,9,5,,,1,,,68,2024-06-07
+North Melbourne,2024,37,Melbourne,16,L,29,4,1,8,12,,,,8,,2,4,2,2,2,,6,7,,,1,,1,83,2024-06-14
+North Melbourne,2024,38,Western Bulldogs,17,L,29,7,2,6,13,,,,4,1,4,1,3,,2,,4,9,,,,,,70,2024-06-21
+North Melbourne,2024,39,Gold Coast,18,W,29,9,3,3,12,,,,6,,3,3,2,1,1,,4,8,,,1,,,69,2024-06-28
+North Melbourne,2024,40,Geelong,21,L,29,9,2,11,20,,,,5,,4,1,3,1,,,6,14,,,,1,,75,2024-07-19
+North Melbourne,2024,41,Richmond,22,W,29,5,1,10,15,1,,,6,1,,3,1,2,,,6,8,,1,1,,1,69,2024-07-26
+North Melbourne,2024,42,West Coast,23,L,29,6,4,10,16,,,,8,,,4,,,,,8,9,,,2,,,67,2024-08-02
+North Melbourne,2024,43,Hawthorn,25,L,29,5,1,7,12,,,,9,,3,,,1,,,6,6,,,2,,2,72,2024-08-16
+North Melbourne,2025,44↓,Western Bulldogs,2,L,29,3,3,8,11,,,,3,,2,4,1,1,1,,6,5,,1,1,,,49,2025-03-08

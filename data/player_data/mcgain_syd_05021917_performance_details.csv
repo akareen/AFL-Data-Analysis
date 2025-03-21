@@ -1,0 +1,26 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1938,1,Fitzroy,6,L,22,,,,,1,,,,,,,,,,,,,,,,,,,1938-04-05
+Fitzroy,1940,2,Melbourne,8,L,13,,,,,,,,,,,,,,,,,,,,,,,,1940-04-19
+Fitzroy,1940,3,South Melbourne,9,W,13,,,,,,,,,,,,,,,,,,,,,,,,1940-04-26
+Fitzroy,1940,4,Collingwood,10,W,13,,,,,,,,,,,,,,,,,,,,,,,,1940-05-03
+Fitzroy,1940,5,Footscray,11,W,13,,,,,,,,,,,,,,,,,,,,,,,,1940-05-10
+Fitzroy,1940,6,St Kilda,12,L,13,,,,,,,,,,,,,,,,,,,,,,,,1940-05-17
+Fitzroy,1940,7,North Melbourne,13,W,13,,,,,,,,,,,,,,,,,,,,,,,,1940-05-24
+Fitzroy,1940,8,Geelong,14,W,13,,,,,,,,,,,,,,,,,,,,,,,,1940-05-31
+Fitzroy,1940,9,Hawthorn,18,L,13,,,,,,,,,,,,,,,,,,,,,,,,1940-06-28
+Fitzroy,1941,10,Collingwood,3,L,24,,,,,,,,,,,,,,,,,,,,,,,,1941-03-15
+Fitzroy,1941,11,Richmond,5,L,24,,,,,,,,,,,,,,,,,,,,,,,,1941-03-29
+Fitzroy,1942,12,Carlton,15,L,25,,,,,,,,,,,,,,,,,,,,,,,,1942-06-07
+Fitzroy,1943,13,South Melbourne,3,W,3,,,,,,,,,,,,,,,,,,,,,,,,1943-03-15
+North Melbourne,1943,14,Hawthorn,7,L,3,,,,,,,,,,,,,,,,,,,,,,,,1943-04-12
+North Melbourne,1943,15,Richmond,9,L,3,,,,,,,,,,,,,,,,,,,,,,,,1943-04-26
+North Melbourne,1943,16,Footscray,10,W,3,,,,,,,,,,,,,,,,,,,,,,,,1943-05-03
+North Melbourne,1943,17,Carlton,11,W,3,,,,,,,,,,,,,,,,,,,,,,,,1943-05-10
+North Melbourne,1943,18,South Melbourne,12,L,3,,,,,,,,,,,,,,,,,,,,,,,,1943-05-17
+North Melbourne,1943,19,Collingwood,13,L,3,,,,,,,,,,,,,,,,,,,,,,,,1943-05-24
+North Melbourne,1945,20,Collingwood,1,L,25,,,,,,,,,,,,,,,,,,,,,,,,1945-03-01
+North Melbourne,1945,21,Essendon,9,W,25,,,,,,,,,,,,,,,,,,,,,,,,1945-04-26
+North Melbourne,1945,22,Carlton,10,L,25,,,,,,,,,,,,,,,,,,,,,,,,1945-05-03
+North Melbourne,1945,23,St Kilda,11,W,25,,,,,,,,,,,,,,,,,,,,,,,,1945-05-10
+North Melbourne,1945,24,Collingwood,12,L,25,,,,,,,,,,,,,,,,,,,,,,,,1945-05-17
+North Melbourne,1945,25,Richmond,13,L,25,,,,,,,,,,,,,,,,,,,,,,,,1945-05-24

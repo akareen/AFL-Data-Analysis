@@ -1,0 +1,14 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+North Melbourne,1927,1,Essendon,2,W,13,,,,,,,,,,,,,,,,,,,,,,,,1927-03-08
+North Melbourne,1927,2,South Melbourne,17,L,13,,,,,,,,,,,,,,,,,,,,,,,,1927-06-21
+North Melbourne,1927,3,Collingwood,18,L,13,,,,,,,,,,,,,,,,,,,,,,,,1927-06-28
+North Melbourne,1928,4,Carlton,16,L,10,,,,,,,,,,,,,,,,,,,,,,,,1928-06-14
+Carlton,1931,5,Footscray,6,W,8,,,,,,,,,,,,,,,,,,,,,,,,1931-04-05
+Carlton,1931,6,Hawthorn,11,W,8,,,,,,,,,,,,,,,3,,,,,,,,,1931-05-10
+Carlton,1931,7,Fitzroy,13,W,8,,,,,1,,,,,,,,,,,,,,,,,,,1931-05-24
+Carlton,1931,8,Geelong,15,W,8,,,,,,,,,,,,,,,,,,,,,,,,1931-06-07
+Carlton,1931,9,Collingwood,16,L,8,,,,,,,,,,,,,,,,,,,,,,,,1931-06-14
+Carlton,1931,10,Footscray,17,L,8,,,,,,,,,,,,,,,,,,,,,,,,1931-06-21
+Carlton,1931,11,St Kilda,18,W,8,,,,,,,,,,,,,,,,,,,,,,,,1931-06-28
+Carlton,1931,12,Collingwood,SF,W,8,,,,,,,,,,,,,,,,,,,,,,,,1931-03-01
+Carlton,1931,13,Geelong,PF,L,8,,,,,1,,,,,,,,,,,,,,,,,,,1931-03-01

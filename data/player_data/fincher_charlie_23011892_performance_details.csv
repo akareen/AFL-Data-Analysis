@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1913,1,St Kilda,1,W,13,,,,,1,,,,,,,,,,,,,,,,,,,1913-03-01
+South Melbourne,1913,2,Carlton,2,D,13,,,,,,,,,,,,,,,,,,,,,,,,1913-03-08
+South Melbourne,1913,3,Geelong,5,W,13,,,,,2,,,,,,,,,,,,,,,,,,,1913-03-29
+South Melbourne,1913,4,Melbourne,6,W,13,,,,,,,,,,,,,,,,,,,,,,,,1913-04-05
+South Melbourne,1913,5,Fitzroy,7,L,13,,,,,,,,,,,,,,,,,,,,,,,,1913-04-12
+South Melbourne,1913,6,University,8,W,13,,,,,,,,,,,,,,,,,,,,,,,,1913-04-19
+South Melbourne,1913,7,Carlton,11,W,13,,,,,2,,,,,,,,,,,,,,,,,,,1913-05-10
+South Melbourne,1913,8,Richmond,12,W,13,,,,,,,,,,,,,,,,,,,,,,,,1913-05-17
+South Melbourne,1913,9,Essendon,13,L,13,,,,,,,,,,,,,,,,,,,,,,,,1913-05-24

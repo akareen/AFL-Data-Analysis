@@ -1,0 +1,42 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Footscray,1994,1,Carlton,10,L,37,10,4,2,12,1,4,,1,,,,,1,,,,,,,,,,,1994-05-03
+Footscray,1994,2,Essendon,12,W,37,2,1,3,5,,,,,,,,,,1,,,,,,,,,,1994-05-17
+Footscray,1994,3,Sydney,13,W,37,4,2,4,8,,,,,,,,,2,2,,,,,,,,,,1994-05-24
+Footscray,1995,4,Hawthorn,2,W,37,7,2,1,8,4,1,,,,,,,,1,,,,,,,,,,1995-03-08
+Footscray,1995,5,Carlton,3,L,37,,,,,,,,,,,,,,,,,,,,,,,,1995-03-15
+Footscray,1995,6,Fremantle,5,W,37,7,4,3,10,2,1,,1,,,,,,,,,,,,,,,,1995-03-29
+Footscray,1995,7,Geelong,6,L,37,6,3,,6,1,,,,,,,,,1,,,,,,,,,,1995-04-05
+Footscray,1995,8,Adelaide,11,L,37,6,3,,6,2,1,1,,,,,,1,,,,,,,,,,,1995-05-10
+Footscray,1995,9,West Coast,15,W,37,12,6,3,15,1,1,2,1,,,,,2,3,,,,,,,,,,1995-06-07
+Footscray,1995,10,Sydney,16,W,37,3,3,1,4,,,1,,,,,,,,,,,,,,,,,1995-06-14
+Footscray,1995,11,Hawthorn,17,W,37,12,10,3,15,1,1,1,,,,,,1,,,,,,,,,,,1995-06-21
+Footscray,1995,12,Carlton,18,L,37,10,8,2,12,1,1,,,,,,,1,2,,,,,,,,,,1995-06-28
+Footscray,1995,13,Melbourne,19,W,37,5,3,1,6,2,,3,,,,,,1,1,,,,,,,,,,1995-07-05
+Footscray,1995,14,Fremantle,20,L,37,4,3,,4,1,1,,,,,,,1,,,,,,,,,,,1995-07-12
+Footscray,1995,15,Geelong,21,W,37,15,7,1,16,3,1,1,,,,,,2,1,,,,,,,,,,1995-07-19
+Footscray,1995,16,St Kilda,22,L,37,7,4,1,8,3,1,1,1,,,,,1,,,,,,,,,,,1995-07-26
+Footscray,1995,17,Geelong,QF,L,37,6,2,1,7,1,3,,,,,,,1,1,,,,,,,,,,1995-03-01
+Footscray,1996,18,Brisbane Bears,1,L,37,10,6,1,11,,2,,,,,,,,3,,,,,,,,,,1996-03-01
+Footscray,1996,19,North Melbourne,2,L,37,2,1,1,3,1,1,,1,,,,,,2,,,,,,,,,,1996-03-08
+Footscray,1996,20,Essendon,8,L,37,7,6,2,9,4,,1,,,,,,1,,,,,,,,,,,1996-04-19
+Footscray,1996,21,Adelaide,9,W,37,12,9,2,14,3,1,,3,,,,,2,1,,,,,,,,,,1996-04-26
+Footscray,1996,22,North Melbourne,10,L,37,14,9,,14,2,1,1,1,,,,,1,2,,,,,,,,,,1996-05-03
+Footscray,1996,23,Geelong,11,L,37,8,6,2,10,3,1,1,,,,,,1,,,,,,,,,,,1996-05-10
+Footscray,1996,24,Sydney,12,L,37,11,8,3,14,3,5,,,,,,,2,2,,,,,,,,,,1996-05-17
+Footscray,1996,25,West Coast,13,L,37,6,2,3,9,3,,1,,,,,,1,1,,,,,,,,,,1996-05-24
+Footscray,1996,26,Melbourne,14,L,37,7,4,1,8,1,,,,,,,,,,,,,,,,,,,1996-05-31
+Footscray,1996,27,Fremantle,15,W,37,14,10,2,16,5,3,1,,,,,,,1,,,,,,,,,,1996-06-07
+Footscray,1996,28,Brisbane Bears,16,L,37,4,2,,4,1,1,,,,,,,,1,,,,,,,,,,1996-06-14
+Footscray,1996,29,Collingwood,17,L,37,9,8,,9,3,4,,1,,,,,,4,,,,,,,,,,1996-06-21
+Footscray,1996,30,Fitzroy,18,W,37,9,7,2,11,2,3,,1,,,,,,3,,,,,,,,,,1996-06-28
+Footscray,1996,31,Hawthorn,19,L,37,4,3,,4,,1,2,,,,,,,1,,,,,,,,,,1996-07-05
+Footscray,1996,32,St Kilda,20,W,37,4,3,,4,,,,,,,,,,2,,,,,,,,,,1996-07-12
+Footscray,1996,33,Carlton,21,L,37,7,3,1,8,3,2,,,,,,,1,,,,,,,,,,,1996-07-19
+Footscray,1996,34,Essendon,22,L,37,11,7,1,12,2,,,,,,,,2,2,,,,,,,,,,1996-07-26
+Western Bulldogs,1997,35,Fremantle,1,L,37,2,2,,2,1,,,,,,,,,,,,,,,,,,,1997-03-01
+Western Bulldogs,1997,36,Sydney,2,W,37,,,,,,,,1,,,,,,,,,,,,,,,,1997-03-08
+Western Bulldogs,1997,37,Fremantle,16,L,37,7,5,,7,2,,,,,,,,,1,,,,,,,,,,1997-06-14
+Western Bulldogs,1997,38,Sydney,17,L,37,1,1,,1,,1,,1,,,,,,,,,,,,,,,,1997-06-21
+Fremantle,1998,39,Essendon,4,W,21,2,,1,3,,1,,,,,,1,1,,,,,,,,,,,1998-03-22
+Fremantle,1998,40,Geelong,8,L,21,,,,,,,,1,,,,,,,,,,,,,,,,1998-04-19
+Fremantle,1999,41,Carlton,4,L,21,1,,,1,,,,,,1,,,,1,,,,,,,,,,1999-03-22

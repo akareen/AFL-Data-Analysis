@@ -1,0 +1,14 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1927,1,St Kilda,18,W,12,,,,,,,,,,,,,,,,,,,,,,,,1927-06-28
+Carlton,1928,2,North Melbourne,5,L,12,,,,,,,,,,,,,,,,,,,,,,,,1928-03-29
+Carlton,1928,3,Geelong,11,W,12,,,,,1,,,,,,,,,,,,,,,,,,,1928-05-10
+Carlton,1928,4,Richmond,13,L,12,,,,,,,,,,,,,,,,,,,,,,,,1928-05-24
+Carlton,1928,5,Hawthorn,14,W,12,,,,,,,,,,,,,,,,,,,,,,,,1928-05-31
+Carlton,1928,6,St Kilda,15,L,12,,,,,2,,,,,,,,,,,,,,,,,,,1928-06-07
+Carlton,1928,7,North Melbourne,16,W,12,,,,,,,,,,,,,,,,,,,,,,,,1928-06-14
+Carlton,1928,8,South Melbourne,17,W,12,,,,,,,,,,,,,,,,,,,,,,,,1928-06-21
+Carlton,1928,9,Collingwood,18,W,12,,,,,2,,,,,,,,,,,,,,,,,,,1928-06-28
+Carlton,1928,10,Richmond,SF,L,12,,,,,,,,,,,,,,,,,,,,,,,,1928-03-01
+Carlton,1929,11,Collingwood,10,L,12,,,,,1,,,,,,,,,,,,,,,,,,,1929-05-03
+Carlton,1929,12,Footscray,11,W,12,,,,,,,,,,,,,,,,,,,,,,,,1929-05-10
+Carlton,1929,13,Essendon,12,W,12,,,,,,,,,,,,,,,,,,,,,,,,1929-05-17

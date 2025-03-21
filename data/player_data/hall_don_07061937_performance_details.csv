@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1958,1,Hawthorn,8,W,34,,,,,,,,,,,,,,,,,,,,,,,,1958-04-19
+Carlton,1958,2,St Kilda,15,W,34,,,,,,,,,,,,,,,,,,,,,,,,1958-06-07
+Carlton,1958,3,Collingwood,16,L,34,,,,,,,,,,,,,,,,,,,,,,,,1958-06-14
+Carlton,1959,4,Essendon,12,L,34,,,,,,,,,,,,,,,,,,,,,,,,1959-05-17
+Carlton,1959,5,Footscray,13,W,34,,,,,,,,,,,,,,,,,,,,,,,,1959-05-24
+Carlton,1960,6,Richmond,1,D,34,,,,,,,,,,,,,,,,,,,,,,,,1960-03-01
+Carlton,1960,7,Fitzroy,2,L,34,,,,,,,,,,,,,,,,,,,,,,,,1960-03-08
+Carlton,1960,8,St Kilda,3,W,34,,,,,3,,,,,,,,,,,,,,,,,,,1960-03-15
+Carlton,1960,9,Hawthorn,4,W,34,,,,,1,,,,,,,,,,,,,,,,,,,1960-03-22
+Carlton,1960,10,Essendon,5,L,34,,,,,,,,,,,,,,,,,,,,,,,,1960-03-29

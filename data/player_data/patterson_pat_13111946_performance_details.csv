@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1969,1,Fitzroy,9,W,39,,,,,,,,,,,,,,1,,,,,,,,,,1969-04-26
+Geelong,1969,2,Richmond,11,W,39,3,1,,3,,,,,,,,,,1,,,,,,,,,,1969-05-10
+Geelong,1969,3,Melbourne,12,W,39,,,,,,,,,,,,,,,,,,,,,,,,1969-05-17
+Geelong,1969,4,Footscray,16,W,39,9,2,3,12,,,,,,,,,1,2,,,,,,,,,,1969-06-14
+Geelong,1969,5,Carlton,17,W,39,10,3,3,13,,,,,,,,,2,1,,,,,,,,,,1969-06-21
+Geelong,1969,6,North Melbourne,18,W,39,9,1,1,10,,,,,,,,,,1,,,,,,,,,,1969-06-28
+Geelong,1969,7,Hawthorn,19,W,39,10,1,4,14,,,,,,,,,3,3,,,,,,,,,,1969-07-05
+Geelong,1969,8,Fitzroy,20,L,39,8,1,2,10,,,,,,,,,1,3,,,,,,,,,,1969-07-12

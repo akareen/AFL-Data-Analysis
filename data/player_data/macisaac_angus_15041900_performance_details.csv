@@ -1,0 +1,60 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1922,1,Carlton,8,L,28,,,,,,,,,,,,,,,,,,,,,,,,1922-04-19
+Richmond,1922,2,St Kilda,9,W,28,,,,,,,,,,,,,,,,,,,,,,,,1922-04-26
+Richmond,1922,3,Collingwood,10,L,28,,,,,,,,,,,,,,,,,,,,,,,,1922-05-03
+Richmond,1922,4,Melbourne,11,W,28,,,,,,,,,,,,,,,,,,,,,,,,1922-05-10
+Richmond,1922,5,Geelong,13,W,28,,,,,,,,,,,,,,,,,,,,,,,,1922-05-24
+Richmond,1922,6,Essendon,14,L,28,,,,,,,,,,,,,,,,,,,,,,,,1922-05-31
+Richmond,1922,7,Fitzroy,15,W,28,,,,,,,,,,,,,,,,,,,,,,,,1922-06-07
+Richmond,1922,8,South Melbourne,16,W,28,,,,,,,,,,,,,,,,,,,,,,,,1922-06-14
+Richmond,1922,9,Carlton,17,L,28,,,,,,,,,,,,,,,,,,,,,,,,1922-06-21
+Richmond,1922,10,St Kilda,18,L,28,,,,,,,,,,,,,,,,,,,,,,,,1922-06-28
+Richmond,1923,11,St Kilda,4,L,29,,,,,,,,,,,,,,,,,,,,,,,,1923-03-22
+Richmond,1923,12,Collingwood,5,L,29,,,,,,,,,,,,,,,,,,,,,,,,1923-03-29
+Richmond,1923,13,Essendon,6,L,29,,,,,,,,,,,,,,,,,,,,,,,,1923-04-05
+Richmond,1923,14,Geelong,7,W,29,,,,,,,,,,,,,,,,,,,,,,,,1923-04-12
+Richmond,1923,15,South Melbourne,8,L,29,,,,,,,,,,,,,,,,,,,,,,,,1923-04-19
+Richmond,1923,16,St Kilda,13,L,29,,,,,,,,,,,,,,,,,,,,,,,,1923-05-24
+Richmond,1923,17,South Melbourne,17,L,29,,,,,,,,,,,,,,,,,,,,,,,,1923-06-21
+Richmond,1924,18,South Melbourne,1,L,28,,,,,,,,,,,,,,,,,,,,,,,,1924-03-01
+Richmond,1924,19,Geelong,2,L,28,,,,,,,,,,,,,,,,,,,,,,,,1924-03-08
+Richmond,1924,20,Fitzroy,4,L,28,,,,,,,,,,,,,,,,,,,,,,,,1924-03-22
+Richmond,1924,21,Essendon,5,L,28,,,,,,,,,,,,,,,,,,,,,,,,1924-03-29
+Richmond,1924,22,St Kilda,6,W,28,,,,,,,,,,,,,,,,,,,,,,,,1924-04-05
+Richmond,1924,23,Melbourne,7,W,28,,,,,,,,,,,,,,,,,,,,,,,,1924-04-12
+Richmond,1924,24,Collingwood,8,W,28,,,,,1,,,,,,,,,,,,,,,,,,,1924-04-19
+Richmond,1924,25,Carlton,9,W,28,,,,,,,,,,,,,,,,,,,,,,,,1924-04-26
+Richmond,1924,26,South Melbourne,10,L,28,,,,,,,,,,,,,,,,,,,,,,,,1924-05-03
+Richmond,1924,27,Geelong,11,W,28,,,,,,,,,,,,,,,,,,,,,,,,1924-05-10
+Richmond,1924,28,Fitzroy,13,W,28,,,,,1,,,,,,,,,,,,,,,,,,,1924-05-24
+Richmond,1924,29,Essendon,14,L,28,,,,,,,,,,,,,,,,,,,,,,,,1924-05-31
+Richmond,1924,30,St Kilda,15,W,28,,,,,,,,,,,,,,,,,,,,,,,,1924-06-07
+Richmond,1924,31,Melbourne,16,W,28,,,,,2,,,,,,,,,,,,,,,,,,,1924-06-14
+Richmond,1924,32,Collingwood,17,W,28,,,,,1,,,,,,,,,,,,,,,,,,,1924-06-21
+Richmond,1924,33,Carlton,18,W,28,,,,,1,,,,,,,,,,,,,,,,,,,1924-06-28
+Richmond,1924,34,South Melbourne,SF,W,28,,,,,,,,,,,,,,,,,,,,,,,,1924-03-01
+Richmond,1924,35,Fitzroy,SF,L,28,,,,,1,,,,,,,,,,,,,,,,,,,1924-03-01
+Richmond,1924,36,Essendon,SF,W,28,,,,,,,,,,,,,,,,,,,,,,,,1924-03-01
+Richmond,1926,37,Carlton,10,W,25,,,,,,,,,,,,,,,,,,,,,,,,1926-05-03
+Richmond,1926,38,Collingwood,11,L,25,,,,,1,,,,,,,,,,,,,,,,,,,1926-05-10
+Richmond,1926,39,South Melbourne,12,L,25,,,,,,,,,,,,,,,,,,,,,,,,1926-05-17
+Richmond,1926,40,Fitzroy,13,W,25,,,,,,,,,,,,,,,,,,,,,,,,1926-05-24
+Richmond,1926,41,Essendon,14,L,25,,,,,,,,,,,,,,,,,,,,,,,,1926-05-31
+Richmond,1926,42,Hawthorn,15,W,25,,,,,,,,,,,,,,,,,,,,,,,,1926-06-07
+Richmond,1926,43,Melbourne,16,L,25,,,,,,,,,,,,,,,,,,,,,,,,1926-06-14
+Richmond,1926,44,Geelong,17,L,25,,,,,,,,,,,,,,,,,,,,,,,,1926-06-21
+Richmond,1927,45,Melbourne,1,L,24,,,,,2,,,,,,,,,,,,,,,,,,,1927-03-01
+Richmond,1927,46,St Kilda,2,W,24,,,,,1,,,,,,,,,,,,,,,,,,,1927-03-08
+Richmond,1927,47,North Melbourne,5,W,24,,,,,2,,,,,,,,,,,,,,,,,,,1927-03-29
+Richmond,1927,48,Carlton,6,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1927-04-05
+Richmond,1927,49,South Melbourne,7,W,24,,,,,,,,,,,,,,,,,,,,,,,,1927-04-12
+Richmond,1927,50,Essendon,8,W,24,,,,,1,,,,,,,,,,,,,,,,,,,1927-04-19
+Richmond,1927,51,Hawthorn,9,W,24,,,,,1,,,,,,,,,,,,,,,,,,,1927-04-26
+Richmond,1927,52,Geelong,10,W,24,,,,,2,,,,,,,,,,,,,,,,,,,1927-05-03
+Richmond,1927,53,Fitzroy,11,W,24,,,,,1,,,,,,,,,,,,,,,,,,,1927-05-10
+Richmond,1927,54,Melbourne,12,W,24,,,,,,,,,,,,,,,,,,,,,,,,1927-05-17
+Richmond,1927,55,St Kilda,13,W,24,,,,,1,,,,,,,,,,,,,,,,,,,1927-05-24
+Richmond,1927,56,Collingwood,14,L,24,,,,,,,,,,,,,,,,,,,,,,,,1927-05-31
+Richmond,1927,57,Hawthorn,18,W,24,,,,,,,,,,,,,,,,,,,,,,,,1927-06-28
+Richmond,1927,58,Carlton,SF,W,24,,,,,,,,,,,,,,,,,,,,,,,,1927-03-01
+Richmond,1927,59,Collingwood,GF,L,24,,,,,,,,,,,,,,,,,,,,,,,,1927-03-01

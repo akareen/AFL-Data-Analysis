@@ -1,0 +1,7 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1931,1,Footscray,8,L,13,,,,,1,,,,,,,,,,,,,,,,,,,1931-04-19
+St Kilda,1931,2,Melbourne,9,W,13,,,,,,,,,,,,,,,,,,,,,,,,1931-04-26
+St Kilda,1931,3,Fitzroy,10,W,13,,,,,1,,,,,,,,,,,,,,,,,,,1931-05-03
+St Kilda,1931,4,Richmond,11,L,13,,,,,,,,,,,,,,,,,,,,,,,,1931-05-10
+St Kilda,1931,5,Essendon,12,L,13,,,,,,,,,,,,,,,,,,,,,,,,1931-05-17
+St Kilda,1931,6,Geelong,13,L,13,,,,,2,,,,,,,,,,,,,,,,,,,1931-05-24

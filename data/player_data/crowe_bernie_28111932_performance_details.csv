@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1957,1,Carlton,4,L,25,,,,,,,,,,,,,,,,,,,,,,,,1957-03-22
+Geelong,1957,2,Hawthorn,5,W,25,,,,,,,,,,,,,,,,,,,,,,,,1957-03-29
+Geelong,1957,3,St Kilda,6,W,25,,,,,1,,,,,,,,,,,,,,,,,,,1957-04-05
+Geelong,1957,4,Essendon,8,L,25,,,,,,,,,,,,,,,,,,,,,,,,1957-04-19
+Geelong,1957,5,Melbourne,9,L,25,,,,,1,,,,,,,,,,,,,,,,,,,1957-04-26
+Geelong,1957,6,South Melbourne,10,L,25,,,,,1,,,,,,,,,,,,,,,,,,,1957-05-03
+Geelong,1957,7,Footscray,12,L,25,,,,,,,,,,,,,,,,,,,,,,,,1957-05-17
+Geelong,1957,8,Collingwood,14,L,25,,,,,,,,,,,,,,,,,,,,,,,,1957-05-31
+Geelong,1957,9,Fitzroy,18,L,25,,,,,,,,,,,,,,,,,,,,,,,,1957-06-28

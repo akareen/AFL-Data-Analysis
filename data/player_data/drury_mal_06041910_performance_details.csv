@@ -1,0 +1,16 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1934,1,Carlton,1,L,11,,,,,2,,,,,,,,,,,,,,,,,,,1934-03-01
+Hawthorn,1934,2,Melbourne,2,L,11,,,,,,,,,,,,,,,,,,,,,,,,1934-03-08
+Hawthorn,1934,3,Collingwood,3,L,11,,,,,,,,,,,,,,,,,,,,,,,,1934-03-15
+Hawthorn,1934,4,Essendon,4,L,11,,,,,2,,,,,,,,,,,,,,,,,,,1934-03-22
+Hawthorn,1934,5,South Melbourne,5,L,11,,,,,,,,,,,,,,,,,,,,,,,,1934-03-29
+Hawthorn,1934,6,Footscray,6,W,11,,,,,,,,,,,,,,,,,,,,,,,,1934-04-05
+Hawthorn,1934,7,Richmond,7,L,11,,,,,1,,,,,,,,,,,,,,,,,,,1934-04-12
+Hawthorn,1934,8,Geelong,8,L,11,,,,,1,,,,,,,,,,,,,,,,,,,1934-04-19
+Hawthorn,1934,9,Fitzroy,9,L,11,,,,,3,,,,,,,,,,2,,,,,,,,,1934-04-26
+Hawthorn,1934,10,North Melbourne,10,W,11,,,,,,,,,,,,,,,,,,,,,,,,1934-05-03
+Hawthorn,1934,11,St Kilda,11,L,11,,,,,1,,,,,,,,,,,,,,,,,,,1934-05-10
+Hawthorn,1934,12,Carlton,12,L,11,,,,,,,,,,,,,,,,,,,,,,,,1934-05-17
+Hawthorn,1934,13,Melbourne,13,L,11,,,,,1,,,,,,,,,,,,,,,,,,,1934-05-24
+Hawthorn,1934,14,Collingwood,14,L,11,,,,,1,,,,,,,,,,,,,,,,,,,1934-05-31
+Hawthorn,1934,15,Essendon,15,W,11,,,,,,,,,,,,,,,,,,,,,,,,1934-06-07

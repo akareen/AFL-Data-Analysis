@@ -1,0 +1,19 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1923,1,Geelong,7,W,26,,,,,4,,,,,,,,,,,,,,,,,,,1923-04-12
+Richmond,1923,2,South Melbourne,8,L,26,,,,,1,,,,,,,,,,,,,,,,,,,1923-04-19
+Richmond,1923,3,Melbourne,10,W,26,,,,,4,,,,,,,,,,,,,,,,,,,1923-05-03
+Richmond,1923,4,Carlton,12,L,26,,,,,2,,,,,,,,,,,,,,,,,,,1923-05-17
+Richmond,1923,5,St Kilda,13,L,26,,,,,,,,,,,,,,,,,,,,,,,,1923-05-24
+Richmond,1923,6,Collingwood,14,W,26,,,,,1,,,,,,,,,,,,,,,,,,,1923-05-31
+Richmond,1923,7,Geelong,16,L,26,,,,,3,,,,,,,,,,,,,,,,,,,1923-06-14
+Richmond,1923,8,South Melbourne,17,L,26,,,,,3,,,,,,,,,,,,,,,,,,,1923-06-21
+Richmond,1923,9,Fitzroy,18,L,26,,,,,,,,,,,,,,,,,,,,,,,,1923-06-28
+Richmond,1924,10,Fitzroy,4,L,26,,,,,,,,,,,,,,,,,,,,,,,,1924-03-22
+Richmond,1925,11,Hawthorn,1,W,26,,,,,1,,,,,,,,,,,,,,,,,,,1925-03-01
+Richmond,1925,12,Footscray,8,L,26,,,,,1,,,,,,,,,,,,,,,,,,,1925-04-19
+Richmond,1925,13,Collingwood,9,L,26,,,,,2,,,,,,,,,,,,,,,,,,,1925-04-26
+Richmond,1925,14,North Melbourne,10,W,26,,,,,,,,,,,,,,,,,,,,,,,,1925-05-03
+Richmond,1925,15,Hawthorn,12,W,26,,,,,3,,,,,,,,,,,,,,,,,,,1925-05-17
+Richmond,1925,16,Geelong,13,L,26,,,,,,,,,,,,,,,,,,,,,,,,1925-05-24
+Richmond,1925,17,Fitzroy,14,L,26,,,,,,,,,,,,,,,,,,,,,,,,1925-05-31
+Richmond,1925,18,South Melbourne,15,W,26,,,,,,,,,,,,,,,,,,,,,,,,1925-06-07

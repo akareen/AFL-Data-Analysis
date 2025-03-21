@@ -1,0 +1,24 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1950,1,Melbourne,6,L,16,,,,,,,,,,,,,,,,,,,,,,,,1950-04-05
+Fitzroy,1950,2,North Melbourne,7,L,16,,,,,,,,,,,,,,,,,,,,,,,,1950-04-12
+Fitzroy,1950,3,St Kilda,8,L,16,,,,,,,,,,,,,,,,,,,,,,,,1950-04-19
+Fitzroy,1950,4,Footscray,9,W,16,,,,,,,,,,,,,,,,,,,,,,,,1950-04-26
+Fitzroy,1950,5,Geelong,10,L,16,,,,,,,,,,,,,,,,,,,,,,,,1950-05-03
+Fitzroy,1950,6,Carlton,11,W,16,,,,,,,,,,,,,,,,,,,,,,,,1950-05-10
+Fitzroy,1950,7,Collingwood,13,W,16,,,,,,,,,,,,,,,,,,,,,,,,1950-05-24
+Fitzroy,1950,8,Richmond,14,W,16,,,,,,,,,,,,,,,,,,,,,,,,1950-05-31
+Fitzroy,1950,9,South Melbourne,15,W,16,,,,,,,,,,,,,,,,,,,,,,,,1950-06-07
+Fitzroy,1950,10,Hawthorn,16,W,16,,,,,,,,,,,,,,,,,,,,,,,,1950-06-14
+Fitzroy,1951,11,Geelong,2,W,16,,,,,,,,,,,,,,,,,,,,,,,,1951-03-08
+Fitzroy,1951,12,Melbourne,3,W,16,,,,,,,,,,,,,,,,,,,,,,,,1951-03-15
+Fitzroy,1951,13,Footscray,4,W,16,,,,,,,,,,,,,,,,,,,,,,,,1951-03-22
+Fitzroy,1951,14,Carlton,5,L,16,,,,,,,,,,,,,,,,,,,,,,,,1951-03-29
+Fitzroy,1951,15,Essendon,6,W,16,,,,,,,,,,,,,,,,,,,,,,,,1951-04-05
+Fitzroy,1951,16,North Melbourne,7,L,16,,,,,,,,,,,,,,,,,,,,,,,,1951-04-12
+Fitzroy,1951,17,Richmond,8,W,16,,,,,,,,,,,,,,,,,,,,,,,,1951-04-19
+Fitzroy,1951,18,South Melbourne,9,D,16,,,,,,,,,,,,,,,,,,,,,,,,1951-04-26
+Fitzroy,1951,19,Hawthorn,10,L,16,,,,,,,,,,,,,,,,,,,,,,,,1951-05-03
+Fitzroy,1951,20,Collingwood,11,W,16,,,,,,,,,,,,,,,,,,,,,,,,1951-05-10
+Fitzroy,1951,21,St Kilda,12,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1951-05-17
+Fitzroy,1951,22,Geelong,13,L,16,,,,,,,,,,,,,,,,,,,,,,,,1951-05-24
+Fitzroy,1952,23,Richmond,1,L,16,,,,,,,,,,,,,,,,,,,,,,,,1952-03-01

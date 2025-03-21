@@ -1,0 +1,15 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1905,1,Essendon,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-05-17
+St Kilda,1905,2,South Melbourne,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-05-24
+St Kilda,1905,3,Carlton,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-05-31
+St Kilda,1905,4,Fitzroy,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-06-07
+St Kilda,1905,5,Essendon,16,L,,,,,,1,,,,,,,,,,,,,,,,,,,1905-06-14
+St Kilda,1905,6,Geelong,17,W,,,,,,1,,,,,,,,,,,,,,,,,,,1905-06-21
+St Kilda,1906,7,Fitzroy,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-01
+St Kilda,1906,8,Carlton,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-08
+St Kilda,1906,9,Essendon,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-22
+St Kilda,1906,10,Melbourne,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-05
+St Kilda,1906,11,Carlton,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-26
+St Kilda,1906,12,Collingwood,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-06-07
+St Kilda,1910,13,Melbourne,4,L,,,,,,1,,,,,,,,,,,,,,,,,,,1910-03-22
+St Kilda,1910,14,Richmond,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-05

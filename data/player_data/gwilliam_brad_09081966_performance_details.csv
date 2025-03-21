@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+West Coast,1990,1,Collingwood,1,W,43,6,1,4,10,,,3,,,,,,,1,,,,,,,,,,1990-03-01
+West Coast,1990,2,St Kilda,2,L,43,5,3,,5,,,,,,,,,1,1,,,,,,,,,,1990-03-08
+West Coast,1990,3,Footscray,3,W,43,1,,1,2,,,,,,,,,,1,,,,,,,,,,1990-03-15
+West Coast,1990,4,Footscray,16,W,43,3,2,4,7,,,,1,,,,,,2,,,,,,,,,,1990-06-14
+Richmond,1992,5,North Melbourne,2,L,39,4,1,3,7,,,,,,,,,3,,,,,,,,,,,1992-03-08
+Richmond,1992,6,Geelong,3,L,39,4,2,1,5,,,,2,,,,,,,,,,,,,,,,1992-03-15
+Richmond,1992,7,Melbourne,4,W,39,5,,2,7,,,,1,,,,,1,1,,,,,,,,,,1992-03-22
+Richmond,1992,8,Adelaide,5,L,39,,,2,2,,,,,,,,,,,,,,,,,,,,1992-03-29

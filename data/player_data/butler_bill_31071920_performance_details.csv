@@ -1,0 +1,59 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1942,1,Fitzroy,1,L,2,,,,,,,,,,,,,,,,,,,,,,,,1942-03-01
+St Kilda,1942,2,Hawthorn,2,W,2,,,,,,,,,,,,,,,,,,,,,,,,1942-03-08
+St Kilda,1942,3,South Melbourne,3,L,2,,,,,,,,,,,,,,,,,,,,,,,,1942-03-15
+St Kilda,1942,4,Melbourne,6,W,2,,,,,,,,,,,,,,,,,,,,,,,,1942-04-05
+St Kilda,1942,5,Collingwood,7,W,2,,,,,,,,,,,,,,,,,,,,,,,,1942-04-12
+St Kilda,1942,6,Carlton,8,L,2,,,,,,,,,,,,,,,,,,,,,,,,1942-04-19
+St Kilda,1942,7,Essendon,9,W,2,,,,,,,,,,,,,,,,,,,,,,,,1942-04-26
+St Kilda,1942,8,Footscray,10,L,2,,,,,,,,,,,,,,,,,,,,,,,,1942-05-03
+St Kilda,1942,9,North Melbourne,11,W,2,,,,,,,,,,,,,,,,,,,,,,,,1942-05-10
+St Kilda,1943,10,Hawthorn,1,L,2,,,,,,,,,,,,,,,,,,,,,,,,1943-03-01
+St Kilda,1943,11,North Melbourne,2,D,2,,,,,,,,,,,,,,,,,,,,,,,,1943-03-08
+St Kilda,1943,12,Richmond,3,L,2,,,,,,,,,,,,,,,,,,,,,,,,1943-03-15
+St Kilda,1943,13,Collingwood,6,L,2,,,,,,,,,,,,,,,,,,,,,,,,1943-04-05
+St Kilda,1943,14,Essendon,8,L,2,,,,,,,,,,,,,,,,,,,,,,,,1943-04-19
+St Kilda,1943,15,Melbourne,9,L,2,,,,,,,,,,,,,,,,,,,,,,,,1943-04-26
+St Kilda,1943,16,Fitzroy,10,L,2,,,,,,,,,,,,,,,,,,,,,,,,1943-05-03
+St Kilda,1943,17,South Melbourne,11,L,2,,,,,,,,,,,,,,,,,,,,,,,,1943-05-10
+St Kilda,1944,18,Fitzroy,1,L,2,,,,,,,,,,,,,,,,,,,,,,,,1944-03-01
+St Kilda,1944,19,Footscray,2,W,2,,,,,,,,,,,,,,,,,,,,,,,,1944-03-08
+St Kilda,1944,20,South Melbourne,3,L,2,,,,,,,,,,,,,,,,,,,,,,,,1944-03-15
+St Kilda,1944,21,Hawthorn,4,L,2,,,,,,,,,,,,,,,,,,,,,,,,1944-03-22
+St Kilda,1944,22,Melbourne,5,W,2,,,,,,,,,,,,,,,,,,,,,,,,1944-03-29
+St Kilda,1944,23,Essendon,6,D,2,,,,,,,,,,,,,,,,,,,,,,,,1944-04-05
+St Kilda,1944,24,Carlton,7,L,2,,,,,,,,,,,,,,,,,,,,,,,,1944-04-12
+St Kilda,1944,25,Geelong,8,W,2,,,,,,,,,,,,,,,,,,,,,,,,1944-04-19
+St Kilda,1944,26,Richmond,9,L,2,,,,,,,,,,,,,,,,,,,,,,,,1944-04-26
+St Kilda,1944,27,Collingwood,10,W,2,,,,,,,,,,,,,,,,,,,,,,,,1944-05-03
+St Kilda,1944,28,North Melbourne,11,L,2,,,,,,,,,,,,,,,,,,,,,,,,1944-05-10
+St Kilda,1944,29,Fitzroy,12,W,2,,,,,,,,,,,,,,,,,,,,,,,,1944-05-17
+St Kilda,1944,30,Footscray,13,L,2,,,,,,,,,,,,,,,,,,,,,,,,1944-05-24
+St Kilda,1944,31,South Melbourne,14,L,2,,,,,,,,,,,,,,,,,,,,,,,,1944-05-31
+St Kilda,1944,32,Hawthorn,15,D,2,,,,,,,,,,,,,,,,,,,,,,,,1944-06-07
+St Kilda,1944,33,Melbourne,16,W,2,,,,,,,,,,,,,,,,,,,,,,,,1944-06-14
+St Kilda,1944,34,Essendon,17,L,2,,,,,,,,,,,,,,,,,,,,,,,,1944-06-21
+St Kilda,1944,35,North Melbourne,18,L,2,,,,,,,,,,,,,,,,,,,,,,,,1944-06-28
+St Kilda,1945,36,South Melbourne,1,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-03-01
+St Kilda,1945,37,Melbourne,2,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-03-08
+St Kilda,1945,38,Hawthorn,3,W,2,,,,,,,,,,,,,,,,,,,,,,,,1945-03-15
+St Kilda,1945,39,Essendon,4,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-03-22
+St Kilda,1945,40,Carlton,5,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-03-29
+St Kilda,1945,41,Fitzroy,6,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-04-05
+St Kilda,1945,42,Collingwood,7,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-04-12
+St Kilda,1945,43,Richmond,8,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-04-19
+St Kilda,1945,44,Geelong,9,W,2,,,,,,,,,,,,,,,,,,,,,,,,1945-04-26
+St Kilda,1945,45,Footscray,10,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-05-03
+St Kilda,1945,46,North Melbourne,11,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-05-10
+St Kilda,1945,47,South Melbourne,12,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-05-17
+St Kilda,1945,48,Melbourne,13,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-05-24
+St Kilda,1945,49,Hawthorn,14,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-05-31
+St Kilda,1945,50,Essendon,15,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-06-07
+St Kilda,1945,51,Carlton,16,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-06-14
+St Kilda,1945,52,Fitzroy,17,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-06-21
+St Kilda,1945,53,Collingwood,18,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-06-28
+St Kilda,1945,54,Richmond,19,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-07-05
+St Kilda,1945,55,Geelong,20,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-07-12
+St Kilda,1946,56,North Melbourne,1,L,2,,,,,,,,,,,,,,,,,,,,,,,,1946-03-01
+St Kilda,1946,57,Carlton,6,L,2,,,,,,,,,,,,,,,,,,,,,,,,1946-04-05
+St Kilda,1946,58,Essendon,7,L,2,,,,,,,,,,,,,,,,,,,,,,,,1946-04-12

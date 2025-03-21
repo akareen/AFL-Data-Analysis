@@ -1,0 +1,13 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1909,1,South Melbourne,18,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-28
+St Kilda,1910,2,South Melbourne,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-21
+St Kilda,1910,3,Carlton,18,W,,,,,,2,,,,,,,,,,,,,,,,,,,1910-06-28
+St Kilda,1911,4,Fitzroy,4,L,,,,,,1,,,,,,,,,,,,,,,,,,,1911-03-22
+St Kilda,1911,5,Melbourne,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-29
+St Kilda,1911,6,Carlton,6,L,,,,,,1,,,,,,,,,,,,,,,,,,,1911-04-05
+St Kilda,1911,7,Essendon,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-12
+St Kilda,1911,8,Richmond,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-19
+St Kilda,1911,9,Geelong,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-03
+St Kilda,1911,10,University,11,W,,,,,,2,,,,,,,,,,,,,,,,,,,1911-05-10
+St Kilda,1911,11,South Melbourne,12,L,,,,,,1,,,,,,,,,,,,,,,,,,,1911-05-17
+St Kilda,1911,12,Collingwood,18,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-28

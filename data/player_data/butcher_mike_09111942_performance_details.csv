@@ -1,0 +1,22 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1964,1,St Kilda,3,W,24,,,,,,,,,,,,,,,,,,,,,,,,1964-03-15
+Hawthorn,1964,2,North Melbourne,4,L,24,,,,,,,,,,,,,,,,,,,,,,,,1964-03-22
+Hawthorn,1964,3,Fitzroy,5,W,24,,,,,,,,,,,,,,,,,,,,,,,,1964-03-29
+Hawthorn,1964,4,Melbourne,6,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1964-04-05
+Hawthorn,1964,5,Richmond,7,W,24,,,,,3,,,,,,,,,,,,,,,,,,,1964-04-12
+Hawthorn,1964,6,Essendon,8,W,24,,,,,,,,,,,,,,,,,,,,,,,,1964-04-19
+Hawthorn,1964,7,Geelong,9,L,24,,,,,,,,,,,,,,,,,,,,,,,,1964-04-26
+Hawthorn,1964,8,Carlton,13,W,24,,,,,,,,,,,,,,,,,,,,,,,,1964-05-24
+Hawthorn,1964,9,Fitzroy,16,W,24,,,,,,,,,,,,,,,,,,,,,,,,1964-06-14
+Hawthorn,1965,10,Collingwood,3,L,24,10,4,1,11,,,,,,,,,3,1,,,,,,,,,,1965-03-15
+Hawthorn,1965,11,Fitzroy,4,W,24,9,2,,9,,,,,,,,,2,,,,,,,,,,,1965-03-22
+Hawthorn,1965,12,Richmond,5,L,24,10,3,,10,,1,,,,,,,3,2,,,,,,,,,,1965-03-29
+Hawthorn,1965,13,Footscray,6,W,24,3,,1,4,,1,,,,,,,1,,,,,,,,,,,1965-04-05
+Hawthorn,1965,14,Geelong,7,L,24,9,2,2,11,,,,,,,,,,2,,,,,,,,,,1965-04-12
+Hawthorn,1965,15,Melbourne,11,L,24,6,3,2,8,,,,,,,,,2,1,,,,,,,,,,1965-05-10
+Hawthorn,1965,16,Carlton,12,L,24,7,3,,7,,,,,,,,,,2,,,,,,,,,,1965-05-17
+Hawthorn,1965,17,Essendon,13,L,24,9,3,,9,1,,,,,,,,3,,,,,,,,,,,1965-05-24
+Hawthorn,1965,18,Collingwood,14,L,24,7,1,1,8,,1,,,,,,,,2,,,,,,,,,,1965-05-31
+Hawthorn,1965,19,Fitzroy,15,W,24,6,3,2,8,,,,,,,,,1,6,,,,,,,,,,1965-06-07
+Hawthorn,1965,20,Richmond,16,L,24,9,4,1,10,,,,,,,,,2,,,,,,,,,,,1965-06-14
+Hawthorn,1965,21,Footscray,17,W,24,4,1,,4,,,,,,,,,1,3,,,,,,,,,,1965-06-21

@@ -1,0 +1,74 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1934,1,St Kilda,11,L,7,,,,,,,,,,,,,,,,,,,,,,,,1934-05-10
+Hawthorn,1934,2,Carlton,12,L,7,,,,,1,,,,,,,,,,,,,,,,,,,1934-05-17
+Hawthorn,1934,3,Melbourne,13,L,7,,,,,,,,,,,,,,,,,,,,,,,,1934-05-24
+Hawthorn,1934,4,Collingwood,14,L,7,,,,,,,,,,,,,,,,,,,,,,,,1934-05-31
+Hawthorn,1934,5,Essendon,15,W,7,,,,,,,,,,,,,,,,,,,,,,,,1934-06-07
+Hawthorn,1934,6,South Melbourne,16,L,7,,,,,,,,,,,,,,,,,,,,,,,,1934-06-14
+Hawthorn,1934,7,Footscray,17,L,7,,,,,,,,,,,,,,,,,,,,,,,,1934-06-21
+Hawthorn,1934,8,Richmond,18,L,7,,,,,,,,,,,,,,,,,,,,,,,,1934-06-28
+Hawthorn,1935,9,North Melbourne,1,W,7,,,,,,,,,,,,,,,,,,,,,,,,1935-03-01
+Hawthorn,1935,10,Carlton,2,L,7,,,,,,,,,,,,,,,,,,,,,,,,1935-03-08
+Hawthorn,1935,11,Melbourne,3,L,7,,,,,,,,,,,,,,,,,,,,,,,,1935-03-15
+Hawthorn,1935,12,St Kilda,4,L,7,,,,,,,,,,,,,,,,,,,,,,,,1935-03-22
+Hawthorn,1935,13,Essendon,5,L,7,,,,,,,,,,,,,,,,,,,,,,,,1935-03-29
+Hawthorn,1935,14,Geelong,6,L,7,,,,,,,,,,,,,,,,,,,,,,,,1935-04-05
+Hawthorn,1935,15,Fitzroy,7,L,7,,,,,1,,,,,,,,,,,,,,,,,,,1935-04-12
+Hawthorn,1935,16,South Melbourne,8,L,7,,,,,,,,,,,,,,,,,,,,,,,,1935-04-19
+Hawthorn,1935,17,Richmond,9,L,7,,,,,,,,,,,,,,,,,,,,,,,,1935-04-26
+Hawthorn,1935,18,Collingwood,11,L,7,,,,,,,,,,,,,,,,,,,,,,,,1935-05-10
+Hawthorn,1935,19,North Melbourne,12,W,7,,,,,,,,,,,,,,,,,,,,,,,,1935-05-17
+Hawthorn,1935,20,Carlton,13,L,7,,,,,,,,,,,,,,,,,,,,,,,,1935-05-24
+Hawthorn,1935,21,Melbourne,14,L,7,,,,,,,,,,,,,,,,,,,,,,,,1935-05-31
+Hawthorn,1935,22,St Kilda,15,L,7,,,,,,,,,,,,,,,,,,,,,,,,1935-06-07
+Hawthorn,1935,23,Essendon,16,W,7,,,,,,,,,,,,,,,,,,,,,,,,1935-06-14
+Hawthorn,1935,24,Geelong,17,W,7,,,,,,,,,,,,,,,,,,,,,,,,1935-06-21
+Hawthorn,1935,25,Fitzroy,18,W,7,,,,,,,,,,,,,,,,,,,,,,,,1935-06-28
+Hawthorn,1936,26,Collingwood,1,L,7,,,,,,,,,,,,,,,,,,,,,,,,1936-03-01
+Hawthorn,1936,27,Footscray,2,W,7,,,,,,,,,,,,,,,,,,,,,,,,1936-03-08
+Hawthorn,1936,28,Carlton,3,L,7,,,,,,,,,,,,,,,,,,,,,,,,1936-03-15
+Hawthorn,1936,29,Melbourne,4,L,7,,,,,,,,,,,,,,,,,,,,,,,,1936-03-22
+Hawthorn,1936,30,Richmond,5,L,7,,,,,,,,,,,,,,,,,,,,,,,,1936-03-29
+Hawthorn,1936,31,South Melbourne,6,L,7,,,,,,,,,,,,,,,,,,,,,,,,1936-04-05
+Hawthorn,1936,32,Geelong,7,W,7,,,,,,,,,,,,,,,,,,,,,,,,1936-04-12
+Hawthorn,1936,33,Essendon,8,L,7,,,,,,,,,,,,,,,,,,,,,,,,1936-04-19
+Hawthorn,1936,34,Fitzroy,9,W,7,,,,,,,,,,,,,,,,,,,,,,,,1936-04-26
+Hawthorn,1936,35,St Kilda,10,L,7,,,,,,,,,,,,,,,,,,,,,,,,1936-05-03
+Hawthorn,1936,36,North Melbourne,11,W,7,,,,,,,,,,,,,,,,,,,,,,,,1936-05-10
+Hawthorn,1936,37,Collingwood,12,L,7,,,,,,,,,,,,,,,,,,,,,,,,1936-05-17
+Hawthorn,1936,38,Carlton,14,L,7,,,,,,,,,,,,,,,,,,,,,,,,1936-05-31
+Hawthorn,1936,39,Melbourne,15,L,7,,,,,,,,,,,,,,,,,,,,,,,,1936-06-07
+Hawthorn,1936,40,Richmond,16,W,7,,,,,,,,,,,,,,,,,,,,,,,,1936-06-14
+Hawthorn,1936,41,South Melbourne,17,L,7,,,,,,,,,,,,,,,,,,,,,,,,1936-06-21
+Hawthorn,1936,42,Geelong,18,L,7,,,,,,,,,,,,,,,,,,,,,,,,1936-06-28
+Hawthorn,1937,43,North Melbourne,1,W,7,,,,,,,,,,,,,,,,,,,,,,,,1937-03-01
+Hawthorn,1937,44,St Kilda,2,L,7,,,,,,,,,,,,,,,,,,,,,,,,1937-03-08
+Hawthorn,1937,45,Fitzroy,3,L,7,,,,,,,,,,,,,,,,,,,,,,,,1937-03-15
+Hawthorn,1937,46,Essendon,4,L,7,,,,,,,,,,,,,,,,,,,,,,,,1937-03-22
+Hawthorn,1937,47,Richmond,7,W,7,,,,,,,,,,,,,,,,,,,,,,,,1937-04-12
+Hawthorn,1937,48,Melbourne,8,L,7,,,,,,,,,,,,,,,,,,,,,,,,1937-04-19
+Hawthorn,1937,49,Carlton,9,L,7,,,,,,,,,,,,,,,,,,,,,,,,1937-04-26
+Hawthorn,1937,50,Footscray,10,W,7,,,,,,,,,,,,,,,,,,,,,,,,1937-05-03
+Hawthorn,1937,51,Collingwood,11,L,7,,,,,,,,,,,,,,,,,,,,,,,,1937-05-10
+Hawthorn,1937,52,North Melbourne,12,W,7,,,,,1,,,,,,,,,,,,,,,,,,,1937-05-17
+Hawthorn,1937,53,St Kilda,13,L,7,,,,,,,,,,,,,,,,,,,,,,,,1937-05-24
+Hawthorn,1937,54,Fitzroy,14,W,7,,,,,1,,,,,,,,,,,,,,,,,,,1937-05-31
+Hawthorn,1937,55,Essendon,15,W,7,,,,,,,,,,,,,,,,,,,,,,,,1937-06-07
+Hawthorn,1937,56,Richmond,18,L,7,,,,,,,,,,,,,,,,,,,,,,,,1937-06-28
+Hawthorn,1938,57,Melbourne,2,W,7,,,,,,,,,,,,,,,,,,,,,,,,1938-03-08
+Hawthorn,1938,58,Footscray,3,L,7,,,,,,,,,,,,,,,,,,,,,,,,1938-03-15
+Hawthorn,1938,59,Collingwood,4,L,7,,,,,,,,,,,,,,,,,,,,,,,,1938-03-22
+Hawthorn,1938,60,Richmond,5,W,7,,,,,,,,,,,,,,,,,,,,,,,,1938-03-29
+Hawthorn,1938,61,South Melbourne,6,W,7,,,,,,,,,,,,,,,,,,,,,,,,1938-04-05
+Hawthorn,1938,62,Essendon,7,L,7,,,,,,,,,,,,,,,,,,,,,,,,1938-04-12
+Hawthorn,1938,63,Fitzroy,8,L,7,,,,,,,,,,,,,,,,,,,,,,,,1938-04-19
+Hawthorn,1938,64,Geelong,9,L,7,,,,,,,,,,,,,,,,,,,,,,,,1938-04-26
+Hawthorn,1938,65,St Kilda,10,L,7,,,,,,,,,,,,,,,,,,,,,,,,1938-05-03
+Hawthorn,1938,66,North Melbourne,11,L,7,,,,,,,,,,,,,,,,,,,,,,,,1938-05-10
+Hawthorn,1938,67,Carlton,12,L,7,,,,,,,,,,,,,,,,,,,,,,,,1938-05-17
+Hawthorn,1938,68,Melbourne,13,L,7,,,,,,,,,,,,,,,,,,,,,,,,1938-05-24
+Hawthorn,1938,69,Footscray,14,L,7,,,,,,,,,,,,,,,,,,,,,,,,1938-05-31
+Hawthorn,1938,70,Collingwood,15,L,7,,,,,,,,,,,,,,,,,,,,,,,,1938-06-07
+Hawthorn,1938,71,Richmond,16,L,7,,,,,,,,,,,,,,,,,,,,,,,,1938-06-14
+Hawthorn,1938,72,South Melbourne,17,W,7,,,,,,,,,,,,,,,,,,,,,,,,1938-06-21
+Hawthorn,1938,73,Essendon,18,L,7,,,,,,,,,,,,,,,,,,,,,,,,1938-06-28

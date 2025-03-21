@@ -1,0 +1,41 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Footscray,1934,1,Fitzroy,2,W,20,,,,,,,,,,,,,,,,,,,,,,,,1934-03-08
+Footscray,1934,2,North Melbourne,3,W,20,,,,,,,,,,,,,,,,,,,,,,,,1934-03-15
+Footscray,1934,3,South Melbourne,4,L,20,,,,,1,,,,,,,,,,,,,,,,,,,1934-03-22
+Footscray,1934,4,St Kilda,5,L,20,,,,,,,,,,,,,,,,,,,,,,,,1934-03-29
+Footscray,1934,5,Hawthorn,6,L,20,,,,,,,,,,,,,,,,,,,,,,,,1934-04-05
+Footscray,1934,6,Melbourne,7,L,20,,,,,,,,,,,,,,,,,,,,,,,,1934-04-12
+Footscray,1934,7,Richmond,8,L,20,,,,,,,,,,,,,,,,,,,,,,,,1934-04-19
+Footscray,1934,8,Carlton,9,L,20,,,,,,,,,,,,,,,,,,,,,,,,1934-04-26
+Footscray,1934,9,Geelong,10,L,20,,,,,,,,,,,,,,,,,,,,,,,,1934-05-03
+Footscray,1934,10,Collingwood,11,L,20,,,,,4,,,,,,,,,,,,,,,,,,,1934-05-10
+Footscray,1934,11,Essendon,12,W,20,,,,,2,,,,,,,,,,,,,,,,,,,1934-05-17
+Footscray,1934,12,Fitzroy,13,L,20,,,,,,,,,,,,,,,,,,,,,,,,1934-05-24
+Footscray,1934,13,North Melbourne,14,W,20,,,,,,,,,,,,,,,,,,,,,,,,1934-05-31
+Footscray,1934,14,South Melbourne,15,L,20,,,,,,,,,,,,,,,,,,,,,,,,1934-06-07
+Footscray,1934,15,St Kilda,16,W,20,,,,,,,,,,,,,,,,,,,,,,,,1934-06-14
+Footscray,1934,16,Hawthorn,17,W,20,,,,,4,,,,,,,,,,,,,,,,,,,1934-06-21
+Footscray,1934,17,Melbourne,18,L,20,,,,,,,,,,,,,,,,,,,,,,,,1934-06-28
+Footscray,1935,18,Richmond,1,L,9,,,,,1,,,,,,,,,,,,,,,,,,,1935-03-01
+Footscray,1935,19,South Melbourne,2,L,9,,,,,4,,,,,,,,,,,,,,,,,,,1935-03-08
+Footscray,1935,20,Fitzroy,3,L,9,,,,,2,,,,,,,,,,,,,,,,,,,1935-03-15
+Footscray,1935,21,Essendon,4,L,9,,,,,1,,,,,,,,,,,,,,,,,,,1935-03-22
+Footscray,1935,22,North Melbourne,5,W,9,,,,,,,,,,,,,,,,,,,,,,,,1935-03-29
+Footscray,1935,23,Collingwood,6,L,9,,,,,,,,,,,,,,,,,,,,,,,,1935-04-05
+Footscray,1935,24,Carlton,7,D,9,,,,,,,,,,,,,,,,,,,,,,,,1935-04-12
+Footscray,1935,25,St Kilda,8,L,9,,,,,,,,,,,,,,,,,,,,,,,,1935-04-19
+Footscray,1935,26,Melbourne,9,L,9,,,,,,,,,,,,,,,,,,,,,,,,1935-04-26
+Footscray,1935,27,Hawthorn,10,W,9,,,,,,,,,,,,,,,,,,,,,,,,1935-05-03
+Footscray,1935,28,Geelong,11,D,9,,,,,1,,,,,,,,,,,,,,,,,,,1935-05-10
+Footscray,1935,29,Richmond,12,L,9,,,,,,,,,,,,,,,,,,,,,,,,1935-05-17
+Footscray,1935,30,South Melbourne,13,L,9,,,,,,,,,,,,,,,,,,,,,,,,1935-05-24
+Footscray,1935,31,Fitzroy,14,L,9,,,,,,,,,,,,,,,,,,,,,,,,1935-05-31
+Footscray,1935,32,Essendon,15,L,9,,,,,,,,,,,,,,,,,,,,,,,,1935-06-07
+Footscray,1935,33,North Melbourne,16,L,9,,,,,,,,,,,,,,,,,,,,,,,,1935-06-14
+Footscray,1935,34,Collingwood,17,L,9,,,,,,,,,,,,,,,,,,,,,,,,1935-06-21
+Footscray,1935,35,Carlton,18,L,9,,,,,,,,,,,,,,,,,,,,,,,,1935-06-28
+Footscray,1936,36,Hawthorn,2,L,9,,,,,,,,,,,,,,,,,,,,,,,,1936-03-08
+Footscray,1936,37,South Melbourne,3,L,9,,,,,2,,,,,,,,,,,,,,,,,,,1936-03-15
+Footscray,1936,38,Fitzroy,4,W,9,,,,,,,,,,,,,,,,,,,,,,,,1936-03-22
+Footscray,1936,39,North Melbourne,7,L,9,,,,,,,,,,,,,,,,,,,,,,,,1936-04-12
+Footscray,1936,40,Collingwood,8,L,9,,,,,,,,,,,,,,,,,,,,,,,,1936-04-19

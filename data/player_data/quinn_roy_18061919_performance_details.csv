@@ -1,0 +1,45 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1940,1,Collingwood,8,W,25,,,,,,,,,,,,,,,,,,,,,,,,1940-04-19
+Richmond,1941,2,Collingwood,12,L,25,,,,,,,,,,,,,,,,,,,,,,,,1941-05-17
+Richmond,1943,3,Carlton,1,L,25,,,,,,,,,,,,,,,,,,,,,,,,1943-03-01
+Richmond,1943,4,Collingwood,2,W,25,,,,,1,,,,,,,,,,,,,,,,,,,1943-03-08
+Richmond,1943,5,St Kilda,3,W,25,,,,,3,,,,,,,,,,,,,,,,,,,1943-03-15
+Richmond,1943,6,Fitzroy,6,L,25,,,,,,,,,,,,,,,,,,,,,,,,1943-04-05
+Richmond,1943,7,South Melbourne,7,W,25,,,,,3,,,,,,,,,,,,,,,,,,,1943-04-12
+Richmond,1943,8,Hawthorn,8,W,25,,,,,1,,,,,,,,,,,,,,,,,,,1943-04-19
+Richmond,1943,9,Footscray,11,W,25,,,,,1,,,,,,,,,,,,,,,,,,,1943-05-10
+Richmond,1943,10,Fitzroy,12,L,25,,,,,,,,,,,,,,,,,,,,,,,,1943-05-17
+Richmond,1943,11,Hawthorn,14,L,25,,,,,2,,,,,,,,,,,,,,,,,,,1943-05-31
+Richmond,1943,12,Melbourne,15,W,25,,,,,3,,,,,,,,,,,,,,,,,,,1943-06-07
+Richmond,1943,13,Essendon,16,W,25,,,,,1,,,,,,,,,,,,,,,,,,,1943-06-14
+Richmond,1943,14,Essendon,SF,L,25,,,,,2,,,,,,,,,,,,,,,,,,,1943-03-01
+Richmond,1943,15,Fitzroy,PF,W,25,,,,,2,,,,,,,,,,,,,,,,,,,1943-03-01
+Richmond,1943,16,Essendon,GF,W,25,,,,,,,,,,,,,,,,,,,,,,,,1943-03-01
+Richmond,1944,17,Essendon,3,W,25,,,,,2,,,,,,,,,,,,,,,,,,,1944-03-15
+Richmond,1944,18,Fitzroy,4,W,25,,,,,,,,,,,,,,,,,,,,,,,,1944-03-22
+Richmond,1944,19,Footscray,6,D,25,,,,,,,,,,,,,,,,,,,,,,,,1944-04-05
+Richmond,1944,20,Collingwood,11,W,25,,,,,2,,,,,,,,,,,,,,,,,,,1944-05-10
+Richmond,1944,21,Essendon,14,L,25,,,,,,,,,,,,,,,,,,,,,,,,1944-05-31
+Richmond,1944,22,Fitzroy,15,L,25,,,,,1,,,,,,,,,,,,,,,,,,,1944-06-07
+Richmond,1944,23,Carlton,16,W,25,,,,,1,,,,,,,,,,,,,,,,,,,1944-06-14
+Richmond,1944,24,Footscray,17,W,25,,,,,,,,,,,,,,,,,,,,,,,,1944-06-21
+Richmond,1944,25,Fitzroy,SF,L,25,,,,,,,,,,,,,,,,,,,,,,,,1944-03-01
+North Melbourne,1945,26,Footscray,15,W,35,,,,,,,,,,,,,,,,,,,,,,,,1945-06-07
+North Melbourne,1945,27,Fitzroy,16,W,35,,,,,,,,,,,,,,,,,,,,,,,,1945-06-14
+North Melbourne,1945,28,South Melbourne,17,L,35,,,,,2,,,,,,,,,,,,,,,,,,,1945-06-21
+North Melbourne,1945,29,Melbourne,18,W,35,,,,,,,,,,,,,,,,,,,,,,,,1945-06-28
+North Melbourne,1945,30,Hawthorn,19,L,35,,,,,1,,,,,,,,,,,,,,,,,,,1945-07-05
+North Melbourne,1945,31,Essendon,20,W,35,,,,,,,,,,,,,,,,,,,,,,,,1945-07-12
+North Melbourne,1945,32,Carlton,SF,L,35,,,,,1,,,,,,,,,,,,,,,,,,,1945-03-01
+North Melbourne,1946,33,Richmond,2,W,35,,,,,,,,,,,,,,,,,,,,,,,,1946-03-08
+North Melbourne,1946,34,Collingwood,3,L,35,,,,,,,,,,,,,,,,,,,,,,,,1946-03-15
+North Melbourne,1946,35,South Melbourne,7,L,35,,,,,1,,,,,,,,,,,,,,,,,,,1946-04-12
+North Melbourne,1946,36,Melbourne,8,W,35,,,,,,,,,,,,,,,,,,,,,,,,1946-04-19
+North Melbourne,1946,37,Hawthorn,9,L,35,,,,,,,,,,,,,,,,,,,,,,,,1946-04-26
+North Melbourne,1946,38,Fitzroy,10,W,35,,,,,,,,,,,,,,,,,,,,,,,,1946-05-03
+North Melbourne,1946,39,Footscray,11,L,35,,,,,,,,,,,,,,,,,,,,,,,,1946-05-10
+North Melbourne,1946,40,St Kilda,12,W,35,,,,,,,,,,,,,,,,,,,,,,,,1946-05-17
+North Melbourne,1946,41,Richmond,13,L,35,,,,,,,,,,,,,,,,,,,,,,,,1946-05-24
+North Melbourne,1946,42,Essendon,17,L,35,,,,,,,,,,,,,,,,,,,,,,,,1946-06-21
+North Melbourne,1946,43,South Melbourne,18,L,35,,,,,,,,,,,,,,,,,,,,,,,,1946-06-28
+North Melbourne,1946,44,Melbourne,19,L,35,,,,,,,,,,,,,,,,,,,,,,,,1946-07-05

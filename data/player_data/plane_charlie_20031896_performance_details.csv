@@ -1,0 +1,43 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1922,1,Essendon,2,L,13,,,,,,,,,,,,,,,,,,,,,,,,1922-03-08
+Geelong,1922,2,Fitzroy,3,L,13,,,,,,,,,,,,,,,,,,,,,,,,1922-03-15
+Geelong,1922,3,Carlton,7,W,13,,,,,,,,,,,,,,,,,,,,,,,,1922-04-12
+Geelong,1922,4,South Melbourne,9,W,13,,,,,1,,,,,,,,,,,,,,,,,,,1922-04-26
+Geelong,1922,5,Essendon,11,W,13,,,,,1,,,,,,,,,,,,,,,,,,,1922-05-10
+Geelong,1922,6,Fitzroy,12,L,13,,,,,,,,,,,,,,,,,,,,,,,,1922-05-17
+Geelong,1922,7,Richmond,13,L,13,,,,,,,,,,,,,,,,,,,,,,,,1922-05-24
+Geelong,1922,8,Melbourne,14,W,13,,,,,1,,,,,,,,,,,,,,,,,,,1922-05-31
+Geelong,1922,9,Collingwood,15,L,13,,,,,,,,,,,,,,,,,,,,,,,,1922-06-07
+Geelong,1922,10,Carlton,16,L,13,,,,,,,,,,,,,,,,,,,,,,,,1922-06-14
+Geelong,1922,11,St Kilda,17,L,13,,,,,,,,,,,,,,,,,,,,,,,,1922-06-21
+Geelong,1922,12,South Melbourne,18,L,13,,,,,,,,,,,,,,,,,,,,,,,,1922-06-28
+Geelong,1923,13,Melbourne,2,L,13,,,,,,,,,,,,,,,,,,,,,,,,1923-03-08
+Geelong,1923,14,Fitzroy,3,W,13,,,,,,,,,,,,,,,,,,,,,,,,1923-03-15
+Geelong,1923,15,Collingwood,4,L,13,,,,,,,,,,,,,,,,,,,,,,,,1923-03-22
+Geelong,1923,16,South Melbourne,5,L,13,,,,,,,,,,,,,,,,,,,,,,,,1923-03-29
+Geelong,1923,17,Essendon,8,L,13,,,,,,,,,,,,,,,,,,,,,,,,1923-04-19
+Geelong,1923,18,Carlton,9,W,13,,,,,,,,,,,,,,,,,,,,,,,,1923-04-26
+Geelong,1923,19,Melbourne,11,W,13,,,,,,,,,,,,,,,,,,,,,,,,1923-05-10
+Geelong,1923,20,Fitzroy,12,W,13,,,,,,,,,,,,,,,,,,,,,,,,1923-05-17
+Geelong,1923,21,Collingwood,13,W,13,,,,,,,,,,,,,,,,,,,,,,,,1923-05-24
+Geelong,1923,22,South Melbourne,14,L,13,,,,,,,,,,,,,,,,,,,,,,,,1923-05-31
+Geelong,1923,23,St Kilda,15,W,13,,,,,,,,,,,,,,,,,,,,,,,,1923-06-07
+Geelong,1923,24,Richmond,16,W,13,,,,,,,,,,,,,,,,,,,,,,,,1923-06-14
+Geelong,1923,25,Essendon,17,L,13,,,,,2,,,,,,,,,,,,,,,,,,,1923-06-21
+Geelong,1923,26,Carlton,18,W,13,,,,,,,,,,,,,,,,,,,,,,,,1923-06-28
+Geelong,1923,27,Fitzroy,SF,L,13,,,,,,,,,,,,,,,,,,,,,,,,1923-03-01
+Geelong,1924,28,Richmond,2,W,13,,,,,,,,,,,,,,,,,,,,,,,,1924-03-08
+Geelong,1924,29,Fitzroy,3,L,13,,,,,,,,,,,,,,,,,,,,,,,,1924-03-15
+Geelong,1924,30,St Kilda,5,L,13,,,,,,,,,,,,,,,,,,,,,,,,1924-03-29
+Geelong,1924,31,Carlton,8,W,13,,,,,,,,,,,,,,,,,,,,,,,,1924-04-19
+Geelong,1924,32,South Melbourne,9,L,13,,,,,,,,,,,,,,,,,,,,,,,,1924-04-26
+Geelong,1924,33,Richmond,11,L,13,,,,,,,,,,,,,,,,,,,,,,,,1924-05-10
+Geelong,1924,34,Fitzroy,12,W,13,,,,,,,,,,,,,,,,,,,,,,,,1924-05-17
+Geelong,1924,35,Essendon,13,L,13,,,,,,,,,,,,,,,,,,,,,,,,1924-05-24
+Geelong,1924,36,St Kilda,14,W,13,,,,,,,,,,,,,,,,,,,,,,,,1924-05-31
+Geelong,1924,37,Melbourne,15,W,13,,,,,,,,,,,,,,,,,,,,,,,,1924-06-07
+Geelong,1924,38,Collingwood,16,W,13,,,,,,,,,,,,,,,,,,,,,,,,1924-06-14
+Geelong,1924,39,Carlton,17,L,13,,,,,,,,,,,,,,,,,,,,,,,,1924-06-21
+Geelong,1924,40,South Melbourne,18,L,13,,,,,,,,,,,,,,,,,,,,,,,,1924-06-28
+Geelong,1925,41,North Melbourne,1,L,10,,,,,,,,,,,,,,,,,,,,,,,,1925-03-01
+Geelong,1925,42,St Kilda,14,L,10,,,,,,,,,,,,,,,,,,,,,,,,1925-05-31

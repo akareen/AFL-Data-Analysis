@@ -1,0 +1,31 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1897,1,Collingwood,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1897-04-26
+Essendon,1897,2,Carlton,10,W,,,,,,1,,,,,,,,,,,,,,,,,,,1897-05-03
+Essendon,1897,3,South Melbourne,13,W,,,,,,1,,,,,,,,,,,,,,,,,,,1897-05-24
+Essendon,1897,4,Melbourne,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-05-31
+Essendon,1898,5,Fitzroy,1,W,,,,,,2,,,,,,,,,,,,,,,,,,,1898-03-01
+Essendon,1898,6,South Melbourne,2,W,,,,,,3,,,,,,,,,,,,,,,,,,,1898-03-08
+Essendon,1898,7,Carlton,3,W,,,,,,1,,,,,,,,,,,,,,,,,,,1898-03-15
+Essendon,1898,8,St Kilda,4,W,,,,,,4,,,,,,,,,,,,,,,,,,,1898-03-22
+Essendon,1898,9,Melbourne,5,W,,,,,,3,,,,,,,,,,,,,,,,,,,1898-03-29
+Essendon,1898,10,Geelong,6,L,,,,,,1,,,,,,,,,,,,,,,,,,,1898-04-05
+Essendon,1898,11,Collingwood,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1898-04-12
+Essendon,1898,12,Fitzroy,8,W,,,,,,2,,,,,,,,,,,,,,,,,,,1898-04-19
+Essendon,1898,13,South Melbourne,9,W,,,,,,1,,,,,,,,,,,,,,,,,,,1898-04-26
+Essendon,1898,14,Carlton,10,W,,,,,,1,,,,,,,,,,,,,,,,,,,1898-05-03
+Essendon,1898,15,Geelong,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-05-24
+Essendon,1898,16,Collingwood,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1898-05-31
+Essendon,1898,17,South Melbourne,16,W,,,,,,1,,,,,,,,,,,,,,,,,,,1898-06-14
+Essendon,1898,18,Fitzroy,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1898-06-21
+Essendon,1898,19,Fitzroy,GF,L,,,,,,1,,,,,,,,,,,,,,,,,,,1898-03-01
+Essendon,1899,20,Fitzroy,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-03-01
+Essendon,1899,21,St Kilda,2,W,,,,,,1,,,,,,,,,,,,,,,,,,,1899-03-08
+Essendon,1899,22,South Melbourne,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1899-03-15
+Essendon,1899,23,Carlton,4,W,,,,,,1,,,,,,,,,,,,,,,,,,,1899-03-22
+Essendon,1899,24,Geelong,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-03-29
+Essendon,1899,25,Fitzroy,8,L,,,,,,1,,,,,,,,,,,,,,,,,,,1899-04-19
+Essendon,1899,26,Carlton,11,W,,,,,,2,,,,,,,,,,,,,,,,,,,1899-05-10
+Essendon,1899,27,Melbourne,13,W,,,,,,2,,,,,,,,,,,,,,,,,,,1899-05-24
+Essendon,1899,28,Collingwood,14,L,,,,,,1,,,,,,,,,,,,,,,,,,,1899-05-31
+Essendon,1899,29,St Kilda,15,W,,,,,,3,,,,,,,,,,,,,,,,,,,1899-06-07
+Essendon,1899,30,Geelong,16,L,,,,,,1,,,,,,,,,,,,,,,,,,,1899-06-14

@@ -1,0 +1,51 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1954,1,Melbourne,3,W,20,,,,,1,,,,,,,,,,,,,,,,,,,1954-03-15
+Hawthorn,1954,2,North Melbourne,4,L,20,,,,,1,,,,,,,,,,,,,,,,,,,1954-03-22
+Hawthorn,1954,3,Geelong,5,W,20,,,,,4,,,,,,,,,,,,,,,,,,,1954-03-29
+Hawthorn,1954,4,Richmond,6,W,20,,,,,2,,,,,,,,,,,,,,,,,,,1954-04-05
+Hawthorn,1954,5,Footscray,7,L,20,,,,,3,,,,,,,,,,,,,,,,,,,1954-04-12
+Hawthorn,1954,6,South Melbourne,8,W,20,,,,,4,,,,,,,,,,,,,,,,,,,1954-04-19
+Hawthorn,1954,7,Carlton,9,L,20,,,,,2,,,,,,,,,,,,,,,,,,,1954-04-26
+Hawthorn,1954,8,Collingwood,10,L,20,,,,,1,,,,,,,,,,,,,,,,,,,1954-05-03
+Hawthorn,1954,9,Fitzroy,11,W,20,,,,,2,,,,,,,,,,,,,,,,,,,1954-05-10
+Hawthorn,1954,10,Essendon,12,L,20,,,,,1,,,,,,,,,,,,,,,,,,,1954-05-17
+Hawthorn,1954,11,St Kilda,13,W,20,,,,,1,,,,,,,,,,,,,,,,,,,1954-05-24
+Hawthorn,1954,12,Melbourne,14,L,20,,,,,,,,,,,,,,,,,,,,,,,,1954-05-31
+Hawthorn,1954,13,North Melbourne,15,L,20,,,,,,,,,,,,,,,,,,,,,,,,1954-06-07
+Hawthorn,1954,14,Geelong,16,L,20,,,,,,,,,,,,,,,,,,,,,,,,1954-06-14
+Hawthorn,1954,15,Richmond,17,W,20,,,,,2,,,,,,,,,,,,,,,,,,,1954-06-21
+Hawthorn,1954,16,Footscray,18,L,20,,,,,,,,,,,,,,,,,,,,,,,,1954-06-28
+Hawthorn,1955,17,Fitzroy,1,L,20,,,,,1,,,,,,,,,,,,,,,,,,,1955-03-01
+Hawthorn,1955,18,Carlton,2,W,20,,,,,,,,,,,,,,,,,,,,,,,,1955-03-08
+Hawthorn,1955,19,South Melbourne,3,W,20,,,,,,,,,,,,,,,,,,,,,,,,1955-03-15
+Hawthorn,1955,20,Collingwood,4,W,20,,,,,3,,,,,,,,,,,,,,,,,,,1955-03-22
+Hawthorn,1955,21,North Melbourne,5,L,20,,,,,3,,,,,,,,,,,,,,,,,,,1955-03-29
+Hawthorn,1955,22,Melbourne,6,L,20,,,,,1,,,,,,,,,,,,,,,,,,,1955-04-05
+Hawthorn,1955,23,Essendon,7,W,20,,,,,1,,,,,,,,,,,,,,,,,,,1955-04-12
+Hawthorn,1955,24,Richmond,8,W,20,,,,,4,,,,,,,,,,,,,,,,,,,1955-04-19
+Hawthorn,1955,25,Footscray,9,L,20,,,,,2,,,,,,,,,,,,,,,,,,,1955-04-26
+Hawthorn,1955,26,St Kilda,10,W,20,,,,,3,,,,,,,,,,,,,,,,,,,1955-05-03
+Hawthorn,1955,27,Geelong,11,L,20,,,,,1,,,,,,,,,,,,,,,,,,,1955-05-10
+Hawthorn,1955,28,Fitzroy,12,W,20,,,,,,,,,,,,,,,,,,,,,,,,1955-05-17
+Hawthorn,1955,29,Collingwood,15,L,20,,,,,,,,,,,,,,,,,,,,,,,,1955-06-07
+Hawthorn,1955,30,North Melbourne,16,L,20,,,,,1,,,,,,,,,,,,,,,,,,,1955-06-14
+Hawthorn,1955,31,Melbourne,17,L,20,,,,,3,,,,,,,,,,,,,,,,,,,1955-06-21
+Hawthorn,1955,32,Essendon,18,L,20,,,,,1,,,,,,,,,,,,,,,,,,,1955-06-28
+Hawthorn,1956,33,Collingwood,1,L,20,,,,,,,,,,,,,,,,,,,,,,,,1956-03-01
+Hawthorn,1956,34,Richmond,2,W,20,,,,,,,,,,,,,,,,,,,,,,,,1956-03-08
+Hawthorn,1956,35,Geelong,3,L,20,,,,,2,,,,,,,,,,,,,,,,,,,1956-03-15
+Hawthorn,1956,36,South Melbourne,4,W,20,,,,,,,,,,,,,,,,,,,,,,,,1956-03-22
+Hawthorn,1956,37,St Kilda,5,W,20,,,,,,,,,,,,,,,,,,,,,,,,1956-03-29
+Hawthorn,1956,38,Footscray,6,W,20,,,,,,,,,,,,,,,,,,,,,,,,1956-04-05
+Hawthorn,1956,39,Fitzroy,7,L,20,,,,,1,,,,,,,,,,,,,,,,,,,1956-04-12
+Hawthorn,1956,40,Carlton,8,L,20,,,,,,,,,,,,,,,,,,,,,,,,1956-04-19
+Hawthorn,1956,41,North Melbourne,9,W,20,,,,,,,,,,,,,,,,,,,,,,,,1956-04-26
+Hawthorn,1956,42,Essendon,10,L,20,,,,,2,,,,,,,,,,,,,,,,,,,1956-05-03
+Hawthorn,1956,43,Melbourne,11,L,20,,,,,1,,,,,,,,,,,,,,,,,,,1956-05-10
+Hawthorn,1956,44,Collingwood,12,L,20,,,,,,,,,,,,,,,,,,,,,,,,1956-05-17
+Hawthorn,1956,45,Richmond,13,L,20,,,,,,,,,,,,,,,,,,,,,,,,1956-05-24
+Hawthorn,1956,46,Geelong,14,L,20,,,,,,,,,,,,,,,,,,,,,,,,1956-05-31
+Hawthorn,1956,47,South Melbourne,15,D,20,,,,,,,,,,,,,,,,,,,,,,,,1956-06-07
+Hawthorn,1956,48,St Kilda,16,W,20,,,,,,,,,,,,,,,,,,,,,,,,1956-06-14
+Hawthorn,1956,49,Footscray,17,L,20,,,,,,,,,,,,,,,,,,,,,,,,1956-06-21
+Hawthorn,1956,50,Fitzroy,18,W,20,,,,,,,,,,,,,,,,,,,,,,,,1956-06-28

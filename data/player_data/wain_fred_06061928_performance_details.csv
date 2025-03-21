@@ -1,0 +1,35 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1949,1,Essendon,1,L,2,,,,,,,,,,,,,,,,,,,,,,,,1949-03-01
+Hawthorn,1949,2,Richmond,2,L,2,,,,,,,,,,,,,,,,,,,,,,,,1949-03-08
+Hawthorn,1949,3,Carlton,3,L,2,,,,,,,,,,,,,,,,,,,,,,,,1949-03-15
+Hawthorn,1949,4,Collingwood,4,L,2,,,,,,,,,,,,,,,,,,,,,,,,1949-03-22
+Hawthorn,1949,5,Fitzroy,5,L,2,,,,,,,,,,,,,,,,,,,,,,,,1949-03-29
+Hawthorn,1949,6,North Melbourne,6,L,2,,,,,,,,,,,,,,,,,,,,,,,,1949-04-05
+Hawthorn,1949,7,South Melbourne,7,L,2,,,,,,,,,,,,,,,,,,,,,,,,1949-04-12
+Hawthorn,1949,8,Melbourne,8,L,2,,,,,1,,,,,,,,,,,,,,,,,,,1949-04-19
+Hawthorn,1949,9,Footscray,9,W,2,,,,,,,,,,,,,,,,,,,,,,,,1949-04-26
+Hawthorn,1949,10,Geelong,10,L,2,,,,,,,,,,,,,,,,,,,,,,,,1949-05-03
+Hawthorn,1949,11,St Kilda,11,W,2,,,,,,,,,,,,,,,,,,,,,,,,1949-05-10
+Hawthorn,1949,12,Essendon,12,L,2,,,,,,,,,,,,,,,,,,,,,,,,1949-05-17
+Hawthorn,1949,13,Richmond,13,L,2,,,,,1,,,,,,,,,,,,,,,,,,,1949-05-24
+Hawthorn,1949,14,Carlton,14,L,2,,,,,,,,,,,,,,,,,,,,,,,,1949-05-31
+Hawthorn,1949,15,Collingwood,15,L,2,,,,,,,,,,,,,,,,,,,,,,,,1949-06-07
+Hawthorn,1949,16,South Melbourne,18,L,2,,,,,1,,,,,,,,,,,,,,,,,,,1949-06-28
+Hawthorn,1949,17,Melbourne,19,L,2,,,,,,,,,,,,,,,,,,,,,,,,1949-07-05
+Hawthorn,1950,18,St Kilda,2,L,2,,,,,,,,,,,,,,,,,,,,,,,,1950-03-08
+Hawthorn,1950,19,Collingwood,4,L,2,,,,,,,,,,,,,,,,,,,,,,,,1950-03-22
+Hawthorn,1950,20,Carlton,10,L,2,,,,,1,,,,,,,,,,,,,,,,,,,1950-05-03
+Hawthorn,1950,21,North Melbourne,11,L,2,,,,,1,,,,,,,,,,,,,,,,,,,1950-05-10
+Hawthorn,1950,22,Geelong,12,L,2,,,,,,,,,,,,,,,,,,,,,,,,1950-05-17
+Hawthorn,1950,23,St Kilda,13,L,2,,,,,2,,,,,,,,,,,,,,,,,,,1950-05-24
+Hawthorn,1950,24,Footscray,14,L,2,,,,,,,,,,,,,,,,,,,,,,,,1950-05-31
+Hawthorn,1950,25,Collingwood,15,L,2,,,,,,,,,,,,,,,,,,,,,,,,1950-06-07
+Hawthorn,1952,26,Richmond,2,L,33,,,,,,,,,,,,,,,,,,,,,,,,1952-03-08
+Hawthorn,1952,27,Melbourne,3,W,33,,,,,,,,,,,,,,,,,,,,,,,,1952-03-15
+Hawthorn,1952,28,South Melbourne,4,W,33,,,,,,,,,,,,,,,,,,,,,,,,1952-03-22
+Hawthorn,1952,29,Fitzroy,5,L,33,,,,,,,,,,,,,,,,,,,,,,,,1952-03-29
+Hawthorn,1952,30,Essendon,6,L,33,,,,,,,,,,,,,,,,,,,,,,,,1952-04-05
+Hawthorn,1952,31,Carlton,8,L,33,,,,,1,,,,,,,,,,,,,,,,,,,1952-04-19
+Hawthorn,1952,32,St Kilda,9,W,33,,,,,,,,,,,,,,,,,,,,,,,,1952-04-26
+Hawthorn,1952,33,Geelong,10,L,33,,,,,,,,,,,,,,,,,,,,,,,,1952-05-03
+Hawthorn,1952,34,Collingwood,13,L,33,,,,,,,,,,,,,,,,,,,,,,,,1952-05-24

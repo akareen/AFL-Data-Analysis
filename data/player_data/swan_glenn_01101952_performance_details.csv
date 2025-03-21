@@ -1,0 +1,14 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1973,1,St Kilda,1,L,36,7,3,3,10,,,7,,,,,,,1,,,,,,,,,,1973-03-01
+Melbourne,1973,2,Hawthorn,2,W,36,5,1,4,9,,,8,,,,,,1,1,,,,,,,,,,1973-03-08
+Melbourne,1973,3,Essendon,8,L,36,2,2,,2,1,1,,,,,,,,,,,,,,,,,,1973-04-19
+Melbourne,1973,4,Footscray,9,W,36,2,1,,2,,1,4,,,,,,,1,,,,,,,,,,1973-04-26
+Melbourne,1973,5,Geelong,10,W,36,10,5,1,11,8,1,1,,,,,,1,1,,,,,,,,,,1973-05-03
+Melbourne,1973,6,North Melbourne,11,W,36,7,6,2,9,1,3,1,,,,,,,1,,,,,,,,,,1973-05-10
+Melbourne,1973,7,St Kilda,12,L,36,1,,,1,1,,3,,,,,,,1,,,,,,,,,,1973-05-17
+Melbourne,1973,8,Hawthorn,13,L,36,6,5,2,8,1,3,7,,,,,,,,,,,,,,,,,1973-05-24
+Melbourne,1973,9,Fitzroy,14,W,36,5,2,,5,2,1,3,,,,,,2,2,,,,,,,,,,1973-05-31
+Melbourne,1973,10,Collingwood,17,L,36,6,5,1,7,4,1,,,,,,,2,1,,,,,,,,,,1973-06-21
+Melbourne,1973,11,South Melbourne,18,L,36,3,2,1,4,,2,1,,,,,,,2,,,,,,,,,,1973-06-28
+Melbourne,1973,12,Essendon,19,L,36,5,3,1,6,2,1,,,,,,,1,1,,,,,,,,,,1973-07-05
+Melbourne,1973,13,North Melbourne,22,L,36,1,,,1,1,,4,,,,,,,3,,,,,,,,,,1973-07-26

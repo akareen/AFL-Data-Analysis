@@ -1,0 +1,25 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+University,1911,1,South Melbourne,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-01
+University,1911,2,St Kilda,2,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-08
+University,1911,3,Richmond,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-15
+University,1911,4,Carlton,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-22
+University,1911,5,Essendon,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-29
+University,1911,6,Collingwood,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-12
+University,1911,7,Melbourne,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-19
+University,1911,8,Geelong,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-26
+University,1911,9,South Melbourne,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-03
+University,1911,10,St Kilda,11,L,,,,,,1,,,,,,,,,,,,,,,,,,,1911-05-10
+University,1911,11,Richmond,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-17
+University,1911,12,Carlton,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-24
+University,1911,13,Essendon,14,L,,,,,,1,,,,,,,,,,,,,,,,,,,1911-05-31
+University,1911,14,Fitzroy,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-07
+University,1911,15,Collingwood,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-14
+University,1911,16,Melbourne,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-21
+University,1911,17,Geelong,18,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-28
+South Melbourne,1914,18,University,1,W,4,,,,,,,,,,,,,,,,,,,,,,,,1914-03-01
+South Melbourne,1914,19,Geelong,2,W,4,,,,,,,,,,,,,,,,,,,,,,,,1914-03-08
+South Melbourne,1914,20,Fitzroy,3,W,4,,,,,,,,,,,,,,,,,,,,,,,,1914-03-15
+South Melbourne,1914,21,Fitzroy,12,W,4,,,,,,,,,,,,,,,,,,,,,,,,1914-05-17
+South Melbourne,1914,22,Carlton,13,L,4,,,,,,,,,,,,,,,,,,,,,,,,1914-05-24
+South Melbourne,1914,23,St Kilda,14,L,4,,,,,,,,,,,,,,,,,,,,,,,,1914-05-31
+South Melbourne,1914,24,Essendon,15,L,4,,,,,,,,,,,,,,,,,,,,,,,,1914-06-07

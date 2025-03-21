@@ -1,0 +1,33 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1902,1,Melbourne,12,L,,,,,,1,,,,,,,,,,,,,,,,,,,1902-05-17
+Fitzroy,1902,2,Carlton,13,L,,,,,,2,,,,,,,,,,,,,,,,,,,1902-05-24
+Fitzroy,1902,3,Geelong,14,W,,,,,,1,,,,,,,,,,,,,,,,,,,1902-05-31
+Essendon,1903,4,Carlton,3,L,,,,,,1,,,,,,,,,,,,,,,,,,,1903-03-15
+Essendon,1903,5,Melbourne,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-22
+Essendon,1903,6,Geelong,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-29
+Essendon,1903,7,South Melbourne,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-05
+Essendon,1903,8,Fitzroy,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-19
+Essendon,1903,9,St Kilda,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-26
+Essendon,1903,10,Carlton,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-03
+Essendon,1903,11,Melbourne,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-10
+Essendon,1903,12,Geelong,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-17
+Essendon,1903,13,South Melbourne,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-24
+Essendon,1903,14,Collingwood,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-31
+Essendon,1903,15,Fitzroy,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-07
+Essendon,1903,16,Geelong,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-14
+Essendon,1903,17,South Melbourne,17,W,,,,,,1,,,,,,,,,,,,,,,,,,,1903-06-21
+Essendon,1904,18,South Melbourne,1,W,,,,,,1,,,,,,,,,,,,,,,,,,,1904-03-01
+Essendon,1904,19,Geelong,2,L,,,,,,1,,,,,,,,,,,,,,,,,,,1904-03-08
+Essendon,1904,20,St Kilda,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-03-15
+Essendon,1904,21,Fitzroy,5,L,,,,,,2,,,,,,,,,,,,,,,,,,,1904-03-29
+Essendon,1904,22,Collingwood,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-04-05
+Essendon,1904,23,Carlton,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-04-12
+Essendon,1904,24,South Melbourne,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-04-19
+Essendon,1904,25,St Kilda,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-05-03
+Essendon,1905,26,Carlton,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-01
+Essendon,1905,27,Geelong,2,W,,,,,,1,,,,,,,,,,,,,,,,,,,1905-03-08
+Essendon,1905,28,Melbourne,3,L,,,,,,2,,,,,,,,,,,,,,,,,,,1905-03-15
+Essendon,1905,29,South Melbourne,4,W,,,,,,1,,,,,,,,,,,,,,,,,,,1905-03-22
+Essendon,1905,30,St Kilda,5,W,,,,,,1,,,,,,,,,,,,,,,,,,,1905-03-29
+Essendon,1905,31,Fitzroy,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-04-05
+Essendon,1905,32,Collingwood,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-04-12

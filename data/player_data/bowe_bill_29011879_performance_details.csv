@@ -1,0 +1,75 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1900,1,St Kilda,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-03-01
+Melbourne,1901,2,St Kilda,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1901-03-15
+Melbourne,1901,3,Collingwood,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1901-03-22
+Melbourne,1901,4,Essendon,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1901-03-29
+Melbourne,1901,5,Carlton,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1901-04-05
+Melbourne,1901,6,Fitzroy,7,D,,,,,,,,,,,,,,,,,,,,,,,,,1901-04-12
+Melbourne,1901,7,Geelong,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1901-04-19
+Melbourne,1901,8,South Melbourne,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1901-04-26
+Melbourne,1901,9,St Kilda,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1901-05-03
+Melbourne,1901,10,Collingwood,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1901-05-10
+Melbourne,1901,11,Essendon,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1901-05-17
+Melbourne,1901,12,Fitzroy,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1901-05-31
+Melbourne,1901,13,Collingwood,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1901-06-07
+Melbourne,1901,14,St Kilda,16,W,,,,,,1,,,,,,,,,,,,,,,,,,,1901-06-14
+Melbourne,1901,15,Fitzroy,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1901-06-21
+Melbourne,1902,16,Collingwood,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-08
+Melbourne,1902,17,Essendon,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-15
+Melbourne,1902,18,Carlton,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-22
+Melbourne,1902,19,Fitzroy,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-29
+Melbourne,1902,20,Geelong,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-04-05
+Melbourne,1902,21,South Melbourne,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-04-12
+Melbourne,1902,22,St Kilda,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-04-19
+Melbourne,1902,23,Collingwood,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-04-26
+Melbourne,1902,24,Essendon,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-03
+Melbourne,1902,25,Carlton,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-10
+Melbourne,1902,26,Fitzroy,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-17
+Melbourne,1902,27,Geelong,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-24
+Melbourne,1902,28,South Melbourne,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-31
+Melbourne,1902,29,Carlton,15,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-06-07
+Melbourne,1902,30,Essendon,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-06-14
+Melbourne,1902,31,St Kilda,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-06-21
+Melbourne,1902,32,Essendon,SF,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-01
+Melbourne,1903,33,South Melbourne,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-01
+Melbourne,1903,34,Fitzroy,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-08
+Melbourne,1903,35,Geelong,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-15
+Melbourne,1903,36,Essendon,4,L,,,,,,1,,,,,,,,,,,,,,,,,,,1903-03-22
+Melbourne,1903,37,St Kilda,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-05
+Melbourne,1903,38,Carlton,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-12
+Melbourne,1903,39,South Melbourne,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-19
+Melbourne,1903,40,Fitzroy,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-26
+Melbourne,1903,41,Geelong,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-03
+Melbourne,1903,42,Essendon,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-10
+Melbourne,1903,43,Collingwood,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-17
+Melbourne,1903,44,St Kilda,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-24
+Melbourne,1903,45,Carlton,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-07
+Melbourne,1903,46,St Kilda,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-14
+Melbourne,1903,47,Collingwood,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-21
+Melbourne,1905,48,South Melbourne,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-08
+Melbourne,1905,49,Essendon,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-15
+Melbourne,1905,50,Collingwood,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-22
+Melbourne,1905,51,Fitzroy,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-29
+Melbourne,1905,52,Carlton,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-04-05
+Melbourne,1905,53,Geelong,7,L,,,,,,1,,,,,,,,,,,,,,,,,,,1905-04-12
+Melbourne,1905,54,St Kilda,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-04-19
+Melbourne,1905,55,South Melbourne,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-04-26
+Melbourne,1905,56,Collingwood,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-05-10
+Melbourne,1905,57,Fitzroy,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-05-17
+Melbourne,1905,58,Carlton,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-05-24
+Melbourne,1905,59,Geelong,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-05-31
+Melbourne,1905,60,South Melbourne,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-06-07
+Melbourne,1905,61,Collingwood,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-06-14
+Melbourne,1905,62,Carlton,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-06-21
+Melbourne,1906,63,Fitzroy,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-08
+Melbourne,1906,64,Essendon,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-15
+Melbourne,1906,65,South Melbourne,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-22
+Melbourne,1906,66,Geelong,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-29
+Melbourne,1906,67,St Kilda,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-05
+Melbourne,1906,68,Carlton,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-19
+Melbourne,1906,69,Fitzroy,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-26
+Melbourne,1906,70,Essendon,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-03
+Melbourne,1906,71,South Melbourne,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-10
+Melbourne,1906,72,Geelong,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-17
+Melbourne,1906,73,Collingwood,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-31
+Melbourne,1906,74,Collingwood,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-06-21

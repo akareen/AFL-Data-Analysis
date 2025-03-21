@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1900,1,St Kilda,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-03-01
+Melbourne,1900,2,Essendon,2,W,,,,,,2,,,,,,,,,,,,,,,,,,,1900-03-08
+Melbourne,1900,3,Geelong,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-03-22
+Melbourne,1900,4,Fitzroy,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-03-29
+Melbourne,1900,5,St Kilda,8,W,,,,,,2,,,,,,,,,,,,,,,,,,,1900-04-19
+Melbourne,1900,6,Essendon,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1900-04-26
+Melbourne,1901,7,South Melbourne,2,L,,,,,,1,,,,,,,,,,,,,,,,,,,1901-03-08
+Melbourne,1901,8,St Kilda,3,W,,,,,,1,,,,,,,,,,,,,,,,,,,1901-03-15
+Melbourne,1901,9,Collingwood,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1901-03-22
+Melbourne,1901,10,Essendon,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1901-03-29
+Melbourne,1901,11,St Kilda,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1901-05-03

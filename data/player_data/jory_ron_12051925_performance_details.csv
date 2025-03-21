@@ -1,0 +1,26 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1945,1,Hawthorn,1,W,19,,,,,2,,,,,,,,,,,,,,,,,,,1945-03-01
+Essendon,1945,2,Fitzroy,2,D,19,,,,,1,,,,,,,,,,,,,,,,,,,1945-03-08
+Essendon,1945,3,Carlton,3,W,19,,,,,2,,,,,,,,,,,,,,,,,,,1945-03-15
+Essendon,1945,4,St Kilda,4,W,19,,,,,2,,,,,,,,,,,,,,,,,,,1945-03-22
+Essendon,1945,5,Collingwood,5,W,19,,,,,,,,,,,,,,,,,,,,,,,,1945-03-29
+Essendon,1945,6,Richmond,6,L,19,,,,,2,,,,,,,,,,,,,,,,,,,1945-04-05
+Essendon,1945,7,Geelong,7,W,19,,,,,,,,,,,,,,,,,,,,,,,,1945-04-12
+Essendon,1945,8,Footscray,8,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1945-04-19
+Essendon,1945,9,North Melbourne,9,L,19,,,,,,,,,,,,,,,,,,,,,,,,1945-04-26
+Essendon,1945,10,South Melbourne,10,L,19,,,,,,,,,,,,,,,,,,,,,,,,1945-05-03
+Essendon,1945,11,Melbourne,11,L,19,,,,,,,,,,,,,,,,,,,,,,,,1945-05-10
+Essendon,1945,12,Hawthorn,12,L,19,,,,,,,,,,,,,,,,,,,,,,,,1945-05-17
+Essendon,1945,13,Fitzroy,13,L,19,,,,,,,,,,,,,,,,,,,,,,,,1945-05-24
+Essendon,1945,14,Carlton,14,W,19,,,,,2,,,,,,,,,,,,,,,,,,,1945-05-31
+Essendon,1945,15,St Kilda,15,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1945-06-07
+Essendon,1945,16,Collingwood,16,L,19,,,,,,,,,,,,,,,,,,,,,,,,1945-06-14
+Essendon,1945,17,Geelong,18,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1945-06-28
+Essendon,1945,18,Footscray,19,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1945-07-05
+Essendon,1946,19,Footscray,1,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1946-03-01
+Essendon,1946,20,South Melbourne,2,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1946-03-08
+Essendon,1946,21,Fitzroy,5,W,27,,,,,,,,,,,,,,,,,,,,,,,,1946-03-29
+Essendon,1946,22,Richmond,8,W,27,,,,,,,,,,,,,,,,,,,,,,,,1946-04-19
+Essendon,1946,23,Collingwood,9,W,27,,,,,,,,,,,,,,,,,,,,,,,,1946-04-26
+Essendon,1946,24,Geelong,10,L,27,,,,,,,,,,,,,,,,,,,,,,,,1946-05-03
+Essendon,1946,25,Melbourne,14,L,27,,,,,,,,,,,,,,,,,,,,,,,,1946-05-31

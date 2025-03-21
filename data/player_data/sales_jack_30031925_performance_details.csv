@@ -1,0 +1,32 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1948,1,North Melbourne,1,W,23,,,,,,,,,,,,,,,,,,,,,,,,1948-03-01
+Collingwood,1948,2,South Melbourne,2,W,23,,,,,,,,,,,,,,,,,,,,,,,,1948-03-08
+Collingwood,1948,3,Essendon,3,L,23,,,,,,,,,,,,,,,,,,,,,,,,1948-03-15
+Collingwood,1948,4,Carlton,5,W,23,,,,,,,,,,,,,,,,,,,,,,,,1948-03-29
+Collingwood,1948,5,Richmond,6,L,23,,,,,,,,,,,,,,,,,,,,,,,,1948-04-05
+Collingwood,1948,6,St Kilda,7,W,23,,,,,,,,,,,,,,,,,,,,,,,,1948-04-12
+Collingwood,1948,7,Melbourne,8,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1948-04-19
+Collingwood,1948,8,Hawthorn,9,W,23,,,,,,,,,,,,,,,,,,,,,,,,1948-04-26
+Collingwood,1948,9,Fitzroy,10,W,23,,,,,,,,,,,,,,,,,,,,,,,,1948-05-03
+Collingwood,1948,10,Footscray,11,W,23,,,,,,,,,,,,,,,,,,,,,,,,1948-05-10
+Collingwood,1948,11,South Melbourne,13,W,23,,,,,,,,,,,,,,,,,,,,,,,,1948-05-24
+Collingwood,1948,12,Essendon,14,L,23,,,,,,,,,,,,,,,,,,,,,,,,1948-05-31
+Collingwood,1948,13,Geelong,15,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1948-06-07
+Collingwood,1949,14,North Melbourne,1,W,23,,,,,,,,,,,,,,,,,,,,,,,,1949-03-01
+Collingwood,1949,15,Melbourne,2,W,23,,,,,,,,,,,,,,,,,,,,,,,,1949-03-08
+Collingwood,1949,16,Fitzroy,3,L,23,,,,,,,,,,,,,,,,,,,,,,,,1949-03-15
+Collingwood,1949,17,Hawthorn,4,W,23,,,,,,,,,,,,,,,,,,,,,,,,1949-03-22
+Collingwood,1949,18,Carlton,5,L,23,,,,,,,,,,,,,,,,,,,,,,,,1949-03-29
+Collingwood,1949,19,Essendon,6,W,23,,,,,,,,,,,,,,,,,,,,,,,,1949-04-05
+Collingwood,1949,20,Footscray,7,W,23,,,,,,,,,,,,,,,,,,,,,,,,1949-04-12
+Collingwood,1949,21,St Kilda,8,W,23,,,,,,,,,,,,,,,,,,,,,,,,1949-04-19
+Collingwood,1949,22,Geelong,9,W,23,,,,,,,,,,,,,,,,,,,,,,,,1949-04-26
+Collingwood,1949,23,Richmond,10,W,23,,,,,,,,,,,,,,,,,,,,,,,,1949-05-03
+Collingwood,1949,24,South Melbourne,11,W,23,,,,,,,,,,,,,,,,,,,,,,,,1949-05-10
+Collingwood,1949,25,Melbourne,13,L,23,,,,,,,,,,,,,,,,,,,,,,,,1949-05-24
+Collingwood,1949,26,Fitzroy,14,W,23,,,,,,,,,,,,,,,,,,,,,,,,1949-05-31
+Collingwood,1949,27,Hawthorn,15,W,23,,,,,,,,,,,,,,,,,,,,,,,,1949-06-07
+Collingwood,1949,28,Carlton,16,W,23,,,,,,,,,,,,,,,,,,,,,,,,1949-06-14
+Collingwood,1949,29,Footscray,18,W,23,,,,,,,,,,,,,,,,,,,,,,,,1949-06-28
+Collingwood,1949,30,St Kilda,19,L,23,,,,,,,,,,,,,,,,,,,,,,,,1949-07-05
+Collingwood,1949,31,Essendon,SF,L,23,,,,,,,,,,,,,,,,,,,,,,,,1949-03-01

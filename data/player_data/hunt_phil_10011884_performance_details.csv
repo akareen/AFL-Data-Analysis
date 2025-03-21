@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1907,1,Carlton,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-03-15
+Melbourne,1907,2,Collingwood,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-03-22
+Melbourne,1907,3,Geelong,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-03-29
+Melbourne,1907,4,Essendon,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-04-26
+Melbourne,1907,5,Carlton,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-05-03
+Melbourne,1907,6,Collingwood,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-05-10
+Melbourne,1907,7,Geelong,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-05-17
+Melbourne,1907,8,Essendon,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-06-07

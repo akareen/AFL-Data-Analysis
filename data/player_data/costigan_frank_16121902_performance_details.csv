@@ -1,0 +1,27 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1925,1,Footscray,1,W,8,,,,,,,,,,,,,,,,,,,,,,,,1925-03-01
+Fitzroy,1925,2,North Melbourne,2,W,8,,,,,,,,,,,,,,,,,,,,,,,,1925-03-08
+Fitzroy,1925,3,Hawthorn,10,W,8,,,,,2,,,,,,,,,,,,,,,,,,,1925-05-03
+Fitzroy,1925,4,South Melbourne,11,W,8,,,,,,,,,,,,,,,,,,,,,,,,1925-05-10
+Fitzroy,1925,5,Footscray,12,L,8,,,,,,,,,,,,,,,,,,,,,,,,1925-05-17
+Fitzroy,1925,6,North Melbourne,13,W,8,,,,,1,,,,,,,,,,,,,,,,,,,1925-05-24
+Fitzroy,1925,7,Richmond,14,W,8,,,,,,,,,,,,,,,,,,,,,,,,1925-05-31
+Fitzroy,1925,8,St Kilda,15,W,8,,,,,1,,,,,,,,,,,,,,,,,,,1925-06-07
+Fitzroy,1925,9,Collingwood,16,W,8,,,,,,,,,,,,,,,,,,,,,,,,1925-06-14
+Fitzroy,1925,10,Carlton,17,W,8,,,,,1,,,,,,,,,,,,,,,,,,,1925-06-21
+Fitzroy,1926,11,Footscray,3,W,8,,,,,,,,,,,,,,,,,,,,,,,,1926-03-15
+Fitzroy,1926,12,North Melbourne,6,W,8,,,,,,,,,,,,,,,,,,,,,,,,1926-04-05
+Fitzroy,1926,13,Hawthorn,7,L,8,,,,,,,,,,,,,,,,,,,,,,,,1926-04-12
+Fitzroy,1926,14,South Melbourne,8,L,8,,,,,,,,,,,,,,,,,,,,,,,,1926-04-19
+Fitzroy,1926,15,Collingwood,12,L,8,,,,,,,,,,,,,,,,,,,,,,,,1926-05-17
+Fitzroy,1926,16,Richmond,13,L,8,,,,,1,,,,,,,,,,,,,,,,,,,1926-05-24
+Fitzroy,1926,17,St Kilda,15,W,8,,,,,1,,,,,,,,,,,,,,,,,,,1926-06-07
+Fitzroy,1926,18,Carlton,16,L,8,,,,,,,,,,,,,,,,,,,,,,,,1926-06-14
+Fitzroy,1926,19,North Melbourne,17,W,8,,,,,1,,,,,,,,,,,,,,,,,,,1926-06-21
+Fitzroy,1926,20,Geelong,18,L,8,,,,,,,,,,,,,,,,,,,,,,,,1926-06-28
+Fitzroy,1927,21,North Melbourne,1,L,8,,,,,,,,,,,,,,,,,,,,,,,,1927-03-01
+Fitzroy,1927,22,Carlton,2,L,8,,,,,,,,,,,,,,,,,,,,,,,,1927-03-08
+Fitzroy,1927,23,Melbourne,3,L,8,,,,,,,,,,,,,,,,,,,,,,,,1927-03-15
+Fitzroy,1927,24,St Kilda,4,W,8,,,,,,,,,,,,,,,,,,,,,,,,1927-03-22
+Fitzroy,1927,25,Hawthorn,7,W,8,,,,,1,,,,,,,,,,,,,,,,,,,1927-04-12
+Fitzroy,1927,26,South Melbourne,8,W,8,,,,,,,,,,,,,,,,,,,,,,,,1927-04-19

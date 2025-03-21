@@ -1,0 +1,18 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1948,1,Essendon,1,L,14,,,,,2,,,,,,,,,,,,,,,,,,,1948-03-01
+Melbourne,1948,2,St Kilda,2,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1948-03-08
+Melbourne,1948,3,Collingwood,8,L,14,,,,,,,,,,,,,,,,,,,,,,,,1948-04-19
+Melbourne,1948,4,Footscray,9,L,14,,,,,5,,,,,,,,,,,,,,,,,,,1948-04-26
+Melbourne,1948,5,Hawthorn,10,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1948-05-03
+Melbourne,1948,6,Geelong,11,W,14,,,,,,,,,,,,,,,,,,,,,,,,1948-05-10
+Melbourne,1948,7,Essendon,12,L,14,,,,,,,,,,,,,,,,,,,,,,,,1948-05-17
+Melbourne,1948,8,Fitzroy,14,W,14,,,,,,,,,,,,,,,,,,,,,,,,1948-05-31
+Melbourne,1948,9,North Melbourne,16,W,14,,,,,,,,,,,,,,,,,,,,,,,,1948-06-14
+Melbourne,1948,10,South Melbourne,17,W,14,,,,,,,,,,,,,,,,,,,,,,,,1948-06-21
+Melbourne,1948,11,Carlton,18,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1948-06-28
+Melbourne,1948,12,Collingwood,19,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1948-07-05
+Melbourne,1949,13,Geelong,1,L,14,,,,,,,,,,,,,,,,,,,,,,,,1949-03-01
+Melbourne,1949,14,Collingwood,2,L,14,,,,,,,,,,,,,,,,,,,,,,,,1949-03-08
+Melbourne,1949,15,Footscray,3,W,14,,,,,,,,,,,,,,,,,,,,,,,,1949-03-15
+Melbourne,1949,16,South Melbourne,4,L,14,,,,,,,,,,,,,,,,,,,,,,,,1949-03-22
+Melbourne,1949,17,North Melbourne,5,L,14,,,,,,,,,,,,,,,,,,,,,,,,1949-03-29

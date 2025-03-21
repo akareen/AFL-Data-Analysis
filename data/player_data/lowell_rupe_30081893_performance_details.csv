@@ -1,0 +1,20 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1913,1,Carlton,1,L,6,,,,,,,,,,,,,,,,,,,,,,,,1913-03-01
+Essendon,1913,2,Collingwood,3,L,6,,,,,,,,,,,,,,,,,,,,,,,,1913-03-15
+Essendon,1913,3,South Melbourne,4,L,6,,,,,,,,,,,,,,,,,,,,,,,,1913-03-22
+Essendon,1913,4,Fitzroy,5,L,6,,,,,,,,,,,,,,,,,,,,,,,,1913-03-29
+Essendon,1913,5,Geelong,6,L,6,,,,,,,,,,,,,,,,,,,,,,,,1913-04-05
+Essendon,1913,6,University,7,W,6,,,,,,,,,,,,,,,,,,,,,,,,1913-04-12
+Essendon,1913,7,St Kilda,8,L,6,,,,,,,,,,,,,,,,,,,,,,,,1913-04-19
+Essendon,1913,8,Carlton,10,L,6,,,,,,,,,,,,,,,,,,,,,,,,1913-05-03
+Essendon,1913,9,St Kilda,17,L,6,,,,,,,,,,,,,,,,,,,,,,,,1913-06-21
+Essendon,1913,10,Melbourne,18,W,6,,,,,,,,,,,,,,,,,,,,,,,,1913-06-28
+Melbourne,1914,11,Essendon,5,L,6,,,,,,,,,,,,,,,,,,,,,,,,1914-03-29
+Melbourne,1914,12,Carlton,6,L,6,,,,,,,,,,,,,,,,,,,,,,,,1914-04-05
+Melbourne,1914,13,University,16,W,6,,,,,,,,,,,,,,,,,,,,,,,,1914-06-14
+Melbourne,1914,14,Richmond,17,L,6,,,,,,,,,,,,,,,,,,,,,,,,1914-06-21
+Melbourne,1914,15,South Melbourne,18,L,6,,,,,,,,,,,,,,,,,,,,,,,,1914-06-28
+Melbourne,1915,16,Richmond,1,W,22,,,,,,,,,,,,,,,,,,,,,,,,1915-03-01
+Melbourne,1915,17,South Melbourne,7,W,22,,,,,,,,,,,,,,,,,,,,,,,,1915-04-12
+Melbourne,1915,18,Essendon,8,W,22,,,,,,,,,,,,,,,,,,,,,,,,1915-04-19
+Melbourne,1915,19,Geelong,12,W,22,,,,,,,,,,,,,,,,,,,,,,,,1915-05-17

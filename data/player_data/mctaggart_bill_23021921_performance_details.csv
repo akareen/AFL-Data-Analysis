@@ -1,0 +1,49 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Footscray,1943,1,Carlton,2,L,31,,,,,2,,,,,,,,,,,,,,,,,,,1943-03-08
+Footscray,1943,2,Collingwood,3,W,31,,,,,,,,,,,,,,,,,,,,,,,,1943-03-15
+Footscray,1943,3,St Kilda,4,W,31,,,,,,,,,,,,,,,,,,,,,,,,1943-03-22
+Footscray,1943,4,Essendon,5,W,31,,,,,2,,,,,,,,,,,,,,,,,,,1943-03-29
+Footscray,1943,5,Melbourne,6,W,31,,,,,2,,,,,,,,,,,,,,,,,,,1943-04-05
+Footscray,1943,6,Fitzroy,7,L,31,,,,,,,,,,,,,,,,,,,,,,,,1943-04-12
+Footscray,1943,7,South Melbourne,8,W,31,,,,,,,,,,,,,,,,,,,,,,,,1943-04-19
+Footscray,1943,8,Hawthorn,9,L,31,,,,,,,,,,,,,,,,,,,,,,,,1943-04-26
+Footscray,1943,9,Melbourne,12,L,31,,,,,,,,,,,,,,,,,,,,,,,,1943-05-17
+Footscray,1943,10,Richmond,13,L,31,,,,,,,,,,,,,,,,,,,,,,,,1943-05-24
+Footscray,1943,11,North Melbourne,14,W,31,,,,,1,,,,,,,,,,,,,,,,,,,1943-05-31
+Footscray,1943,12,Essendon,15,W,31,,,,,2,,,,,,,,,,,,,,,,,,,1943-06-07
+Footscray,1943,13,South Melbourne,16,L,31,,,,,3,,,,,,,,,,,,,,,,,,,1943-06-14
+Footscray,1944,14,Geelong,1,W,31,,,,,,,,,,,,,,,,,,,,,,,,1944-03-01
+Footscray,1944,15,Fitzroy,5,W,31,,,,,2,,,,,,,,,,,,,,,,,,,1944-03-29
+Footscray,1944,16,Richmond,6,D,31,,,,,2,,,,,,,,,,,,,,,,,,,1944-04-05
+Footscray,1944,17,South Melbourne,7,W,31,,,,,,,,,,,,,,,,,,,,,,,,1944-04-12
+Footscray,1944,18,Hawthorn,8,W,31,,,,,,,,,,,,,,,,,,,,,,,,1944-04-19
+Footscray,1944,19,Melbourne,9,W,31,,,,,,,,,,,,,,,,,,,,,,,,1944-04-26
+Footscray,1944,20,Essendon,10,L,31,,,,,,,,,,,,,,,,,,,,,,,,1944-05-03
+Footscray,1944,21,Carlton,11,W,31,,,,,,,,,,,,,,,,,,,,,,,,1944-05-10
+Footscray,1944,22,St Kilda,13,W,31,,,,,2,,,,,,,,,,,,,,,,,,,1944-05-24
+Footscray,1944,23,Collingwood,14,W,31,,,,,6,,,,,,,,,,,,,,,,,,,1944-05-31
+Footscray,1944,24,North Melbourne,15,W,31,,,,,,,,,,,,,,,,,,,,,,,,1944-06-07
+Footscray,1944,25,Fitzroy,16,L,31,,,,,1,,,,,,,,,,,,,,,,,,,1944-06-14
+Footscray,1944,26,Richmond,17,L,31,,,,,,,,,,,,,,,,,,,,,,,,1944-06-21
+Footscray,1944,27,Carlton,18,W,31,,,,,,,,,,,,,,,,,,,,,,,,1944-06-28
+Footscray,1944,28,Essendon,SF,L,31,,,,,3,,,,,,,,,,,,,,,,,,,1944-03-01
+Footscray,1945,29,Richmond,1,W,31,,,,,5,,,,,,,,,,,,,,,,,,,1945-03-01
+Footscray,1945,30,Geelong,2,W,31,,,,,3,,,,,,,,,,,,,,,,,,,1945-03-08
+Footscray,1945,31,Fitzroy,3,W,31,,,,,2,,,,,,,,,,,,,,,,,,,1945-03-15
+Footscray,1945,32,North Melbourne,4,L,31,,,,,1,,,,,,,,,,,,,,,,,,,1945-03-22
+Footscray,1945,33,South Melbourne,5,L,31,,,,,2,,,,,,,,,,,,,,,,,,,1945-03-29
+Footscray,1945,34,Melbourne,6,W,31,,,,,2,,,,,,,,,,,,,,,,,,,1945-04-05
+Footscray,1945,35,Hawthorn,7,W,31,,,,,3,,,,,,,,,,,,,,,,,,,1945-04-12
+Footscray,1945,36,Essendon,8,W,31,,,,,,,,,,,,,,,,,,,,,,,,1945-04-19
+Footscray,1945,37,Carlton,9,W,31,,,,,,,,,,,,,,,,,,,,,,,,1945-04-26
+Footscray,1945,38,St Kilda,10,W,31,,,,,1,,,,,,,,,,,,,,,,,,,1945-05-03
+Footscray,1945,39,Collingwood,11,W,31,,,,,2,,,,,,,,,,,,,,,,,,,1945-05-10
+Footscray,1945,40,Richmond,12,W,31,,,,,,,,,,,,,,,,,,,,,,,,1945-05-17
+Footscray,1945,41,Geelong,13,W,31,,,,,4,,,,,,,,,,,,,,,,,,,1945-05-24
+Footscray,1945,42,Fitzroy,14,L,31,,,,,1,,,,,,,,,,,,,,,,,,,1945-05-31
+Footscray,1945,43,North Melbourne,15,L,31,,,,,2,,,,,,,,,,,,,,,,,,,1945-06-07
+Footscray,1945,44,South Melbourne,16,L,31,,,,,,,,,,,,,,,,,,,,,,,,1945-06-14
+Footscray,1945,45,Melbourne,17,L,31,,,,,,,,,,,,,,,,,,,,,,,,1945-06-21
+Footscray,1945,46,Hawthorn,18,W,31,,,,,,,,,,,,,,,,,,,,,,,,1945-06-28
+Footscray,1945,47,Essendon,19,L,31,,,,,,,,,,,,,,,,,,,,,,,,1945-07-05
+South Melbourne,1947,48,Geelong,5,L,15,,,,,,,,,,,,,,,,,,,,,,,,1947-03-29

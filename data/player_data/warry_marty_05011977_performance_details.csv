@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1995,1,Sydney,19,L,39,6,2,4,10,,,,1,,,,,1,2,,,,,,,,,,1995-07-05
+Fitzroy,1995,2,Geelong,20,L,39,11,7,11,22,,2,,1,,,,,1,,,,,,,,,,,1995-07-12
+Fitzroy,1995,3,St Kilda,21,L,39,5,2,1,6,,,,1,,,,,1,,,,,,,,,,,1995-07-19
+Fitzroy,1996,4,Footscray,18,L,39,3,3,,3,1,,,,,,,,,,,,,,,,,,,1996-06-28
+Fitzroy,1996,5,St Kilda,19,L,39,2,,2,4,,,,,,,,,1,,,,,,,,,,,1996-07-05
+Fitzroy,1996,6,Brisbane Bears,20,L,39,8,4,1,9,3,2,,1,,,,,2,,,,,,,,,,,1996-07-12
+Fitzroy,1996,7,Richmond,21,L,39,3,2,1,4,3,,,,,,,,,,,,,,,,,,,1996-07-19
+Fitzroy,1996,8,Fremantle,22,L,39,9,3,2,11,4,3,,2,,,,,1,,,,,,,,,,,1996-07-26

@@ -1,0 +1,26 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1915,1,Carlton,1,D,4,,,,,1,,,,,,,,,,,,,,,,,,,1915-03-01
+Fitzroy,1915,2,Melbourne,2,W,4,,,,,,,,,,,,,,,,,,,,,,,,1915-03-08
+Fitzroy,1915,3,Collingwood,8,L,4,,,,,,,,,,,,,,,,,,,,,,,,1915-04-19
+Carlton,1917,4,Richmond,5,W,30,,,,,,,,,,,,,,,,,,,,,,,,1917-03-29
+Carlton,1917,5,Fitzroy,6,L,30,,,,,,,,,,,,,,,,,,,,,,,,1917-04-05
+Carlton,1917,6,Collingwood,7,L,30,,,,,1,,,,,,,,,,,,,,,,,,,1917-04-12
+Carlton,1917,7,South Melbourne,8,W,30,,,,,,,,,,,,,,,,,,,,,,,,1917-04-19
+Carlton,1917,8,Geelong,9,W,30,,,,,,,,,,,,,,,,,,,,,,,,1917-04-26
+Carlton,1917,9,Richmond,10,W,30,,,,,1,,,,,,,,,,,,,,,,,,,1917-05-03
+Carlton,1918,10,Collingwood,1,L,30,,,,,,,,,,,,,,,,,,,,,,,,1918-03-01
+Carlton,1918,11,Richmond,2,L,30,,,,,,,,,,,,,,,,,,,,,,,,1918-03-08
+Carlton,1918,12,St Kilda,3,W,30,,,,,,,,,,,,,,,,,,,,,,,,1918-03-15
+Carlton,1918,13,Essendon,4,W,30,,,,,,,,,,,,,,,,,,,,,,,,1918-03-22
+Carlton,1918,14,South Melbourne,5,L,30,,,,,,,,,,,,,,,,,,,,,,,,1918-03-29
+Carlton,1918,15,Fitzroy,7,W,30,,,,,,,,,,,,,,,,,,,,,,,,1918-04-12
+Carlton,1918,16,Collingwood,8,W,30,,,,,,,,,,,,,,,,,,,,,,,,1918-04-19
+Carlton,1918,17,Richmond,9,W,30,,,,,,,,,,,,,,,,,,,,,,,,1918-04-26
+Carlton,1918,18,St Kilda,10,L,30,,,,,,,,,,,,,,,,,,,,,,,,1918-05-03
+Carlton,1918,19,Essendon,11,W,30,,,,,,,,,,,,,,,,,,,,,,,,1918-05-10
+Carlton,1918,20,South Melbourne,12,L,30,,,,,,,,,,,,,,,,,,,,,,,,1918-05-17
+Carlton,1918,21,Fitzroy,14,W,30,,,,,,,,,,,,,,,,,,,,,,,,1918-05-31
+Carlton,1920,22,Richmond,2,L,15,,,,,,,,,,,,,,,,,,,,,,,,1920-03-08
+Carlton,1920,23,Essendon,4,W,15,,,,,2,,,,,,,,,,,,,,,,,,,1920-03-22
+Carlton,1920,24,Melbourne,6,L,15,,,,,,,,,,,,,,,,,,,,,,,,1920-04-05
+Carlton,1920,25,Geelong,7,W,15,,,,,,,,,,,,,,,,,,,,,,,,1920-04-12

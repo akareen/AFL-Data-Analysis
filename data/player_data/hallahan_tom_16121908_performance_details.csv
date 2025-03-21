@@ -1,0 +1,24 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1932,1,St Kilda,8,W,26,,,,,3,,,,,,,,,,,,,,,,,,,1932-04-19
+Collingwood,1932,2,North Melbourne,9,W,26,,,,,2,,,,,,,,,,,,,,,,,,,1932-04-26
+Collingwood,1932,3,Richmond,10,W,26,,,,,2,,,,,,,,,,,,,,,,,,,1932-05-03
+Collingwood,1932,4,South Melbourne,11,W,26,,,,,,,,,,,,,,,,,,,,,,,,1932-05-10
+Collingwood,1932,5,Hawthorn,12,W,26,,,,,1,,,,,,,,,,,,,,,,,,,1932-05-17
+Collingwood,1932,6,Geelong,13,L,26,,,,,1,,,,,,,,,,,,,,,,,,,1932-05-24
+Collingwood,1932,7,Essendon,14,W,26,,,,,,,,,,,,,,,,,,,,,,,,1932-05-31
+Collingwood,1932,8,Fitzroy,15,W,26,,,,,,,,,,,,,,,,,,,,,,,,1932-06-07
+Collingwood,1932,9,Carlton,16,L,26,,,,,,,,,,,,,,,,,,,,,,,,1932-06-14
+St Kilda,1933,10,Hawthorn,12,W,46,,,,,,,,,,,,,,,,,,,,,,,,1933-05-17
+St Kilda,1933,11,Fitzroy,14,L,46,,,,,,,,,,,,,,,,,,,,,,,,1933-05-31
+St Kilda,1933,12,South Melbourne,15,L,46,,,,,,,,,,,,,,,,,,,,,,,,1933-06-07
+St Kilda,1933,13,North Melbourne,16,L,46,,,,,,,,,,,,,,,,,,,,,,,,1933-06-14
+St Kilda,1934,14,Geelong,1,L,31,,,,,,,,,,,,,,,,,,,,,,,,1934-03-01
+St Kilda,1934,15,Richmond,2,L,31,,,,,2,,,,,,,,,,,,,,,,,,,1934-03-08
+St Kilda,1934,16,Fitzroy,3,W,31,,,,,1,,,,,,,,,,,,,,,,,,,1934-03-15
+St Kilda,1934,17,Carlton,7,L,31,,,,,,,,,,,,,,,,,,,,,,,,1934-04-12
+St Kilda,1934,18,Collingwood,8,L,31,,,,,,,,,,,,,,,,,,,,,,,,1934-04-19
+St Kilda,1934,19,Essendon,9,W,31,,,,,,,,,,,,,,,,,,,,,,,,1934-04-26
+St Kilda,1934,20,South Melbourne,10,L,31,,,,,,,,,,,,,,,,,,,,,,,,1934-05-03
+St Kilda,1934,21,Hawthorn,11,W,31,,,,,,,,,,,,,,,,,,,,,,,,1934-05-10
+St Kilda,1934,22,Richmond,13,L,31,,,,,,,,,,,,,,,,,,,,,,,,1934-05-24
+St Kilda,1934,23,Footscray,16,L,31,,,,,,,,,,,,,,,,,,,,,,,,1934-06-14

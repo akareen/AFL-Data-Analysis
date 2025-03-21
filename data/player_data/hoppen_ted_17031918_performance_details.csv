@@ -1,0 +1,42 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1939,1,Richmond,11,W,25,,,,,1,,,,,,,,,,,,,,,,,,,1939-05-10
+St Kilda,1939,2,Hawthorn,12,W,25,,,,,,,,,,,,,,,,,,,,,,,,1939-05-17
+St Kilda,1939,3,Fitzroy,13,W,25,,,,,1,,,,,,,,,,,,,,,,,,,1939-05-24
+St Kilda,1939,4,Melbourne,14,L,25,,,,,1,,,,,,,,,,,,,,,,,,,1939-05-31
+St Kilda,1939,5,Collingwood,15,L,25,,,,,2,,,,,,,,,,,,,,,,,,,1939-06-07
+St Kilda,1939,6,Essendon,16,L,25,,,,,,,,,,,,,,,,,,,,,,,,1939-06-14
+St Kilda,1939,7,Geelong,17,W,25,,,,,,,,,,,,,,,,,,,,,,,,1939-06-21
+St Kilda,1939,8,South Melbourne,18,W,25,,,,,,,,,,,,,,,,,,,,,,,,1939-06-28
+St Kilda,1939,9,Richmond,SF,W,25,,,,,,,,,,,,,,,,,,,,,,,,1939-03-01
+St Kilda,1939,10,Collingwood,PF,L,25,,,,,,,,,,,,,,,,,,,,,,,,1939-03-01
+St Kilda,1940,11,Hawthorn,2,W,25,,,,,,,,,,,,,,,,,,,,,,,,1940-03-08
+St Kilda,1940,12,North Melbourne,3,W,25,,,,,,,,,,,,,,,,,,,,,,,,1940-03-15
+St Kilda,1940,13,Footscray,4,W,25,,,,,,,,,,,,,,,,,,,,,,,,1940-03-22
+St Kilda,1940,14,Carlton,5,L,25,,,,,,,,,,,,,,,,,,,,,,,,1940-03-29
+St Kilda,1940,15,Richmond,6,L,25,,,,,,,,,,,,,,,,,,,,,,,,1940-04-05
+St Kilda,1940,16,Collingwood,7,L,25,,,,,,,,,,,,,,,,,,,,,,,,1940-04-12
+St Kilda,1940,17,South Melbourne,8,L,25,,,,,,,,,,,,,,,,,,,,,,,,1940-04-19
+St Kilda,1940,18,Melbourne,9,L,25,,,,,,,,,,,,,,,,,,,,,,,,1940-04-26
+St Kilda,1940,19,Essendon,10,L,25,,,,,,,,,,,,,,,,,,,,,,,,1940-05-03
+St Kilda,1940,20,Geelong,11,L,25,,,,,,,,,,,,,,,,,,,,,,,,1940-05-10
+St Kilda,1940,21,Hawthorn,13,L,25,,,,,,,,,,,,,,,,,,,,,,,,1940-05-24
+St Kilda,1940,22,North Melbourne,14,W,25,,,,,,,,,,,,,,,,,,,,,,,,1940-05-31
+St Kilda,1940,23,Footscray,15,L,25,,,,,,,,,,,,,,,,,,,,,,,,1940-06-07
+St Kilda,1940,24,Carlton,16,L,25,,,,,,,,,,,,,,,,,,,,,,,,1940-06-14
+St Kilda,1940,25,Richmond,17,L,25,,,,,,,,,,,,,,,,,,,,,,,,1940-06-21
+St Kilda,1940,26,Collingwood,18,L,25,,,,,,,,,,,,,,,,,,,,,,,,1940-06-28
+St Kilda,1941,27,South Melbourne,1,W,25,,,,,,,,,,,,,,,,,,,,,,,,1941-03-01
+St Kilda,1941,28,Geelong,2,L,25,,,,,,,,,,,,,,,,,,,,,,,,1941-03-08
+St Kilda,1941,29,Essendon,3,L,25,,,,,,,,,,,,,,,,,,,,,,,,1941-03-15
+St Kilda,1941,30,Melbourne,4,L,25,,,,,,,,,,,,,,,,,,,,,,,,1941-03-22
+St Kilda,1941,31,Carlton,5,L,25,,,,,1,,,,,,,,,,,,,,,,,,,1941-03-29
+St Kilda,1941,32,North Melbourne,6,L,25,,,,,,,,,,,,,,,,,,,,,,,,1941-04-05
+St Kilda,1941,33,Footscray,7,W,25,,,,,,,,,,,,,,,,,,,,,,,,1941-04-12
+St Kilda,1941,34,Richmond,8,L,25,,,,,,,,,,,,,,,,,,,,,,,,1941-04-19
+St Kilda,1941,35,Collingwood,9,L,25,,,,,,,,,,,,,,,,,,,,,,,,1941-04-26
+St Kilda,1941,36,Fitzroy,10,L,25,,,,,,,,,,,,,,,,,,,,,,,,1941-05-03
+St Kilda,1941,37,Hawthorn,11,L,25,,,,,,,,,,,,,,,,,,,,,,,,1941-05-10
+St Kilda,1941,38,South Melbourne,12,L,25,,,,,,,,,,,,,,,,,,,,,,,,1941-05-17
+St Kilda,1941,39,Geelong,13,W,25,,,,,,,,,,,,,,,,,,,,,,,,1941-05-24
+St Kilda,1941,40,Essendon,14,L,25,,,,,,,,,,,,,,,,,,,,,,,,1941-05-31
+St Kilda,1941,41,Carlton,16,L,25,,,,,,,,,,,,,,,,,,,,,,,,1941-06-14

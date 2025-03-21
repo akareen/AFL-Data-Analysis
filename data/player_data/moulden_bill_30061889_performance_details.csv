@@ -1,0 +1,35 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1914,1,Essendon,1,D,19,,,,,,,,,,,,,,,,,,,,,,,,1914-03-01
+Geelong,1914,2,University,4,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1914-03-22
+Geelong,1917,3,South Melbourne,6,W,17,,,,,,,,,,,,,,,,,,,,,,,,1917-04-05
+Geelong,1917,4,Fitzroy,7,W,17,,,,,,,,,,,,,,,,,,,,,,,,1917-04-12
+Geelong,1917,5,Richmond,8,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1917-04-19
+Geelong,1917,6,Carlton,9,L,17,,,,,,,,,,,,,,,,,,,,,,,,1917-04-26
+Geelong,1917,7,South Melbourne,11,L,17,,,,,,,,,,,,,,,,,,,,,,,,1917-05-10
+Geelong,1917,8,Fitzroy,12,L,17,,,,,,,,,,,,,,,,,,,,,,,,1917-05-17
+Geelong,1917,9,Richmond,13,W,17,,,,,,,,,,,,,,,,,,,,,,,,1917-05-24
+Geelong,1917,10,Carlton,14,L,17,,,,,,,,,,,,,,,,,,,,,,,,1917-05-31
+Geelong,1917,11,Collingwood,15,W,17,,,,,,,,,,,,,,,,,,,,,,,,1917-06-07
+Geelong,1918,12,South Melbourne,1,L,17,,,,,,,,,,,,,,,,,,,,,,,,1918-03-01
+Geelong,1918,13,Essendon,3,W,17,,,,,,,,,,,,,,,,,,,,,,,,1918-03-15
+Geelong,1918,14,Fitzroy,4,L,17,,,,,,,,,,,,,,,,,,,,,,,,1918-03-22
+Geelong,1918,15,Richmond,5,L,17,,,,,,,,,,,,,,,,,,,,,,,,1918-03-29
+Geelong,1918,16,Carlton,6,L,17,,,,,,,,,,,,,,,,,,,,,,,,1918-04-05
+Geelong,1918,17,South Melbourne,8,L,17,,,,,,,,,,,,,,,,,,,,,,,,1918-04-19
+Geelong,1918,18,Collingwood,9,L,17,,,,,,,,,,,,,,,,,,,,,,,,1918-04-26
+Geelong,1919,19,Richmond,2,L,17,,,,,,,,,,,,,,,,,,,,,,,,1919-03-08
+Geelong,1919,20,Collingwood,3,L,17,,,,,,,,,,,,,,,,,,,,,,,,1919-03-15
+Geelong,1919,21,Richmond,11,L,17,,,,,,,,,,,,,,,,,,,,,,,,1919-05-10
+Geelong,1919,22,Collingwood,12,L,17,,,,,,,,,,,,,,,,,,,,,,,,1919-05-17
+Geelong,1919,23,Carlton,13,L,17,,,,,,,,,,,,,,,,,,,,,,,,1919-05-24
+Geelong,1919,24,St Kilda,14,L,17,,,,,,,,,,,,,,,,,,,,,,,,1919-05-31
+Geelong,1919,25,Melbourne,17,W,17,,,,,,,,,,,,,,,,,,,,,,,,1919-06-21
+Geelong,1919,26,South Melbourne,18,W,17,,,,,,,,,,,,,,,,,,,,,,,,1919-06-28
+Geelong,1920,27,Collingwood,2,L,17,,,,,,,,,,,,,,,,,,,,,,,,1920-03-08
+Geelong,1920,28,St Kilda,3,L,17,,,,,,,,,,,,,,,,,,,,,,,,1920-03-15
+Geelong,1920,29,South Melbourne,8,L,17,,,,,,,,,,,,,,,,,,,,,,,,1920-04-19
+Geelong,1920,30,Richmond,14,L,17,,,,,,,,,,,,,,,,,,,,,,,,1920-05-31
+Geelong,1920,31,Essendon,15,W,17,,,,,,,,,,,,,,,,,,,,,,,,1920-06-07
+Geelong,1920,32,Carlton,16,L,17,,,,,,,,,,,,,,,,,,,,,,,,1920-06-14
+Geelong,1920,33,South Melbourne,17,W,17,,,,,,,,,,,,,,,,,,,,,,,,1920-06-21
+Geelong,1920,34,Melbourne,18,W,17,,,,,,,,,,,,,,,,,,,,,,,,1920-06-28

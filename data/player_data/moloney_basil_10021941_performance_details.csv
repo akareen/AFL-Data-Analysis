@@ -1,0 +1,22 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1961,1,Collingwood,2,W,32,,,,,,,,,,,,,,,,,,,,,,,,1961-03-08
+Richmond,1961,2,South Melbourne,3,L,32,,,,,,,,,,,,,,,,,,,,,,,,1961-03-15
+Richmond,1961,3,Fitzroy,4,W,32,,,,,,,,,,,,,,,,,,,,,,,,1961-03-22
+Richmond,1961,4,St Kilda,5,L,32,,,,,,,,,,,,,,,,,,,,,,,,1961-03-29
+Richmond,1961,5,Geelong,6,L,32,,,,,1,,,,,,,,,,,,,,,,,,,1961-04-05
+Richmond,1961,6,Hawthorn,7,L,32,,,,,,,,,,,,,,,,,,,,,,,,1961-04-12
+Richmond,1961,7,South Melbourne,14,L,32,,,,,,,,,,,,,,,,,,,,,,,,1961-05-31
+Richmond,1961,8,Fitzroy,15,L,32,,,,,,,,,,,,,,,,,,,,,,,,1961-06-07
+Richmond,1961,9,St Kilda,16,L,32,,,,,,,,,,,,,,,,,,,,,,,,1961-06-14
+Richmond,1961,10,Geelong,17,L,32,,,,,,,,,,,,,,,,,,,,,,,,1961-06-21
+Richmond,1961,11,Hawthorn,18,L,32,,,,,,,,,,,,,,,,,,,,,,,,1961-06-28
+Richmond,1962,12,Melbourne,1,L,32,,,,,,,,,,,,,,,,,,,,,,,,1962-03-01
+Richmond,1962,13,Carlton,2,L,32,,,,,2,,,,,,,,,,,,,,,,,,,1962-03-08
+Richmond,1962,14,Essendon,3,L,32,,,,,,,,,,,,,,,,,,,,,,,,1962-03-15
+Richmond,1962,15,Geelong,4,L,32,,,,,,,,,,,,,,,,,,,,,,,,1962-03-22
+Richmond,1962,16,Hawthorn,5,L,32,,,,,,,,,,,,,,,,,,,,,,,,1962-03-29
+Richmond,1962,17,St Kilda,6,L,32,,,,,,,,,,,,,,,,,,,,,,,,1962-04-05
+Richmond,1962,18,Geelong,15,L,32,,,,,,,,,,,,,,,,,,,,,,,,1962-06-07
+Richmond,1962,19,St Kilda,17,W,32,,,,,,,,,,,,,,,,,,,,,,,,1962-06-21
+Richmond,1962,20,North Melbourne,18,W,32,,,,,,,,,,,,,,,,,,,,,,,,1962-06-28
+Richmond,1963,21,St Kilda,11,L,32,,,,,,,,,,,,,,,,,,,,,,,,1963-05-10

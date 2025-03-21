@@ -1,0 +1,59 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1952,1,Collingwood,19,L,19,,,,,,,,,,,,,,,,,,,,,,,,1952-07-05
+Melbourne,1953,2,Essendon,5,W,19,,,,,,,,,,,,,,,,,,,,,,,,1953-03-29
+Melbourne,1953,3,Fitzroy,6,L,19,,,,,,,,,,,,,,,,,,,,,,,,1953-04-05
+Melbourne,1953,4,Geelong,7,L,19,,,,,,,,,,,,,,,,,,,,,,,,1953-04-12
+Melbourne,1953,5,South Melbourne,8,L,19,,,,,,,,,,,,,,,,,,,,,,,,1953-04-19
+Melbourne,1953,6,Collingwood,9,L,19,,,,,,,,,,,,,,,,,,,,,,,,1953-04-26
+Melbourne,1953,7,Hawthorn,10,L,19,,,,,,,,,,,,,,,,,,,,,,,,1953-05-03
+Melbourne,1954,8,Fitzroy,4,W,19,,,,,,,,,,,,,,,,,,,,,,,,1954-03-22
+Melbourne,1954,9,Richmond,5,W,19,,,,,,,,,,,,,,,,,,,,,,,,1954-03-29
+Melbourne,1954,10,St Kilda,6,L,19,,,,,,,,,,,,,,,,,,,,,,,,1954-04-05
+Melbourne,1954,11,Footscray,10,L,19,,,,,,,,,,,,,,,,,,,,,,,,1954-05-03
+Melbourne,1954,12,North Melbourne,11,W,19,,,,,,,,,,,,,,,,,,,,,,,,1954-05-10
+Melbourne,1954,13,St Kilda,17,W,19,,,,,,,,,,,,,,,,,,,,,,,,1954-06-21
+Melbourne,1955,14,Carlton,8,W,19,,,,,,,,,,,,,,,,,,,,,,,,1955-04-19
+Melbourne,1955,15,Richmond,9,W,19,,,,,,,,,,,,,,,,,,,,,,,,1955-04-26
+Melbourne,1955,16,Fitzroy,10,W,19,,,,,,,,,,,,,,,,,,,,,,,,1955-05-03
+Melbourne,1955,17,Collingwood,11,L,19,,,,,,,,,,,,,,,,,,,,,,,,1955-05-10
+Melbourne,1955,18,Geelong,13,L,19,,,,,,,,,,,,,,,,,,,,,,,,1955-05-24
+Melbourne,1955,19,North Melbourne,15,W,19,,,,,,,,,,,,,,,,,,,,,,,,1955-06-07
+Melbourne,1956,20,Richmond,1,W,19,,,,,,,,,,,,,,,,,,,,,,,,1956-03-01
+Melbourne,1956,21,Carlton,2,W,19,,,,,,,,,,,,,,,,,,,,,,,,1956-03-08
+Melbourne,1956,22,Footscray,3,W,19,,,,,,,,,,,,,,,,,,,,,,,,1956-03-15
+Melbourne,1956,23,Fitzroy,4,W,19,,,,,,,,,,,,,,,,,,,,,,,,1956-03-22
+Melbourne,1956,24,Geelong,5,W,19,,,,,,,,,,,,,,,,,,,,,,,,1956-03-29
+Melbourne,1956,25,North Melbourne,6,W,19,,,,,,,,,,,,,,,,,,,,,,,,1956-04-05
+Melbourne,1956,26,Collingwood,7,W,19,,,,,,,,,,,,,,,,,,,,,,,,1956-04-12
+Melbourne,1956,27,St Kilda,8,W,19,,,,,,,,,,,,,,,,,,,,,,,,1956-04-19
+Melbourne,1956,28,Essendon,9,W,19,,,,,,,,,,,,,,,,,,,,,,,,1956-04-26
+Melbourne,1956,29,South Melbourne,10,W,19,,,,,,,,,,,,,,,,,,,,,,,,1956-05-03
+Melbourne,1956,30,Hawthorn,11,W,19,,,,,,,,,,,,,,,,,,,,,,,,1956-05-10
+Melbourne,1956,31,Richmond,12,W,19,,,,,,,,,,,,,,,,,,,,,,,,1956-05-17
+Melbourne,1956,32,Carlton,13,W,19,,,,,,,,,,,,,,,,,,,,,,,,1956-05-24
+Melbourne,1956,33,Footscray,14,L,19,,,,,,,,,,,,,,,,,,,,,,,,1956-05-31
+Melbourne,1956,34,Fitzroy,15,W,19,,,,,,,,,,,,,,,,,,,,,,,,1956-06-07
+Melbourne,1956,35,Geelong,16,L,19,,,,,,,,,,,,,,,,,,,,,,,,1956-06-14
+Melbourne,1956,36,North Melbourne,17,W,19,,,,,,,,,,,,,,,,,,,,,,,,1956-06-21
+Melbourne,1956,37,Collingwood,18,W,19,,,,,,,,,,,,,,,,,,,,,,,,1956-06-28
+Melbourne,1956,38,Collingwood,SF,W,19,,,,,,,,,,,,,,,,,,,,,,,,1956-03-01
+Melbourne,1956,39,Collingwood,GF,W,19,,,,,,,,,,,,,,,,,,,,,,,,1956-03-01
+Melbourne,1957,40,Fitzroy,1,L,19,,,,,,,,,,,,,,,,,,,,,,,,1957-03-01
+Melbourne,1957,41,Collingwood,2,W,19,,,,,,,,,,,,,,,,,,,,,,,,1957-03-08
+Melbourne,1957,42,Hawthorn,4,L,19,,,,,,,,,,,,,,,,,,,,,,,,1957-03-22
+Melbourne,1957,43,St Kilda,5,W,19,,,,,,,,,,,,,,,,,,,,,,,,1957-03-29
+Melbourne,1957,44,South Melbourne,6,W,19,,,,,,,,,,,,,,,,,,,,,,,,1957-04-05
+Melbourne,1957,45,Richmond,7,L,19,,,,,,,,,,,,,,,,,,,,,,,,1957-04-12
+Melbourne,1957,46,Richmond,18,W,19,,,,,,,,,,,,,,,,,,,,,,,,1957-06-28
+Melbourne,1957,47,Essendon,SF,L,19,,,,,,,,,,,,,,,,,,,,,,,,1957-03-01
+Melbourne,1957,48,Hawthorn,PF,W,19,,,,,,,,,,,,,,,,,,,,,,,,1957-03-01
+Melbourne,1957,49,Essendon,GF,W,19,,,,,,,,,,,,,,,,,,,,,,,,1957-03-01
+Melbourne,1958,50,Carlton,1,W,19,,,,,,,,,,,,,,,,,,,,,,,,1958-03-01
+Melbourne,1958,51,Carlton,12,W,19,,,,,,,,,,,,,,,,,,,,,,,,1958-05-17
+Melbourne,1958,52,Geelong,13,W,19,,,,,,,,,,,,,,,,,,,,,,,,1958-05-24
+Melbourne,1958,53,North Melbourne,14,W,19,,,,,,,,,,,,,,,,,,,,,,,,1958-05-31
+Melbourne,1958,54,Hawthorn,15,W,19,,,,,,,,,,,,,,,,,,,,,,,,1958-06-07
+Melbourne,1958,55,Essendon,16,L,19,,,,,,,,,,,,,,,,,,,,,,,,1958-06-14
+Melbourne,1958,56,St Kilda,17,W,19,,,,,,,,,,,,,,,,,,,,,,,,1958-06-21
+Melbourne,1958,57,Collingwood,SF,W,19,,,,,,,,,,,,,,,,,,,,,,,,1958-03-01
+Melbourne,1958,58,Collingwood,GF,L,11,,,,,,,,,,,,,,,,,,,,,,,,1958-03-01

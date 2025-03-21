@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1967,1,Melbourne,4,W,38,1,,1,2,,,,,,,,,,,,,,,,,,,,1967-03-22
+Carlton,1967,2,South Melbourne,7,D,38,,,,,,,,,,,,,,,,,,,,,,,,1967-04-12
+Carlton,1967,3,Footscray,10,W,38,,,,,,,,,,,,,,3,,,,,,,,,,1967-05-03
+Carlton,1968,4,Geelong,1,W,38,13,6,2,15,,,,,,,,,4,,,,,,,,,,,1968-03-01
+Carlton,1968,5,Richmond,2,L,38,7,3,,7,,,,,,,,,2,1,,,,,,,,,,1968-03-08
+Carlton,1968,6,Essendon,3,L,38,5,,2,7,,,,,,,,,1,,,,,,,,,,,1968-03-15
+Carlton,1968,7,Hawthorn,4,W,38,6,4,2,8,,,,,,,,,1,6,,,,,,,,,,1968-03-22
+Carlton,1968,8,Footscray,5,W,38,11,6,3,14,,,10,,,,,,3,2,,,,,,,,,,1968-03-29
+Carlton,1968,9,South Melbourne,6,W,38,5,3,1,6,,,7,,,,,,1,2,,,,,,,,,,1968-04-05
+Carlton,1968,10,Hawthorn,15,L,38,3,1,1,4,,1,,,,,,,1,1,,,,,,,,,,1968-06-07

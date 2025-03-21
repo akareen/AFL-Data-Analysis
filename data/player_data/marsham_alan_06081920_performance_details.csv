@@ -1,0 +1,25 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1939,1,Collingwood,1,L,13,,,,,1,,,,,,,,,,,,,,,,,,,1939-03-01
+Geelong,1939,2,Carlton,2,W,13,,,,,,,,,,,,,,,,,,,,,,,,1939-03-08
+Geelong,1939,3,Footscray,11,L,13,,,,,,,,,,,,,,,,,,,,,,,,1939-05-10
+Geelong,1939,4,St Kilda,17,L,13,,,,,,,,,,,,,,,,,,,,,,,,1939-06-21
+Geelong,1939,5,North Melbourne,18,L,13,,,,,,,,,,,,,,,,,,,,,,,,1939-06-28
+Geelong,1940,6,Carlton,12,W,11,,,,,1,,,,,,,,,,,,,,,,,,,1940-05-17
+Geelong,1940,7,Collingwood,13,W,11,,,,,,,,,,,,,,,,,,,,,,,,1940-05-24
+Geelong,1940,8,Richmond,15,L,11,,,,,,,,,,,,,,,,,,,,,,,,1940-06-07
+Geelong,1945,9,Fitzroy,1,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-03-01
+Geelong,1945,10,Footscray,2,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-03-08
+Geelong,1945,11,South Melbourne,4,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-03-22
+Geelong,1945,12,Melbourne,5,L,2,,,,,1,,,,,,,,,,,,,,,,,,,1945-03-29
+Geelong,1945,13,Carlton,8,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-04-19
+Geelong,1945,14,St Kilda,9,L,2,,,,,1,,,,,,,,,,,,,,,,,,,1945-04-26
+Geelong,1945,15,Collingwood,10,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-05-03
+Geelong,1945,16,Richmond,11,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-05-10
+Geelong,1945,17,Footscray,13,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-05-24
+Geelong,1945,18,North Melbourne,14,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-05-31
+Geelong,1945,19,South Melbourne,15,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-06-07
+Geelong,1945,20,Melbourne,16,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-06-14
+Geelong,1945,21,Hawthorn,17,L,2,,,,,,,,,,,,,,,,,,,,,,,,1945-06-21
+Geelong,1945,22,Carlton,19,L,2,,,,,1,,,,,,,,,,,,,,,,,,,1945-07-05
+Geelong,1945,23,St Kilda,20,W,2,,,,,,,,,,,,,,,,,,,,,,,,1945-07-12
+Geelong,1946,24,Melbourne,1,L,2,,,,,,,,,,,,,,,,,,,,,,,,1946-03-01

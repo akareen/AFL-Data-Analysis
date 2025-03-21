@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1980,1,South Melbourne,17,L,36,10,5,10,20,1,,,,,,,,3,4,,,,,,,,,,1980-06-21
+Melbourne,1980,2,North Melbourne,18,L,36,14,4,6,20,,,,,,,,,5,1,,,,,,,,,,1980-06-28
+Melbourne,1980,3,Hawthorn,19,L,36,12,1,3,15,,,,,,,,,2,2,,,,,,,,,,1980-07-05
+Melbourne,1981,4,Collingwood,5,L,36,16,3,7,23,,,,,,,,,2,1,,,,,,,,,,1981-03-29
+Melbourne,1981,5,Geelong,6,L,36,16,6,7,23,,1,,,,,,,2,1,,,,,,,,,,1981-04-05
+Melbourne,1981,6,South Melbourne,8,L,36,2,,1,3,,,,,,,,,,3,,,,,,,,,,1981-04-19
+Melbourne,1981,7,Essendon,9,L,36,10,3,4,14,,,,,,,,,3,3,,,,,,,,,,1981-04-26
+Melbourne,1981,8,South Melbourne,18,L,36,3,2,2,5,,1,,,,,,,1,,,,,,,,,,,1981-06-28

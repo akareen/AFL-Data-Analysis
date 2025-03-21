@@ -1,0 +1,61 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1906,1,Melbourne,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-19
+Carlton,1906,2,St Kilda,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-26
+Carlton,1906,3,Geelong,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-03
+Carlton,1906,4,Collingwood,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-10
+Carlton,1906,5,South Melbourne,12,L,,,,,,1,,,,,,,,,,,,,,,,,,,1906-05-17
+Carlton,1906,6,Fitzroy,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-24
+Carlton,1906,7,Essendon,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-31
+Carlton,1906,8,Essendon,15,W,,,,,,1,,,,,,,,,,,,,,,,,,,1906-06-07
+Carlton,1906,9,Geelong,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-06-14
+Carlton,1906,10,South Melbourne,17,W,,,,,,1,,,,,,,,,,,,,,,,,,,1906-06-21
+Carlton,1906,11,Collingwood,SF,W,,,,,,2,,,,,,,,,,,,,,,,,,,1906-03-01
+Carlton,1906,12,Fitzroy,GF,W,,,,,,1,,,,,,,,,,,,,,,,,,,1906-03-01
+Carlton,1907,13,St Kilda,1,L,,,,,,1,,,,,,,,,,,,,,,,,,,1907-03-01
+Carlton,1907,14,Geelong,2,W,,,,,,1,,,,,,,,,,,,,,,,,,,1907-03-08
+Carlton,1907,15,Melbourne,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-03-15
+Carlton,1907,16,South Melbourne,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-03-29
+Carlton,1907,17,Collingwood,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-04-05
+Carlton,1907,18,Essendon,7,W,,,,,,2,,,,,,,,,,,,,,,,,,,1907-04-12
+Carlton,1907,19,St Kilda,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-04-19
+Carlton,1907,20,Geelong,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-04-26
+Carlton,1907,21,Melbourne,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-05-03
+Carlton,1907,22,Fitzroy,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-05-10
+Carlton,1907,23,South Melbourne,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-05-17
+Carlton,1907,24,Collingwood,13,W,,,,,,1,,,,,,,,,,,,,,,,,,,1907-05-24
+Carlton,1907,25,Essendon,14,W,,,,,,1,,,,,,,,,,,,,,,,,,,1907-05-31
+Carlton,1907,26,South Melbourne,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-06-07
+Carlton,1907,27,Melbourne,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-06-21
+Carlton,1907,28,St Kilda,SF,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-03-01
+Carlton,1907,29,South Melbourne,GF,W,,,,,,1,,,,,,,,,,,,,,,,,,,1907-03-01
+Carlton,1908,30,St Kilda,1,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-03-01
+Carlton,1908,31,Melbourne,2,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-08
+Carlton,1908,32,Essendon,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-15
+Carlton,1908,33,Collingwood,4,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-03-22
+Carlton,1908,34,Fitzroy,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-29
+Carlton,1908,35,South Melbourne,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-04-05
+Carlton,1908,36,Geelong,7,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-04-12
+Carlton,1908,37,Richmond,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-04-19
+Carlton,1908,38,University,9,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-04-26
+Carlton,1908,39,St Kilda,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-03
+Carlton,1908,40,Essendon,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-17
+Carlton,1908,41,Collingwood,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-24
+Carlton,1908,42,Fitzroy,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-31
+Carlton,1908,43,South Melbourne,15,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-06-07
+Carlton,1908,44,Geelong,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-06-14
+Carlton,1908,45,Richmond,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-06-21
+Carlton,1908,46,University,18,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-06-28
+Carlton,1908,47,St Kilda,SF,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-01
+Carlton,1908,48,Essendon,GF,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-01
+Carlton,1909,49,University,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-01
+Carlton,1909,50,South Melbourne,11,W,,,,,,1,,,,,,,,,,,,,,,,,,,1909-05-10
+Carlton,1909,51,Collingwood,12,L,,,,,,1,,,,,,,,,,,,,,,,,,,1909-05-17
+Carlton,1909,52,Geelong,13,W,,,,,,4,,,,,,,,,,,,,,,,,,,1909-05-24
+Carlton,1909,53,Melbourne,14,W,,,,,,1,,,,,,,,,,,,,,,,,,,1909-05-31
+Carlton,1909,54,Fitzroy,15,W,,,,,,1,,,,,,,,,,,,,,,,,,,1909-06-07
+Carlton,1909,55,Richmond,16,W,,,,,,1,,,,,,,,,,,,,,,,,,,1909-06-14
+Carlton,1909,56,St Kilda,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-21
+Carlton,1909,57,Essendon,18,W,,,,,,1,,,,,,,,,,,,,,,,,,,1909-06-28
+Carlton,1909,58,Essendon,SF,W,,,,,,1,,,,,,,,,,,,,,,,,,,1909-03-01
+Carlton,1909,59,South Melbourne,PF,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-01
+Carlton,1909,60,South Melbourne,GF,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-01

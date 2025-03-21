@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1925,1,Hawthorn,9,W,11,,,,,2,,,,,,,,,,,,,,,,,,,1925-04-26
+South Melbourne,1925,2,Geelong,10,L,11,,,,,1,,,,,,,,,,,,,,,,,,,1925-05-03
+South Melbourne,1925,3,Carlton,12,W,11,,,,,,,,,,,,,,,,,,,,,,,,1925-05-17
+South Melbourne,1925,4,Footscray,13,W,11,,,,,5,,,,,,,,,,,,,,,,,,,1925-05-24
+South Melbourne,1925,5,North Melbourne,14,L,11,,,,,,,,,,,,,,,,,,,,,,,,1925-05-31
+South Melbourne,1925,6,Richmond,15,L,11,,,,,3,,,,,,,,,,,,,,,,,,,1925-06-07
+South Melbourne,1925,7,St Kilda,16,L,11,,,,,1,,,,,,,,,,,,,,,,,,,1925-06-14
+South Melbourne,1925,8,Collingwood,17,L,11,,,,,,,,,,,,,,,,,,,,,,,,1925-06-21

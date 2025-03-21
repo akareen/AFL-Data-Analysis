@@ -1,0 +1,54 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1951,1,North Melbourne,1,W,6,,,,,,,,,,,,,,,,,,,,,,,,1951-03-01
+Collingwood,1951,2,Melbourne,2,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1951-03-08
+Collingwood,1951,3,Essendon,4,L,6,,,,,,,,,,,,,,,,,,,,,,,,1951-03-22
+Collingwood,1951,4,Richmond,5,L,6,,,,,,,,,,,,,,,,,,,,,,,,1951-03-29
+Collingwood,1951,5,St Kilda,18,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1951-06-28
+Collingwood,1952,6,South Melbourne,10,W,35,,,,,,,,,,,,,,,,,,,,,,,,1952-05-03
+Collingwood,1952,7,Richmond,11,W,35,,,,,,,,,,,,,,,,,,,,,,,,1952-05-10
+Collingwood,1952,8,Geelong,12,L,35,,,,,,,,,,,,,,,,,,,,,,,,1952-05-17
+Collingwood,1952,9,Hawthorn,13,W,35,,,,,,,,,,,,,,,,,,,,,,,,1952-05-24
+Collingwood,1952,10,Fitzroy,14,L,35,,,,,,,,,,,,,,,,,,,,,,,,1952-05-31
+Collingwood,1952,11,Essendon,15,W,35,,,,,,,,,,,,,,,,,,,,,,,,1952-06-07
+Collingwood,1952,12,St Kilda,16,W,35,,,,,,,,,,,,,,,,,,,,,,,,1952-06-14
+Collingwood,1952,13,Carlton,17,L,35,,,,,,,,,,,,,,,,,,,,,,,,1952-06-21
+Collingwood,1952,14,Footscray,18,W,35,,,,,,,,,,,,,,,,,,,,,,,,1952-06-28
+Collingwood,1952,15,Melbourne,19,W,35,,,,,,,,,,,,,,,,,,,,,,,,1952-07-05
+Collingwood,1952,16,Geelong,SF,L,35,,,,,,,,,,,,,,,,,,,,,,,,1952-03-01
+Collingwood,1952,17,Fitzroy,PF,W,35,,,,,,,,,,,,,,,,,,,,,,,,1952-03-01
+Collingwood,1952,18,Geelong,GF,L,35,,,,,,,,,,,,,,,,,,,,,,,,1952-03-01
+Collingwood,1953,19,South Melbourne,1,W,5,,,,,,,,,,,,,,,,,,,,,,,,1953-03-01
+Collingwood,1953,20,North Melbourne,2,L,5,,,,,,,,,,,,,,,,,,,,,,,,1953-03-08
+Collingwood,1953,21,Geelong,3,L,5,,,,,,,,,,,,,,,,,,,,,,,,1953-03-15
+Collingwood,1953,22,Carlton,4,W,5,,,,,4,,,,,,,,,,,,,,,,,,,1953-03-22
+Collingwood,1953,23,Hawthorn,5,W,5,,,,,1,,,,,,,,,,,,,,,,,,,1953-03-29
+Collingwood,1953,24,Richmond,6,W,5,,,,,,,,,,,,,,,,,,,,,,,,1953-04-05
+Collingwood,1953,25,Footscray,7,W,5,,,,,,,,,,,,,,,,,,,,,,,,1953-04-12
+Collingwood,1953,26,Melbourne,9,W,5,,,,,,,,,,,,,,,,,,,,,,,,1953-04-26
+Collingwood,1953,27,Essendon,10,L,5,,,,,,,,,,,,,,,,,,,,,,,,1953-05-03
+Collingwood,1953,28,Fitzroy,11,L,5,,,,,1,,,,,,,,,,,,,,,,,,,1953-05-10
+Collingwood,1953,29,South Melbourne,12,W,5,,,,,,,,,,,,,,,,,,,,,,,,1953-05-17
+Collingwood,1953,30,North Melbourne,13,W,5,,,,,,,,,,,,,,,,,,,,,,,,1953-05-24
+Collingwood,1953,31,Geelong,14,W,5,,,,,,,,,,,,,,,,,,,,,,,,1953-05-31
+Collingwood,1953,32,Carlton,15,W,5,,,,,,,,,,,,,,,,,,,,,,,,1953-06-07
+Collingwood,1953,33,Hawthorn,16,W,5,,,,,,,,,,,,,,,,,,,,,,,,1953-06-14
+Collingwood,1953,34,Richmond,17,W,5,,,,,,,,,,,,,,,,,,,,,,,,1953-06-21
+Collingwood,1953,35,Footscray,18,W,5,,,,,,,,,,,,,,,,,,,,,,,,1953-06-28
+Collingwood,1953,36,Geelong,SF,W,5,,,,,,,,,,,,,,,,,,,,,,,,1953-03-01
+Collingwood,1953,37,Geelong,GF,W,5,,,,,,,,,,,,,,,,,,,,,,,,1953-03-01
+Collingwood,1954,38,Melbourne,1,W,5,,,,,,,,,,,,,,,,,,,,,,,,1954-03-01
+Collingwood,1954,39,Fitzroy,2,W,5,,,,,,,,,,,,,,,,,,,,,,,,1954-03-08
+Collingwood,1954,40,St Kilda,3,W,5,,,,,,,,,,,,,,,,,,,,,,,,1954-03-15
+Collingwood,1954,41,Essendon,4,W,5,,,,,,,,,,,,,,,,,,,,,,,,1954-03-22
+Collingwood,1954,42,South Melbourne,5,W,5,,,,,,,,,,,,,,,,,,,,,,,,1954-03-29
+Collingwood,1954,43,Geelong,6,L,5,,,,,,,,,,,,,,,,,,,,,,,,1954-04-05
+Collingwood,1954,44,Carlton,8,W,5,,,,,,,,,,,,,,,,,,,,,,,,1954-04-19
+Collingwood,1954,45,Hawthorn,10,W,5,,,,,,,,,,,,,,,,,,,,,,,,1954-05-03
+Collingwood,1954,46,Footscray,11,W,5,,,,,,,,,,,,,,,,,,,,,,,,1954-05-10
+Collingwood,1954,47,Melbourne,12,W,5,,,,,,,,,,,,,,,,,,,,,,,,1954-05-17
+Collingwood,1954,48,Fitzroy,13,L,5,,,,,,,,,,,,,,,,,,,,,,,,1954-05-24
+Collingwood,1954,49,St Kilda,14,W,5,,,,,,,,,,,,,,,,,,,,,,,,1954-05-31
+Collingwood,1954,50,Essendon,15,L,5,,,,,,,,,,,,,,,,,,,,,,,,1954-06-07
+Collingwood,1954,51,South Melbourne,16,L,5,,,,,,,,,,,,,,,,,,,,,,,,1954-06-14
+Collingwood,1954,52,Geelong,17,L,5,,,,,,,,,,,,,,,,,,,,,,,,1954-06-21
+Collingwood,1954,53,Richmond,18,L,5,,,,,,,,,,,,,,,,,,,,,,,,1954-06-28

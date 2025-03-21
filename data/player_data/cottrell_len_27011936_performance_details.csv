@@ -1,0 +1,13 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1958,1,Geelong,3,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1958-03-15
+Carlton,1958,2,St Kilda,4,L,32,,,,,,,,,,,,,,,,,,,,,,,,1958-03-22
+Carlton,1958,3,Collingwood,5,L,32,,,,,,,,,,,,,,,,,,,,,,,,1958-03-29
+Carlton,1958,4,North Melbourne,13,L,32,,,,,,,,,,,,,,,,,,,,,,,,1958-05-24
+Carlton,1959,5,Melbourne,5,W,32,,,,,,,,,,,,,,,,,,,,,,,,1959-03-29
+Carlton,1959,6,Hawthorn,6,W,32,,,,,,,,,,,,,,,,,,,,,,,,1959-04-05
+Carlton,1959,7,North Melbourne,7,W,32,,,,,,,,,,,,,,,,,,,,,,,,1959-04-12
+Carlton,1959,8,South Melbourne,9,L,32,,,,,,,,,,,,,,,,,,,,,,,,1959-04-26
+Carlton,1959,9,Fitzroy,10,L,32,,,,,1,,,,,,,,,,,,,,,,,,,1959-05-03
+Carlton,1959,10,St Kilda,11,W,32,,,,,,,,,,,,,,,,,,,,,,,,1959-05-10
+Carlton,1959,11,Hawthorn,17,W,32,,,,,,,,,,,,,,,,,,,,,,,,1959-06-21
+Carlton,1959,12,North Melbourne,18,W,32,,,,,,,,,,,,,,,,,,,,,,,,1959-06-28

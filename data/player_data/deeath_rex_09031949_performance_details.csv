@@ -1,0 +1,14 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1974,1,St Kilda,4,L,29,1,,1,2,,,,,,,,,1,1,,,,,,,,,,1974-03-22
+Geelong,1974,2,South Melbourne,9,L,29,,,,,,,,,,,,,,,,,,,,,,,,1974-04-26
+Geelong,1974,3,Fitzroy,11,W,29,1,,1,2,,,1,,,,,,,,,,,,,,,,,1974-05-10
+Geelong,1974,4,Footscray,12,W,29,,,,,,,,,,,,,,,,,,,,,,,,1974-05-17
+Geelong,1974,5,North Melbourne,18,W,29,6,6,7,13,,,,,,,,,,,,,,,,,,,,1974-06-28
+Geelong,1974,6,Collingwood,19,L,29,6,2,2,8,,,,,,,,,1,1,,,,,,,,,,1974-07-05
+Geelong,1975,7,Carlton,1,L,29,6,2,2,8,,,,,,,,,,2,,,,,,,,,,1975-03-01
+Geelong,1975,8,Richmond,2,L,29,8,6,6,14,,,,,,,,,1,,,,,,,,,,,1975-03-08
+Geelong,1975,9,Footscray,3,L,29,2,1,2,4,1,,,,,,,,,,,,,,,,,,,1975-03-15
+Geelong,1975,10,South Melbourne,9,L,29,5,5,7,12,1,,,,,,,,,3,,,,,,,,,,1975-04-26
+Geelong,1975,11,Melbourne,10,W,29,,,,,,,,,,,,,,,,,,,,,,,,1975-05-03
+Geelong,1975,12,South Melbourne,20,L,29,4,3,6,10,,,8,,,,,,3,1,,,,,,,,,,1975-07-12
+Geelong,1975,13,Fitzroy,22,W,29,8,6,5,13,,,8,,,,,,1,1,,,,,,,,,,1975-07-26

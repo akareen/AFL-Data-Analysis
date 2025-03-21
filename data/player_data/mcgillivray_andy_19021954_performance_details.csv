@@ -1,0 +1,7 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1977,1,St Kilda,2,W,27,8,5,1,9,,,,,,,,,,,,,,,,,,,,1977-03-08
+Geelong,1977,2,Hawthorn,3,L,27,5,3,3,8,1,,,,,,,,1,3,,,,,,,,,,1977-03-15
+Geelong,1977,3,North Melbourne,18,L,27,2,,,2,,1,,,,,,,,,,,,,,,,,,1977-06-28
+Geelong,1977,4,Essendon,19,W,27,10,2,2,12,2,1,,,,,,,2,5,,,,,,,,,,1977-07-05
+Geelong,1977,5,Richmond,20,L,27,8,2,1,9,1,1,,,,,,,2,2,,,,,,,,,,1977-07-12
+Geelong,1977,6,Footscray,21,L,27,,,,,,,,,,,,,2,,,,,,,,,,,1977-07-19

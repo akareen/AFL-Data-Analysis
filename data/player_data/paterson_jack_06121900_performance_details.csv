@@ -1,0 +1,24 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1920,1,Richmond,4,L,24,,,,,,,,,,,,,,,,,,,,,,,,1920-03-22
+Geelong,1920,2,Essendon,6,L,24,,,,,,,,,,,,,,,,,,,,,,,,1920-04-05
+Geelong,1924,3,Fitzroy,12,W,5,,,,,1,,,,,,,,,,,,,,,,,,,1924-05-17
+Geelong,1924,4,Essendon,13,L,5,,,,,,,,,,,,,,,,,,,,,,,,1924-05-24
+Geelong,1924,5,St Kilda,14,W,5,,,,,2,,,,,,,,,,,,,,,,,,,1924-05-31
+Geelong,1924,6,Melbourne,15,W,5,,,,,,,,,,,,,,,,,,,,,,,,1924-06-07
+Geelong,1924,7,Collingwood,16,W,5,,,,,2,,,,,,,,,,,,,,,,,,,1924-06-14
+Geelong,1924,8,Carlton,17,L,5,,,,,,,,,,,,,,,,,,,,,,,,1924-06-21
+Geelong,1924,9,South Melbourne,18,L,5,,,,,,,,,,,,,,,,,,,,,,,,1924-06-28
+Geelong,1925,10,Richmond,2,W,5,,,,,1,,,,,,,,,,,,,,,,,,,1925-03-08
+Geelong,1925,11,St Kilda,3,W,5,,,,,1,,,,,,,,,,,,,,,,,,,1925-03-15
+Geelong,1925,12,Collingwood,4,W,5,,,,,2,,,,,,,,,,,,,,,,,,,1925-03-22
+Geelong,1925,13,Carlton,5,W,5,,,,,,,,,,,,,,,,,,,,,,,,1925-03-29
+Geelong,1925,14,Footscray,6,W,5,,,,,,,,,,,,,,,,,,,,,,,,1925-04-05
+Geelong,1925,15,Hawthorn,7,W,5,,,,,,,,,,,,,,,,,,,,,,,,1925-04-12
+Geelong,1926,16,Footscray,1,W,5,,,,,1,,,,,,,,,,,,,,,,,,,1926-03-01
+Geelong,1926,17,St Kilda,2,W,5,,,,,,,,,,,,,,,,,,,,,,,,1926-03-08
+Geelong,1926,18,North Melbourne,4,W,5,,,,,,,,,,,,,,,,,,,,,,,,1926-03-22
+Geelong,1926,19,Richmond,6,W,5,,,,,,,,,,,,,,,,,,,,,,,,1926-04-05
+Geelong,1926,20,Essendon,7,W,5,,,,,,,,,,,,,,,,,,,,,,,,1926-04-12
+Geelong,1926,21,Hawthorn,8,W,5,,,,,,,,,,,,,,,,,,,,,,,,1926-04-19
+Geelong,1926,22,Fitzroy,9,W,5,,,,,,,,,,,,,,,,,,,,,,,,1926-04-26
+Geelong,1926,23,South Melbourne,11,L,5,,,,,,,,,,,,,,,,,,,,,,,,1926-05-10

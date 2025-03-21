@@ -1,0 +1,18 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1998,1,West Coast,13,L,17,12,8,3,15,,1,2,,1,1,,1,1,1,,,,,,,,,,1998-05-24
+Essendon,1998,2,North Melbourne,14,L,17,2,2,,2,,1,1,,,,,,,1,,,,,,,,,,1998-05-31
+Essendon,1999,3,Carlton,1,W,17,4,4,4,8,,,1,2,2,1,,,1,2,,2,6,1,,2,1,,,1999-03-01
+Essendon,1999,4,Kangaroos,2,W,17,2,,1,3,,,,,1,,,1,,,,1,1,,,1,,,,1999-03-08
+Essendon,1999,5,Fremantle,14,W,17,11,6,6,17,1,,,1,1,4,,4,2,2,,9,9,1,1,7,,,,1999-05-31
+Essendon,1999,6,Port Adelaide,15,L,17,3,2,3,6,,,,,,2,2,1,2,2,,3,3,1,,3,,,,1999-06-07
+Essendon,1999,7,Carlton,16,W,17,8,4,1,9,1,,2,2,3,2,,1,3,,,3,6,1,,,1,,,1999-06-14
+Essendon,1999,8,Kangaroos,17,W,17,5,1,2,7,,1,,1,1,3,,1,,,,,6,,,3,,,,1999-06-21
+Essendon,1999,9,Sydney,18,W,17,1,,3,4,,,2,3,,,1,1,1,,,3,2,,,,,,,1999-06-28
+Essendon,1999,10,Collingwood,20,W,17,,,1,1,,,3,,,,1,1,1,1,,1,,,,1,,,,1999-07-12
+Essendon,1999,11,Richmond,21,W,17,4,,,4,,1,3,1,1,,,1,2,,,3,1,,,1,,,,1999-07-19
+Essendon,2001,12,St Kilda,11,W,17,4,2,5,9,1,,13,3,1,2,2,1,1,,,6,3,,,1,,,,2001-05-10
+Essendon,2001,13,Adelaide,12,W,17,,,,,,,1,,,,,,,,,,,,,,,,,2001-05-17
+Essendon,2001,14,Western Bulldogs,14,W,17,7,5,4,11,,,11,1,1,5,1,,,1,,2,9,,,3,4,,,2001-05-31
+Essendon,2001,15,Geelong,15,W,17,6,4,6,12,1,,10,3,,,1,,3,,,4,9,,1,,1,,,2001-06-07
+Essendon,2001,16,Kangaroos,16,W,17,6,3,3,9,,1,6,1,,3,,,,,,2,6,,,1,,,,2001-06-14
+Essendon,2001,17,Sydney,19,W,17,2,1,,2,,,5,,1,,,1,,1,,,2,,,1,,,,2001-07-05

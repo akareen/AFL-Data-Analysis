@@ -1,0 +1,54 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+University,1912,1,Melbourne,11,L,9,,,,,,,,,,,,,,,,,,,,,,,,1912-05-10
+University,1912,2,Richmond,12,L,9,,,,,,,,,,,,,,,,,,,,,,,,1912-05-17
+University,1912,3,St Kilda,13,L,9,,,,,,,,,,,,,,,,,,,,,,,,1912-05-24
+University,1912,4,Fitzroy,14,L,9,,,,,,,,,,,,,,,,,,,,,,,,1912-05-31
+University,1912,5,South Melbourne,15,L,9,,,,,,,,,,,,,,,,,,,,,,,,1912-06-07
+University,1912,6,Collingwood,16,L,9,,,,,,,,,,,,,,,,,,,,,,,,1912-06-14
+University,1912,7,Geelong,17,L,9,,,,,,,,,,,,,,,,,,,,,,,,1912-06-21
+University,1912,8,Carlton,18,L,9,,,,,,,,,,,,,,,,,,,,,,,,1912-06-28
+University,1913,9,Fitzroy,1,L,22,,,,,,,,,,,,,,,,,,,,,,,,1913-03-01
+University,1913,10,Melbourne,2,L,22,,,,,,,,,,,,,,,,,,,,,,,,1913-03-08
+University,1913,11,St Kilda,3,L,22,,,,,1,,,,,,,,,,,,,,,,,,,1913-03-15
+University,1913,12,Geelong,4,L,22,,,,,,,,,,,,,,,,,,,,,,,,1913-03-22
+University,1913,13,Carlton,5,L,22,,,,,1,,,,,,,,,,,,,,,,,,,1913-03-29
+University,1913,14,South Melbourne,8,L,22,,,,,,,,,,,,,,,,,,,,,,,,1913-04-19
+University,1913,15,Richmond,9,L,22,,,,,,,,,,,,,,,,,,,,,,,,1913-04-26
+University,1913,16,Melbourne,11,L,22,,,,,,,,,,,,,,,,,,,,,,,,1913-05-10
+University,1913,17,St Kilda,12,L,22,,,,,,,,,,,,,,,,,,,,,,,,1913-05-17
+University,1913,18,Geelong,13,L,22,,,,,2,,,,,,,,,,,,,,,,,,,1913-05-24
+University,1913,19,Carlton,14,L,22,,,,,,,,,,,,,,,,,,,,,,,,1913-05-31
+University,1913,20,Essendon,16,L,22,,,,,2,,,,,,,,,,,,,,,,,,,1913-06-14
+University,1913,21,South Melbourne,17,L,22,,,,,,,,,,,,,,,,,,,,,,,,1913-06-21
+University,1913,22,Richmond,18,L,22,,,,,,,,,,,,,,,,,,,,,,,,1913-06-28
+University,1914,23,South Melbourne,1,L,4,,,,,2,,,,,,,,,,,,,,,,,,,1914-03-01
+University,1914,24,Essendon,2,L,4,,,,,,,,,,,,,,,,,,,,,,,,1914-03-08
+University,1914,25,Carlton,3,L,4,,,,,,,,,,,,,,,,,,,,,,,,1914-03-15
+University,1914,26,Geelong,4,L,4,,,,,,,,,,,,,,,,,,,,,,,,1914-03-22
+University,1914,27,St Kilda,9,L,4,,,,,2,,,,,,,,,,,,,,,,,,,1914-04-26
+University,1914,28,South Melbourne,10,L,4,,,,,1,,,,,,,,,,,,,,,,,,,1914-05-03
+University,1914,29,Essendon,11,L,4,,,,,,,,,,,,,,,,,,,,,,,,1914-05-10
+University,1914,30,Carlton,12,L,4,,,,,,,,,,,,,,,,,,,,,,,,1914-05-17
+University,1914,31,Geelong,13,L,4,,,,,,,,,,,,,,,,,,,,,,,,1914-05-24
+University,1914,32,Collingwood,14,L,4,,,,,1,,,,,,,,,,,,,,,,,,,1914-05-31
+University,1914,33,Richmond,15,L,4,,,,,2,,,,,,,,,,,,,,,,,,,1914-06-07
+University,1914,34,Melbourne,16,L,4,,,,,,,,,,,,,,,,,,,,,,,,1914-06-14
+University,1914,35,Fitzroy,17,L,4,,,,,3,,,,,,,,,,,,,,,,,,,1914-06-21
+University,1914,36,St Kilda,18,L,4,,,,,,,,,,,,,,,,,,,,,,,,1914-06-28
+Melbourne,1915,37,Richmond,1,W,27,,,,,,,,,,,,,,,,,,,,,,,,1915-03-01
+Melbourne,1915,38,Fitzroy,2,L,27,,,,,,,,,,,,,,,,,,,,,,,,1915-03-08
+Melbourne,1915,39,Geelong,3,W,27,,,,,,,,,,,,,,,,,,,,,,,,1915-03-15
+Melbourne,1915,40,Collingwood,4,L,27,,,,,,,,,,,,,,,,,,,,,,,,1915-03-22
+Melbourne,1915,41,Carlton,5,L,27,,,,,,,,,,,,,,,,,,,,,,,,1915-03-29
+Melbourne,1915,42,St Kilda,6,W,27,,,,,,,,,,,,,,,,,,,,,,,,1915-04-05
+Melbourne,1915,43,South Melbourne,7,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1915-04-12
+Melbourne,1915,44,Essendon,8,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1915-04-19
+Melbourne,1915,45,Richmond,10,W,27,,,,,,,,,,,,,,,,,,,,,,,,1915-05-03
+Melbourne,1915,46,Fitzroy,11,W,27,,,,,,,,,,,,,,,,,,,,,,,,1915-05-10
+Melbourne,1915,47,Geelong,12,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1915-05-17
+Melbourne,1915,48,Collingwood,13,L,27,,,,,,,,,,,,,,,,,,,,,,,,1915-05-24
+Melbourne,1915,49,Carlton,14,L,27,,,,,,,,,,,,,,,,,,,,,,,,1915-05-31
+Melbourne,1915,50,St Kilda,15,W,27,,,,,,,,,,,,,,,,,,,,,,,,1915-06-07
+Melbourne,1915,51,South Melbourne,16,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1915-06-14
+Melbourne,1915,52,Essendon,17,L,27,,,,,,,,,,,,,,,,,,,,,,,,1915-06-21
+Melbourne,1915,53,Carlton,SF,L,27,,,,,,,,,,,,,,,,,,,,,,,,1915-03-01

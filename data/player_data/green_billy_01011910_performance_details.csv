@@ -1,0 +1,7 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1932,1,Geelong,14,W,18,,,,,4,,,,,,,,,,,,,,,,,,,1932-05-31
+St Kilda,1932,2,Essendon,15,L,18,,,,,2,,,,,,,,,,,,,,,,,,,1932-06-07
+St Kilda,1932,3,Footscray,16,L,18,,,,,2,,,,,,,,,,,,,,,,,,,1932-06-14
+St Kilda,1932,4,North Melbourne,17,L,18,,,,,,,,,,,,,,,,,,,,,,,,1932-06-21
+St Kilda,1933,5,Fitzroy,14,L,45,,,,,,,,,,,,,,,,,,,,,,,,1933-05-31
+St Kilda,1933,6,South Melbourne,15,L,45,,,,,1,,,,,,,,,,,,,,,,,,,1933-06-07

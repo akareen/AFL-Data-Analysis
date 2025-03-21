@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1957,1,North Melbourne,1,W,12,,,,,,,,,,,,,,,,,,,,,,,,1957-03-01
+Richmond,1957,2,South Melbourne,3,L,12,,,,,,,,,,,,,,,,,,,,,,,,1957-03-15
+Richmond,1957,3,Fitzroy,4,W,12,,,,,,,,,,,,,,,,,,,,,,,,1957-03-22
+Richmond,1957,4,Carlton,5,L,12,,,,,,,,,,,,,,,,,,,,,,,,1957-03-29
+Richmond,1957,5,Collingwood,9,W,12,,,,,,,,,,,,,,,,,,,,,,,,1957-04-26
+Richmond,1957,6,Essendon,10,W,12,,,,,,,,,,,,,,,,,,,,,,,,1957-05-03
+Richmond,1957,7,Geelong,11,W,12,,,,,2,,,,,,,,,,,,,,,,,,,1957-05-10
+Richmond,1957,8,Hawthorn,13,W,12,,,,,,,,,,,,,,,,,,,,,,,,1957-05-24
+Richmond,1958,9,Geelong,5,W,12,,,,,,,,,,,,,,,,,,,,,,,,1958-03-29

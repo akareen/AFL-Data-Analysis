@@ -1,0 +1,24 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1933,1,Geelong,1,W,32,,,,,,,,,,,,,,,,,,,,,,,,1933-03-01
+Collingwood,1933,2,Fitzroy,2,L,32,,,,,,,,,,,,,,,,,,,,,,,,1933-03-08
+Collingwood,1933,3,Essendon,11,W,32,,,,,,,,,,,,,,,,,,,,,,,,1933-05-10
+Collingwood,1933,4,Richmond,15,W,32,,,,,2,,,,,,,,,,,,,,,,,,,1933-06-07
+Collingwood,1933,5,Carlton,16,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1933-06-14
+Collingwood,1933,6,North Melbourne,17,W,32,,,,,2,,,,,,,,,,,,,,,,,,,1933-06-21
+Collingwood,1933,7,Melbourne,18,W,32,,,,,,,,,,,,,,,,,,,,,,,,1933-06-28
+North Melbourne,1936,8,Geelong,2,L,1,,,,,,,,,,,,,,,,,,,,,,,,1936-03-08
+North Melbourne,1936,9,Richmond,3,L,1,,,,,1,,,,,,,,,,,,,,,,,,,1936-03-15
+North Melbourne,1936,10,South Melbourne,4,L,1,,,,,1,,,,,,,,,,,,,,,,,,,1936-03-22
+North Melbourne,1936,11,Melbourne,5,L,1,,,,,,,,,,,,,,,,,,,,,,,,1936-03-29
+North Melbourne,1936,12,St Kilda,6,L,1,,,,,,,,,,,,,,,,,,,,,,,,1936-04-05
+North Melbourne,1936,13,Carlton,8,W,1,,,,,,,,,,,,,,,,,,,,,,,,1936-04-19
+North Melbourne,1936,14,Collingwood,9,L,1,,,,,,,,,,,,,,,,,,,,,,,,1936-04-26
+North Melbourne,1936,15,Fitzroy,10,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1936-05-03
+North Melbourne,1936,16,Hawthorn,11,L,1,,,,,,,,,,,,,,,,,,,,,,,,1936-05-10
+North Melbourne,1936,17,Essendon,12,L,1,,,,,,,,,,,,,,,,,,,,,,,,1936-05-17
+North Melbourne,1936,18,Richmond,14,W,1,,,,,,,,,,,,,,,,,,,,,,,,1936-05-31
+North Melbourne,1936,19,Melbourne,16,L,1,,,,,,,,,,,,,,,,,,,,,,,,1936-06-14
+North Melbourne,1936,20,St Kilda,17,L,1,,,,,2,,,,,,,,,,,,,,,,,,,1936-06-21
+North Melbourne,1936,21,Footscray,18,L,1,,,,,1,,,,,,,,,,,,,,,,,,,1936-06-28
+North Melbourne,1937,22,Hawthorn,1,L,7,,,,,2,,,,,,,,,,,,,,,,,,,1937-03-01
+North Melbourne,1937,23,Footscray,5,L,7,,,,,1,,,,,,,,,,,,,,,,,,,1937-03-29

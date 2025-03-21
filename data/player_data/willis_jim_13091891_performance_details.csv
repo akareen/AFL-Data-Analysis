@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1914,1,Collingwood,1,D,9,,,,,,,,,,,,,,,,,,,,,,,,1914-03-01
+Carlton,1914,2,South Melbourne,4,D,9,,,,,,,,,,,,,,,,,,,,,,,,1914-03-22
+Carlton,1918,3,Collingwood,1,L,16,,,,,,,,,,,,,,,,,,,,,,,,1918-03-01
+Carlton,1918,4,Richmond,2,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1918-03-08
+Carlton,1918,5,St Kilda,3,W,16,,,,,,,,,,,,,,,,,,,,,,,,1918-03-15
+Carlton,1918,6,Essendon,4,W,16,,,,,,,,,,,,,,,,,,,,,,,,1918-03-22
+Carlton,1918,7,Collingwood,8,W,16,,,,,,,,,,,,,,,,,,,,,,,,1918-04-19
+Carlton,1918,8,Richmond,9,W,16,,,,,,,,,,,,,,,,,,,,,,,,1918-04-26
+Carlton,1918,9,St Kilda,10,L,16,,,,,,,,,,,,,,,,,,,,,,,,1918-05-03
+Carlton,1918,10,Essendon,11,W,16,,,,,,,,,,,,,,,,,,,,,,,,1918-05-10

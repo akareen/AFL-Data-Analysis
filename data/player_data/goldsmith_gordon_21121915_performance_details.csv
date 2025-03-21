@@ -1,0 +1,19 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1936,1,St Kilda,13,W,8,,,,,,,,,,,,,,,,,,,,,,,,1936-05-24
+South Melbourne,1942,2,Collingwood,1,W,28,,,,,1,,,,,,,,,,,,,,,,,,,1942-03-01
+South Melbourne,1942,3,Carlton,2,W,28,,,,,,,,,,,,,,,,,,,,,,,,1942-03-08
+South Melbourne,1942,4,St Kilda,3,W,28,,,,,1,,,,,,,,,,,,,,,,,,,1942-03-15
+South Melbourne,1942,5,North Melbourne,4,L,28,,,,,1,,,,,,,,,,,,,,,,,,,1942-03-22
+South Melbourne,1942,6,Melbourne,5,W,28,,,,,1,,,,,,,,,,,,,,,,,,,1942-03-29
+South Melbourne,1942,7,Fitzroy,6,L,28,,,,,,,,,,,,,,,,,,,,,,,,1942-04-05
+South Melbourne,1942,8,Richmond,7,W,28,,,,,1,,,,,,,,,,,,,,,,,,,1942-04-12
+South Melbourne,1942,9,Footscray,9,W,28,,,,,,,,,,,,,,,,,,,,,,,,1942-04-26
+South Melbourne,1942,10,Hawthorn,10,W,28,,,,,,,,,,,,,,,,,,,,,,,,1942-05-03
+South Melbourne,1942,11,Carlton,13,L,28,,,,,,,,,,,,,,,,,,,,,,,,1942-05-24
+South Melbourne,1942,12,St Kilda,14,W,28,,,,,,,,,,,,,,,,,,,,,,,,1942-05-31
+South Melbourne,1943,13,Melbourne,2,L,22,,,,,,,,,,,,,,,,,,,,,,,,1943-03-08
+Hawthorn,1943,14,Footscray,9,W,22,,,,,2,,,,,,,,,,,,,,,,,,,1943-04-26
+Hawthorn,1943,15,Carlton,10,L,22,,,,,1,,,,,,,,,,,,,,,,,,,1943-05-03
+Hawthorn,1943,16,Collingwood,11,W,22,,,,,,,,,,,,,,,,,,,,,,,,1943-05-10
+Hawthorn,1943,17,Essendon,12,L,22,,,,,,,,,,,,,,,,,,,,,,,,1943-05-17
+Hawthorn,1943,18,Richmond,14,W,22,,,,,,,,,,,,,,,,,,,,,,,,1943-05-31

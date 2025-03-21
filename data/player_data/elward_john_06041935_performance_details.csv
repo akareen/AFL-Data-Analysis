@@ -1,0 +1,17 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1958,1,South Melbourne,6,W,34,,,,,,,,,,,,,,,,,,,,,,,,1958-04-05
+Hawthorn,1958,2,Fitzroy,7,L,34,,,,,,,,,,,,,,,,,,,,,,,,1958-04-12
+Hawthorn,1958,3,Footscray,9,W,34,,,,,1,,,,,,,,,,,,,,,,,,,1958-04-26
+Hawthorn,1958,4,Geelong,10,W,34,,,,,2,,,,,,,,,,,,,,,,,,,1958-05-03
+Hawthorn,1958,5,Richmond,11,L,34,,,,,1,,,,,,,,,,,,,,,,,,,1958-05-10
+Hawthorn,1958,6,St Kilda,12,W,34,,,,,,,,,,,,,,,,,,,,,,,,1958-05-17
+Hawthorn,1959,7,Fitzroy,1,L,34,,,,,2,,,,,,,,,,,,,,,,,,,1959-03-01
+Hawthorn,1959,8,Carlton,6,L,34,,,,,,,,,,,,,,,,,,,,,,,,1959-04-05
+Hawthorn,1959,9,Richmond,7,W,34,,,,,,,,,,,,,,,,,,,,,,,,1959-04-12
+Hawthorn,1960,10,Melbourne,5,L,34,,,,,,,,,,,,,,,,,,,,,,,,1960-03-29
+Hawthorn,1960,11,South Melbourne,10,W,34,,,,,,,,,,,,,,,,,,,,,,,,1960-05-03
+Hawthorn,1960,12,Fitzroy,11,L,34,,,,,,,,,,,,,,,,,,,,,,,,1960-05-10
+Hawthorn,1960,13,Essendon,12,L,34,,,,,,,,,,,,,,,,,,,,,,,,1960-05-17
+Hawthorn,1960,14,Collingwood,13,W,34,,,,,,,,,,,,,,,,,,,,,,,,1960-05-24
+Hawthorn,1960,15,Footscray,14,W,34,,,,,1,,,,,,,,,,,,,,,,,,,1960-05-31
+Hawthorn,1960,16,Carlton,15,W,34,,,,,,,,,,,,,,,,,,,,,,,,1960-06-07

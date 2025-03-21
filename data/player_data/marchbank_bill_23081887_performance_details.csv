@@ -1,0 +1,25 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1908,1,Essendon,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-17
+Carlton,1908,2,Collingwood,13,W,,,,,,2,,,,,,,,,,,,,,,,,,,1908-05-24
+Carlton,1908,3,Fitzroy,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-31
+Fitzroy,1910,4,St Kilda,2,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-08
+Fitzroy,1910,5,Geelong,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-15
+Fitzroy,1910,6,Richmond,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-22
+Fitzroy,1910,7,Carlton,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-29
+Fitzroy,1910,8,Collingwood,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-05
+Fitzroy,1910,9,University,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-12
+Fitzroy,1910,10,South Melbourne,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-26
+Fitzroy,1910,11,Essendon,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-03
+Fitzroy,1910,12,St Kilda,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-10
+Fitzroy,1910,13,Geelong,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-17
+Fitzroy,1910,14,Richmond,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-24
+Fitzroy,1910,15,Carlton,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-31
+Fitzroy,1910,16,Collingwood,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-07
+Fitzroy,1911,17,Melbourne,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-01
+Fitzroy,1911,18,Collingwood,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-08
+Fitzroy,1911,19,Carlton,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-15
+Fitzroy,1911,20,St Kilda,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-22
+Fitzroy,1911,21,Geelong,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-29
+Fitzroy,1912,22,St Kilda,16,W,6,,,,,,,,,,,,,,,,,,,,,,,,1912-06-14
+Fitzroy,1912,23,Collingwood,17,W,6,,,,,,,,,,,,,,,,,,,,,,,,1912-06-21
+Fitzroy,1912,24,Essendon,18,L,6,,,,,,,,,,,,,,,,,,,,,,,,1912-06-28

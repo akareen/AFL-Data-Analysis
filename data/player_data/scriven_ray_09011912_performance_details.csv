@@ -1,0 +1,35 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1935,1,Hawthorn,9,W,25,,,,,,,,,,,,,,,,,,,,,,,,1935-04-26
+Richmond,1935,2,Collingwood,10,L,25,,,,,,,,,,,,,,,,,,,,,,,,1935-05-03
+Richmond,1935,3,St Kilda,11,L,25,,,,,,,,,,,,,,,,,,,,,,,,1935-05-10
+Richmond,1935,4,Footscray,12,W,25,,,,,,,,,,,,,,,,,,,,,,,,1935-05-17
+Richmond,1935,5,North Melbourne,13,W,25,,,,,,,,,,,,,,,,,,,,,,,,1935-05-24
+Richmond,1936,6,St Kilda,1,W,25,,,,,,,,,,,,,,,,,,,,,,,,1936-03-01
+Richmond,1936,7,Collingwood,2,L,25,,,,,,,,,,,,,,,,,,,,,,,,1936-03-08
+Richmond,1936,8,North Melbourne,3,W,25,,,,,,,,,,,,,,,,,,,,,,,,1936-03-15
+Richmond,1936,9,Carlton,4,W,25,,,,,,,,,,,,,,,,,,,,,,,,1936-03-22
+Richmond,1936,10,Hawthorn,5,W,25,,,,,,,,,,,,,,,,,,,,,,,,1936-03-29
+Richmond,1936,11,Geelong,6,W,25,,,,,,,,,,,,,,,,,,,,,,,,1936-04-05
+Richmond,1936,12,Essendon,7,W,25,,,,,,,,,,,,,,,,,,,,,,,,1936-04-12
+Richmond,1936,13,Fitzroy,8,W,25,,,,,,,,,,,,,,,,,,,,,,,,1936-04-19
+Richmond,1936,14,South Melbourne,9,W,25,,,,,,,,,,,,,,,,,,,,,,,,1936-04-26
+Richmond,1936,15,Footscray,10,W,25,,,,,,,,,,,,,,,,,,,,,,,,1936-05-03
+Richmond,1936,16,Melbourne,11,L,25,,,,,,,,,,,,,,,,,,,,,,,,1936-05-10
+Richmond,1936,17,Carlton,15,L,25,,,,,,,,,,,,,,,,,,,,,,,,1936-06-07
+Richmond,1936,18,Hawthorn,16,L,25,,,,,,,,,,,,,,,,,,,,,,,,1936-06-14
+Richmond,1936,19,Geelong,17,L,25,,,,,,,,,,,,,,,,,,,,,,,,1936-06-21
+Richmond,1936,20,Essendon,18,L,25,,,,,,,,,,,,,,,,,,,,,,,,1936-06-28
+Richmond,1937,21,Melbourne,1,L,25,,,,,2,,,,,,,,,,,,,,,,,,,1937-03-01
+Richmond,1937,22,Footscray,2,W,25,,,,,,,,,,,,,,,,,,,,,,,,1937-03-08
+Richmond,1937,23,South Melbourne,3,D,25,,,,,,,,,,,,,,,,,,,,,,,,1937-03-15
+Richmond,1937,24,Fitzroy,4,W,25,,,,,,,,,,,,,,,,,,,,,,,,1937-03-22
+Richmond,1937,25,Essendon,5,W,25,,,,,,,,,,,,,,,,,,,,,,,,1937-03-29
+Richmond,1937,26,Geelong,6,W,25,,,,,,,,,,,,,,,,,,,,,,,,1937-04-05
+Richmond,1937,27,North Melbourne,9,L,25,,,,,,,,,,,,,,,,,,,,,,,,1937-04-26
+Richmond,1937,28,Collingwood,10,L,25,,,,,,,,,,,,,,,,,,,,,,,,1937-05-03
+Richmond,1937,29,St Kilda,11,L,25,,,,,,,,,,,,,,,,,,,,,,,,1937-05-10
+Richmond,1937,30,Melbourne,12,W,25,,,,,,,,,,,,,,,,,,,,,,,,1937-05-17
+Richmond,1937,31,South Melbourne,14,W,25,,,,,,,,,,,,,,,,,,,,,,,,1937-05-31
+Richmond,1937,32,Essendon,16,W,25,,,,,,,,,,,,,,,,,,,,,,,,1937-06-14
+Richmond,1937,33,Collingwood,SF,L,25,,,,,,,,,,,,,,,,,,,,,,,,1937-03-01
+Richmond,1938,34,Hawthorn,5,L,25,,,,,,,,,,,,,,,,,,,,,,,,1938-03-29

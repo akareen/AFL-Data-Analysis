@@ -1,0 +1,14 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,2006,1,Essendon,6,W,29,7,3,,7,,1,,1,1,3,,4,,1,,,7,,1,1,2,,38,2006-04-05
+Richmond,2006,2,Sydney,7,L,29,1,,2,3,,,,,,,1,1,1,1,,3,,,,1,,,55,2006-04-12
+Richmond,2006,3,Port Adelaide,14,W,29,5,4,1,6,,,,,,,,2,,,,1,5,,,,,,36,2006-05-31
+Richmond,2006,4,Western Bulldogs,18,L,29,,1,1,1,,,,1,,,,1,,,,,1,,,,,,6,2006-06-28
+Richmond,2007,5,West Coast,5,L,29,9,7,,9,,,,2,,1,,1,,1,,1,8,,1,3,,1,73,2007-03-29
+Richmond,2007,6,Geelong,6,L,29,9,9,1,10,,,,1,,4,,6,,2,,3,9,,1,,1,,86,2007-04-05
+Richmond,2007,7,Port Adelaide,7,L,29,2,2,1,3,,,,2,,,,1,,1,,2,2,,,1,,,54,2007-04-12
+Richmond,2008,8,Melbourne,12,W,29,6,6,5,11,,,,1,2,,,,,,,1,10,,,1,2,,68,2008-05-17
+Richmond,2008,9,Port Adelaide,13,W,29,6,4,3,9,,,,1,1,,2,3,1,1,,3,7,,,1,1,,50,2008-05-24
+Richmond,2009,10,North Melbourne,5,W,22,9,9,2,11,,,,3,,1,,2,,,,1,10,1,4,2,,1,71,2009-03-29
+Richmond,2009,11,Sydney,6,L,22,7,6,5,12,1,,,2,,2,1,4,,1,,4,8,,1,2,3,,71,2009-04-05
+Richmond,2009,12,Brisbane Lions,7,L,22,9,9,4,13,,,,2,,3,,1,,,,2,11,1,,3,,,74,2009-04-12
+Richmond,2009,13,St Kilda,13,L,22,2,1,2,4,,,,,1,1,,2,,2,,2,2,,,,,,68,2009-05-24

@@ -1,0 +1,34 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1916,1,Collingwood,1,L,12,,,,,1,,,,,,,,,,,,,,,,,,,1916-03-01
+Richmond,1916,2,Fitzroy,2,L,12,,,,,,,,,,,,,,,,,,,,,,,,1916-03-08
+Richmond,1916,3,Carlton,3,L,12,,,,,,,,,,,,,,,,,,,,,,,,1916-03-15
+Richmond,1916,4,Collingwood,4,L,12,,,,,,,,,,,,,,,,,,,,,,,,1916-03-22
+Richmond,1916,5,Fitzroy,5,W,12,,,,,1,,,,,,,,,,,,,,,,,,,1916-03-29
+Richmond,1916,6,Carlton,6,L,12,,,,,,,,,,,,,,,,,,,,,,,,1916-04-05
+Richmond,1916,7,Collingwood,7,W,12,,,,,,,,,,,,,,,,,,,,,,,,1916-04-12
+Richmond,1916,8,Fitzroy,8,W,12,,,,,,,,,,,,,,,,,,,,,,,,1916-04-19
+Richmond,1916,9,Carlton,9,L,12,,,,,,,,,,,,,,,,,,,,,,,,1916-04-26
+Richmond,1916,10,Collingwood,10,W,12,,,,,1,,,,,,,,,,,,,,,,,,,1916-05-03
+Richmond,1916,11,Fitzroy,11,W,12,,,,,,,,,,,,,,,,,,,,,,,,1916-05-10
+Richmond,1916,12,Carlton,12,L,12,,,,,,,,,,,,,,,,,,,,,,,,1916-05-17
+Richmond,1916,13,Carlton,SF,L,12,,,,,,,,,,,,,,,,,,,,,,,,1916-03-01
+Richmond,1917,14,South Melbourne,2,L,12,,,,,,,,,,,,,,,,,,,,,,,,1917-03-08
+Richmond,1917,15,Geelong,3,W,12,,,,,2,,,,,,,,,,,,,,,,,,,1917-03-15
+Richmond,1917,16,Fitzroy,4,L,12,,,,,,,,,,,,,,,,,,,,,,,,1917-03-22
+Richmond,1917,17,Carlton,5,L,12,,,,,,,,,,,,,,,,,,,,,,,,1917-03-29
+Richmond,1917,18,Collingwood,6,D,12,,,,,,,,,,,,,,,,,,,,,,,,1917-04-05
+Richmond,1917,19,South Melbourne,7,L,12,,,,,,,,,,,,,,,,,,,,,,,,1917-04-12
+Richmond,1917,20,Geelong,8,L,12,,,,,,,,,,,,,,,,,,,,,,,,1917-04-19
+Richmond,1917,21,Fitzroy,9,W,12,,,,,1,,,,,,,,,,,,,,,,,,,1917-04-26
+Richmond,1917,22,Carlton,10,L,12,,,,,2,,,,,,,,,,,,,,,,,,,1917-05-03
+Richmond,1917,23,Collingwood,11,L,12,,,,,,,,,,,,,,,,,,,,,,,,1917-05-10
+Richmond,1917,24,Geelong,13,L,12,,,,,,,,,,,,,,,,,,,,,,,,1917-05-24
+Richmond,1917,25,Fitzroy,14,W,12,,,,,,,,,,,,,,,,,,,,,,,,1917-05-31
+Richmond,1917,26,Carlton,15,L,12,,,,,1,,,,,,,,,,,,,,,,,,,1917-06-07
+Richmond,1918,27,Collingwood,4,L,12,,,,,1,,,,,,,,,,,,,,,,,,,1918-03-22
+Richmond,1918,28,Geelong,5,W,12,,,,,3,,,,,,,,,,,,,,,,,,,1918-03-29
+Richmond,1918,29,St Kilda,6,L,12,,,,,,,,,,,,,,,,,,,,,,,,1918-04-05
+Richmond,1918,30,Fitzroy,10,L,12,,,,,,,,,,,,,,,,,,,,,,,,1918-05-03
+Richmond,1918,31,Geelong,12,W,12,,,,,,,,,,,,,,,,,,,,,,,,1918-05-17
+Richmond,1918,32,St Kilda,13,L,12,,,,,,,,,,,,,,,,,,,,,,,,1918-05-24
+Richmond,1918,33,South Melbourne,14,L,12,,,,,,,,,,,,,,,,,,,,,,,,1918-05-31

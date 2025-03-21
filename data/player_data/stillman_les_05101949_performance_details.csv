@@ -1,0 +1,28 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1968,1,St Kilda,19,D,43,,,,,,,,,,,,,,,,,,,,,,,,1968-07-05
+Essendon,1969,2,Geelong,2,D,23,9,2,3,12,,2,,,,,,,1,3,,,,,,,,,,1969-03-08
+Essendon,1969,3,North Melbourne,5,W,23,1,,,1,1,,,,,,,,,,,,,,,,,,,1969-03-29
+Essendon,1969,4,Fitzroy,6,W,23,1,,,1,,,,,,,,,,,,,,,,,,,,1969-04-05
+Essendon,1969,5,Footscray,8,W,23,15,6,5,20,,2,,,,,,,1,3,,,,,,,,,,1969-04-19
+Essendon,1969,6,Carlton,9,L,23,15,6,2,17,1,1,,,,,,,5,3,,,,,,,,,,1969-04-26
+Essendon,1969,7,South Melbourne,10,W,23,21,8,1,22,3,3,,,,,,,2,2,,,,,,,,,,1969-05-03
+Essendon,1969,8,Collingwood,11,L,23,14,2,4,18,,3,,,,,,,,3,,,,,,,,,,1969-05-10
+Essendon,1969,9,Richmond,12,W,23,12,4,4,16,,1,,,,,,,1,1,,,,,,,,,,1969-05-17
+Essendon,1969,10,Geelong,13,W,23,14,3,2,16,,3,,,,,,,1,5,,,,,,,,,,1969-05-24
+Essendon,1969,11,Hawthorn,14,L,23,15,4,3,18,2,1,,,,,,,1,2,,,,,,,,,,1969-05-31
+Essendon,1969,12,Melbourne,15,W,23,23,7,,23,5,3,,,,,,,4,4,,,,,,,,,,1969-06-07
+Essendon,1969,13,North Melbourne,16,L,23,12,3,1,13,2,1,,,,,,,3,1,,,,,,,,,,1969-06-14
+Essendon,1969,14,Fitzroy,17,W,23,4,1,1,5,,,,,,,,,3,4,,,,,,,,,,1969-06-21
+Essendon,1970,15,Carlton,1,L,23,14,4,,14,6,1,,,,,,,3,1,,,,,,,,,,1970-03-01
+Essendon,1970,16,Footscray,2,L,23,12,5,2,14,3,,,,,,,,3,2,,,,,,,,,,1970-03-08
+Essendon,1970,17,South Melbourne,3,W,23,10,3,2,12,2,1,,,,,,,2,4,,,,,,,,,,1970-03-15
+Essendon,1970,18,Hawthorn,4,W,23,12,2,3,15,3,2,,,,,,,,2,,,,,,,,,,1970-03-22
+Essendon,1970,19,Geelong,5,L,23,14,3,2,16,,3,,,,,,,1,2,,,,,,,,,,1970-03-29
+Essendon,1970,20,Melbourne,6,L,23,8,3,4,12,1,2,,,,,,,1,3,,,,,,,,,,1970-04-05
+Essendon,1970,21,North Melbourne,7,L,23,13,5,6,19,2,3,,,,,,,2,1,,,,,,,,,,1970-04-12
+Essendon,1970,22,Collingwood,9,W,23,10,1,5,15,,3,,,,,,,6,,,,,,,,,,,1970-04-26
+Essendon,1970,23,Richmond,10,L,23,8,,2,10,1,,,,,,,,3,1,,,,,,,,,,1970-05-03
+Essendon,1970,24,Hawthorn,15,L,23,3,2,,3,,,,,,,,,,2,,,,,,,,,,1970-06-07
+Footscray,1971,25,Essendon,8,W,28,10,1,3,13,1,2,,,,,,,2,1,,,,,,,,,,1971-04-19
+Footscray,1971,26,Fitzroy,9,L,28,6,1,,6,,,,,,,,,1,1,,,,,,,,,,1971-04-26
+Footscray,1971,27,Geelong,10,W,28,1,,2,3,,,,,,,,,,1,,,,,,,,,,1971-05-03

@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1920,1,Melbourne,11,W,10,,,,,,,,,,,,,,,,,,,,,,,,1920-05-10
+Essendon,1920,2,St Kilda,13,L,10,,,,,,,,,,,,,,,,,,,,,,,,1920-05-24
+Essendon,1920,3,Richmond,18,L,10,,,,,,,,,,,,,,,,,,,,,,,,1920-06-28
+Essendon,1921,4,Melbourne,1,D,10,,,,,3,,,,,,,,,,,,,,,,,,,1921-03-01
+Essendon,1921,5,Geelong,2,L,10,,,,,,,,,,,,,,,,,,,,,,,,1921-03-08
+Essendon,1921,6,South Melbourne,3,W,10,,,,,,,,,,,,,,,,,,,,,,,,1921-03-15
+Essendon,1921,7,Collingwood,4,L,10,,,,,,,,,,,,,,,,,,,,,,,,1921-03-22
+Essendon,1921,8,Carlton,6,L,10,,,,,,,,,,,,,,,,,,,,,,,,1921-04-05

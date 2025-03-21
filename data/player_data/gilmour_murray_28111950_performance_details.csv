@@ -1,0 +1,8 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1975,1,Essendon,6,W,19,9,2,2,11,,,,,,,,,4,2,,,,,,,,,,1975-04-05
+Geelong,1975,2,St Kilda,7,W,19,6,2,2,8,,,,,,,,,,4,,,,,,,,,,1975-04-12
+Geelong,1975,3,Hawthorn,8,L,19,10,3,2,12,,,,,,,,,1,1,,,,,,,,,,1975-04-19
+Geelong,1975,4,Melbourne,10,W,19,9,4,4,13,,,,,,,,,2,,,,,,,,,,,1975-05-03
+Geelong,1975,5,Fitzroy,11,W,19,,,,,,,,,,,,,,,,,,,,,,,,1975-05-10
+Geelong,1975,6,South Melbourne,20,L,19,10,4,4,14,,,1,,,,,,2,1,,,,,,,,,,1975-07-12
+Geelong,1975,7,Melbourne,21,W,19,10,1,,10,,,,,,,,,2,3,,,,,,,,,,1975-07-19

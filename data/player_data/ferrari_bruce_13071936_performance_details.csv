@@ -1,0 +1,59 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1955,1,Footscray,5,W,18,,,,,,,,,,,,,,,,,,,,,,,,1955-03-29
+Geelong,1955,2,St Kilda,6,W,18,,,,,,,,,,,,,,,,,,,,,,,,1955-04-05
+Geelong,1955,3,Carlton,7,W,18,,,,,,,,,,,,,,,,,,,,,,,,1955-04-12
+Geelong,1955,4,Essendon,10,W,18,,,,,,,,,,,,,,,,,,,,,,,,1955-05-03
+Geelong,1955,5,Hawthorn,11,W,18,,,,,1,,,,,,,,,,,,,,,,,,,1955-05-10
+Geelong,1955,6,Melbourne,13,W,18,,,,,,,,,,,,,,,,,,,,,,,,1955-05-24
+Geelong,1955,7,Richmond,14,L,18,,,,,,,,,,,,,,,,,,,,,,,,1955-05-31
+Geelong,1955,8,Fitzroy,15,W,18,,,,,,,,,,,,,,,,,,,,,,,,1955-06-07
+Geelong,1956,9,South Melbourne,1,W,18,,,,,2,,,,,,,,,,,,,,,,,,,1956-03-01
+Geelong,1956,10,North Melbourne,2,W,18,,,,,3,,,,,,,,,,,,,,,,,,,1956-03-08
+Geelong,1956,11,Hawthorn,3,W,18,,,,,3,,,,,,,,,,,,,,,,,,,1956-03-15
+Geelong,1956,12,Richmond,4,W,18,,,,,2,,,,,,,,,,,,,,,,,,,1956-03-22
+Geelong,1956,13,Melbourne,5,L,18,,,,,,,,,,,,,,,,,,,,,,,,1956-03-29
+Geelong,1956,14,Collingwood,6,L,18,,,,,,,,,,,,,,,,,,,,,,,,1956-04-05
+Geelong,1956,15,Essendon,7,W,18,,,,,2,,,,,,,,,,,,,,,,,,,1956-04-12
+Geelong,1956,16,Fitzroy,8,W,18,,,,,,,,,,,,,,,,,,,,,,,,1956-04-19
+Geelong,1956,17,Carlton,9,W,18,,,,,2,,,,,,,,,,,,,,,,,,,1956-04-26
+Geelong,1956,18,Footscray,10,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1956-05-03
+Geelong,1956,19,St Kilda,11,W,18,,,,,,,,,,,,,,,,,,,,,,,,1956-05-10
+Geelong,1956,20,South Melbourne,12,W,18,,,,,1,,,,,,,,,,,,,,,,,,,1956-05-17
+Geelong,1956,21,North Melbourne,13,W,18,,,,,,,,,,,,,,,,,,,,,,,,1956-05-24
+Geelong,1956,22,Hawthorn,14,W,18,,,,,1,,,,,,,,,,,,,,,,,,,1956-05-31
+Geelong,1956,23,Richmond,15,W,18,,,,,1,,,,,,,,,,,,,,,,,,,1956-06-07
+Geelong,1956,24,Melbourne,16,W,18,,,,,2,,,,,,,,,,,,,,,,,,,1956-06-14
+Geelong,1956,25,Collingwood,17,L,18,,,,,,,,,,,,,,,,,,,,,,,,1956-06-21
+Geelong,1956,26,Essendon,18,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1956-06-28
+Geelong,1956,27,Footscray,SF,L,18,,,,,,,,,,,,,,,,,,,,,,,,1956-03-01
+Geelong,1957,28,Footscray,1,D,18,,,,,,,,,,,,,,,,,,,,,,,,1957-03-01
+Geelong,1957,29,North Melbourne,2,W,18,,,,,,,,,,,,,,,,,,,,,,,,1957-03-08
+Geelong,1957,30,Collingwood,3,L,18,,,,,,,,,,,,,,,,,,,,,,,,1957-03-15
+Geelong,1957,31,Carlton,4,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1957-03-22
+Geelong,1957,32,Hawthorn,5,W,18,,,,,,,,,,,,,,,,,,,,,,,,1957-03-29
+Geelong,1957,33,St Kilda,6,W,18,,,,,,,,,,,,,,,,,,,,,,,,1957-04-05
+Geelong,1957,34,Fitzroy,7,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1957-04-12
+Geelong,1957,35,Essendon,8,L,18,,,,,3,,,,,,,,,,,,,,,,,,,1957-04-19
+Geelong,1957,36,Melbourne,9,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1957-04-26
+Geelong,1957,37,South Melbourne,10,L,18,,,,,4,,,,,,,,,,,,,,,,,,,1957-05-03
+Geelong,1957,38,Richmond,11,L,18,,,,,,,,,,,,,,,,,,,,,,,,1957-05-10
+Geelong,1957,39,Collingwood,14,L,18,,,,,,,,,,,,,,,,,,,,,,,,1957-05-31
+Geelong,1957,40,St Kilda,17,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1957-06-21
+Geelong,1957,41,Fitzroy,18,L,18,,,,,,,,,,,,,,,,,,,,,,,,1957-06-28
+Geelong,1958,42,Carlton,3,L,18,,,,,2,,,,,,,,,,,,,,,,,,,1958-03-15
+Geelong,1958,43,South Melbourne,4,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1958-03-22
+Geelong,1958,44,Richmond,5,L,18,,,,,,,,,,,,,,,,,,,,,,,,1958-03-29
+Geelong,1958,45,Footscray,6,W,18,,,,,,,,,,,,,,,,,,,,,,,,1958-04-05
+Geelong,1958,46,St Kilda,7,W,18,,,,,,,,,,,,,,,,,,,,,,,,1958-04-12
+Geelong,1958,47,North Melbourne,8,L,18,,,,,,,,,,,,,,,,,,,,,,,,1958-04-19
+Geelong,1959,48,North Melbourne,1,L,18,,,,,2,,,,,,,,,,,,,,,,,,,1959-03-01
+Geelong,1959,49,Hawthorn,2,L,18,,,,,,,,,,,,,,,,,,,,,,,,1959-03-08
+Geelong,1959,50,South Melbourne,11,L,18,,,,,,,,,,,,,,,,,,,,,,,,1959-05-10
+Geelong,1959,51,North Melbourne,12,L,18,,,,,,,,,,,,,,,,,,,,,,,,1959-05-17
+Geelong,1959,52,Hawthorn,13,W,18,,,,,1,,,,,,,,,,,,,,,,,,,1959-05-24
+Geelong,1960,53,Footscray,1,L,18,,,,,,,,,,,,,,,,,,,,,,,,1960-03-01
+Geelong,1960,54,South Melbourne,2,W,18,,,,,1,,,,,,,,,,,,,,,,,,,1960-03-08
+Geelong,1960,55,Fitzroy,3,W,18,,,,,1,,,,,,,,,,,,,,,,,,,1960-03-15
+Geelong,1960,56,Collingwood,11,L,18,,,,,,,,,,,,,,,,,,,,,,,,1960-05-10
+Geelong,1960,57,Carlton,17,L,18,,,,,,,,,,,,,,,,,,,,,,,,1960-06-21
+Geelong,1960,58,Hawthorn,18,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1960-06-28

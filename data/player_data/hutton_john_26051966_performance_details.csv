@@ -1,0 +1,37 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Brisbane Bears,1992,1,Carlton,1,L,11,12,4,1,13,3,2,1,,,,,,2,,,,,,,,,,,1992-03-01
+Brisbane Bears,1992,2,Collingwood,2,L,11,4,,2,6,1,,1,,,,,,,1,,,,,,,,,,1992-03-08
+Brisbane Bears,1992,3,Fitzroy,3,W,11,2,1,1,3,1,1,1,,,,,,1,1,,,,,,,,,,1992-03-15
+Brisbane Bears,1992,4,West Coast,5,D,11,12,9,3,15,3,,1,3,,,,,1,1,,,,,,,,,,1992-03-29
+Brisbane Bears,1992,5,Adelaide,6,L,11,12,3,1,13,2,2,1,,,,,,5,3,,,,,,,,,,1992-04-05
+Brisbane Bears,1992,6,Geelong,7,L,11,11,6,4,15,8,,,,,,,,2,1,,,,,,,,,,1992-04-12
+Brisbane Bears,1992,7,Sydney,8,L,11,5,2,3,8,2,1,1,,,,,,,1,,,,,,,,,,1992-04-19
+Brisbane Bears,1992,8,St Kilda,10,L,11,11,7,2,13,2,1,,1,,,,,,2,,,,,,,,,,1992-05-03
+Brisbane Bears,1992,9,Richmond,11,L,11,8,7,3,11,3,2,,1,,,,,,,,,,,,,,,,1992-05-10
+Brisbane Bears,1992,10,Melbourne,12,W,11,13,7,3,16,3,1,1,2,,,,,2,2,,,,,,,,,,1992-05-17
+Brisbane Bears,1992,11,North Melbourne,14,L,11,13,6,6,19,,1,,2,,,,,2,4,,,,,,,,,,1992-05-31
+Brisbane Bears,1992,12,Hawthorn,15,L,11,13,7,,13,2,1,3,1,,,,,1,1,,,,,,,,,,1992-06-07
+Brisbane Bears,1992,13,Carlton,16,L,11,11,1,1,12,2,,,,,,,,2,1,,,,,,,,,,1992-06-14
+Brisbane Bears,1992,14,Collingwood,17,L,11,4,1,,4,2,2,,,,,,,3,1,,,,,,,,,,1992-06-21
+Brisbane Bears,1992,15,Fitzroy,18,W,11,7,4,3,10,,,2,3,,,,,2,,,,,,,,,,,1992-06-28
+Brisbane Bears,1992,16,West Coast,20,L,11,8,1,,8,,,,3,,,,,2,1,,,,,,,,,,1992-07-12
+Brisbane Bears,1992,17,Sydney,23,W,11,11,5,1,12,8,,,1,,,,,1,1,2,,,,,,,,,1992-08-02
+Brisbane Bears,1992,18,Footscray,24,L,11,9,4,2,11,1,1,,,,,,,,2,,,,,,,,,,1992-08-09
+Sydney,1993,19,Hawthorn,2,L,20,8,4,,8,2,2,,,,,,,3,,,,,,,,,,,1993-03-08
+Sydney,1993,20,Fitzroy,5,L,20,9,3,3,12,,,1,2,,,,,4,,,,,,,,,,,1993-03-29
+Sydney,1993,21,North Melbourne,6,L,20,9,6,,9,4,,,2,,,,,1,2,,,,,,,,,,1993-04-05
+Sydney,1993,22,Richmond,10,L,20,5,3,,5,3,1,,2,,,,,1,1,,,,,,,,,,1993-05-03
+Sydney,1993,23,West Coast,11,L,20,6,3,4,10,,2,,,,,,,1,2,,,,,,,,,,1993-05-10
+Fremantle,1995,24,Fitzroy,3,W,16,4,3,,4,2,1,,,,,,,,2,,,,,,,,,,1995-03-15
+Fremantle,1995,25,Geelong,4,W,16,1,,,1,,1,,1,,,,,,1,,,,,,,,,,1995-03-22
+Fremantle,1995,26,Footscray,5,L,16,9,5,,9,2,5,,1,,,,,,,,,,,,,,,,1995-03-29
+Fremantle,1995,27,Sydney,6,W,16,15,8,,15,8,5,,2,,,,,3,,,,,,,,,,,1995-04-05
+Fremantle,1995,28,West Coast,7,L,16,10,2,2,12,2,3,,,,,,,2,1,,,,,,,,,,1995-04-12
+Fremantle,1995,29,Collingwood,8,L,16,7,4,2,9,3,1,,2,,,,,1,,,,,,,,,,,1995-04-19
+Fremantle,1995,30,Brisbane Bears,9,W,16,6,2,3,9,2,2,,2,,,,,1,1,,,,,,,,,,1995-04-26
+Fremantle,1995,31,St Kilda,10,W,16,6,5,4,10,1,1,,1,,,,,,1,,,,,,,,,,1995-05-03
+Fremantle,1995,32,North Melbourne,11,L,16,4,1,6,10,2,1,,2,,,,,1,,,,,,,,,,,1995-05-10
+Fremantle,1995,33,Melbourne,14,L,16,7,3,,7,1,2,,1,,,,,2,2,,,,,,,,,,1995-05-31
+Fremantle,1995,34,Hawthorn,15,L,16,9,6,1,10,3,4,1,,,,,,,,,,,,,,,,,1995-06-07
+Fremantle,1995,35,Richmond,16,L,16,6,2,1,7,1,2,1,2,,,,,2,2,,,,,,,,,,1995-06-14
+Fremantle,1995,36,Essendon,17,L,16,6,3,1,7,,1,,1,,,,,1,1,,,,,,,,,,1995-06-21

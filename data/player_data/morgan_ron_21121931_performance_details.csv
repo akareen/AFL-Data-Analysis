@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1954,1,Geelong,1,L,21,,,,,2,,,,,,,,,,,,,,,,,,,1954-03-01
+Fitzroy,1954,2,Collingwood,2,L,21,,,,,1,,,,,,,,,,,,,,,,,,,1954-03-08
+Fitzroy,1954,3,North Melbourne,3,L,21,,,,,2,,,,,,,,,,,,,,,,,,,1954-03-15
+Fitzroy,1954,4,Melbourne,4,L,21,,,,,,,,,,,,,,,,,,,,,,,,1954-03-22
+Fitzroy,1954,5,St Kilda,5,D,21,,,,,,,,,,,,,,,,,,,,,,,,1954-03-29
+Fitzroy,1954,6,Carlton,6,L,21,,,,,1,,,,,,,,,,,,,,,,,,,1954-04-05
+Fitzroy,1954,7,Richmond,9,L,21,,,,,1,,,,,,,,,,,,,,,,,,,1954-04-26
+Fitzroy,1954,8,South Melbourne,10,W,21,,,,,1,,,,,,,,,,,,,,,,,,,1954-05-03

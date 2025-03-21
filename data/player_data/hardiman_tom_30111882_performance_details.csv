@@ -1,0 +1,32 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1907,1,Fitzroy,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-03-15
+Geelong,1907,2,St Kilda,4,L,,,,,,1,,,,,,,,,,,,,,,,,,,1907-03-22
+Geelong,1907,3,Melbourne,5,W,,,,,,1,,,,,,,,,,,,,,,,,,,1907-03-29
+Geelong,1907,4,South Melbourne,6,L,,,,,,2,,,,,,,,,,,,,,,,,,,1907-04-05
+Geelong,1907,5,Collingwood,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-04-12
+Geelong,1907,6,Essendon,8,W,,,,,,1,,,,,,,,,,,,,,,,,,,1907-04-19
+Geelong,1907,7,Carlton,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-04-26
+Geelong,1907,8,Fitzroy,10,W,,,,,,3,,,,,,,,,,,,,,,,,,,1907-05-03
+Geelong,1907,9,St Kilda,11,W,,,,,,2,,,,,,,,,,,,,,,,,,,1907-05-10
+Geelong,1907,10,Melbourne,12,L,,,,,,2,,,,,,,,,,,,,,,,,,,1907-05-17
+Geelong,1907,11,South Melbourne,13,L,,,,,,2,,,,,,,,,,,,,,,,,,,1907-05-24
+Geelong,1907,12,Collingwood,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-05-31
+Geelong,1907,13,Fitzroy,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-06-07
+Geelong,1908,14,Collingwood,1,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-03-01
+Geelong,1908,15,South Melbourne,2,L,,,,,,1,,,,,,,,,,,,,,,,,,,1908-03-08
+Geelong,1908,16,Melbourne,3,L,,,,,,1,,,,,,,,,,,,,,,,,,,1908-03-15
+Geelong,1908,17,Fitzroy,4,L,,,,,,2,,,,,,,,,,,,,,,,,,,1908-03-22
+Geelong,1908,18,Richmond,5,L,,,,,,2,,,,,,,,,,,,,,,,,,,1908-03-29
+Geelong,1908,19,St Kilda,6,L,,,,,,1,,,,,,,,,,,,,,,,,,,1908-04-05
+Geelong,1908,20,Carlton,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-04-12
+Geelong,1908,21,University,8,L,,,,,,1,,,,,,,,,,,,,,,,,,,1908-04-19
+Geelong,1908,22,Essendon,9,L,,,,,,2,,,,,,,,,,,,,,,,,,,1908-04-26
+Geelong,1908,23,Collingwood,10,L,,,,,,2,,,,,,,,,,,,,,,,,,,1908-05-03
+Geelong,1908,24,South Melbourne,11,L,,,,,,1,,,,,,,,,,,,,,,,,,,1908-05-10
+Geelong,1908,25,Melbourne,12,L,,,,,,5,,,,,,,,,,,,,,,,,,,1908-05-17
+Geelong,1908,26,Fitzroy,13,L,,,,,,2,,,,,,,,,,,,,,,,,,,1908-05-24
+Geelong,1908,27,Richmond,14,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-05-31
+Geelong,1908,28,St Kilda,15,L,,,,,,1,,,,,,,,,,,,,,,,,,,1908-06-07
+Geelong,1908,29,Carlton,16,L,,,,,,1,,,,,,,,,,,,,,,,,,,1908-06-14
+Geelong,1908,30,University,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-06-21
+Geelong,1908,31,Essendon,18,L,,,,,,1,,,,,,,,,,,,,,,,,,,1908-06-28

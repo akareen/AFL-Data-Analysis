@@ -1,0 +1,62 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1948,1,St Kilda,5,W,10,,,,,,,,,,,,,,,,,,,,,,,,1948-03-29
+South Melbourne,1948,2,Melbourne,6,L,10,,,,,,,,,,,,,,,,,,,,,,,,1948-04-05
+South Melbourne,1948,3,Richmond,12,L,10,,,,,,,,,,,,,,,,,,,,,,,,1948-05-17
+South Melbourne,1948,4,Collingwood,13,L,10,,,,,,,,,,,,,,,,,,,,,,,,1948-05-24
+South Melbourne,1948,5,Geelong,19,W,10,,,,,,,,,,,,,,,,,,,,,,,,1948-07-05
+South Melbourne,1949,6,Carlton,1,L,10,,,,,,,,,,,,,,,,,,,,,,,,1949-03-01
+South Melbourne,1949,7,St Kilda,2,W,10,,,,,,,,,,,,,,,,,,,,,,,,1949-03-08
+South Melbourne,1949,8,Geelong,3,L,10,,,,,,,,,,,,,,,,,,,,,,,,1949-03-15
+South Melbourne,1949,9,Melbourne,4,W,10,,,,,,,,,,,,,,,,,,,,,,,,1949-03-22
+South Melbourne,1949,10,Footscray,5,W,10,,,,,,,,,,,,,,,,,,,,,,,,1949-03-29
+South Melbourne,1949,11,Richmond,6,L,10,,,,,,,,,,,,,,,,,,,,,,,,1949-04-05
+South Melbourne,1949,12,Hawthorn,7,W,10,,,,,,,,,,,,,,,,,,,,,,,,1949-04-12
+South Melbourne,1949,13,Fitzroy,8,L,10,,,,,,,,,,,,,,,,,,,,,,,,1949-04-19
+South Melbourne,1949,14,Essendon,9,W,10,,,,,,,,,,,,,,,,,,,,,,,,1949-04-26
+South Melbourne,1949,15,North Melbourne,10,L,10,,,,,,,,,,,,,,,,,,,,,,,,1949-05-03
+South Melbourne,1949,16,Collingwood,11,L,10,,,,,,,,,,,,,,,,,,,,,,,,1949-05-10
+South Melbourne,1949,17,Carlton,12,L,10,,,,,,,,,,,,,,,,,,,,,,,,1949-05-17
+South Melbourne,1949,18,St Kilda,13,L,10,,,,,,,,,,,,,,,,,,,,,,,,1949-05-24
+South Melbourne,1949,19,Geelong,14,L,10,,,,,,,,,,,,,,,,,,,,,,,,1949-05-31
+South Melbourne,1949,20,Melbourne,15,L,10,,,,,,,,,,,,,,,,,,,,,,,,1949-06-07
+South Melbourne,1949,21,Footscray,16,L,10,,,,,1,,,,,,,,,,,,,,,,,,,1949-06-14
+South Melbourne,1949,22,Richmond,17,L,10,,,,,,,,,,,,,,,,,,,,,,,,1949-06-21
+South Melbourne,1949,23,Fitzroy,19,L,10,,,,,,,,,,,,,,,,,,,,,,,,1949-07-05
+South Melbourne,1950,24,Collingwood,1,W,10,,,,,,,,,,,,,,,,,,,,,,,,1950-03-01
+South Melbourne,1950,25,Essendon,2,L,10,,,,,,,,,,,,,,,,,,,,,,,,1950-03-08
+South Melbourne,1950,26,St Kilda,3,L,10,,,,,,,,,,,,,,,,,,,,,,,,1950-03-15
+South Melbourne,1950,27,Fitzroy,4,L,10,,,,,,,,,,,,,,,,,,,,,,,,1950-03-22
+South Melbourne,1950,28,North Melbourne,5,L,10,,,,,,,,,,,,,,,,,,,,,,,,1950-03-29
+South Melbourne,1950,29,Collingwood,12,L,10,,,,,,,,,,,,,,,,,,,,,,,,1950-05-17
+South Melbourne,1950,30,St Kilda,14,W,10,,,,,,,,,,,,,,,,,,,,,,,,1950-05-31
+South Melbourne,1950,31,Fitzroy,15,L,10,,,,,1,,,,,,,,,,,,,,,,,,,1950-06-07
+South Melbourne,1950,32,Hawthorn,17,W,10,,,,,1,,,,,,,,,,,,,,,,,,,1950-06-21
+South Melbourne,1950,33,Carlton,18,L,10,,,,,,,,,,,,,,,,,,,,,,,,1950-06-28
+South Melbourne,1951,34,Richmond,2,L,10,,,,,,,,,,,,,,,,,,,,,,,,1951-03-08
+South Melbourne,1951,35,Essendon,3,W,10,,,,,,,,,,,,,,,,,,,,,,,,1951-03-15
+South Melbourne,1951,36,North Melbourne,4,L,10,,,,,,,,,,,,,,,,,,,,,,,,1951-03-22
+South Melbourne,1951,37,Melbourne,5,W,10,,,,,,,,,,,,,,,,,,,,,,,,1951-03-29
+South Melbourne,1951,38,Collingwood,6,L,10,,,,,,,,,,,,,,,,,,,,,,,,1951-04-05
+South Melbourne,1951,39,Footscray,7,W,10,,,,,,,,,,,,,,,,,,,,,,,,1951-04-12
+South Melbourne,1951,40,Hawthorn,8,W,10,,,,,,,,,,,,,,,,,,,,,,,,1951-04-19
+South Melbourne,1951,41,Fitzroy,9,D,10,,,,,,,,,,,,,,,,,,,,,,,,1951-04-26
+South Melbourne,1951,42,St Kilda,10,W,10,,,,,,,,,,,,,,,,,,,,,,,,1951-05-03
+South Melbourne,1951,43,Carlton,11,L,10,,,,,,,,,,,,,,,,,,,,,,,,1951-05-10
+South Melbourne,1951,44,Geelong,12,L,10,,,,,,,,,,,,,,,,,,,,,,,,1951-05-17
+South Melbourne,1951,45,Richmond,13,W,10,,,,,,,,,,,,,,,,,,,,,,,,1951-05-24
+South Melbourne,1951,46,Essendon,14,L,10,,,,,,,,,,,,,,,,,,,,,,,,1951-05-31
+South Melbourne,1951,47,North Melbourne,15,W,10,,,,,,,,,,,,,,,,,,,,,,,,1951-06-07
+South Melbourne,1951,48,Melbourne,16,W,10,,,,,,,,,,,,,,,,,,,,,,,,1951-06-14
+South Melbourne,1951,49,Collingwood,17,L,10,,,,,,,,,,,,,,,,,,,,,,,,1951-06-21
+South Melbourne,1951,50,Footscray,18,L,10,,,,,,,,,,,,,,,,,,,,,,,,1951-06-28
+South Melbourne,1952,51,Melbourne,5,W,10,,,,,,,,,,,,,,,,,,,,,,,,1952-03-29
+South Melbourne,1952,52,Fitzroy,6,W,10,,,,,,,,,,,,,,,,,,,,,,,,1952-04-05
+South Melbourne,1952,53,Footscray,7,W,10,,,,,,,,,,,,,,,,,,,,,,,,1952-04-12
+South Melbourne,1952,54,North Melbourne,8,W,10,,,,,,,,,,,,,,,,,,,,,,,,1952-04-19
+South Melbourne,1952,55,Collingwood,10,L,10,,,,,,,,,,,,,,,,,,,,,,,,1952-05-03
+South Melbourne,1952,56,North Melbourne,11,W,10,,,,,,,,,,,,,,,,,,,,,,,,1952-05-10
+South Melbourne,1952,57,Essendon,12,L,10,,,,,,,,,,,,,,,,,,,,,,,,1952-05-17
+South Melbourne,1952,58,Hawthorn,16,L,10,,,,,,,,,,,,,,,,,,,,,,,,1952-06-14
+South Melbourne,1952,59,Melbourne,17,W,10,,,,,,,,,,,,,,,,,,,,,,,,1952-06-21
+South Melbourne,1952,60,Fitzroy,18,L,10,,,,,,,,,,,,,,,,,,,,,,,,1952-06-28
+South Melbourne,1952,61,Footscray,19,L,10,,,,,,,,,,,,,,,,,,,,,,,,1952-07-05

@@ -1,0 +1,23 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1923,1,Essendon,4,L,4,,,,,,,,,,,,,,,,,,,,,,,,1923-03-22
+Carlton,1923,2,South Melbourne,6,L,4,,,,,1,,,,,,,,,,,,,,,,,,,1923-04-05
+Carlton,1923,3,Collingwood,7,L,4,,,,,,,,,,,,,,,,,,,,,,,,1923-04-12
+Carlton,1923,4,Melbourne,8,W,4,,,,,2,,,,,,,,,,,,,,,,,,,1923-04-19
+Carlton,1923,5,Geelong,9,L,4,,,,,,,,,,,,,,,,,,,,,,,,1923-04-26
+Carlton,1923,6,Fitzroy,10,W,4,,,,,,,,,,,,,,,,,,,,,,,,1923-05-03
+Carlton,1923,7,St Kilda,11,L,4,,,,,,,,,,,,,,,,,,,,,,,,1923-05-10
+Carlton,1924,8,Fitzroy,1,L,4,,,,,1,,,,,,,,,,,,,,,,,,,1924-03-01
+Carlton,1924,9,Essendon,2,D,4,,,,,1,,,,,,,,,,,,,,,,,,,1924-03-08
+Carlton,1924,10,Melbourne,4,L,4,,,,,,,,,,,,,,,,,,,,,,,,1924-03-22
+Carlton,1924,11,Collingwood,5,L,4,,,,,,,,,,,,,,,,,,,,,,,,1924-03-29
+Carlton,1924,12,South Melbourne,7,L,4,,,,,,,,,,,,,,,,,,,,,,,,1924-04-12
+Carlton,1924,13,Geelong,8,L,4,,,,,,,,,,,,,,,,,,,,,,,,1924-04-19
+Carlton,1924,14,Richmond,9,L,4,,,,,,,,,,,,,,,,,,,,,,,,1924-04-26
+Carlton,1924,15,Fitzroy,10,W,4,,,,,,,,,,,,,,,,,,,,,,,,1924-05-03
+Carlton,1924,16,Essendon,11,L,4,,,,,,,,,,,,,,,,,,,,,,,,1924-05-10
+Carlton,1924,17,St Kilda,12,W,4,,,,,,,,,,,,,,,,,,,,,,,,1924-05-17
+Carlton,1924,18,Melbourne,13,W,4,,,,,,,,,,,,,,,,,,,,,,,,1924-05-24
+Carlton,1924,19,Collingwood,14,L,4,,,,,,,,,,,,,,,,,,,,,,,,1924-05-31
+Carlton,1924,20,South Melbourne,16,L,4,,,,,,,,,,,,,,,,,,,,,,,,1924-06-14
+Carlton,1924,21,Geelong,17,W,4,,,,,,,,,,,,,,,,,,,,,,,,1924-06-21
+Carlton,1924,22,Richmond,18,L,4,,,,,2,,,,,,,,,,,,,,,,,,,1924-06-28

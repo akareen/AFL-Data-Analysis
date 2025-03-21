@@ -1,0 +1,21 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1911,1,Essendon,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-14
+St Kilda,1911,2,Richmond,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-21
+St Kilda,1911,3,Collingwood,18,L,,,,,,1,,,,,,,,,,,,,,,,,,,1911-06-28
+St Kilda,1912,4,Richmond,1,L,24,,,,,,,,,,,,,,,,,,,,,,,,1912-03-01
+St Kilda,1912,5,University,13,W,24,,,,,,,,,,,,,,,,,,,,,,,,1912-05-24
+St Kilda,1913,6,Fitzroy,2,W,21,,,,,,,,,,,,,,,,,,,,,,,,1913-03-08
+St Kilda,1913,7,University,3,W,21,,,,,,,,,,,,,,,,,,,,,,,,1913-03-15
+St Kilda,1913,8,Richmond,4,L,21,,,,,,,,,,,,,,,,,,,,,,,,1913-03-22
+St Kilda,1913,9,Essendon,8,W,21,,,,,,,,,,,,,,,,,,,,,,,,1913-04-19
+St Kilda,1913,10,Geelong,9,W,21,,,,,,,,,,,,,,,,,,,,,,,,1913-04-26
+St Kilda,1913,11,University,12,W,21,,,,,,,,,,,,,,,,,,,,,,,,1913-05-17
+St Kilda,1913,12,Richmond,13,W,21,,,,,1,,,,,,,,,,,,,,,,,,,1913-05-24
+St Kilda,1913,13,Melbourne,14,W,21,,,,,1,,,,,,,,,,,,,,,,,,,1913-05-31
+St Kilda,1914,14,Melbourne,4,W,15,,,,,,,,,,,,,,,,,,,,,,,,1914-03-22
+St Kilda,1914,15,University,9,W,15,,,,,,,,,,,,,,,,,,,,,,,,1914-04-26
+St Kilda,1914,16,Richmond,10,L,15,,,,,,,,,,,,,,,,,,,,,,,,1914-05-03
+St Kilda,1918,17,Richmond,6,W,16,,,,,,,,,,,,,,,,,,,,,,,,1918-04-05
+St Kilda,1918,18,Geelong,7,W,16,,,,,,,,,,,,,,,,,,,,,,,,1918-04-12
+St Kilda,1918,19,Geelong,14,L,16,,,,,2,,,,,,,,,,,,,,,,,,,1918-05-31
+St Kilda,1919,20,South Melbourne,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1919-05-17

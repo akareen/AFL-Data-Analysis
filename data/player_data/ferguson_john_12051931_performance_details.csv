@@ -1,0 +1,41 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1951,1,St Kilda,4,L,22,,,,,,,,,,,,,,,,,,,,,,,,1951-03-22
+Melbourne,1951,2,Geelong,10,L,22,,,,,,,,,,,,,,,,,,,,,,,,1951-05-03
+Melbourne,1952,3,North Melbourne,6,W,22,,,,,1,,,,,,,,,,,,,,,,,,,1952-04-05
+Melbourne,1952,4,Collingwood,7,W,22,,,,,2,,,,,,,,,,,,,,,,,,,1952-04-12
+Melbourne,1952,5,Fitzroy,8,L,22,,,,,,,,,,,,,,,,,,,,,,,,1952-04-19
+Melbourne,1952,6,Essendon,9,W,22,,,,,,,,,,,,,,,,,,,,,,,,1952-04-26
+Melbourne,1952,7,Fitzroy,11,L,22,,,,,,,,,,,,,,,,,,,,,,,,1952-05-10
+Melbourne,1952,8,Carlton,12,D,22,,,,,,,,,,,,,,,,,,,,,,,,1952-05-17
+Melbourne,1953,9,Essendon,16,L,22,,,,,,,,,,,,,,,,,,,,,,,,1953-06-14
+Melbourne,1953,10,Fitzroy,17,W,22,,,,,,,,,,,,,,,,,,,,,,,,1953-06-21
+Melbourne,1953,11,Geelong,18,L,22,,,,,,,,,,,,,,,,,,,,,,,,1953-06-28
+Melbourne,1954,12,South Melbourne,7,W,22,,,,,2,,,,,,,,,,,,,,,,,,,1954-04-12
+Melbourne,1954,13,Geelong,8,W,22,,,,,1,,,,,,,,,,,,,,,,,,,1954-04-19
+Melbourne,1954,14,Essendon,9,L,22,,,,,,,,,,,,,,,,,,,,,,,,1954-04-26
+Melbourne,1954,15,Carlton,13,W,22,,,,,,,,,,,,,,,,,,,,,,,,1954-05-24
+South Melbourne,1955,16,St Kilda,5,W,34,,,,,,,,,,,,,,,,,,,,,,,,1955-03-29
+South Melbourne,1955,17,Carlton,6,W,34,,,,,,,,,,,,,,,,,,,,,,,,1955-04-05
+South Melbourne,1955,18,Melbourne,7,L,34,,,,,,,,,,,,,,,,,,,,,,,,1955-04-12
+South Melbourne,1955,19,Essendon,8,L,34,,,,,,,,,,,,,,,,,,,,,,,,1955-04-19
+South Melbourne,1955,20,Collingwood,9,L,34,,,,,,,,,,,,,,,,,,,,,,,,1955-04-26
+South Melbourne,1955,21,North Melbourne,10,W,34,,,,,,,,,,,,,,,,,,,,,,,,1955-05-03
+South Melbourne,1955,22,Footscray,11,L,34,,,,,,,,,,,,,,,,,,,,,,,,1955-05-10
+South Melbourne,1955,23,Geelong,12,L,34,,,,,,,,,,,,,,,,,,,,,,,,1955-05-17
+South Melbourne,1955,24,Fitzroy,13,L,34,,,,,,,,,,,,,,,,,,,,,,,,1955-05-24
+South Melbourne,1955,25,Hawthorn,14,L,34,,,,,,,,,,,,,,,,,,,,,,,,1955-05-31
+South Melbourne,1955,26,Richmond,15,L,34,,,,,,,,,,,,,,,,,,,,,,,,1955-06-07
+South Melbourne,1955,27,St Kilda,16,W,34,,,,,,,,,,,,,,,,,,,,,,,,1955-06-14
+South Melbourne,1955,28,Carlton,17,L,34,,,,,,,,,,,,,,,,,,,,,,,,1955-06-21
+South Melbourne,1955,29,Melbourne,18,L,34,,,,,,,,,,,,,,,,,,,,,,,,1955-06-28
+South Melbourne,1956,30,Geelong,1,L,34,,,,,,,,,,,,,,,,,,,,,,,,1956-03-01
+South Melbourne,1956,31,Collingwood,2,L,34,,,,,1,,,,,,,,,,,,,,,,,,,1956-03-08
+South Melbourne,1956,32,Fitzroy,3,L,34,,,,,,,,,,,,,,,,,,,,,,,,1956-03-15
+South Melbourne,1956,33,Hawthorn,4,L,34,,,,,1,,,,,,,,,,,,,,,,,,,1956-03-22
+South Melbourne,1956,34,Footscray,5,L,34,,,,,,,,,,,,,,,,,,,,,,,,1956-03-29
+South Melbourne,1956,35,Essendon,6,W,34,,,,,,,,,,,,,,,,,,,,,,,,1956-04-05
+South Melbourne,1956,36,North Melbourne,7,L,34,,,,,1,,,,,,,,,,,,,,,,,,,1956-04-12
+South Melbourne,1956,37,Richmond,8,W,34,,,,,,,,,,,,,,,,,,,,,,,,1956-04-19
+South Melbourne,1957,38,Carlton,2,L,34,,,,,,,,,,,,,,,,,,,,,,,,1957-03-08
+South Melbourne,1957,39,Richmond,3,W,34,,,,,1,,,,,,,,,,,,,,,,,,,1957-03-15
+South Melbourne,1957,40,Collingwood,4,L,34,,,,,,,,,,,,,,,,,,,,,,,,1957-03-22

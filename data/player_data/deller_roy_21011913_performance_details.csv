@@ -1,0 +1,33 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+North Melbourne,1936,1,Essendon,1,L,9,,,,,1,,,,,,,,,,,,,,,,,,,1936-03-01
+North Melbourne,1936,2,Geelong,2,L,9,,,,,1,,,,,,,,,,,,,,,,,,,1936-03-08
+North Melbourne,1936,3,Richmond,3,L,9,,,,,1,,,,,,,,,,,,,,,,,,,1936-03-15
+North Melbourne,1936,4,South Melbourne,4,L,9,,,,,,,,,,,,,,,,,,,,,,,,1936-03-22
+North Melbourne,1936,5,Melbourne,5,L,9,,,,,,,,,,,,,,,,,,,,,,,,1936-03-29
+North Melbourne,1936,6,Footscray,7,W,9,,,,,,,,,,,,,,,,,,,,,,,,1936-04-12
+North Melbourne,1936,7,Carlton,8,W,9,,,,,,,,,,,,,,,,,,,,,,,,1936-04-19
+North Melbourne,1936,8,Collingwood,9,L,9,,,,,,,,,,,,,,,,,,,,,,,,1936-04-26
+North Melbourne,1936,9,Fitzroy,10,W,9,,,,,,,,,,,,,,,,,,,,,,,,1936-05-03
+North Melbourne,1936,10,Hawthorn,11,L,9,,,,,,,,,,,,,,,,,,,,,,,,1936-05-10
+North Melbourne,1936,11,Essendon,12,L,9,,,,,,,,,,,,,,,,,,,,,,,,1936-05-17
+North Melbourne,1937,12,Hawthorn,1,L,18,,,,,,,,,,,,,,,,,,,,,,,,1937-03-01
+North Melbourne,1937,13,Fitzroy,2,W,18,,,,,,,,,,,,,,,,,,,,,,,,1937-03-08
+North Melbourne,1937,14,Collingwood,3,L,18,,,,,,,,,,,,,,,,,,,,,,,,1937-03-15
+North Melbourne,1937,15,Carlton,4,W,18,,,,,,,,,,,,,,,,,,,,,,,,1937-03-22
+North Melbourne,1937,16,Footscray,5,L,18,,,,,,,,,,,,,,,,,,,,,,,,1937-03-29
+North Melbourne,1937,17,St Kilda,6,L,18,,,,,,,,,,,,,,,,,,,,,,,,1937-04-05
+North Melbourne,1937,18,Melbourne,7,L,18,,,,,,,,,,,,,,,,,,,,,,,,1937-04-12
+North Melbourne,1937,19,South Melbourne,8,L,18,,,,,,,,,,,,,,,,,,,,,,,,1937-04-19
+North Melbourne,1937,20,Richmond,9,W,18,,,,,1,,,,,,,,,,,,,,,,,,,1937-04-26
+North Melbourne,1937,21,Geelong,10,L,18,,,,,,,,,,,,,,,,,,,,,,,,1937-05-03
+North Melbourne,1937,22,Fitzroy,13,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1937-05-24
+North Melbourne,1937,23,Collingwood,14,L,18,,,,,,,,,,,,,,,,,,,,,,,,1937-05-31
+North Melbourne,1937,24,Carlton,15,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1937-06-07
+North Melbourne,1937,25,St Kilda,17,L,18,,,,,,,,,,,,,,,,,,,,,,,,1937-06-21
+Footscray,1938,26,North Melbourne,7,W,31,,,,,,,,,,,,,,,,,,,,,,,,1938-04-12
+Footscray,1938,27,Carlton,8,L,31,,,,,,,,,,,,,,,,,,,,,,,,1938-04-19
+North Melbourne,1944,28,Collingwood,1,L,9,,,,,,,,,,,,,,,,,,,,,,,,1944-03-01
+North Melbourne,1944,29,Footscray,4,W,9,,,,,,,,,,,,,,,,,,,,,,,,1944-03-22
+North Melbourne,1944,30,Collingwood,12,L,9,,,,,,,,,,,,,,,,,,,,,,,,1944-05-17
+North Melbourne,1944,31,Richmond,13,W,9,,,,,,,,,,,,,,,,,,,,,,,,1944-05-24
+North Melbourne,1944,32,Fitzroy,14,L,9,,,,,,,,,,,,,,,,,,,,,,,,1944-05-31

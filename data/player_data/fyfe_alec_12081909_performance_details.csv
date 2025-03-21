@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1934,1,Melbourne,9,W,13,,,,,,,,,,,,,,,,,,,,,,,,1934-04-26
+Collingwood,1934,2,Carlton,10,W,13,,,,,,,,,,,,,,,,,,,,,,,,1934-05-03
+Collingwood,1934,3,Footscray,11,W,13,,,,,1,,,,,,,,,,,,,,,,,,,1934-05-10
+Collingwood,1934,4,South Melbourne,12,L,13,,,,,1,,,,,,,,,,,,,,,,,,,1934-05-17
+Collingwood,1934,5,Essendon,13,W,13,,,,,,,,,,,,,,,,,,,,,,,,1934-05-24
+Collingwood,1934,6,Richmond,15,L,13,,,,,1,,,,,,,,,,,,,,,,,,,1934-06-07
+Collingwood,1934,7,Geelong,16,L,13,,,,,,,,,,,,,,,,,,,,,,,,1934-06-14
+Collingwood,1935,8,Carlton,9,L,2,,,,,,,,,,,,,,,,,,,,,,,,1935-04-26
+Collingwood,1935,9,Richmond,10,W,2,,,,,,,,,,,,,,,,,,,,,,,,1935-05-03
+Collingwood,1935,10,Melbourne,16,D,2,,,,,,,,,,,,,,,,,,,,,,,,1935-06-14
+Collingwood,1935,11,Footscray,17,W,2,,,,,,,,,,,,,,,,,,,,,,,,1935-06-21

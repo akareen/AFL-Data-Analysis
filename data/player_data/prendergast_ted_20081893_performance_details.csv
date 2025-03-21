@@ -1,0 +1,6 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1912,1,Carlton,4,W,17,,,,,2,,,,,,,,,,,,,,,,,,,1912-03-22
+Collingwood,1912,2,Richmond,5,W,17,,,,,2,,,,,,,,,,,,,,,,,,,1912-03-29
+Collingwood,1912,3,Geelong,6,L,17,,,,,,,,,,,,,,,,,,,,,,,,1912-04-05
+Collingwood,1912,4,Fitzroy,8,W,17,,,,,,,,,,,,,,,,,,,,,,,,1912-04-19
+Collingwood,1912,5,Geelong,15,W,17,,,,,,,,,,,,,,,,,,,,,,,,1912-06-07

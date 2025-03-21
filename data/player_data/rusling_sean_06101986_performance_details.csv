@@ -1,0 +1,18 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,2005,1,Hawthorn,10,W,28,2,,1,3,,1,,3,,,,,1,,,1,1,,,1,,,62,2005-05-03
+Collingwood,2005,2,Geelong,11,W,28,6,7,2,8,2,1,,2,,1,,,,,,,9,,3,1,,1,87,2005-05-10
+Collingwood,2005,3,Melbourne,12,L,28,1,2,1,2,,,,2,,,,,,,,,2,,,2,,,67,2005-05-17
+Collingwood,2005,4,Port Adelaide,14,W,28,7,4,,7,1,4,,1,,3,,,1,,,1,6,,2,3,,,83,2005-05-31
+Collingwood,2005,5,Brisbane Lions,15,L,28,,,,,,,,,,,,1,,,,,,,,1,,,18,2005-06-07
+Collingwood,2005,6,St Kilda,17,L,28,2,,1,3,,,,,,2,,,,,,2,1,,,,,,41,2005-06-21
+Collingwood,2006,7,St Kilda,14,L,2,2,2,5,7,,,,2,,,,1,1,,,2,5,,,1,,1,54,2006-05-31
+Collingwood,2006,8,Port Adelaide,20,W,2,8,7,1,9,3,2,,2,,,,,,,,1,8,,6,2,,1,100,2006-07-12
+Collingwood,2006,9,Carlton,21,W,2,3,3,1,4,2,,,1,,,,1,,,,1,3,,3,2,,,91,2006-07-19
+Collingwood,2006,10,Kangaroos,22,W,2,7,5,1,8,,2,,1,,1,,,,,,1,7,,2,1,,1,90,2006-07-26
+Collingwood,2006,11,Western Bulldogs,EF,L,2,2,1,,2,1,1,,,,,,1,1,1,,1,2,,1,,,,57,2006-03-01
+Collingwood,2007,12,Melbourne,20,W,2,9,7,2,11,1,2,,4,,1,,3,1,,,4,7,1,3,1,,1,94,2007-07-12
+Collingwood,2007,13,Sydney,21,W,2,11,9,3,14,4,3,,1,,,,,1,,,5,9,2,7,,,,86,2007-07-19
+Collingwood,2007,14,Sydney,EF,W,2,9,8,4,13,3,2,,,,2,,,,,,3,10,1,6,2,,1,99,2007-03-01
+Collingwood,2007,15,West Coast,SF,W,2,2,2,3,5,,,,5,,2,,3,,2,,3,2,,,,,,81,2007-03-01
+Collingwood,2007,16,Geelong,PF,L,2,4,4,1,5,2,,,2,,2,,2,,2,,4,1,3,2,4,,,92,2007-03-01
+Collingwood,2008,17,Fremantle,1,W,2,2,1,2,4,,,,1,,,,,1,,,3,1,,,,,,42,2008-03-01

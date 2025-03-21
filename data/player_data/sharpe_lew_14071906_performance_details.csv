@@ -1,0 +1,35 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1926,1,North Melbourne,9,W,5,,,,,,,,,,,,,,,,,,,,,,,,1926-04-26
+St Kilda,1926,2,Footscray,10,L,5,,,,,,,,,,,,,,,,,,,,,,,,1926-05-03
+St Kilda,1926,3,Carlton,11,L,5,,,,,,,,,,,,,,,,,,,,,,,,1926-05-10
+St Kilda,1926,4,Melbourne,12,L,5,,,,,,,,,,,,,,,,,,,,,,,,1926-05-17
+St Kilda,1926,5,Fitzroy,15,L,5,,,,,,,,,,,,,,,,,,,,,,,,1926-06-07
+St Kilda,1926,6,Essendon,16,L,5,,,,,,,,,,,,,,,,,,,,,,,,1926-06-14
+St Kilda,1927,7,Richmond,2,L,5,,,,,1,,,,,,,,,,,,,,,,,,,1927-03-08
+St Kilda,1927,8,South Melbourne,3,W,5,,,,,,,,,,,,,,,,,,,,,,,,1927-03-15
+Footscray,1929,9,Fitzroy,1,W,14,,,,,,,,,,,,,,,,,,,,,,,,1929-03-01
+Footscray,1929,10,North Melbourne,3,W,14,,,,,,,,,,,,,,,,,,,,,,,,1929-03-15
+Footscray,1929,11,South Melbourne,8,W,14,,,,,,,,,,,,,,,,,,,,,,,,1929-04-19
+Footscray,1929,12,Collingwood,9,L,14,,,,,,,,,,,,,,,,,,,,,,,,1929-04-26
+Footscray,1929,13,Geelong,10,W,14,,,,,,,,,,,,,,,,,,,,,,,,1929-05-03
+Footscray,1929,14,Carlton,11,L,14,,,,,,,,,,,,,,,,,,,,,,,,1929-05-10
+Footscray,1929,15,Essendon,13,L,14,,,,,1,,,,,,,,,,,,,,,,,,,1929-05-24
+Footscray,1929,16,North Melbourne,14,L,14,,,,,,,,,,,,,,,,,,,,,,,,1929-05-31
+Footscray,1929,17,Melbourne,16,L,14,,,,,1,,,,,,,,,,,,,,,,,,,1929-06-14
+Footscray,1929,18,Hawthorn,17,L,14,,,,,,,,,,,,,,,,,,,,,,,,1929-06-21
+Footscray,1929,19,St Kilda,18,L,14,,,,,1,,,,,,,,,,,,,,,,,,,1929-06-28
+Footscray,1930,20,Hawthorn,6,W,,,,,,2,,,,,,,,,,,,,,,,,,,1930-04-05
+Footscray,1930,21,St Kilda,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1930-04-12
+Footscray,1930,22,Collingwood,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1930-04-26
+Footscray,1930,23,Geelong,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1930-05-03
+Footscray,1930,24,Carlton,11,L,,,,,,1,,,,,,,,,,,,,,,,,,,1930-05-10
+Footscray,1930,25,Melbourne,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1930-05-17
+Footscray,1930,26,Hawthorn,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1930-05-24
+Footscray,1930,27,St Kilda,14,L,,,,,,1,,,,,,,,,,,,,,,,,,,1930-05-31
+Fitzroy,1932,28,Essendon,6,L,27,,,,,,,,,,,,,,,,,,,,,,,,1932-04-05
+Fitzroy,1932,29,Richmond,7,L,27,,,,,,,,,,,,,,,,,,,,,,,,1932-04-12
+Fitzroy,1932,30,Hawthorn,8,W,27,,,,,,,,,,,,,,,,,,,,,,,,1932-04-19
+Fitzroy,1932,31,Carlton,12,L,27,,,,,,,,,,,,,,,,,,,,,,,,1932-05-17
+Fitzroy,1932,32,Collingwood,15,L,27,,,,,,,,,,,,,,,,,,,,,,,,1932-06-07
+Fitzroy,1932,33,Geelong,16,L,27,,,,,,,,,,,,,,,,,,,,,,,,1932-06-14
+Essendon,1934,34,South Melbourne,3,L,22,,,,,,,,,,,,,,,,,,,,,,,,1934-03-15

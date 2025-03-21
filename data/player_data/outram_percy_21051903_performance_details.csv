@@ -1,0 +1,52 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1925,1,Richmond,7,W,24,,,,,1,,,,,,,,,,,,,,,,,,,1925-04-12
+Carlton,1925,2,St Kilda,10,L,24,,,,,2,,,,,,,,,,,,,,,,,,,1925-05-03
+Carlton,1925,3,Essendon,13,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1925-05-24
+Carlton,1925,4,Hawthorn,15,W,24,,,,,2,,,,,,,,,,,,,,,,,,,1925-06-07
+Carlton,1925,5,Geelong,16,L,24,,,,,3,,,,,,,,,,,,,,,,,,,1925-06-14
+Carlton,1925,6,Fitzroy,17,L,24,,,,,3,,,,,,,,,,,,,,,,,,,1925-06-21
+Carlton,1926,7,Hawthorn,1,W,24,,,,,1,,,,,,,,,,,,,,,,,,,1926-03-01
+Carlton,1926,8,Melbourne,2,W,24,,,,,2,,,,,,,,,,,,,,,,,,,1926-03-08
+Carlton,1926,9,Essendon,6,W,24,,,,,1,,,,,,,,,,,,,,,,,,,1926-04-05
+Carlton,1926,10,Footscray,7,W,24,,,,,3,,,,,,,,,,,,,,,,,,,1926-04-12
+Carlton,1926,11,North Melbourne,8,W,24,,,,,1,,,,,,,,,,,,,,,,,,,1926-04-19
+Carlton,1926,12,Collingwood,9,W,24,,,,,3,,,,,,,,,,,,,,,,,,,1926-04-26
+Carlton,1926,13,Richmond,10,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1926-05-03
+Carlton,1926,14,Hawthorn,12,W,24,,,,,,,,,,,,,,,,,,,,,,,,1926-05-17
+Carlton,1926,15,Geelong,14,W,24,,,,,1,,,,,,,,,,,,,,,,,,,1926-05-31
+Carlton,1926,16,South Melbourne,15,L,24,,,,,4,,,,,,,,,,,,,,,,,,,1926-06-07
+Carlton,1926,17,Essendon,17,L,24,,,,,2,,,,,,,,,,,,,,,,,,,1926-06-21
+Carlton,1926,18,Collingwood,18,L,24,,,,,2,,,,,,,,,,,,,,,,,,,1926-06-28
+Carlton,1927,19,Fitzroy,2,W,24,,,,,1,,,,,,,,,,,,,,,,,,,1927-03-08
+Carlton,1927,20,Geelong,4,L,24,,,,,2,,,,,,,,,,,,,,,,,,,1927-03-22
+Carlton,1927,21,Hawthorn,5,W,24,,,,,1,,,,,,,,,,,,,,,,,,,1927-03-29
+Carlton,1927,22,Footscray,7,W,24,,,,,2,,,,,,,,,,,,,,,,,,,1927-04-12
+Carlton,1927,23,South Melbourne,12,L,24,,,,,,,,,,,,,,,,,,,,,,,,1927-05-17
+Carlton,1927,24,St Kilda,18,W,24,,,,,4,,,,,,,,,,,,,,,,,,,1927-06-28
+St Kilda,1928,25,Footscray,7,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1928-04-12
+St Kilda,1928,26,Essendon,8,W,27,,,,,2,,,,,,,,,,,,,,,,,,,1928-04-19
+St Kilda,1928,27,Geelong,9,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1928-04-26
+St Kilda,1928,28,Fitzroy,10,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1928-05-03
+St Kilda,1928,29,Hawthorn,12,W,27,,,,,3,,,,,,,,,,,,,,,,,,,1928-05-17
+St Kilda,1928,30,Melbourne,17,W,27,,,,,2,,,,,,,,,,,,,,,,,,,1928-06-21
+St Kilda,1928,31,Footscray,18,W,27,,,,,3,,,,,,,,,,,,,,,,,,,1928-06-28
+St Kilda,1929,32,Hawthorn,1,W,27,,,,,5,,,,,,,,,,,,,,,,,,,1929-03-01
+St Kilda,1929,33,South Melbourne,2,L,27,,,,,2,,,,,,,,,,,,,,,,,,,1929-03-08
+St Kilda,1929,34,Geelong,3,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1929-03-15
+St Kilda,1929,35,North Melbourne,5,W,27,,,,,2,,,,,,,,,,,,,,,,,,,1929-03-29
+St Kilda,1929,36,Melbourne,6,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1929-04-05
+St Kilda,1929,37,Footscray,7,W,27,,,,,3,,,,,,,,,,,,,,,,,,,1929-04-12
+St Kilda,1929,38,Collingwood,8,L,27,,,,,2,,,,,,,,,,,,,,,,,,,1929-04-19
+St Kilda,1929,39,Carlton,9,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1929-04-26
+St Kilda,1929,40,Essendon,10,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1929-05-03
+St Kilda,1929,41,Richmond,11,L,27,,,,,,,,,,,,,,,,,,,,,,,,1929-05-10
+St Kilda,1929,42,Hawthorn,12,W,27,,,,,4,,,,,,,,,,,,,,,,,,,1929-05-17
+St Kilda,1929,43,South Melbourne,13,W,27,,,,,2,,,,,,,,,,,,,,,,,,,1929-05-24
+St Kilda,1929,44,Geelong,14,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1929-05-31
+St Kilda,1929,45,Fitzroy,15,W,27,,,,,4,,,,,,,,,,,,,,,,,,,1929-06-07
+St Kilda,1929,46,North Melbourne,16,W,27,,,,,3,,,,,,,,,,,,,,,,,,,1929-06-14
+St Kilda,1929,47,Melbourne,17,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1929-06-21
+St Kilda,1929,48,Footscray,18,W,27,,,,,2,,,,,,,,,,,,,,,,,,,1929-06-28
+St Kilda,1929,49,Carlton,SF,L,27,,,,,2,,,,,,,,,,,,,,,,,,,1929-03-01
+St Kilda,1930,50,Hawthorn,1,L,27,,,,,,,,,,,,,,,,,,,,,,,,1930-03-01
+St Kilda,1930,51,North Melbourne,5,L,27,,,,,,,,,,,,,,,,,,,,,,,,1930-03-29

@@ -1,0 +1,27 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1927,1,South Melbourne,7,W,7,,,,,,,,,,,,,,,,,,,,,,,,1927-04-12
+Richmond,1927,2,North Melbourne,16,W,7,,,,,,,,,,,,,,,,,,,,,,,,1927-06-14
+Richmond,1927,3,Carlton,17,L,7,,,,,,,,,,,,,,,,,,,,,,,,1927-06-21
+Richmond,1927,4,Hawthorn,18,W,7,,,,,,,,,,,,,,,,,,,,,,,,1927-06-28
+Richmond,1927,5,Carlton,SF,W,7,,,,,,,,,,,,,,,,,,,,,,,,1927-03-01
+Richmond,1927,6,Collingwood,GF,L,7,,,,,,,,,,,,,,,,,,,,,,,,1927-03-01
+South Melbourne,1928,7,Footscray,1,W,19,,,,,,,,,,,,,,,,,,,,,,,,1928-03-01
+South Melbourne,1928,8,St Kilda,2,W,19,,,,,,,,,,,,,,,,,,,,,,,,1928-03-08
+South Melbourne,1928,9,Essendon,3,L,19,,,,,,,,,,,,,,,,,,,,,,,,1928-03-15
+South Melbourne,1928,10,North Melbourne,4,L,19,,,,,,,,,,,,,,,,,,,,,,,,1928-03-22
+South Melbourne,1928,11,Geelong,5,L,19,,,,,,,,,,,,,,,,,,,,,,,,1928-03-29
+South Melbourne,1928,12,Carlton,6,L,19,,,,,,,,,,,,,,,,,,,,,,,,1928-04-05
+South Melbourne,1928,13,Fitzroy,7,L,19,,,,,,,,,,,,,,,,,,,,,,,,1928-04-12
+South Melbourne,1928,14,St Kilda,13,L,19,,,,,,,,,,,,,,,,,,,,,,,,1928-05-24
+South Melbourne,1929,15,Carlton,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1929-03-22
+South Melbourne,1929,16,Essendon,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1929-03-29
+South Melbourne,1929,17,Richmond,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1929-04-05
+South Melbourne,1929,18,Hawthorn,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1929-04-12
+South Melbourne,1929,19,Footscray,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1929-04-19
+South Melbourne,1929,20,Geelong,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1929-04-26
+South Melbourne,1929,21,Fitzroy,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1929-05-03
+South Melbourne,1929,22,North Melbourne,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1929-05-10
+South Melbourne,1929,23,Carlton,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1929-06-07
+South Melbourne,1929,24,Essendon,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1929-06-14
+South Melbourne,1929,25,Richmond,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1929-06-21
+South Melbourne,1929,26,Hawthorn,18,W,,,,,,,,,,,,,,,,,,,,,,,,,1929-06-28

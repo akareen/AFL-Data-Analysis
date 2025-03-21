@@ -1,0 +1,31 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1903,1,Collingwood,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-07
+St Kilda,1903,2,Melbourne,16,W,,,,,,1,,,,,,,,,,,,,,,,,,,1903-06-14
+St Kilda,1903,3,Carlton,17,L,,,,,,1,,,,,,,,,,,,,,,,,,,1903-06-21
+St Kilda,1906,4,Carlton,2,L,,,,,,1,,,,,,,,,,,,,,,,,,,1906-03-08
+St Kilda,1906,5,South Melbourne,3,L,,,,,,2,,,,,,,,,,,,,,,,,,,1906-03-15
+St Kilda,1906,6,Essendon,4,W,,,,,,3,,,,,,,,,,,,,,,,,,,1906-03-22
+St Kilda,1906,7,Collingwood,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-29
+St Kilda,1906,8,Fitzroy,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-19
+St Kilda,1906,9,Carlton,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-26
+St Kilda,1906,10,South Melbourne,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-03
+St Kilda,1906,11,Essendon,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-10
+St Kilda,1906,12,Collingwood,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-17
+St Kilda,1906,13,Melbourne,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-24
+St Kilda,1906,14,Geelong,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-31
+St Kilda,1906,15,Collingwood,15,L,,,,,,1,,,,,,,,,,,,,,,,,,,1906-06-07
+St Kilda,1906,16,Melbourne,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-06-14
+St Kilda,1906,17,Fitzroy,17,L,,,,,,2,,,,,,,,,,,,,,,,,,,1906-06-21
+St Kilda,1910,18,Fitzroy,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-08
+St Kilda,1910,19,Collingwood,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-15
+St Kilda,1910,20,Melbourne,4,L,,,,,,1,,,,,,,,,,,,,,,,,,,1910-03-22
+St Kilda,1910,21,Essendon,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-29
+St Kilda,1910,22,Richmond,6,L,,,,,,1,,,,,,,,,,,,,,,,,,,1910-04-05
+St Kilda,1910,23,Geelong,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-12
+St Kilda,1910,24,South Melbourne,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-19
+St Kilda,1910,25,Collingwood,12,L,,,,,,1,,,,,,,,,,,,,,,,,,,1910-05-17
+St Kilda,1910,26,Melbourne,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-24
+St Kilda,1910,27,Essendon,14,L,,,,,,1,,,,,,,,,,,,,,,,,,,1910-05-31
+St Kilda,1910,28,Richmond,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-07
+St Kilda,1910,29,South Melbourne,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-21
+St Kilda,1910,30,Carlton,18,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-28

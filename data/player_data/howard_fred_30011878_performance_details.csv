@@ -1,0 +1,27 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1902,1,Geelong,15,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-06-07
+Fitzroy,1902,2,Collingwood,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-06-14
+Melbourne,1905,3,St Kilda,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-01
+Melbourne,1905,4,South Melbourne,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-08
+Melbourne,1905,5,Essendon,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-15
+Melbourne,1905,6,Collingwood,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-22
+Melbourne,1905,7,Fitzroy,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-29
+Melbourne,1905,8,Carlton,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-04-05
+Melbourne,1905,9,Geelong,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-04-12
+Melbourne,1905,10,St Kilda,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-04-19
+Melbourne,1905,11,South Melbourne,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-04-26
+Melbourne,1905,12,Essendon,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-05-03
+Melbourne,1905,13,Fitzroy,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-05-17
+Melbourne,1905,14,Carlton,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-05-24
+Melbourne,1905,15,Geelong,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-05-31
+Melbourne,1905,16,South Melbourne,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-06-07
+Melbourne,1905,17,Collingwood,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-06-14
+Melbourne,1905,18,Carlton,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-06-21
+Melbourne,1906,19,Carlton,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-01
+Melbourne,1906,20,Essendon,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-15
+Melbourne,1906,21,Collingwood,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-12
+Melbourne,1906,22,Carlton,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-19
+Melbourne,1906,23,Fitzroy,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-26
+Melbourne,1906,24,Essendon,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-03
+Melbourne,1906,25,South Melbourne,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-10
+Melbourne,1906,26,Collingwood,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-06-21

@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1938,1,Geelong,2,W,23,,,,,4,,,,,,,,,,,,,,,,,,,1938-03-08
+St Kilda,1938,2,South Melbourne,3,W,23,,,,,,,,,,,,,,,,,,,,,,,,1938-03-15
+St Kilda,1938,3,Richmond,4,W,23,,,,,4,,,,,,,,,,,,,,,,,,,1938-03-22
+St Kilda,1938,4,North Melbourne,5,W,23,,,,,2,,,,,,,,,,,,,,,,,,,1938-03-29
+St Kilda,1938,5,Footscray,6,L,23,,,,,,,,,,,,,,,,,,,,,,,,1938-04-05
+St Kilda,1938,6,Fitzroy,11,W,23,,,,,,,,,,,,,,,,,,,,,,,,1938-05-10
+St Kilda,1938,7,South Melbourne,14,W,23,,,,,5,,,,,,,,,,,,,,,,,,,1938-05-31
+St Kilda,1938,8,Richmond,15,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1938-06-07
+St Kilda,1938,9,North Melbourne,16,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1938-06-14

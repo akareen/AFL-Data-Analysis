@@ -1,0 +1,24 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1947,1,North Melbourne,1,W,30,,,,,,,,,,,,,,,,,,,,,,,,1947-03-01
+Richmond,1947,2,Carlton,3,L,30,,,,,,,,,,,,,,,,,,,,,,,,1947-03-15
+Richmond,1947,3,Melbourne,4,L,30,,,,,1,,,,,,,,,,,,,,,,,,,1947-03-22
+South Melbourne,1948,4,Richmond,1,W,15,,,,,,,,,,,,,,,,,,,,,,,,1948-03-01
+South Melbourne,1948,5,Collingwood,2,L,15,,,,,,,,,,,,,,,,,,,,,,,,1948-03-08
+South Melbourne,1948,6,North Melbourne,3,W,15,,,,,,,,,,,,,,,,,,,,,,,,1948-03-15
+South Melbourne,1948,7,Essendon,4,L,15,,,,,,,,,,,,,,,,,,,,,,,,1948-03-22
+South Melbourne,1948,8,St Kilda,5,W,15,,,,,2,,,,,,,,,,,,,,,,,,,1948-03-29
+South Melbourne,1948,9,Melbourne,6,L,15,,,,,1,,,,,,,,,,,,,,,,,,,1948-04-05
+South Melbourne,1948,10,Footscray,7,L,15,,,,,,,,,,,,,,,,,,,,,,,,1948-04-12
+South Melbourne,1948,11,Geelong,8,W,15,,,,,,,,,,,,,,,,,,,,,,,,1948-04-19
+South Melbourne,1948,12,Fitzroy,9,L,15,,,,,,,,,,,,,,,,,,,,,,,,1948-04-26
+South Melbourne,1948,13,Carlton,10,L,15,,,,,1,,,,,,,,,,,,,,,,,,,1948-05-03
+South Melbourne,1948,14,Hawthorn,11,W,15,,,,,,,,,,,,,,,,,,,,,,,,1948-05-10
+South Melbourne,1948,15,Richmond,12,L,15,,,,,,,,,,,,,,,,,,,,,,,,1948-05-17
+South Melbourne,1948,16,Collingwood,13,L,15,,,,,,,,,,,,,,,,,,,,,,,,1948-05-24
+South Melbourne,1948,17,St Kilda,16,W,15,,,,,,,,,,,,,,,,,,,,,,,,1948-06-14
+South Melbourne,1948,18,Melbourne,17,L,15,,,,,,,,,,,,,,,,,,,,,,,,1948-06-21
+South Melbourne,1948,19,Footscray,18,L,15,,,,,1,,,,,,,,,,,,,,,,,,,1948-06-28
+South Melbourne,1948,20,Geelong,19,W,15,,,,,1,,,,,,,,,,,,,,,,,,,1948-07-05
+South Melbourne,1949,21,Carlton,1,L,15,,,,,,,,,,,,,,,,,,,,,,,,1949-03-01
+South Melbourne,1949,22,St Kilda,2,W,15,,,,,1,,,,,,,,,,,,,,,,,,,1949-03-08
+South Melbourne,1949,23,Geelong,3,L,15,,,,,1,,,,,,,,,,,,,,,,,,,1949-03-15

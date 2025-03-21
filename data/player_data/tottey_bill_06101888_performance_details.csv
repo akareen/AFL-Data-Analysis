@@ -1,0 +1,30 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1908,1,Richmond,1,L,,,,,,1,,,,,,,,,,,,,,,,,,,1908-03-01
+Melbourne,1908,2,Carlton,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-08
+Melbourne,1908,3,Geelong,3,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-03-15
+Melbourne,1908,4,South Melbourne,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-22
+Melbourne,1908,5,St Kilda,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-29
+Melbourne,1908,6,University,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-04-05
+Melbourne,1908,7,Essendon,7,L,,,,,,1,,,,,,,,,,,,,,,,,,,1908-04-12
+Melbourne,1908,8,Collingwood,8,L,,,,,,1,,,,,,,,,,,,,,,,,,,1908-04-19
+Melbourne,1908,9,Richmond,10,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-05-03
+Melbourne,1908,10,Carlton,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-10
+Melbourne,1908,11,St Kilda,14,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-05-31
+Melbourne,1908,12,University,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-06-07
+Melbourne,1908,13,Essendon,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-06-14
+Melbourne,1908,14,Fitzroy,18,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-06-28
+Richmond,1909,15,Melbourne,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-01
+Richmond,1909,16,University,2,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-08
+Richmond,1909,17,Collingwood,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-22
+St Kilda,1910,18,Melbourne,4,L,,,,,,1,,,,,,,,,,,,,,,,,,,1910-03-22
+St Kilda,1910,19,Essendon,5,L,,,,,,1,,,,,,,,,,,,,,,,,,,1910-03-29
+St Kilda,1910,20,Richmond,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-05
+St Kilda,1910,21,Geelong,7,L,,,,,,3,,,,,,,,,,,,,,,,,,,1910-04-12
+St Kilda,1910,22,South Melbourne,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-19
+St Kilda,1910,23,Carlton,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-26
+St Kilda,1910,24,University,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-03
+St Kilda,1910,25,Collingwood,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-17
+St Kilda,1910,26,Melbourne,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-24
+St Kilda,1911,27,Geelong,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-01
+St Kilda,1911,28,University,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-08
+St Kilda,1911,29,Fitzroy,4,L,,,,,,1,,,,,,,,,,,,,,,,,,,1911-03-22

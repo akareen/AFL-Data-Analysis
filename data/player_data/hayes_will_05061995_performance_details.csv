@@ -1,0 +1,14 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Western Bulldogs,2019,1,Carlton,5,L,32,7,7,14,21,,,,1,1,2,,3,,1,,5,15,1,,1,,1,80,2019-03-29
+Western Bulldogs,2019,2,Fremantle,6,L,32,11,5,4,15,1,1,,3,,4,1,3,,1,,5,11,,1,,1,,71,2019-04-05
+Western Bulldogs,2019,3,Richmond,7,W,32,9,5,6,15,,,,2,2,1,,3,,1,,5,10,,,1,,,78,2019-04-12
+Western Bulldogs,2019,4,Brisbane Lions,8,W,32,9,2,6,15,1,,,4,2,2,1,4,,1,,4,11,,1,2,,,85,2019-04-19
+Western Bulldogs,2019,5,Geelong,9,L,32,6,2,7,13,,,,3,,3,,4,1,3,,3,10,,,,,1,84,2019-04-26
+Western Bulldogs,2019,6,Essendon,21,W,32,14,7,8,22,2,,,3,2,5,1,3,1,1,,6,15,,2,,,2,74,2019-07-19
+Western Bulldogs,2019,7,Greater Western Sydney,22,W,32,9,1,7,16,,,,7,2,3,3,2,2,1,,6,9,,,,1,,73,2019-07-26
+Western Bulldogs,2019,8,Adelaide,23,W,32,11,6,5,16,,,,4,2,2,2,3,1,1,,6,10,,,3,,,74,2019-08-02
+Western Bulldogs,2019,9,Greater Western Sydney,EF,L,32,1,1,6,7,,,,3,,1,,2,,,,5,3,,,1,,,74,2019-03-01
+Western Bulldogs,2020,10,Geelong,14,L,32,4,1,7,11,,,,5,2,1,,1,,,,3,8,,,2,,1,88,2020-05-31
+Western Bulldogs,2020,11,West Coast,16,W,32,3,1,6,9,,,,1,,3,,3,,1,,5,4,,,,,,53,2020-06-14
+Carlton,2022,12↑,West Coast,17,W,40,3,2,2,5,,,,,,1,,,,,,1,4,,1,,,,10,2022-06-21
+Carlton,2022,13,Geelong,18,L,40,12,5,11,23,,,,1,1,2,2,6,,1,,9,15,,1,1,,1,77,2022-06-28

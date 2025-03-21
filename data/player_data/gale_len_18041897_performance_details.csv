@@ -1,0 +1,59 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1920,1,South Melbourne,2,W,6,,,,,,,,,,,,,,,,,,,,,,,,1920-03-08
+Fitzroy,1920,2,Geelong,5,W,6,,,,,2,,,,,,,,,,,,,,,,,,,1920-03-29
+Fitzroy,1920,3,Essendon,7,L,6,,,,,,,,,,,,,,,,,,,,,,,,1920-04-12
+Fitzroy,1920,4,St Kilda,9,W,6,,,,,,,,,,,,,,,,,,,,,,,,1920-04-26
+Fitzroy,1920,5,Richmond,10,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1920-05-03
+Fitzroy,1920,6,South Melbourne,11,W,6,,,,,,,,,,,,,,,,,,,,,,,,1920-05-10
+Fitzroy,1920,7,Carlton,12,W,6,,,,,,,,,,,,,,,,,,,,,,,,1920-05-17
+Fitzroy,1920,8,Geelong,13,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1920-05-24
+Fitzroy,1920,9,Collingwood,14,W,6,,,,,,,,,,,,,,,,,,,,,,,,1920-05-31
+Fitzroy,1920,10,Essendon,16,W,6,,,,,,,,,,,,,,,,,,,,,,,,1920-06-14
+Fitzroy,1920,11,Melbourne,17,W,6,,,,,,,,,,,,,,,,,,,,,,,,1920-06-21
+Fitzroy,1920,12,St Kilda,18,W,6,,,,,,,,,,,,,,,,,,,,,,,,1920-06-28
+Fitzroy,1920,13,Collingwood,SF,L,6,,,,,,,,,,,,,,,,,,,,,,,,1920-03-01
+Fitzroy,1921,14,Collingwood,1,L,6,,,,,,,,,,,,,,,,,,,,,,,,1921-03-01
+Fitzroy,1921,15,St Kilda,2,L,6,,,,,,,,,,,,,,,,,,,,,,,,1921-03-08
+Fitzroy,1921,16,Richmond,3,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1921-03-15
+Fitzroy,1921,17,Carlton,4,D,6,,,,,,,,,,,,,,,,,,,,,,,,1921-03-22
+Fitzroy,1921,18,Geelong,5,L,6,,,,,,,,,,,,,,,,,,,,,,,,1921-03-29
+Fitzroy,1921,19,Collingwood,10,W,6,,,,,2,,,,,,,,,,,,,,,,,,,1921-05-03
+Fitzroy,1921,20,Richmond,12,W,6,,,,,2,,,,,,,,,,,,,,,,,,,1921-05-17
+Fitzroy,1921,21,Carlton,13,W,6,,,,,,,,,,,,,,,,,,,,,,,,1921-05-24
+Fitzroy,1921,22,Geelong,14,L,6,,,,,,,,,,,,,,,,,,,,,,,,1921-05-31
+Fitzroy,1921,23,Melbourne,16,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1921-06-14
+Fitzroy,1921,24,Essendon,17,D,6,,,,,,,,,,,,,,,,,,,,,,,,1921-06-21
+Fitzroy,1921,25,South Melbourne,18,W,6,,,,,,,,,,,,,,,,,,,,,,,,1921-06-28
+Fitzroy,1922,26,St Kilda,1,W,6,,,,,2,,,,,,,,,,,,,,,,,,,1922-03-01
+Fitzroy,1922,27,Carlton,2,L,6,,,,,,,,,,,,,,,,,,,,,,,,1922-03-08
+Fitzroy,1922,28,Geelong,3,W,6,,,,,3,,,,,,,,,,,,,,,,,,,1922-03-15
+Fitzroy,1922,29,Essendon,4,D,6,,,,,1,,,,,,,,,,,,,,,,,,,1922-03-22
+Fitzroy,1922,30,Richmond,6,W,6,,,,,2,,,,,,,,,,,,,,,,,,,1922-04-05
+Fitzroy,1922,31,Collingwood,7,L,6,,,,,3,,,,,,,,,,,,,,,,,,,1922-04-12
+Fitzroy,1922,32,South Melbourne,8,W,6,,,,,2,,,,,,,,,,,,,,,,,,,1922-04-19
+Fitzroy,1922,33,Melbourne,9,W,6,,,,,,,,,,,,,,,,,,,,,,,,1922-04-26
+Fitzroy,1922,34,Carlton,11,W,6,,,,,2,,,,,,,,,,,,,,,,,,,1922-05-10
+Fitzroy,1922,35,Geelong,12,W,6,,,,,,,,,,,,,,,,,,,,,,,,1922-05-17
+Fitzroy,1922,36,Essendon,13,L,6,,,,,,,,,,,,,,,,,,,,,,,,1922-05-24
+Fitzroy,1922,37,Richmond,15,L,6,,,,,,,,,,,,,,,,,,,,,,,,1922-06-07
+Fitzroy,1922,38,Collingwood,16,L,6,,,,,,,,,,,,,,,,,,,,,,,,1922-06-14
+Fitzroy,1922,39,South Melbourne,17,W,6,,,,,2,,,,,,,,,,,,,,,,,,,1922-06-21
+Fitzroy,1922,40,Melbourne,18,W,6,,,,,,,,,,,,,,,,,,,,,,,,1922-06-28
+Fitzroy,1922,41,Collingwood,SF,W,6,,,,,,,,,,,,,,,,,,,,,,,,1922-03-01
+Fitzroy,1922,42,Essendon,PF,W,6,,,,,,,,,,,,,,,,,,,,,,,,1922-03-01
+Fitzroy,1922,43,Collingwood,GF,W,6,,,,,,,,,,,,,,,,,,,,,,,,1922-03-01
+Fitzroy,1923,44,Carlton,1,W,6,,,,,2,,,,,,,,,,,,,,,,,,,1923-03-01
+Fitzroy,1923,45,South Melbourne,2,W,6,,,,,2,,,,,,,,,,,,,,,,,,,1923-03-08
+Fitzroy,1923,46,Geelong,3,L,6,,,,,4,,,,,,,,,,,,,,,,,,,1923-03-15
+Fitzroy,1923,47,Essendon,5,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1923-03-29
+Fitzroy,1923,48,Melbourne,6,W,6,,,,,,,,,,,,,,,,,,,,,,,,1923-04-05
+Fitzroy,1923,49,St Kilda,7,W,6,,,,,2,,,,,,,,,,,,,,,,,,,1923-04-12
+Fitzroy,1923,50,Collingwood,8,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1923-04-19
+Fitzroy,1923,51,Richmond,9,W,6,,,,,2,,,,,,,,,,,,,,,,,,,1923-04-26
+Fitzroy,1923,52,Carlton,10,L,6,,,,,3,,,,,,,,,,,,,,,,,,,1923-05-03
+Fitzroy,1923,53,South Melbourne,11,L,6,,,,,3,,,,,,,,,,,,,,,,,,,1923-05-10
+Fitzroy,1923,54,Essendon,14,W,6,,,,,,,,,,,,,,,,,,,,,,,,1923-05-31
+Fitzroy,1923,55,Melbourne,15,W,6,,,,,3,,,,,,,,,,,,,,,,,,,1923-06-07
+Fitzroy,1923,56,St Kilda,16,W,6,,,,,3,,,,,,,,,,,,,,,,,,,1923-06-14
+Fitzroy,1924,57,Richmond,SF,W,,,,,,,,,,,,,,,,,,,,,,,,,1924-03-01
+Fitzroy,1924,58,South Melbourne,SF,L,,,,,,1,,,,,,,,,,,,,,,,,,,1924-03-01

@@ -1,0 +1,25 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1930,1,South Melbourne,1,W,28,,,,,,,,,,,,,,,,,,,,,,,,1930-03-01
+Melbourne,1930,2,Geelong,2,W,28,,,,,,,,,,,,,,,,,,,,,,,,1930-03-08
+Melbourne,1930,3,Fitzroy,3,W,28,,,,,,,,,,,,,,,,,,,,,,,,1930-03-15
+Melbourne,1930,4,North Melbourne,4,W,28,,,,,,,,,,,,,,,,,,,,,,,,1930-03-22
+Melbourne,1930,5,St Kilda,6,L,28,,,,,,,,,,,,,,,,,,,,,,,,1930-04-05
+Melbourne,1930,6,Collingwood,14,L,28,,,,,,,,,,,,,,,,,,,,,,,,1930-05-31
+Melbourne,1930,7,Essendon,16,L,28,,,,,,,,,,,,,,,,,,,,,,,,1930-06-14
+Melbourne,1930,8,Richmond,17,L,28,,,,,,,,,,,,,,,,,,,,,,,,1930-06-21
+Melbourne,1930,9,Hawthorn,18,L,28,,,,,,,,,,,,,,,,,,,,,,,,1930-06-28
+Melbourne,1931,10,Fitzroy,1,W,28,,,,,,,,,,,,,,,,,,,,,,,,1931-03-01
+Melbourne,1931,11,Geelong,3,W,28,,,,,1,,,,,,,,,,,,,,,,,,,1931-03-15
+Melbourne,1931,12,Hawthorn,4,W,28,,,,,3,,,,,,,,,,,,,,,,,,,1931-03-22
+Melbourne,1931,13,St Kilda,9,L,28,,,,,,,,,,,,,,,,,,,,,,,,1931-04-26
+Melbourne,1931,14,Richmond,10,L,28,,,,,,,,,,,,,,,,,,,,,,,,1931-05-03
+Melbourne,1931,15,South Melbourne,11,L,28,,,,,,,,,,,,,,,,,,,,,,,,1931-05-10
+Melbourne,1931,16,Fitzroy,12,L,28,,,,,,,,,,,,,,,,,,,,,,,,1931-05-17
+Melbourne,1931,17,Essendon,13,W,28,,,,,1,,,,,,,,,,,,,,,,,,,1931-05-24
+Melbourne,1931,18,Geelong,14,L,28,,,,,,,,,,,,,,,,,,,,,,,,1931-05-31
+Melbourne,1931,19,Hawthorn,15,W,28,,,,,,,,,,,,,,,,,,,,,,,,1931-06-07
+Melbourne,1931,20,North Melbourne,17,W,28,,,,,,,,,,,,,,,,,,,,,,,,1931-06-21
+Melbourne,1931,21,Collingwood,18,L,28,,,,,,,,,,,,,,,,,,,,,,,,1931-06-28
+Melbourne,1932,22,North Melbourne,5,L,28,,,,,,,,,,,,,,,,,,,,,,,,1932-03-29
+Melbourne,1932,23,Carlton,6,L,28,,,,,,,,,,,,,,,,,,,,,,,,1932-04-05
+Melbourne,1932,24,Collingwood,7,L,28,,,,,,,,,,,,,,,,,,,,,,,,1932-04-12

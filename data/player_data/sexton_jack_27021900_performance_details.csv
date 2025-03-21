@@ -1,0 +1,30 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1932,1,Carlton,1,W,11,,,,,,,,,,,,,,,,,,,,,,,,1932-03-01
+Fitzroy,1932,2,North Melbourne,3,L,11,,,,,,,,,,,,,,,2,,,,,,,,,1932-03-15
+Fitzroy,1932,3,Collingwood,4,L,11,,,,,,,,,,,,,,,,,,,,,,,,1932-03-22
+Fitzroy,1932,4,Geelong,5,L,11,,,,,,,,,,,,,,,,,,,,,,,,1932-03-29
+Fitzroy,1932,5,Essendon,6,L,11,,,,,,,,,,,,,,,,,,,,,,,,1932-04-05
+Fitzroy,1932,6,Richmond,7,L,11,,,,,,,,,,,,,,,,,,,,,,,,1932-04-12
+Fitzroy,1932,7,Hawthorn,8,W,11,,,,,,,,,,,,,,,,,,,,,,,,1932-04-19
+Fitzroy,1932,8,South Melbourne,9,L,11,,,,,,,,,,,,,,,,,,,,,,,,1932-04-26
+Fitzroy,1932,9,Melbourne,10,L,11,,,,,2,,,,,,,,,,,,,,,,,,,1932-05-03
+Fitzroy,1932,10,St Kilda,11,L,11,,,,,,,,,,,,,,,,,,,,,,,,1932-05-10
+Fitzroy,1932,11,Carlton,12,L,11,,,,,,,,,,,,,,,,,,,,,,,,1932-05-17
+Fitzroy,1932,12,Footscray,13,L,11,,,,,,,,,,,,,,,,,,,,,,,,1932-05-24
+Fitzroy,1932,13,North Melbourne,14,L,11,,,,,,,,,,,,,,,,,,,,,,,,1932-05-31
+Fitzroy,1932,14,Collingwood,15,L,11,,,,,,,,,,,,,,,,,,,,,,,,1932-06-07
+Fitzroy,1932,15,Geelong,16,L,11,,,,,,,,,,,,,,,,,,,,,,,,1932-06-14
+Fitzroy,1932,16,Essendon,17,W,11,,,,,,,,,,,,,,,,,,,,,,,,1932-06-21
+Fitzroy,1932,17,Richmond,18,L,11,,,,,,,,,,,,,,,,,,,,,,,,1932-06-28
+Fitzroy,1933,18,North Melbourne,1,D,11,,,,,,,,,,,,,,,,,,,,,,,,1933-03-01
+Fitzroy,1934,19,North Melbourne,1,W,20,,,,,,,,,,,,,,,,,,,,,,,,1934-03-01
+Fitzroy,1934,20,Footscray,2,L,20,,,,,,,,,,,,,,,,,,,,,,,,1934-03-08
+Fitzroy,1934,21,Melbourne,4,L,20,,,,,,,,,,,,,,,,,,,,,,,,1934-03-22
+Fitzroy,1934,22,Carlton,5,W,20,,,,,3,,,,,,,,,,,,,,,,,,,1934-03-29
+Fitzroy,1934,23,Collingwood,6,L,20,,,,,2,,,,,,,,,,,,,,,,,,,1934-04-05
+Fitzroy,1934,24,Essendon,7,W,20,,,,,2,,,,,,,,,,,,,,,,,,,1934-04-12
+Fitzroy,1934,25,South Melbourne,8,L,20,,,,,1,,,,,,,,,,,,,,,,,,,1934-04-19
+Fitzroy,1934,26,St Kilda,14,L,20,,,,,,,,,,,,,,,,,,,,,,,,1934-05-31
+Fitzroy,1934,27,Melbourne,15,W,20,,,,,,,,,,,,,,,,,,,,,,,,1934-06-07
+Fitzroy,1934,28,Carlton,16,L,20,,,,,,,,,,,,,,,,,,,,,,,,1934-06-14
+Fitzroy,1934,29,Collingwood,17,L,20,,,,,,,,,,,,,,,,,,,,,,,,1934-06-21

@@ -1,0 +1,23 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1950,1,Melbourne,12,L,19,,,,,,,,,,,,,,,,,,,,,,,,1950-05-17
+Carlton,1950,2,North Melbourne,13,L,19,,,,,,,,,,,,,,,,,,,,,,,,1950-05-24
+Carlton,1950,3,Collingwood,14,L,19,,,,,,,,,,,,,,,,,,,,,,,,1950-05-31
+Carlton,1950,4,Richmond,15,L,19,,,,,,,,,,,,,,,,,,,,,,,,1950-06-07
+Carlton,1950,5,St Kilda,16,D,19,,,,,,,,,,,,,,,,,,,,,,,,1950-06-14
+Carlton,1951,6,Hawthorn,1,W,19,,,,,,,,,,,,,,,,,,,,,,,,1951-03-01
+Carlton,1951,7,Footscray,2,L,19,,,,,,,,,,,,,,,,,,,,,,,,1951-03-08
+Carlton,1951,8,Richmond,3,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1951-03-15
+Carlton,1951,9,Geelong,4,L,19,,,,,,,,,,,,,,,,,,,,,,,,1951-03-22
+Carlton,1951,10,Collingwood,8,L,19,,,,,,,,,,,,,,,,,,,,,,,,1951-04-19
+Carlton,1951,11,North Melbourne,10,W,19,,,,,,,,,,,,,,,,,,,,,,,,1951-05-03
+Carlton,1951,12,Footscray,13,L,19,,,,,,,,,,,,,,,,,,,,,,,,1951-05-24
+Carlton,1951,13,Geelong,15,L,19,,,,,,,,,,,,,,,,,,,,,,,,1951-06-07
+Carlton,1952,14,Essendon,4,W,19,,,,,,,,,,,,,,,,,,,,,,,,1952-03-22
+Carlton,1952,15,Collingwood,5,L,19,,,,,,,,,,,,,,,,,,,,,,,,1952-03-29
+Carlton,1952,16,North Melbourne,13,W,19,,,,,,,,,,,,,,,,,,,,,,,,1952-05-24
+Carlton,1952,17,St Kilda,18,W,19,,,,,,,,,,,,,,,,,,,,,,,,1952-06-28
+Carlton,1952,18,Fitzroy,SF,L,19,,,,,,,,,,,,,,,,,,,,,,,,1952-03-01
+Carlton,1953,19,Footscray,1,L,19,,,,,,,,,,,,,,,,,,,,,,,,1953-03-01
+Carlton,1953,20,Geelong,10,L,19,,,,,,,,,,,,,,,,,,,,,,,,1953-05-03
+Carlton,1953,21,South Melbourne,11,W,19,,,,,,,,,,,,,,,,,,,,,,,,1953-05-10
+Carlton,1953,22,Footscray,12,L,19,,,,,,,,,,,,,,,,,,,,,,,,1953-05-17

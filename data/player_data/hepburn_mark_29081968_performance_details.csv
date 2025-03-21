@@ -1,0 +1,77 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+North Melbourne,1987,1,St Kilda,18,L,34,10,6,3,13,1,3,,1,,,,,,4,,,,,,,,,,1987-06-28
+North Melbourne,1987,2,West Coast,19,W,34,10,2,4,14,4,,1,,,,,,4,2,,,,,,,,,,1987-07-05
+North Melbourne,1987,3,Footscray,20,D,34,10,4,2,12,1,1,,1,,,,,1,,,,,,,,,,,1987-07-12
+North Melbourne,1987,4,Richmond,21,W,34,5,4,5,10,1,,,1,,,,,1,1,1,,,,,,,,,1987-07-19
+North Melbourne,1987,5,Carlton,22,L,34,12,3,4,16,2,,1,2,,,,,2,3,,,,,,,,,,1987-07-26
+North Melbourne,1987,6,Melbourne,EF,L,34,7,3,3,10,1,1,1,1,,,,,1,2,,,,,,,,,,1987-03-01
+North Melbourne,1988,7,Essendon,1,L,34,11,3,1,12,2,,,1,,,,,3,2,,,,,,,,,,1988-03-01
+North Melbourne,1988,8,Geelong,2,L,34,5,,4,9,1,,,1,,,,,2,1,,,,,,,,,,1988-03-08
+North Melbourne,1988,9,St Kilda,3,L,34,3,,4,7,,,,1,,,,,1,,,,,,,,,,,1988-03-15
+North Melbourne,1988,10,West Coast,6,W,34,6,1,4,10,1,2,,1,,,,,,,,,,,,,,,,1988-04-05
+North Melbourne,1988,11,Richmond,7,W,34,3,1,3,6,,,1,,,,,,1,,,,,,,,,,,1988-04-12
+North Melbourne,1988,12,Carlton,8,L,34,10,3,2,12,,,7,2,,,,,2,,,,,,,,,,,1988-04-19
+North Melbourne,1988,13,Collingwood,9,L,34,1,,,1,,,,,,,,,,,,,,,,,,,,1988-04-26
+North Melbourne,1988,14,Melbourne,12,W,34,7,1,3,10,,,8,,,,,,1,2,,,,,,,,,,1988-05-17
+North Melbourne,1988,15,Brisbane Bears,13,W,34,10,6,4,14,,,14,2,,,,,1,2,,,,,,,,,,1988-05-24
+North Melbourne,1988,16,Fitzroy,14,W,34,13,5,4,17,,2,9,3,,,,,2,2,,,,,,,,,,1988-05-31
+North Melbourne,1989,17,Geelong,1,W,34,8,4,4,12,2,1,7,,,,,,1,1,,,,,,,,,,1989-03-01
+North Melbourne,1989,18,Hawthorn,2,L,34,7,4,1,8,,2,,1,,,,,1,2,,,,,,,,,,1989-03-08
+North Melbourne,1989,19,Footscray,3,W,34,7,3,3,10,1,,4,1,,,,,1,5,,,,,,,,,,1989-03-15
+North Melbourne,1989,20,West Coast,4,W,34,14,8,6,20,4,,,,,,,,,2,,,,,,,,,,1989-03-22
+North Melbourne,1989,21,Richmond,5,L,34,7,2,3,10,,1,7,1,,,,,1,1,,,,,,,,,,1989-03-29
+North Melbourne,1989,22,Essendon,6,W,34,3,2,6,9,,,3,4,,,,,,,,,,,,,,,,1989-04-05
+North Melbourne,1989,23,Sydney,7,W,34,6,1,,6,1,1,4,,,,,,1,,,,,,,,,,,1989-04-12
+North Melbourne,1989,24,St Kilda,8,L,34,3,1,2,5,,,3,1,,,,,1,,,,,,,,,,,1989-04-19
+North Melbourne,1989,25,Brisbane Bears,9,W,34,6,4,4,10,,2,4,3,,,,,2,2,,,,,,,,,,1989-04-26
+North Melbourne,1989,26,Melbourne,10,L,34,2,,2,4,,,3,1,,,,,,1,,,,,,,,,,1989-05-03
+North Melbourne,1989,27,St Kilda,14,W,34,14,4,4,18,1,,15,4,,,,,,6,,,,,,,,,,1989-05-31
+North Melbourne,1989,28,Melbourne,15,L,34,7,2,5,12,,,7,4,,,,,1,3,,,,,,,,,,1989-06-07
+North Melbourne,1989,29,Fitzroy,16,L,34,7,3,3,10,,1,14,,,,,,,,,,,,,,,,,1989-06-14
+North Melbourne,1989,30,Hawthorn,17,L,34,8,8,6,14,,1,8,,,,,,2,2,,,,,,,,,,1989-06-21
+North Melbourne,1989,31,Brisbane Bears,18,L,34,8,3,2,10,1,,7,,,,,,1,2,,,,,,,,,,1989-06-28
+North Melbourne,1989,32,Collingwood,19,W,34,4,4,7,11,,,7,,,,,,1,2,,,,,,,,,,1989-07-05
+North Melbourne,1989,33,Essendon,20,L,34,8,1,2,10,,,6,,,,,,3,1,,,,,,,,,,1989-07-12
+North Melbourne,1989,34,Geelong,21,L,34,3,2,7,10,,,14,3,,,,,1,1,,,,,,,,,,1989-07-19
+North Melbourne,1989,35,Sydney,22,L,34,5,3,10,15,,1,9,2,,,,,1,1,,,,,,,,,,1989-07-26
+North Melbourne,1990,36,Richmond,2,W,34,5,4,4,9,,,12,1,,,,,,1,,,,,,,,,,1990-03-08
+North Melbourne,1990,37,Brisbane Bears,3,W,34,10,4,2,12,,,12,,,,,,2,3,3,,,,,,,,,1990-03-15
+North Melbourne,1990,38,Geelong,4,L,34,10,2,3,13,,,10,2,,,,,2,1,,,,,,,,,,1990-03-22
+North Melbourne,1990,39,Hawthorn,5,L,34,10,3,4,14,,3,7,2,,,,,4,3,,,,,,,,,,1990-03-29
+North Melbourne,1990,40,Carlton,6,L,34,5,3,7,12,,,4,,,,,,1,2,,,,,,,,,,1990-04-05
+North Melbourne,1990,41,Footscray,7,L,34,7,6,6,13,1,1,13,,,,,,1,2,,,,,,,,,,1990-04-12
+North Melbourne,1990,42,St Kilda,8,L,34,4,4,5,9,,,3,2,,,,,,4,,,,,,,,,,1990-04-19
+North Melbourne,1990,43,Collingwood,9,L,34,6,2,4,10,,,9,3,,,,,,1,,,,,,,,,,1990-04-26
+North Melbourne,1990,44,West Coast,10,W,34,11,3,9,20,,2,6,1,,,,,5,1,,,,,,,,,,1990-05-03
+North Melbourne,1990,45,Fitzroy,11,W,34,3,,3,6,,,3,,,,,,1,1,,,,,,,,,,1990-05-10
+North Melbourne,1990,46,Essendon,12,L,34,17,6,4,21,1,,8,,,,,,,1,,,,,,,,,,1990-05-17
+North Melbourne,1990,47,Sydney,13,W,34,8,4,1,9,1,1,10,1,,,,,2,1,,,,,,,,,,1990-05-24
+North Melbourne,1990,48,Melbourne,14,W,34,3,1,2,5,,,6,,,,,,,1,,,,,,,,,,1990-05-31
+North Melbourne,1990,49,Richmond,15,W,34,9,3,4,13,1,,10,1,,,,,3,6,,,,,,,,,,1990-06-07
+North Melbourne,1990,50,Brisbane Bears,16,W,34,9,1,2,11,,,9,,,,,,3,,,,,,,,,,,1990-06-14
+North Melbourne,1990,51,Geelong,17,W,34,10,3,,10,,,15,1,,,,,1,2,,,,,,,,,,1990-06-21
+North Melbourne,1990,52,Hawthorn,18,L,34,9,4,3,12,1,1,7,3,,,,,3,1,,,,,,,,,,1990-06-28
+North Melbourne,1990,53,Carlton,19,W,34,12,4,5,17,,,5,,,,,,1,,,,,,,,,,,1990-07-05
+North Melbourne,1990,54,Footscray,20,W,34,6,3,2,8,,,11,1,,,,,1,1,,,,,,,,,,1990-07-12
+North Melbourne,1990,55,St Kilda,21,W,34,12,4,3,15,,,9,2,,,,,1,1,,,,,,,,,,1990-07-19
+North Melbourne,1990,56,Collingwood,22,L,34,7,1,4,11,,,6,,,,,,1,4,,,,,,,,,,1990-07-26
+West Coast,1991,57,Melbourne,1,W,16,5,1,2,7,,,1,,,,,,,2,,,,,,,,,,1991-03-01
+West Coast,1991,58,Collingwood,2,W,16,10,2,4,14,,,1,1,,,,,,1,,,,,,,,,,1991-03-08
+West Coast,1991,59,North Melbourne,19,L,16,2,2,,2,,,2,,,,,,,,,,,,,,,,,1991-07-05
+West Coast,1991,60,Geelong,21,W,16,11,6,4,15,,,16,1,,,,,4,,,,,,,,,,,1991-07-19
+West Coast,1991,61,Hawthorn,22,W,16,3,1,,3,,,9,,,,,,1,,,,,,,,,,,1991-07-26
+West Coast,1992,62,Fitzroy,7,L,16,7,4,6,13,,,9,1,,,,,1,,,,,,,,,,,1992-04-12
+West Coast,1992,63,Footscray,8,W,16,11,6,8,19,,,7,1,,,,,2,1,,,,,,,,,,1992-04-19
+West Coast,1992,64,Carlton,9,W,16,1,3,5,6,,,1,3,,,,,,2,,,,,,,,,,1992-04-26
+West Coast,1992,65,Geelong,19,W,16,6,3,8,14,,,4,1,,,,,2,2,,,,,,,,,,1992-07-05
+West Coast,1992,66,Brisbane Bears,20,W,16,10,6,5,15,,1,14,,,,,,1,3,,,,,,,,,,1992-07-12
+West Coast,1992,67,Richmond,21,W,16,3,2,3,6,,,15,1,,,,,1,1,,,,,,,,,,1992-07-19
+West Coast,1992,68,Fitzroy,22,W,16,7,3,6,13,,,3,,,,,,3,1,,,,,,,,,,1992-07-26
+West Coast,1992,69,Footscray,23,L,16,7,4,3,10,,1,4,,,,,,1,3,,,,,,,,,,1992-08-02
+Sydney,1994,70,Adelaide,3,L,21,7,5,4,11,1,2,,,,,,,1,,,,,,,,,,,1994-03-15
+Sydney,1994,71,Richmond,4,W,21,7,3,3,10,1,,15,1,,,,,2,3,,,,,,,,,,1994-03-22
+Sydney,1994,72,Fitzroy,5,L,21,5,3,4,9,,,2,,,,,,,2,,,,,,,,,,1994-03-29
+Sydney,1994,73,Carlton,6,L,21,9,7,4,13,,,4,,,,,,2,,,,,,,,,,,1994-04-05
+Sydney,1994,74,St Kilda,7,L,21,2,3,8,10,,,,,,,,,1,1,,,,,,,,,,1994-04-12
+Sydney,1994,75,Footscray,13,L,21,6,3,4,10,,,1,1,,,,,1,2,,,,,,,,,,1994-05-24
+Sydney,1994,76,Fitzroy,20,L,21,5,3,1,6,1,,4,,,,,,,,,,,,,,,,,1994-07-12

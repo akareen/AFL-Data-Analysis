@@ -1,0 +1,21 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1985,1,North Melbourne,9,L,51,5,1,4,9,,,,,,,,,,1,,,,,,,,,,1985-04-26
+Richmond,1985,2,Geelong,10,L,51,11,3,2,13,,,,,,,,,,,,,,,,,,,,1985-05-03
+Richmond,1985,3,Melbourne,11,W,51,12,4,6,18,3,2,,,,,,,3,1,,,,,,,,,,1985-05-10
+Richmond,1985,4,Essendon,12,L,51,11,4,3,14,1,1,,,,,,,1,,,,,,,,,,,1985-05-17
+Richmond,1985,5,Sydney,13,L,51,8,5,8,16,,,,,,,,,3,1,,,,,,,,,,1985-05-24
+Richmond,1985,6,St Kilda,14,W,51,,,,,,,,,,,,,,,,,,,,,,,,1985-05-31
+Richmond,1985,7,Fitzroy,15,W,51,8,3,5,13,,,,,,,,,,1,,,,,,,,,,1985-06-07
+Richmond,1985,8,North Melbourne,20,L,51,5,5,9,14,,1,,,,,,,1,4,,,,,,,,,,1985-07-12
+Richmond,1985,9,Geelong,21,W,51,4,2,2,6,,,,,,,,,,1,,,,,,,,,,1985-07-19
+Richmond,1985,10,Melbourne,22,W,51,9,1,4,13,,,,,,,,,1,1,,,,,,,,,,1985-07-26
+Richmond,1986,11,St Kilda,5,W,14,1,,,1,,,,,,,,,,,,,,,,,,,,1986-03-29
+Richmond,1986,12,North Melbourne,15,W,14,10,1,3,13,3,1,,,,,,,1,,,,,,,,,,,1986-06-07
+Richmond,1986,13,Footscray,16,L,14,9,3,7,16,1,2,,,,,,,,2,,,,,,,,,,1986-06-14
+Richmond,1986,14,St Kilda,17,L,14,15,6,7,22,,,,,,,,,5,3,,,,,,,,,,1986-06-21
+Richmond,1986,15,Fitzroy,18,L,14,16,4,6,22,1,2,,,,,,,1,,,,,,,,,,,1986-06-28
+Richmond,1986,16,Essendon,19,L,14,10,1,7,17,,,,,,,,,,1,,,,,,,,,,1986-07-05
+Richmond,1986,17,Sydney,20,L,14,10,4,9,19,1,,,,,,,,4,2,,,,,,,,,,1986-07-12
+Richmond,1986,18,Geelong,22,L,14,9,2,5,14,,,,,,,,,1,,,,,,,,,,,1986-07-26
+West Coast,1989,19,North Melbourne,4,L,34,,,1,1,,,,,,,,,,,,,,,,,,,,1989-03-22
+West Coast,1989,20,Fitzroy,19,L,34,1,1,1,2,,,,,,,,,,1,,,,,,,,,,1989-07-05

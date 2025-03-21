@@ -1,0 +1,18 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1921,1,Melbourne,4,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1921-03-22
+South Melbourne,1921,2,Carlton,5,D,19,,,,,,,,,,,,,,,,,,,,,,,,1921-03-29
+South Melbourne,1921,3,Collingwood,6,L,19,,,,,,,,,,,,,,,,,,,,,,,,1921-04-05
+South Melbourne,1921,4,Geelong,8,W,19,,,,,,,,,,,,,,,,,,,,,,,,1921-04-19
+South Melbourne,1921,5,Fitzroy,9,W,19,,,,,,,,,,,,,,,,,,,,,,,,1921-04-26
+South Melbourne,1921,6,St Kilda,10,W,19,,,,,,,,,,,,,,,,,,,,,,,,1921-05-03
+South Melbourne,1921,7,Richmond,11,L,19,,,,,,,,,,,,,,,,,,,,,,,,1921-05-10
+South Melbourne,1921,8,Melbourne,13,W,19,,,,,,,,,,,,,,,,,,,,,,,,1921-05-24
+South Melbourne,1921,9,Carlton,14,L,19,,,,,,,,,,,,,,,,,,,,,,,,1921-05-31
+South Melbourne,1921,10,Geelong,17,L,19,,,,,,,,,,,,,,,,,,,,,,,,1921-06-21
+South Melbourne,1921,11,Fitzroy,18,L,19,,,,,,,,,,,,,,,,,,,,,,,,1921-06-28
+Geelong,1923,12,Carlton,9,W,7,,,,,,,,,,,,,,,,,,,,,,,,1923-04-26
+Geelong,1923,13,Melbourne,11,W,7,,,,,,,,,,,,,,,,,,,,,,,,1923-05-10
+Geelong,1923,14,Fitzroy,12,W,7,,,,,,,,,,,,,,,,,,,,,,,,1923-05-17
+Geelong,1923,15,Collingwood,13,W,7,,,,,,,,,,,,,,,,,,,,,,,,1923-05-24
+Geelong,1923,16,South Melbourne,14,L,7,,,,,,,,,,,,,,,,,,,,,,,,1923-05-31
+Geelong,1923,17,Richmond,16,W,7,,,,,,,,,,,,,,,,,,,,,,,,1923-06-14

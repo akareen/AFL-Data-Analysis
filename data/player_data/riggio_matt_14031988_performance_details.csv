@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Kangaroos,2007,1,Collingwood,1,L,28,5,1,4,9,,,,,,,3,2,1,,,3,4,,,2,,,81,2007-03-01
+Kangaroos,2007,2,Port Adelaide,2,L,28,2,1,4,6,,,,2,1,,,1,,,,,5,,,4,,,86,2007-03-08
+North Melbourne,2008,3,West Coast,8,W,28,12,5,4,16,,1,,4,1,4,1,2,,1,,3,14,,,1,1,1,65,2008-04-19
+North Melbourne,2008,4,Western Bulldogs,9,W,28,3,4,7,10,,,,1,,2,,2,,1,,4,7,,,1,,2,54,2008-04-26
+North Melbourne,2008,5,Brisbane Lions,10,L,28,7,2,4,11,,1,,2,1,2,1,2,1,,,5,6,,,,,1,63,2008-05-03
+North Melbourne,2008,6,Geelong,11,L,28,10,6,6,16,,,,3,3,3,2,1,2,,,6,11,,,3,,1,65,2008-05-10
+North Melbourne,2008,7,Fremantle,12,L,28,7,4,3,10,,,,2,,,,5,3,1,,4,7,,,,1,,69,2008-05-17
+North Melbourne,2008,8,Hawthorn,13,W,28,2,,7,9,,1,,4,,1,1,1,,,,5,4,,,1,,,61,2008-05-24
+North Melbourne,2008,9,St Kilda,14,L,28,3,,5,8,,1,,1,,,,1,1,,,3,6,,,,,,59,2008-05-31
+North Melbourne,2009,10,Geelong,8,L,28,4,3,6,10,,,,3,1,1,,1,,1,,3,7,,,,,,70,2009-04-19

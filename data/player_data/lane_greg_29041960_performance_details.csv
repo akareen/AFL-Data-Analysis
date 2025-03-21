@@ -1,0 +1,15 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1983,1,North Melbourne,1,L,15,15,,,15,1,1,,,,,,,4,,,,,,,,,,,1983-03-01
+St Kilda,1983,2,Essendon,2,L,15,14,1,3,17,3,2,,,,,,,3,1,,,,,,,,,,1983-03-08
+St Kilda,1983,3,Hawthorn,3,L,15,15,3,1,16,,2,,,,,,,3,3,,,,,,,,,,1983-03-15
+St Kilda,1983,4,Geelong,4,L,15,9,1,1,10,,,,,,,,,2,3,,,,,,,,,,1983-03-22
+St Kilda,1983,5,Footscray,10,L,15,7,1,2,9,1,1,,,,,,,,2,,,,,,,,,,1983-05-03
+St Kilda,1983,6,Collingwood,11,L,15,10,4,9,19,,1,,,,,,,5,,,,,,,,,,,1983-05-10
+St Kilda,1983,7,North Melbourne,12,L,15,7,1,1,8,1,,,,,,,,2,,,,,,,,,,,1983-05-17
+St Kilda,1983,8,Essendon,13,L,15,14,7,2,16,1,,,,,,,,2,,,,,,,,,,,1983-05-24
+St Kilda,1983,9,Hawthorn,14,L,15,10,2,3,13,1,,,,,,,,2,1,,,,,,,,,,1983-05-31
+St Kilda,1984,10,Hawthorn,4,L,15,5,2,,5,,,,,,,,,,,,,,,,,,,,1984-03-22
+St Kilda,1984,11,Melbourne,11,L,15,4,2,,4,,,,,,,,,2,,,,,,,,,,,1984-05-10
+St Kilda,1984,12,Essendon,20,L,15,5,2,1,6,,,,,,,,,,1,,,,,,,,,,1984-07-12
+St Kilda,1984,13,Melbourne,21,L,15,14,1,2,16,,1,,,,,,,5,2,,,,,,,,,,1984-07-19
+St Kilda,1984,14,Fitzroy,22,L,15,13,4,1,14,2,2,,,,,,,2,1,,,,,,,,,,1984-07-26

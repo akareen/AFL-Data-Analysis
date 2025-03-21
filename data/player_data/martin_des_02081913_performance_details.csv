@@ -1,0 +1,16 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1941,1,Hawthorn,7,W,8,,,,,,,,,,,,,,,,,,,,,,,,1941-04-12
+South Melbourne,1941,2,North Melbourne,8,W,8,,,,,,,,,,,,,,,,,,,,,,,,1941-04-19
+South Melbourne,1941,3,Richmond,9,L,8,,,,,,,,,,,,,,,,,,,,,,,,1941-04-26
+South Melbourne,1941,4,Collingwood,10,W,8,,,,,,,,,,,,,,,,,,,,,,,,1941-05-03
+South Melbourne,1941,5,Carlton,11,W,8,,,,,3,,,,,,,,,,,,,,,,,,,1941-05-10
+South Melbourne,1941,6,St Kilda,12,W,8,,,,,1,,,,,,,,,,,,,,,,,,,1941-05-17
+South Melbourne,1941,7,Fitzroy,15,L,8,,,,,,,,,,,,,,,,,,,,,,,,1941-06-07
+South Melbourne,1941,8,Geelong,16,W,8,,,,,1,,,,,,,,,,,,,,,,,,,1941-06-14
+South Melbourne,1941,9,Hawthorn,18,L,8,,,,,1,,,,,,,,,,,,,,,,,,,1941-06-28
+South Melbourne,1942,10,Essendon,11,L,8,,,,,,,,,,,,,,,,,,,,,,,,1942-05-10
+Richmond,1942,11,Melbourne,13,W,32,,,,,2,,,,,,,,,,,,,,,,,,,1942-05-24
+Richmond,1942,12,Collingwood,14,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1942-05-31
+Richmond,1942,13,St Kilda,15,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1942-06-07
+Richmond,1942,14,Carlton,16,L,32,,,,,,,,,,,,,,,,,,,,,,,,1942-06-14
+Richmond,1942,15,Essendon,GF,L,10,,,,,1,,,,,,,,,,,,,,,,,,,1942-03-01

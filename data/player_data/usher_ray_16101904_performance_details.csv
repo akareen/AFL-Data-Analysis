@@ -1,0 +1,83 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1928,1,Footscray,11,W,34,,,,,,,,,,,,,,,,,,,,,,,,1928-05-10
+Melbourne,1928,2,Essendon,12,L,34,,,,,,,,,,,,,,,,,,,,,,,,1928-05-17
+Melbourne,1928,3,Geelong,13,W,34,,,,,,,,,,,,,,,,,,,,,,,,1928-05-24
+Melbourne,1928,4,Fitzroy,14,W,34,,,,,,,,,,,,,,,,,,,,,,,,1928-05-31
+Melbourne,1928,5,Richmond,15,L,34,,,,,,,,,,,,,,,,,,,,,,,,1928-06-07
+Melbourne,1928,6,Hawthorn,16,W,34,,,,,,,,,,,,,,,,,,,,,,,,1928-06-14
+Melbourne,1928,7,St Kilda,17,L,34,,,,,,,,,,,,,,,,,,,,,,,,1928-06-21
+Melbourne,1928,8,North Melbourne,18,W,34,,,,,,,,,,,,,,,,,,,,,,,,1928-06-28
+Melbourne,1928,9,Collingwood,SF,D,34,,,,,,,,,,,,,,,,,,,,,,,,1928-03-01
+Melbourne,1928,10,Collingwood,SF,L,34,,,,,,,,,,,,,,,,,,,,,,,,1928-03-01
+Melbourne,1929,11,South Melbourne,1,W,34,,,,,,,,,,,,,,,,,,,,,,,,1929-03-01
+Melbourne,1929,12,Geelong,2,L,34,,,,,,,,,,,,,,,,,,,,,,,,1929-03-08
+Melbourne,1929,13,Fitzroy,3,W,34,,,,,,,,,,,,,,,,,,,,,,,,1929-03-15
+Melbourne,1929,14,North Melbourne,4,W,34,,,,,,,,,,,,,,,,,,,,,,,,1929-03-22
+Melbourne,1929,15,Footscray,5,D,34,,,,,,,,,,,,,,,,,,,,,,,,1929-03-29
+Melbourne,1929,16,St Kilda,6,W,34,,,,,,,,,,,,,,,,,,,,,,,,1929-04-05
+Melbourne,1929,17,Collingwood,7,L,34,,,,,,,,,,,,,,,,,,,,,,,,1929-04-12
+Melbourne,1929,18,Carlton,8,L,34,,,,,,,,,,,,,,,,,,,,,,,,1929-04-19
+Melbourne,1929,19,Essendon,9,W,34,,,,,,,,,,,,,,,,,,,,,,,,1929-04-26
+Melbourne,1929,20,South Melbourne,12,L,34,,,,,,,,,,,,,,,,,,,,,,,,1929-05-17
+Melbourne,1929,21,Geelong,13,W,34,,,,,,,,,,,,,,,,,,,,,,,,1929-05-24
+Melbourne,1929,22,Fitzroy,14,W,34,,,,,,,,,,,,,,,,,,,,,,,,1929-05-31
+Melbourne,1929,23,North Melbourne,15,W,34,,,,,,,,,,,,,,,,,,,,,,,,1929-06-07
+Melbourne,1929,24,Footscray,16,W,34,,,,,,,,,,,,,,,,,,,,,,,,1929-06-14
+Melbourne,1929,25,St Kilda,17,L,34,,,,,,,,,,,,,,,,,,,,,,,,1929-06-21
+Melbourne,1929,26,Collingwood,18,L,34,,,,,,,,,,,,,,,,,,,,,,,,1929-06-28
+Melbourne,1930,27,South Melbourne,1,W,34,,,,,,,,,,,,,,,,,,,,,,,,1930-03-01
+Melbourne,1930,28,Geelong,2,W,34,,,,,,,,,,,,,,,,,,,,,,,,1930-03-08
+Melbourne,1930,29,Fitzroy,3,W,34,,,,,,,,,,,,,,,,,,,,,,,,1930-03-15
+Melbourne,1930,30,North Melbourne,4,W,34,,,,,1,,,,,,,,,,,,,,,,,,,1930-03-22
+Melbourne,1930,31,Footscray,5,W,34,,,,,,,,,,,,,,,,,,,,,,,,1930-03-29
+Melbourne,1930,32,St Kilda,6,L,34,,,,,,,,,,,,,,,,,,,,,,,,1930-04-05
+Melbourne,1930,33,Collingwood,7,L,34,,,,,,,,,,,,,,,,,,,,,,,,1930-04-12
+Melbourne,1930,34,Carlton,8,W,34,,,,,,,,,,,,,,,,,,,,,,,,1930-04-19
+Melbourne,1930,35,Essendon,9,W,34,,,,,,,,,,,,,,,,,,,,,,,,1930-04-26
+Melbourne,1930,36,Hawthorn,11,W,34,,,,,,,,,,,,,,,,,,,,,,,,1930-05-10
+Melbourne,1930,37,Footscray,12,W,34,,,,,,,,,,,,,,,,,,,,,,,,1930-05-17
+Melbourne,1930,38,St Kilda,13,W,34,,,,,,,,,,,,,,,,,,,,,,,,1930-05-24
+Melbourne,1930,39,Collingwood,14,L,34,,,,,,,,,,,,,,,,,,,,,,,,1930-05-31
+Melbourne,1930,40,Carlton,15,W,34,,,,,,,,,,,,,,,,,,,,,,,,1930-06-07
+Melbourne,1930,41,Essendon,16,L,34,,,,,,,,,,,,,,,,,,,,,,,,1930-06-14
+Melbourne,1930,42,Richmond,17,L,34,,,,,,,,,,,,,,,,,,,,,,,,1930-06-21
+Melbourne,1931,43,Fitzroy,1,W,34,,,,,,,,,,,,,,,,,,,,,,,,1931-03-01
+Melbourne,1931,44,Essendon,2,L,34,,,,,,,,,,,,,,,3,,,,,,,,,1931-03-08
+Melbourne,1931,45,Geelong,3,W,34,,,,,1,,,,,,,,,,,,,,,,,,,1931-03-15
+Melbourne,1931,46,Hawthorn,4,W,34,,,,,,,,,,,,,,,,,,,,,,,,1931-03-22
+Melbourne,1931,47,Footscray,5,W,34,,,,,,,,,,,,,,,,,,,,,,,,1931-03-29
+Melbourne,1931,48,Collingwood,7,L,34,,,,,,,,,,,,,,,2,,,,,,,,,1931-04-12
+Melbourne,1931,49,Carlton,8,L,34,,,,,,,,,,,,,,,,,,,,,,,,1931-04-19
+Melbourne,1931,50,St Kilda,9,L,34,,,,,,,,,,,,,,,,,,,,,,,,1931-04-26
+Melbourne,1931,51,Richmond,10,L,34,,,,,,,,,,,,,,,,,,,,,,,,1931-05-03
+Melbourne,1931,52,South Melbourne,11,L,34,,,,,,,,,,,,,,,,,,,,,,,,1931-05-10
+Melbourne,1931,53,Geelong,14,L,34,,,,,,,,,,,,,,,,,,,,,,,,1931-05-31
+Melbourne,1931,54,Hawthorn,15,W,34,,,,,,,,,,,,,,,,,,,,,,,,1931-06-07
+Melbourne,1931,55,Footscray,16,L,34,,,,,,,,,,,,,,,,,,,,,,,,1931-06-14
+Melbourne,1931,56,North Melbourne,17,W,34,,,,,,,,,,,,,,,,,,,,,,,,1931-06-21
+Melbourne,1931,57,Collingwood,18,L,34,,,,,,,,,,,,,,,,,,,,,,,,1931-06-28
+Melbourne,1932,58,South Melbourne,1,L,34,,,,,,,,,,,,,,,,,,,,,,,,1932-03-01
+Melbourne,1932,59,Richmond,2,L,34,,,,,,,,,,,,,,,,,,,,,,,,1932-03-08
+Melbourne,1932,60,Hawthorn,3,L,34,,,,,,,,,,,,,,,1,,,,,,,,,1932-03-15
+Melbourne,1932,61,Geelong,4,L,34,,,,,,,,,,,,,,,,,,,,,,,,1932-03-22
+Melbourne,1932,62,North Melbourne,5,L,34,,,,,,,,,,,,,,,,,,,,,,,,1932-03-29
+Melbourne,1932,63,Carlton,6,L,34,,,,,,,,,,,,,,,,,,,,,,,,1932-04-05
+Melbourne,1932,64,Collingwood,7,L,34,,,,,,,,,,,,,,,,,,,,,,,,1932-04-12
+Melbourne,1932,65,Footscray,8,L,34,,,,,,,,,,,,,,,,,,,,,,,,1932-04-19
+Melbourne,1932,66,Fitzroy,10,W,34,,,,,,,,,,,,,,,,,,,,,,,,1932-05-03
+Melbourne,1932,67,Essendon,11,W,34,,,,,,,,,,,,,,,,,,,,,,,,1932-05-10
+Melbourne,1932,68,South Melbourne,12,L,34,,,,,,,,,,,,,,,,,,,,,,,,1932-05-17
+Melbourne,1932,69,Hawthorn,14,W,34,,,,,,,,,,,,,,,,,,,,,,,,1932-05-31
+Melbourne,1932,70,North Melbourne,16,L,34,,,,,,,,,,,,,,,,,,,,,,,,1932-06-14
+Melbourne,1932,71,Carlton,17,L,34,,,,,,,,,,,,,,,,,,,,,,,,1932-06-21
+Melbourne,1932,72,Collingwood,18,L,34,,,,,,,,,,,,,,,,,,,,,,,,1932-06-28
+Melbourne,1933,73,Richmond,1,L,14,,,,,,,,,,,,,,,,,,,,,,,,1933-03-01
+Melbourne,1933,74,Geelong,2,L,14,,,,,,,,,,,,,,,,,,,,,,,,1933-03-08
+Melbourne,1933,75,Essendon,3,W,14,,,,,,,,,,,,,,,,,,,,,,,,1933-03-15
+Melbourne,1933,76,Fitzroy,4,L,14,,,,,,,,,,,,,,,,,,,,,,,,1933-03-22
+Melbourne,1933,77,North Melbourne,8,L,14,,,,,,,,,,,,,,,,,,,,,,,,1933-04-19
+Melbourne,1933,78,South Melbourne,10,L,14,,,,,,,,,,,,,,,,,,,,,,,,1933-05-03
+Melbourne,1933,79,Hawthorn,11,W,14,,,,,,,,,,,,,,,,,,,,,,,,1933-05-10
+Melbourne,1933,80,Geelong,13,L,14,,,,,,,,,,,,,,,,,,,,,,,,1933-05-24
+Melbourne,1933,81,Carlton,17,L,14,,,,,,,,,,,,,,,1,,,,,,,,,1933-06-21
+Melbourne,1933,82,Collingwood,18,L,14,,,,,,,,,,,,,,,,,,,,,,,,1933-06-28

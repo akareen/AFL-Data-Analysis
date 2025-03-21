@@ -1,0 +1,32 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1910,1,Fitzroy,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-01
+Essendon,1910,2,University,2,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-08
+Essendon,1910,3,South Melbourne,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-15
+Essendon,1910,4,Collingwood,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-22
+Essendon,1910,5,St Kilda,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-29
+Essendon,1910,6,Melbourne,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-05
+Essendon,1910,7,Carlton,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-12
+Essendon,1910,8,Richmond,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-26
+Essendon,1910,9,Fitzroy,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-03
+Essendon,1910,10,University,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-10
+Essendon,1910,11,South Melbourne,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-17
+Essendon,1910,12,Collingwood,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-24
+Essendon,1910,13,Melbourne,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-07
+Essendon,1910,14,Carlton,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-14
+Essendon,1910,15,Geelong,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-21
+Essendon,1910,16,Richmond,18,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-28
+Essendon,1910,17,Collingwood,SF,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-01
+Essendon,1911,18,Carlton,1,D,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-01
+Essendon,1911,19,Richmond,2,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-08
+Essendon,1911,20,Melbourne,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-15
+Essendon,1911,21,Collingwood,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-22
+Essendon,1911,22,University,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-29
+Essendon,1911,23,South Melbourne,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-26
+Essendon,1911,24,Richmond,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-10
+Essendon,1911,25,Melbourne,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-17
+Essendon,1911,26,Collingwood,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-24
+Essendon,1911,27,St Kilda,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-14
+Essendon,1911,28,South Melbourne,18,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-28
+University,1912,29,Essendon,1,L,1,,,,,,,,,,,,,,,,,,,,,,,,1912-03-01
+University,1912,30,Carlton,9,L,1,,,,,,,,,,,,,,,,,,,,,,,,1912-04-26
+University,1912,31,Essendon,10,L,1,,,,,,,,,,,,,,,,,,,,,,,,1912-05-03

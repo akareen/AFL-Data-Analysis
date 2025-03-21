@@ -1,0 +1,24 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1961,1,Carlton,11,W,14,,,,,,,,,,,,,,,,,,,,,,,,1961-05-10
+Geelong,1961,2,Richmond,17,W,14,,,,,,,,,,,,,,,,,,,,,,,,1961-06-21
+Geelong,1962,3,Carlton,1,W,14,,,,,,,,,,,,,,,,,,,,,,,,1962-03-01
+Geelong,1962,4,Hawthorn,3,W,14,,,,,,,,,,,,,,,,,,,,,,,,1962-03-15
+Geelong,1962,5,Richmond,4,W,14,,,,,3,,,,,,,,,,,,,,,,,,,1962-03-22
+Geelong,1962,6,Collingwood,5,L,14,,,,,1,,,,,,,,,,,,,,,,,,,1962-03-29
+Geelong,1962,7,Carlton,12,L,14,,,,,,,,,,,,,,,,,,,,,,,,1962-05-17
+North Melbourne,1963,8,Hawthorn,6,L,41,,,,,1,,,,,,,,,,,,,,,,,,,1963-04-05
+North Melbourne,1963,9,St Kilda,7,L,41,,,,,2,,,,,,,,,,,,,,,,,,,1963-04-12
+North Melbourne,1963,10,Fitzroy,8,W,41,,,,,,,,,,,,,,,,,,,,,,,,1963-04-19
+North Melbourne,1963,11,Melbourne,9,L,41,,,,,,,,,,,,,,,,,,,,,,,,1963-04-26
+North Melbourne,1963,12,Essendon,10,L,41,,,,,,,,,,,,,,,,,,,,,,,,1963-05-03
+North Melbourne,1963,13,Carlton,11,W,41,,,,,4,,,,,,,,,,,,,,,,,,,1963-05-10
+North Melbourne,1963,14,Footscray,12,L,41,,,,,,,,,,,,,,,,,,,,,,,,1963-05-17
+North Melbourne,1963,15,Collingwood,13,W,41,,,,,4,,,,,,,,,,,,,,,,,,,1963-05-24
+North Melbourne,1963,16,Richmond,14,W,41,,,,,2,,,,,,,,,,,,,,,,,,,1963-05-31
+North Melbourne,1963,17,Geelong,15,L,41,,,,,1,,,,,,,,,,,,,,,,,,,1963-06-07
+North Melbourne,1963,18,South Melbourne,16,W,41,,,,,,,,,,,,,,,,,,,,,,,,1963-06-14
+North Melbourne,1963,19,Hawthorn,17,L,41,,,,,2,,,,,,,,,,,,,,,,,,,1963-06-21
+North Melbourne,1963,20,St Kilda,18,L,41,,,,,1,,,,,,,,,,,,,,,,,,,1963-06-28
+North Melbourne,1964,21,Essendon,3,W,41,,,,,,,,,,,,,,,,,,,,,,,,1964-03-15
+North Melbourne,1964,22,Hawthorn,4,W,41,,,,,1,,,,,,,,,,,,,,,,,,,1964-03-22
+North Melbourne,1964,23,St Kilda,8,L,41,,,,,,,,,,,,,,,,,,,,,,,,1964-04-19

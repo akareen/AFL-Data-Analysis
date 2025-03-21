@@ -1,0 +1,45 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1929,1,North Melbourne,1,W,4,,,,,,,,,,,,,,,,,,,,,,,,1929-03-01
+Geelong,1929,2,Melbourne,2,W,4,,,,,3,,,,,,,,,,,,,,,,,,,1929-03-08
+Geelong,1929,3,St Kilda,3,W,4,,,,,,,,,,,,,,,,,,,,,,,,1929-03-15
+Geelong,1929,4,Collingwood,4,L,4,,,,,1,,,,,,,,,,,,,,,,,,,1929-03-22
+Geelong,1929,5,Carlton,5,L,4,,,,,,,,,,,,,,,,,,,,,,,,1929-03-29
+Geelong,1929,6,Essendon,6,L,4,,,,,,,,,,,,,,,,,,,,,,,,1929-04-05
+Geelong,1929,7,Richmond,7,L,4,,,,,1,,,,,,,,,,,,,,,,,,,1929-04-12
+Geelong,1929,8,Hawthorn,8,W,4,,,,,1,,,,,,,,,,,,,,,,,,,1929-04-19
+Geelong,1929,9,South Melbourne,9,W,4,,,,,,,,,,,,,,,,,,,,,,,,1929-04-26
+Geelong,1929,10,Footscray,10,L,4,,,,,2,,,,,,,,,,,,,,,,,,,1929-05-03
+Geelong,1929,11,Fitzroy,11,W,4,,,,,2,,,,,,,,,,,,,,,,,,,1929-05-10
+Geelong,1929,12,North Melbourne,12,W,4,,,,,,,,,,,,,,,,,,,,,,,,1929-05-17
+Geelong,1929,13,Melbourne,13,L,4,,,,,2,,,,,,,,,,,,,,,,,,,1929-05-24
+Geelong,1929,14,St Kilda,14,L,4,,,,,2,,,,,,,,,,,,,,,,,,,1929-05-31
+Geelong,1929,15,Collingwood,15,L,4,,,,,2,,,,,,,,,,,,,,,,,,,1929-06-07
+Geelong,1929,16,Carlton,16,L,4,,,,,,,,,,,,,,,,,,,,,,,,1929-06-14
+Geelong,1929,17,Essendon,17,L,4,,,,,1,,,,,,,,,,,,,,,,,,,1929-06-21
+Geelong,1929,18,Richmond,18,W,4,,,,,3,,,,,,,,,,,,,,,,,,,1929-06-28
+Geelong,1930,19,North Melbourne,1,W,4,,,,,,,,,,,,,,,,,,,,,,,,1930-03-01
+Geelong,1930,20,Melbourne,2,L,4,,,,,,,,,,,,,,,,,,,,,,,,1930-03-08
+Geelong,1930,21,St Kilda,3,W,4,,,,,,,,,,,,,,,,,,,,,,,,1930-03-15
+Geelong,1930,22,Essendon,6,L,4,,,,,,,,,,,,,,,,,,,,,,,,1930-04-05
+Geelong,1930,23,Richmond,7,L,4,,,,,1,,,,,,,,,,,,,,,,,,,1930-04-12
+Geelong,1930,24,South Melbourne,9,W,4,,,,,,,,,,,,,,,,,,,,,,,,1930-04-26
+Geelong,1930,25,Footscray,10,W,4,,,,,2,,,,,,,,,,,,,,,,,,,1930-05-03
+Geelong,1930,26,Fitzroy,11,W,4,,,,,,,,,,,,,,,,,,,,,,,,1930-05-10
+Geelong,1930,27,Carlton,12,L,4,,,,,3,,,,,,,,,,,,,,,,,,,1930-05-17
+Geelong,1930,28,Essendon,13,W,4,,,,,1,,,,,,,,,,,,,,,,,,,1930-05-24
+Geelong,1930,29,Collingwood,PF,W,4,,,,,,,,,,,,,,,,,,,,,,,,1930-03-01
+Geelong,1930,30,Collingwood,GF,L,4,,,,,,,,,,,,,,,,,,,,,,,,1930-03-01
+Geelong,1931,31,Collingwood,1,L,4,,,,,,,,,,,,,,,,,,,,,,,,1931-03-01
+Geelong,1931,32,Melbourne,3,L,4,,,,,,,,,,,,,,,,,,,,,,,,1931-03-15
+Geelong,1931,33,Collingwood,12,W,4,,,,,,,,,,,,,,,,,,,,,,,,1931-05-17
+Geelong,1931,34,St Kilda,13,W,4,,,,,,,,,,,,,,,,,,,,,,,,1931-05-24
+Geelong,1931,35,Fitzroy,16,W,4,,,,,,,,,,,,,,,,,,,,,,,,1931-06-14
+Geelong,1932,36,Fitzroy,5,W,4,,,,,1,,,,,,,,,,,,,,,,,,,1932-03-29
+Geelong,1932,37,Richmond,6,D,4,,,,,,,,,,,,,,,,,,,,,,,,1932-04-05
+Geelong,1932,38,South Melbourne,7,L,4,,,,,1,,,,,,,,,,,,,,,,,,,1932-04-12
+Geelong,1932,39,Essendon,8,L,4,,,,,1,,,,,,,,,,,,,,,,,,,1932-04-19
+Geelong,1932,40,Hawthorn,9,W,4,,,,,,,,,,,,,,,,,,,,,,,,1932-04-26
+Geelong,1932,41,Footscray,10,L,4,,,,,1,,,,,,,,,,,,,,,,,,,1932-05-03
+Geelong,1932,42,Collingwood,13,W,4,,,,,,,,,,,,,,,,,,,,,,,,1932-05-24
+Geelong,1935,43,North Melbourne,10,W,32,,,,,3,,,,,,,,,,,,,,,,,,,1935-05-03
+Geelong,1935,44,Melbourne,13,L,32,,,,,,,,,,,,,,,,,,,,,,,,1935-05-24

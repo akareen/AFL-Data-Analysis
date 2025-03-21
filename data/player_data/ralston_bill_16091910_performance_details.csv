@@ -1,0 +1,6 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1936,1,Hawthorn,4,W,21,,,,,1,,,,,,,,,,,,,,,,,,,1936-03-22
+Melbourne,1936,2,North Melbourne,5,W,21,,,,,,,,,,,,,,,,,,,,,,,,1936-03-29
+Melbourne,1936,3,Footscray,6,W,21,,,,,,,,,,,,,,,,,,,,,,,,1936-04-05
+Melbourne,1936,4,Fitzroy,13,L,21,,,,,1,,,,,,,,,,,,,,,,,,,1936-05-24
+Melbourne,1936,5,Geelong,14,L,21,,,,,,,,,,,,,,,,,,,,,,,,1936-05-31
