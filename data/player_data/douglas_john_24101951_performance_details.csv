@@ -1,0 +1,13 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+North Melbourne,1972,1,St Kilda,1,L,11,,,,,,,,,,,,,,,,,,,,,,,,1972-03-01
+North Melbourne,1972,2,South Melbourne,6,L,11,11,4,3,14,2,2,,,,,,,1,,,,,,,,,,,1972-04-05
+North Melbourne,1972,3,Richmond,7,L,11,5,2,,5,3,1,,,,,,,2,2,,,,,,,,,,1972-04-12
+North Melbourne,1972,4,Essendon,8,L,11,11,5,1,12,1,2,,,,,,,,2,,,,,,,,,,1972-04-19
+North Melbourne,1972,5,Carlton,9,L,11,5,2,,5,,1,1,,,,,,2,1,,,,,,,,,,1972-04-26
+North Melbourne,1972,6,Fitzroy,15,L,11,3,2,1,4,,,,,,,,,,,,,,,,,,,,1972-06-07
+North Melbourne,1972,7,Melbourne,21,L,11,3,,,3,,,,,,,,,3,,,,,,,,,,,1972-07-19
+North Melbourne,1975,8,South Melbourne,11,W,14,,,,,,,,,,,,,,,,,,,,,,,,1975-05-10
+North Melbourne,1975,9,Melbourne,13,W,14,7,3,5,12,1,2,,,,,,,,,,,,,,,,,,1975-05-24
+North Melbourne,1975,10,Fitzroy,14,W,14,7,5,,7,1,1,,,,,,,2,2,,,,,,,,,,1975-05-31
+North Melbourne,1976,11,Essendon,9,W,14,5,2,,5,,1,,,,,,,1,2,,,,,,,,,,1976-04-26
+North Melbourne,1976,12,Carlton,10,W,14,4,1,2,6,,,,,,,,,2,3,,,,,,,,,,1976-05-03

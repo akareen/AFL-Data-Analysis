@@ -1,0 +1,65 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1956,1,South Melbourne,17,W,35,,,,,,,,,,,,,,,,,,,,,,,,1956-06-21
+Essendon,1956,2,Geelong,18,W,35,,,,,1,,,,,,,,,,,,,,,,,,,1956-06-28
+Essendon,1957,3,Collingwood,1,W,35,,,,,,,,,,,,,,,,,,,,,,,,1957-03-01
+Essendon,1957,4,Fitzroy,2,W,35,,,,,,,,,,,,,,,,,,,,,,,,1957-03-08
+Essendon,1957,5,Melbourne,3,L,35,,,,,,,,,,,,,,,,,,,,,,,,1957-03-15
+Essendon,1957,6,Footscray,4,W,35,,,,,,,,,,,,,,,,,,,,,,,,1957-03-22
+Essendon,1957,7,South Melbourne,5,W,35,,,,,,,,,,,,,,,,,,,,,,,,1957-03-29
+Essendon,1957,8,Hawthorn,6,L,35,,,,,,,,,,,,,,,,,,,,,,,,1957-04-05
+Essendon,1957,9,Carlton,7,L,35,,,,,,,,,,,,,,,,,,,,,,,,1957-04-12
+Essendon,1957,10,Geelong,8,W,35,,,,,,,,,,,,,,,,,,,,,,,,1957-04-19
+Essendon,1957,11,St Kilda,9,W,35,,,,,,,,,,,,,,,,,,,,,,,,1957-04-26
+Essendon,1957,12,Richmond,10,L,35,,,,,1,,,,,,,,,,,,,,,,,,,1957-05-03
+Essendon,1957,13,North Melbourne,11,L,35,,,,,,,,,,,,,,,,,,,,,,,,1957-05-10
+Essendon,1957,14,Collingwood,12,W,35,,,,,,,,,,,,,,,,,,,,,,,,1957-05-17
+Essendon,1957,15,Fitzroy,13,W,35,,,,,,,,,,,,,,,,,,,,,,,,1957-05-24
+Essendon,1957,16,Melbourne,14,L,35,,,,,,,,,,,,,,,,,,,,,,,,1957-05-31
+Essendon,1957,17,Footscray,15,W,35,,,,,,,,,,,,,,,,,,,,,,,,1957-06-07
+Essendon,1957,18,South Melbourne,16,W,35,,,,,,,,,,,,,,,,,,,,,,,,1957-06-14
+Essendon,1957,19,Hawthorn,17,L,35,,,,,,,,,,,,,,,,,,,,,,,,1957-06-21
+Essendon,1957,20,Carlton,18,W,35,,,,,,,,,,,,,,,,,,,,,,,,1957-06-28
+Essendon,1957,21,Melbourne,SF,W,35,,,,,,,,,,,,,,,,,,,,,,,,1957-03-01
+Essendon,1957,22,Melbourne,GF,L,35,,,,,,,,,,,,,,,,,,,,,,,,1957-03-01
+Essendon,1958,23,Geelong,1,W,35,,,,,,,,,,,,,,,,,,,,,,,,1958-03-01
+Essendon,1958,24,St Kilda,2,L,35,,,,,,,,,,,,,,,,,,,,,,,,1958-03-08
+Essendon,1958,25,Hawthorn,3,L,35,,,,,,,,,,,,,,,,,,,,,,,,1958-03-15
+Essendon,1958,26,Richmond,7,W,35,,,,,1,,,,,,,,,,,,,,,,,,,1958-04-12
+Essendon,1958,27,Footscray,8,L,35,,,,,,,,,,,,,,,,,,,,,,,,1958-04-19
+Essendon,1958,28,Carlton,9,L,35,,,,,,,,,,,,,,,,,,,,,,,,1958-04-26
+Essendon,1958,29,Fitzroy,10,W,35,,,,,,,,,,,,,,,,,,,,,,,,1958-05-03
+Essendon,1958,30,South Melbourne,11,W,35,,,,,,,,,,,,,,,,,,,,,,,,1958-05-10
+Essendon,1958,31,Geelong,12,L,35,,,,,,,,,,,,,,,,,,,,,,,,1958-05-17
+Essendon,1958,32,St Kilda,13,W,35,,,,,1,,,,,,,,,,,,,,,,,,,1958-05-24
+Essendon,1958,33,Hawthorn,14,W,35,,,,,,,,,,,,,,,,,,,,,,,,1958-05-31
+Essendon,1958,34,Collingwood,15,W,35,,,,,,,,,,,,,,,,,,,,,,,,1958-06-07
+Essendon,1958,35,Melbourne,16,W,35,,,,,,,,,,,,,,,,,,,,,,,,1958-06-14
+Essendon,1958,36,North Melbourne,17,L,35,,,,,,,,,,,,,,,,,,,,,,,,1958-06-21
+Essendon,1958,37,Richmond,18,W,35,,,,,,,,,,,,,,,,,,,,,,,,1958-06-28
+Essendon,1959,38,Carlton,1,L,35,,,,,,,,,,,,,,,,,,,,,,,,1959-03-01
+Essendon,1959,39,St Kilda,2,W,35,,,,,,,,,,,,,,,,,,,,,,,,1959-03-08
+Essendon,1959,40,South Melbourne,3,L,35,,,,,,,,,,,,,,,,,,,,,,,,1959-03-15
+Essendon,1959,41,North Melbourne,4,L,35,,,,,,,,,,,,,,,,,,,,,,,,1959-03-22
+Essendon,1959,42,Geelong,5,W,35,,,,,,,,,,,,,,,,,,,,,,,,1959-03-29
+Essendon,1959,43,Fitzroy,6,W,35,,,,,,,,,,,,,,,,,,,,,,,,1959-04-05
+Essendon,1959,44,Footscray,7,W,35,,,,,,,,,,,,,,,,,,,,,,,,1959-04-12
+Essendon,1959,45,Melbourne,8,L,35,,,,,1,,,,,,,,,,,,,,,,,,,1959-04-19
+Essendon,1959,46,Collingwood,9,L,35,,,,,,,,,,,,,,,,,,,,,,,,1959-04-26
+Essendon,1959,47,Hawthorn,10,L,35,,,,,,,,,,,,,,,,,,,,,,,,1959-05-03
+Essendon,1959,48,Richmond,11,W,35,,,,,,,,,,,,,,,,,,,,,,,,1959-05-10
+Essendon,1959,49,Carlton,12,W,35,,,,,,,,,,,,,,,,,,,,,,,,1959-05-17
+Essendon,1959,50,St Kilda,13,L,35,,,,,,,,,,,,,,,,,,,,,,,,1959-05-24
+Essendon,1959,51,South Melbourne,14,W,35,,,,,,,,,,,,,,,,,,,,,,,,1959-05-31
+Essendon,1959,52,North Melbourne,15,W,35,,,,,,,,,,,,,,,,,,,,,,,,1959-06-07
+Essendon,1959,53,Geelong,16,W,35,,,,,,,,,,,,,,,,,,,,,,,,1959-06-14
+Essendon,1959,54,Fitzroy,17,W,35,,,,,,,,,,,,,,,,,,,,,,,,1959-06-21
+Essendon,1959,55,Footscray,18,W,35,,,,,,,,,,,,,,,,,,,,,,,,1959-06-28
+Essendon,1959,56,Melbourne,GF,L,35,,,,,,,,,,,,,,,,,,,,,,,,1959-03-01
+Essendon,1960,57,Hawthorn,12,W,35,,,,,,,,,,,,,,,,,,,,,,,,1960-05-17
+Essendon,1960,58,Richmond,13,W,35,,,,,,,,,,,,,,,,,,,,,,,,1960-05-24
+Essendon,1960,59,Collingwood,14,L,35,,,,,,,,,,,,,,,,,,,,,,,,1960-05-31
+Essendon,1960,60,Footscray,15,W,35,,,,,3,,,,,,,,,,,,,,,,,,,1960-06-07
+Essendon,1960,61,Carlton,16,L,35,,,,,,,,,,,,,,,,,,,,,,,,1960-06-14
+Essendon,1960,62,Fitzroy,17,L,35,,,,,,,,,,,,,,,,,,,,,,,,1960-06-21
+Essendon,1960,63,Melbourne,18,W,35,,,,,,,,,,,,,,,,,,,,,,,,1960-06-28
+Essendon,1960,64,Collingwood,SF,L,35,,,,,,,,,,,,,,,,,,,,,,,,1960-03-01

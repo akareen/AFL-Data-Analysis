@@ -1,0 +1,14 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1918,1,St Kilda,3,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1918-03-15
+Carlton,1918,2,South Melbourne,5,L,1,,,,,,,,,,,,,,,,,,,,,,,,1918-03-29
+Carlton,1918,3,Geelong,6,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1918-04-05
+Carlton,1918,4,South Melbourne,SF,L,1,,,,,2,,,,,,,,,,,,,,,,,,,1918-03-01
+Carlton,1919,5,Fitzroy,1,W,1,,,,,2,,,,,,,,,,,,,,,,,,,1919-03-01
+Carlton,1919,6,Melbourne,5,W,1,,,,,2,,,,,,,,,,,,,,,,,,,1919-03-29
+Carlton,1919,7,St Kilda,6,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1919-04-05
+Carlton,1919,8,Collingwood,7,W,1,,,,,2,,,,,,,,,,,,,,,,,,,1919-04-12
+Carlton,1919,9,South Melbourne,8,L,1,,,,,1,,,,,,,,,,,,,,,,,,,1919-04-19
+Carlton,1919,10,Richmond,9,L,1,,,,,2,,,,,,,,,,,,,,,,,,,1919-04-26
+Carlton,1919,11,St Kilda,15,W,1,,,,,,,,,,,,,,,,,,,,,,,,1919-06-07
+Carlton,1919,12,Collingwood,16,L,1,,,,,,,,,,,,,,,,,,,,,,,,1919-06-14
+Carlton,1919,13,Collingwood,SF,L,1,,,,,2,,,,,,,,,,,,,,,,,,,1919-03-01

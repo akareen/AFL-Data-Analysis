@@ -1,0 +1,29 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1899,1,Melbourne,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-03-01
+St Kilda,1899,2,Essendon,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-03-08
+St Kilda,1899,3,Fitzroy,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-03-22
+St Kilda,1899,4,Collingwood,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-05-03
+St Kilda,1899,5,Fitzroy,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-05-10
+St Kilda,1899,6,South Melbourne,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-05-17
+St Kilda,1899,7,Carlton,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-05-24
+St Kilda,1899,8,Geelong,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-05-31
+St Kilda,1899,9,Essendon,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-06-07
+St Kilda,1899,10,South Melbourne,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-06-14
+St Kilda,1899,11,Geelong,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-06-21
+St Kilda,1900,12,Melbourne,1,W,,,,,,1,,,,,,,,,,,,,,,,,,,1900-03-01
+St Kilda,1900,13,South Melbourne,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-03-08
+St Kilda,1900,14,Carlton,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-03-22
+St Kilda,1900,15,Collingwood,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-03-29
+St Kilda,1900,16,Essendon,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-04-05
+St Kilda,1900,17,Fitzroy,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-04-12
+St Kilda,1900,18,Melbourne,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-04-19
+St Kilda,1900,19,South Melbourne,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-04-26
+St Kilda,1900,20,Geelong,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-05-03
+St Kilda,1900,21,Carlton,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-05-10
+St Kilda,1900,22,Collingwood,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-05-17
+St Kilda,1900,23,Essendon,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-05-24
+St Kilda,1900,24,Fitzroy,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-05-31
+St Kilda,1900,25,Geelong,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-03-15
+St Kilda,1900,26,Collingwood,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-06-07
+St Kilda,1900,27,Melbourne,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-06-14
+St Kilda,1900,28,Geelong,17,L,,,,,,1,,,,,,,,,,,,,,,,,,,1900-06-21

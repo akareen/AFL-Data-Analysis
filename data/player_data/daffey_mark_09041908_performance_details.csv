@@ -1,0 +1,38 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1930,1,Footscray,6,L,30,,,,,,,,,,,,,,,,,,,,,,,,1930-04-05
+Hawthorn,1930,2,South Melbourne,7,L,30,,,,,,,,,,,,,,,,,,,,,,,,1930-04-12
+Hawthorn,1930,3,Geelong,8,W,30,,,,,2,,,,,,,,,,,,,,,,,,,1930-04-19
+Hawthorn,1930,4,Fitzroy,9,L,30,,,,,1,,,,,,,,,,,,,,,,,,,1930-04-26
+Hawthorn,1930,5,Melbourne,11,L,30,,,,,1,,,,,,,,,,,,,,,,,,,1930-05-10
+Hawthorn,1930,6,Richmond,12,L,30,,,,,,,,,,,,,,,,,,,,,,,,1930-05-17
+Hawthorn,1930,7,Footscray,13,W,30,,,,,4,,,,,,,,,,,,,,,,,,,1930-05-24
+Hawthorn,1930,8,South Melbourne,14,L,30,,,,,2,,,,,,,,,,,,,,,,,,,1930-05-31
+Hawthorn,1930,9,Geelong,15,L,30,,,,,,,,,,,,,,,,,,,,,,,,1930-06-07
+Hawthorn,1930,10,Fitzroy,16,L,30,,,,,,,,,,,,,,,,,,,,,,,,1930-06-14
+Hawthorn,1930,11,North Melbourne,17,W,30,,,,,1,,,,,,,,,,,,,,,,,,,1930-06-21
+Hawthorn,1931,12,Footscray,1,L,3,,,,,,,,,,,,,,,,,,,,,,,,1931-03-01
+Hawthorn,1931,13,Collingwood,2,L,3,,,,,,,,,,,,,,,,,,,,,,,,1931-03-08
+Hawthorn,1931,14,St Kilda,3,L,3,,,,,2,,,,,,,,,,,,,,,,,,,1931-03-15
+Hawthorn,1931,15,Melbourne,4,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1931-03-22
+Hawthorn,1931,16,Richmond,6,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1931-04-05
+Hawthorn,1931,17,Geelong,9,L,3,,,,,,,,,,,,,,,,,,,,,,,,1931-04-26
+Hawthorn,1931,18,Melbourne,15,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1931-06-07
+Hawthorn,1931,19,South Melbourne,16,L,3,,,,,,,,,,,,,,,,,,,,,,,,1931-06-14
+Hawthorn,1931,20,Richmond,17,L,3,,,,,,,,,,,,,,,,,,,,,,,,1931-06-21
+Hawthorn,1931,21,Essendon,18,L,3,,,,,,,,,,,,,,,,,,,,,,,,1931-06-28
+Hawthorn,1932,22,Collingwood,1,L,3,,,,,,,,,,,,,,,,,,,,,,,,1932-03-01
+Hawthorn,1932,23,St Kilda,2,L,3,,,,,3,,,,,,,,,,,,,,,,,,,1932-03-08
+Hawthorn,1932,24,Melbourne,3,W,3,,,,,1,,,,,,,,,,,,,,,,,,,1932-03-15
+Hawthorn,1932,25,Carlton,4,L,3,,,,,1,,,,,,,,,,2,,,,,,,,,1932-03-22
+Hawthorn,1932,26,Richmond,5,L,3,,,,,,,,,,,,,,,,,,,,,,,,1932-03-29
+Hawthorn,1932,27,South Melbourne,6,L,3,,,,,1,,,,,,,,,,2,,,,,,,,,1932-04-05
+Hawthorn,1932,28,Essendon,7,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1932-04-12
+Hawthorn,1932,29,Fitzroy,8,L,3,,,,,,,,,,,,,,,,,,,,,,,,1932-04-19
+Hawthorn,1932,30,Collingwood,12,L,3,,,,,,,,,,,,,,,,,,,,,,,,1932-05-17
+Hawthorn,1932,31,St Kilda,13,W,3,,,,,1,,,,,,,,,,,,,,,,,,,1932-05-24
+Hawthorn,1932,32,Melbourne,14,L,3,,,,,,,,,,,,,,,,,,,,,,,,1932-05-31
+Hawthorn,1932,33,Richmond,16,L,3,,,,,,,,,,,,,,,,,,,,,,,,1932-06-14
+Hawthorn,1932,34,South Melbourne,17,L,3,,,,,,,,,,,,,,,,,,,,,,,,1932-06-21
+Hawthorn,1932,35,Essendon,18,L,3,,,,,,,,,,,,,,,,,,,,,,,,1932-06-28
+Hawthorn,1933,36,South Melbourne,6,L,3,,,,,,,,,,,,,,,,,,,,,,,,1933-04-05
+Hawthorn,1933,37,Essendon,7,W,3,,,,,2,,,,,,,,,,,,,,,,,,,1933-04-12

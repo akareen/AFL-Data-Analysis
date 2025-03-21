@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1954,1,Richmond,3,L,22,,,,,,,,,,,,,,,,,,,,,,,,1954-03-15
+Carlton,1954,2,Footscray,4,L,22,,,,,1,,,,,,,,,,,,,,,,,,,1954-03-22
+Carlton,1954,3,Essendon,5,W,22,,,,,,,,,,,,,,,,,,,,,,,,1954-03-29
+Carlton,1956,4,Melbourne,13,L,22,,,,,,,,,,,,,,,,,,,,,,,,1956-05-24
+Carlton,1957,5,Richmond,5,W,37,,,,,,,,,,,,,,,,,,,,,,,,1957-03-29
+Carlton,1957,6,Fitzroy,6,W,37,,,,,,,,,,,,,,,,,,,,,,,,1957-04-05
+Carlton,1957,7,Collingwood,10,L,37,,,,,1,,,,,,,,,,,,,,,,,,,1957-05-03
+Carlton,1957,8,St Kilda,11,W,37,,,,,1,,,,,,,,,,,,,,,,,,,1957-05-10
+Carlton,1957,9,Hawthorn,12,W,37,,,,,,,,,,,,,,,,,,,,,,,,1957-05-17

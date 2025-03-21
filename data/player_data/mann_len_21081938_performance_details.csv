@@ -1,0 +1,47 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1960,1,St Kilda,2,W,34,,,,,,,,,,,,,,,,,,,,,,,,1960-03-08
+Melbourne,1960,2,South Melbourne,3,W,34,,,,,1,,,,,,,,,,,,,,,,,,,1960-03-15
+Melbourne,1960,3,Geelong,10,W,34,,,,,,,,,,,,,,,,,,,,,,,,1960-05-03
+Melbourne,1960,4,Essendon,18,L,34,,,,,,,,,,,,,,,,,,,,,,,,1960-06-28
+Melbourne,1960,5,Fitzroy,SF,W,34,,,,,,,,,,,,,,,,,,,,,,,,1960-03-01
+Melbourne,1960,6,Collingwood,GF,W,34,,,,,,,,,,,,,,,,,,,,,,,,1960-03-01
+Melbourne,1961,7,Fitzroy,1,W,34,,,,,,,,,,,,,,,,,,,,,,,,1961-03-01
+Melbourne,1961,8,Essendon,3,W,34,,,,,2,,,,,,,,,,,,,,,,,,,1961-03-15
+Melbourne,1961,9,St Kilda,4,L,34,,,,,,,,,,,,,,,,,,,,,,,,1961-03-22
+Melbourne,1961,10,Geelong,5,W,34,,,,,,,,,,,,,,,,,,,,,,,,1961-03-29
+Melbourne,1961,11,Footscray,6,W,34,,,,,,,,,,,,,,,,,,,,,,,,1961-04-05
+Melbourne,1961,12,Carlton,7,W,34,,,,,,,,,,,,,,,,,,,,,,,,1961-04-12
+Melbourne,1961,13,Collingwood,8,W,34,,,,,,,,,,,,,,,,,,,,,,,,1961-04-19
+Melbourne,1961,14,South Melbourne,9,W,34,,,,,,,,,,,,,,,,,,,,,,,,1961-04-26
+Melbourne,1961,15,North Melbourne,10,W,34,,,,,,,,,,,,,,,,,,,,,,,,1961-05-03
+Melbourne,1961,16,Richmond,11,W,34,,,,,,,,,,,,,,,,,,,,,,,,1961-05-10
+Melbourne,1962,17,Richmond,1,W,34,,,,,,,,,,,,,,,,,,,,,,,,1962-03-01
+Melbourne,1962,18,Geelong,2,W,34,,,,,,,,,,,,,,,,,,,,,,,,1962-03-08
+Melbourne,1962,19,Footscray,3,W,34,,,,,,,,,,,,,,,,,,,,,,,,1962-03-15
+Melbourne,1962,20,Collingwood,4,W,34,,,,,,,,,,,,,,,,,,,,,,,,1962-03-22
+Melbourne,1962,21,North Melbourne,5,W,34,,,,,,,,,,,,,,,,,,,,,,,,1962-03-29
+Melbourne,1962,22,South Melbourne,6,W,34,,,,,,,,,,,,,,,,,,,,,,,,1962-04-05
+Melbourne,1962,23,Carlton,7,L,34,,,,,,,,,,,,,,,,,,,,,,,,1962-04-12
+Melbourne,1962,24,St Kilda,9,W,34,,,,,,,,,,,,,,,,,,,,,,,,1962-04-26
+Melbourne,1962,25,Essendon,10,L,34,,,,,,,,,,,,,,,,,,,,,,,,1962-05-03
+Melbourne,1962,26,Hawthorn,11,W,34,,,,,,,,,,,,,,,,,,,,,,,,1962-05-10
+Melbourne,1962,27,Richmond,12,W,34,,,,,,,,,,,,,,,,,,,,,,,,1962-05-17
+Melbourne,1962,28,Geelong,13,L,34,,,,,,,,,,,,,,,,,,,,,,,,1962-05-24
+Melbourne,1962,29,Footscray,14,W,34,,,,,,,,,,,,,,,,,,,,,,,,1962-05-31
+Melbourne,1962,30,Collingwood,15,W,34,,,,,,,,,,,,,,,,,,,,,,,,1962-06-07
+Melbourne,1962,31,North Melbourne,16,W,34,,,,,2,,,,,,,,,,,,,,,,,,,1962-06-14
+Melbourne,1962,32,South Melbourne,17,W,34,,,,,,,,,,,,,,,,,,,,,,,,1962-06-21
+Melbourne,1962,33,Carlton,18,W,34,,,,,,,,,,,,,,,,,,,,,,,,1962-06-28
+Melbourne,1962,34,Carlton,SF,L,34,,,,,,,,,,,,,,,,,,,,,,,,1962-03-01
+Melbourne,1963,35,St Kilda,1,L,34,,,,,,,,,,,,,,,,,,,,,,,,1963-03-01
+Melbourne,1963,36,Hawthorn,2,W,34,,,,,,,,,,,,,,,,,,,,,,,,1963-03-08
+Melbourne,1963,37,Essendon,3,L,34,,,,,,,,,,,,,,,,,,,,,,,,1963-03-15
+Melbourne,1963,38,Fitzroy,4,W,34,,,,,,,,,,,,,,,,,,,,,,,,1963-03-22
+Melbourne,1963,39,Collingwood,5,L,34,,,,,,,,,,,,,,,,,,,,,,,,1963-03-29
+Melbourne,1963,40,Richmond,17,W,34,,,,,,,,,,,,,,,,,,,,,,,,1963-06-21
+Melbourne,1963,41,South Melbourne,18,W,34,,,,,,,,,,,,,,,,,,,,,,,,1963-06-28
+Melbourne,1963,42,St Kilda,SF,W,34,,,,,,,,,,,,,,,,,,,,,,,,1963-03-01
+Melbourne,1964,43,Geelong,1,L,34,,,,,,,,,,,,,,,,,,,,,,,,1964-03-01
+Melbourne,1964,44,North Melbourne,2,W,34,,,,,,,,,,,,,,,,,,,,,,,,1964-03-08
+Melbourne,1964,45,Carlton,3,W,34,,,,,,,,,,,,,,,,,,,,,,,,1964-03-15
+Melbourne,1964,46,St Kilda,4,L,34,,,,,,,,,,,,,,,,,,,,,,,,1964-03-22

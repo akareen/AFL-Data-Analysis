@@ -1,0 +1,24 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1919,1,Melbourne,11,W,11,,,,,3,,,,,,,,,,,,,,,,,,,1919-05-10
+South Melbourne,1919,2,St Kilda,12,W,11,,,,,2,,,,,,,,,,,,,,,,,,,1919-05-17
+South Melbourne,1919,3,Fitzroy,13,W,11,,,,,,,,,,,,,,,,,,,,,,,,1919-05-24
+South Melbourne,1919,4,Essendon,14,W,11,,,,,,,,,,,,,,,,,,,,,,,,1919-05-31
+South Melbourne,1919,5,Carlton,17,L,11,,,,,,,,,,,,,,,,,,,,,,,,1919-06-21
+South Melbourne,1919,6,Geelong,18,L,11,,,,,,,,,,,,,,,,,,,,,,,,1919-06-28
+South Melbourne,1919,7,Richmond,SF,L,11,,,,,,,,,,,,,,,,,,,,,,,,1919-03-01
+South Melbourne,1920,8,Fitzroy,2,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1920-03-08
+South Melbourne,1920,9,Essendon,3,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1920-03-15
+South Melbourne,1920,10,Carlton,5,W,17,,,,,2,,,,,,,,,,,,,,,,,,,1920-03-29
+South Melbourne,1920,11,Richmond,6,L,17,,,,,2,,,,,,,,,,,,,,,,,,,1920-04-05
+South Melbourne,1920,12,St Kilda,7,W,17,,,,,,,,,,,,,,,,,,,,,,,,1920-04-12
+South Melbourne,1920,13,Geelong,8,W,17,,,,,2,,,,,,,,,,,,,,,,,,,1920-04-19
+South Melbourne,1920,14,Collingwood,9,L,17,,,,,,,,,,,,,,,,,,,,,,,,1920-04-26
+South Melbourne,1920,15,Melbourne,10,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1920-05-03
+South Melbourne,1920,16,Fitzroy,11,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1920-05-10
+South Melbourne,1920,17,Essendon,12,W,17,,,,,,,,,,,,,,,,,,,,,,,,1920-05-17
+South Melbourne,1920,18,Carlton,13,L,17,,,,,,,,,,,,,,,,,,,,,,,,1920-05-24
+South Melbourne,1920,19,Richmond,15,L,17,,,,,2,,,,,,,,,,,,,,,,,,,1920-06-07
+South Melbourne,1920,20,St Kilda,16,W,17,,,,,2,,,,,,,,,,,,,,,,,,,1920-06-14
+South Melbourne,1920,21,Collingwood,18,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1920-06-28
+South Melbourne,1921,22,St Kilda,1,W,17,,,,,,,,,,,,,,,,,,,,,,,,1921-03-01
+South Melbourne,1921,23,Essendon,3,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1921-03-15

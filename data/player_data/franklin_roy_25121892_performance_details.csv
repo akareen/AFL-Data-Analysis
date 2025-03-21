@@ -1,0 +1,7 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1915,1,Richmond,1,W,24,,,,,,,,,,,,,,,,,,,,,,,,1915-03-01
+Melbourne,1915,2,Collingwood,4,L,24,,,,,,,,,,,,,,,,,,,,,,,,1915-03-22
+Melbourne,1915,3,Carlton,5,L,24,,,,,,,,,,,,,,,,,,,,,,,,1915-03-29
+Melbourne,1915,4,St Kilda,6,W,24,,,,,,,,,,,,,,,,,,,,,,,,1915-04-05
+Melbourne,1915,5,Collingwood,13,L,24,,,,,,,,,,,,,,,,,,,,,,,,1915-05-24
+Melbourne,1915,6,Carlton,14,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1915-05-31

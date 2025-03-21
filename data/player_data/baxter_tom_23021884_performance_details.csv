@@ -1,0 +1,101 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1907,1,Fitzroy,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-03-01
+Collingwood,1907,2,St Kilda,2,L,,,,,,1,,,,,,,,,,,,,,,,,,,1907-03-08
+Collingwood,1907,3,South Melbourne,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-03-15
+Collingwood,1907,4,Melbourne,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-03-22
+Collingwood,1907,5,Essendon,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-03-29
+Collingwood,1907,6,Carlton,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-04-05
+Collingwood,1907,7,Geelong,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-04-12
+Collingwood,1907,8,Fitzroy,8,W,,,,,,2,,,,,,,,,,,,,,,,,,,1907-04-19
+Collingwood,1907,9,St Kilda,9,W,,,,,,2,,,,,,,,,,,,,,,,,,,1907-04-26
+Collingwood,1907,10,South Melbourne,10,W,,,,,,1,,,,,,,,,,,,,,,,,,,1907-05-03
+Collingwood,1907,11,Essendon,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-05-17
+Collingwood,1907,12,Carlton,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-05-24
+Collingwood,1907,13,Geelong,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-05-31
+Collingwood,1907,14,St Kilda,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-06-07
+Collingwood,1907,15,Fitzroy,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-06-14
+Collingwood,1907,16,South Melbourne,SF,L,,,,,,1,,,,,,,,,,,,,,,,,,,1907-03-01
+Collingwood,1908,17,Geelong,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-01
+Collingwood,1908,18,Fitzroy,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-08
+Collingwood,1908,19,University,3,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-03-15
+Collingwood,1908,20,Carlton,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-22
+Collingwood,1908,21,Essendon,5,L,,,,,,2,,,,,,,,,,,,,,,,,,,1908-03-29
+Collingwood,1908,22,Richmond,6,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-04-05
+Collingwood,1908,23,St Kilda,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-04-12
+Collingwood,1908,24,Melbourne,8,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-04-19
+Collingwood,1908,25,South Melbourne,9,L,,,,,,1,,,,,,,,,,,,,,,,,,,1908-04-26
+Collingwood,1908,26,Geelong,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-03
+Collingwood,1908,27,Fitzroy,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-10
+Collingwood,1908,28,University,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-17
+Collingwood,1908,29,Essendon,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-31
+Collingwood,1908,30,Richmond,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-06-07
+Collingwood,1908,31,St Kilda,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-06-14
+Collingwood,1908,32,Melbourne,17,W,,,,,,2,,,,,,,,,,,,,,,,,,,1908-06-21
+Collingwood,1908,33,South Melbourne,18,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-06-28
+Collingwood,1908,34,Essendon,SF,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-01
+Collingwood,1909,35,Carlton,3,L,,,,,,2,,,,,,,,,,,,,,,,,,,1909-03-15
+Collingwood,1909,36,Richmond,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-22
+Collingwood,1909,37,South Melbourne,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-29
+Collingwood,1909,38,Essendon,6,W,,,,,,1,,,,,,,,,,,,,,,,,,,1909-04-05
+Collingwood,1909,39,University,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-12
+Collingwood,1909,40,Fitzroy,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-05-03
+Collingwood,1909,41,St Kilda,11,W,,,,,,3,,,,,,,,,,,,,,,,,,,1909-05-10
+Collingwood,1909,42,Carlton,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-05-17
+Collingwood,1909,43,Richmond,13,W,,,,,,1,,,,,,,,,,,,,,,,,,,1909-05-24
+Collingwood,1909,44,South Melbourne,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-05-31
+Collingwood,1909,45,Essendon,15,L,,,,,,1,,,,,,,,,,,,,,,,,,,1909-06-07
+Collingwood,1909,46,University,16,D,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-14
+Collingwood,1909,47,Geelong,17,W,,,,,,2,,,,,,,,,,,,,,,,,,,1909-06-21
+Collingwood,1909,48,Melbourne,18,W,,,,,,2,,,,,,,,,,,,,,,,,,,1909-06-28
+Collingwood,1909,49,South Melbourne,SF,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-01
+Collingwood,1910,50,Carlton,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-01
+Collingwood,1910,51,South Melbourne,2,W,,,,,,3,,,,,,,,,,,,,,,,,,,1910-03-08
+Collingwood,1910,52,St Kilda,3,W,,,,,,2,,,,,,,,,,,,,,,,,,,1910-03-15
+Collingwood,1910,53,Essendon,4,L,,,,,,1,,,,,,,,,,,,,,,,,,,1910-03-22
+Collingwood,1910,54,Melbourne,5,W,,,,,,1,,,,,,,,,,,,,,,,,,,1910-03-29
+Collingwood,1910,55,Fitzroy,6,W,,,,,,1,,,,,,,,,,,,,,,,,,,1910-04-05
+Collingwood,1910,56,Richmond,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-12
+Collingwood,1910,57,University,8,W,,,,,,1,,,,,,,,,,,,,,,,,,,1910-04-19
+Collingwood,1910,58,Geelong,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-26
+Collingwood,1910,59,Carlton,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-03
+Collingwood,1910,60,South Melbourne,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-10
+Collingwood,1910,61,St Kilda,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-17
+Collingwood,1910,62,Essendon,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-24
+Collingwood,1910,63,Melbourne,14,W,,,,,,1,,,,,,,,,,,,,,,,,,,1910-05-31
+Collingwood,1910,64,Fitzroy,15,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-07
+Collingwood,1910,65,Richmond,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-14
+Collingwood,1910,66,University,17,W,,,,,,3,,,,,,,,,,,,,,,,,,,1910-06-21
+Collingwood,1910,67,Geelong,18,W,,,,,,2,,,,,,,,,,,,,,,,,,,1910-06-28
+Collingwood,1910,68,Essendon,SF,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-01
+Collingwood,1910,69,South Melbourne,PF,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-01
+Collingwood,1910,70,Carlton,GF,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-01
+Collingwood,1911,71,Richmond,1,W,,,,,,4,,,,,,,,,,,,,,,,,,,1911-03-01
+Collingwood,1911,72,Fitzroy,2,W,,,,,,2,,,,,,,,,,,,,,,,,,,1911-03-08
+Collingwood,1911,73,Geelong,3,L,,,,,,1,,,,,,,,,,,,,,,,,,,1911-03-15
+Collingwood,1911,74,Essendon,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-22
+Collingwood,1911,75,South Melbourne,5,W,,,,,,3,,,,,,,,,,,,,,,,,,,1911-03-29
+Collingwood,1911,76,Melbourne,6,W,,,,,,2,,,,,,,,,,,,,,,,,,,1911-04-05
+Collingwood,1911,77,University,7,W,,,,,,2,,,,,,,,,,,,,,,,,,,1911-04-12
+Collingwood,1911,78,Carlton,8,L,,,,,,1,,,,,,,,,,,,,,,,,,,1911-04-19
+Collingwood,1911,79,St Kilda,9,W,,,,,,4,,,,,,,,,,,,,,,,,,,1911-04-26
+Collingwood,1911,80,Richmond,10,W,,,,,,1,,,,,,,,,,,,,,,,,,,1911-05-03
+Collingwood,1911,81,Fitzroy,11,L,,,,,,1,,,,,,,,,,,,,,,,,,,1911-05-10
+Collingwood,1911,82,Geelong,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-17
+Collingwood,1911,83,Essendon,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-24
+Collingwood,1911,84,Melbourne,15,W,,,,,,1,,,,,,,,,,,,,,,,,,,1911-06-07
+Collingwood,1911,85,University,16,W,,,,,,1,,,,,,,,,,,,,,,,,,,1911-06-14
+Collingwood,1911,86,Carlton,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-21
+Collingwood,1911,87,St Kilda,18,W,,,,,,4,,,,,,,,,,,,,,,,,,,1911-06-28
+Collingwood,1911,88,South Melbourne,SF,W,,,,,,3,,,,,,,,,,,,,,,,,,,1911-03-01
+Collingwood,1911,89,Essendon,GF,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1911-03-01
+St Kilda,1912,90,Geelong,2,L,29,,,,,,,,,,,,,,,,,,,,,,,,1912-03-08
+St Kilda,1912,91,Collingwood,3,W,29,,,,,,,,,,,,,,,,,,,,,,,,1912-03-15
+St Kilda,1912,92,University,4,W,29,,,,,,,,,,,,,,,,,,,,,,,,1912-03-22
+St Kilda,1912,93,South Melbourne,5,L,29,,,,,1,,,,,,,,,,,,,,,,,,,1912-03-29
+St Kilda,1912,94,Carlton,6,L,29,,,,,2,,,,,,,,,,,,,,,,,,,1912-04-05
+St Kilda,1912,95,Fitzroy,7,L,29,,,,,,,,,,,,,,,,,,,,,,,,1912-04-12
+St Kilda,1912,96,Essendon,8,W,29,,,,,,,,,,,,,,,,,,,,,,,,1912-04-19
+St Kilda,1912,97,Melbourne,9,L,29,,,,,,,,,,,,,,,,,,,,,,,,1912-04-26
+St Kilda,1912,98,Richmond,10,W,29,,,,,2,,,,,,,,,,,,,,,,,,,1912-05-03
+St Kilda,1912,99,Geelong,11,W,29,,,,,2,,,,,,,,,,,,,,,,,,,1912-05-10
+St Kilda,1912,100,Collingwood,12,L,29,,,,,,,,,,,,,,,,,,,,,,,,1912-05-17

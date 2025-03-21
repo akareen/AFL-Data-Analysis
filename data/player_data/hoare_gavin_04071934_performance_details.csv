@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1952,1,Collingwood,11,L,38,,,,,1,,,,,,,,,,,,,,,,,,,1952-05-10
+Richmond,1952,2,Fitzroy,13,L,38,,,,,,,,,,,,,,,,,,,,,,,,1952-05-24
+Richmond,1952,3,Hawthorn,14,W,38,,,,,,,,,,,,,,,,,,,,,,,,1952-05-31
+Richmond,1952,4,South Melbourne,15,L,38,,,,,1,,,,,,,,,,,,,,,,,,,1952-06-07
+Richmond,1952,5,North Melbourne,16,L,38,,,,,,,,,,,,,,,,,,,,,,,,1952-06-14
+Richmond,1953,6,North Melbourne,9,L,38,,,,,,,,,,,,,,,,,,,,,,,,1953-04-26
+Richmond,1953,7,South Melbourne,10,L,38,,,,,,,,,,,,,,,,,,,,,,,,1953-05-03
+Richmond,1953,8,Melbourne,12,D,38,,,,,1,,,,,,,,,,,,,,,,,,,1953-05-17

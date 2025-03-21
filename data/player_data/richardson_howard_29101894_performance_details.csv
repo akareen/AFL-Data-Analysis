@@ -1,0 +1,21 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1915,1,Fitzroy,15,L,8,,,,,2,,,,,,,,,,,,,,,,,,,1915-06-07
+Richmond,1915,2,St Kilda,16,L,8,,,,,,,,,,,,,,,,,,,,,,,,1915-06-14
+Richmond,1915,3,Essendon,18,W,8,,,,,,,,,,,,,,,,,,,,,,,,1915-06-28
+Richmond,1916,4,Fitzroy,5,W,8,,,,,3,,,,,,,,,,,,,,,,,,,1916-03-29
+Richmond,1916,5,Carlton,6,L,8,,,,,1,,,,,,,,,,,,,,,,,,,1916-04-05
+Richmond,1916,6,Collingwood,7,W,8,,,,,,,,,,,,,,,,,,,,,,,,1916-04-12
+Richmond,1916,7,Fitzroy,8,W,8,,,,,1,,,,,,,,,,,,,,,,,,,1916-04-19
+Richmond,1916,8,Carlton,9,L,8,,,,,2,,,,,,,,,,,,,,,,,,,1916-04-26
+Richmond,1916,9,Collingwood,10,W,8,,,,,1,,,,,,,,,,,,,,,,,,,1916-05-03
+Richmond,1916,10,Fitzroy,11,W,8,,,,,2,,,,,,,,,,,,,,,,,,,1916-05-10
+Richmond,1916,11,Carlton,12,L,8,,,,,,,,,,,,,,,,,,,,,,,,1916-05-17
+Richmond,1917,12,Collingwood,1,L,8,,,,,,,,,,,,,,,,,,,,,,,,1917-03-01
+Richmond,1917,13,South Melbourne,2,L,8,,,,,,,,,,,,,,,,,,,,,,,,1917-03-08
+Richmond,1917,14,Fitzroy,4,L,8,,,,,,,,,,,,,,,,,,,,,,,,1917-03-22
+Richmond,1917,15,Carlton,5,L,8,,,,,,,,,,,,,,,,,,,,,,,,1917-03-29
+Richmond,1917,16,South Melbourne,7,L,8,,,,,,,,,,,,,,,,,,,,,,,,1917-04-12
+Richmond,1917,17,Geelong,13,L,8,,,,,,,,,,,,,,,,,,,,,,,,1917-05-24
+Richmond,1917,18,Fitzroy,14,W,8,,,,,2,,,,,,,,,,,,,,,,,,,1917-05-31
+Richmond,1917,19,Carlton,15,L,8,,,,,,,,,,,,,,,,,,,,,,,,1917-06-07
+Melbourne,1919,20,Carlton,5,L,25,,,,,,,,,,,,,,,,,,,,,,,,1919-03-29

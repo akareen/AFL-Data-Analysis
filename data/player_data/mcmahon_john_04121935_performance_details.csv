@@ -1,0 +1,37 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1953,1,Richmond,5,W,22,,,,,,,,,,,,,,,,,,,,,,,,1953-03-29
+Geelong,1953,2,St Kilda,9,W,22,,,,,,,,,,,,,,,,,,,,,,,,1953-04-26
+Geelong,1953,3,North Melbourne,11,W,22,,,,,,,,,,,,,,,,,,,,,,,,1953-05-10
+Geelong,1953,4,Hawthorn,12,W,22,,,,,,,,,,,,,,,,,,,,,,,,1953-05-17
+Geelong,1954,5,Fitzroy,1,W,22,,,,,,,,,,,,,,,,,,,,,,,,1954-03-01
+Geelong,1954,6,North Melbourne,2,L,22,,,,,,,,,,,,,,,,,,,,,,,,1954-03-08
+Geelong,1954,7,St Kilda,4,W,22,,,,,,,,,,,,,,,,,,,,,,,,1954-03-22
+Geelong,1954,8,Hawthorn,5,L,22,,,,,,,,,,,,,,,,,,,,,,,,1954-03-29
+Geelong,1954,9,Collingwood,6,W,22,,,,,1,,,,,,,,,,,,,,,,,,,1954-04-05
+Geelong,1954,10,Carlton,7,L,22,,,,,,,,,,,,,,,,,,,,,,,,1954-04-12
+Geelong,1954,11,Melbourne,8,L,22,,,,,,,,,,,,,,,,,,,,,,,,1954-04-19
+Geelong,1954,12,North Melbourne,13,W,22,,,,,,,,,,,,,,,,,,,,,,,,1954-05-24
+Geelong,1954,13,Essendon,14,W,22,,,,,,,,,,,,,,,,,,,,,,,,1954-05-31
+Geelong,1954,14,St Kilda,15,W,22,,,,,,,,,,,,,,,,,,,,,,,,1954-06-07
+Geelong,1954,15,Hawthorn,16,W,22,,,,,1,,,,,,,,,,,,,,,,,,,1954-06-14
+Geelong,1954,16,Collingwood,17,W,22,,,,,,,,,,,,,,,,,,,,,,,,1954-06-21
+Geelong,1954,17,Carlton,18,W,22,,,,,,,,,,,,,,,,,,,,,,,,1954-06-28
+Geelong,1954,18,Footscray,SF,L,22,,,,,1,,,,,,,,,,,,,,,,,,,1954-03-01
+Geelong,1954,19,Melbourne,PF,L,22,,,,,,,,,,,,,,,,,,,,,,,,1954-03-01
+Geelong,1955,20,South Melbourne,1,W,22,,,,,1,,,,,,,,,,,,,,,,,,,1955-03-01
+Geelong,1955,21,Melbourne,2,L,22,,,,,,,,,,,,,,,,,,,,,,,,1955-03-08
+Geelong,1955,22,Richmond,3,W,22,,,,,,,,,,,,,,,,,,,,,,,,1955-03-15
+Geelong,1955,23,Fitzroy,4,W,22,,,,,,,,,,,,,,,,,,,,,,,,1955-03-22
+Geelong,1955,24,Footscray,5,W,22,,,,,1,,,,,,,,,,,,,,,,,,,1955-03-29
+Geelong,1955,25,St Kilda,6,W,22,,,,,,,,,,,,,,,,,,,,,,,,1955-04-05
+Geelong,1955,26,Carlton,7,W,22,,,,,,,,,,,,,,,,,,,,,,,,1955-04-12
+Geelong,1955,27,Collingwood,8,L,22,,,,,,,,,,,,,,,,,,,,,,,,1955-04-19
+Geelong,1955,28,North Melbourne,9,W,22,,,,,,,,,,,,,,,,,,,,,,,,1955-04-26
+Geelong,1955,29,Essendon,10,W,22,,,,,1,,,,,,,,,,,,,,,,,,,1955-05-03
+Geelong,1955,30,Hawthorn,11,W,22,,,,,,,,,,,,,,,,,,,,,,,,1955-05-10
+Geelong,1955,31,South Melbourne,12,W,22,,,,,1,,,,,,,,,,,,,,,,,,,1955-05-17
+Geelong,1955,32,Melbourne,13,W,22,,,,,,,,,,,,,,,,,,,,,,,,1955-05-24
+Geelong,1955,33,Richmond,14,L,22,,,,,,,,,,,,,,,,,,,,,,,,1955-05-31
+Geelong,1955,34,Fitzroy,15,W,22,,,,,1,,,,,,,,,,,,,,,,,,,1955-06-07
+Geelong,1955,35,Essendon,SF,W,22,,,,,1,,,,,,,,,,,,,,,,,,,1955-03-01
+Geelong,1955,36,Collingwood,PF,L,22,,,,,2,,,,,,,,,,,,,,,,,,,1955-03-01

@@ -1,0 +1,32 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1941,1,Richmond,5,L,34,,,,,,,,,,,,,,,,,,,,,,,,1941-03-29
+Fitzroy,1941,2,Geelong,6,W,34,,,,,2,,,,,,,,,,,,,,,,,,,1941-04-05
+Fitzroy,1941,3,Carlton,8,W,34,,,,,1,,,,,,,,,,,,,,,,,,,1941-04-19
+Fitzroy,1941,4,Hawthorn,9,W,34,,,,,3,,,,,,,,,,,,,,,,,,,1941-04-26
+Fitzroy,1941,5,St Kilda,10,W,34,,,,,,,,,,,,,,,,,,,,,,,,1941-05-03
+Fitzroy,1941,6,North Melbourne,11,L,34,,,,,3,,,,,,,,,,,,,,,,,,,1941-05-10
+Fitzroy,1941,7,Melbourne,12,L,34,,,,,2,,,,,,,,,,,,,,,,,,,1941-05-17
+Fitzroy,1941,8,Collingwood,14,L,34,,,,,2,,,,,,,,,,,,,,,,,,,1941-05-31
+Fitzroy,1941,9,South Melbourne,15,W,34,,,,,,,,,,,,,,,,,,,,,,,,1941-06-07
+Fitzroy,1941,10,Richmond,16,W,34,,,,,,,,,,,,,,,,,,,,,,,,1941-06-14
+Fitzroy,1941,11,Essendon,18,L,34,,,,,,,,,,,,,,,,,,,,,,,,1941-06-28
+Fitzroy,1942,12,Melbourne,3,W,34,,,,,1,,,,,,,,,,,,,,,,,,,1942-03-15
+Fitzroy,1942,13,Carlton,4,L,34,,,,,1,,,,,,,,,,,,,,,,,,,1942-03-22
+Fitzroy,1942,14,South Melbourne,6,W,34,,,,,1,,,,,,,,,,,,,,,,,,,1942-04-05
+Fitzroy,1942,15,Hawthorn,7,W,34,,,,,,,,,,,,,,,,,,,,,,,,1942-04-12
+Fitzroy,1942,16,Collingwood,9,W,34,,,,,,,,,,,,,,,,,,,,,,,,1942-04-26
+Fitzroy,1942,17,Essendon,10,L,34,,,,,,,,,,,,,,,,,,,,,,,,1942-05-03
+Fitzroy,1942,18,Carlton,15,L,34,,,,,,,,,,,,,,,,,,,,,,,,1942-06-07
+Fitzroy,1942,19,Footscray,16,L,34,,,,,,,,,,,,,,,,,,,,,,,,1942-06-14
+Fitzroy,1943,20,St Kilda,10,W,34,,,,,,,,,,,,,,,,,,,,,,,,1943-05-03
+Fitzroy,1943,21,Essendon,11,L,34,,,,,,,,,,,,,,,,,,,,,,,,1943-05-10
+Fitzroy,1944,22,Melbourne,8,W,34,,,,,,,,,,,,,,,,,,,,,,,,1944-04-19
+Fitzroy,1944,23,Essendon,9,D,34,,,,,1,,,,,,,,,,,,,,,,,,,1944-04-26
+Fitzroy,1944,24,Carlton,10,L,34,,,,,,,,,,,,,,,,,,,,,,,,1944-05-03
+Fitzroy,1945,25,Geelong,1,W,34,,,,,,,,,,,,,,,,,,,,,,,,1945-03-01
+Fitzroy,1945,26,Essendon,2,D,34,,,,,1,,,,,,,,,,,,,,,,,,,1945-03-08
+Fitzroy,1945,27,Footscray,3,L,34,,,,,1,,,,,,,,,,,,,,,,,,,1945-03-15
+Fitzroy,1945,28,Carlton,4,L,34,,,,,,,,,,,,,,,,,,,,,,,,1945-03-22
+Fitzroy,1945,29,Geelong,12,W,34,,,,,,,,,,,,,,,,,,,,,,,,1945-05-17
+Fitzroy,1946,30,Essendon,5,L,34,,,,,,,,,,,,,,,,,,,,,,,,1946-03-29
+Fitzroy,1946,31,South Melbourne,6,L,34,,,,,,,,,,,,,,,,,,,,,,,,1946-04-05

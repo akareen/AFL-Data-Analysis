@@ -1,0 +1,58 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1903,1,South Melbourne,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-01
+Melbourne,1903,2,Essendon,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-22
+Melbourne,1903,3,Collingwood,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-29
+Melbourne,1903,4,St Kilda,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-05
+Melbourne,1903,5,Carlton,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-12
+Melbourne,1903,6,South Melbourne,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-19
+Melbourne,1903,7,Fitzroy,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-26
+Melbourne,1903,8,Geelong,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-03
+Melbourne,1903,9,Essendon,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-10
+Melbourne,1903,10,Collingwood,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-17
+Melbourne,1903,11,St Kilda,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-24
+Melbourne,1903,12,Carlton,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-31
+Melbourne,1903,13,Carlton,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-07
+Melbourne,1903,14,St Kilda,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-14
+Melbourne,1903,15,Collingwood,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-21
+Melbourne,1904,16,St Kilda,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-03-01
+Melbourne,1904,17,Collingwood,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-03-08
+Melbourne,1904,18,Fitzroy,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-03-15
+Melbourne,1904,19,Carlton,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-04-05
+Melbourne,1904,20,Geelong,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-04-12
+Melbourne,1904,21,St Kilda,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-04-19
+Melbourne,1904,22,Collingwood,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-04-26
+Melbourne,1904,23,South Melbourne,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-05-17
+Melbourne,1904,24,Carlton,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-05-24
+Melbourne,1904,25,Geelong,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-05-31
+Melbourne,1904,26,St Kilda,15,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-06-07
+Melbourne,1904,27,Carlton,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1904-06-14
+Melbourne,1904,28,Collingwood,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1904-06-21
+Melbourne,1905,29,St Kilda,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-01
+Melbourne,1905,30,South Melbourne,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-08
+Melbourne,1905,31,Essendon,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-15
+Melbourne,1905,32,Collingwood,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-22
+Melbourne,1905,33,Fitzroy,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-29
+Melbourne,1905,34,Carlton,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-04-05
+Melbourne,1905,35,Geelong,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-04-12
+Melbourne,1905,36,St Kilda,8,L,,,,,,1,,,,,,,,,,,,,,,,,,,1905-04-19
+Melbourne,1905,37,South Melbourne,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-04-26
+Melbourne,1905,38,Essendon,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-05-03
+Melbourne,1905,39,Fitzroy,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-05-17
+Melbourne,1905,40,Carlton,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-05-24
+Melbourne,1905,41,Geelong,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-05-31
+Melbourne,1905,42,South Melbourne,15,L,,,,,,1,,,,,,,,,,,,,,,,,,,1905-06-07
+Melbourne,1905,43,Collingwood,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-06-14
+Melbourne,1905,44,Carlton,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-06-21
+Melbourne,1906,45,Carlton,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-01
+Melbourne,1906,46,Essendon,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-15
+Melbourne,1906,47,South Melbourne,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-22
+Melbourne,1906,48,Geelong,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-29
+Melbourne,1906,49,St Kilda,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-05
+Melbourne,1906,50,Collingwood,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-12
+Melbourne,1906,51,Carlton,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-19
+Melbourne,1906,52,Fitzroy,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-26
+Melbourne,1906,53,Essendon,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-03
+Melbourne,1906,54,South Melbourne,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-10
+Melbourne,1906,55,St Kilda,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-24
+Melbourne,1906,56,Collingwood,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-31
+Melbourne,1906,57,St Kilda,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-06-14

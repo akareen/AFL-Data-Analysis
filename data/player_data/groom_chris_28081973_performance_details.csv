@@ -1,0 +1,25 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Adelaide,1993,1,Richmond,1,W,50,7,5,9,16,2,,4,,,,,,,5,,,,,,,,,,1993-03-01
+Adelaide,1993,2,West Coast,2,W,50,9,7,3,12,1,1,2,,,,,,1,1,,,,,,,,,,1993-03-08
+Adelaide,1993,3,Fitzroy,4,W,50,5,2,2,7,,1,4,,,,,,,,,,,,,,,,,1993-03-22
+Adelaide,1993,4,Melbourne,5,L,50,10,4,3,13,1,,3,3,,,,,2,3,,,,,,,,,,1993-03-29
+Adelaide,1993,5,Hawthorn,6,L,50,8,4,2,10,1,1,,1,,,,,1,1,,,,,,,,,,1993-04-05
+Adelaide,1993,6,Essendon,9,L,50,,,1,1,,,,,,,,,,,,,,,,,,,,1993-04-26
+Adelaide,1993,7,West Coast,17,L,50,,,,,,,1,,,,,,,1,,,,,,,,,,1993-06-21
+Adelaide,1994,8,Carlton,1,W,50,6,4,2,8,,1,2,1,,,,,1,3,,,,,,,,,,1994-03-01
+Adelaide,1994,9,Sydney,3,W,50,7,3,5,12,2,,1,,,,,,,1,,,,,,,,,,1994-03-15
+Adelaide,1994,10,Geelong,4,W,50,,,,,,,,,,,,,,,,,,,,,,,,1994-03-22
+Adelaide,1994,11,Footscray,5,L,50,11,6,11,22,,,1,1,,,,,2,2,,,,,,,,,,1994-03-29
+Adelaide,1994,12,Brisbane Bears,6,W,50,3,1,1,4,1,,2,,,,,,,,,,,,,,,,,1994-04-05
+Fremantle,1995,13,Richmond,1,L,35,3,4,,3,3,,,,,,,,,,,,,,,,,,,1995-03-01
+Fremantle,1995,14,Collingwood,8,L,35,7,3,1,8,5,,1,,,,,,3,,,,,,,,,,,1995-04-19
+Fremantle,1995,15,Brisbane Bears,9,W,35,6,3,1,7,3,1,,1,,,,,1,,,,,,,,,,,1995-04-26
+Fremantle,1995,16,St Kilda,10,W,35,2,1,,2,1,,,,,,,,,,,,,,,,,,,1995-05-03
+Fremantle,1995,17,Melbourne,14,L,35,4,2,1,5,3,,1,,,,,,1,,,,,,,,,,,1995-05-31
+Fremantle,1995,18,Richmond,16,L,35,1,1,,1,1,,,1,,,,,,1,,,,,,,,,,1995-06-14
+Fremantle,1995,19,Fitzroy,18,W,35,4,3,1,5,2,,,1,,,,,1,3,,,,,,,,,,1995-06-28
+North Melbourne,1997,20,Richmond,20,L,23,,,,,,,,1,,,,,,,,,,,,,,,,1997-07-12
+North Melbourne,1997,21,Hawthorn,21,W,23,4,1,1,5,,1,,1,,,,,1,1,,,,,,,,,,1997-07-19
+North Melbourne,1998,22,West Coast,1,W,23,3,2,1,4,1,,,1,,,,,,,,,,,,,,,,1998-03-01
+North Melbourne,1998,23,Melbourne,2,L,23,2,1,1,3,,,,,,2,,,,,,,,,,,,,,1998-03-08
+North Melbourne,1998,24,Geelong,10,L,23,1,1,1,2,,1,1,,,,,,,,,,,,,,,,,1998-05-03

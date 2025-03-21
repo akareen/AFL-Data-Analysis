@@ -1,0 +1,43 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Footscray,1953,1,Geelong,2,L,33,,,,,,,,,,,,,,,,,,,,,,,,1953-03-08
+Footscray,1953,2,Hawthorn,3,W,33,,,,,,,,,,,,,,,,,,,,,,,,1953-03-15
+Footscray,1953,3,Melbourne,4,W,33,,,,,,,,,,,,,,,,,,,,,,,,1953-03-22
+Footscray,1953,4,Fitzroy,5,W,33,,,,,,,,,,,,,,,,,,,,,,,,1953-03-29
+Footscray,1953,5,St Kilda,6,W,33,,,,,,,,,,,,,,,,,,,,,,,,1953-04-05
+Footscray,1953,6,Collingwood,7,L,33,,,,,,,,,,,,,,,,,,,,,,,,1953-04-12
+Footscray,1953,7,Richmond,8,W,33,,,,,,,,,,,,,,,,,,,,,,,,1953-04-19
+Footscray,1953,8,Essendon,11,W,33,,,,,,,,,,,,,,,,,,,,,,,,1953-05-10
+Footscray,1953,9,Carlton,12,W,33,,,,,,,,,,,,,,,,,,,,,,,,1953-05-17
+Footscray,1953,10,Geelong,13,L,33,,,,,,,,,,,,,,,,,,,,,,,,1953-05-24
+Footscray,1953,11,Hawthorn,14,W,33,,,,,,,,,,,,,,,,,,,,,,,,1953-05-31
+Footscray,1953,12,Melbourne,15,W,33,,,,,,,,,,,,,,,,,,,,,,,,1953-06-07
+Footscray,1953,13,Fitzroy,16,W,33,,,,,,,,,,,,,,,,,,,,,,,,1953-06-14
+Footscray,1953,14,St Kilda,17,W,33,,,,,,,,,,,,,,,,,,,,,,,,1953-06-21
+Footscray,1953,15,Collingwood,18,L,33,,,,,,,,,,,,,,,,,,,,,,,,1953-06-28
+Footscray,1953,16,Essendon,SF,W,33,,,,,,,,,,,,,,,,,,,,,,,,1953-03-01
+Footscray,1953,17,Geelong,PF,L,33,,,,,,,,,,,,,,,,,,,,,,,,1953-03-01
+Footscray,1954,18,South Melbourne,3,W,33,,,,,,,,,,,,,,,,,,,,,,,,1954-03-15
+Footscray,1954,19,Carlton,4,W,33,,,,,2,,,,,,,,,,,,,,,,,,,1954-03-22
+Footscray,1954,20,North Melbourne,5,W,33,,,,,,,,,,,,,,,,,,,,,,,,1954-03-29
+Footscray,1954,21,Essendon,6,W,33,,,,,,,,,,,,,,,,,,,,,,,,1954-04-05
+Footscray,1954,22,Hawthorn,7,W,33,,,,,,,,,,,,,,,,,,,,,,,,1954-04-12
+Footscray,1954,23,Fitzroy,8,W,33,,,,,,,,,,,,,,,,,,,,,,,,1954-04-19
+Footscray,1954,24,Geelong,9,L,33,,,,,,,,,,,,,,,,,,,,,,,,1954-04-26
+Footscray,1954,25,Melbourne,10,W,33,,,,,,,,,,,,,,,,,,,,,,,,1954-05-03
+Footscray,1954,26,Collingwood,11,L,33,,,,,1,,,,,,,,,,,,,,,,,,,1954-05-10
+Footscray,1954,27,St Kilda,12,W,33,,,,,,,,,,,,,,,,,,,,,,,,1954-05-17
+Footscray,1954,28,Richmond,13,L,33,,,,,,,,,,,,,,,,,,,,,,,,1954-05-24
+Footscray,1954,29,South Melbourne,14,W,33,,,,,,,,,,,,,,,,,,,,,,,,1954-05-31
+Footscray,1954,30,Carlton,15,L,33,,,,,,,,,,,,,,,,,,,,,,,,1954-06-07
+Footscray,1954,31,North Melbourne,16,D,33,,,,,,,,,,,,,,,,,,,,,,,,1954-06-14
+Footscray,1954,32,Essendon,17,W,33,,,,,,,,,,,,,,,,,,,,,,,,1954-06-21
+Footscray,1954,33,Hawthorn,18,W,33,,,,,,,,,,,,,,,,,,,,,,,,1954-06-28
+Footscray,1954,34,Geelong,SF,W,33,,,,,,,,,,,,,,,,,,,,,,,,1954-03-01
+Footscray,1954,35,Melbourne,GF,W,33,,,,,,,,,,,,,,,,,,,,,,,,1954-03-01
+Footscray,1955,36,Collingwood,1,W,33,,,,,,,,,,,,,,,,,,,,,,,,1955-03-01
+Footscray,1955,37,Richmond,2,W,33,,,,,,,,,,,,,,,,,,,,,,,,1955-03-08
+Footscray,1955,38,Melbourne,3,L,33,,,,,,,,,,,,,,,,,,,,,,,,1955-03-15
+Footscray,1955,39,Fitzroy,6,L,33,,,,,,,,,,,,,,,,,,,,,,,,1955-04-05
+Footscray,1955,40,North Melbourne,7,W,33,,,,,,,,,,,,,,,,,,,,,,,,1955-04-12
+Footscray,1955,41,Geelong,16,L,33,,,,,,,,,,,,,,,,,,,,,,,,1955-06-14
+Footscray,1956,42,Carlton,7,L,33,,,,,,,,,,,,,,,,,,,,,,,,1956-04-12

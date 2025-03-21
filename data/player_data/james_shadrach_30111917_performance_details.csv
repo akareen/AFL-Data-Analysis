@@ -1,0 +1,19 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1940,1,Geelong,3,L,2,,,,,1,,,,,,,,,,,,,,,,,,,1940-03-15
+Fitzroy,1940,2,Essendon,4,W,2,,,,,2,,,,,,,,,,,,,,,,,,,1940-03-22
+Fitzroy,1940,3,Richmond,5,L,2,,,,,1,,,,,,,,,,,,,,,,,,,1940-03-29
+Fitzroy,1940,4,Carlton,6,L,2,,,,,,,,,,,,,,,,,,,,,,,,1940-04-05
+Fitzroy,1940,5,Melbourne,8,L,2,,,,,,,,,,,,,,,,,,,,,,,,1940-04-19
+Fitzroy,1940,6,South Melbourne,9,W,2,,,,,3,,,,,,,,,,,,,,,,,,,1940-04-26
+Fitzroy,1940,7,Collingwood,10,W,2,,,,,,,,,,,,,,,,,,,,,,,,1940-05-03
+Fitzroy,1940,8,Footscray,11,W,2,,,,,1,,,,,,,,,,,,,,,,,,,1940-05-10
+Fitzroy,1940,9,St Kilda,12,L,2,,,,,,,,,,,,,,,,,,,,,,,,1940-05-17
+Fitzroy,1940,10,Essendon,15,W,2,,,,,,,,,,,,,,,,,,,,,,,,1940-06-07
+Fitzroy,1940,11,Richmond,16,L,2,,,,,1,,,,,,,,,,,,,,,,,,,1940-06-14
+Fitzroy,1941,12,Melbourne,1,W,2,,,,,2,,,,,,,,,,,,,,,,,,,1941-03-01
+Fitzroy,1941,13,Footscray,2,L,2,,,,,2,,,,,,,,,,,,,,,,,,,1941-03-08
+Fitzroy,1941,14,Geelong,6,W,2,,,,,1,,,,,,,,,,,,,,,,,,,1941-04-05
+Fitzroy,1941,15,Essendon,7,L,2,,,,,1,,,,,,,,,,,,,,,,,,,1941-04-12
+Fitzroy,1941,16,Richmond,16,W,2,,,,,4,,,,,,,,,,,,,,,,,,,1941-06-14
+Fitzroy,1941,17,Geelong,17,W,2,,,,,,,,,,,,,,,,,,,,,,,,1941-06-21
+Fitzroy,1941,18,Essendon,18,L,2,,,,,1,,,,,,,,,,,,,,,,,,,1941-06-28

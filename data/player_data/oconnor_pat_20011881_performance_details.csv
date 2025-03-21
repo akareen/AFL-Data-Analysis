@@ -1,0 +1,34 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1906,1,Fitzroy,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-01
+St Kilda,1906,2,Carlton,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-08
+St Kilda,1906,3,South Melbourne,3,L,,,,,,1,,,,,,,,,,,,,,,,,,,1906-03-15
+St Kilda,1906,4,Essendon,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-22
+St Kilda,1906,5,Collingwood,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-29
+St Kilda,1906,6,Melbourne,6,W,,,,,,1,,,,,,,,,,,,,,,,,,,1906-04-05
+St Kilda,1906,7,Geelong,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-12
+St Kilda,1906,8,Fitzroy,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-19
+St Kilda,1906,9,Carlton,9,L,,,,,,1,,,,,,,,,,,,,,,,,,,1906-04-26
+St Kilda,1906,10,South Melbourne,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-03
+St Kilda,1906,11,Essendon,11,L,,,,,,1,,,,,,,,,,,,,,,,,,,1906-05-10
+St Kilda,1906,12,Collingwood,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-17
+St Kilda,1906,13,Melbourne,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-24
+St Kilda,1906,14,Geelong,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-31
+St Kilda,1906,15,Collingwood,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-06-07
+St Kilda,1906,16,Melbourne,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-06-14
+St Kilda,1906,17,Fitzroy,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-06-21
+St Kilda,1907,18,Carlton,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-03-01
+St Kilda,1907,19,Essendon,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-03-15
+St Kilda,1907,20,Geelong,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-03-22
+St Kilda,1907,21,Fitzroy,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-03-29
+St Kilda,1907,22,Melbourne,6,W,,,,,,1,,,,,,,,,,,,,,,,,,,1907-04-05
+St Kilda,1907,23,South Melbourne,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-04-12
+St Kilda,1907,24,Carlton,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-04-19
+St Kilda,1907,25,Collingwood,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-04-26
+St Kilda,1907,26,Essendon,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-05-03
+St Kilda,1907,27,Fitzroy,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-05-17
+St Kilda,1907,28,Melbourne,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-05-24
+St Kilda,1907,29,South Melbourne,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-05-31
+St Kilda,1907,30,Collingwood,15,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-06-07
+St Kilda,1907,31,Geelong,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-06-14
+St Kilda,1907,32,Fitzroy,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-06-21
+St Kilda,1907,33,Carlton,SF,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-03-01

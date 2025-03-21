@@ -1,0 +1,36 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1916,1,Fitzroy,1,L,21,,,,,,,,,,,,,,,,,,,,,,,,1916-03-01
+Carlton,1916,2,Richmond,3,W,21,,,,,,,,,,,,,,,,,,,,,,,,1916-03-15
+Carlton,1916,3,Fitzroy,4,W,21,,,,,,,,,,,,,,,,,,,,,,,,1916-03-22
+Carlton,1917,4,Fitzroy,1,D,21,,,,,,,,,,,,,,,,,,,,,,,,1917-03-01
+Carlton,1917,5,Collingwood,2,W,21,,,,,2,,,,,,,,,,,,,,,,,,,1917-03-08
+Carlton,1917,6,South Melbourne,3,L,21,,,,,1,,,,,,,,,,,,,,,,,,,1917-03-15
+Carlton,1917,7,Geelong,4,L,21,,,,,,,,,,,,,,,,,,,,,,,,1917-03-22
+Carlton,1917,8,Richmond,5,W,21,,,,,,,,,,,,,,,,,,,,,,,,1917-03-29
+Carlton,1917,9,Fitzroy,6,L,21,,,,,,,,,,,,,,,,,,,,,,,,1917-04-05
+Carlton,1917,10,Collingwood,7,L,21,,,,,,,,,,,,,,,,,,,,,,,,1917-04-12
+Carlton,1917,11,South Melbourne,8,W,21,,,,,,,,,,,,,,,,,,,,,,,,1917-04-19
+Carlton,1917,12,Geelong,9,W,21,,,,,,,,,,,,,,,,,,,,,,,,1917-04-26
+Carlton,1917,13,Richmond,10,W,21,,,,,,,,,,,,,,,,,,,,,,,,1917-05-03
+Carlton,1917,14,Fitzroy,11,W,21,,,,,1,,,,,,,,,,,,,,,,,,,1917-05-10
+Carlton,1917,15,Collingwood,12,W,21,,,,,,,,,,,,,,,,,,,,,,,,1917-05-17
+Carlton,1917,16,South Melbourne,13,L,21,,,,,,,,,,,,,,,,,,,,,,,,1917-05-24
+Carlton,1917,17,Geelong,14,W,21,,,,,,,,,,,,,,,,,,,,,,,,1917-05-31
+Carlton,1917,18,Richmond,15,W,21,,,,,,,,,,,,,,,,,,,,,,,,1917-06-07
+Carlton,1917,19,Fitzroy,SF,L,21,,,,,,,,,,,,,,,,,,,,,,,,1917-03-01
+Carlton,1918,20,Collingwood,1,L,21,,,,,,,,,,,,,,,,,,,,,,,,1918-03-01
+Carlton,1918,21,Richmond,2,L,21,,,,,,,,,,,,,,,,,,,,,,,,1918-03-08
+Carlton,1918,22,St Kilda,3,W,21,,,,,,,,,,,,,,,,,,,,,,,,1918-03-15
+Carlton,1918,23,Essendon,4,W,21,,,,,,,,,,,,,,,,,,,,,,,,1918-03-22
+Carlton,1918,24,South Melbourne,5,L,21,,,,,,,,,,,,,,,,,,,,,,,,1918-03-29
+Carlton,1918,25,Geelong,6,W,21,,,,,,,,,,,,,,,,,,,,,,,,1918-04-05
+Carlton,1918,26,Fitzroy,7,W,21,,,,,,,,,,,,,,,,,,,,,,,,1918-04-12
+Carlton,1918,27,Collingwood,8,W,21,,,,,,,,,,,,,,,,,,,,,,,,1918-04-19
+Carlton,1918,28,Richmond,9,W,21,,,,,,,,,,,,,,,,,,,,,,,,1918-04-26
+Carlton,1918,29,Geelong,13,L,21,,,,,,,,,,,,,,,,,,,,,,,,1918-05-24
+Carlton,1918,30,Fitzroy,14,W,21,,,,,,,,,,,,,,,,,,,,,,,,1918-05-31
+Carlton,1918,31,South Melbourne,SF,L,21,,,,,,,,,,,,,,,,,,,,,,,,1918-03-01
+Carlton,1919,32,Melbourne,5,W,21,,,,,,,,,,,,,,,,,,,,,,,,1919-03-29
+Carlton,1919,33,St Kilda,6,W,21,,,,,,,,,,,,,,,,,,,,,,,,1919-04-05
+Carlton,1919,34,Collingwood,7,W,21,,,,,,,,,,,,,,,,,,,,,,,,1919-04-12
+Carlton,1919,35,Richmond,9,L,21,,,,,,,,,,,,,,,,,,,,,,,,1919-04-26

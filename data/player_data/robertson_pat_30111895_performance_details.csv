@@ -1,0 +1,19 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1919,1,St Kilda,4,L,18,,,,,,,,,,,,,,,,,,,,,,,,1919-03-22
+Essendon,1919,2,Geelong,7,W,18,,,,,,,,,,,,,,,,,,,,,,,,1919-04-12
+Essendon,1919,3,Collingwood,8,L,18,,,,,,,,,,,,,,,,,,,,,,,,1919-04-19
+Essendon,1919,4,Melbourne,9,W,18,,,,,1,,,,,,,,,,,,,,,,,,,1919-04-26
+Essendon,1919,5,Richmond,10,L,18,,,,,,,,,,,,,,,,,,,,,,,,1919-05-03
+Essendon,1919,6,Carlton,11,W,18,,,,,,,,,,,,,,,,,,,,,,,,1919-05-10
+Essendon,1919,7,Fitzroy,12,W,18,,,,,,,,,,,,,,,,,,,,,,,,1919-05-17
+Essendon,1919,8,St Kilda,13,L,18,,,,,,,,,,,,,,,,,,,,,,,,1919-05-24
+Essendon,1919,9,South Melbourne,14,L,18,,,,,,,,,,,,,,,,,,,,,,,,1919-05-31
+Essendon,1919,10,Geelong,16,W,18,,,,,,,,,,,,,,,,,,,,,,,,1919-06-14
+Essendon,1919,11,Collingwood,17,L,18,,,,,,,,,,,,,,,,,,,,,,,,1919-06-21
+Essendon,1919,12,Melbourne,18,W,18,,,,,,,,,,,,,,,,,,,,,,,,1919-06-28
+Essendon,1920,13,Collingwood,1,W,18,,,,,,,,,,,,,,,,,,,,,,,,1920-03-01
+Essendon,1920,14,Melbourne,2,L,18,,,,,,,,,,,,,,,,,,,,,,,,1920-03-08
+Essendon,1920,15,Carlton,4,L,18,,,,,,,,,,,,,,,,,,,,,,,,1920-03-22
+Essendon,1920,16,St Kilda,5,W,18,,,,,,,,,,,,,,,,,,,,,,,,1920-03-29
+Essendon,1920,17,Fitzroy,7,W,18,,,,,,,,,,,,,,,,,,,,,,,,1920-04-12
+Essendon,1920,18,Collingwood,10,L,18,,,,,,,,,,,,,,,,,,,,,,,,1920-05-03

@@ -1,0 +1,42 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1942,1,St Kilda,7,L,33,,,,,,,,,,,,,,,,,,,,,,,,1942-04-12
+Collingwood,1943,2,St Kilda,6,W,33,,,,,,,,,,,,,,,,,,,,,,,,1943-04-05
+Collingwood,1943,3,Hawthorn,11,L,33,,,,,,,,,,,,,,,,,,,,,,,,1943-05-10
+Collingwood,1943,4,North Melbourne,13,W,33,,,,,2,,,,,,,,,,,,,,,,,,,1943-05-24
+Collingwood,1943,5,South Melbourne,14,L,33,,,,,,,,,,,,,,,,,,,,,,,,1943-05-31
+Collingwood,1944,6,North Melbourne,1,W,32,,,,,,,,,,,,,,,,,,,,,,,,1944-03-01
+Collingwood,1944,7,Fitzroy,2,L,32,,,,,,,,,,,,,,,,,,,,,,,,1944-03-08
+Collingwood,1944,8,Footscray,3,L,32,,,,,,,,,,,,,,,,,,,,,,,,1944-03-15
+Collingwood,1944,9,Hawthorn,5,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1944-03-29
+Collingwood,1944,10,Melbourne,6,L,32,,,,,1,,,,,,,,,,,,,,,,,,,1944-04-05
+Collingwood,1944,11,South Melbourne,15,L,32,,,,,,,,,,,,,,,,,,,,,,,,1944-06-07
+Collingwood,1944,12,Melbourne,17,W,32,,,,,,,,,,,,,,,,,,,,,,,,1944-06-21
+Melbourne,1945,13,Collingwood,3,L,22,,,,,,,,,,,,,,,,,,,,,,,,1945-03-15
+Melbourne,1945,14,Richmond,4,L,22,,,,,1,,,,,,,,,,,,,,,,,,,1945-03-22
+Melbourne,1945,15,North Melbourne,7,L,8,,,,,,,,,,,,,,,,,,,,,,,,1945-04-12
+Melbourne,1945,16,South Melbourne,8,L,8,,,,,,,,,,,,,,,,,,,,,,,,1945-04-19
+Melbourne,1945,17,Fitzroy,9,L,8,,,,,,,,,,,,,,,,,,,,,,,,1945-04-26
+Melbourne,1945,18,Hawthorn,10,W,8,,,,,,,,,,,,,,,,,,,,,,,,1945-05-03
+Melbourne,1945,19,Essendon,11,W,8,,,,,,,,,,,,,,,,,,,,,,,,1945-05-10
+Melbourne,1945,20,Carlton,12,L,8,,,,,,,,,,,,,,,,,,,,,,,,1945-05-17
+Melbourne,1945,21,St Kilda,13,W,8,,,,,,,,,,,,,,,,,,,,,,,,1945-05-24
+Melbourne,1945,22,Collingwood,14,L,8,,,,,,,,,,,,,,,,,,,,,,,,1945-05-31
+Melbourne,1945,23,Richmond,15,L,8,,,,,1,,,,,,,,,,,,,,,,,,,1945-06-07
+Melbourne,1945,24,Geelong,16,W,8,,,,,,,,,,,,,,,,,,,,,,,,1945-06-14
+Melbourne,1945,25,Footscray,17,W,8,,,,,,,,,,,,,,,,,,,,,,,,1945-06-21
+Melbourne,1945,26,South Melbourne,19,L,8,,,,,,,,,,,,,,,,,,,,,,,,1945-07-05
+Melbourne,1946,27,Geelong,1,W,8,,,,,,,,,,,,,,,,,,,,,,,,1946-03-01
+Melbourne,1946,28,Carlton,2,W,8,,,,,,,,,,,,,,,,,,,,,,,,1946-03-08
+Melbourne,1946,29,Essendon,3,L,8,,,,,,,,,,,,,,,,,,,,,,,,1946-03-15
+Melbourne,1946,30,South Melbourne,4,W,8,,,,,,,,,,,,,,,,,,,,,,,,1946-03-22
+Melbourne,1946,31,North Melbourne,8,L,8,,,,,,,,,,,,,,,,,,,,,,,,1946-04-19
+Melbourne,1946,32,St Kilda,9,W,8,,,,,,,,,,,,,,,,,,,,,,,,1946-04-26
+Melbourne,1946,33,Hawthorn,17,W,8,,,,,,,,,,,,,,,,,,,,,,,,1946-06-21
+Melbourne,1946,34,Collingwood,PF,W,8,,,,,,,,,,,,,,,,,,,,,,,,1946-03-01
+Melbourne,1946,35,Essendon,GF,L,8,,,,,,,,,,,,,,,,,,,,,,,,1946-03-01
+Melbourne,1947,36,Carlton,1,L,8,,,,,,,,,,,,,,,,,,,,,,,,1947-03-01
+Melbourne,1947,37,Geelong,2,W,8,,,,,,,,,,,,,,,,,,,,,,,,1947-03-08
+Melbourne,1947,38,Fitzroy,3,L,8,,,,,,,,,,,,,,,,,,,,,,,,1947-03-15
+Melbourne,1947,39,Carlton,12,L,8,,,,,,,,,,,,,,,,,,,,,,,,1947-05-17
+Melbourne,1947,40,Geelong,13,L,8,,,,,,,,,,,,,,,,,,,,,,,,1947-05-24
+Melbourne,1947,41,Collingwood,16,W,8,,,,,,,,,,,,,,,,,,,,,,,,1947-06-14

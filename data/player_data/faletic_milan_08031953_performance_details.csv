@@ -1,0 +1,25 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1981,1,Footscray,1,W,9,16,3,3,19,5,5,,,,,,,2,3,,,,,,,,,,1981-03-01
+St Kilda,1981,2,Geelong,2,L,9,12,7,4,16,1,3,,,,,,,,7,,,,,,,,,,1981-03-08
+St Kilda,1981,3,Collingwood,3,L,9,14,2,4,18,3,3,,,,,,,2,2,,,,,,,,,,1981-03-15
+St Kilda,1981,4,Melbourne,4,W,9,20,5,1,21,2,7,,,,,,,2,,,,,,,,,,,1981-03-22
+St Kilda,1981,5,Carlton,5,L,9,7,,3,10,,2,,,,,,,3,1,,,,,,,,,,1981-03-29
+St Kilda,1981,6,South Melbourne,6,L,9,16,7,2,18,2,2,,,,,,,1,4,,,,,,,,,,1981-04-05
+St Kilda,1981,7,Essendon,7,L,9,11,6,4,15,4,3,,,,,,,2,3,,,,,,,,,,1981-04-12
+St Kilda,1981,8,North Melbourne,8,L,9,10,1,4,14,,1,,,,,,,3,2,,,,,,,,,,1981-04-19
+St Kilda,1981,9,Richmond,9,L,9,14,2,4,18,1,1,,,,,,,2,3,,,,,,,,,,1981-04-26
+St Kilda,1981,10,Hawthorn,10,L,9,7,1,7,14,2,,,,,,,,,3,,,,,,,,,,1981-05-03
+St Kilda,1981,11,Fitzroy,11,W,9,14,2,4,18,2,3,,,,,,,2,4,,,,,,,,,,1981-05-10
+St Kilda,1981,12,Geelong,12,L,9,6,2,3,9,,4,,,,,,,1,2,,,,,,,,,,1981-05-17
+St Kilda,1981,13,Collingwood,13,L,9,9,3,2,11,,,,,,,,,2,5,,,,,,,,,,1981-05-24
+St Kilda,1981,14,Melbourne,14,W,9,18,6,5,23,1,1,,,,,,,,2,,,,,,,,,,1981-05-31
+St Kilda,1981,15,Carlton,15,L,9,10,1,2,12,,,,,,,,,3,2,,,,,,,,,,1981-06-07
+St Kilda,1981,16,South Melbourne,16,L,9,4,2,2,6,1,,,,,,,,1,2,,,,,,,,,,1981-06-14
+St Kilda,1981,17,North Melbourne,18,L,9,16,3,3,19,2,1,,,,,,,2,2,,,,,,,,,,1981-06-28
+St Kilda,1981,18,Richmond,19,L,9,10,1,4,14,1,1,,,,,,,2,2,,,,,,,,,,1981-07-05
+St Kilda,1981,19,Hawthorn,20,L,9,12,3,3,15,1,1,,,,,,,1,1,,,,,,,,,,1981-07-12
+St Kilda,1981,20,Fitzroy,21,L,9,8,4,3,11,2,,,,,,,,,4,,,,,,,,,,1981-07-19
+St Kilda,1981,21,Footscray,22,W,9,14,6,7,21,1,1,,,,,,,4,2,,,,,,,,,,1981-07-26
+St Kilda,1982,22,Essendon,10,L,9,13,4,5,18,1,1,,,,,,,,1,,,,,,,,,,1982-05-03
+St Kilda,1982,23,North Melbourne,18,L,9,17,10,2,19,1,3,1,,,,,,1,3,,,,,,,,,,1982-06-28
+St Kilda,1982,24,Fitzroy,19,L,9,10,4,4,14,,,,,,,,,2,1,,,,,,,,,,1982-07-05

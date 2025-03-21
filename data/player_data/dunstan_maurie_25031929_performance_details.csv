@@ -1,0 +1,73 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1949,1,North Melbourne,1,W,12,,,,,1,,,,,,,,,,,,,,,,,,,1949-03-01
+Collingwood,1949,2,Fitzroy,3,L,12,,,,,,,,,,,,,,,,,,,,,,,,1949-03-15
+Collingwood,1949,3,Hawthorn,4,W,12,,,,,,,,,,,,,,,,,,,,,,,,1949-03-22
+Collingwood,1949,4,Carlton,5,L,12,,,,,1,,,,,,,,,,,,,,,,,,,1949-03-29
+Collingwood,1949,5,Essendon,6,W,12,,,,,,,,,,,,,,,,,,,,,,,,1949-04-05
+Collingwood,1949,6,Footscray,7,W,12,,,,,,,,,,,,,,,,,,,,,,,,1949-04-12
+Collingwood,1949,7,South Melbourne,11,W,12,,,,,,,,,,,,,,,,,,,,,,,,1949-05-10
+Collingwood,1949,8,North Melbourne,12,L,12,,,,,,,,,,,,,,,,,,,,,,,,1949-05-17
+Collingwood,1949,9,Melbourne,13,L,12,,,,,,,,,,,,,,,,,,,,,,,,1949-05-24
+Collingwood,1949,10,Fitzroy,14,W,12,,,,,2,,,,,,,,,,,,,,,,,,,1949-05-31
+Collingwood,1949,11,Hawthorn,15,W,12,,,,,1,,,,,,,,,,,,,,,,,,,1949-06-07
+Collingwood,1949,12,Carlton,16,W,12,,,,,,,,,,,,,,,,,,,,,,,,1949-06-14
+Collingwood,1949,13,Essendon,17,L,12,,,,,,,,,,,,,,,,,,,,,,,,1949-06-21
+Collingwood,1949,14,Footscray,18,W,12,,,,,,,,,,,,,,,,,,,,,,,,1949-06-28
+Collingwood,1949,15,St Kilda,19,L,12,,,,,,,,,,,,,,,,,,,,,,,,1949-07-05
+Collingwood,1949,16,Essendon,SF,L,12,,,,,,,,,,,,,,,,,,,,,,,,1949-03-01
+Collingwood,1950,17,South Melbourne,1,L,10,,,,,1,,,,,,,,,,,,,,,,,,,1950-03-01
+Collingwood,1950,18,Fitzroy,2,W,10,,,,,1,,,,,,,,,,,,,,,,,,,1950-03-08
+Collingwood,1950,19,Richmond,6,L,10,,,,,,,,,,,,,,,,,,,,,,,,1950-04-05
+Collingwood,1950,20,North Melbourne,9,L,10,,,,,1,,,,,,,,,,,,,,,,,,,1950-04-26
+Collingwood,1950,21,St Kilda,10,W,10,,,,,,,,,,,,,,,,,,,,,,,,1950-05-03
+Collingwood,1950,22,Essendon,11,L,10,,,,,,,,,,,,,,,,,,,,,,,,1950-05-10
+Collingwood,1950,23,South Melbourne,12,W,10,,,,,3,,,,,,,,,,,,,,,,,,,1950-05-17
+Collingwood,1950,24,Carlton,14,W,10,,,,,1,,,,,,,,,,,,,,,,,,,1950-05-31
+Collingwood,1950,25,Footscray,18,W,10,,,,,,,,,,,,,,,,,,,,,,,,1950-06-28
+Collingwood,1951,26,Richmond,5,L,32,,,,,2,,,,,,,,,,,,,,,,,,,1951-03-29
+Collingwood,1951,27,South Melbourne,6,W,32,,,,,4,,,,,,,,,,,,,,,,,,,1951-04-05
+Collingwood,1951,28,St Kilda,7,W,32,,,,,4,,,,,,,,,,,,,,,,,,,1951-04-12
+Collingwood,1951,29,Carlton,8,W,32,,,,,,,,,,,,,,,,,,,,,,,,1951-04-19
+Collingwood,1951,30,Hawthorn,9,W,32,,,,,8,,,,,,,,,,,,,,,,,,,1951-04-26
+Collingwood,1951,31,Footscray,10,L,32,,,,,,,,,,,,,,,,,,,,,,,,1951-05-03
+Collingwood,1951,32,Fitzroy,11,L,32,,,,,6,,,,,,,,,,,,,,,,,,,1951-05-10
+Collingwood,1951,33,North Melbourne,12,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1951-05-17
+Collingwood,1951,34,Melbourne,13,W,32,,,,,6,,,,,,,,,,,,,,,,,,,1951-05-24
+Collingwood,1951,35,Geelong,14,W,32,,,,,,,,,,,,,,,,,,,,,,,,1951-05-31
+Collingwood,1951,36,Essendon,15,W,32,,,,,4,,,,,,,,,,,,,,,,,,,1951-06-07
+Collingwood,1951,37,Richmond,16,W,32,,,,,3,,,,,,,,,,,,,,,,,,,1951-06-14
+Collingwood,1951,38,South Melbourne,17,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1951-06-21
+Collingwood,1951,39,Geelong,SF,L,32,,,,,,,,,,,,,,,,,,,,,,,,1951-03-01
+Collingwood,1951,40,Essendon,PF,L,32,,,,,1,,,,,,,,,,,,,,,,,,,1951-03-01
+Collingwood,1952,41,Hawthorn,1,W,6,,,,,5,,,,,,,,,,,,,,,,,,,1952-03-01
+Collingwood,1952,42,Fitzroy,2,W,6,,,,,7,,,,,,,,,,,,,,,,,,,1952-03-08
+Collingwood,1952,43,Essendon,3,W,6,,,,,3,,,,,,,,,,,,,,,,,,,1952-03-15
+Collingwood,1952,44,St Kilda,4,W,6,,,,,3,,,,,,,,,,,,,,,,,,,1952-03-22
+Collingwood,1952,45,Carlton,5,W,6,,,,,3,,,,,,,,,,,,,,,,,,,1952-03-29
+Collingwood,1952,46,Footscray,6,W,6,,,,,4,,,,,,,,,,,,,,,,,,,1952-04-05
+Collingwood,1952,47,Melbourne,7,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1952-04-12
+Collingwood,1952,48,Richmond,8,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1952-04-19
+Collingwood,1952,49,Hawthorn,13,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1952-05-24
+Collingwood,1952,50,Fitzroy,14,L,6,,,,,2,,,,,,,,,,,,,,,,,,,1952-05-31
+Collingwood,1952,51,Essendon,15,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1952-06-07
+Collingwood,1952,52,St Kilda,16,W,6,,,,,5,,,,,,,,,,,,,,,,,,,1952-06-14
+Collingwood,1952,53,Carlton,17,L,6,,,,,2,,,,,,,,,,,,,,,,,,,1952-06-21
+Collingwood,1952,54,Footscray,18,W,6,,,,,3,,,,,,,,,,,,,,,,,,,1952-06-28
+Collingwood,1952,55,Melbourne,19,W,6,,,,,2,,,,,,,,,,,,,,,,,,,1952-07-05
+Collingwood,1952,56,Fitzroy,PF,W,6,,,,,,,,,,,,,,,,,,,,,,,,1952-03-01
+Collingwood,1952,57,Geelong,GF,L,6,,,,,,,,,,,,,,,,,,,,,,,,1952-03-01
+Collingwood,1953,58,South Melbourne,1,W,6,,,,,,,,,,,,,,,,,,,,,,,,1953-03-01
+Collingwood,1953,59,Richmond,6,W,6,,,,,,,,,,,,,,,,,,,,,,,,1953-04-05
+Collingwood,1953,60,Footscray,7,W,6,,,,,,,,,,,,,,,,,,,,,,,,1953-04-12
+Collingwood,1953,61,St Kilda,8,W,6,,,,,3,,,,,,,,,,,,,,,,,,,1953-04-19
+Collingwood,1953,62,Melbourne,9,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1953-04-26
+Collingwood,1953,63,Essendon,10,L,6,,,,,3,,,,,,,,,,,,,,,,,,,1953-05-03
+Collingwood,1953,64,Fitzroy,11,L,6,,,,,4,,,,,,,,,,,,,,,,,,,1953-05-10
+Collingwood,1953,65,South Melbourne,12,W,6,,,,,4,,,,,,,,,,,,,,,,,,,1953-05-17
+Collingwood,1953,66,North Melbourne,13,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1953-05-24
+Collingwood,1953,67,Geelong,14,W,6,,,,,3,,,,,,,,,,,,,,,,,,,1953-05-31
+Collingwood,1953,68,Carlton,15,W,6,,,,,2,,,,,,,,,,,,,,,,,,,1953-06-07
+Collingwood,1953,69,Hawthorn,16,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1953-06-14
+Collingwood,1953,70,Footscray,18,W,6,,,,,,,,,,,,,,,,,,,,,,,,1953-06-28
+Collingwood,1954,71,Fitzroy,2,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1954-03-08
+Collingwood,1954,72,St Kilda,3,W,6,,,,,,,,,,,,,,,,,,,,,,,,1954-03-15

@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1936,1,North Melbourne,3,W,5,,,,,,,,,,,,,,,,,,,,,,,,1936-03-15
+Richmond,1936,2,Carlton,4,W,5,,,,,,,,,,,,,,,,,,,,,,,,1936-03-22
+Richmond,1936,3,Melbourne,11,L,5,,,,,,,,,,,,,,,,,,,,,,,,1936-05-10
+Richmond,1936,4,Collingwood,13,L,5,,,,,,,,,,,,,,,,,,,,,,,,1936-05-24
+Richmond,1936,5,North Melbourne,14,L,5,,,,,,,,,,,,,,,,,,,,,,,,1936-05-31
+Richmond,1936,6,Carlton,15,L,5,,,,,,,,,,,,,,,,,,,,,,,,1936-06-07
+Richmond,1936,7,Hawthorn,16,L,5,,,,,,,,,,,,,,,,,,,,,,,,1936-06-14
+Richmond,1936,8,Geelong,17,L,5,,,,,,,,,,,,,,,,,,,,,,,,1936-06-21
+Richmond,1936,9,Essendon,18,L,5,,,,,,,,,,,,,,,,,,,,,,,,1936-06-28

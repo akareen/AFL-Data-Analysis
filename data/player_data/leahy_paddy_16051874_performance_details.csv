@@ -1,0 +1,22 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1897,1,Essendon,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-03-01
+Geelong,1897,2,Melbourne,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-03-08
+Geelong,1898,3,South Melbourne,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-03-15
+Geelong,1898,4,Fitzroy,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1898-03-29
+Geelong,1898,5,Essendon,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-04-05
+Geelong,1899,6,Collingwood,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1899-03-01
+Geelong,1899,7,Carlton,2,W,,,,,,,,,,,,,,,,,,,,,,,,,1899-03-08
+Geelong,1899,8,Fitzroy,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-03-15
+Geelong,1899,9,Essendon,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1899-03-29
+Geelong,1899,10,South Melbourne,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-04-05
+Geelong,1899,11,St Kilda,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1899-04-12
+Geelong,1899,12,Collingwood,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1899-04-19
+Geelong,1900,13,Carlton,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1900-03-01
+Geelong,1900,14,Collingwood,2,W,,,,,,,,,,,,,,,,,,,,,,,,,1900-03-08
+Geelong,1900,15,Melbourne,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1900-03-22
+Geelong,1900,16,Fitzroy,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-04-05
+Geelong,1900,17,Essendon,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1900-04-12
+Carlton,1902,18,St Kilda,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-15
+Carlton,1902,19,Melbourne,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-22
+Carlton,1902,20,Essendon,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-29
+Carlton,1902,21,Collingwood,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-04-12

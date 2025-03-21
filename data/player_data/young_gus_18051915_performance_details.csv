@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1939,1,North Melbourne,13,L,21,,,,,,,,,,,,,,,,,,,,,,,,1939-05-24
+Hawthorn,1939,2,Geelong,14,L,21,,,,,,,,,,,,,,,,,,,,,,,,1939-05-31
+Hawthorn,1939,3,Fitzroy,15,W,21,,,,,1,,,,,,,,,,,,,,,,,,,1939-06-07
+Hawthorn,1939,4,Collingwood,17,L,21,,,,,,,,,,,,,,,,,,,,,,,,1939-06-21
+Hawthorn,1939,5,Footscray,18,L,21,,,,,,,,,,,,,,,,,,,,,,,,1939-06-28
+Hawthorn,1940,6,North Melbourne,1,W,21,,,,,,,,,,,,,,,,,,,,,,,,1940-03-01
+Hawthorn,1940,7,St Kilda,2,L,21,,,,,2,,,,,,,,,,,,,,,,,,,1940-03-08
+Hawthorn,1940,8,Richmond,3,L,21,,,,,,,,,,,,,,,,,,,,,,,,1940-03-15
+Hawthorn,1940,9,South Melbourne,4,L,21,,,,,2,,,,,,,,,,,,,,,,,,,1940-03-22
+Hawthorn,1940,10,Collingwood,11,L,21,,,,,,,,,,,,,,,,,,,,,,,,1940-05-10

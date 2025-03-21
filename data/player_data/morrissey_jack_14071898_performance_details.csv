@@ -1,0 +1,86 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1920,1,South Melbourne,5,L,30,,,,,,,,,,,,,,,,,,,,,,,,1920-03-29
+Carlton,1920,2,Geelong,7,W,30,,,,,,,,,,,,,,,,,,,,,,,,1920-04-12
+Carlton,1920,3,Collingwood,8,L,30,,,,,,,,,,,,,,,,,,,,,,,,1920-04-19
+Carlton,1920,4,St Kilda,10,W,30,,,,,,,,,,,,,,,,,,,,,,,,1920-05-03
+Carlton,1920,5,Richmond,11,W,30,,,,,,,,,,,,,,,,,,,,,,,,1920-05-10
+Carlton,1920,6,Fitzroy,12,L,30,,,,,,,,,,,,,,,,,,,,,,,,1920-05-17
+Carlton,1920,7,South Melbourne,13,W,30,,,,,,,,,,,,,,,,,,,,,,,,1920-05-24
+Carlton,1920,8,Essendon,14,W,30,,,,,,,,,,,,,,,,,,,,,,,,1920-05-31
+Carlton,1920,9,Melbourne,15,W,30,,,,,,,,,,,,,,,,,,,,,,,,1920-06-07
+Carlton,1920,10,Collingwood,17,W,30,,,,,,,,,,,,,,,,,,,,,,,,1920-06-21
+Carlton,1922,11,South Melbourne,5,L,7,,,,,,,,,,,,,,,,,,,,,,,,1922-03-29
+Carlton,1922,12,St Kilda,6,W,7,,,,,,,,,,,,,,,,,,,,,,,,1922-04-05
+Carlton,1922,13,Geelong,7,L,7,,,,,,,,,,,,,,,,,,,,,,,,1922-04-12
+Carlton,1922,14,Richmond,8,W,7,,,,,,,,,,,,,,,,,,,,,,,,1922-04-19
+Carlton,1922,15,Essendon,10,W,7,,,,,,,,,,,,,,,,,,,,,,,,1922-05-03
+Carlton,1922,16,Fitzroy,11,L,7,,,,,,,,,,,,,,,,,,,,,,,,1922-05-10
+Carlton,1922,17,Collingwood,12,W,7,,,,,,,,,,,,,,,,,,,,,,,,1922-05-17
+Carlton,1922,18,Melbourne,13,L,7,,,,,,,,,,,,,,,,,,,,,,,,1922-05-24
+Carlton,1922,19,South Melbourne,14,W,7,,,,,,,,,,,,,,,,,,,,,,,,1922-05-31
+Carlton,1922,20,St Kilda,15,W,7,,,,,,,,,,,,,,,,,,,,,,,,1922-06-07
+Carlton,1922,21,Richmond,17,W,7,,,,,,,,,,,,,,,,,,,,,,,,1922-06-21
+Carlton,1922,22,Essendon,SF,L,7,,,,,,,,,,,,,,,,,,,,,,,,1922-03-01
+Carlton,1923,23,Fitzroy,1,L,7,,,,,,,,,,,,,,,,,,,,,,,,1923-03-01
+Carlton,1923,24,St Kilda,2,L,7,,,,,,,,,,,,,,,,,,,,,,,,1923-03-08
+Carlton,1923,25,Richmond,3,W,7,,,,,,,,,,,,,,,,,,,,,,,,1923-03-15
+Carlton,1923,26,Essendon,4,L,7,,,,,,,,,,,,,,,,,,,,,,,,1923-03-22
+Carlton,1923,27,South Melbourne,6,L,7,,,,,,,,,,,,,,,,,,,,,,,,1923-04-05
+Carlton,1923,28,Collingwood,7,L,7,,,,,,,,,,,,,,,,,,,,,,,,1923-04-12
+Carlton,1923,29,Melbourne,8,W,7,,,,,,,,,,,,,,,,,,,,,,,,1923-04-19
+Carlton,1923,30,Fitzroy,10,W,7,,,,,,,,,,,,,,,,,,,,,,,,1923-05-03
+Carlton,1925,31,North Melbourne,9,W,13,,,,,,,,,,,,,,,,,,,,,,,,1925-04-26
+Carlton,1925,32,St Kilda,10,L,13,,,,,,,,,,,,,,,,,,,,,,,,1925-05-03
+Carlton,1925,33,Footscray,11,W,13,,,,,,,,,,,,,,,,,,,,,,,,1925-05-10
+Carlton,1925,34,South Melbourne,12,L,13,,,,,,,,,,,,,,,,,,,,,,,,1925-05-17
+Carlton,1925,35,Melbourne,14,L,13,,,,,,,,,,,,,,,,,,,,,,,,1925-05-31
+Carlton,1925,36,Hawthorn,15,W,13,,,,,,,,,,,,,,,,,,,,,,,,1925-06-07
+Carlton,1925,37,Geelong,16,L,13,,,,,,,,,,,,,,,,,,,,,,,,1925-06-14
+Carlton,1925,38,Fitzroy,17,L,13,,,,,,,,,,,,,,,,,,,,,,,,1925-06-21
+Carlton,1926,39,Hawthorn,1,W,13,,,,,,,,,,,,,,,,,,,,,,,,1926-03-01
+Carlton,1926,40,Melbourne,2,W,13,,,,,,,,,,,,,,,,,,,,,,,,1926-03-08
+Carlton,1926,41,Geelong,3,L,13,,,,,,,,,,,,,,,,,,,,,,,,1926-03-15
+Carlton,1926,42,Fitzroy,5,L,13,,,,,,,,,,,,,,,,,,,,,,,,1926-03-29
+Carlton,1926,43,Essendon,6,W,13,,,,,,,,,,,,,,,,,,,,,,,,1926-04-05
+Carlton,1926,44,Footscray,7,W,13,,,,,,,,,,,,,,,,,,,,,,,,1926-04-12
+Carlton,1926,45,North Melbourne,8,W,13,,,,,,,,,,,,,,,,,,,,,,,,1926-04-19
+Carlton,1926,46,Collingwood,9,W,13,,,,,,,,,,,,,,,,,,,,,,,,1926-04-26
+Carlton,1926,47,Richmond,10,L,13,,,,,,,,,,,,,,,,,,,,,,,,1926-05-03
+Carlton,1926,48,Hawthorn,12,W,13,,,,,,,,,,,,,,,,,,,,,,,,1926-05-17
+Carlton,1926,49,Melbourne,13,L,13,,,,,,,,,,,,,,,,,,,,,,,,1926-05-24
+Carlton,1926,50,Geelong,14,W,13,,,,,,,,,,,,,,,,,,,,,,,,1926-05-31
+Carlton,1926,51,South Melbourne,15,L,13,,,,,,,,,,,,,,,,,,,,,,,,1926-06-07
+Carlton,1926,52,Essendon,17,L,13,,,,,,,,,,,,,,,,,,,,,,,,1926-06-21
+Carlton,1926,53,Collingwood,18,L,13,,,,,,,,,,,,,,,,,,,,,,,,1926-06-28
+Carlton,1927,54,South Melbourne,1,L,13,,,,,,,,,,,,,,,,,,,,,,,,1927-03-01
+Carlton,1927,55,Fitzroy,2,W,13,,,,,,,,,,,,,,,,,,,,,,,,1927-03-08
+Carlton,1927,56,Essendon,3,W,13,,,,,,,,,,,,,,,,,,,,,,,,1927-03-15
+North Melbourne,1928,57,Richmond,1,L,14,,,,,,,,,,,,,,,,,,,,,,,,1928-03-01
+North Melbourne,1928,58,Hawthorn,2,W,14,,,,,,,,,,,,,,,,,,,,,,,,1928-03-08
+North Melbourne,1928,59,St Kilda,3,L,14,,,,,,,,,,,,,,,,,,,,,,,,1928-03-15
+North Melbourne,1928,60,South Melbourne,4,W,14,,,,,,,,,,,,,,,,,,,,,,,,1928-03-22
+North Melbourne,1928,61,Carlton,5,W,14,,,,,,,,,,,,,,,,,,,,,,,,1928-03-29
+North Melbourne,1928,62,Collingwood,6,L,14,,,,,,,,,,,,,,,,,,,,,,,,1928-04-05
+North Melbourne,1928,63,Footscray,8,L,14,,,,,,,,,,,,,,,,,,,,,,,,1928-04-19
+North Melbourne,1928,64,Essendon,9,L,14,,,,,,,,,,,,,,,,,,,,,,,,1928-04-26
+North Melbourne,1928,65,Geelong,10,L,14,,,,,,,,,,,,,,,,,,,,,,,,1928-05-03
+North Melbourne,1928,66,Richmond,12,L,14,,,,,,,,,,,,,,,,,,,,,,,,1928-05-17
+North Melbourne,1928,67,Hawthorn,13,W,14,,,,,,,,,,,,,,,,,,,,,,,,1928-05-24
+North Melbourne,1928,68,South Melbourne,15,W,14,,,,,,,,,,,,,,,,,,,,,,,,1928-06-07
+North Melbourne,1928,69,Carlton,16,L,14,,,,,,,,,,,,,,,,,,,,,,,,1928-06-14
+North Melbourne,1928,70,Collingwood,17,L,14,,,,,,,,,,,,,,,,,,,,,,,,1928-06-21
+North Melbourne,1929,71,Geelong,1,L,14,,,,,,,,,,,,,,,,,,,,,,,,1929-03-01
+North Melbourne,1929,72,Footscray,3,L,14,,,,,,,,,,,,,,,,,,,,,,,,1929-03-15
+North Melbourne,1929,73,Melbourne,4,L,14,,,,,,,,,,,,,,,,,,,,,,,,1929-03-22
+North Melbourne,1929,74,St Kilda,5,L,14,,,,,,,,,,,,,,,,,,,,,,,,1929-03-29
+North Melbourne,1929,75,Collingwood,6,L,14,,,,,,,,,,,,,,,,,,,,,,,,1929-04-05
+North Melbourne,1929,76,Carlton,7,L,14,,,,,,,,,,,,,,,,,,,,,,,,1929-04-12
+North Melbourne,1930,77,Geelong,1,L,14,,,,,,,,,,,,,,,,,,,,,,,,1930-03-01
+North Melbourne,1930,78,Fitzroy,2,L,14,,,,,,,,,,,,,,,,,,,,,,,,1930-03-08
+North Melbourne,1930,79,Footscray,3,L,14,,,,,,,,,,,,,,,,,,,,,,,,1930-03-15
+North Melbourne,1930,80,Essendon,8,L,14,,,,,,,,,,,,,,,,,,,,,,,,1930-04-19
+North Melbourne,1930,81,Richmond,9,L,14,,,,,,,,,,,,,,,,,,,,,,,,1930-04-26
+North Melbourne,1930,82,Hawthorn,10,L,14,,,,,,,,,,,,,,,,,,,,,,,,1930-05-03
+North Melbourne,1930,83,South Melbourne,11,L,14,,,,,,,,,,,,,,,,,,,,,,,,1930-05-10
+North Melbourne,1930,84,St Kilda,12,L,14,,,,,,,,,,,,,,,,,,,,,,,,1930-05-17
+North Melbourne,1930,85,Collingwood,13,L,14,,,,,,,,,,,,,,,,,,,,,,,,1930-05-24

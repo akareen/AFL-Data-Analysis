@@ -1,0 +1,48 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1939,1,Richmond,4,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1939-03-22
+South Melbourne,1939,2,Footscray,5,W,16,,,,,2,,,,,,,,,,,,,,,,,,,1939-03-29
+South Melbourne,1939,3,Melbourne,6,L,16,,,,,,,,,,,,,,,,,,,,,,,,1939-04-05
+South Melbourne,1939,4,St Kilda,7,L,16,,,,,,,,,,,,,,,,,,,,,,,,1939-04-12
+South Melbourne,1939,5,Essendon,8,W,16,,,,,,,,,,,,,,,,,,,,,,,,1939-04-19
+South Melbourne,1939,6,Hawthorn,9,W,16,,,,,2,,,,,,,,,,,,,,,,,,,1939-04-26
+South Melbourne,1939,7,Geelong,10,L,16,,,,,,,,,,,,,,,,,,,,,,,,1939-05-03
+South Melbourne,1939,8,North Melbourne,11,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1939-05-10
+South Melbourne,1939,9,Carlton,12,L,16,,,,,,,,,,,,,,,,,,,,,,,,1939-05-17
+South Melbourne,1939,10,Collingwood,13,L,16,,,,,,,,,,,,,,,,,,,,,,,,1939-05-24
+South Melbourne,1939,11,Fitzroy,14,L,16,,,,,,,,,,,,,,,,,,,,,,,,1939-05-31
+South Melbourne,1939,12,Richmond,15,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1939-06-07
+South Melbourne,1939,13,Footscray,16,L,16,,,,,,,,,,,,,,,,,,,,,,,,1939-06-14
+South Melbourne,1939,14,Melbourne,17,L,16,,,,,2,,,,,,,,,,,,,,,,,,,1939-06-21
+South Melbourne,1939,15,St Kilda,18,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1939-06-28
+South Melbourne,1940,16,Collingwood,1,L,16,,,,,,,,,,,,,,,,,,,,,,,,1940-03-01
+South Melbourne,1940,17,Carlton,2,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1940-03-08
+South Melbourne,1940,18,Essendon,3,L,16,,,,,,,,,,,,,,,,,,,,,,,,1940-03-15
+South Melbourne,1940,19,Hawthorn,4,W,16,,,,,,,,,,,,,,,,,,,,,,,,1940-03-22
+South Melbourne,1940,20,Collingwood,12,L,16,,,,,,,,,,,,,,,,,,,,,,,,1940-05-17
+South Melbourne,1940,21,Carlton,13,W,16,,,,,6,,,,,,,,,,,,,,,,,,,1940-05-24
+South Melbourne,1940,22,Essendon,14,W,16,,,,,,,,,,,,,,,,,,,,,,,,1940-05-31
+South Melbourne,1940,23,Hawthorn,15,L,16,,,,,,,,,,,,,,,,,,,,,,,,1940-06-07
+South Melbourne,1940,24,Geelong,16,W,16,,,,,4,,,,,,,,,,,,,,,,,,,1940-06-14
+South Melbourne,1940,25,North Melbourne,17,W,16,,,,,3,,,,,,,,,,,,,,,,,,,1940-06-21
+South Melbourne,1940,26,Richmond,18,L,16,,,,,2,,,,,,,,,,,,,,,,,,,1940-06-28
+South Melbourne,1941,27,St Kilda,1,L,16,,,,,,,,,,,,,,,,,,,,,,,,1941-03-01
+South Melbourne,1941,28,Melbourne,2,L,16,,,,,,,,,,,,,,,,,,,,,,,,1941-03-08
+South Melbourne,1941,29,Footscray,3,L,16,,,,,2,,,,,,,,,,,,,,,,,,,1941-03-15
+South Melbourne,1941,30,Fitzroy,4,W,16,,,,,4,,,,,,,,,,,,,,,,,,,1941-03-22
+South Melbourne,1941,31,Geelong,5,W,16,,,,,3,,,,,,,,,,,,,,,,,,,1941-03-29
+South Melbourne,1941,32,Essendon,6,L,16,,,,,,,,,,,,,,,,,,,,,,,,1941-04-05
+South Melbourne,1941,33,North Melbourne,8,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1941-04-19
+South Melbourne,1941,34,Richmond,9,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1941-04-26
+South Melbourne,1941,35,Collingwood,10,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1941-05-03
+South Melbourne,1941,36,Carlton,11,W,16,,,,,2,,,,,,,,,,,,,,,,,,,1941-05-10
+South Melbourne,1941,37,Melbourne,13,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1941-05-24
+South Melbourne,1941,38,Footscray,14,L,16,,,,,,,,,,,,,,,,,,,,,,,,1941-05-31
+South Melbourne,1941,39,Hawthorn,18,L,16,,,,,,,,,,,,,,,,,,,,,,,,1941-06-28
+South Melbourne,1944,40,North Melbourne,5,L,28,,,,,1,,,,,,,,,,,,,,,,,,,1944-03-29
+South Melbourne,1944,41,Fitzroy,6,L,28,,,,,,,,,,,,,,,,,,,,,,,,1944-04-05
+South Melbourne,1944,42,Collingwood,15,W,28,,,,,3,,,,,,,,,,,,,,,,,,,1944-06-07
+South Melbourne,1944,43,North Melbourne,16,W,28,,,,,2,,,,,,,,,,,,,,,,,,,1944-06-14
+South Melbourne,1945,44,St Kilda,1,W,26,,,,,1,,,,,,,,,,,,,,,,,,,1945-03-01
+South Melbourne,1945,45,Collingwood,2,W,26,,,,,2,,,,,,,,,,,,,,,,,,,1945-03-08
+South Melbourne,1945,46,Geelong,4,W,26,,,,,,,,,,,,,,,,,,,,,,,,1945-03-22
+South Melbourne,1945,47,Melbourne,8,W,26,,,,,,,,,,,,,,,,,,,,,,,,1945-04-19

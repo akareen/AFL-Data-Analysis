@@ -1,0 +1,7 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1959,1,St Kilda,5,L,35,,,,,,,,,,,,,,,,,,,,,,,,1959-03-29
+Hawthorn,1959,2,Carlton,6,L,35,,,,,,,,,,,,,,,,,,,,,,,,1959-04-05
+Hawthorn,1959,3,Melbourne,9,L,35,,,,,1,,,,,,,,,,,,,,,,,,,1959-04-26
+Hawthorn,1959,4,Essendon,10,W,35,,,,,,,,,,,,,,,,,,,,,,,,1959-05-03
+Hawthorn,1959,5,Collingwood,11,L,35,,,,,2,,,,,,,,,,,,,,,,,,,1959-05-10
+Hawthorn,1959,6,Fitzroy,12,L,35,,,,,2,,,,,,,,,,,,,,,,,,,1959-05-17

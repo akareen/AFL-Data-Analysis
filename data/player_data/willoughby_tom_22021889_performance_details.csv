@@ -1,0 +1,39 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1912,1,South Melbourne,1,L,25,,,,,,,,,,,,,,,,,,,,,,,,1912-03-01
+Fitzroy,1912,2,Carlton,2,L,25,,,,,,,,,,,,,,,,,,,,,,,,1912-03-08
+Fitzroy,1912,3,Geelong,3,W,25,,,,,,,,,,,,,,,,,,,,,,,,1912-03-15
+Fitzroy,1912,4,Richmond,4,W,25,,,,,,,,,,,,,,,,,,,,,,,,1912-03-22
+Fitzroy,1912,5,University,5,W,25,,,,,2,,,,,,,,,,,,,,,,,,,1912-03-29
+Fitzroy,1912,6,Melbourne,6,W,25,,,,,,,,,,,,,,,,,,,,,,,,1912-04-05
+Fitzroy,1912,7,St Kilda,7,W,25,,,,,1,,,,,,,,,,,,,,,,,,,1912-04-12
+Fitzroy,1912,8,Collingwood,8,L,25,,,,,1,,,,,,,,,,,,,,,,,,,1912-04-19
+Fitzroy,1912,9,Richmond,13,W,25,,,,,,,,,,,,,,,,,,,,,,,,1912-05-24
+Fitzroy,1912,10,University,14,W,25,,,,,,,,,,,,,,,,,,,,,,,,1912-05-31
+Fitzroy,1912,11,Melbourne,15,W,25,,,,,1,,,,,,,,,,,,,,,,,,,1912-06-07
+Fitzroy,1912,12,St Kilda,16,W,25,,,,,1,,,,,,,,,,,,,,,,,,,1912-06-14
+Fitzroy,1912,13,Collingwood,17,W,25,,,,,,,,,,,,,,,,,,,,,,,,1912-06-21
+Fitzroy,1912,14,Essendon,18,L,25,,,,,1,,,,,,,,,,,,,,,,,,,1912-06-28
+Fitzroy,1913,15,University,1,W,25,,,,,3,,,,,,,,,,,,,,,,,,,1913-03-01
+Fitzroy,1913,16,St Kilda,2,L,25,,,,,,,,,,,,,,,,,,,,,,,,1913-03-08
+Fitzroy,1913,17,Geelong,3,W,25,,,,,1,,,,,,,,,,,,,,,,,,,1913-03-15
+Fitzroy,1913,18,Melbourne,4,W,25,,,,,1,,,,,,,,,,,,,,,,,,,1913-03-22
+Fitzroy,1913,19,Essendon,5,W,25,,,,,,,,,,,,,,,,,,,,,,,,1913-03-29
+Fitzroy,1913,20,Richmond,6,W,25,,,,,,,,,,,,,,,,,,,,,,,,1913-04-05
+Fitzroy,1913,21,South Melbourne,7,W,25,,,,,2,,,,,,,,,,,,,,,,,,,1913-04-12
+Fitzroy,1913,22,Collingwood,8,W,25,,,,,,,,,,,,,,,,,,,,,,,,1913-04-19
+Fitzroy,1913,23,Carlton,9,W,25,,,,,,,,,,,,,,,,,,,,,,,,1913-04-26
+Fitzroy,1913,24,University,10,W,25,,,,,1,,,,,,,,,,,,,,,,,,,1913-05-03
+Fitzroy,1913,25,St Kilda,11,W,25,,,,,,,,,,,,,,,,,,,,,,,,1913-05-10
+Fitzroy,1913,26,Geelong,12,L,25,,,,,2,,,,,,,,,,,,,,,,,,,1913-05-17
+Fitzroy,1913,27,Melbourne,13,W,25,,,,,,,,,,,,,,,,,,,,,,,,1913-05-24
+Fitzroy,1913,28,Essendon,14,W,25,,,,,,,,,,,,,,,,,,,,,,,,1913-05-31
+Fitzroy,1913,29,Richmond,15,W,25,,,,,,,,,,,,,,,,,,,,,,,,1913-06-07
+Fitzroy,1913,30,South Melbourne,16,W,25,,,,,,,,,,,,,,,,,,,,,,,,1913-06-14
+Fitzroy,1913,31,Collingwood,17,W,25,,,,,1,,,,,,,,,,,,,,,,,,,1913-06-21
+Fitzroy,1913,32,Carlton,18,W,25,,,,,2,,,,,,,,,,,,,,,,,,,1913-06-28
+Fitzroy,1913,33,Collingwood,SF,W,25,,,,,,,,,,,,,,,,,,,,,,,,1913-03-01
+Fitzroy,1913,34,St Kilda,PF,L,25,,,,,,,,,,,,,,,,,,,,,,,,1913-03-01
+Fitzroy,1914,35,St Kilda,16,W,23,,,,,,,,,,,,,,,,,,,,,,,,1914-06-14
+Fitzroy,1914,36,University,17,W,23,,,,,,,,,,,,,,,,,,,,,,,,1914-06-21
+Fitzroy,1914,37,Essendon,18,L,23,,,,,2,,,,,,,,,,,,,,,,,,,1914-06-28
+Fitzroy,1914,38,Carlton,SF,L,23,,,,,,,,,,,,,,,,,,,,,,,,1914-03-01

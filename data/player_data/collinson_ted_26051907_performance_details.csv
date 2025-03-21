@@ -1,0 +1,5 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1932,1,Carlton,3,L,10,,,,,,,,,,,,,,,,,,,,,,,,1932-03-15
+Richmond,1932,2,Footscray,4,W,10,,,,,1,,,,,,,,,,,,,,,,,,,1932-03-22
+Richmond,1932,3,Hawthorn,5,W,10,,,,,,,,,,,,,,,,,,,,,,,,1932-03-29
+Richmond,1932,4,Geelong,6,D,10,,,,,,,,,,,,,,,,,,,,,,,,1932-04-05

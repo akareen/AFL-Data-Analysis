@@ -1,0 +1,28 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1917,1,Fitzroy,2,L,21,,,,,,,,,,,,,,,,,,,,,,,,1917-03-08
+Geelong,1917,2,Richmond,3,L,21,,,,,,,,,,,,,,,,,,,,,,,,1917-03-15
+Geelong,1917,3,Carlton,4,W,21,,,,,,,,,,,,,,,,,,,,,,,,1917-03-22
+Geelong,1917,4,Collingwood,5,L,21,,,,,,,,,,,,,,,,,,,,,,,,1917-03-29
+Geelong,1917,5,South Melbourne,6,W,21,,,,,,,,,,,,,,,,,,,,,,,,1917-04-05
+Geelong,1917,6,Fitzroy,7,W,21,,,,,,,,,,,,,,,,,,,,,,,,1917-04-12
+Geelong,1917,7,Richmond,8,W,21,,,,,,,,,,,,,,,,,,,,,,,,1917-04-19
+Geelong,1917,8,Carlton,9,L,21,,,,,,,,,,,,,,,,,,,,,,,,1917-04-26
+Geelong,1917,9,Collingwood,10,L,21,,,,,,,,,,,,,,,,,,,,,,,,1917-05-03
+Geelong,1917,10,South Melbourne,11,L,21,,,,,,,,,,,,,,,,,,,,,,,,1917-05-10
+Geelong,1917,11,Fitzroy,12,L,21,,,,,,,,,,,,,,,,,,,,,,,,1917-05-17
+Geelong,1917,12,Richmond,13,W,21,,,,,,,,,,,,,,,,,,,,,,,,1917-05-24
+Geelong,1917,13,Carlton,14,L,21,,,,,,,,,,,,,,,,,,,,,,,,1917-05-31
+Geelong,1917,14,Collingwood,15,W,21,,,,,,,,,,,,,,,,,,,,,,,,1917-06-07
+Geelong,1918,15,South Melbourne,1,L,21,,,,,,,,,,,,,,,,,,,,,,,,1918-03-01
+Geelong,1918,16,Collingwood,2,L,21,,,,,,,,,,,,,,,,,,,,,,,,1918-03-08
+Geelong,1918,17,Essendon,3,W,21,,,,,,,,,,,,,,,,,,,,,,,,1918-03-15
+Geelong,1918,18,Fitzroy,4,L,21,,,,,,,,,,,,,,,,,,,,,,,,1918-03-22
+Geelong,1918,19,Richmond,5,L,21,,,,,,,,,,,,,,,,,,,,,,,,1918-03-29
+Geelong,1918,20,Carlton,6,L,21,,,,,,,,,,,,,,,,,,,,,,,,1918-04-05
+Geelong,1918,21,St Kilda,7,L,21,,,,,,,,,,,,,,,,,,,,,,,,1918-04-12
+Geelong,1918,22,South Melbourne,8,L,21,,,,,,,,,,,,,,,,,,,,,,,,1918-04-19
+Geelong,1918,23,Collingwood,9,L,21,,,,,,,,,,,,,,,,,,,,,,,,1918-04-26
+Geelong,1918,24,Essendon,10,L,21,,,,,,,,,,,,,,,,,,,,,,,,1918-05-03
+Geelong,1918,25,Carlton,13,W,21,,,,,,,,,,,,,,,,,,,,,,,,1918-05-24
+Geelong,1918,26,St Kilda,14,W,21,,,,,,,,,,,,,,,,,,,,,,,,1918-05-31
+Geelong,1919,27,Fitzroy,6,L,,,,,,1,,,,,,,,,,,,,,,,,,,1919-04-05

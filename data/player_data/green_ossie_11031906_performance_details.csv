@@ -1,0 +1,33 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1926,1,St Kilda,1,W,5,,,,,,,,,,,,,,,,,,,,,,,,1926-03-01
+Melbourne,1926,2,Carlton,2,L,5,,,,,,,,,,,,,,,,,,,,,,,,1926-03-08
+Melbourne,1926,3,North Melbourne,3,W,5,,,,,,,,,,,,,,,,,,,,,,,,1926-03-15
+Melbourne,1926,4,Collingwood,4,L,5,,,,,,,,,,,,,,,,,,,,,,,,1926-03-22
+Melbourne,1926,5,Richmond,5,W,5,,,,,,,,,,,,,,,,,,,,,,,,1926-03-29
+Melbourne,1926,6,Footscray,6,W,5,,,,,1,,,,,,,,,,,,,,,,,,,1926-04-05
+Melbourne,1926,7,South Melbourne,7,W,5,,,,,,,,,,,,,,,,,,,,,,,,1926-04-12
+Melbourne,1926,8,Essendon,8,W,5,,,,,,,,,,,,,,,,,,,,,,,,1926-04-19
+Melbourne,1926,9,Hawthorn,9,W,5,,,,,,,,,,,,,,,,,,,,,,,,1926-04-26
+Melbourne,1926,10,Geelong,10,L,5,,,,,,,,,,,,,,,,,,,,,,,,1926-05-03
+Melbourne,1926,11,Fitzroy,11,W,5,,,,,,,,,,,,,,,,,,,,,,,,1926-05-10
+Melbourne,1926,12,St Kilda,12,W,5,,,,,,,,,,,,,,,,,,,,,,,,1926-05-17
+Melbourne,1926,13,Carlton,13,W,5,,,,,,,,,,,,,,,,,,,,,,,,1926-05-24
+Melbourne,1926,14,North Melbourne,14,W,5,,,,,,,,,,,,,,,,,,,,,,,,1926-05-31
+Melbourne,1926,15,Collingwood,15,L,5,,,,,,,,,,,,,,,,,,,,,,,,1926-06-07
+Melbourne,1926,16,Richmond,16,W,5,,,,,,,,,,,,,,,,,,,,,,,,1926-06-14
+Melbourne,1926,17,Footscray,17,W,5,,,,,,,,,,,,,,,,,,,,,,,,1926-06-21
+Melbourne,1926,18,Hawthorn,18,W,5,,,,,,,,,,,,,,,,,,,,,,,,1926-06-28
+Melbourne,1926,19,Collingwood,SF,W,5,,,,,,,,,,,,,,,,,,,,,,,,1926-03-01
+Melbourne,1926,20,Essendon,PF,W,5,,,,,,,,,,,,,,,,,,,,,,,,1926-03-01
+Melbourne,1929,21,Geelong,2,L,22,,,,,,,,,,,,,,,,,,,,,,,,1929-03-08
+Melbourne,1929,22,Carlton,8,L,22,,,,,,,,,,,,,,,,,,,,,,,,1929-04-19
+Melbourne,1929,23,Essendon,9,W,22,,,,,,,,,,,,,,,,,,,,,,,,1929-04-26
+Melbourne,1929,24,Richmond,10,W,22,,,,,,,,,,,,,,,,,,,,,,,,1929-05-03
+Melbourne,1929,25,Hawthorn,11,W,22,,,,,,,,,,,,,,,,,,,,,,,,1929-05-10
+Melbourne,1929,26,Geelong,13,W,22,,,,,,,,,,,,,,,,,,,,,,,,1929-05-24
+Melbourne,1929,27,Fitzroy,14,W,22,,,,,,,,,,,,,,,,,,,,,,,,1929-05-31
+Melbourne,1929,28,North Melbourne,15,W,22,,,,,,,,,,,,,,,,,,,,,,,,1929-06-07
+Melbourne,1929,29,Footscray,16,W,22,,,,,,,,,,,,,,,,,,,,,,,,1929-06-14
+Melbourne,1929,30,St Kilda,17,L,22,,,,,,,,,,,,,,,,,,,,,,,,1929-06-21
+Melbourne,1929,31,Collingwood,18,L,22,,,,,,,,,,,,,,,,,,,,,,,,1929-06-28
+Melbourne,1931,32,Collingwood,18,L,,,,,,,,,,,,,,,,,,,,,,,,,1931-06-28

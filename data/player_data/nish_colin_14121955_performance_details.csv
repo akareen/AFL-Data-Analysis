@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1976,1,Footscray,18,L,37,,,,,,,,,,,,,,,,,,,,,,,,1976-06-28
+Geelong,1976,2,Essendon,19,L,37,,,,,,,,,,,,,,,,,,,,,,,,1976-07-05
+Geelong,1977,3,Carlton,12,L,37,,,,,,,,,,,,,,,,,,,,,,,,1977-05-17
+Geelong,1977,4,St Kilda,13,L,37,8,3,3,11,,,,,,,,,2,1,,,,,,,,,,1977-05-24
+Geelong,1977,5,South Melbourne,14,L,37,7,,1,8,,,,,,,,,3,2,,,,,,,,,,1977-05-31
+Geelong,1977,6,Collingwood,16,W,37,,,,,,,,,,,,,,,,,,,,,,,,1977-06-14
+Geelong,1977,7,North Melbourne,18,L,37,8,,1,9,,,,,,,,,3,,,,,,,,,,,1977-06-28
+Geelong,1977,8,Essendon,19,W,37,5,1,,5,,,,,,,,,3,2,,,,,,,,,,1977-07-05
+Geelong,1977,9,Richmond,20,L,37,1,,1,2,,,,,,,,,,3,,,,,,,,,,1977-07-12
+Geelong,1977,10,Footscray,21,L,37,8,,4,12,,,,,,,,,2,5,,,,,,,,,,1977-07-19

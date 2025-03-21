@@ -1,0 +1,97 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1951,1,Geelong,1,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1951-03-01
+South Melbourne,1951,2,Richmond,2,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1951-03-08
+South Melbourne,1951,3,Essendon,3,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1951-03-15
+South Melbourne,1951,4,North Melbourne,4,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1951-03-22
+South Melbourne,1951,5,Melbourne,5,W,27,,,,,,,,,,,,,,,,,,,,,,,,1951-03-29
+South Melbourne,1951,6,Collingwood,6,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1951-04-05
+South Melbourne,1951,7,Footscray,7,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1951-04-12
+South Melbourne,1951,8,Hawthorn,8,W,27,,,,,,,,,,,,,,,,,,,,,,,,1951-04-19
+South Melbourne,1951,9,Fitzroy,9,D,27,,,,,1,,,,,,,,,,,,,,,,,,,1951-04-26
+South Melbourne,1951,10,St Kilda,10,W,27,,,,,,,,,,,,,,,,,,,,,,,,1951-05-03
+South Melbourne,1951,11,Carlton,11,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1951-05-10
+South Melbourne,1951,12,Geelong,12,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1951-05-17
+South Melbourne,1951,13,Richmond,13,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1951-05-24
+South Melbourne,1951,14,Essendon,14,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1951-05-31
+South Melbourne,1951,15,North Melbourne,15,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1951-06-07
+South Melbourne,1951,16,Melbourne,16,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1951-06-14
+South Melbourne,1951,17,Collingwood,17,L,27,,,,,4,,,,,,,,,,,,,,,,,,,1951-06-21
+South Melbourne,1951,18,Footscray,18,L,27,,,,,,,,,,,,,,,,,,,,,,,,1951-06-28
+South Melbourne,1952,19,St Kilda,1,W,27,,,,,,,,,,,,,,,,,,,,,,,,1952-03-01
+South Melbourne,1952,20,Carlton,2,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1952-03-08
+South Melbourne,1952,21,Richmond,3,W,27,,,,,2,,,,,,,,,,,,,,,,,,,1952-03-15
+South Melbourne,1952,22,Hawthorn,4,L,27,,,,,2,,,,,,,,,,,,,,,,,,,1952-03-22
+South Melbourne,1952,23,Melbourne,5,W,27,,,,,2,,,,,,,,,,,,,,,,,,,1952-03-29
+South Melbourne,1952,24,Fitzroy,6,W,27,,,,,2,,,,,,,,,,,,,,,,,,,1952-04-05
+South Melbourne,1952,25,Footscray,7,W,27,,,,,3,,,,,,,,,,,,,,,,,,,1952-04-12
+South Melbourne,1952,26,North Melbourne,8,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1952-04-19
+South Melbourne,1952,27,Geelong,9,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1952-04-26
+South Melbourne,1952,28,Collingwood,10,L,27,,,,,,,,,,,,,,,,,,,,,,,,1952-05-03
+South Melbourne,1952,29,North Melbourne,11,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1952-05-10
+South Melbourne,1952,30,Essendon,12,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1952-05-17
+South Melbourne,1952,31,St Kilda,13,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1952-05-24
+South Melbourne,1952,32,Carlton,14,D,27,,,,,2,,,,,,,,,,,,,,,,,,,1952-05-31
+South Melbourne,1952,33,Richmond,15,W,27,,,,,2,,,,,,,,,,,,,,,,,,,1952-06-07
+South Melbourne,1952,34,Hawthorn,16,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1952-06-14
+South Melbourne,1952,35,Melbourne,17,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1952-06-21
+South Melbourne,1952,36,Fitzroy,18,L,27,,,,,,,,,,,,,,,,,,,,,,,,1952-06-28
+South Melbourne,1952,37,Footscray,19,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1952-07-05
+South Melbourne,1953,38,Collingwood,1,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1953-03-01
+South Melbourne,1953,39,Essendon,2,W,27,,,,,,,,,,,,,,,,,,,,,,,,1953-03-08
+South Melbourne,1953,40,Fitzroy,3,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1953-03-15
+South Melbourne,1953,41,Hawthorn,4,W,27,,,,,2,,,,,,,,,,,,,,,,,,,1953-03-22
+South Melbourne,1953,42,North Melbourne,5,L,27,,,,,,,,,,,,,,,,,,,,,,,,1953-03-29
+South Melbourne,1953,43,Geelong,6,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1953-04-05
+South Melbourne,1953,44,St Kilda,7,W,27,,,,,3,,,,,,,,,,,,,,,,,,,1953-04-12
+South Melbourne,1953,45,Melbourne,8,W,27,,,,,,,,,,,,,,,,,,,,,,,,1953-04-19
+South Melbourne,1953,46,Footscray,9,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1953-04-26
+South Melbourne,1953,47,Richmond,10,W,27,,,,,3,,,,,,,,,,,,,,,,,,,1953-05-03
+South Melbourne,1953,48,Carlton,11,L,27,,,,,,,,,,,,,,,,,,,,,,,,1953-05-10
+South Melbourne,1953,49,Collingwood,12,L,27,,,,,2,,,,,,,,,,,,,,,,,,,1953-05-17
+South Melbourne,1953,50,Essendon,13,L,27,,,,,,,,,,,,,,,,,,,,,,,,1953-05-24
+South Melbourne,1953,51,Fitzroy,14,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1953-05-31
+South Melbourne,1953,52,Hawthorn,15,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1953-06-07
+South Melbourne,1953,53,North Melbourne,16,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1953-06-14
+South Melbourne,1953,54,Geelong,17,W,27,,,,,2,,,,,,,,,,,,,,,,,,,1953-06-21
+South Melbourne,1953,55,St Kilda,18,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1953-06-28
+South Melbourne,1954,56,Carlton,1,W,27,,,,,2,,,,,,,,,,,,,,,,,,,1954-03-01
+South Melbourne,1954,57,Essendon,2,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1954-03-08
+South Melbourne,1954,58,Footscray,3,L,27,,,,,2,,,,,,,,,,,,,,,,,,,1954-03-15
+South Melbourne,1954,59,Richmond,4,W,27,,,,,2,,,,,,,,,,,,,,,,,,,1954-03-22
+South Melbourne,1954,60,North Melbourne,6,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1954-04-05
+South Melbourne,1954,61,Melbourne,7,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1954-04-12
+South Melbourne,1954,62,Hawthorn,8,L,27,,,,,,,,,,,,,,,,,,,,,,,,1954-04-19
+South Melbourne,1954,63,St Kilda,9,W,27,,,,,3,,,,,,,,,,,,,,,,,,,1954-04-26
+South Melbourne,1954,64,Fitzroy,10,L,27,,,,,3,,,,,,,,,,,,,,,,,,,1954-05-03
+South Melbourne,1954,65,Geelong,11,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1954-05-10
+South Melbourne,1954,66,Carlton,12,L,27,,,,,3,,,,,,,,,,,,,,,,,,,1954-05-17
+South Melbourne,1954,67,Essendon,13,L,27,,,,,2,,,,,,,,,,,,,,,,,,,1954-05-24
+South Melbourne,1954,68,Footscray,14,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1954-05-31
+South Melbourne,1954,69,Richmond,15,L,27,,,,,,,,,,,,,,,,,,,,,,,,1954-06-07
+South Melbourne,1954,70,Collingwood,16,W,27,,,,,2,,,,,,,,,,,,,,,,,,,1954-06-14
+South Melbourne,1954,71,North Melbourne,17,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1954-06-21
+South Melbourne,1954,72,Melbourne,18,L,27,,,,,3,,,,,,,,,,,,,,,,,,,1954-06-28
+South Melbourne,1955,73,Geelong,1,L,27,,,,,,,,,,,,,,,,,,,,,,,,1955-03-01
+South Melbourne,1955,74,Fitzroy,2,W,27,,,,,4,,,,,,,,,,,,,,,,,,,1955-03-08
+South Melbourne,1955,75,Hawthorn,3,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1955-03-15
+South Melbourne,1955,76,Richmond,4,L,27,,,,,,,,,,,,,,,,,,,,,,,,1955-03-22
+South Melbourne,1955,77,St Kilda,5,W,27,,,,,6,,,,,,,,,,,,,,,,,,,1955-03-29
+South Melbourne,1955,78,Carlton,6,W,27,,,,,4,,,,,,,,,,,,,,,,,,,1955-04-05
+South Melbourne,1955,79,Melbourne,7,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1955-04-12
+South Melbourne,1955,80,Essendon,8,L,27,,,,,,,,,,,,,,,,,,,,,,,,1955-04-19
+South Melbourne,1955,81,Collingwood,9,L,27,,,,,3,,,,,,,,,,,,,,,,,,,1955-04-26
+South Melbourne,1955,82,North Melbourne,10,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1955-05-03
+South Melbourne,1955,83,Footscray,11,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1955-05-10
+South Melbourne,1955,84,Geelong,12,L,27,,,,,2,,,,,,,,,,,,,,,,,,,1955-05-17
+South Melbourne,1955,85,Hawthorn,14,L,27,,,,,3,,,,,,,,,,,,,,,,,,,1955-05-31
+South Melbourne,1955,86,Richmond,15,L,27,,,,,3,,,,,,,,,,,,,,,,,,,1955-06-07
+South Melbourne,1955,87,St Kilda,16,W,27,,,,,4,,,,,,,,,,,,,,,,,,,1955-06-14
+South Melbourne,1955,88,Carlton,17,L,27,,,,,3,,,,,,,,,,,,,,,,,,,1955-06-21
+South Melbourne,1956,89,Geelong,1,L,27,,,,,,,,,,,,,,,,,,,,,,,,1956-03-01
+South Melbourne,1956,90,Collingwood,2,L,27,,,,,,,,,,,,,,,,,,,,,,,,1956-03-08
+South Melbourne,1956,91,Fitzroy,3,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1956-03-15
+South Melbourne,1956,92,Essendon,6,W,27,,,,,,,,,,,,,,,,,,,,,,,,1956-04-05
+South Melbourne,1956,93,Melbourne,10,L,27,,,,,,,,,,,,,,,,,,,,,,,,1956-05-03
+South Melbourne,1956,94,Carlton,11,W,27,,,,,,,,,,,,,,,,,,,,,,,,1956-05-10
+South Melbourne,1956,95,Collingwood,13,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1956-05-24
+South Melbourne,1956,96,Fitzroy,14,L,27,,,,,3,,,,,,,,,,,,,,,,,,,1956-05-31

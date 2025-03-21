@@ -1,0 +1,16 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1927,1,Footscray,10,W,17,,,,,,,,,,,,,,,,,,,,,,,,1927-05-03
+St Kilda,1927,2,Carlton,11,L,17,,,,,,,,,,,,,,,,,,,,,,,,1927-05-10
+St Kilda,1927,3,Hawthorn,12,W,17,,,,,,,,,,,,,,,,,,,,,,,,1927-05-17
+St Kilda,1927,4,Richmond,13,L,17,,,,,,,,,,,,,,,,,,,,,,,,1927-05-24
+St Kilda,1927,5,South Melbourne,14,L,17,,,,,,,,,,,,,,,,,,,,,,,,1927-05-31
+St Kilda,1927,6,Fitzroy,15,W,17,,,,,,,,,,,,,,,,,,,,,,,,1927-06-07
+St Kilda,1927,7,Essendon,16,L,17,,,,,,,,,,,,,,,,,,,,,,,,1927-06-14
+St Kilda,1927,8,Geelong,17,W,17,,,,,,,,,,,,,,,,,,,,,,,,1927-06-21
+St Kilda,1927,9,Carlton,18,L,17,,,,,,,,,,,,,,,,,,,,,,,,1927-06-28
+Hawthorn,1928,10,Melbourne,5,L,6,,,,,,,,,,,,,,,,,,,,,,,,1928-03-29
+Hawthorn,1928,11,Footscray,6,L,6,,,,,,,,,,,,,,,,,,,,,,,,1928-04-05
+Hawthorn,1928,12,St Kilda,12,L,6,,,,,,,,,,,,,,,,,,,,,,,,1928-05-17
+Hawthorn,1928,13,North Melbourne,13,L,6,,,,,,,,,,,,,,,,,,,,,,,,1928-05-24
+Hawthorn,1928,14,Carlton,14,L,6,,,,,,,,,,,,,,,,,,,,,,,,1928-05-31
+Hawthorn,1928,15,Collingwood,15,L,6,,,,,,,,,,,,,,,,,,,,,,,,1928-06-07

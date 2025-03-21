@@ -1,0 +1,84 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1940,1,South Melbourne,7,W,13,,,,,,,,,,,,,,,,,,,,,,,,1940-04-12
+Richmond,1940,2,Collingwood,8,W,13,,,,,,,,,,,,,,,,,,,,,,,,1940-04-19
+Richmond,1940,3,Essendon,9,L,13,,,,,,,,,,,,,,,,,,,,,,,,1940-04-26
+Richmond,1940,4,North Melbourne,10,W,13,,,,,,,,,,,,,,,,,,,,,,,,1940-05-03
+Richmond,1940,5,Carlton,11,L,13,,,,,,,,,,,,,,,,,,,,,,,,1940-05-10
+Richmond,1940,6,Footscray,12,W,13,,,,,,,,,,,,,,,,,,,,,,,,1940-05-17
+Richmond,1940,7,Geelong,15,W,13,,,,,,,,,,,,,,,,,,,,,,,,1940-06-07
+Richmond,1940,8,Fitzroy,16,W,13,,,,,,,,,,,,,,,,,,,,,,,,1940-06-14
+Richmond,1940,9,St Kilda,17,W,13,,,,,,,,,,,,,,,,,,,,,,,,1940-06-21
+Richmond,1940,10,South Melbourne,18,W,13,,,,,,,,,,,,,,,,,,,,,,,,1940-06-28
+Richmond,1940,11,Melbourne,SF,W,13,,,,,1,,,,,,,,,,,,,,,,,,,1940-03-01
+Richmond,1940,12,Melbourne,GF,L,13,,,,,,,,,,,,,,,,,,,,,,,,1940-03-01
+Richmond,1941,13,Collingwood,1,W,13,,,,,1,,,,,,,,,,,,,,,,,,,1941-03-01
+Richmond,1941,14,Carlton,2,W,13,,,,,,,,,,,,,,,,,,,,,,,,1941-03-08
+Richmond,1941,15,Essendon,4,L,13,,,,,,,,,,,,,,,,,,,,,,,,1941-03-22
+Richmond,1942,16,Footscray,1,W,13,,,,,1,,,,,,,,,,,,,,,,,,,1942-03-01
+Richmond,1942,17,Melbourne,2,W,13,,,,,,,,,,,,,,,,,,,,,,,,1942-03-08
+Richmond,1942,18,Collingwood,3,W,13,,,,,,,,,,,,,,,,,,,,,,,,1942-03-15
+Richmond,1942,19,St Kilda,4,W,13,,,,,,,,,,,,,,,,,,,,,,,,1942-03-22
+Richmond,1942,20,Carlton,5,W,13,,,,,,,,,,,,,,,,,,,,,,,,1942-03-29
+Richmond,1942,21,Essendon,6,L,13,,,,,,,,,,,,,,,,,,,,,,,,1942-04-05
+Richmond,1942,22,South Melbourne,7,L,13,,,,,,,,,,,,,,,,,,,,,,,,1942-04-12
+Richmond,1942,23,Fitzroy,8,W,13,,,,,1,,,,,,,,,,,,,,,,,,,1942-04-19
+Richmond,1942,24,North Melbourne,9,W,13,,,,,2,,,,,,,,,,,,,,,,,,,1942-04-26
+Richmond,1942,25,Hawthorn,11,W,13,,,,,,,,,,,,,,,,,,,,,,,,1942-05-10
+Richmond,1942,26,Footscray,12,L,13,,,,,2,,,,,,,,,,,,,,,,,,,1942-05-17
+Richmond,1942,27,Melbourne,13,W,13,,,,,,,,,,,,,,,,,,,,,,,,1942-05-24
+Richmond,1942,28,Collingwood,14,W,13,,,,,,,,,,,,,,,,,,,,,,,,1942-05-31
+Richmond,1942,29,St Kilda,15,W,13,,,,,,,,,,,,,,,,,,,,,,,,1942-06-07
+Richmond,1942,30,Carlton,16,L,13,,,,,,,,,,,,,,,,,,,,,,,,1942-06-14
+Richmond,1942,31,Essendon,SF,W,13,,,,,,,,,,,,,,,,,,,,,,,,1942-03-01
+Richmond,1942,32,Essendon,GF,L,13,,,,,,,,,,,,,,,,,,,,,,,,1942-03-01
+Richmond,1943,33,Collingwood,2,W,13,,,,,1,,,,,,,,,,,,,,,,,,,1943-03-08
+Richmond,1943,34,St Kilda,3,W,13,,,,,,,,,,,,,,,,,,,,,,,,1943-03-15
+Richmond,1943,35,South Melbourne,7,W,13,,,,,,,,,,,,,,,,,,,,,,,,1943-04-12
+Richmond,1943,36,Hawthorn,8,W,13,,,,,,,,,,,,,,,,,,,,,,,,1943-04-19
+Richmond,1943,37,North Melbourne,9,W,13,,,,,,,,,,,,,,,,,,,,,,,,1943-04-26
+Richmond,1943,38,Footscray,11,W,13,,,,,1,,,,,,,,,,,,,,,,,,,1943-05-10
+Richmond,1943,39,Fitzroy,12,L,13,,,,,,,,,,,,,,,,,,,,,,,,1943-05-17
+Richmond,1943,40,Footscray,13,W,13,,,,,2,,,,,,,,,,,,,,,,,,,1943-05-24
+Richmond,1943,41,Hawthorn,14,L,13,,,,,,,,,,,,,,,,,,,,,,,,1943-05-31
+Richmond,1943,42,Melbourne,15,W,13,,,,,,,,,,,,,,,,,,,,,,,,1943-06-07
+Richmond,1943,43,Essendon,16,W,13,,,,,,,,,,,,,,,,,,,,,,,,1943-06-14
+Richmond,1943,44,Essendon,SF,L,13,,,,,,,,,,,,,,,,,,,,,,,,1943-03-01
+Richmond,1943,45,Fitzroy,PF,W,13,,,,,,,,,,,,,,,,,,,,,,,,1943-03-01
+Richmond,1943,46,Essendon,GF,W,13,,,,,,,,,,,,,,,,,,,,,,,,1943-03-01
+Richmond,1944,47,Melbourne,1,W,13,,,,,,,,,,,,,,,,,,,,,,,,1944-03-01
+Richmond,1944,48,North Melbourne,2,W,13,,,,,,,,,,,,,,,,,,,,,,,,1944-03-08
+Richmond,1944,49,Essendon,3,W,13,,,,,,,,,,,,,,,,,,,,,,,,1944-03-15
+Richmond,1944,50,Fitzroy,4,W,13,,,,,,,,,,,,,,,,,,,,,,,,1944-03-22
+Richmond,1944,51,Carlton,5,L,13,,,,,1,,,,,,,,,,,,,,,,,,,1944-03-29
+Richmond,1944,52,Geelong,7,W,13,,,,,,,,,,,,,,,,,,,,,,,,1944-04-12
+Richmond,1944,53,South Melbourne,8,W,13,,,,,,,,,,,,,,,,,,,,,,,,1944-04-19
+Richmond,1944,54,St Kilda,9,W,13,,,,,,,,,,,,,,,,,,,,,,,,1944-04-26
+Richmond,1944,55,Collingwood,11,W,13,,,,,3,,,,,,,,,,,,,,,,,,,1944-05-10
+Richmond,1944,56,Melbourne,12,W,13,,,,,1,,,,,,,,,,,,,,,,,,,1944-05-17
+Richmond,1944,57,North Melbourne,13,L,13,,,,,2,,,,,,,,,,,,,,,,,,,1944-05-24
+Richmond,1944,58,Essendon,14,L,13,,,,,1,,,,,,,,,,,,,,,,,,,1944-05-31
+Richmond,1944,59,Fitzroy,15,L,13,,,,,,,,,,,,,,,,,,,,,,,,1944-06-07
+Richmond,1944,60,Carlton,16,W,13,,,,,,,,,,,,,,,,,,,,,,,,1944-06-14
+Richmond,1944,61,Footscray,17,W,13,,,,,,,,,,,,,,,,,,,,,,,,1944-06-21
+Richmond,1944,62,Collingwood,18,W,13,,,,,,,,,,,,,,,,,,,,,,,,1944-06-28
+Richmond,1944,63,Fitzroy,SF,L,13,,,,,,,,,,,,,,,,,,,,,,,,1944-03-01
+Richmond,1944,64,Essendon,PF,W,13,,,,,,,,,,,,,,,,,,,,,,,,1944-03-01
+Richmond,1944,65,Fitzroy,GF,L,13,,,,,,,,,,,,,,,,,,,,,,,,1944-03-01
+Richmond,1945,66,Footscray,1,L,13,,,,,,,,,,,,,,,,,,,,,,,,1945-03-01
+Richmond,1945,67,North Melbourne,2,W,13,,,,,,,,,,,,,,,,,,,,,,,,1945-03-08
+Richmond,1945,68,South Melbourne,3,L,13,,,,,,,,,,,,,,,,,,,,,,,,1945-03-15
+Richmond,1945,69,Melbourne,4,W,13,,,,,,,,,,,,,,,,,,,,,,,,1945-03-22
+Richmond,1945,70,Hawthorn,5,W,13,,,,,,,,,,,,,,,,,,,,,,,,1945-03-29
+Richmond,1945,71,Essendon,6,W,13,,,,,,,,,,,,,,,,,,,,,,,,1945-04-05
+Richmond,1945,72,Carlton,7,W,13,,,,,,,,,,,,,,,,,,,,,,,,1945-04-12
+Richmond,1945,73,St Kilda,8,W,13,,,,,,,,,,,,,,,,,,,,,,,,1945-04-19
+Richmond,1945,74,Collingwood,9,L,13,,,,,,,,,,,,,,,,,,,,,,,,1945-04-26
+Richmond,1945,75,Fitzroy,10,W,13,,,,,,,,,,,,,,,,,,,,,,,,1945-05-03
+Richmond,1945,76,Geelong,11,W,13,,,,,2,,,,,,,,,,,,,,,,,,,1945-05-10
+Richmond,1945,77,Footscray,12,L,13,,,,,,,,,,,,,,,,,,,,,,,,1945-05-17
+Richmond,1945,78,North Melbourne,13,W,13,,,,,,,,,,,,,,,,,,,,,,,,1945-05-24
+Richmond,1945,79,South Melbourne,14,L,13,,,,,,,,,,,,,,,,,,,,,,,,1945-05-31
+Richmond,1945,80,Melbourne,15,W,13,,,,,,,,,,,,,,,,,,,,,,,,1945-06-07
+Richmond,1945,81,Hawthorn,16,L,13,,,,,,,,,,,,,,,,,,,,,,,,1945-06-14
+Richmond,1945,82,Essendon,17,L,13,,,,,,,,,,,,,,,,,,,,,,,,1945-06-21
+Richmond,1945,83,St Kilda,19,W,13,,,,,,,,,,,,,,,,,,,,,,,,1945-07-05

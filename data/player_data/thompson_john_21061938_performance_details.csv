@@ -1,0 +1,66 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1959,1,Collingwood,5,W,37,,,,,,,,,,,,,,,,,,,,,,,,1959-03-29
+Richmond,1959,2,St Kilda,6,L,37,,,,,,,,,,,,,,,,,,,,,,,,1959-04-05
+Richmond,1959,3,Hawthorn,7,L,37,,,,,,,,,,,,,,,,,,,,,,,,1959-04-12
+Richmond,1960,4,Carlton,1,D,37,,,,,,,,,,,,,,,,,,,,,,,,1960-03-01
+Richmond,1960,5,Essendon,2,L,37,,,,,,,,,,,,,,,,,,,,,,,,1960-03-08
+Richmond,1960,6,North Melbourne,3,L,37,,,,,,,,,,,,,,,,,,,,,,,,1960-03-15
+Richmond,1960,7,Fitzroy,4,L,37,,,,,,,,,,,,,,,,,,,,,,,,1960-03-22
+Richmond,1960,8,South Melbourne,5,W,37,,,,,,,,,,,,,,,,,,,,,,,,1960-03-29
+Richmond,1960,9,Melbourne,6,L,37,,,,,,,,,,,,,,,,,,,,,,,,1960-04-05
+Richmond,1960,10,Footscray,7,L,37,,,,,,,,,,,,,,,,,,,,,,,,1960-04-12
+Richmond,1960,11,Hawthorn,8,L,37,,,,,,,,,,,,,,,,,,,,,,,,1960-04-19
+Richmond,1960,12,Collingwood,10,L,37,,,,,,,,,,,,,,,,,,,,,,,,1960-05-03
+Richmond,1960,13,St Kilda,11,L,37,,,,,,,,,,,,,,,,,,,,,,,,1960-05-10
+Richmond,1960,14,Carlton,12,L,37,,,,,,,,,,,,,,,,,,,,,,,,1960-05-17
+Richmond,1960,15,Essendon,13,L,37,,,,,,,,,,,,,,,,,,,,,,,,1960-05-24
+Richmond,1960,16,North Melbourne,14,L,37,,,,,,,,,,,,,,,,,,,,,,,,1960-05-31
+Richmond,1960,17,Fitzroy,15,L,37,,,,,,,,,,,,,,,,,,,,,,,,1960-06-07
+Richmond,1960,18,South Melbourne,16,L,37,,,,,,,,,,,,,,,,,,,,,,,,1960-06-14
+Richmond,1960,19,Melbourne,17,W,37,,,,,,,,,,,,,,,,,,,,,,,,1960-06-21
+Richmond,1960,20,Footscray,18,L,37,,,,,,,,,,,,,,,,,,,,,,,,1960-06-28
+Richmond,1961,21,Footscray,1,L,37,,,,,,,,,,,,,,,,,,,,,,,,1961-03-01
+Richmond,1961,22,Collingwood,2,W,37,,,,,,,,,,,,,,,,,,,,,,,,1961-03-08
+Richmond,1961,23,South Melbourne,3,L,37,,,,,,,,,,,,,,,,,,,,,,,,1961-03-15
+Richmond,1961,24,Fitzroy,4,W,37,,,,,,,,,,,,,,,,,,,,,,,,1961-03-22
+Richmond,1961,25,St Kilda,5,L,37,,,,,,,,,,,,,,,,,,,,,,,,1961-03-29
+Richmond,1961,26,Geelong,6,L,37,,,,,,,,,,,,,,,,,,,,,,,,1961-04-05
+Richmond,1961,27,Hawthorn,7,L,37,,,,,,,,,,,,,,,,,,,,,,,,1961-04-12
+Richmond,1961,28,Carlton,8,W,37,,,,,,,,,,,,,,,,,,,,,,,,1961-04-19
+Richmond,1961,29,North Melbourne,9,W,37,,,,,,,,,,,,,,,,,,,,,,,,1961-04-26
+Richmond,1961,30,Essendon,10,W,37,,,,,,,,,,,,,,,,,,,,,,,,1961-05-03
+Richmond,1961,31,Melbourne,11,L,37,,,,,,,,,,,,,,,,,,,,,,,,1961-05-10
+Richmond,1961,32,Collingwood,13,L,37,,,,,,,,,,,,,,,,,,,,,,,,1961-05-24
+Richmond,1961,33,South Melbourne,14,L,37,,,,,,,,,,,,,,,,,,,,,,,,1961-05-31
+Richmond,1961,34,Fitzroy,15,L,37,,,,,,,,,,,,,,,,,,,,,,,,1961-06-07
+Richmond,1961,35,St Kilda,16,L,37,,,,,,,,,,,,,,,,,,,,,,,,1961-06-14
+Richmond,1961,36,Geelong,17,L,37,,,,,,,,,,,,,,,,,,,,,,,,1961-06-21
+Richmond,1961,37,Hawthorn,18,L,37,,,,,,,,,,,,,,,,,,,,,,,,1961-06-28
+Richmond,1962,38,Melbourne,1,L,37,,,,,,,,,,,,,,,,,,,,,,,,1962-03-01
+Richmond,1962,39,Carlton,2,L,37,,,,,,,,,,,,,,,,,,,,,,,,1962-03-08
+Richmond,1962,40,Essendon,3,L,37,,,,,,,,,,,,,,,,,,,,,,,,1962-03-15
+Richmond,1962,41,Geelong,4,L,37,,,,,,,,,,,,,,,,,,,,,,,,1962-03-22
+Richmond,1962,42,Hawthorn,5,L,37,,,,,,,,,,,,,,,,,,,,,,,,1962-03-29
+Richmond,1962,43,St Kilda,6,L,37,,,,,,,,,,,,,,,,,,,,,,,,1962-04-05
+Richmond,1962,44,North Melbourne,7,W,37,,,,,,,,,,,,,,,,,,,,,,,,1962-04-12
+Richmond,1962,45,Footscray,8,L,37,,,,,,,,,,,,,,,,,,,,,,,,1962-04-19
+Richmond,1962,46,South Melbourne,9,W,37,,,,,,,,,,,,,,,,,,,,,,,,1962-04-26
+Richmond,1962,47,Collingwood,10,L,37,,,,,,,,,,,,,,,,,,,,,,,,1962-05-03
+Richmond,1962,48,Melbourne,12,L,37,,,,,,,,,,,,,,,,,,,,,,,,1962-05-17
+Richmond,1962,49,Essendon,14,L,37,,,,,,,,,,,,,,,,,,,,,,,,1962-05-31
+Richmond,1962,50,Geelong,15,L,37,,,,,,,,,,,,,,,,,,,,,,,,1962-06-07
+Richmond,1962,51,Hawthorn,16,L,37,,,,,,,,,,,,,,,,,,,,,,,,1962-06-14
+Richmond,1963,52,Collingwood,1,L,37,,,,,,,,,,,,,,,,,,,,,,,,1963-03-01
+Richmond,1963,53,South Melbourne,2,W,37,,,,,,,,,,,,,,,,,,,,,,,,1963-03-08
+Richmond,1963,54,North Melbourne,3,L,37,,,,,,,,,,,,,,,,,,,,,,,,1963-03-15
+Richmond,1963,55,Footscray,4,L,37,,,,,,,,,,,,,,,,,,,,,,,,1963-03-22
+Richmond,1963,56,Carlton,5,L,37,,,,,,,,,,,,,,,,,,,,,,,,1963-03-29
+Richmond,1963,57,Melbourne,6,L,37,,,,,,,,,,,,,,,,,,,,,,,,1963-04-05
+Richmond,1963,58,Essendon,8,L,37,,,,,,,,,,,,,,,,,,,,,,,,1963-04-19
+Richmond,1963,59,Geelong,9,L,37,,,,,,,,,,,,,,,,,,,,,,,,1963-04-26
+Richmond,1963,60,Hawthorn,10,L,37,,,,,,,,,,,,,,,,,,,,,,,,1963-05-03
+Richmond,1963,61,St Kilda,11,L,37,,,,,,,,,,,,,,,,,,,,,,,,1963-05-10
+Richmond,1963,62,Collingwood,12,W,37,,,,,,,,,,,,,,,,,,,,,,,,1963-05-17
+Richmond,1963,63,South Melbourne,13,L,37,,,,,,,,,,,,,,,,,,,,,,,,1963-05-24
+Richmond,1963,64,North Melbourne,14,L,37,,,,,,,,,,,,,,,,,,,,,,,,1963-05-31
+Richmond,1963,65,Footscray,15,L,37,,,,,,,,,,,,,,,,,,,,,,,,1963-06-07

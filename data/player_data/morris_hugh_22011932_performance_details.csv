@@ -1,0 +1,26 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1952,1,North Melbourne,2,W,6,,,,,,,,,,,,,,,,,,,,,,,,1952-03-08
+Essendon,1952,2,Collingwood,3,L,6,,,,,,,,,,,,,,,,,,,,,,,,1952-03-15
+Essendon,1952,3,Carlton,4,L,6,,,,,2,,,,,,,,,,,,,,,,,,,1952-03-22
+Essendon,1952,4,St Kilda,5,W,6,,,,,,,,,,,,,,,,,,,,,,,,1952-03-29
+Essendon,1952,5,Hawthorn,6,W,6,,,,,,,,,,,,,,,,,,,,,,,,1952-04-05
+Essendon,1952,6,Richmond,7,L,6,,,,,,,,,,,,,,,,,,,,,,,,1952-04-12
+Essendon,1952,7,Geelong,8,W,6,,,,,,,,,,,,,,,,,,,,,,,,1952-04-19
+Essendon,1952,8,Melbourne,9,L,6,,,,,,,,,,,,,,,,,,,,,,,,1952-04-26
+Essendon,1953,9,Fitzroy,1,W,6,,,,,,,,,,,,,,,,,,,,,,,,1953-03-01
+Essendon,1953,10,St Kilda,3,W,6,,,,,,,,,,,,,,,,,,,,,,,,1953-03-15
+Essendon,1953,11,Geelong,4,L,6,,,,,,,,,,,,,,,,,,,,,,,,1953-03-22
+Essendon,1953,12,Melbourne,5,L,6,,,,,,,,,,,,,,,,,,,,,,,,1953-03-29
+Essendon,1953,13,North Melbourne,6,W,6,,,,,,,,,,,,,,,,,,,,,,,,1953-04-05
+Essendon,1953,14,Richmond,7,W,6,,,,,,,,,,,,,,,,,,,,,,,,1953-04-12
+Essendon,1953,15,Hawthorn,9,W,6,,,,,,,,,,,,,,,,,,,,,,,,1953-04-26
+Essendon,1953,16,Fitzroy,12,W,6,,,,,,,,,,,,,,,,,,,,,,,,1953-05-17
+Essendon,1954,17,South Melbourne,2,L,6,,,,,,,,,,,,,,,,,,,,,,,,1954-03-08
+Essendon,1954,18,Collingwood,4,L,6,,,,,,,,,,,,,,,,,,,,,,,,1954-03-22
+Essendon,1954,19,Carlton,5,L,6,,,,,,,,,,,,,,,,,,,,,,,,1954-03-29
+Essendon,1954,20,South Melbourne,13,W,6,,,,,,,,,,,,,,,,,,,,,,,,1954-05-24
+Essendon,1954,21,Collingwood,15,W,6,,,,,,,,,,,,,,,,,,,,,,,,1954-06-07
+St Kilda,1956,22,North Melbourne,1,L,8,,,,,,,,,,,,,,,,,,,,,,,,1956-03-01
+St Kilda,1956,23,Essendon,4,L,8,,,,,,,,,,,,,,,,,,,,,,,,1956-03-22
+St Kilda,1956,24,Hawthorn,5,L,8,,,,,,,,,,,,,,,,,,,,,,,,1956-03-29
+St Kilda,1956,25,Geelong,11,L,8,,,,,,,,,,,,,,,,,,,,,,,,1956-05-10

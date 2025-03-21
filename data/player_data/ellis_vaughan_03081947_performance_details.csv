@@ -1,0 +1,20 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1965,1,St Kilda,1,L,10,2,,1,3,,,,,,,,,,,,,,,,,,,,1965-03-01
+Collingwood,1965,2,Hawthorn,14,W,10,,,,,,,,,,,,,,,,,,,,,,,,1965-05-31
+Collingwood,1965,3,Melbourne,17,W,10,,,,,,,,,,,,,,,,,,,,,,,,1965-06-21
+Collingwood,1965,4,Essendon,PF,L,10,3,,,3,,,,,,,,,1,,,,,,,,,,,1965-03-01
+Collingwood,1966,5,South Melbourne,9,W,10,,,,,,,,,,,,,,,,,,,,,,,,1966-04-26
+Collingwood,1966,6,Richmond,15,W,10,2,1,,2,,,,,,,,,,1,,,,,,,,,,1966-06-07
+Collingwood,1967,7,St Kilda,7,W,10,,,,,,,,,,,,,,,,,,,,,,,,1967-04-12
+Collingwood,1967,8,Essendon,14,L,10,,,,,,,,,,,,,,,,,,,,,,,,1967-05-31
+Collingwood,1967,9,St Kilda,18,L,10,11,4,1,12,,2,,,,,,,1,2,,,,,,,,,,1967-06-28
+Collingwood,1968,10,Richmond,12,W,10,5,2,,5,,,8,,,,,,,1,,,,,,,,,,1968-05-17
+Collingwood,1968,11,Fitzroy,13,W,10,5,1,,5,,,,,,,,,,,,,,,,,,,,1968-05-24
+Collingwood,1968,12,Essendon,17,L,10,8,3,,8,,1,3,,,,,,,1,,,,,,,,,,1968-06-21
+Collingwood,1968,13,Carlton,18,L,10,7,1,,7,,,,,,,,,3,2,,,,,,,,,,1968-06-28
+Collingwood,1969,14,Hawthorn,1,L,10,9,6,,9,,,2,,,,,,1,1,,,,,,,,,,1969-03-01
+Collingwood,1969,15,Richmond,2,L,10,8,2,3,11,3,,2,,,,,,3,2,,,,,,,,,,1969-03-08
+Collingwood,1969,16,Melbourne,3,W,10,2,1,6,8,,,3,,,,,,,3,,,,,,,,,,1969-03-15
+Collingwood,1969,17,Carlton,4,W,10,,,,,,,,,,,,,,,,,,,,,,,,1969-03-22
+Collingwood,1969,18,Footscray,6,W,10,1,1,1,2,,,,,,,,,,,,,,,,,,,,1969-04-05
+Collingwood,1969,19,Fitzroy,7,W,10,5,2,3,8,,4,,,,,,,2,3,,,,,,,,,,1969-04-12

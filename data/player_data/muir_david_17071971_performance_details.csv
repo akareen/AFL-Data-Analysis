@@ -1,0 +1,21 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fremantle,1995,1,Richmond,1,L,21,1,1,,1,,,,,,,,,,,,,,,,,,,,1995-03-01
+Fremantle,1995,2,Brisbane Bears,9,W,21,6,2,9,15,,,,4,,,,,,2,,,,,,,,,,1995-04-26
+Fremantle,1995,3,St Kilda,10,W,21,8,3,7,15,,,,3,,,,,4,1,1,,,,,,,,,1995-05-03
+Fremantle,1995,4,North Melbourne,11,L,21,5,,11,16,,,,6,,,,,,2,,,,,,,,,,1995-05-10
+Fremantle,1995,5,Adelaide,12,L,21,5,,3,8,,,,,,,,,,2,,,,,,,,,,1995-05-17
+Fremantle,1995,6,Carlton,13,L,21,2,,2,4,,,,1,,,,,,,,,,,,,,,,1995-05-24
+Fremantle,1995,7,Melbourne,14,L,21,7,1,6,13,,,1,2,,,,,1,1,,,,,,,,,,1995-05-31
+Fremantle,1995,8,Richmond,16,L,21,6,1,3,9,,,1,,,,,,,1,,,,,,,,,,1995-06-14
+Fremantle,1995,9,Essendon,17,L,21,7,,4,11,,,,1,,,,,,3,,,,,,,,,,1995-06-21
+Fremantle,1995,10,West Coast,22,L,21,4,2,3,7,1,,,5,,,,,,2,,,,,,,,,,1995-07-26
+Fremantle,1996,11,West Coast,1,L,21,9,,2,11,,,,2,,,,,1,,,,,,,,,,,1996-03-01
+Fremantle,1996,12,Adelaide,7,L,21,1,1,2,3,,,,,,,,,,,,,,,,,,,,1996-04-12
+Fremantle,1996,13,Richmond,9,W,21,9,4,3,12,,,,1,,,,,1,1,,,,,,,,,,1996-04-26
+Fremantle,1996,14,Hawthorn,10,L,21,9,3,6,15,,,,1,,,,,1,2,,,,,,,,,,1996-05-03
+Fremantle,1996,15,Essendon,11,L,21,4,2,1,5,,1,,1,,,,,,,,,,,,,,,,1996-05-10
+Fremantle,1996,16,Geelong,12,L,21,17,1,10,27,,1,,2,,,,,2,,,,,,,,,,,1996-05-17
+Fremantle,1996,17,North Melbourne,13,L,21,8,,6,14,1,,,3,,,,,2,,,,,,,,,,,1996-05-24
+Fremantle,1996,18,St Kilda,14,L,21,7,1,2,9,,,,3,,,,,1,,,,,,,,,,,1996-05-31
+Fremantle,1996,19,Sydney,17,W,21,3,,3,6,,1,,5,,,,,1,,,,,,,,,,,1996-06-21
+Fremantle,1996,20,Carlton,18,L,21,2,1,5,7,,,,2,,,,,,,,,,,,,,,,1996-06-28

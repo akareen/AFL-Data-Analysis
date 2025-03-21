@@ -1,0 +1,24 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1909,1,Fitzroy,16,L,,,,,,2,,,,,,,,,,,,,,,,,,,1909-06-14
+St Kilda,1909,2,Carlton,17,L,,,,,,1,,,,,,,,,,,,,,,,,,,1909-06-21
+St Kilda,1909,3,South Melbourne,18,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-28
+St Kilda,1910,4,University,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-01
+St Kilda,1910,5,Fitzroy,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-08
+St Kilda,1910,6,Collingwood,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-15
+St Kilda,1910,7,Fitzroy,11,L,,,,,,1,,,,,,,,,,,,,,,,,,,1910-05-10
+Carlton,1911,8,Essendon,1,D,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-01
+Carlton,1911,9,University,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-22
+Carlton,1911,10,Melbourne,9,W,,,,,,2,,,,,,,,,,,,,,,,,,,1911-04-26
+Carlton,1911,11,Essendon,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-03
+Carlton,1911,12,University,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-24
+Carlton,1911,13,Melbourne,18,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-28
+Carlton,1912,14,Melbourne,5,L,21,,,,,1,,,,,,,,,,,,,,,,,,,1912-03-29
+Collingwood,1914,15,Richmond,3,W,17,,,,,,,,,,,,,,,,,,,,,,,,1914-03-15
+Collingwood,1914,16,South Melbourne,8,W,17,,,,,,,,,,,,,,,,,,,,,,,,1914-04-19
+Collingwood,1914,17,Carlton,10,L,17,,,,,,,,,,,,,,,,,,,,,,,,1914-05-03
+Collingwood,1914,18,Melbourne,11,W,17,,,,,3,,,,,,,,,,,,,,,,,,,1914-05-10
+Collingwood,1914,19,Fitzroy,13,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1914-05-24
+Collingwood,1914,20,University,14,W,17,,,,,,,,,,,,,,,,,,,,,,,,1914-05-31
+Collingwood,1914,21,St Kilda,15,W,17,,,,,2,,,,,,,,,,,,,,,,,,,1914-06-07
+Collingwood,1914,22,Essendon,16,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1914-06-14
+Collingwood,1914,23,Geelong,18,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1914-06-28

@@ -1,0 +1,35 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,2013,1↑,Melbourne,11,W,43,3,1,3,6,,,,1,,,,,1,,,3,3,,,,1,1,39,2013-05-10
+Collingwood,2013,2↑,Western Bulldogs,12,W,43,3,2,1,4,,,,,2,,,,,,,,4,,,,2,,26,2013-05-17
+Collingwood,2015,3↓,Brisbane Lions,1,W,43,5,1,3,8,,,,1,,2,1,3,,1,,3,5,,,,,,57,2015-03-01
+Collingwood,2015,4,Adelaide,2,L,43,22,2,11,33,,,,2,12,2,1,3,1,,,9,17,,,2,,,88,2015-03-08
+Collingwood,2015,5,St Kilda,3,W,43,13,3,9,22,1,,,5,1,4,1,1,1,1,,8,14,,,2,1,1,90,2015-03-15
+Collingwood,2015,6↓,Essendon,4,W,43,3,,5,8,,,,4,2,2,2,1,1,,,5,3,,,2,,,63,2015-03-22
+Collingwood,2015,7,Carlton,5,W,43,21,11,5,26,1,3,,5,3,9,,2,1,,2,6,19,1,,1,1,2,79,2015-03-29
+Collingwood,2015,8,Geelong,6,L,43,11,3,11,22,,,,4,2,7,2,3,,1,,6,16,,,1,,1,88,2015-04-05
+Collingwood,2015,9,Richmond,7,L,43,8,3,7,15,,1,,,2,2,,,,,,1,12,,,1,1,,86,2015-04-12
+Collingwood,2015,10,Gold Coast,8,W,43,15,4,12,27,1,,,1,3,2,3,3,,,,7,20,1,,2,,,90,2015-04-19
+Collingwood,2015,11↓,North Melbourne,9,W,43,3,3,3,6,,,,1,2,,1,,1,,,3,4,,,1,,,45,2015-04-26
+Collingwood,2015,12,Melbourne,10,W,43,24,14,6,30,,,,,3,3,,1,,,,5,24,1,,,,1,90,2015-05-03
+Collingwood,2015,13,Greater Western Sydney,11,W,43,11,4,12,23,1,,,4,1,1,,1,2,1,,10,13,2,1,,4,,91,2015-05-10
+Collingwood,2015,14↓,Fremantle,13,L,43,8,3,8,16,,,1,3,,1,1,3,1,,,9,7,,1,1,,,64,2015-05-24
+Collingwood,2015,15,Hawthorn,14,L,43,6,2,9,15,,1,,3,2,,1,1,,1,,5,10,1,,1,,,87,2015-05-31
+Collingwood,2015,16,Port Adelaide,15,L,43,9,2,7,16,1,1,,4,2,1,,1,,,,6,9,,,2,,,92,2015-06-07
+Collingwood,2015,17,West Coast,16,L,43,18,11,5,23,,,,3,5,1,,,1,,,5,17,1,,2,1,,81,2015-06-14
+Collingwood,2015,18↓,Western Bulldogs,17,L,43,3,2,5,8,,,,3,1,,1,4,1,,,2,6,,,,1,,49,2015-06-21
+Collingwood,2015,19,Essendon,23,L,43,8,1,9,17,,,,,1,4,1,4,1,1,,8,9,,,1,,,85,2015-08-02
+Collingwood,2016,20,Richmond,2,W,43,14,8,7,21,,,1,2,2,3,1,3,,1,,5,15,,,3,,,83,2016-03-08
+Collingwood,2016,21,St Kilda,3,L,43,13,8,12,25,1,,,3,1,6,3,2,,1,,13,13,3,,1,,1,89,2016-03-15
+Collingwood,2016,22,Melbourne,4,L,43,16,4,5,21,,,,1,3,6,,1,2,,,6,16,,,4,2,1,78,2016-03-22
+Collingwood,2016,23,Essendon,5,W,43,12,6,7,19,1,,,4,6,1,,,,,,4,13,2,,,1,,86,2016-03-29
+Collingwood,2016,24,West Coast,6,L,43,13,3,11,24,,,,4,5,,2,2,,,,6,13,,,,,,86,2016-04-05
+Collingwood,2016,25,Carlton,7,L,43,10,2,1,11,,,,2,5,1,,4,2,1,,2,4,,,1,2,,87,2016-04-12
+Collingwood,2016,26,Brisbane Lions,8,W,43,15,7,7,22,,1,,4,4,4,,2,1,1,,5,15,1,1,2,,1,88,2016-04-19
+Collingwood,2016,27,Geelong,9,W,43,10,6,4,14,,,,3,3,4,,3,,1,,3,11,,,,,,81,2016-04-26
+Collingwood,2016,28,Western Bulldogs,10,L,43,10,5,4,14,,1,,2,1,1,,1,,,,3,10,,,1,,,78,2016-05-03
+Collingwood,2016,29,Port Adelaide,11,L,43,6,4,7,13,,,,2,3,1,,2,,1,,1,10,,,3,,,77,2016-05-10
+Collingwood,2016,30,Western Bulldogs,21,L,43,4,2,3,7,2,,,1,,,,1,,,,2,4,1,1,1,,,74,2016-07-19
+Collingwood,2016,31,Gold Coast,22,W,43,6,4,6,12,,,,,,1,,,,,,2,10,,,,,,83,2016-07-26
+Collingwood,2018,32,Brisbane Lions,21,W,43,5,3,6,11,,1,,3,2,,,3,,3,,4,6,1,,1,,,80,2018-07-19
+Collingwood,2018,33,Port Adelaide,22,W,43,10,4,2,12,1,,,6,2,6,,5,1,,,4,7,,,3,,1,81,2018-07-26
+Collingwood,2018,34,Fremantle,23,W,43,6,2,5,11,,,,2,3,1,,,,,,1,8,,,,,,67,2018-08-02

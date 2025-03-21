@@ -1,0 +1,13 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1953,1,Hawthorn,5,W,10,,,,,,,,,,,,,,,,,,,,,,,,1953-03-29
+Collingwood,1953,2,Footscray,7,W,10,,,,,,,,,,,,,,,,,,,,,,,,1953-04-12
+Collingwood,1953,3,St Kilda,8,W,10,,,,,,,,,,,,,,,,,,,,,,,,1953-04-19
+Collingwood,1953,4,Melbourne,9,W,10,,,,,1,,,,,,,,,,,,,,,,,,,1953-04-26
+Collingwood,1953,5,Essendon,10,L,10,,,,,,,,,,,,,,,,,,,,,,,,1953-05-03
+Collingwood,1953,6,Geelong,SF,W,10,,,,,,,,,,,,,,,,,,,,,,,,1953-03-01
+Collingwood,1953,7,Geelong,GF,W,10,,,,,,,,,,,,,,,,,,,,,,,,1953-03-01
+Collingwood,1954,8,Melbourne,1,W,23,,,,,,,,,,,,,,,,,,,,,,,,1954-03-01
+Collingwood,1954,9,Fitzroy,2,W,23,,,,,,,,,,,,,,,,,,,,,,,,1954-03-08
+Collingwood,1954,10,St Kilda,3,W,23,,,,,,,,,,,,,,,,,,,,,,,,1954-03-15
+Collingwood,1954,11,St Kilda,14,W,23,,,,,,,,,,,,,,,,,,,,,,,,1954-05-31
+Collingwood,1954,12,Essendon,15,L,23,,,,,,,,,,,,,,,,,,,,,,,,1954-06-07

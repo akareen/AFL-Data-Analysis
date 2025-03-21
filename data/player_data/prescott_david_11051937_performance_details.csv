@@ -1,0 +1,14 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1960,1,South Melbourne,1,L,12,,,,,,,,,,,,,,,,,,,,,,,,1960-03-01
+St Kilda,1960,2,Essendon,10,L,12,,,,,,,,,,,,,,,,,,,,,,,,1960-05-03
+St Kilda,1960,3,Richmond,11,W,12,,,,,1,,,,,,,,,,,,,,,,,,,1960-05-10
+St Kilda,1960,4,South Melbourne,12,W,12,,,,,,,,,,,,,,,,,,,,,,,,1960-05-17
+St Kilda,1960,5,Melbourne,13,L,12,,,,,,,,,,,,,,,,,,,,,,,,1960-05-24
+St Kilda,1960,6,Carlton,14,W,12,,,,,,,,,,,,,,,,,,,,,,,,1960-05-31
+St Kilda,1960,7,Geelong,15,L,12,,,,,1,,,,,,,,,,,,,,,,,,,1960-06-07
+St Kilda,1961,8,Essendon,13,W,12,,,,,,,,,,,,,,,,,,,,,,,,1961-05-24
+St Kilda,1961,9,Geelong,14,L,12,,,,,1,,,,,,,,,,,,,,,,,,,1961-05-31
+St Kilda,1961,10,Melbourne,15,W,12,,,,,1,,,,,,,,,,,,,,,,,,,1961-06-07
+St Kilda,1961,11,Richmond,16,W,12,,,,,,,,,,,,,,,,,,,,,,,,1961-06-14
+St Kilda,1961,12,Hawthorn,17,L,12,,,,,3,,,,,,,,,,,,,,,,,,,1961-06-21
+St Kilda,1961,13,North Melbourne,18,W,12,,,,,,,,,,,,,,,,,,,,,,,,1961-06-28

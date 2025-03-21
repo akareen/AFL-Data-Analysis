@@ -1,0 +1,46 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1911,1,St Kilda,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-01
+Geelong,1911,2,Collingwood,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-15
+Geelong,1911,3,Richmond,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-22
+Geelong,1911,4,Fitzroy,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-29
+Geelong,1911,5,Essendon,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-05
+Geelong,1911,6,Carlton,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-12
+Geelong,1911,7,South Melbourne,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-19
+Geelong,1911,8,University,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-26
+Geelong,1911,9,St Kilda,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-03
+Geelong,1911,10,Melbourne,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-10
+Geelong,1911,11,Collingwood,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-17
+Geelong,1911,12,Richmond,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-24
+Geelong,1911,13,Fitzroy,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-31
+Geelong,1911,14,Essendon,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-07
+Geelong,1911,15,Carlton,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-14
+Geelong,1911,16,South Melbourne,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-21
+Geelong,1911,17,University,18,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-28
+Geelong,1912,18,Carlton,1,L,9,,,,,,,,,,,,,,,,,,,,,,,,1912-03-01
+Geelong,1912,19,St Kilda,2,W,9,,,,,,,,,,,,,,,,,,,,,,,,1912-03-08
+Geelong,1912,20,Fitzroy,3,L,9,,,,,,,,,,,,,,,,,,,,,,,,1912-03-15
+Geelong,1912,21,Melbourne,4,W,9,,,,,,,,,,,,,,,,,,,,,,,,1912-03-22
+Geelong,1912,22,Essendon,5,W,9,,,,,,,,,,,,,,,,,,,,,,,,1912-03-29
+Geelong,1912,23,Collingwood,6,W,9,,,,,,,,,,,,,,,,,,,,,,,,1912-04-05
+Geelong,1912,24,South Melbourne,7,L,9,,,,,,,,,,,,,,,,,,,,,,,,1912-04-12
+Geelong,1912,25,University,8,W,9,,,,,,,,,,,,,,,,,,,,,,,,1912-04-19
+Geelong,1912,26,Richmond,9,W,9,,,,,,,,,,,,,,,,,,,,,,,,1912-04-26
+Geelong,1912,27,Carlton,10,W,9,,,,,,,,,,,,,,,,,,,,,,,,1912-05-03
+Geelong,1912,28,Melbourne,13,L,9,,,,,,,,,,,,,,,,,,,,,,,,1912-05-24
+Geelong,1912,29,Essendon,14,W,9,,,,,,,,,,,,,,,,,,,,,,,,1912-05-31
+Geelong,1912,30,Collingwood,15,L,9,,,,,,,,,,,,,,,,,,,,,,,,1912-06-07
+Geelong,1912,31,University,17,W,9,,,,,,,,,,,,,,,,,,,,,,,,1912-06-21
+Geelong,1912,32,Richmond,18,W,9,,,,,,,,,,,,,,,,,,,,,,,,1912-06-28
+Geelong,1912,33,Carlton,SF,L,9,,,,,,,,,,,,,,,,,,,,,,,,1912-03-01
+Geelong,1913,34,Richmond,1,W,5,,,,,,,,,,,,,,,,,,,,,,,,1913-03-01
+Geelong,1913,35,Collingwood,2,L,5,,,,,,,,,,,,,,,,,,,,,,,,1913-03-08
+Geelong,1913,36,Fitzroy,3,L,5,,,,,,,,,,,,,,,,,,,,,,,,1913-03-15
+Geelong,1913,37,University,4,W,5,,,,,,,,,,,,,,,,,,,,,,,,1913-03-22
+Geelong,1913,38,South Melbourne,5,L,5,,,,,,,,,,,,,,,,,,,,,,,,1913-03-29
+Geelong,1913,39,Essendon,6,W,5,,,,,,,,,,,,,,,,,,,,,,,,1913-04-05
+Geelong,1913,40,Melbourne,7,W,5,,,,,,,,,,,,,,,,,,,,,,,,1913-04-12
+Geelong,1913,41,Carlton,8,L,5,,,,,,,,,,,,,,,,,,,,,,,,1913-04-19
+Geelong,1913,42,St Kilda,9,L,5,,,,,,,,,,,,,,,,,,,,,,,,1913-04-26
+Geelong,1913,43,Richmond,10,L,5,,,,,1,,,,,,,,,,,,,,,,,,,1913-05-03
+Geelong,1914,44,Essendon,1,D,5,,,,,,,,,,,,,,,,,,,,,,,,1914-03-01
+Geelong,1914,45,Melbourne,3,W,5,,,,,,,,,,,,,,,,,,,,,,,,1914-03-15

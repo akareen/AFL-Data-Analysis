@@ -1,0 +1,24 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1944,1,North Melbourne,2,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1944-03-08
+Richmond,1944,2,Essendon,3,W,16,,,,,,,,,,,,,,,,,,,,,,,,1944-03-15
+Richmond,1944,3,Fitzroy,4,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1944-03-22
+Richmond,1944,4,Carlton,5,L,16,,,,,,,,,,,,,,,,,,,,,,,,1944-03-29
+Richmond,1944,5,Footscray,6,D,16,,,,,2,,,,,,,,,,,,,,,,,,,1944-04-05
+Richmond,1944,6,North Melbourne,13,L,16,,,,,,,,,,,,,,,,,,,,,,,,1944-05-24
+Richmond,1945,7,North Melbourne,2,W,3,,,,,,,,,,,,,,,,,,,,,,,,1945-03-08
+Richmond,1945,8,South Melbourne,3,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1945-03-15
+Richmond,1945,9,St Kilda,8,W,3,,,,,2,,,,,,,,,,,,,,,,,,,1945-04-19
+Richmond,1945,10,Collingwood,9,L,3,,,,,,,,,,,,,,,,,,,,,,,,1945-04-26
+Richmond,1945,11,Hawthorn,16,L,3,,,,,,,,,,,,,,,,,,,,,,,,1945-06-14
+Richmond,1945,12,St Kilda,19,W,3,,,,,,,,,,,,,,,,,,,,,,,,1945-07-05
+Richmond,1945,13,Collingwood,20,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1945-07-12
+Essendon,1946,14,Hawthorn,4,W,16,,,,,,,,,,,,,,,,,,,,,,,,1946-03-22
+Essendon,1946,15,Fitzroy,5,W,16,,,,,,,,,,,,,,,,,,,,,,,,1946-03-29
+Essendon,1946,16,North Melbourne,6,W,16,,,,,,,,,,,,,,,,,,,,,,,,1946-04-05
+Essendon,1946,17,Richmond,8,W,16,,,,,,,,,,,,,,,,,,,,,,,,1946-04-19
+Essendon,1946,18,Melbourne,14,L,16,,,,,,,,,,,,,,,,,,,,,,,,1946-05-31
+Essendon,1946,19,Fitzroy,16,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1946-06-14
+Essendon,1946,20,North Melbourne,17,W,16,,,,,,,,,,,,,,,,,,,,,,,,1946-06-21
+Essendon,1946,21,Richmond,19,W,16,,,,,,,,,,,,,,,,,,,,,,,,1946-07-05
+Essendon,1947,22,Geelong,4,W,16,,,,,,,,,,,,,,,,,,,,,,,,1947-03-22
+Essendon,1947,23,North Melbourne,6,L,16,,,,,,,,,,,,,,,,,,,,,,,,1947-04-05

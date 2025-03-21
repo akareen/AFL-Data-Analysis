@@ -1,0 +1,8 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1934,1,Melbourne,15,W,25,,,,,,,,,,,,,,,,,,,,,,,,1934-06-07
+Fitzroy,1934,2,Carlton,16,L,25,,,,,,,,,,,,,,,,,,,,,,,,1934-06-14
+Fitzroy,1934,3,Collingwood,17,L,25,,,,,1,,,,,,,,,,,,,,,,,,,1934-06-21
+Fitzroy,1934,4,Essendon,18,L,25,,,,,,,,,,,,,,,,,,,,,,,,1934-06-28
+Fitzroy,1935,5,St Kilda,1,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1935-03-01
+Fitzroy,1935,6,Collingwood,2,D,32,,,,,2,,,,,,,,,,,,,,,,,,,1935-03-08
+Fitzroy,1935,7,South Melbourne,6,L,32,,,,,,,,,,,,,,,,,,,,,,,,1935-04-05

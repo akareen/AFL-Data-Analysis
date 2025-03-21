@@ -1,0 +1,21 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1930,1,South Melbourne,1,W,5,,,,,1,,,,,,,,,,,,,,,,,,,1930-03-01
+Melbourne,1930,2,Geelong,2,W,5,,,,,1,,,,,,,,,,,,,,,,,,,1930-03-08
+Melbourne,1930,3,Fitzroy,3,W,5,,,,,2,,,,,,,,,,,,,,,,,,,1930-03-15
+Melbourne,1930,4,North Melbourne,4,W,5,,,,,,,,,,,,,,,,,,,,,,,,1930-03-22
+Melbourne,1930,5,Footscray,5,W,5,,,,,,,,,,,,,,,,,,,,,,,,1930-03-29
+Melbourne,1930,6,St Kilda,6,L,5,,,,,,,,,,,,,,,,,,,,,,,,1930-04-05
+Melbourne,1930,7,Collingwood,7,L,5,,,,,,,,,,,,,,,,,,,,,,,,1930-04-12
+Melbourne,1930,8,Carlton,8,W,5,,,,,,,,,,,,,,,,,,,,,,,,1930-04-19
+Melbourne,1930,9,Essendon,9,W,5,,,,,,,,,,,,,,,,,,,,,,,,1930-04-26
+Melbourne,1930,10,Richmond,10,L,5,,,,,1,,,,,,,,,,,,,,,,,,,1930-05-03
+Melbourne,1930,11,Essendon,16,L,5,,,,,,,,,,,,,,,,,,,,,,,,1930-06-14
+Melbourne,1930,12,Hawthorn,18,L,5,,,,,,,,,,,,,,,,,,,,,,,,1930-06-28
+Melbourne,1931,13,Geelong,3,W,5,,,,,,,,,,,,,,,,,,,,,,,,1931-03-15
+Melbourne,1931,14,Hawthorn,4,W,5,,,,,,,,,,,,,,,,,,,,,,,,1931-03-22
+Melbourne,1931,15,North Melbourne,6,W,5,,,,,,,,,,,,,,,2,,,,,,,,,1931-04-05
+Melbourne,1931,16,Essendon,13,W,5,,,,,,,,,,,,,,,,,,,,,,,,1931-05-24
+Melbourne,1931,17,Geelong,14,L,5,,,,,,,,,,,,,,,,,,,,,,,,1931-05-31
+Melbourne,1931,18,Footscray,16,L,5,,,,,,,,,,,,,,,,,,,,,,,,1931-06-14
+Melbourne,1932,19,Geelong,4,L,5,,,,,,,,,,,,,,,,,,,,,,,,1932-03-22
+Melbourne,1932,20,North Melbourne,5,L,5,,,,,,,,,,,,,,,,,,,,,,,,1932-03-29

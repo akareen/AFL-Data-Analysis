@@ -1,0 +1,46 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1922,1,Carlton,5,W,17,,,,,,,,,,,,,,,,,,,,,,,,1922-03-29
+South Melbourne,1922,2,Richmond,7,L,17,,,,,,,,,,,,,,,,,,,,,,,,1922-04-12
+South Melbourne,1922,3,Fitzroy,8,L,17,,,,,,,,,,,,,,,,,,,,,,,,1922-04-19
+South Melbourne,1922,4,Geelong,9,L,17,,,,,,,,,,,,,,,,,,,,,,,,1922-04-26
+South Melbourne,1922,5,Melbourne,10,L,17,,,,,,,,,,,,,,,,,,,,,,,,1922-05-03
+South Melbourne,1922,6,Collingwood,11,L,17,,,,,,,,,,,,,,,,,,,,,,,,1922-05-10
+South Melbourne,1922,7,St Kilda,13,D,17,,,,,,,,,,,,,,,,,,,,,,,,1922-05-24
+South Melbourne,1922,8,Carlton,14,L,17,,,,,,,,,,,,,,,,,,,,,,,,1922-05-31
+South Melbourne,1922,9,Richmond,16,L,17,,,,,,,,,,,,,,,,,,,,,,,,1922-06-14
+South Melbourne,1922,10,Fitzroy,17,L,17,,,,,,,,,,,,,,,,,,,,,,,,1922-06-21
+South Melbourne,1922,11,Geelong,18,W,17,,,,,,,,,,,,,,,,,,,,,,,,1922-06-28
+South Melbourne,1923,12,Collingwood,1,L,9,,,,,,,,,,,,,,,,,,,,,,,,1923-03-01
+South Melbourne,1923,13,Fitzroy,2,L,9,,,,,,,,,,,,,,,,,,,,,,,,1923-03-08
+South Melbourne,1923,14,Essendon,3,L,9,,,,,,,,,,,,,,,,,,,,,,,,1923-03-15
+South Melbourne,1923,15,Melbourne,4,L,9,,,,,,,,,,,,,,,,,,,,,,,,1923-03-22
+South Melbourne,1923,16,Geelong,5,W,9,,,,,,,,,,,,,,,,,,,,,,,,1923-03-29
+South Melbourne,1923,17,Richmond,8,W,9,,,,,,,,,,,,,,,,,,,,,,,,1923-04-19
+South Melbourne,1923,18,St Kilda,9,L,9,,,,,,,,,,,,,,,,,,,,,,,,1923-04-26
+South Melbourne,1923,19,Collingwood,10,W,9,,,,,,,,,,,,,,,,,,,,,,,,1923-05-03
+South Melbourne,1923,20,Fitzroy,11,W,9,,,,,,,,,,,,,,,,,,,,,,,,1923-05-10
+South Melbourne,1923,21,Essendon,12,L,9,,,,,,,,,,,,,,,,,,,,,,,,1923-05-17
+South Melbourne,1923,22,Melbourne,13,W,9,,,,,,,,,,,,,,,,,,,,,,,,1923-05-24
+South Melbourne,1923,23,Geelong,14,W,9,,,,,,,,,,,,,,,,,,,,,,,,1923-05-31
+South Melbourne,1923,24,Carlton,15,L,9,,,,,,,,,,,,,,,,,,,,,,,,1923-06-07
+South Melbourne,1923,25,Richmond,17,W,9,,,,,,,,,,,,,,,,,,,,,,,,1923-06-21
+South Melbourne,1923,26,St Kilda,18,W,9,,,,,,,,,,,,,,,,,,,,,,,,1923-06-28
+South Melbourne,1923,27,Essendon,SF,W,9,,,,,,,,,,,,,,,,,,,,,,,,1923-03-01
+South Melbourne,1923,28,Fitzroy,PF,L,9,,,,,,,,,,,,,,,,,,,,,,,,1923-03-01
+South Melbourne,1924,29,Richmond,1,W,9,,,,,,,,,,,,,,,,,,,,,,,,1924-03-01
+South Melbourne,1924,30,Fitzroy,2,L,9,,,,,,,,,,,,,,,,,,,,,,,,1924-03-08
+South Melbourne,1924,31,Essendon,3,L,9,,,,,,,,,,,,,,,,,,,,,,,,1924-03-15
+South Melbourne,1924,32,St Kilda,4,W,9,,,,,,,,,,,,,,,,,,,,,,,,1924-03-22
+South Melbourne,1924,33,Melbourne,5,L,9,,,,,,,,,,,,,,,,,,,,,,,,1924-03-29
+South Melbourne,1924,34,Collingwood,6,W,9,,,,,,,,,,,,,,,,,,,,,,,,1924-04-05
+South Melbourne,1924,35,Carlton,7,W,9,,,,,,,,,,,,,,,,,,,,,,,,1924-04-12
+South Melbourne,1924,36,Geelong,9,W,9,,,,,,,,,,,,,,,,,,,,,,,,1924-04-26
+South Melbourne,1924,37,Richmond,10,W,9,,,,,,,,,,,,,,,,,,,,,,,,1924-05-03
+South Melbourne,1924,38,Fitzroy,11,W,9,,,,,,,,,,,,,,,,,,,,,,,,1924-05-10
+South Melbourne,1924,39,Essendon,12,W,9,,,,,,,,,,,,,,,,,,,,,,,,1924-05-17
+South Melbourne,1924,40,St Kilda,13,L,9,,,,,,,,,,,,,,,,,,,,,,,,1924-05-24
+South Melbourne,1924,41,Melbourne,14,W,9,,,,,,,,,,,,,,,,,,,,,,,,1924-05-31
+South Melbourne,1924,42,Collingwood,15,L,9,,,,,,,,,,,,,,,,,,,,,,,,1924-06-07
+South Melbourne,1924,43,Carlton,16,W,9,,,,,,,,,,,,,,,,,,,,,,,,1924-06-14
+South Melbourne,1924,44,Richmond,SF,L,9,,,,,,,,,,,,,,,,,,,,,,,,1924-03-01
+South Melbourne,1924,45,Essendon,SF,L,9,,,,,,,,,,,,,,,,,,,,,,,,1924-03-01

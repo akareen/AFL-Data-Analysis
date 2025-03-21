@@ -1,0 +1,7 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1901,1,St Kilda,2,W,,,,,,,,,,,,,,,,,,,,,,,,,1901-03-08
+Essendon,1901,2,Fitzroy,3,L,,,,,,1,,,,,,,,,,,,,,,,,,,1901-03-15
+Essendon,1901,3,Geelong,4,L,,,,,,1,,,,,,,,,,,,,,,,,,,1901-03-22
+Essendon,1901,4,Melbourne,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1901-03-29
+Essendon,1901,5,South Melbourne,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1901-04-05
+Essendon,1901,6,Carlton,7,W,,,,,,1,,,,,,,,,,,,,,,,,,,1901-04-12

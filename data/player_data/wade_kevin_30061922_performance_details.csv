@@ -1,0 +1,112 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1942,1,South Melbourne,1,L,29,,,,,1,,,,,,,,,,,,,,,,,,,1942-03-01
+Collingwood,1942,2,Richmond,3,L,29,,,,,,,,,,,,,,,,,,,,,,,,1942-03-15
+Collingwood,1942,3,Essendon,4,L,29,,,,,,,,,,,,,,,,,,,,,,,,1942-03-22
+Collingwood,1942,4,St Kilda,7,L,29,,,,,,,,,,,,,,,,,,,,,,,,1942-04-12
+Collingwood,1942,5,South Melbourne,12,L,29,,,,,2,,,,,,,,,,,,,,,,,,,1942-05-17
+Collingwood,1942,6,Richmond,14,L,29,,,,,2,,,,,,,,,,,,,,,,,,,1942-05-31
+Collingwood,1942,7,Essendon,15,L,29,,,,,1,,,,,,,,,,,,,,,,,,,1942-06-07
+Collingwood,1942,8,Hawthorn,16,W,29,,,,,4,,,,,,,,,,,,,,,,,,,1942-06-14
+Collingwood,1943,9,North Melbourne,1,W,24,,,,,,,,,,,,,,,,,,,,,,,,1943-03-01
+Collingwood,1943,10,Richmond,2,L,24,,,,,2,,,,,,,,,,,,,,,,,,,1943-03-08
+Collingwood,1943,11,Footscray,3,L,24,,,,,,,,,,,,,,,,,,,,,,,,1943-03-15
+Collingwood,1943,12,Carlton,4,W,24,,,,,1,,,,,,,,,,,,,,,,,,,1943-03-22
+Collingwood,1943,13,Essendon,7,L,24,,,,,,,,,,,,,,,,,,,,,,,,1943-04-12
+Collingwood,1943,14,Fitzroy,9,L,24,,,,,,,,,,,,,,,,,,,,,,,,1943-04-26
+Collingwood,1943,15,South Melbourne,10,L,24,,,,,,,,,,,,,,,,,,,,,,,,1943-05-03
+Collingwood,1943,16,Hawthorn,11,L,24,,,,,,,,,,,,,,,,,,,,,,,,1943-05-10
+Collingwood,1943,17,Carlton,12,L,24,,,,,,,,,,,,,,,,,,,,,,,,1943-05-17
+Collingwood,1943,18,North Melbourne,13,W,24,,,,,,,,,,,,,,,,,,,,,,,,1943-05-24
+Collingwood,1943,19,South Melbourne,14,L,24,,,,,,,,,,,,,,,,,,,,,,,,1943-05-31
+Collingwood,1943,20,Fitzroy,15,W,24,,,,,,,,,,,,,,,,,,,,,,,,1943-06-07
+Collingwood,1944,21,North Melbourne,1,W,24,,,,,2,,,,,,,,,,,,,,,,,,,1944-03-01
+Collingwood,1944,22,Fitzroy,2,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1944-03-08
+Collingwood,1944,23,Footscray,3,L,24,,,,,,,,,,,,,,,,,,,,,,,,1944-03-15
+Collingwood,1944,24,South Melbourne,4,L,24,,,,,,,,,,,,,,,,,,,,,,,,1944-03-22
+Collingwood,1944,25,Hawthorn,5,W,24,,,,,,,,,,,,,,,,,,,,,,,,1944-03-29
+Collingwood,1944,26,Essendon,7,W,24,,,,,2,,,,,,,,,,,,,,,,,,,1944-04-12
+Collingwood,1944,27,Carlton,8,L,24,,,,,,,,,,,,,,,,,,,,,,,,1944-04-19
+Collingwood,1944,28,Geelong,9,W,24,,,,,,,,,,,,,,,,,,,,,,,,1944-04-26
+Collingwood,1944,29,St Kilda,10,L,24,,,,,,,,,,,,,,,,,,,,,,,,1944-05-03
+Collingwood,1944,30,Richmond,11,L,24,,,,,,,,,,,,,,,,,,,,,,,,1944-05-10
+Collingwood,1944,31,North Melbourne,12,W,24,,,,,2,,,,,,,,,,,,,,,,,,,1944-05-17
+Collingwood,1944,32,Fitzroy,13,L,24,,,,,,,,,,,,,,,,,,,,,,,,1944-05-24
+Collingwood,1944,33,Footscray,14,L,24,,,,,,,,,,,,,,,,,,,,,,,,1944-05-31
+Collingwood,1944,34,South Melbourne,15,L,24,,,,,,,,,,,,,,,,,,,,,,,,1944-06-07
+Collingwood,1945,35,North Melbourne,1,W,30,,,,,,,,,,,,,,,,,,,,,,,,1945-03-01
+Collingwood,1945,36,South Melbourne,2,L,30,,,,,,,,,,,,,,,,,,,,,,,,1945-03-08
+Collingwood,1945,37,Melbourne,3,W,30,,,,,,,,,,,,,,,,,,,,,,,,1945-03-15
+Collingwood,1945,38,Hawthorn,4,W,30,,,,,,,,,,,,,,,,,,,,,,,,1945-03-22
+Collingwood,1945,39,Essendon,5,L,30,,,,,,,,,,,,,,,,,,,,,,,,1945-03-29
+Collingwood,1945,40,Carlton,6,W,30,,,,,,,,,,,,,,,,,,,,,,,,1945-04-05
+Collingwood,1945,41,St Kilda,7,W,30,,,,,,,,,,,,,,,,,,,,,,,,1945-04-12
+Collingwood,1945,42,Fitzroy,8,L,30,,,,,,,,,,,,,,,,,,,,,,,,1945-04-19
+Collingwood,1945,43,Richmond,9,W,30,,,,,,,,,,,,,,,,,,,,,,,,1945-04-26
+Collingwood,1945,44,Geelong,10,W,30,,,,,,,,,,,,,,,,,,,,,,,,1945-05-03
+Collingwood,1945,45,Footscray,11,L,30,,,,,,,,,,,,,,,,,,,,,,,,1945-05-10
+Collingwood,1945,46,North Melbourne,12,W,30,,,,,,,,,,,,,,,,,,,,,,,,1945-05-17
+Collingwood,1945,47,South Melbourne,13,W,30,,,,,,,,,,,,,,,,,,,,,,,,1945-05-24
+Collingwood,1945,48,Melbourne,14,W,30,,,,,,,,,,,,,,,,,,,,,,,,1945-05-31
+Collingwood,1945,49,Hawthorn,15,W,30,,,,,,,,,,,,,,,,,,,,,,,,1945-06-07
+Collingwood,1945,50,Essendon,16,W,30,,,,,,,,,,,,,,,,,,,,,,,,1945-06-14
+Collingwood,1945,51,Carlton,17,L,30,,,,,,,,,,,,,,,,,,,,,,,,1945-06-21
+Collingwood,1945,52,St Kilda,18,W,30,,,,,,,,,,,,,,,,,,,,,,,,1945-06-28
+Collingwood,1945,53,Fitzroy,19,W,30,,,,,,,,,,,,,,,,,,,,,,,,1945-07-05
+Collingwood,1945,54,Richmond,20,W,30,,,,,,,,,,,,,,,,,,,,,,,,1945-07-12
+Collingwood,1945,55,South Melbourne,SF,L,30,,,,,,,,,,,,,,,,,,,,,,,,1945-03-01
+Collingwood,1945,56,Carlton,PF,L,30,,,,,,,,,,,,,,,,,,,,,,,,1945-03-01
+Collingwood,1946,57,Hawthorn,1,W,28,,,,,,,,,,,,,,,,,,,,,,,,1946-03-01
+Collingwood,1946,58,Fitzroy,2,W,28,,,,,,,,,,,,,,,,,,,,,,,,1946-03-08
+Collingwood,1946,59,North Melbourne,3,W,28,,,,,,,,,,,,,,,,,,,,,,,,1946-03-15
+Collingwood,1946,60,St Kilda,4,W,28,,,,,,,,,,,,,,,,,,,,,,,,1946-03-22
+Collingwood,1946,61,Richmond,5,L,28,,,,,,,,,,,,,,,,,,,,,,,,1946-03-29
+Collingwood,1946,62,Footscray,6,L,28,,,,,,,,,,,,,,,,,,,,,,,,1946-04-05
+Collingwood,1946,63,Geelong,7,W,28,,,,,,,,,,,,,,,,,,,,,,,,1946-04-12
+Collingwood,1946,64,Carlton,8,W,28,,,,,,,,,,,,,,,,,,,,,,,,1946-04-19
+Collingwood,1946,65,Essendon,9,L,28,,,,,,,,,,,,,,,,,,,,,,,,1946-04-26
+Collingwood,1946,66,South Melbourne,10,W,28,,,,,,,,,,,,,,,,,,,,,,,,1946-05-03
+Collingwood,1946,67,Melbourne,11,L,28,,,,,,,,,,,,,,,,,,,,,,,,1946-05-10
+Collingwood,1946,68,Hawthorn,12,W,28,,,,,,,,,,,,,,,,,,,,,,,,1946-05-17
+Collingwood,1946,69,North Melbourne,14,W,28,,,,,,,,,,,,,,,,,,,,,,,,1946-05-31
+Collingwood,1946,70,Footscray,17,W,28,,,,,,,,,,,,,,,,,,,,,,,,1946-06-21
+Collingwood,1946,71,Geelong,18,W,28,,,,,,,,,,,,,,,,,,,,,,,,1946-06-28
+Collingwood,1946,72,Carlton,19,L,28,,,,,,,,,,,,,,,,,,,,,,,,1946-07-05
+Collingwood,1946,73,Essendon,SF,D,28,,,,,,,,,,,,,,,,,,,,,,,,1946-03-01
+Collingwood,1946,74,Essendon,SF,L,28,,,,,,,,,,,,,,,,,,,,,,,,1946-03-01
+Collingwood,1947,75,Hawthorn,2,W,28,,,,,,,,,,,,,,,,,,,,,,,,1947-03-08
+Collingwood,1947,76,Footscray,6,L,28,,,,,,,,,,,,,,,,,,,,,,,,1947-04-05
+Collingwood,1947,77,Richmond,7,L,28,,,,,,,,,,,,,,,,,,,,,,,,1947-04-12
+Collingwood,1947,78,South Melbourne,15,D,28,,,,,,,,,,,,,,,,,,,,,,,,1947-06-07
+Collingwood,1947,79,Melbourne,16,L,28,,,,,,,,,,,,,,,,,,,,,,,,1947-06-14
+Collingwood,1947,80,Essendon,19,L,28,,,,,,,,,,,,,,,,,,,,,,,,1947-07-05
+Collingwood,1948,81,South Melbourne,2,W,31,,,,,,,,,,,,,,,,,,,,,,,,1948-03-08
+Collingwood,1948,82,Carlton,5,W,31,,,,,,,,,,,,,,,,,,,,,,,,1948-03-29
+Collingwood,1948,83,Richmond,6,L,31,,,,,,,,,,,,,,,,,,,,,,,,1948-04-05
+Collingwood,1948,84,St Kilda,7,W,31,,,,,,,,,,,,,,,,,,,,,,,,1948-04-12
+Collingwood,1948,85,Melbourne,8,W,31,,,,,,,,,,,,,,,,,,,,,,,,1948-04-19
+Collingwood,1948,86,Hawthorn,9,W,31,,,,,,,,,,,,,,,,,,,,,,,,1948-04-26
+Collingwood,1948,87,Fitzroy,10,W,31,,,,,,,,,,,,,,,,,,,,,,,,1948-05-03
+Collingwood,1948,88,Footscray,11,W,31,,,,,,,,,,,,,,,,,,,,,,,,1948-05-10
+Collingwood,1948,89,North Melbourne,12,W,31,,,,,,,,,,,,,,,,,,,,,,,,1948-05-17
+Collingwood,1948,90,Richmond,17,W,31,,,,,,,,,,,,,,,,,,,,,,,,1948-06-21
+Collingwood,1948,91,St Kilda,18,W,31,,,,,,,,,,,,,,,,,,,,,,,,1948-06-28
+Collingwood,1948,92,Melbourne,19,L,31,,,,,,,,,,,,,,,,,,,,,,,,1948-07-05
+Collingwood,1948,93,Footscray,SF,W,31,,,,,,,,,,,,,,,,,,,,,,,,1948-03-01
+Collingwood,1948,94,Melbourne,PF,L,31,,,,,,,,,,,,,,,,,,,,,,,,1948-03-01
+Collingwood,1949,95,North Melbourne,1,W,31,,,,,,,,,,,,,,,,,,,,,,,,1949-03-01
+Collingwood,1949,96,Melbourne,2,W,31,,,,,,,,,,,,,,,,,,,,,,,,1949-03-08
+Collingwood,1949,97,Fitzroy,3,L,31,,,,,,,,,,,,,,,,,,,,,,,,1949-03-15
+Collingwood,1949,98,Hawthorn,4,W,31,,,,,,,,,,,,,,,,,,,,,,,,1949-03-22
+Collingwood,1949,99,Carlton,5,L,31,,,,,,,,,,,,,,,,,,,,,,,,1949-03-29
+Collingwood,1949,100,Essendon,6,W,31,,,,,,,,,,,,,,,,,,,,,,,,1949-04-05
+Collingwood,1949,101,St Kilda,8,W,31,,,,,,,,,,,,,,,,,,,,,,,,1949-04-19
+Collingwood,1949,102,Geelong,9,W,31,,,,,,,,,,,,,,,,,,,,,,,,1949-04-26
+Collingwood,1949,103,Richmond,10,W,31,,,,,,,,,,,,,,,,,,,,,,,,1949-05-03
+Collingwood,1949,104,South Melbourne,11,W,31,,,,,,,,,,,,,,,,,,,,,,,,1949-05-10
+Collingwood,1949,105,North Melbourne,12,L,31,,,,,,,,,,,,,,,,,,,,,,,,1949-05-17
+Collingwood,1949,106,Melbourne,13,L,31,,,,,,,,,,,,,,,,,,,,,,,,1949-05-24
+Collingwood,1949,107,Fitzroy,14,W,31,,,,,,,,,,,,,,,,,,,,,,,,1949-05-31
+Collingwood,1949,108,Hawthorn,15,W,31,,,,,,,,,,,,,,,,,,,,,,,,1949-06-07
+Collingwood,1949,109,Carlton,16,W,31,,,,,,,,,,,,,,,,,,,,,,,,1949-06-14
+Collingwood,1949,110,Footscray,18,W,31,,,,,,,,,,,,,,,,,,,,,,,,1949-06-28
+Collingwood,1949,111,St Kilda,19,L,31,,,,,,,,,,,,,,,,,,,,,,,,1949-07-05

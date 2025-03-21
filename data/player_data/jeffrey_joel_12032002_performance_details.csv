@@ -1,0 +1,30 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Gold Coast,2021,1,Melbourne,20,L,40,3,1,2,5,,1,,3,,1,,1,,,,2,3,,1,2,,,69,2021-07-12
+Gold Coast,2021,2,Carlton,21,W,40,5,3,1,6,1,2,,1,,1,,2,,1,,1,5,,3,1,,,71,2021-07-19
+Gold Coast,2021,3,Essendon,22,L,40,6,2,2,8,1,1,,,,3,,3,1,,,5,3,1,1,1,,,66,2021-07-26
+Gold Coast,2021,4,Sydney,23,L,40,5,,1,6,,,,,,1,,5,,1,,3,2,,,1,,,69,2021-08-02
+Gold Coast,2022,5,Fremantle,9,W,40,5,1,2,7,,,,2,,2,,2,,,,5,3,,,,,,61,2022-04-26
+Gold Coast,2022,6,Western Bulldogs,10,L,40,10,5,,10,5,,,2,,1,,1,,,,4,6,2,3,2,,,78,2022-05-03
+Gold Coast,2022,7,Hawthorn,11,W,40,9,4,4,13,1,1,,1,,2,,,1,,,8,7,3,3,4,,1,74,2022-05-10
+Gold Coast,2022,8,North Melbourne,12,W,40,10,5,1,11,1,2,,1,,3,,2,3,,,6,6,1,1,1,,1,77,2022-05-17
+Gold Coast,2022,9,Adelaide,14,W,40,6,2,3,9,1,,,2,,4,,1,,,,4,5,,,2,1,,57,2022-05-31
+Gold Coast,2023,10,Sydney,1,L,40,5,,2,7,1,,,6,,,,4,,1,,3,3,,,1,,,72,2023-03-01
+Gold Coast,2023,11,Essendon,2,L,40,10,3,1,11,1,2,,5,,3,,,2,,,7,4,1,1,2,,1,63,2023-03-08
+Gold Coast,2023,12,Geelong,3,W,40,6,2,3,9,1,1,,2,,3,,4,1,,,1,8,,1,1,1,,65,2023-03-15
+Gold Coast,2023,13↓,St Kilda,4,L,40,2,,3,5,1,1,,3,,,,,,,,3,2,,,2,,,41,2023-03-22
+Gold Coast,2023,14,Western Bulldogs,11,W,40,14,3,1,15,,,,2,6,1,1,1,,,,1,8,,,3,,,83,2023-05-10
+Gold Coast,2023,15,Adelaide,12,W,40,13,6,1,14,1,,,3,7,2,1,1,1,1,,5,8,1,,2,,1,74,2023-05-17
+Gold Coast,2023,16,Carlton,14,L,40,4,2,2,6,,,,2,2,1,,,,,,2,4,,,,,,55,2023-05-31
+Gold Coast,2024,17,North Melbourne,10,W,40,13,1,7,20,,,,1,4,4,,3,,3,,3,16,,,2,1,,80,2024-05-03
+Gold Coast,2024,18,Geelong,11,W,40,16,2,5,21,1,,,1,3,6,,8,,1,,4,13,,,1,2,,80,2024-05-10
+Gold Coast,2024,19,Carlton,12,L,40,10,,4,14,,,,1,1,1,1,1,,,,4,7,,,,,1,76,2024-05-17
+Gold Coast,2024,20,Essendon,13,W,40,8,6,10,18,,,,1,2,,,1,,,,3,13,1,,3,1,,73,2024-05-24
+Gold Coast,2024,21,St Kilda,14,L,40,21,12,8,29,,,,2,4,8,1,2,,1,,4,25,,1,,,,79,2024-05-31
+Gold Coast,2024,22,Fremantle,16,L,40,8,5,1,9,,,,1,2,1,,1,,1,,1,8,,,2,,,75,2024-06-14
+Gold Coast,2024,23,Collingwood,17,W,40,10,6,10,20,,,,1,8,1,2,1,,,,6,13,,,2,,,78,2024-06-21
+Gold Coast,2024,24,North Melbourne,18,L,40,12,2,4,16,,1,,4,1,5,,2,,,,5,12,1,,4,,,77,2024-06-28
+Gold Coast,2024,25,Port Adelaide,19,W,40,16,5,4,20,,,,1,5,4,,3,1,,,5,14,,,3,1,1,78,2024-07-05
+Gold Coast,2024,26↓,Greater Western Sydney,20,L,40,3,,4,7,,,,,1,1,,1,,,,1,5,,,,,,48,2024-07-12
+Gold Coast,2024,27,Brisbane Lions,21,L,40,10,4,7,17,,1,,1,2,3,,,,,,4,13,1,1,1,,,74,2024-07-19
+Gold Coast,2024,28↓,West Coast,22,L,40,5,1,3,8,,,,,1,2,1,3,,1,,3,6,,,2,,,63,2024-07-26
+Gold Coast,2025,29,West Coast,2,W,40,14,4,6,20,,,,3,3,4,,1,2,,,4,13,,,3,,1,79,2025-03-08

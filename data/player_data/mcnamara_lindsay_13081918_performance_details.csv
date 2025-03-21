@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1939,1,Carlton,1,L,12,,,,,1,,,,,,,,,,,,,,,,,,,1939-03-01
+South Melbourne,1939,2,Collingwood,2,L,12,,,,,,,,,,,,,,,,,,,,,,,,1939-03-08
+South Melbourne,1939,3,Fitzroy,3,L,12,,,,,,,,,,,,,,,,,,,,,,,,1939-03-15
+South Melbourne,1940,4,Collingwood,1,L,12,,,,,3,,,,,,,,,,,,,,,,,,,1940-03-01
+Fitzroy,1940,5,Essendon,4,W,12,,,,,,,,,,,,,,,,,,,,,,,,1940-03-22
+Fitzroy,1940,6,Richmond,5,L,12,,,,,,,,,,,,,,,,,,,,,,,,1940-03-29
+Fitzroy,1940,7,Carlton,17,L,12,,,,,1,,,,,,,,,,,,,,,,,,,1940-06-21
+Fitzroy,1941,8,Richmond,5,L,28,,,,,,,,,,,,,,,,,,,,,,,,1941-03-29

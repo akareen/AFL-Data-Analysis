@@ -1,0 +1,28 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,2007,1,Geelong,14,L,35,5,4,9,14,1,,,5,1,2,,4,,2,,1,13,,,1,,,96,2007-05-31
+Essendon,2007,2,Western Bulldogs,15,L,35,3,3,7,10,,1,,3,,1,1,,,,,5,5,,,3,,,75,2007-06-07
+Essendon,2007,3,Collingwood,16,L,35,4,4,5,9,,,,5,,,,2,,1,,2,7,,,1,,1,86,2007-06-14
+Essendon,2008,4,Port Adelaide,7,L,35,8,6,4,12,1,,,2,,1,,2,2,,,3,10,1,,,,,81,2008-04-12
+Essendon,2008,5,Sydney,8,L,35,7,4,8,15,,,,3,2,2,2,1,1,1,,4,11,,,1,,,82,2008-04-19
+Essendon,2008,6,Richmond,9,L,35,1,1,8,9,,,,2,,,,2,1,1,,5,4,,,,,,56,2008-04-26
+Essendon,2008,7,Adelaide,10,L,35,,,,,,,,,,,,,,,,,,,,2,,,29,2008-05-03
+Richmond,2009,8,Geelong,2,L,27,5,2,5,10,1,,,4,,2,3,,3,,,6,5,,,4,,,87,2009-03-08
+Richmond,2009,9,Western Bulldogs,3,L,27,6,4,6,12,,,,3,,4,1,3,,1,,2,10,,,2,,,72,2009-03-15
+Richmond,2009,10,Melbourne,4,L,27,3,2,4,7,,,,3,,,3,1,2,,,3,3,,1,,,1,62,2009-03-22
+Richmond,2009,11,West Coast,12,W,27,6,1,8,14,2,1,,3,,2,1,3,1,2,,6,8,,,,,1,85,2009-05-17
+Richmond,2009,12,St Kilda,13,L,27,6,5,4,10,1,,,4,1,1,,4,1,3,,3,7,1,2,,,1,78,2009-05-24
+Richmond,2009,13,Adelaide,14,L,27,5,3,14,19,1,,,1,,1,,5,,4,,8,12,1,,3,,1,85,2009-05-31
+Richmond,2009,14,Carlton,15,L,27,2,,7,9,,1,,5,1,1,1,3,2,1,,7,2,,,1,,,78,2009-06-07
+Richmond,2009,15,North Melbourne,16,D,27,5,6,7,12,1,1,,2,,3,,3,,2,,4,8,,2,1,,,77,2009-06-14
+Richmond,2009,16,Essendon,17,W,27,3,3,5,8,,1,,4,1,,,1,2,,,4,5,,,4,,1,71,2009-06-21
+Richmond,2009,17,Melbourne,18,W,27,9,4,3,12,1,,,4,1,4,2,2,1,,,4,9,,,4,,3,87,2009-06-28
+Richmond,2009,18,Sydney,19,L,27,6,2,3,9,,1,,1,,4,2,3,2,1,,6,2,1,1,1,,1,80,2009-07-05
+Richmond,2009,19,Collingwood,20,L,27,8,7,4,12,2,,,,1,,,4,,4,,2,11,,1,2,,,96,2009-07-12
+Richmond,2010,20,Carlton,1,L,27,4,3,7,11,1,,,4,,,1,4,1,3,,6,6,,,1,,,85,2010-03-01
+Richmond,2010,21,Western Bulldogs,2,L,27,7,7,4,11,,,,1,3,3,,7,,5,,3,10,1,,,,1,77,2010-03-08
+Richmond,2010,22,Melbourne,4,L,27,10,5,5,15,,,,4,,3,3,4,1,3,,9,7,1,2,3,,,75,2010-03-22
+Richmond,2011,23↑,Sydney,12,L,27,3,2,5,8,,2,,2,1,,,,,,,2,5,,,2,,,75,2011-05-17
+Richmond,2011,24↑,Brisbane Lions,13,W,27,3,1,3,6,,,,,1,1,,,,,,4,2,,,,,1,29,2011-05-24
+Richmond,2011,25,Melbourne,14,L,27,5,5,11,16,,1,,4,,1,1,2,1,2,,6,10,1,1,1,,1,94,2011-05-31
+Richmond,2011,26↑,Carlton,15,L,27,3,4,5,8,,,,,,,,4,,3,,2,6,,,2,,,58,2011-06-07
+Richmond,2011,27↑,Essendon,16,L,27,1,,3,4,,,1,1,,1,,,,,,2,2,,,,,,20,2011-06-14

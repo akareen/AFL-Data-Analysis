@@ -1,0 +1,38 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1931,1,Carlton,1,W,24,,,,,1,,,,,,,,,,,,,,,,,,,1931-03-01
+Richmond,1931,2,North Melbourne,2,W,24,,,,,,,,,,,,,,,,,,,,,,,,1931-03-08
+Richmond,1931,3,Footscray,3,W,24,,,,,1,,,,,,,,,,,,,,,,,,,1931-03-15
+Richmond,1931,4,Collingwood,4,W,24,,,,,1,,,,,,,,,,,,,,,,,,,1931-03-22
+Richmond,1931,5,Essendon,5,W,24,,,,,2,,,,,,,,,,,,,,,,,,,1931-03-29
+Richmond,1931,6,Geelong,7,L,24,,,,,,,,,,,,,,,,,,,,,,,,1931-04-12
+Richmond,1931,7,South Melbourne,8,W,24,,,,,,,,,,,,,,,,,,,,,,,,1931-04-19
+Richmond,1931,8,Hawthorn,6,W,24,,,,,,,,,,,,,,,,,,,,,,,,1931-04-05
+Richmond,1931,9,Melbourne,10,W,24,,,,,,,,,,,,,,,,,,,,,,,,1931-05-03
+Richmond,1931,10,St Kilda,11,W,24,,,,,1,,,,,,,,,,,,,,,,,,,1931-05-10
+Richmond,1931,11,Carlton,12,W,24,,,,,,,,,,,,,,,,,,,,,,,,1931-05-17
+Richmond,1931,12,Collingwood,15,W,24,,,,,1,,,,,,,,,,,,,,,,,,,1931-06-07
+Richmond,1931,13,Hawthorn,17,W,24,,,,,2,,,,,,,,,,3,,,,,,,,,1931-06-21
+Richmond,1931,14,Geelong,18,L,24,,,,,,,,,,,,,,,,,,,,,,,,1931-06-28
+Richmond,1931,15,Geelong,SF,W,24,,,,,1,,,,,,,,,,,,,,,,,,,1931-03-01
+Richmond,1931,16,Geelong,GF,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1931-03-01
+Essendon,1932,17,Footscray,1,W,15,,,,,,,,,,,,,,,,,,,,,,,,1932-03-01
+Essendon,1932,18,North Melbourne,2,W,15,,,,,,,,,,,,,,,,,,,,,,,,1932-03-08
+Essendon,1932,19,St Kilda,4,W,15,,,,,,,,,,,,,,,,,,,,,,,,1932-03-22
+Essendon,1932,20,South Melbourne,5,L,15,,,,,1,,,,,,,,,,2,,,,,,,,,1932-03-29
+Essendon,1932,21,Fitzroy,6,W,15,,,,,1,,,,,,,,,,,,,,,,,,,1932-04-05
+Essendon,1932,22,Hawthorn,7,W,15,,,,,1,,,,,,,,,,,,,,,,,,,1932-04-12
+Essendon,1932,23,Geelong,8,W,15,,,,,,,,,,,,,,,,,,,,,,,,1932-04-19
+Essendon,1932,24,Richmond,9,L,15,,,,,,,,,,,,,,,,,,,,,,,,1932-04-26
+Essendon,1932,25,Carlton,10,L,15,,,,,,,,,,,,,,,,,,,,,,,,1932-05-03
+Essendon,1932,26,Footscray,12,L,15,,,,,2,,,,,,,,,,,,,,,,,,,1932-05-17
+Essendon,1932,27,North Melbourne,13,W,15,,,,,4,,,,,,,,,,,,,,,,,,,1932-05-24
+Essendon,1932,28,Collingwood,14,L,15,,,,,4,,,,,,,,,,,,,,,,,,,1932-05-31
+Essendon,1932,29,St Kilda,15,W,15,,,,,5,,,,,,,,,,2,,,,,,,,,1932-06-07
+Essendon,1932,30,South Melbourne,16,W,15,,,,,1,,,,,,,,,,,,,,,,,,,1932-06-14
+Essendon,1932,31,Fitzroy,17,L,15,,,,,1,,,,,,,,,,,,,,,,,,,1932-06-21
+Essendon,1932,32,Hawthorn,18,W,15,,,,,2,,,,,,,,,,,,,,,,,,,1932-06-28
+Essendon,1933,33,Footscray,1,L,15,,,,,1,,,,,,,,,,,,,,,,,,,1933-03-01
+Essendon,1933,34,St Kilda,2,W,15,,,,,,,,,,,,,,,,,,,,,,,,1933-03-08
+Essendon,1933,35,Melbourne,3,L,15,,,,,,,,,,,,,,,,,,,,,,,,1933-03-15
+Essendon,1933,36,Fitzroy,6,L,15,,,,,2,,,,,,,,,,,,,,,,,,,1933-04-05
+Essendon,1933,37,Geelong,8,L,15,,,,,1,,,,,,,,,,,,,,,,,,,1933-04-19

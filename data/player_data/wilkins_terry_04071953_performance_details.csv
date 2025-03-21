@@ -1,0 +1,35 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Footscray,1973,1,South Melbourne,3,W,38,14,1,5,19,,1,,,,,,,3,1,,,,,,,,,,1973-03-15
+Footscray,1973,2,Essendon,4,L,38,12,,2,14,,1,,,,,,,7,3,,,,,,,,,,1973-03-22
+Footscray,1973,3,Hawthorn,5,L,38,19,5,1,20,1,,,,,,,,7,1,,,,,,,,,,1973-03-29
+Footscray,1973,4,Geelong,6,W,38,14,2,5,19,,1,,,,,,,2,3,,,,,,,,,,1973-04-05
+Footscray,1973,5,St Kilda,7,W,38,9,4,3,12,,1,,,,,,,3,2,,,,,,,,,,1973-04-12
+Footscray,1973,6,North Melbourne,8,D,38,14,1,2,16,,,,,,,,,4,3,,,,,,,,,,1973-04-19
+Footscray,1973,7,Melbourne,9,L,38,12,1,,12,,,,,,,,,6,4,,,,,,,,,,1973-04-26
+Footscray,1973,8,Carlton,10,L,38,3,,1,4,,,,,,,,,1,2,,,,,,,,,,1973-05-03
+Footscray,1973,9,Essendon,14,L,38,1,1,,1,,,,,,,,,,2,,,,,,,,,,1973-05-31
+Footscray,1973,10,Hawthorn,16,L,38,17,5,3,20,,,,,,,,,7,3,,,,,,,,,,1973-06-14
+Footscray,1973,11,Geelong,17,W,38,10,4,,10,,3,,,,,,,,2,,,,,,,,,,1973-06-21
+Footscray,1973,12,Melbourne,20,W,38,10,4,4,14,,,,,,,,,,2,,,,,,,,,,1973-07-12
+Footscray,1973,13,Carlton,21,W,38,9,6,6,15,,,,,,,,,1,2,,,,,,,,,,1973-07-19
+Footscray,1973,14,Richmond,22,W,38,10,2,,10,,,,,,,,,3,3,,,,,,,,,,1973-07-26
+Footscray,1974,15,Geelong,1,W,38,13,1,2,15,,1,,,,,,,2,7,,,,,,,,,,1974-03-01
+Footscray,1974,16,North Melbourne,2,L,38,7,,,7,,,,,,,,,,1,,,,,,,,,,1974-03-08
+Footscray,1974,17,Geelong,12,L,38,2,,,2,,,,,,,,,,1,,,,,,,,,,1974-05-17
+Footscray,1974,18,Collingwood,15,L,38,11,2,1,12,,,,,,,,,2,2,,,,,,,,,,1974-06-07
+Footscray,1974,19,Hawthorn,16,L,38,7,2,5,12,,,,,,,,,4,2,,,,,,,,,,1974-06-14
+Footscray,1974,20,Richmond,22,W,38,,,,,,,,,,,,,,,,,,,,,,,,1974-07-26
+Melbourne,1975,21,Hawthorn,5,L,38,11,,2,13,,,,,,,,,3,,,,,,,,,,,1975-03-29
+Melbourne,1975,22,South Melbourne,6,W,38,3,,2,5,,,,,,,,,,1,,,,,,,,,,1975-04-05
+Melbourne,1975,23,St Kilda,14,L,38,4,1,,4,,,,,,,,,2,,,,,,,,,,,1975-05-31
+Melbourne,1975,24,Essendon,15,W,38,19,2,3,22,,,,,,,,,4,7,,,,,,,,,,1975-06-07
+Melbourne,1975,25,Hawthorn,16,L,38,13,6,5,18,,,,,,,,,2,1,,,,,,,,,,1975-06-14
+Melbourne,1975,26,South Melbourne,17,W,38,10,3,3,13,,2,,,,,,,2,3,,,,,,,,,,1975-06-21
+Melbourne,1975,27,Richmond,18,W,38,19,9,1,20,,1,,,,,,,5,3,,,,,,,,,,1975-06-28
+Melbourne,1975,28,Carlton,19,W,38,18,5,5,23,,,,,,,,,5,1,,,,,,,,,,1975-07-05
+Melbourne,1975,29,Fitzroy,20,L,38,8,4,3,11,1,,,,,,,,2,2,,,,,,,,,,1975-07-12
+Melbourne,1975,30,Geelong,21,L,38,15,2,4,19,,,,,,,,,3,,,,,,,,,,,1975-07-19
+Melbourne,1975,31,Collingwood,22,L,38,7,2,3,10,,,,,,,,,4,,,,,,,,,,,1975-07-26
+Melbourne,1976,32,North Melbourne,1,W,29,14,4,5,19,1,,,,,,,,4,3,,,,,,,,,,1976-03-01
+Melbourne,1976,33,Footscray,2,L,29,10,4,6,16,,1,,,,,,,2,2,,,,,,,,,,1976-03-08
+Melbourne,1976,34,Carlton,4,L,29,4,2,6,10,,,3,,,,,,2,3,,,,,,,,,,1976-03-22

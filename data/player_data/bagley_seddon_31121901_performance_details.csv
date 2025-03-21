@@ -1,0 +1,6 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Footscray,1925,1,Melbourne,15,L,45,,,,,,,,,,,,,,,,,,,,,,,,1925-06-07
+Footscray,1925,2,Hawthorn,16,W,45,,,,,2,,,,,,,,,,,,,,,,,,,1925-06-14
+Footscray,1925,3,Geelong,17,L,45,,,,,2,,,,,,,,,,,,,,,,,,,1925-06-21
+Footscray,1926,4,South Melbourne,2,L,7,,,,,1,,,,,,,,,,,,,,,,,,,1926-03-08
+Footscray,1926,5,Fitzroy,3,L,7,,,,,1,,,,,,,,,,,,,,,,,,,1926-03-15

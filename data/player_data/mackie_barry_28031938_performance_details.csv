@@ -1,0 +1,28 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1958,1,North Melbourne,6,L,32,,,,,,,,,,,,,,,,,,,,,,,,1958-04-05
+Essendon,1959,2,Carlton,1,L,32,,,,,1,,,,,,,,,,,,,,,,,,,1959-03-01
+Essendon,1959,3,St Kilda,2,W,32,,,,,2,,,,,,,,,,,,,,,,,,,1959-03-08
+Essendon,1959,4,South Melbourne,3,L,32,,,,,,,,,,,,,,,,,,,,,,,,1959-03-15
+Essendon,1959,5,North Melbourne,4,L,32,,,,,,,,,,,,,,,,,,,,,,,,1959-03-22
+Essendon,1959,6,Fitzroy,6,W,32,,,,,,,,,,,,,,,,,,,,,,,,1959-04-05
+Essendon,1959,7,Melbourne,8,L,32,,,,,,,,,,,,,,,,,,,,,,,,1959-04-19
+Essendon,1959,8,Hawthorn,10,L,32,,,,,1,,,,,,,,,,,,,,,,,,,1959-05-03
+Essendon,1959,9,Richmond,11,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1959-05-10
+Essendon,1959,10,Carlton,12,W,32,,,,,,,,,,,,,,,,,,,,,,,,1959-05-17
+Essendon,1959,11,St Kilda,13,L,32,,,,,1,,,,,,,,,,,,,,,,,,,1959-05-24
+Essendon,1959,12,South Melbourne,14,W,32,,,,,,,,,,,,,,,,,,,,,,,,1959-05-31
+Essendon,1959,13,North Melbourne,15,W,32,,,,,,,,,,,,,,,,,,,,,,,,1959-06-07
+Essendon,1959,14,Geelong,16,W,32,,,,,,,,,,,,,,,,,,,,,,,,1959-06-14
+Essendon,1959,15,Footscray,18,W,32,,,,,,,,,,,,,,,,,,,,,,,,1959-06-28
+Essendon,1959,16,Collingwood,SF,W,32,,,,,,,,,,,,,,,,,,,,,,,,1959-03-01
+Essendon,1959,17,Melbourne,GF,L,32,,,,,,,,,,,,,,,,,,,,,,,,1959-03-01
+Essendon,1960,18,Footscray,4,W,32,,,,,,,,,,,,,,,,,,,,,,,,1960-03-22
+Essendon,1960,19,Carlton,5,W,32,,,,,,,,,,,,,,,,,,,,,,,,1960-03-29
+Essendon,1960,20,South Melbourne,9,W,32,,,,,,,,,,,,,,,,,,,,,,,,1960-04-26
+Essendon,1960,21,St Kilda,10,W,32,,,,,,,,,,,,,,,,,,,,,,,,1960-05-03
+Essendon,1960,22,North Melbourne,11,W,32,,,,,,,,,,,,,,,,,,,,,,,,1960-05-10
+Essendon,1960,23,Hawthorn,12,W,32,,,,,,,,,,,,,,,,,,,,,,,,1960-05-17
+Essendon,1960,24,Richmond,13,W,32,,,,,2,,,,,,,,,,,,,,,,,,,1960-05-24
+Essendon,1960,25,Collingwood,14,L,32,,,,,,,,,,,,,,,,,,,,,,,,1960-05-31
+Essendon,1960,26,Footscray,15,W,32,,,,,,,,,,,,,,,,,,,,,,,,1960-06-07
+Essendon,1960,27,Carlton,16,L,32,,,,,,,,,,,,,,,,,,,,,,,,1960-06-14

@@ -1,0 +1,14 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1907,1,Melbourne,5,W,,,,,,3,,,,,,,,,,,,,,,,,,,1907-03-29
+Geelong,1907,2,South Melbourne,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-04-05
+Geelong,1907,3,Collingwood,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-04-12
+Geelong,1907,4,Essendon,8,W,,,,,,2,,,,,,,,,,,,,,,,,,,1907-04-19
+Geelong,1907,5,Carlton,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-04-26
+Geelong,1907,6,Fitzroy,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-05-03
+Geelong,1907,7,St Kilda,11,W,,,,,,3,,,,,,,,,,,,,,,,,,,1907-05-10
+Geelong,1907,8,Melbourne,12,L,,,,,,1,,,,,,,,,,,,,,,,,,,1907-05-17
+Geelong,1907,9,South Melbourne,13,L,,,,,,1,,,,,,,,,,,,,,,,,,,1907-05-24
+Geelong,1907,10,Collingwood,14,L,,,,,,3,,,,,,,,,,,,,,,,,,,1907-05-31
+Geelong,1907,11,Fitzroy,15,L,,,,,,1,,,,,,,,,,,,,,,,,,,1907-06-07
+Geelong,1907,12,St Kilda,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-06-14
+Geelong,1907,13,Collingwood,17,W,,,,,,4,,,,,,,,,,,,,,,,,,,1907-06-21

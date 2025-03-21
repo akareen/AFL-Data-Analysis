@@ -1,0 +1,39 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1925,1,South Melbourne,15,W,19,,,,,,,,,,,,,,,,,,,,,,,,1925-06-07
+Richmond,1925,2,Essendon,16,L,19,,,,,,,,,,,,,,,,,,,,,,,,1925-06-14
+Richmond,1925,3,Melbourne,17,L,19,,,,,,,,,,,,,,,,,,,,,,,,1925-06-21
+Richmond,1926,4,South Melbourne,1,W,4,,,,,,,,,,,,,,,,,,,,,,,,1926-03-01
+Richmond,1926,5,Fitzroy,2,W,4,,,,,,,,,,,,,,,,,,,,,,,,1926-03-08
+Richmond,1926,6,Essendon,3,L,4,,,,,,,,,,,,,,,,,,,,,,,,1926-03-15
+Richmond,1926,7,Hawthorn,4,W,4,,,,,,,,,,,,,,,,,,,,,,,,1926-03-22
+Richmond,1926,8,Melbourne,5,L,4,,,,,,,,,,,,,,,,,,,,,,,,1926-03-29
+Richmond,1926,9,Geelong,6,L,4,,,,,,,,,,,,,,,,,,,,,,,,1926-04-05
+Richmond,1926,10,North Melbourne,7,W,4,,,,,,,,,,,,,,,,,,,,,,,,1926-04-12
+Richmond,1926,11,Collingwood,11,L,4,,,,,,,,,,,,,,,,,,,,,,,,1926-05-10
+Richmond,1926,12,Fitzroy,13,W,4,,,,,,,,,,,,,,,,,,,,,,,,1926-05-24
+Richmond,1926,13,Geelong,17,L,4,,,,,,,,,,,,,,,,,,,,,,,,1926-06-21
+Richmond,1926,14,Footscray,18,L,4,,,,,,,,,,,,,,,,,,,,,,,,1926-06-28
+Richmond,1928,15,Carlton,2,L,19,,,,,,,,,,,,,,,,,,,,,,,,1928-03-08
+Richmond,1928,16,Collingwood,3,W,19,,,,,,,,,,,,,,,,,,,,,,,,1928-03-15
+Richmond,1928,17,Footscray,5,W,19,,,,,,,,,,,,,,,,,,,,,,,,1928-03-29
+Richmond,1928,18,Essendon,6,L,19,,,,,,,,,,,,,,,,,,,,,,,,1928-04-05
+Richmond,1928,19,Geelong,7,W,19,,,,,,,,,,,,,,,,,,,,,,,,1928-04-12
+Richmond,1928,20,Fitzroy,8,W,19,,,,,,,,,,,,,,,,,,,,,,,,1928-04-19
+Richmond,1928,21,South Melbourne,9,W,19,,,,,,,,,,,,,,,,,,,,,,,,1928-04-26
+Richmond,1928,22,Hawthorn,10,W,19,,,,,,,,,,,,,,,,,,,,,,,,1928-05-03
+Richmond,1928,23,Melbourne,15,W,19,,,,,,,,,,,,,,,,,,,,,,,,1928-06-07
+Richmond,1928,24,Footscray,16,W,19,,,,,,,,,,,,,,,,,,,,,,,,1928-06-14
+Richmond,1928,25,Essendon,17,W,19,,,,,,,,,,,,,,,,,,,,,,,,1928-06-21
+Richmond,1928,26,Geelong,18,W,19,,,,,,,,,,,,,,,,,,,,,,,,1928-06-28
+Richmond,1929,27,Collingwood,1,L,4,,,,,,,,,,,,,,,,,,,,,,,,1929-03-01
+Richmond,1929,28,Geelong,7,W,4,,,,,,,,,,,,,,,,,,,,,,,,1929-04-12
+Hawthorn,1930,29,St Kilda,1,W,33,,,,,,,,,,,,,,,,,,,,,,,,1930-03-01
+Hawthorn,1930,30,Collingwood,2,L,33,,,,,,,,,,,,,,,,,,,,,,,,1930-03-08
+Hawthorn,1930,31,Carlton,3,L,33,,,,,,,,,,,,,,,,,,,,,,,,1930-03-15
+Hawthorn,1930,32,Essendon,4,L,33,,,,,,,,,,,,,,,,,,,,,,,,1930-03-22
+Hawthorn,1930,33,Richmond,5,L,33,,,,,,,,,,,,,,,,,,,,,,,,1930-03-29
+Hawthorn,1930,34,North Melbourne,10,W,33,,,,,,,,,,,,,,,,,,,,,,,,1930-05-03
+Hawthorn,1930,35,Melbourne,11,L,33,,,,,,,,,,,,,,,,,,,,,,,,1930-05-10
+Hawthorn,1930,36,Fitzroy,16,L,33,,,,,,,,,,,,,,,,,,,,,,,,1930-06-14
+Hawthorn,1930,37,North Melbourne,17,W,33,,,,,,,,,,,,,,,,,,,,,,,,1930-06-21
+Hawthorn,1930,38,Melbourne,18,W,33,,,,,,,,,,,,,,,,,,,,,,,,1930-06-28

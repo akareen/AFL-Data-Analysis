@@ -1,0 +1,50 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1939,1,Collingwood,7,L,10,,,,,,,,,,,,,,,,,,,,,,,,1939-04-12
+Richmond,1939,2,Geelong,9,W,10,,,,,,,,,,,,,,,,,,,,,,,,1939-04-26
+Richmond,1939,3,St Kilda,11,L,10,,,,,,,,,,,,,,,,,,,,,,,,1939-05-10
+Richmond,1939,4,Melbourne,12,L,10,,,,,,,,,,,,,,,,,,,,,,,,1939-05-17
+Richmond,1939,5,Footscray,13,W,10,,,,,,,,,,,,,,,,,,,,,,,,1939-05-24
+Richmond,1939,6,Essendon,14,W,10,,,,,,,,,,,,,,,,,,,,,,,,1939-05-31
+Richmond,1939,7,South Melbourne,15,W,10,,,,,,,,,,,,,,,,,,,,,,,,1939-06-07
+Richmond,1939,8,North Melbourne,16,W,10,,,,,,,,,,,,,,,,,,,,,,,,1939-06-14
+Richmond,1939,9,Carlton,17,W,10,,,,,,,,,,,,,,,,,,,,,,,,1939-06-21
+Richmond,1939,10,Collingwood,18,L,10,,,,,,,,,,,,,,,,,,,,,,,,1939-06-28
+Richmond,1939,11,St Kilda,SF,L,10,,,,,1,,,,,,,,,,,,,,,,,,,1939-03-01
+Richmond,1940,12,Footscray,1,L,10,,,,,,,,,,,,,,,,,,,,,,,,1940-03-01
+Richmond,1940,13,Melbourne,2,L,10,,,,,,,,,,,,,,,,,,,,,,,,1940-03-08
+Richmond,1940,14,Hawthorn,3,W,10,,,,,,,,,,,,,,,,,,,,,,,,1940-03-15
+Richmond,1940,15,Geelong,4,W,10,,,,,,,,,,,,,,,,,,,,,,,,1940-03-22
+Richmond,1940,16,Fitzroy,5,W,10,,,,,,,,,,,,,,,,,,,,,,,,1940-03-29
+Richmond,1940,17,St Kilda,6,W,10,,,,,,,,,,,,,,,,,,,,,,,,1940-04-05
+Richmond,1940,18,South Melbourne,7,W,10,,,,,,,,,,,,,,,,,,,,,,,,1940-04-12
+Richmond,1940,19,Collingwood,8,W,10,,,,,,,,,,,,,,,,,,,,,,,,1940-04-19
+Richmond,1940,20,Essendon,9,L,10,,,,,,,,,,,,,,,,,,,,,,,,1940-04-26
+Richmond,1940,21,North Melbourne,10,W,10,,,,,,,,,,,,,,,,,,,,,,,,1940-05-03
+Richmond,1940,22,Carlton,11,L,10,,,,,,,,,,,,,,,,,,,,,,,,1940-05-10
+Richmond,1940,23,Melbourne,13,L,10,,,,,,,,,,,,,,,,,,,,,,,,1940-05-24
+Richmond,1940,24,Hawthorn,14,L,10,,,,,,,,,,,,,,,,,,,,,,,,1940-05-31
+Richmond,1940,25,Geelong,15,W,10,,,,,,,,,,,,,,,,,,,,,,,,1940-06-07
+Richmond,1940,26,Fitzroy,16,W,10,,,,,,,,,,,,,,,,,,,,,,,,1940-06-14
+Richmond,1940,27,St Kilda,17,W,10,,,,,,,,,,,,,,,,,,,,,,,,1940-06-21
+Richmond,1940,28,South Melbourne,18,W,10,,,,,,,,,,,,,,,,,,,,,,,,1940-06-28
+Richmond,1940,29,Melbourne,SF,W,10,,,,,1,,,,,,,,,,,,,,,,,,,1940-03-01
+Richmond,1940,30,Melbourne,GF,L,10,,,,,,,,,,,,,,,,,,,,,,,,1940-03-01
+Richmond,1941,31,Collingwood,1,W,10,,,,,,,,,,,,,,,,,,,,,,,,1941-03-01
+Richmond,1941,32,Carlton,2,W,10,,,,,,,,,,,,,,,,,,,,,,,,1941-03-08
+Richmond,1941,33,North Melbourne,3,W,10,,,,,,,,,,,,,,,,,,,,,,,,1941-03-15
+Richmond,1941,34,Essendon,4,L,10,,,,,,,,,,,,,,,,,,,,,,,,1941-03-22
+Richmond,1941,35,Fitzroy,5,W,10,,,,,1,,,,,,,,,,,,,,,,,,,1941-03-29
+Richmond,1941,36,Hawthorn,6,W,10,,,,,,,,,,,,,,,,,,,,,,,,1941-04-05
+Richmond,1941,37,Geelong,7,W,10,,,,,,,,,,,,,,,,,,,,,,,,1941-04-12
+Richmond,1941,38,St Kilda,8,W,10,,,,,,,,,,,,,,,,,,,,,,,,1941-04-19
+Richmond,1941,39,South Melbourne,9,W,10,,,,,,,,,,,,,,,,,,,,,,,,1941-04-26
+Richmond,1941,40,Footscray,10,W,10,,,,,,,,,,,,,,,,,,,,,,,,1941-05-03
+Richmond,1941,41,Melbourne,11,L,10,,,,,,,,,,,,,,,,,,,,,,,,1941-05-10
+Richmond,1941,42,Collingwood,12,L,10,,,,,1,,,,,,,,,,,,,,,,,,,1941-05-17
+Richmond,1941,43,Carlton,13,W,10,,,,,1,,,,,,,,,,,,,,,,,,,1941-05-24
+Richmond,1941,44,North Melbourne,14,W,10,,,,,3,,,,,,,,,,,,,,,,,,,1941-05-31
+Richmond,1941,45,Essendon,15,W,10,,,,,,,,,,,,,,,,,,,,,,,,1941-06-07
+Richmond,1941,46,Fitzroy,16,L,10,,,,,,,,,,,,,,,,,,,,,,,,1941-06-14
+Richmond,1941,47,Hawthorn,17,W,10,,,,,,,,,,,,,,,,,,,,,,,,1941-06-21
+Richmond,1941,48,Geelong,18,W,10,,,,,,,,,,,,,,,,,,,,,,,,1941-06-28
+Richmond,1943,49,Collingwood,2,W,10,,,,,,,,,,,,,,,,,,,,,,,,1943-03-08

@@ -1,0 +1,17 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1929,1,Essendon,18,W,,,,,,3,,,,,,,,,,,,,,,,,,,1929-06-28
+Fitzroy,1930,2,Footscray,1,W,30,,,,,1,,,,,,,,,,,,,,,,,,,1930-03-01
+Fitzroy,1930,3,Hawthorn,9,W,30,,,,,4,,,,,,,,,,,,,,,,,,,1930-04-26
+Fitzroy,1930,4,South Melbourne,10,L,30,,,,,3,,,,,,,,,,,,,,,,,,,1930-05-03
+Fitzroy,1930,5,Geelong,11,L,30,,,,,1,,,,,,,,,,,,,,,,,,,1930-05-10
+Fitzroy,1930,6,Collingwood,12,L,30,,,,,2,,,,,,,,,,,,,,,,,,,1930-05-17
+Fitzroy,1930,7,Essendon,14,L,30,,,,,2,,,,,,,,,,,,,,,,,,,1930-05-31
+North Melbourne,1931,8,South Melbourne,1,L,28,,,,,4,,,,,,,,,,,,,,,,,,,1931-03-01
+North Melbourne,1931,9,Richmond,2,L,28,,,,,2,,,,,,,,,,,,,,,,,,,1931-03-08
+North Melbourne,1931,10,Fitzroy,3,L,28,,,,,2,,,,,,,,,,,,,,,,,,,1931-03-15
+North Melbourne,1931,11,Essendon,4,L,28,,,,,1,,,,,,,,,,,,,,,,,,,1931-03-22
+North Melbourne,1931,12,Footscray,7,L,28,,,,,,,,,,,,,,,,,,,,,,,,1931-04-12
+North Melbourne,1931,13,Essendon,15,L,28,,,,,1,,,,,,,,,,,,,,,,,,,1931-06-07
+North Melbourne,1931,14,St Kilda,16,L,28,,,,,2,,,,,,,,,,,,,,,,,,,1931-06-14
+North Melbourne,1931,15,Melbourne,17,L,28,,,,,1,,,,,,,,,,,,,,,,,,,1931-06-21
+North Melbourne,1931,16,Footscray,18,L,28,,,,,,,,,,,,,,,,,,,,,,,,1931-06-28

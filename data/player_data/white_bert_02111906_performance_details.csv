@@ -1,0 +1,15 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1927,1,North Melbourne,1,L,33,,,,,1,,,,,,,,,,,,,,,,,,,1927-03-01
+Fitzroy,1927,2,Collingwood,5,L,33,,,,,,,,,,,,,,,,,,,,,,,,1927-03-29
+Fitzroy,1927,3,Footscray,6,L,33,,,,,,,,,,,,,,,,,,,,,,,,1927-04-05
+Fitzroy,1927,4,Hawthorn,7,W,33,,,,,,,,,,,,,,,,,,,,,,,,1927-04-12
+Fitzroy,1927,5,South Melbourne,8,W,33,,,,,,,,,,,,,,,,,,,,,,,,1927-04-19
+Fitzroy,1927,6,Geelong,9,L,33,,,,,2,,,,,,,,,,,,,,,,,,,1927-04-26
+Fitzroy,1927,7,Essendon,10,D,33,,,,,,,,,,,,,,,,,,,,,,,,1927-05-03
+Fitzroy,1927,8,Richmond,11,L,33,,,,,,,,,,,,,,,,,,,,,,,,1927-05-10
+Fitzroy,1927,9,North Melbourne,12,W,33,,,,,1,,,,,,,,,,,,,,,,,,,1927-05-17
+Fitzroy,1927,10,Melbourne,14,W,33,,,,,1,,,,,,,,,,,,,,,,,,,1927-05-31
+Fitzroy,1927,11,St Kilda,15,L,33,,,,,2,,,,,,,,,,,,,,,,,,,1927-06-07
+Fitzroy,1927,12,Collingwood,16,W,33,,,,,1,,,,,,,,,,,,,,,,,,,1927-06-14
+Fitzroy,1927,13,Footscray,17,L,33,,,,,,,,,,,,,,,,,,,,,,,,1927-06-21
+Fitzroy,1927,14,Essendon,18,L,33,,,,,,,,,,,,,,,,,,,,,,,,1927-06-28

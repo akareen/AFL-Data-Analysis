@@ -1,0 +1,30 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1989,1,Hawthorn,1,W,32,6,1,4,10,1,2,,1,,,,,2,2,,,,,,,,,,1989-03-01
+Collingwood,1989,2,Fitzroy,2,L,32,18,6,2,20,1,1,,,,,,,1,2,,,,,,,,,,1989-03-08
+Collingwood,1989,3,Brisbane Bears,3,W,32,5,,,5,,,,,,,,,,,,,,,,,,,,1989-03-15
+Collingwood,1989,4,St Kilda,4,W,32,4,,2,6,,1,,,,,,,,1,,,,,,,,,,1989-03-22
+Collingwood,1989,5,Melbourne,6,W,32,6,,3,9,4,1,,2,,,,,,,,,,,,,,,,1989-04-05
+Collingwood,1989,6,Footscray,7,W,32,14,2,2,16,2,,,2,,,,,1,1,,,,,,,,,,1989-04-12
+Collingwood,1989,7,Carlton,8,W,32,5,2,2,7,1,,,1,,,,,1,1,,,,,,,,,,1989-04-19
+Collingwood,1989,8,Essendon,9,L,32,11,,2,13,1,2,,,,,,,2,2,,,,,,,,,,1989-04-26
+Collingwood,1989,9,Geelong,10,L,32,7,,3,10,,1,,,,,,,1,2,,,,,,,,,,1989-05-03
+Collingwood,1989,10,West Coast,11,W,32,12,1,6,18,3,,,,,,,,2,1,,,,,,,,,,1989-05-10
+Collingwood,1989,11,Richmond,12,W,32,14,2,8,22,3,2,,,,,,,1,1,,,,,,,,,,1989-05-17
+Collingwood,1989,12,North Melbourne,13,W,32,6,,,6,1,,,,,,,,2,,,,,,,,,,,1989-05-24
+Collingwood,1989,13,Footscray,14,L,32,8,1,4,12,2,,,2,,,,,1,4,,,,,,,,,,1989-05-31
+Collingwood,1989,14,Carlton,15,L,32,11,3,3,14,3,3,,2,,,,,1,2,,,,,,,,,,1989-06-07
+Collingwood,1989,15,Hawthorn,16,L,32,14,3,6,20,1,1,,1,,,,,4,1,,,,,,,,,,1989-06-14
+Collingwood,1989,16,Geelong,17,W,32,12,2,6,18,2,2,,6,,,,,2,,,,,,,,,,,1989-06-21
+Collingwood,1989,17,Sydney,18,L,32,5,3,3,8,,,,2,,,,,1,1,,,,,,,,,,1989-06-28
+Collingwood,1989,18,North Melbourne,19,L,32,5,1,1,6,,,,2,,,,,,1,,,,,,,,,,1989-07-05
+Collingwood,1990,19,West Coast,1,L,32,3,1,2,5,,1,,,,,,,,2,,,,,,,,,,1990-03-01
+Collingwood,1990,20,Carlton,2,W,32,6,1,2,8,1,,,,,,,,,,,,,,,,,,,1990-03-08
+Collingwood,1990,21,Sydney,3,W,32,1,,,1,,,,1,,,,,,,,,,,,,,,,1990-03-15
+Collingwood,1990,22,Carlton,15,W,32,3,1,1,4,,,,1,,,,,2,,,,,,,,,,,1990-06-07
+Collingwood,1991,23,Footscray,1,W,32,7,,5,12,1,,,1,,,,,1,1,,,,,,,,,,1991-03-01
+Collingwood,1991,24,Geelong,9,L,32,3,,5,8,1,2,,,,,,,,1,,,,,,,,,,1991-04-26
+Brisbane Bears,1992,25,Carlton,1,L,31,14,2,4,18,1,,,1,,,,,1,2,,,,,,,,,,1992-03-01
+Brisbane Bears,1992,26,Collingwood,2,L,31,11,12,8,19,,,,2,,,,,1,,,,,,,,,,,1992-03-08
+Brisbane Bears,1992,27,Fitzroy,3,W,31,2,1,5,7,,,,1,,,,,,,,,,,,,,,,1992-03-15
+Brisbane Bears,1993,28,St Kilda,11,L,30,14,,1,15,1,1,,,,,,,3,2,,,,,,,,,,1993-05-10
+Brisbane Bears,1993,29,Collingwood,12,L,30,13,2,3,16,,,,3,,,,,,1,,,,,,,,,,1993-05-17

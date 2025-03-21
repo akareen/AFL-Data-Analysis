@@ -1,0 +1,14 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1947,1,Collingwood,10,L,3,,,,,,,,,,,,,,,,,,,,,,,,1947-05-03
+St Kilda,1947,2,Richmond,11,L,3,,,,,,,,,,,,,,,,,,,,,,,,1947-05-10
+St Kilda,1947,3,Footscray,12,D,3,,,,,,,,,,,,,,,,,,,,,,,,1947-05-17
+St Kilda,1947,4,North Melbourne,13,L,3,,,,,,,,,,,,,,,,,,,,,,,,1947-05-24
+St Kilda,1947,5,Essendon,14,L,3,,,,,,,,,,,,,,,,,,,,,,,,1947-05-31
+St Kilda,1947,6,Hawthorn,15,L,3,,,,,,,,,,,,,,,,,,,,,,,,1947-06-07
+St Kilda,1948,7,Melbourne,13,L,29,,,,,,,,,,,,,,,,,,,,,,,,1948-05-24
+St Kilda,1948,8,Richmond,14,L,29,,,,,,,,,,,,,,,,,,,,,,,,1948-05-31
+St Kilda,1948,9,Collingwood,18,L,29,,,,,,,,,,,,,,,,,,,,,,,,1948-06-28
+St Kilda,1949,10,Richmond,4,L,35,,,,,,,,,,,,,,,,,,,,,,,,1949-03-22
+St Kilda,1949,11,Melbourne,6,L,35,,,,,,,,,,,,,,,,,,,,,,,,1949-04-05
+St Kilda,1949,12,Collingwood,8,L,35,,,,,,,,,,,,,,,,,,,,,,,,1949-04-19
+St Kilda,1949,13,North Melbourne,9,L,35,,,,,,,,,,,,,,,,,,,,,,,,1949-04-26

@@ -1,0 +1,22 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1961,1,Essendon,7,W,37,,,,,3,,,,,,,,,,,,,,,,,,,1961-04-12
+Collingwood,1961,2,Melbourne,8,L,37,,,,,1,,,,,,,,,,,,,,,,,,,1961-04-19
+Collingwood,1961,3,St Kilda,9,W,37,,,,,3,,,,,,,,,,,,,,,,,,,1961-04-26
+Collingwood,1961,4,South Melbourne,10,W,37,,,,,1,,,,,,,,,,,,,,,,,,,1961-05-03
+Collingwood,1961,5,Hawthorn,11,L,37,,,,,,,,,,,,,,,,,,,,,,,,1961-05-10
+Collingwood,1961,6,Geelong,12,L,37,,,,,,,,,,,,,,,,,,,,,,,,1961-05-17
+Collingwood,1961,7,Richmond,13,W,37,,,,,,,,,,,,,,,,,,,,,,,,1961-05-24
+Collingwood,1961,8,North Melbourne,14,L,37,,,,,,,,,,,,,,,,,,,,,,,,1961-05-31
+Collingwood,1962,9,St Kilda,1,L,14,,,,,,,,,,,,,,,,,,,,,,,,1962-03-01
+Collingwood,1962,10,Hawthorn,2,L,14,,,,,,,,,,,,,,,,,,,,,,,,1962-03-08
+Collingwood,1962,11,Melbourne,4,L,14,,,,,,,,,,,,,,,,,,,,,,,,1962-03-22
+Collingwood,1962,12,North Melbourne,8,W,14,,,,,3,,,,,,,,,,,,,,,,,,,1962-04-19
+Collingwood,1962,13,Fitzroy,9,W,14,,,,,,,,,,,,,,,,,,,,,,,,1962-04-26
+Collingwood,1962,14,Richmond,10,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1962-05-03
+Collingwood,1962,15,Carlton,17,L,14,,,,,1,,,,,,,,,,,,,,,,,,,1962-06-21
+Collingwood,1962,16,Footscray,18,W,14,,,,,,,,,,,,,,,,,,,,,,,,1962-06-28
+Collingwood,1963,17,Richmond,1,W,14,,,,,,,,,,,,,,,,,,,,,,,,1963-03-01
+Collingwood,1963,18,North Melbourne,2,L,14,,,,,,,,,,,,,,,,,,,,,,,,1963-03-08
+Collingwood,1963,19,South Melbourne,10,W,14,,,,,,,,,,,,,,,,,,,,,,,,1963-05-03
+Collingwood,1963,20,St Kilda,15,L,14,,,,,,,,,,,,,,,,,,,,,,,,1963-06-07
+Collingwood,1963,21,Fitzroy,17,W,14,,,,,2,,,,,,,,,,,,,,,,,,,1963-06-21

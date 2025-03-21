@@ -1,0 +1,28 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1954,1,Melbourne,2,L,38,,,,,,,,,,,,,,,,,,,,,,,,1954-03-08
+Carlton,1954,2,South Melbourne,12,W,38,,,,,,,,,,,,,,,,,,,,,,,,1954-05-17
+Carlton,1954,3,Melbourne,13,L,38,,,,,,,,,,,,,,,,,,,,,,,,1954-05-24
+Carlton,1954,4,Richmond,14,W,38,,,,,,,,,,,,,,,,,,,,,,,,1954-05-31
+Carlton,1954,5,Fitzroy,17,W,38,,,,,,,,,,,,,,,,,,,,,,,,1954-06-21
+Carlton,1955,6,North Melbourne,1,W,22,,,,,,,,,,,,,,,,,,,,,,,,1955-03-01
+Carlton,1955,7,Hawthorn,2,L,22,,,,,,,,,,,,,,,,,,,,,,,,1955-03-08
+Carlton,1955,8,St Kilda,15,W,22,,,,,,,,,,,,,,,,,,,,,,,,1955-06-07
+Carlton,1955,9,Collingwood,16,L,22,,,,,1,,,,,,,,,,,,,,,,,,,1955-06-14
+Carlton,1955,10,Geelong,18,W,22,,,,,1,,,,,,,,,,,,,,,,,,,1955-06-28
+Carlton,1956,11,Essendon,1,L,36,,,,,1,,,,,,,,,,,,,,,,,,,1956-03-01
+Carlton,1956,12,St Kilda,3,W,36,,,,,,,,,,,,,,,,,,,,,,,,1956-03-15
+Carlton,1956,13,Richmond,6,W,36,,,,,,,,,,,,,,,,,,,,,,,,1956-04-05
+Carlton,1956,14,Footscray,7,W,36,,,,,,,,,,,,,,,,,,,,,,,,1956-04-12
+Richmond,1956,15,Hawthorn,13,W,36,,,,,,,,,,,,,,,,,,,,,,,,1956-05-24
+Richmond,1956,16,Collingwood,14,L,36,,,,,,,,,,,,,,,,,,,,,,,,1956-05-31
+Richmond,1956,17,Geelong,15,L,36,,,,,,,,,,,,,,,,,,,,,,,,1956-06-07
+Richmond,1956,18,Essendon,16,W,36,,,,,,,,,,,,,,,,,,,,,,,,1956-06-14
+Richmond,1956,19,Carlton,17,W,36,,,,,,,,,,,,,,,,,,,,,,,,1956-06-21
+Richmond,1956,20,St Kilda,18,L,36,,,,,,,,,,,,,,,,,,,,,,,,1956-06-28
+Richmond,1957,21,North Melbourne,1,W,36,,,,,,,,,,,,,,,,,,,,,,,,1957-03-01
+Richmond,1957,22,Hawthorn,2,L,36,,,,,,,,,,,,,,,,,,,,,,,,1957-03-08
+Richmond,1957,23,Melbourne,7,W,36,,,,,,,,,,,,,,,,,,,,,,,,1957-04-12
+Richmond,1957,24,St Kilda,8,W,36,,,,,,,,,,,,,,,,,,,,,,,,1957-04-19
+Richmond,1957,25,Collingwood,9,W,36,,,,,,,,,,,,,,,,,,,,,,,,1957-04-26
+Richmond,1957,26,Essendon,10,W,36,,,,,,,,,,,,,,,,,,,,,,,,1957-05-03
+Richmond,1957,27,Geelong,11,W,36,,,,,,,,,,,,,,,,,,,,,,,,1957-05-10

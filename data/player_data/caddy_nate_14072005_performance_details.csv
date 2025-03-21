@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,2024,1,Richmond,12,W,30,6,2,4,10,,2,,3,,3,,2,3,1,,7,2,1,,1,,,75,2024-05-17
+Essendon,2024,2↓,West Coast,16,W,30,5,2,6,11,2,1,,,,1,,2,,,,4,7,1,1,,,,66,2024-06-14
+Essendon,2024,3↓,Collingwood,18,W,30,9,6,3,12,1,3,,2,,4,,1,1,,,4,8,1,3,1,,1,77,2024-06-28
+Essendon,2024,4,Melbourne,19,L,30,9,5,1,10,,1,,1,,3,,3,,1,,2,6,,2,,,,79,2024-07-05
+Essendon,2024,5,Adelaide,20,L,30,9,3,2,11,2,1,,2,,3,,3,2,,,7,4,2,1,2,1,1,79,2024-07-12
+Essendon,2024,6,St Kilda,21,L,30,5,3,4,9,,,,1,1,2,,1,,,,3,4,,,1,,1,80,2024-07-19
+Essendon,2024,7,Fremantle,22,W,30,7,5,2,9,1,1,,1,,3,,,,,,2,7,1,1,1,1,2,74,2024-07-26
+Essendon,2024,8,Gold Coast,23,L,30,9,6,6,15,3,1,,2,,4,,2,2,,,7,8,1,1,,1,,75,2024-08-02
+Essendon,2024,9,Sydney,24,L,30,6,4,5,11,,1,,,,2,,1,,,,6,5,2,1,,,,78,2024-08-09
+Essendon,2024,10,Brisbane Lions,25,L,30,7,4,4,11,,,,2,,3,,3,1,1,,4,5,1,,,2,,85,2024-08-16
+Essendon,2025,11,Hawthorn,2,L,30,9,5,3,12,,1,,2,,5,1,4,,,,8,3,4,,,,1,85,2025-03-08

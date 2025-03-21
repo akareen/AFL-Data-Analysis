@@ -1,0 +1,21 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1907,1,St Kilda,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-06-21
+Fitzroy,1908,2,Geelong,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-22
+Fitzroy,1908,3,Carlton,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-29
+Fitzroy,1908,4,Essendon,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-04-05
+Fitzroy,1908,5,South Melbourne,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-03
+Fitzroy,1908,6,Collingwood,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-10
+Fitzroy,1908,7,Richmond,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-17
+Fitzroy,1908,8,Carlton,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-31
+Fitzroy,1908,9,Essendon,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-06-07
+Fitzroy,1908,10,University,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-06-14
+Fitzroy,1908,11,St Kilda,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-06-21
+Fitzroy,1908,12,Melbourne,18,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-06-28
+Fitzroy,1909,13,Collingwood,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-01
+Fitzroy,1909,14,Essendon,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-29
+Fitzroy,1909,15,Carlton,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-05
+Fitzroy,1909,16,Geelong,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-05-10
+Fitzroy,1909,17,Carlton,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-07
+Fitzroy,1909,18,St Kilda,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-14
+Fitzroy,1909,19,Melbourne,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-21
+Fitzroy,1909,20,University,18,D,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-28

@@ -1,0 +1,20 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1925,1,Carlton,1,W,6,,,,,,,,,,,,,,,,,,,,,,,,1925-03-01
+South Melbourne,1925,2,Footscray,2,L,6,,,,,,,,,,,,,,,,,,,,,,,,1925-03-08
+South Melbourne,1925,3,North Melbourne,3,W,6,,,,,,,,,,,,,,,,,,,,,,,,1925-03-15
+South Melbourne,1925,4,Richmond,4,L,6,,,,,,,,,,,,,,,,,,,,,,,,1925-03-22
+South Melbourne,1925,5,St Kilda,5,W,6,,,,,,,,,,,,,,,,,,,,,,,,1925-03-29
+South Melbourne,1925,6,Fitzroy,11,L,6,,,,,,,,,,,,,,,,,,,,,,,,1925-05-10
+South Melbourne,1925,7,Carlton,12,W,6,,,,,,,,,,,,,,,,,,,,,,,,1925-05-17
+South Melbourne,1925,8,Footscray,13,W,6,,,,,,,,,,,,,,,,,,,,,,,,1925-05-24
+South Melbourne,1925,9,North Melbourne,14,L,6,,,,,,,,,,,,,,,,,,,,,,,,1925-05-31
+South Melbourne,1925,10,Richmond,15,L,6,,,,,,,,,,,,,,,,,,,,,,,,1925-06-07
+South Melbourne,1925,11,St Kilda,16,L,6,,,,,,,,,,,,,,,,,,,,,,,,1925-06-14
+South Melbourne,1925,12,Collingwood,17,L,6,,,,,,,,,,,,,,,,,,,,,,,,1925-06-21
+Footscray,1926,13,Carlton,7,L,21,,,,,,,,,,,,,,,,,,,,,,,,1926-04-12
+Footscray,1926,14,Collingwood,8,L,21,,,,,,,,,,,,,,,,,,,,,,,,1926-04-19
+Footscray,1926,15,St Kilda,10,W,21,,,,,,,,,,,,,,,,,,,,,,,,1926-05-03
+Footscray,1926,16,North Melbourne,11,W,21,,,,,,,,,,,,,,,,,,,,,,,,1926-05-10
+Footscray,1926,17,Geelong,12,L,21,,,,,,,,,,,,,,,,,,,,,,,,1926-05-17
+Footscray,1926,18,South Melbourne,13,L,21,,,,,,,,,,,,,,,,,,,,,,,,1926-05-24
+Footscray,1926,19,Essendon,15,L,21,,,,,,,,,,,,,,,,,,,,,,,,1926-06-07

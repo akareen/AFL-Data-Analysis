@@ -1,0 +1,45 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1902,1,Melbourne,1,L,,,,,,2,,,,,,,,,,,,,,,,,,,1902-03-01
+St Kilda,1902,2,Fitzroy,2,L,,,,,,1,,,,,,,,,,,,,,,,,,,1902-03-08
+St Kilda,1902,3,Carlton,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-15
+St Kilda,1902,4,Geelong,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-22
+St Kilda,1902,5,Collingwood,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-29
+St Kilda,1902,6,South Melbourne,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-04-05
+St Kilda,1902,7,Essendon,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-04-12
+St Kilda,1902,8,Melbourne,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-04-19
+St Kilda,1902,9,Fitzroy,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-04-26
+St Kilda,1902,10,Carlton,10,L,,,,,,1,,,,,,,,,,,,,,,,,,,1902-05-03
+St Kilda,1902,11,Geelong,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-10
+St Kilda,1902,12,Essendon,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-06-07
+St Kilda,1902,13,Carlton,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-06-14
+St Kilda,1902,14,Melbourne,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-06-21
+St Kilda,1903,15,Geelong,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-01
+St Kilda,1903,16,Essendon,2,D,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-08
+St Kilda,1903,17,Collingwood,3,L,,,,,,1,,,,,,,,,,,,,,,,,,,1903-03-15
+St Kilda,1903,18,Melbourne,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-05
+St Kilda,1903,19,South Melbourne,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-12
+St Kilda,1903,20,Geelong,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-19
+St Kilda,1903,21,Essendon,9,L,,,,,,1,,,,,,,,,,,,,,,,,,,1903-04-26
+St Kilda,1903,22,Collingwood,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-03
+St Kilda,1903,23,Carlton,11,L,,,,,,1,,,,,,,,,,,,,,,,,,,1903-05-10
+St Kilda,1903,24,Melbourne,13,W,,,,,,3,,,,,,,,,,,,,,,,,,,1903-05-24
+St Kilda,1903,25,South Melbourne,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-31
+St Kilda,1903,26,Collingwood,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-07
+St Kilda,1903,27,Melbourne,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-14
+St Kilda,1903,28,Carlton,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-21
+St Kilda,1906,29,Fitzroy,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-01
+St Kilda,1906,30,Carlton,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-08
+St Kilda,1906,31,South Melbourne,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-15
+St Kilda,1906,32,Essendon,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-22
+St Kilda,1906,33,Collingwood,5,L,,,,,,1,,,,,,,,,,,,,,,,,,,1906-03-29
+St Kilda,1906,34,Melbourne,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-05
+St Kilda,1906,35,Geelong,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-12
+St Kilda,1906,36,Fitzroy,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-19
+St Kilda,1906,37,Carlton,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-26
+St Kilda,1906,38,South Melbourne,10,W,,,,,,1,,,,,,,,,,,,,,,,,,,1906-05-03
+St Kilda,1906,39,Essendon,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-10
+St Kilda,1906,40,Collingwood,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-17
+St Kilda,1906,41,Melbourne,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-24
+St Kilda,1906,42,Geelong,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-31
+St Kilda,1906,43,Melbourne,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-06-14
+St Kilda,1906,44,Fitzroy,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-06-21

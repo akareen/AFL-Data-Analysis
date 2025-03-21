@@ -1,0 +1,21 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1909,1,South Melbourne,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-15
+Melbourne,1909,2,University,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-05
+Melbourne,1909,3,Geelong,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-12
+Melbourne,1909,4,Fitzroy,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-19
+Melbourne,1910,5,Geelong,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-01
+Melbourne,1910,6,Richmond,2,L,,,,,,1,,,,,,,,,,,,,,,,,,,1910-03-08
+Melbourne,1910,7,Carlton,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-15
+Melbourne,1910,8,St Kilda,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-22
+Melbourne,1910,9,Fitzroy,8,L,,,,,,2,,,,,,,,,,,,,,,,,,,1910-04-19
+Melbourne,1910,10,University,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-26
+Melbourne,1910,11,Geelong,10,L,,,,,,1,,,,,,,,,,,,,,,,,,,1910-05-03
+Melbourne,1910,12,Richmond,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-10
+Melbourne,1910,13,Carlton,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-17
+Melbourne,1910,14,University,18,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-28
+Richmond,1911,15,Carlton,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-29
+Richmond,1911,16,South Melbourne,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-05
+Richmond,1911,17,Melbourne,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-12
+Richmond,1911,18,Fitzroy,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-26
+Richmond,1911,19,Carlton,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-31
+Richmond,1911,20,Fitzroy,18,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-28

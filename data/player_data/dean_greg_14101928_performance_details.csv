@@ -1,0 +1,8 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1949,1,Collingwood,8,L,32,,,,,,,,,,,,,,,,,,,,,,,,1949-04-19
+St Kilda,1949,2,North Melbourne,9,L,32,,,,,,,,,,,,,,,,,,,,,,,,1949-04-26
+St Kilda,1949,3,Footscray,10,L,32,,,,,,,,,,,,,,,,,,,,,,,,1949-05-03
+St Kilda,1949,4,Fitzroy,12,L,32,,,,,,,,,,,,,,,,,,,,,,,,1949-05-17
+St Kilda,1950,5,Geelong,6,L,23,,,,,,,,,,,,,,,,,,,,,,,,1950-04-05
+St Kilda,1950,6,Melbourne,11,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1950-05-10
+St Kilda,1950,7,Hawthorn,13,W,23,,,,,,,,,,,,,,,,,,,,,,,,1950-05-24

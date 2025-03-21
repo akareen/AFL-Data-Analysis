@@ -1,0 +1,13 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1906,1,Essendon,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-05-24
+Collingwood,1906,2,Fitzroy,16,L,,,,,,2,,,,,,,,,,,,,,,,,,,1906-06-14
+Collingwood,1906,3,Melbourne,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-06-21
+Collingwood,1906,4,Carlton,SF,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-01
+Collingwood,1907,5,St Kilda,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-03-08
+Collingwood,1907,6,South Melbourne,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-03-15
+Collingwood,1907,7,Geelong,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1907-04-12
+Collingwood,1907,8,Geelong,14,W,,,,,,1,,,,,,,,,,,,,,,,,,,1907-05-31
+Collingwood,1907,9,St Kilda,15,L,,,,,,1,,,,,,,,,,,,,,,,,,,1907-06-07
+Collingwood,1907,10,Fitzroy,16,L,,,,,,2,,,,,,,,,,,,,,,,,,,1907-06-14
+Collingwood,1907,11,Geelong,17,L,,,,,,1,,,,,,,,,,,,,,,,,,,1907-06-21
+Collingwood,1907,12,South Melbourne,SF,L,,,,,,,,,,,,,,,,,,,,,,,,,1907-03-01

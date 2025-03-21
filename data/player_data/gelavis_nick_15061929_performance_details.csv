@@ -1,0 +1,20 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1953,1,Collingwood,1,L,6,,,,,,,,,,,,,,,,,,,,,,,,1953-03-01
+South Melbourne,1953,2,Essendon,2,W,6,,,,,3,,,,,,,,,,,,,,,,,,,1953-03-08
+South Melbourne,1953,3,Fitzroy,3,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1953-03-15
+South Melbourne,1953,4,Hawthorn,4,W,6,,,,,2,,,,,,,,,,,,,,,,,,,1953-03-22
+South Melbourne,1953,5,North Melbourne,5,L,6,,,,,,,,,,,,,,,,,,,,,,,,1953-03-29
+South Melbourne,1953,6,Geelong,6,L,6,,,,,2,,,,,,,,,,,,,,,,,,,1953-04-05
+South Melbourne,1953,7,St Kilda,7,W,6,,,,,2,,,,,,,,,,,,,,,,,,,1953-04-12
+South Melbourne,1953,8,Melbourne,8,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1953-04-19
+South Melbourne,1953,9,Footscray,9,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1953-04-26
+South Melbourne,1953,10,Richmond,10,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1953-05-03
+South Melbourne,1953,11,Carlton,11,L,6,,,,,2,,,,,,,,,,,,,,,,,,,1953-05-10
+South Melbourne,1953,12,Collingwood,12,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1953-05-17
+South Melbourne,1953,13,Essendon,13,L,6,,,,,,,,,,,,,,,,,,,,,,,,1953-05-24
+South Melbourne,1953,14,Fitzroy,14,L,6,,,,,,,,,,,,,,,,,,,,,,,,1953-05-31
+South Melbourne,1954,15,Collingwood,5,L,6,,,,,,,,,,,,,,,,,,,,,,,,1954-03-29
+Footscray,1954,16,St Kilda,12,W,6,,,,,,,,,,,,,,,,,,,,,,,,1954-05-17
+Footscray,1954,17,Richmond,13,L,6,,,,,,,,,,,,,,,,,,,,,,,,1954-05-24
+Footscray,1954,18,South Melbourne,14,W,6,,,,,,,,,,,,,,,,,,,,,,,,1954-05-31
+Footscray,1954,19,Hawthorn,18,W,6,,,,,,,,,,,,,,,,,,,,,,,,1954-06-28

@@ -1,0 +1,57 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1909,1,University,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-01
+Carlton,1909,2,South Melbourne,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-08
+Carlton,1909,3,Collingwood,3,W,,,,,,1,,,,,,,,,,,,,,,,,,,1909-03-15
+Carlton,1909,4,Geelong,4,L,,,,,,1,,,,,,,,,,,,,,,,,,,1909-03-22
+Carlton,1909,5,Fitzroy,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-05
+Carlton,1909,6,St Kilda,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-19
+Carlton,1909,7,University,10,W,,,,,,2,,,,,,,,,,,,,,,,,,,1909-05-03
+Carlton,1909,8,Collingwood,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-05-17
+Carlton,1909,9,Richmond,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-14
+Carlton,1910,10,Collingwood,1,W,,,,,,1,,,,,,,,,,,,,,,,,,,1910-03-01
+Carlton,1910,11,Melbourne,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-15
+Carlton,1910,12,South Melbourne,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-22
+Carlton,1910,13,Fitzroy,5,W,,,,,,1,,,,,,,,,,,,,,,,,,,1910-03-29
+Carlton,1910,14,University,6,W,,,,,,2,,,,,,,,,,,,,,,,,,,1910-04-05
+Carlton,1910,15,Essendon,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-12
+Carlton,1910,16,Richmond,8,W,,,,,,1,,,,,,,,,,,,,,,,,,,1910-04-19
+Carlton,1910,17,St Kilda,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-26
+Carlton,1910,18,Collingwood,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-03
+Carlton,1910,19,Geelong,11,W,,,,,,3,,,,,,,,,,,,,,,,,,,1910-05-10
+Carlton,1910,20,Melbourne,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-17
+Carlton,1910,21,University,15,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-07
+Carlton,1910,22,Essendon,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-14
+Carlton,1910,23,Richmond,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-21
+Carlton,1911,24,Essendon,1,D,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-01
+Carlton,1911,25,South Melbourne,2,D,,,,,,1,,,,,,,,,,,,,,,,,,,1911-03-08
+Carlton,1911,26,Fitzroy,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-15
+Carlton,1911,27,University,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-22
+Carlton,1911,28,Richmond,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-29
+Carlton,1911,29,St Kilda,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-05
+Carlton,1911,30,Geelong,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-12
+Carlton,1911,31,Collingwood,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-19
+Carlton,1911,32,Melbourne,9,W,,,,,,1,,,,,,,,,,,,,,,,,,,1911-04-26
+Carlton,1911,33,Essendon,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-03
+Carlton,1911,34,South Melbourne,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-10
+Carlton,1911,35,Fitzroy,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-17
+Carlton,1911,36,Richmond,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-31
+Carlton,1911,37,Geelong,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-14
+Carlton,1911,38,Collingwood,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-21
+Carlton,1911,39,Melbourne,18,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-28
+Carlton,1912,40,Geelong,1,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1912-03-01
+Carlton,1912,41,Fitzroy,2,W,1,,,,,2,,,,,,,,,,,,,,,,,,,1912-03-08
+Carlton,1912,42,Fitzroy,11,W,1,,,,,,,,,,,,,,,,,,,,,,,,1912-05-10
+Carlton,1912,43,Richmond,16,W,1,,,,,2,,,,,,,,,,,,,,,,,,,1912-06-14
+Carlton,1912,44,South Melbourne,17,W,1,,,,,,,,,,,,,,,,,,,,,,,,1912-06-21
+Carlton,1912,45,University,18,W,1,,,,,,,,,,,,,,,,,,,,,,,,1912-06-28
+Carlton,1912,46,Geelong,SF,W,1,,,,,,,,,,,,,,,,,,,,,,,,1912-03-01
+Carlton,1912,47,Essendon,PF,L,1,,,,,,,,,,,,,,,,,,,,,,,,1912-03-01
+Carlton,1913,48,Melbourne,3,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1913-03-15
+Carlton,1913,49,Collingwood,4,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1913-03-22
+Carlton,1913,50,University,5,W,23,,,,,,,,,,,,,,,,,,,,,,,,1913-03-29
+Carlton,1913,51,St Kilda,6,W,23,,,,,,,,,,,,,,,,,,,,,,,,1913-04-05
+Carlton,1913,52,Richmond,7,W,23,,,,,,,,,,,,,,,,,,,,,,,,1913-04-12
+Carlton,1913,53,Geelong,8,W,23,,,,,,,,,,,,,,,,,,,,,,,,1913-04-19
+Carlton,1913,54,Fitzroy,9,L,23,,,,,2,,,,,,,,,,,,,,,,,,,1913-04-26
+Carlton,1913,55,Essendon,10,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1913-05-03
+Carlton,1915,56,Fitzroy,1,D,23,,,,,,,,,,,,,,,,,,,,,,,,1915-03-01

@@ -1,0 +1,6 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1980,1,Fitzroy,17,W,36,6,1,2,8,,1,,,,,,,1,1,,,,,,,,,,1980-06-21
+Essendon,1982,2,North Melbourne,4,L,41,,,,,,,,,,,,,,,,,,,,,,,,1982-03-22
+Essendon,1983,3,Fitzroy,3,L,41,8,,2,10,1,,,,,,,,2,1,,,,,,,,,,1983-03-15
+Essendon,1983,4,North Melbourne,5,W,41,3,2,,3,,1,,,,,,,,,,,,,,,,,,1983-03-29
+Sydney,1984,5,Geelong,9,W,48,4,2,2,6,1,2,,,,,,,1,,,,,,,,,,,1984-04-26

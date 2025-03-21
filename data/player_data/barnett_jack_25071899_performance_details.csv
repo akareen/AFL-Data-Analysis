@@ -1,0 +1,14 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1924,1,St Kilda,15,W,12,,,,,1,,,,,,,,,,,,,,,,,,,1924-06-07
+Richmond,1924,2,Melbourne,16,W,12,,,,,2,,,,,,,,,,,,,,,,,,,1924-06-14
+Richmond,1924,3,Collingwood,17,W,12,,,,,2,,,,,,,,,,,,,,,,,,,1924-06-21
+Richmond,1924,4,Carlton,18,W,12,,,,,,,,,,,,,,,,,,,,,,,,1924-06-28
+Richmond,1924,5,South Melbourne,SF,W,12,,,,,1,,,,,,,,,,,,,,,,,,,1924-03-01
+Richmond,1924,6,Fitzroy,SF,L,12,,,,,,,,,,,,,,,,,,,,,,,,1924-03-01
+Richmond,1924,7,Essendon,SF,W,12,,,,,1,,,,,,,,,,,,,,,,,,,1924-03-01
+Richmond,1925,8,Hawthorn,1,W,12,,,,,1,,,,,,,,,,,,,,,,,,,1925-03-01
+Richmond,1925,9,Fitzroy,3,L,12,,,,,1,,,,,,,,,,,,,,,,,,,1925-03-15
+Richmond,1925,10,Footscray,8,L,12,,,,,1,,,,,,,,,,,,,,,,,,,1925-04-19
+Richmond,1926,11,St Kilda,8,W,2,,,,,1,,,,,,,,,,,,,,,,,,,1926-04-19
+Richmond,1926,12,Footscray,9,W,2,,,,,,,,,,,,,,,,,,,,,,,,1926-04-26
+Richmond,1926,13,Carlton,10,W,2,,,,,,,,,,,,,,,,,,,,,,,,1926-05-03

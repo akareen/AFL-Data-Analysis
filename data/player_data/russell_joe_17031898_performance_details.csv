@@ -1,0 +1,17 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1922,1,Essendon,10,W,2,,,,,1,,,,,,,,,,,,,,,,,,,1922-05-03
+Carlton,1922,2,Fitzroy,11,L,2,,,,,,,,,,,,,,,,,,,,,,,,1922-05-10
+Carlton,1922,3,Collingwood,12,W,2,,,,,,,,,,,,,,,,,,,,,,,,1922-05-17
+Carlton,1922,4,Melbourne,13,L,2,,,,,1,,,,,,,,,,,,,,,,,,,1922-05-24
+Carlton,1922,5,South Melbourne,14,W,2,,,,,,,,,,,,,,,,,,,,,,,,1922-05-31
+Carlton,1922,6,St Kilda,15,W,2,,,,,,,,,,,,,,,,,,,,,,,,1922-06-07
+Carlton,1922,7,Richmond,17,W,2,,,,,,,,,,,,,,,,,,,,,,,,1922-06-21
+Carlton,1922,8,Essendon,SF,L,2,,,,,,,,,,,,,,,,,,,,,,,,1922-03-01
+Carlton,1923,9,Fitzroy,1,L,2,,,,,,,,,,,,,,,,,,,,,,,,1923-03-01
+Carlton,1923,10,Richmond,3,W,2,,,,,,,,,,,,,,,,,,,,,,,,1923-03-15
+Carlton,1923,11,Essendon,4,L,2,,,,,,,,,,,,,,,,,,,,,,,,1923-03-22
+Carlton,1923,12,South Melbourne,6,L,2,,,,,,,,,,,,,,,,,,,,,,,,1923-04-05
+Carlton,1923,13,Collingwood,7,L,2,,,,,,,,,,,,,,,,,,,,,,,,1923-04-12
+Carlton,1923,14,St Kilda,11,L,2,,,,,,,,,,,,,,,,,,,,,,,,1923-05-10
+Carlton,1923,15,Richmond,12,W,2,,,,,,,,,,,,,,,,,,,,,,,,1923-05-17
+Carlton,1925,16,Essendon,2,L,13,,,,,,,,,,,,,,,,,,,,,,,,1925-03-08

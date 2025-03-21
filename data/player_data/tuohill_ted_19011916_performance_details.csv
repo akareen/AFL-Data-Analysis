@@ -1,0 +1,27 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1938,1,Collingwood,PF,L,5,,,,,,,,,,,,,,,,,,,,,,,,1938-03-01
+Geelong,1939,2,Collingwood,1,L,5,,,,,1,,,,,,,,,,,,,,,,,,,1939-03-01
+Geelong,1939,3,Carlton,2,W,5,,,,,,,,,,,,,,,,,,,,,,,,1939-03-08
+Geelong,1939,4,Hawthorn,3,L,5,,,,,,,,,,,,,,,,,,,,,,,,1939-03-15
+Geelong,1939,5,Essendon,4,W,5,,,,,1,,,,,,,,,,,,,,,,,,,1939-03-22
+Geelong,1939,6,Melbourne,5,L,5,,,,,2,,,,,,,,,,,,,,,,,,,1939-03-29
+Geelong,1939,7,St Kilda,6,L,5,,,,,1,,,,,,,,,,,,,,,,,,,1939-04-05
+Geelong,1939,8,North Melbourne,7,W,5,,,,,4,,,,,,,,,,,,,,,,,,,1939-04-12
+Geelong,1939,9,Fitzroy,8,W,5,,,,,1,,,,,,,,,,,,,,,,,,,1939-04-19
+Geelong,1939,10,Richmond,9,L,5,,,,,,,,,,,,,,,,,,,,,,,,1939-04-26
+Geelong,1940,11,Collingwood,2,W,5,,,,,,,,,,,,,,,,,,,,,,,,1940-03-08
+Carlton,1943,12,Footscray,2,W,5,,,,,,,,,,,,,,,,,,,,,,,,1943-03-08
+Carlton,1943,13,Collingwood,4,L,5,,,,,,,,,,,,,,,,,,,,,,,,1943-03-22
+Carlton,1943,14,St Kilda,5,L,5,,,,,,,,,,,,,,,,,,,,,,,,1943-03-29
+Carlton,1943,15,South Melbourne,9,W,5,,,,,1,,,,,,,,,,,,,,,,,,,1943-04-26
+Carlton,1943,16,Hawthorn,10,W,5,,,,,,,,,,,,,,,,,,,,,,,,1943-05-03
+Carlton,1943,17,North Melbourne,11,L,5,,,,,,,,,,,,,,,,,,,,,,,,1943-05-10
+Carlton,1943,18,Collingwood,12,W,5,,,,,,,,,,,,,,,,,,,,,,,,1943-05-17
+Carlton,1943,19,Hawthorn,13,W,5,,,,,2,,,,,,,,,,,,,,,,,,,1943-05-24
+Carlton,1943,20,Essendon,14,W,5,,,,,,,,,,,,,,,,,,,,,,,,1943-05-31
+Carlton,1943,21,North Melbourne,15,W,5,,,,,,,,,,,,,,,,,,,,,,,,1943-06-07
+Carlton,1943,22,Fitzroy,SF,L,5,,,,,,,,,,,,,,,,,,,,,,,,1943-03-01
+Carlton,1944,23,South Melbourne,1,L,5,,,,,2,,,,,,,,,,,,,,,,,,,1944-03-01
+Carlton,1944,24,Hawthorn,2,W,5,,,,,,,,,,,,,,,,,,,,,,,,1944-03-08
+Carlton,1944,25,Melbourne,3,W,5,,,,,1,,,,,,,,,,,,,,,,,,,1944-03-15
+Carlton,1944,26,Essendon,4,W,5,,,,,,,,,,,,,,,,,,,,,,,,1944-03-22

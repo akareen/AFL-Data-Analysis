@@ -1,0 +1,21 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,2023,1,Hawthorn,1,W,33,7,5,2,9,1,,,3,,5,,3,,,,4,6,,2,1,2,1,78,2023-03-01
+Essendon,2023,2,Gold Coast,2,W,33,5,1,5,10,1,,,3,,2,,2,1,,,5,3,,,,1,,78,2023-03-08
+Essendon,2023,3,St Kilda,3,L,33,7,4,5,12,,,,3,1,4,2,1,1,,,7,6,1,,3,,1,68,2023-03-15
+Essendon,2023,4,Greater Western Sydney,4,W,33,4,2,6,10,,1,,2,,1,,1,,,,4,6,,,,1,2,72,2023-03-22
+Essendon,2023,5,Collingwood,6,L,33,3,1,3,6,1,,,2,1,1,,2,1,1,,5,4,,,,,,63,2023-04-05
+Essendon,2023,6,Port Adelaide,8,L,33,3,3,6,9,,,,1,1,,1,1,,,,4,4,,,1,,,63,2023-04-19
+Essendon,2023,7↑,Brisbane Lions,9,L,33,1,1,2,3,,1,,,,,1,,,,,2,1,,,,,,26,2023-04-26
+Essendon,2023,8,Richmond,10,W,33,7,2,1,8,1,,,3,,2,,1,,,,1,7,,,1,,,77,2023-05-03
+Essendon,2023,9↓,Sydney,20,L,33,4,,3,7,,,,2,,2,,2,1,,,4,3,,,1,1,,48,2023-07-12
+Essendon,2023,10↑,West Coast,21,W,33,,1,1,1,,,,1,,,,,,,,1,,1,,,,,24,2023-07-19
+Essendon,2024,11↑,Sydney,3,L,33,1,,,1,,,,1,1,,,1,,,,,1,,,,,,18,2024-03-15
+Essendon,2024,12,Western Bulldogs,6,W,33,6,2,3,9,1,,,1,,1,,3,,1,,4,4,,1,,,,80,2024-04-05
+Essendon,2024,13,Adelaide,7,W,33,5,1,4,9,,,,4,,4,1,1,2,,,3,6,,,1,,1,73,2024-04-12
+Essendon,2024,14,Collingwood,8,D,33,6,1,4,10,1,,,,,3,,6,,1,,3,6,,,,,,77,2024-04-19
+Essendon,2024,15,West Coast,9,W,33,2,1,2,4,,,,1,,,,1,,1,,,3,,,,,,59,2024-04-26
+Essendon,2024,16↓,Greater Western Sydney,10,W,33,2,,1,3,1,,,2,,1,,,,,,1,2,,,1,,1,53,2024-05-03
+Essendon,2024,17,North Melbourne,11,W,33,6,2,1,7,1,,,2,1,3,,,1,,,3,4,,,1,1,,62,2024-05-10
+Essendon,2024,18,Richmond,12,W,33,4,1,4,8,1,,,1,,2,2,2,,,,4,4,,1,,1,,77,2024-05-17
+Essendon,2024,19↑,Fremantle,22,W,33,1,,,1,,,,1,,,,,,,,1,,,,,,,18,2024-07-26
+Essendon,2024,20,Gold Coast,23,L,33,5,2,3,8,,1,,3,,1,,1,,,,1,5,,1,,,1,72,2024-08-02

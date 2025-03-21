@@ -1,0 +1,39 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1961,1,Melbourne,14,W,2,,,,,,,,,,,,,,,,,,,,,,,,1961-05-31
+Essendon,1961,2,Geelong,15,W,2,,,,,2,,,,,,,,,,,,,,,,,,,1961-06-07
+Essendon,1961,3,Hawthorn,16,L,2,,,,,,,,,,,,,,,,,,,,,,,,1961-06-14
+Essendon,1961,4,South Melbourne,17,W,2,,,,,,,,,,,,,,,,,,,,,,,,1961-06-21
+Essendon,1961,5,Collingwood,18,D,2,,,,,1,,,,,,,,,,,,,,,,,,,1961-06-28
+Essendon,1962,6,Fitzroy,1,W,2,,,,,,,,,,,,,,,,,,,,,,,,1962-03-01
+Essendon,1962,7,Richmond,3,W,2,,,,,2,,,,,,,,,,,,,,,,,,,1962-03-15
+Essendon,1962,8,St Kilda,4,W,2,,,,,,,,,,,,,,,,,,,,,,,,1962-03-22
+Essendon,1962,9,Carlton,5,W,2,,,,,2,,,,,,,,,,,,,,,,,,,1962-03-29
+Essendon,1962,10,Footscray,6,W,2,,,,,3,,,,,,,,,,,,,,,,,,,1962-04-05
+Essendon,1962,11,South Melbourne,7,W,2,,,,,3,,,,,,,,,,,,,,,,,,,1962-04-12
+Essendon,1962,12,Hawthorn,8,L,2,,,,,,,,,,,,,,,,,,,,,,,,1962-04-19
+Essendon,1962,13,Geelong,9,W,2,,,,,3,,,,,,,,,,,,,,,,,,,1962-04-26
+Essendon,1962,14,Melbourne,10,W,2,,,,,2,,,,,,,,,,,,,,,,,,,1962-05-03
+Essendon,1962,15,Collingwood,11,W,2,,,,,2,,,,,,,,,,,,,,,,,,,1962-05-10
+Essendon,1962,16,Fitzroy,12,W,2,,,,,,,,,,,,,,,,,,,,,,,,1962-05-17
+Essendon,1962,17,North Melbourne,13,W,2,,,,,,,,,,,,,,,,,,,,,,,,1962-05-24
+Essendon,1962,18,Richmond,14,W,2,,,,,,,,,,,,,,,,,,,,,,,,1962-05-31
+Essendon,1962,19,St Kilda,15,W,2,,,,,,,,,,,,,,,,,,,,,,,,1962-06-07
+Essendon,1962,20,South Melbourne,18,W,2,,,,,1,,,,,,,,,,,,,,,,,,,1962-06-28
+Essendon,1962,21,Geelong,SF,W,2,,,,,2,,,,,,,,,,,,,,,,,,,1962-03-01
+Essendon,1963,22,Hawthorn,1,W,2,,,,,,,,,,,,,,,,,,,,,,,,1963-03-01
+Essendon,1963,23,Geelong,2,W,2,,,,,1,,,,,,,,,,,,,,,,,,,1963-03-08
+Essendon,1963,24,Melbourne,3,W,2,,,,,,,,,,,,,,,,,,,,,,,,1963-03-15
+Essendon,1963,25,Carlton,4,L,2,,,,,,,,,,,,,,,,,,,,,,,,1963-03-22
+Essendon,1963,26,North Melbourne,10,W,2,,,,,2,,,,,,,,,,,,,,,,,,,1963-05-03
+Essendon,1963,27,South Melbourne,11,W,2,,,,,,,,,,,,,,,,,,,,,,,,1963-05-10
+Essendon,1963,28,Carlton,15,L,2,,,,,2,,,,,,,,,,,,,,,,,,,1963-06-07
+Essendon,1963,29,Fitzroy,16,W,2,,,,,1,,,,,,,,,,,,,,,,,,,1963-06-14
+Essendon,1963,30,Footscray,17,W,2,,,,,,,,,,,,,,,,,,,,,,,,1963-06-21
+Essendon,1964,31,North Melbourne,3,L,2,,,,,2,,,,,,,,,,,,,,,,,,,1964-03-15
+Essendon,1964,32,Geelong,4,W,2,,,,,,,,,,,,,,,,,,,,,,,,1964-03-22
+Essendon,1964,33,Melbourne,5,L,2,,,,,,,,,,,,,,,,,,,,,,,,1964-03-29
+Essendon,1964,34,Collingwood,6,W,2,,,,,,,,,,,,,,,,,,,,,,,,1964-04-05
+Essendon,1964,35,Hawthorn,8,L,2,,,,,3,,,,,,,,,,,,,,,,,,,1964-04-19
+Essendon,1964,36,Footscray,9,W,2,,,,,5,,,,,,,,,,,,,,,,,,,1964-04-26
+Essendon,1964,37,Carlton,10,W,2,,,,,2,,,,,,,,,,,,,,,,,,,1964-05-03
+Essendon,1964,38,Fitzroy,11,W,2,,,,,1,,,,,,,,,,,,,,,,,,,1964-05-10

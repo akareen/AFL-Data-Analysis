@@ -1,0 +1,8 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1966,1,Geelong,11,L,27,,,,,,,,,,,,,,,,,,,,,,,,1966-05-10
+Melbourne,1966,2,Richmond,14,L,27,11,3,2,13,,1,1,,,,,,2,1,,,,,,,,,,1966-05-31
+Melbourne,1966,3,South Melbourne,15,L,27,12,1,2,14,,2,,,,,,,2,1,,,,,,,,,,1966-06-07
+Melbourne,1966,4,Carlton,16,L,27,,,,,,,,,,,,,,,,,,,,,,,,1966-06-14
+Melbourne,1966,5,Collingwood,17,L,27,,,1,1,,,,,,,,,,,,,,,,,,,,1966-06-21
+Melbourne,1967,6,North Melbourne,1,W,49,9,1,,9,,,,,,,,,,3,,,,,,,,,,1967-03-01
+Melbourne,1967,7,Geelong,2,L,49,3,1,2,5,,,,,,,,,1,,,,,,,,,,,1967-03-08

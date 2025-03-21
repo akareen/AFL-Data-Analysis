@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1898,1,Collingwood,2,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-03-08
+Fitzroy,1898,2,South Melbourne,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-05-31
+Fitzroy,1898,3,South Melbourne,15,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-06-07
+Fitzroy,1898,4,Carlton,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-06-14
+Fitzroy,1898,5,Essendon,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-06-21
+Fitzroy,1898,6,Collingwood,SF,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-03-01
+Fitzroy,1898,7,Essendon,GF,W,,,,,,,,,,,,,,,,,,,,,,,,,1898-03-01
+Fitzroy,1899,8,Geelong,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1899-03-15
+Fitzroy,1899,9,St Kilda,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1899-03-22
+Fitzroy,1899,10,Melbourne,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-03-29

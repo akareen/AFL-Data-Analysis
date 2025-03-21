@@ -1,0 +1,61 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Footscray,1935,1,Carlton,18,L,36,,,,,,,,,,,,,,,,,,,,,,,,1935-06-28
+Footscray,1936,2,Hawthorn,2,L,22,,,,,,,,,,,,,,,,,,,,,,,,1936-03-08
+Footscray,1936,3,South Melbourne,3,L,22,,,,,,,,,,,,,,,,,,,,,,,,1936-03-15
+Footscray,1938,4,South Melbourne,1,L,28,,,,,,,,,,,,,,,,,,,,,,,,1938-03-01
+Footscray,1938,5,Fitzroy,2,W,28,,,,,,,,,,,,,,,,,,,,,,,,1938-03-08
+Footscray,1938,6,Hawthorn,3,W,28,,,,,,,,,,,,,,,,,,,,,,,,1938-03-15
+Footscray,1938,7,Geelong,4,L,28,,,,,,,,,,,,,,,,,,,,,,,,1938-03-22
+Footscray,1938,8,Melbourne,5,W,28,,,,,,,,,,,,,,,,,,,,,,,,1938-03-29
+Footscray,1938,9,St Kilda,6,W,28,,,,,,,,,,,,,,,,,,,,,,,,1938-04-05
+Footscray,1938,10,North Melbourne,7,W,28,,,,,,,,,,,,,,,,,,,,,,,,1938-04-12
+Footscray,1938,11,Carlton,8,L,28,,,,,,,,,,,,,,,,,,,,,,,,1938-04-19
+Footscray,1938,12,Collingwood,9,W,28,,,,,,,,,,,,,,,,,,,,,,,,1938-04-26
+Footscray,1938,13,Essendon,10,W,28,,,,,,,,,,,,,,,,,,,,,,,,1938-05-03
+Footscray,1938,14,Richmond,11,W,28,,,,,,,,,,,,,,,,,,,,,,,,1938-05-10
+Footscray,1938,15,South Melbourne,12,W,28,,,,,,,,,,,,,,,,,,,,,,,,1938-05-17
+Footscray,1938,16,Fitzroy,13,W,28,,,,,,,,,,,,,,,,,,,,,,,,1938-05-24
+Footscray,1938,17,Hawthorn,14,W,28,,,,,,,,,,,,,,,,,,,,,,,,1938-05-31
+Footscray,1938,18,Geelong,15,L,28,,,,,,,,,,,,,,,,,,,,,,,,1938-06-07
+Footscray,1938,19,Melbourne,16,W,28,,,,,,,,,,,,,,,,,,,,,,,,1938-06-14
+Footscray,1938,20,St Kilda,17,L,28,,,,,,,,,,,,,,,,,,,,,,,,1938-06-21
+Footscray,1938,21,North Melbourne,18,W,28,,,,,,,,,,,,,,,,,,,,,,,,1938-06-28
+Footscray,1939,22,Essendon,1,L,28,,,,,1,,,,,,,,,,,,,,,,,,,1939-03-01
+Footscray,1939,23,Richmond,2,L,28,,,,,,,,,,,,,,,,,,,,,,,,1939-03-08
+Footscray,1939,24,Collingwood,3,L,28,,,,,,,,,,,,,,,,,,,,,,,,1939-03-15
+Footscray,1939,25,Carlton,4,L,28,,,,,,,,,,,,,,,,,,,,,,,,1939-03-22
+Footscray,1939,26,South Melbourne,5,L,28,,,,,,,,,,,,,,,,,,,,,,,,1939-03-29
+Footscray,1939,27,Fitzroy,6,L,28,,,,,,,,,,,,,,,,,,,,,,,,1939-04-05
+Footscray,1939,28,Hawthorn,7,L,28,,,,,,,,,,,,,,,,,,,,,,,,1939-04-12
+Footscray,1939,29,Melbourne,8,L,28,,,,,,,,,,,,,,,,,,,,,,,,1939-04-19
+Footscray,1939,30,St Kilda,9,L,28,,,,,,,,,,,,,,,,,,,,,,,,1939-04-26
+Footscray,1939,31,Collingwood,14,L,28,,,,,,,,,,,,,,,,,,,,,,,,1939-05-31
+Footscray,1939,32,Carlton,15,L,28,,,,,,,,,,,,,,,,,,,,,,,,1939-06-07
+Footscray,1939,33,Fitzroy,17,L,28,,,,,,,,,,,,,,,,,,,,,,,,1939-06-21
+Footscray,1939,34,Hawthorn,18,W,28,,,,,,,,,,,,,,,,,,,,,,,,1939-06-28
+Footscray,1940,35,Essendon,2,W,28,,,,,,,,,,,,,,,,,,,,,,,,1940-03-08
+Footscray,1940,36,Melbourne,3,L,28,,,,,,,,,,,,,,,,,,,,,,,,1940-03-15
+Footscray,1940,37,St Kilda,4,L,28,,,,,,,,,,,,,,,,,,,,,,,,1940-03-22
+Footscray,1940,38,North Melbourne,5,W,28,,,,,,,,,,,,,,,,,,,,,,,,1940-03-29
+Footscray,1940,39,Geelong,6,L,28,,,,,,,,,,,,,,,,,,,,,,,,1940-04-05
+Footscray,1940,40,Carlton,7,W,28,,,,,,,,,,,,,,,,,,,,,,,,1940-04-12
+Footscray,1940,41,Hawthorn,8,W,28,,,,,,,,,,,,,,,,,,,,,,,,1940-04-19
+Footscray,1940,42,Collingwood,9,W,28,,,,,,,,,,,,,,,,,,,,,,,,1940-04-26
+Footscray,1940,43,South Melbourne,10,W,28,,,,,,,,,,,,,,,,,,,,,,,,1940-05-03
+Footscray,1940,44,Fitzroy,11,L,28,,,,,,,,,,,,,,,,,,,,,,,,1940-05-10
+Footscray,1940,45,Richmond,12,L,28,,,,,,,,,,,,,,,,,,,,,,,,1940-05-17
+Footscray,1940,46,Essendon,13,L,28,,,,,,,,,,,,,,,,,,,,,,,,1940-05-24
+Footscray,1940,47,Melbourne,14,L,28,,,,,,,,,,,,,,,,,,,,,,,,1940-05-31
+Footscray,1940,48,St Kilda,15,W,28,,,,,,,,,,,,,,,,,,,,,,,,1940-06-07
+Footscray,1940,49,North Melbourne,16,W,28,,,,,,,,,,,,,,,,,,,,,,,,1940-06-14
+Footscray,1940,50,Geelong,17,L,28,,,,,,,,,,,,,,,,,,,,,,,,1940-06-21
+Footscray,1940,51,Carlton,18,L,28,,,,,,,,,,,,,,,,,,,,,,,,1940-06-28
+Footscray,1942,52,Richmond,1,L,11,,,,,,,,,,,,,,,,,,,,,,,,1942-03-01
+Footscray,1942,53,Collingwood,6,W,11,,,,,1,,,,,,,,,,,,,,,,,,,1942-04-05
+Footscray,1942,54,Carlton,7,W,11,,,,,1,,,,,,,,,,,,,,,,,,,1942-04-12
+Footscray,1942,55,North Melbourne,8,W,11,,,,,,,,,,,,,,,,,,,,,,,,1942-04-19
+Footscray,1942,56,South Melbourne,9,L,11,,,,,,,,,,,,,,,,,,,,,,,,1942-04-26
+Footscray,1942,57,Fitzroy,16,W,11,,,,,,,,,,,,,,,,,,,,,,,,1942-06-14
+Footscray,1942,58,South Melbourne,SF,L,11,,,,,1,,,,,,,,,,,,,,,,,,,1942-03-01
+Footscray,1946,59,South Melbourne,14,W,8,,,,,,,,,,,,,,,,,,,,,,,,1946-05-31
+Footscray,1946,60,Melbourne,SF,L,8,,,,,,,,,,,,,,,,,,,,,,,,1946-03-01

@@ -1,0 +1,21 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1945,1,Melbourne,1,L,9,,,,,,,,,,,,,,,,,,,,,,,,1945-03-01
+Carlton,1945,2,Hawthorn,2,L,9,,,,,,,,,,,,,,,,,,,,,,,,1945-03-08
+Carlton,1945,3,Hawthorn,13,W,9,,,,,,,,,,,,,,,,,,,,,,,,1945-05-24
+Carlton,1945,4,Fitzroy,15,W,9,,,,,,,,,,,,,,,,,,,,,,,,1945-06-07
+Carlton,1945,5,St Kilda,16,W,9,,,,,,,,,,,,,,,,,,,,,,,,1945-06-14
+Carlton,1945,6,Geelong,19,W,9,,,,,,,,,,,,,,,,,,,,,,,,1945-07-05
+Carlton,1945,7,Footscray,20,W,9,,,,,,,,,,,,,,,,,,,,,,,,1945-07-12
+Carlton,1945,8,North Melbourne,SF,W,9,,,,,,,,,,,,,,,,,,,,,,,,1945-03-01
+Carlton,1946,9,Geelong,9,W,22,,,,,,,,,,,,,,,,,,,,,,,,1946-04-26
+Carlton,1946,10,Footscray,10,W,22,,,,,,,,,,,,,,,,,,,,,,,,1946-05-03
+Carlton,1947,11,St Kilda,6,W,22,,,,,,,,,,,,,,,,,,,,,,,,1947-04-05
+Carlton,1947,12,Richmond,14,W,22,,,,,,,,,,,,,,,,,,,,,,,,1947-05-31
+Carlton,1947,13,Footscray,15,W,22,,,,,,,,,,,,,,,,,,,,,,,,1947-06-07
+Fitzroy,1948,14,Melbourne,3,W,15,,,,,,,,,,,,,,,,,,,,,,,,1948-03-15
+Fitzroy,1948,15,St Kilda,4,W,15,,,,,,,,,,,,,,,,,,,,,,,,1948-03-22
+Fitzroy,1948,16,Hawthorn,5,W,15,,,,,,,,,,,,,,,,,,,,,,,,1948-03-29
+Fitzroy,1948,17,Footscray,6,L,15,,,,,,,,,,,,,,,,,,,,,,,,1948-04-05
+Fitzroy,1948,18,Carlton,13,L,15,,,,,,,,,,,,,,,,,,,,,,,,1948-05-24
+Fitzroy,1948,19,Melbourne,14,L,15,,,,,,,,,,,,,,,,,,,,,,,,1948-05-31
+Fitzroy,1948,20,St Kilda,15,L,15,,,,,,,,,,,,,,,,,,,,,,,,1948-06-07

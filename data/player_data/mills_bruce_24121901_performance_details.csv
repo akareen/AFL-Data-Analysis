@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1926,1,Essendon,7,W,13,,,,,,,,,,,,,,,,,,,,,,,,1926-04-12
+Geelong,1926,2,Hawthorn,8,W,13,,,,,,,,,,,,,,,,,,,,,,,,1926-04-19
+Geelong,1926,3,Fitzroy,9,W,13,,,,,,,,,,,,,,,,,,,,,,,,1926-04-26
+Geelong,1926,4,Melbourne,10,W,13,,,,,,,,,,,,,,,,,,,,,,,,1926-05-03
+Geelong,1926,5,South Melbourne,11,L,13,,,,,1,,,,,,,,,,,,,,,,,,,1926-05-10
+Geelong,1926,6,Footscray,12,W,13,,,,,,,,,,,,,,,,,,,,,,,,1926-05-17
+Geelong,1926,7,St Kilda,13,W,13,,,,,2,,,,,,,,,,,,,,,,,,,1926-05-24
+Geelong,1926,8,Carlton,14,L,13,,,,,,,,,,,,,,,,,,,,,,,,1926-05-31
+Geelong,1926,9,Fitzroy,18,W,13,,,,,,,,,,,,,,,,,,,,,,,,1926-06-28

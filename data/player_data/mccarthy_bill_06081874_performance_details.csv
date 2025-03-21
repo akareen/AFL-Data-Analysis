@@ -1,0 +1,15 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1902,1,St Kilda,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-04-26
+Fitzroy,1902,2,South Melbourne,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-03
+Fitzroy,1902,3,Collingwood,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-10
+Fitzroy,1902,4,Melbourne,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-17
+Fitzroy,1902,5,Carlton,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-24
+Fitzroy,1902,6,Geelong,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-31
+Fitzroy,1902,7,Geelong,15,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-06-07
+Fitzroy,1902,8,Collingwood,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-06-14
+Fitzroy,1902,9,South Melbourne,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-06-21
+Fitzroy,1902,10,Collingwood,SF,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-01
+Fitzroy,1902,11,Essendon,PF,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-01
+Essendon,1903,12,Fitzroy,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-01
+Essendon,1903,13,St Kilda,2,D,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-08
+Essendon,1903,14,Carlton,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-15

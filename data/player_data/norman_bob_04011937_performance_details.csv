@@ -1,0 +1,21 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1957,1,Geelong,3,W,20,,,,,2,,,,,,,,,,,,,,,,,,,1957-03-15
+Collingwood,1957,2,South Melbourne,4,W,20,,,,,2,,,,,,,,,,,,,,,,,,,1957-03-22
+Collingwood,1957,3,Fitzroy,5,W,20,,,,,1,,,,,,,,,,,,,,,,,,,1957-03-29
+Collingwood,1957,4,North Melbourne,6,L,20,,,,,1,,,,,,,,,,,,,,,,,,,1957-04-05
+Collingwood,1957,5,St Kilda,7,W,20,,,,,1,,,,,,,,,,,,,,,,,,,1957-04-12
+Collingwood,1957,6,Footscray,8,L,20,,,,,,,,,,,,,,,,,,,,,,,,1957-04-19
+Collingwood,1957,7,Richmond,9,L,20,,,,,,,,,,,,,,,,,,,,,,,,1957-04-26
+Collingwood,1957,8,Carlton,10,W,20,,,,,,,,,,,,,,,,,,,,,,,,1957-05-03
+Collingwood,1957,9,Hawthorn,11,W,20,,,,,2,,,,,,,,,,,,,,,,,,,1957-05-10
+Geelong,1961,10,Melbourne,5,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1961-03-29
+Geelong,1961,11,Richmond,6,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1961-04-05
+Geelong,1961,12,Footscray,7,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1961-04-12
+Geelong,1961,13,North Melbourne,8,D,16,,,,,1,,,,,,,,,,,,,,,,,,,1961-04-19
+Geelong,1961,14,Hawthorn,9,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1961-04-26
+Geelong,1961,15,Fitzroy,10,W,16,,,,,,,,,,,,,,,,,,,,,,,,1961-05-03
+Geelong,1961,16,Carlton,11,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1961-05-10
+Geelong,1961,17,St Kilda,14,W,16,,,,,3,,,,,,,,,,,,,,,,,,,1961-05-31
+Geelong,1961,18,Essendon,15,L,16,,,,,,,,,,,,,,,,,,,,,,,,1961-06-07
+Geelong,1961,19,Richmond,17,W,16,,,,,,,,,,,,,,,,,,,,,,,,1961-06-21
+Geelong,1961,20,Footscray,18,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1961-06-28

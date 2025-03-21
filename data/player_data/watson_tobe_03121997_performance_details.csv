@@ -1,0 +1,15 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fremantle,2020,1,Geelong,8,L,45,3,1,5,8,,,,1,,1,1,,,,,3,6,,,7,,,79,2020-04-19
+Fremantle,2020,2,Collingwood,9,W,45,9,4,3,12,,,,5,1,,,2,1,,,3,9,,,,,,78,2020-04-26
+Fremantle,2020,3,North Melbourne,17,W,45,9,7,1,10,,,,1,5,2,,1,,,,3,8,,,5,,,87,2020-06-21
+Fremantle,2021,4,Melbourne,1,L,38,4,3,4,8,,,,2,2,1,,2,,2,,2,6,,,3,,,89,2021-03-01
+Fremantle,2021,5,Hawthorn,4,W,38,10,7,4,14,,,,1,1,1,2,2,,,,4,10,,,5,,,84,2021-03-22
+Fremantle,2021,6,West Coast,7,L,38,10,8,6,16,1,,,,4,,,1,,,,2,13,1,1,6,,,65,2021-04-12
+Fremantle,2021,7,Brisbane Lions,8,L,38,3,3,4,7,,,,1,1,1,,1,,1,,4,3,1,,3,,,82,2021-04-19
+Fremantle,2021,8,Essendon,9,L,38,8,6,5,13,,,,2,1,,,3,1,1,,3,11,,,4,,,74,2021-04-26
+Fremantle,2021,9,Sydney,10,W,38,8,2,3,11,,,,,2,2,,4,1,,,1,10,,,1,,,75,2021-05-03
+Fremantle,2021,10,Port Adelaide,11,L,38,6,4,4,10,,,,,3,1,,,1,,,4,6,,,5,,,79,2021-05-10
+Fremantle,2021,11↑,Western Bulldogs,12,L,38,1,1,3,4,,,,,1,,,1,,,,1,3,,,2,,,26,2021-05-17
+Fremantle,2021,12,Richmond,20,W,38,8,5,4,12,,,,,1,1,,1,1,,,1,11,,,2,,,86,2021-07-12
+Fremantle,2021,13,West Coast,22,W,38,9,8,4,13,,,,3,2,,,,1,,,3,10,,,1,,,80,2021-07-26
+Fremantle,2021,14,St Kilda,23,L,38,6,4,10,16,,,,3,1,,,2,,,,4,11,,,1,,,81,2021-08-02

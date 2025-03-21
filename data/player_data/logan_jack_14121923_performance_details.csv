@@ -1,0 +1,32 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Footscray,1946,1,South Melbourne,3,W,23,,,,,,,,,,,,,,,,,,,,,,,,1946-03-15
+Footscray,1946,2,Hawthorn,18,W,23,,,,,,,,,,,,,,,,,,,,,,,,1946-06-28
+Footscray,1947,3,St Kilda,1,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1947-03-01
+Footscray,1947,4,Essendon,2,W,23,,,,,,,,,,,,,,,,,,,,,,,,1947-03-08
+Footscray,1947,5,Hawthorn,3,W,23,,,,,,,,,,,,,,,,,,,,,,,,1947-03-15
+Footscray,1947,6,Carlton,4,L,23,,,,,,,,,,,,,,,,,,,,,,,,1947-03-22
+Footscray,1947,7,North Melbourne,5,W,23,,,,,,,,,,,,,,,,,,,,,,,,1947-03-29
+Footscray,1947,8,Collingwood,6,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1947-04-05
+Footscray,1947,9,Melbourne,7,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1947-04-12
+Footscray,1947,10,Fitzroy,8,W,23,,,,,,,,,,,,,,,,,,,,,,,,1947-04-19
+Footscray,1947,11,Geelong,9,L,23,,,,,,,,,,,,,,,,,,,,,,,,1947-04-26
+Footscray,1947,12,Richmond,10,L,23,,,,,,,,,,,,,,,,,,,,,,,,1947-05-03
+Footscray,1947,13,South Melbourne,11,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1947-05-10
+Footscray,1947,14,St Kilda,12,D,23,,,,,,,,,,,,,,,,,,,,,,,,1947-05-17
+Footscray,1947,15,Essendon,13,L,23,,,,,,,,,,,,,,,,,,,,,,,,1947-05-24
+Footscray,1947,16,Hawthorn,14,W,23,,,,,,,,,,,,,,,,,,,,,,,,1947-05-31
+Footscray,1947,17,Carlton,15,L,23,,,,,,,,,,,,,,,,,,,,,,,,1947-06-07
+Footscray,1947,18,North Melbourne,16,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1947-06-14
+Footscray,1947,19,Collingwood,17,L,23,,,,,2,,,,,,,,,,,,,,,,,,,1947-06-21
+Footscray,1947,20,Melbourne,18,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1947-06-28
+Footscray,1947,21,Fitzroy,19,L,23,,,,,2,,,,,,,,,,,,,,,,,,,1947-07-05
+Footscray,1948,22,St Kilda,1,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1948-03-01
+Footscray,1948,23,Richmond,2,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1948-03-08
+Footscray,1948,24,Hawthorn,3,W,23,,,,,,,,,,,,,,,,,,,,,,,,1948-03-15
+Footscray,1948,25,Carlton,4,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1948-03-22
+Footscray,1948,26,Geelong,5,L,23,,,,,,,,,,,,,,,,,,,,,,,,1948-03-29
+Footscray,1948,27,Fitzroy,6,W,23,,,,,,,,,,,,,,,,,,,,,,,,1948-04-05
+Footscray,1948,28,Collingwood,11,L,23,,,,,,,,,,,,,,,,,,,,,,,,1948-05-10
+Footscray,1948,29,St Kilda,12,W,23,,,,,,,,,,,,,,,,,,,,,,,,1948-05-17
+Footscray,1948,30,Richmond,13,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1948-05-24
+Footscray,1948,31,Carlton,15,L,23,,,,,,,,,,,,,,,,,,,,,,,,1948-06-07

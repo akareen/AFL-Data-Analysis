@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1955,1,South Melbourne,4,W,4,,,,,,,,,,,,,,,,,,,,,,,,1955-03-22
+Richmond,1955,2,North Melbourne,6,L,4,,,,,,,,,,,,,,,,,,,,,,,,1955-04-05
+Richmond,1955,3,St Kilda,7,W,4,,,,,3,,,,,,,,,,,,,,,,,,,1955-04-12
+Richmond,1955,4,Hawthorn,8,L,4,,,,,1,,,,,,,,,,,,,,,,,,,1955-04-19
+Richmond,1955,5,Melbourne,9,L,4,,,,,,,,,,,,,,,,,,,,,,,,1955-04-26
+Richmond,1955,6,Collingwood,10,L,4,,,,,,,,,,,,,,,,,,,,,,,,1955-05-03
+St Kilda,1956,7,Essendon,4,L,20,,,,,,,,,,,,,,,,,,,,,,,,1956-03-22
+St Kilda,1956,8,Hawthorn,5,L,20,,,,,,,,,,,,,,,,,,,,,,,,1956-03-29
+St Kilda,1956,9,Fitzroy,6,L,20,,,,,,,,,,,,,,,,,,,,,,,,1956-04-05
+St Kilda,1956,10,Geelong,11,L,20,,,,,,,,,,,,,,,,,,,,,,,,1956-05-10

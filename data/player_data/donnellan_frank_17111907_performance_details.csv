@@ -1,0 +1,58 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1926,1,Melbourne,9,L,20,,,,,,,,,,,,,,,,,,,,,,,,1926-04-26
+Hawthorn,1926,2,South Melbourne,10,L,20,,,,,,,,,,,,,,,,,,,,,,,,1926-05-03
+Hawthorn,1926,3,Carlton,12,L,20,,,,,2,,,,,,,,,,,,,,,,,,,1926-05-17
+North Melbourne,1927,4,Geelong,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1927-05-31
+North Melbourne,1931,5,Carlton,9,L,7,,,,,2,,,,,,,,,,,,,,,,,,,1931-04-26
+North Melbourne,1931,6,Hawthorn,10,L,7,,,,,,,,,,,,,,,,,,,,,,,,1931-05-03
+North Melbourne,1931,7,Geelong,11,L,7,,,,,1,,,,,,,,,,,,,,,,,,,1931-05-10
+North Melbourne,1931,8,South Melbourne,12,L,7,,,,,,,,,,,,,,,,,,,,,,,,1931-05-17
+North Melbourne,1931,9,Richmond,13,L,7,,,,,2,,,,,,,,,,,,,,,,,,,1931-05-24
+North Melbourne,1931,10,Fitzroy,14,L,7,,,,,2,,,,,,,,,,,,,,,,,,,1931-05-31
+North Melbourne,1931,11,Essendon,15,L,7,,,,,,,,,,,,,,,,,,,,,,,,1931-06-07
+North Melbourne,1931,12,St Kilda,16,L,7,,,,,1,,,,,,,,,,,,,,,,,,,1931-06-14
+North Melbourne,1931,13,Melbourne,17,L,7,,,,,,,,,,,,,,,,,,,,,,,,1931-06-21
+North Melbourne,1931,14,Footscray,18,L,7,,,,,,,,,,,,,,,,,,,,,,,,1931-06-28
+North Melbourne,1932,15,Geelong,1,L,7,,,,,,,,,,,,,,,,,,,,,,,,1932-03-01
+North Melbourne,1932,16,Essendon,2,L,7,,,,,,,,,,,,,,,,,,,,,,,,1932-03-08
+North Melbourne,1932,17,Fitzroy,3,W,7,,,,,,,,,,,,,,,,,,,,,,,,1932-03-15
+North Melbourne,1932,18,South Melbourne,4,L,7,,,,,,,,,,,,,,,,,,,,,,,,1932-03-22
+North Melbourne,1932,19,Melbourne,5,W,7,,,,,,,,,,,,,,,,,,,,,,,,1932-03-29
+North Melbourne,1932,20,St Kilda,6,W,7,,,,,,,,,,,,,,,,,,,,,,,,1932-04-05
+North Melbourne,1932,21,Footscray,7,L,7,,,,,,,,,,,,,,,,,,,,,,,,1932-04-12
+Fitzroy,1933,22,North Melbourne,1,D,32,,,,,,,,,,,,,,,,,,,,,,,,1933-03-01
+Fitzroy,1933,23,Collingwood,2,W,32,,,,,,,,,,,,,,,,,,,,,,,,1933-03-08
+Fitzroy,1933,24,St Kilda,3,W,32,,,,,,,,,,,,,,,,,,,,,,,,1933-03-15
+Fitzroy,1933,25,Melbourne,4,W,32,,,,,,,,,,,,,,,,,,,,,,,,1933-03-22
+Fitzroy,1933,26,Geelong,5,L,32,,,,,,,,,,,,,,,,,,,,,,,,1933-03-29
+Fitzroy,1933,27,Essendon,6,W,32,,,,,,,,,,,,,,,,,,,,,,,,1933-04-05
+Fitzroy,1933,28,Richmond,7,L,32,,,,,,,,,,,,,,,,,,,,,,,,1933-04-12
+Fitzroy,1933,29,Hawthorn,8,W,32,,,,,,,,,,,,,,,,,,,,,,,,1933-04-19
+Fitzroy,1933,30,South Melbourne,9,W,32,,,,,,,,,,,,,,,,,,,,,,,,1933-04-26
+Fitzroy,1933,31,Carlton,10,L,32,,,,,,,,,,,,,,,,,,,,,,,,1933-05-03
+Fitzroy,1933,32,Footscray,11,L,32,,,,,,,,,,,,,,,,,,,,,,,,1933-05-10
+Fitzroy,1933,33,North Melbourne,12,W,32,,,,,,,,,,,,,,,,,,,,,,,,1933-05-17
+Fitzroy,1933,34,Collingwood,13,W,32,,,,,,,,,,,,,,,,,,,,,,,,1933-05-24
+Fitzroy,1933,35,St Kilda,14,W,32,,,,,,,,,,,,,,,,,,,,,,,,1933-05-31
+Fitzroy,1933,36,Melbourne,15,W,32,,,,,,,,,,,,,,,,,,,,,,,,1933-06-07
+Fitzroy,1933,37,Geelong,16,W,32,,,,,,,,,,,,,,,,,,,,,,,,1933-06-14
+Fitzroy,1933,38,Essendon,17,L,32,,,,,,,,,,,,,,,,,,,,,,,,1933-06-21
+Fitzroy,1933,39,Richmond,18,L,32,,,,,,,,,,,,,,,,,,,,,,,,1933-06-28
+Fitzroy,1934,40,North Melbourne,1,W,32,,,,,,,,,,,,,,,,,,,,,,,,1934-03-01
+Fitzroy,1934,41,Footscray,2,L,32,,,,,,,,,,,,,,,,,,,,,,,,1934-03-08
+Fitzroy,1934,42,St Kilda,3,L,32,,,,,,,,,,,,,,,,,,,,,,,,1934-03-15
+Fitzroy,1934,43,Melbourne,4,L,32,,,,,,,,,,,,,,,,,,,,,,,,1934-03-22
+Fitzroy,1934,44,Carlton,5,W,32,,,,,,,,,,,,,,,,,,,,,,,,1934-03-29
+Fitzroy,1934,45,Collingwood,6,L,32,,,,,,,,,,,,,,,,,,,,,,,,1934-04-05
+Fitzroy,1934,46,Essendon,7,W,32,,,,,,,,,,,,,,,,,,,,,,,,1934-04-12
+Fitzroy,1934,47,South Melbourne,8,L,32,,,,,,,,,,,,,,,,,,,,,,,,1934-04-19
+Fitzroy,1934,48,Hawthorn,9,W,32,,,,,,,,,,,,,,,,,,,,,,,,1934-04-26
+Fitzroy,1934,49,Richmond,10,L,32,,,,,,,,,,,,,,,,,,,,,,,,1934-05-03
+Fitzroy,1934,50,Geelong,11,L,32,,,,,,,,,,,,,,,,,,,,,,,,1934-05-10
+Fitzroy,1934,51,North Melbourne,12,W,32,,,,,,,,,,,,,,,,,,,,,,,,1934-05-17
+Fitzroy,1934,52,Footscray,13,W,32,,,,,,,,,,,,,,,,,,,,,,,,1934-05-24
+Fitzroy,1934,53,St Kilda,14,L,32,,,,,,,,,,,,,,,,,,,,,,,,1934-05-31
+Fitzroy,1934,54,Melbourne,15,W,32,,,,,,,,,,,,,,,,,,,,,,,,1934-06-07
+Fitzroy,1934,55,Carlton,16,L,32,,,,,,,,,,,,,,,,,,,,,,,,1934-06-14
+Fitzroy,1934,56,Collingwood,17,L,32,,,,,,,,,,,,,,,,,,,,,,,,1934-06-21
+Fitzroy,1934,57,Essendon,18,L,32,,,,,,,,,,,,,,,,,,,,,,,,1934-06-28

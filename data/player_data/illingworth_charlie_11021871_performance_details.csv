@@ -1,0 +1,15 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1899,1,St Kilda,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1899-03-01
+Melbourne,1899,2,Collingwood,2,W,,,,,,,,,,,,,,,,,,,,,,,,,1899-03-08
+Melbourne,1899,3,Carlton,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1899-03-15
+Melbourne,1899,4,Geelong,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1899-03-22
+Melbourne,1899,5,Fitzroy,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1899-03-29
+Melbourne,1899,6,Essendon,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-04-05
+Melbourne,1899,7,South Melbourne,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1899-04-12
+Melbourne,1899,8,St Kilda,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1899-04-19
+Melbourne,1899,9,Collingwood,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-04-26
+Melbourne,1899,10,Carlton,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1899-05-03
+Melbourne,1899,11,Geelong,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-05-10
+Melbourne,1899,12,Fitzroy,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-05-17
+Melbourne,1899,13,Essendon,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-05-24
+Melbourne,1899,14,South Melbourne,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-05-31

@@ -1,0 +1,8 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1933,1,Footscray,5,L,25,,,,,,,,,,,,,,,,,,,,,,,,1933-03-29
+Melbourne,1933,2,Collingwood,18,L,25,,,,,,,,,,,,,,,,,,,,,,,,1933-06-28
+Footscray,1934,3,Fitzroy,2,W,29,,,,,3,,,,,,,,,,,,,,,,,,,1934-03-08
+Footscray,1934,4,Hawthorn,6,L,29,,,,,,,,,,,,,,,,,,,,,,,,1934-04-05
+Footscray,1934,5,South Melbourne,15,L,29,,,,,,,,,,,,,,,,,,,,,,,,1934-06-07
+Footscray,1934,6,St Kilda,16,W,29,,,,,,,,,,,,,,,,,,,,,,,,1934-06-14
+Footscray,1934,7,Melbourne,18,L,29,,,,,,,,,,,,,,,,,,,,,,,,1934-06-28

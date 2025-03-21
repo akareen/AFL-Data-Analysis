@@ -1,0 +1,33 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1981,1,North Melbourne,11,W,24,9,,1,10,,,,,,,,,1,2,,,,,,,,,,1981-05-10
+Carlton,1981,2,Hawthorn,12,W,24,8,2,2,10,,,,,,,,,,1,,,,,,,,,,1981-05-17
+Carlton,1981,3,Fitzroy,13,L,24,4,1,3,7,,,,,,,,,1,,,,,,,,,,,1981-05-24
+Carlton,1981,4,Geelong,18,W,24,8,4,2,10,,,,,,,,,1,,,,,,,,,,,1981-06-28
+Carlton,1981,5,South Melbourne,19,W,24,12,2,3,15,,,,,,,,,5,3,,,,,,,,,,1981-07-05
+Carlton,1981,6,Richmond,22,W,24,6,2,2,8,,,,,,,,,1,1,,,,,,,,,,1981-07-26
+Carlton,1982,7,Collingwood,13,W,24,1,,,1,,,,,,,,,,,,,,,,,,,,1982-05-24
+Carlton,1982,8,Hawthorn,14,L,24,13,5,3,16,,,,,,,,,4,,,,,,,,,,,1982-05-31
+Carlton,1982,9,Melbourne,15,W,24,7,4,8,15,,,,,,,,,1,1,,,,,,,,,,1982-06-07
+Carlton,1982,10,St Kilda,16,W,24,11,1,11,22,,,,,,,,,1,1,,,,,,,,,,1982-06-14
+Carlton,1982,11,Geelong,17,L,24,11,2,4,15,,,,,,,,,7,5,,,,,,,,,,1982-06-21
+Carlton,1982,12,Footscray,18,W,24,10,4,4,14,,,,,,,,,,,,,,,,,,,,1982-06-28
+Carlton,1983,13,Richmond,1,W,24,13,3,5,18,,,,,,,,,1,,,,,,,,,,,1983-03-01
+Carlton,1983,14,Footscray,2,L,24,10,4,8,18,,,,,,,,,2,1,,,,,,,,,,1983-03-08
+Carlton,1983,15,Collingwood,3,W,24,11,4,4,15,,,,,,,,,1,3,,,,,,,,,,1983-03-15
+Carlton,1983,16,Melbourne,4,W,24,13,1,2,15,,,,,,,,,2,,,,,,,,,,,1983-03-22
+Carlton,1983,17,Richmond,12,L,24,9,3,3,12,,,,,,,,,1,1,,,,,,,,,,1983-05-17
+Carlton,1983,18,Footscray,13,W,24,13,4,5,18,,,,,,,,,5,1,,,,,,,,,,1983-05-24
+Carlton,1983,19,Collingwood,14,L,24,11,3,4,15,,,,,,,,,7,5,,,,,,,,,,1983-05-31
+Carlton,1983,20,Melbourne,15,L,24,7,3,4,11,,,,,,,,,2,1,,,,,,,,,,1983-06-07
+Carlton,1984,21,St Kilda,6,W,24,16,5,6,22,,,,,,,,,9,1,,,,,,,,,,1984-04-05
+Carlton,1984,22,Melbourne,7,W,24,12,7,9,21,,,,,,,,,3,,,,,,,,,,,1984-04-12
+Carlton,1984,23,Hawthorn,8,L,24,2,,1,3,,,,,,,,,2,1,,,,,,,,,,1984-04-19
+Carlton,1984,24,St Kilda,16,L,24,7,5,8,15,,,,,,,,,1,,,,,,,,,,,1984-06-14
+Carlton,1984,25,Melbourne,17,W,24,17,2,3,20,,,,,,,,,1,2,,,,,,,,,,1984-06-21
+Carlton,1985,26,Footscray,1,L,24,10,2,8,18,,,,,,,,,2,2,,,,,,,,,,1985-03-01
+Carlton,1985,27,St Kilda,2,W,24,13,4,5,18,,,,,,,,,2,,,,,,,,,,,1985-03-08
+Carlton,1985,28,North Melbourne,3,L,24,10,4,4,14,,1,,,,,,,1,,,,,,,,,,,1985-03-15
+Carlton,1985,29,Geelong,4,W,24,8,5,9,17,,,,,,,,,2,1,,,,,,,,,,1985-03-22
+Carlton,1985,30,Melbourne,5,L,24,11,4,6,17,,,,,,,,,1,2,,,,,,,,,,1985-03-29
+Carlton,1985,31,Essendon,6,L,24,10,5,7,17,,,,,,,,,2,,,,,,,,,,,1985-04-05
+Carlton,1985,32,Sydney,18,W,24,1,2,1,2,,,,,,,,,,1,,,,,,,,,,1985-06-28

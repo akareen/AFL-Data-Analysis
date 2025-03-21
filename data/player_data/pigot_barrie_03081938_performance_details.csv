@@ -1,0 +1,24 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1959,1,Melbourne,3,W,25,,,,,,,,,,,,,,,,,,,,,,,,1959-03-15
+Fitzroy,1959,2,Geelong,4,L,25,,,,,,,,,,,,,,,,,,,,,,,,1959-03-22
+Fitzroy,1959,3,Essendon,6,L,25,,,,,,,,,,,,,,,,,,,,,,,,1959-04-05
+Fitzroy,1959,4,St Kilda,7,L,25,,,,,,,,,,,,,,,,,,,,,,,,1959-04-12
+Fitzroy,1959,5,Hawthorn,12,W,25,,,,,,,,,,,,,,,,,,,,,,,,1959-05-17
+Fitzroy,1960,6,Footscray,16,W,25,,,,,,,,,,,,,,,,,,,,,,,,1960-06-14
+Fitzroy,1961,7,Melbourne,1,L,25,,,,,,,,,,,,,,,,,,,,,,,,1961-03-01
+Fitzroy,1961,8,Collingwood,5,W,25,,,,,2,,,,,,,,,,,,,,,,,,,1961-03-29
+Fitzroy,1961,9,North Melbourne,6,W,25,,,,,,,,,,,,,,,,,,,,,,,,1961-04-05
+Fitzroy,1961,10,South Melbourne,7,W,25,,,,,1,,,,,,,,,,,,,,,,,,,1961-04-12
+Fitzroy,1961,11,Essendon,8,W,25,,,,,,,,,,,,,,,,,,,,,,,,1961-04-19
+Fitzroy,1961,12,Footscray,9,W,25,,,,,,,,,,,,,,,,,,,,,,,,1961-04-26
+Fitzroy,1961,13,Geelong,10,L,25,,,,,,,,,,,,,,,,,,,,,,,,1961-05-03
+Fitzroy,1961,14,St Kilda,11,W,25,,,,,,,,,,,,,,,,,,,,,,,,1961-05-10
+Fitzroy,1961,15,Melbourne,12,D,25,,,,,,,,,,,,,,,,,,,,,,,,1961-05-17
+Fitzroy,1961,16,Carlton,13,W,25,,,,,,,,,,,,,,,,,,,,,,,,1961-05-24
+Fitzroy,1961,17,Collingwood,16,W,25,,,,,,,,,,,,,,,,,,,,,,,,1961-06-14
+Fitzroy,1962,18,Essendon,1,L,25,,,,,,,,,,,,,,,,,,,,,,,,1962-03-01
+Fitzroy,1962,19,Footscray,2,L,25,,,,,,,,,,,,,,,,,,,,,,,,1962-03-08
+Fitzroy,1962,20,St Kilda,3,L,25,,,,,,,,,,,,,,,,,,,,,,,,1962-03-15
+Fitzroy,1962,21,North Melbourne,4,W,25,,,,,,,,,,,,,,,,,,,,,,,,1962-03-22
+Fitzroy,1962,22,Richmond,11,L,25,,,,,,,,,,,,,,,,,,,,,,,,1962-05-10
+Fitzroy,1962,23,Essendon,12,L,25,,,,,,,,,,,,,,,,,,,,,,,,1962-05-17

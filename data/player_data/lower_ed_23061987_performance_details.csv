@@ -1,0 +1,43 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Kangaroos,2006,1,Adelaide,16,L,25,4,2,4,8,,,,2,3,,1,,1,,,2,6,,,1,,,85,2006-06-14
+Kangaroos,2006,2,Geelong,17,W,25,4,4,3,7,,,,1,,,,1,1,,,3,5,,,3,1,,61,2006-06-21
+Kangaroos,2006,3,Melbourne,20,L,25,4,2,3,7,1,1,,3,,3,,1,1,,,2,5,,,1,,,67,2006-07-12
+Kangaroos,2006,4,Hawthorn,21,L,25,4,2,4,8,,,1,4,1,,,1,,1,,1,6,,,2,,,91,2006-07-19
+Kangaroos,2007,5,St Kilda,11,W,25,7,3,9,16,1,1,,2,,3,3,,,,,7,9,,,4,,,72,2007-05-10
+Kangaroos,2007,6,Adelaide,12,L,25,4,2,12,16,,,,4,,3,,1,,,,4,11,,,6,,,86,2007-05-17
+Kangaroos,2007,7,Western Bulldogs,13,W,25,2,,4,6,,,,5,,1,3,,,,,5,,,,1,,,66,2007-05-24
+Kangaroos,2007,8,Richmond,14,W,25,3,3,4,7,,,,2,,1,,,,,,2,5,,,,,,55,2007-05-31
+Kangaroos,2007,9,Fremantle,15,W,25,5,2,2,7,1,,,7,,,,1,,,,4,3,,,3,,,73,2007-06-07
+Kangaroos,2007,10,Melbourne,16,W,25,2,,3,5,,,,1,,1,1,1,1,,,2,4,,,4,,1,59,2007-06-14
+Kangaroos,2007,11,Carlton,21,W,25,8,1,3,11,1,,,3,1,1,1,,2,,,4,8,,,2,1,,73,2007-07-19
+Kangaroos,2007,12,Hawthorn,SF,W,25,5,2,2,7,,,,2,,,1,2,1,1,,3,3,,,,,,82,2007-03-01
+Kangaroos,2007,13,Port Adelaide,PF,L,25,7,5,14,21,1,1,,4,,3,3,,1,,,8,13,1,1,3,1,,85,2007-03-01
+North Melbourne,2008,14,Melbourne,4,W,2,8,1,6,14,,,,1,2,4,1,2,,2,,2,11,,,5,,,63,2008-03-22
+North Melbourne,2008,15,Collingwood,5,W,2,6,2,1,7,2,1,,2,3,,,,1,,,2,5,,1,3,,,93,2008-03-29
+North Melbourne,2008,16,Sydney,6,D,2,4,2,8,12,,,,3,4,2,2,7,,3,,8,3,,,3,3,,87,2008-04-05
+North Melbourne,2008,17,Adelaide,7,L,2,5,1,9,14,,,,3,1,,1,,,,,4,10,,,,,,83,2008-04-12
+North Melbourne,2008,18,West Coast,8,W,2,7,3,5,12,,,,5,,5,3,4,,3,,4,7,,,4,2,,80,2008-04-19
+North Melbourne,2008,19,Western Bulldogs,9,W,2,4,1,6,10,1,1,,1,,2,2,2,,1,,5,5,,1,3,1,,78,2008-04-26
+North Melbourne,2008,20,Brisbane Lions,10,L,2,4,1,10,14,,,,2,,1,3,3,,3,,5,10,,,1,1,3,71,2008-05-03
+North Melbourne,2008,21,Geelong,11,L,2,4,5,7,11,1,,,1,,2,2,1,,1,,5,7,,1,1,,,78,2008-05-10
+North Melbourne,2008,22,Fremantle,12,L,2,4,3,6,10,1,,,3,,2,,2,,1,,3,7,,1,2,,,81,2008-05-17
+North Melbourne,2008,23,Hawthorn,13,W,2,3,2,5,8,,,1,5,1,1,1,2,1,,,3,5,,,2,,,74,2008-05-24
+North Melbourne,2008,24,Western Bulldogs,19,W,2,6,5,2,8,1,2,,2,,2,,2,,,,1,7,,3,,,1,95,2008-07-05
+North Melbourne,2008,25,Sydney,EF,L,2,5,3,2,7,2,2,,3,,2,,3,1,2,,4,3,1,2,,,1,95,2008-03-01
+North Melbourne,2009,26,Melbourne,1,W,2,2,1,2,4,,,,3,,1,,1,,,,,4,,,1,,2,88,2009-03-01
+North Melbourne,2009,27,Western Bulldogs,2,L,2,6,1,7,13,1,1,,3,,,3,1,1,,,6,6,,,3,,,74,2009-03-08
+North Melbourne,2009,28,Essendon,4,W,2,6,8,8,14,,1,,2,,5,,2,,,,2,12,,1,,,,83,2009-03-22
+North Melbourne,2009,29,Richmond,5,L,2,8,5,2,10,,2,,2,1,3,,2,1,,,2,7,,1,1,,,94,2009-03-29
+North Melbourne,2009,30,Collingwood,6,L,2,3,,7,10,,1,,2,1,2,4,1,,1,,5,4,,,,,,82,2009-04-05
+North Melbourne,2009,31,Port Adelaide,7,W,2,10,5,9,19,1,,,2,1,5,1,2,,1,,5,14,,1,1,,,90,2009-04-12
+North Melbourne,2009,32,Geelong,8,L,2,4,2,14,18,,,,3,2,1,4,4,1,4,,9,9,,,,,,92,2009-04-19
+North Melbourne,2009,33,St Kilda,21,W,2,3,,7,10,,,1,4,1,,4,3,,1,,6,4,,,1,,,63,2009-07-19
+North Melbourne,2009,34,Port Adelaide,22,W,2,4,1,10,14,,1,1,4,1,1,5,,,,,9,5,,1,1,,,64,2009-07-26
+North Melbourne,2010,35,Brisbane Lions,11,W,2,6,5,9,15,1,,,3,,,3,1,1,1,,5,9,,2,1,,,59,2010-05-10
+North Melbourne,2010,36,Carlton,12,W,2,9,1,6,15,,,,3,1,2,6,2,2,1,,8,6,,,1,,,64,2010-05-17
+North Melbourne,2010,37,Port Adelaide,13,W,2,4,4,9,13,,2,,5,,,2,2,1,1,,5,8,,1,3,,,62,2010-05-24
+North Melbourne,2010,38,Geelong,14,L,2,8,4,9,17,,,,2,1,2,5,5,2,3,,9,9,,,2,,,63,2010-05-31
+North Melbourne,2010,39,Sydney,15,L,2,3,1,7,10,,,,9,1,,1,3,,1,,7,3,,,,1,,65,2010-06-07
+North Melbourne,2010,40,Richmond,16,W,2,7,2,6,13,,1,,9,1,1,2,3,,3,,7,7,,,1,,,63,2010-06-14
+North Melbourne,2010,41,Essendon,17,L,2,6,,7,13,,,,7,1,1,2,4,2,3,,5,8,,,1,,,57,2010-06-21
+North Melbourne,2010,42,Western Bulldogs,18,L,2,4,,8,12,,,,4,1,1,5,1,2,1,,7,5,,,1,,,66,2010-06-28

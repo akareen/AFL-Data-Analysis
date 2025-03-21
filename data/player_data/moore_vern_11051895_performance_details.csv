@@ -1,0 +1,19 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1922,1,Richmond,11,L,24,,,,,,,,,,,,,,,,,,,,,,,,1922-05-10
+Melbourne,1922,2,Carlton,13,W,24,,,,,,,,,,,,,,,,,,,,,,,,1922-05-24
+Melbourne,1922,3,Fitzroy,18,L,24,,,,,,,,,,,,,,,,,,,,,,,,1922-06-28
+Melbourne,1923,4,Richmond,1,L,34,,,,,1,,,,,,,,,,,,,,,,,,,1923-03-01
+Melbourne,1923,5,Fitzroy,6,L,34,,,,,,,,,,,,,,,,,,,,,,,,1923-04-05
+Melbourne,1923,6,Essendon,7,L,34,,,,,1,,,,,,,,,,,,,,,,,,,1923-04-12
+Melbourne,1923,7,Collingwood,9,L,34,,,,,2,,,,,,,,,,,,,,,,,,,1923-04-26
+Melbourne,1923,8,Richmond,10,L,34,,,,,1,,,,,,,,,,,,,,,,,,,1923-05-03
+Melbourne,1923,9,Geelong,11,L,34,,,,,,,,,,,,,,,,,,,,,,,,1923-05-10
+Melbourne,1923,10,South Melbourne,13,L,34,,,,,,,,,,,,,,,,,,,,,,,,1923-05-24
+Melbourne,1924,11,Richmond,7,L,34,,,,,3,,,,,,,,,,,,,,,,,,,1924-04-12
+Melbourne,1924,12,Fitzroy,8,L,34,,,,,,,,,,,,,,,,,,,,,,,,1924-04-19
+Melbourne,1924,13,St Kilda,10,W,34,,,,,,,,,,,,,,,,,,,,,,,,1924-05-03
+Melbourne,1924,14,Geelong,15,L,34,,,,,,,,,,,,,,,,,,,,,,,,1924-06-07
+Richmond,1925,15,North Melbourne,10,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1925-05-03
+Richmond,1925,16,Fitzroy,14,L,23,,,,,,,,,,,,,,,,,,,,,,,,1925-05-31
+Richmond,1925,17,South Melbourne,15,W,23,,,,,,,,,,,,,,,,,,,,,,,,1925-06-07
+Richmond,1925,18,Essendon,16,L,23,,,,,,,,,,,,,,,,,,,,,,,,1925-06-14

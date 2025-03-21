@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1968,1,Melbourne,10,W,47,1,,,1,,,,,,,,,1,,,,,,,,,,,1968-05-03
+Essendon,1970,2,Hawthorn,15,L,43,13,3,2,15,,,,,,,,,4,3,,,,,,,,,,1970-06-07
+Essendon,1970,3,Geelong,16,L,43,4,1,,4,,,,,,,,,,,,,,,,,,,,1970-06-14
+Essendon,1970,4,Melbourne,17,W,43,9,4,3,12,,,,,,,,,3,2,,,,,,,,,,1970-06-21
+Essendon,1970,5,North Melbourne,18,W,43,13,3,,13,,,,,,,,,8,4,,,,,,,,,,1970-06-28
+Essendon,1970,6,Fitzroy,19,L,43,6,,,6,,,,,,,,,4,1,,,,,,,,,,1970-07-05
+Essendon,1970,7,Collingwood,20,L,43,,,,,,,,,,,,,,,,,,,,,,,,1970-07-12
+Essendon,1971,8,Melbourne,4,L,43,7,2,,7,,,,,,,,,,1,,,,,,,,,,1971-03-22

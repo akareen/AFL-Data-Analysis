@@ -1,0 +1,7 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1930,1,Essendon,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1930-03-15
+Hawthorn,1934,2,North Melbourne,10,W,3,,,,,,,,,,,,,,,,,,,,,,,,1934-05-03
+Hawthorn,1934,3,St Kilda,11,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1934-05-10
+Hawthorn,1934,4,Carlton,12,L,3,,,,,,,,,,,,,,,,,,,,,,,,1934-05-17
+Hawthorn,1934,5,Essendon,15,W,3,,,,,,,,,,,,,,,,,,,,,,,,1934-06-07
+Hawthorn,1934,6,Footscray,17,L,3,,,,,,,,,,,,,,,,,,,,,,,,1934-06-21

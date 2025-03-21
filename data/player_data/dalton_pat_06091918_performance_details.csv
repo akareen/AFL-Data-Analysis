@@ -1,0 +1,34 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1941,1,Richmond,12,W,8,,,,,,,,,,,,,,,,,,,,,,,,1941-05-17
+Collingwood,1941,2,Hawthorn,13,W,8,,,,,,,,,,,,,,,,,,,,,,,,1941-05-24
+Collingwood,1941,3,Fitzroy,14,W,8,,,,,,,,,,,,,,,,,,,,,,,,1941-05-31
+Collingwood,1941,4,North Melbourne,18,W,8,,,,,,,,,,,,,,,,,,,,,,,,1941-06-28
+Collingwood,1942,5,South Melbourne,1,L,8,,,,,4,,,,,,,,,,,,,,,,,,,1942-03-01
+Collingwood,1942,6,Richmond,3,L,8,,,,,1,,,,,,,,,,,,,,,,,,,1942-03-15
+Collingwood,1942,7,Essendon,4,L,8,,,,,2,,,,,,,,,,,,,,,,,,,1942-03-22
+Collingwood,1942,8,Hawthorn,5,L,8,,,,,,,,,,,,,,,,,,,,,,,,1942-03-29
+Collingwood,1942,9,Footscray,6,L,8,,,,,,,,,,,,,,,,,,,,,,,,1942-04-05
+Collingwood,1943,10,Melbourne,8,L,34,,,,,,,,,,,,,,,,,,,,,,,,1943-04-19
+Collingwood,1943,11,Fitzroy,9,L,34,,,,,,,,,,,,,,,,,,,,,,,,1943-04-26
+Collingwood,1943,12,South Melbourne,10,L,34,,,,,,,,,,,,,,,,,,,,,,,,1943-05-03
+Collingwood,1943,13,Hawthorn,11,L,34,,,,,,,,,,,,,,,,,,,,,,,,1943-05-10
+Collingwood,1943,14,Carlton,12,L,34,,,,,,,,,,,,,,,,,,,,,,,,1943-05-17
+Collingwood,1943,15,North Melbourne,13,W,34,,,,,,,,,,,,,,,,,,,,,,,,1943-05-24
+Collingwood,1944,16,Fitzroy,2,L,7,,,,,,,,,,,,,,,,,,,,,,,,1944-03-08
+Collingwood,1944,17,Footscray,3,L,7,,,,,,,,,,,,,,,,,,,,,,,,1944-03-15
+Collingwood,1944,18,South Melbourne,4,L,7,,,,,,,,,,,,,,,,,,,,,,,,1944-03-22
+Collingwood,1944,19,Hawthorn,5,W,7,,,,,,,,,,,,,,,,,,,,,,,,1944-03-29
+Collingwood,1944,20,Melbourne,6,L,7,,,,,,,,,,,,,,,,,,,,,,,,1944-04-05
+Collingwood,1944,21,Essendon,7,W,7,,,,,,,,,,,,,,,,,,,,,,,,1944-04-12
+Collingwood,1944,22,Carlton,8,L,7,,,,,,,,,,,,,,,,,,,,,,,,1944-04-19
+Collingwood,1944,23,Geelong,9,W,7,,,,,,,,,,,,,,,,,,,,,,,,1944-04-26
+Collingwood,1944,24,St Kilda,10,L,7,,,,,,,,,,,,,,,,,,,,,,,,1944-05-03
+Collingwood,1944,25,Richmond,11,L,7,,,,,,,,,,,,,,,,,,,,,,,,1944-05-10
+Collingwood,1944,26,North Melbourne,12,W,7,,,,,,,,,,,,,,,,,,,,,,,,1944-05-17
+Collingwood,1944,27,Fitzroy,13,L,7,,,,,,,,,,,,,,,,,,,,,,,,1944-05-24
+Collingwood,1944,28,Footscray,14,L,7,,,,,,,,,,,,,,,,,,,,,,,,1944-05-31
+Collingwood,1944,29,South Melbourne,15,L,7,,,,,,,,,,,,,,,,,,,,,,,,1944-06-07
+Collingwood,1944,30,Hawthorn,16,W,7,,,,,,,,,,,,,,,,,,,,,,,,1944-06-14
+Collingwood,1945,31,North Melbourne,1,W,10,,,,,,,,,,,,,,,,,,,,,,,,1945-03-01
+Collingwood,1945,32,South Melbourne,2,L,10,,,,,,,,,,,,,,,,,,,,,,,,1945-03-08
+North Melbourne,1945,33,Collingwood,12,L,10,,,,,,,,,,,,,,,,,,,,,,,,1945-05-17

@@ -1,0 +1,72 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+North Melbourne,1954,1,Hawthorn,4,W,4,,,,,,,,,,,,,,,,,,,,,,,,1954-03-22
+North Melbourne,1955,2,Collingwood,2,L,4,,,,,,,,,,,,,,,,,,,,,,,,1955-03-08
+North Melbourne,1955,3,Essendon,3,L,4,,,,,,,,,,,,,,,,,,,,,,,,1955-03-15
+North Melbourne,1955,4,Melbourne,4,L,4,,,,,,,,,,,,,,,,,,,,,,,,1955-03-22
+North Melbourne,1955,5,Hawthorn,5,W,4,,,,,,,,,,,,,,,,,,,,,,,,1955-03-29
+North Melbourne,1955,6,Richmond,6,W,4,,,,,,,,,,,,,,,,,,,,,,,,1955-04-05
+North Melbourne,1955,7,Footscray,7,L,4,,,,,,,,,,,,,,,,,,,,,,,,1955-04-12
+North Melbourne,1955,8,Fitzroy,8,L,4,,,,,,,,,,,,,,,,,,,,,,,,1955-04-19
+North Melbourne,1955,9,Geelong,9,L,4,,,,,1,,,,,,,,,,,,,,,,,,,1955-04-26
+North Melbourne,1955,10,South Melbourne,10,L,4,,,,,,,,,,,,,,,,,,,,,,,,1955-05-03
+North Melbourne,1955,11,Hawthorn,16,W,4,,,,,,,,,,,,,,,,,,,,,,,,1955-06-14
+North Melbourne,1955,12,Richmond,17,L,4,,,,,,,,,,,,,,,,,,,,,,,,1955-06-21
+North Melbourne,1956,13,Geelong,2,L,4,,,,,,,,,,,,,,,,,,,,,,,,1956-03-08
+North Melbourne,1956,14,Essendon,3,L,4,,,,,,,,,,,,,,,,,,,,,,,,1956-03-15
+North Melbourne,1956,15,Carlton,4,L,4,,,,,,,,,,,,,,,,,,,,,,,,1956-03-22
+North Melbourne,1956,16,Fitzroy,5,L,4,,,,,,,,,,,,,,,,,,,,,,,,1956-03-29
+North Melbourne,1956,17,Melbourne,6,L,4,,,,,,,,,,,,,,,,,,,,,,,,1956-04-05
+North Melbourne,1956,18,South Melbourne,7,W,4,,,,,,,,,,,,,,,,,,,,,,,,1956-04-12
+North Melbourne,1956,19,Collingwood,8,L,4,,,,,,,,,,,,,,,,,,,,,,,,1956-04-19
+North Melbourne,1956,20,Hawthorn,9,L,4,,,,,,,,,,,,,,,,,,,,,,,,1956-04-26
+North Melbourne,1956,21,Richmond,10,L,4,,,,,,,,,,,,,,,,,,,,,,,,1956-05-03
+North Melbourne,1956,22,Footscray,11,L,4,,,,,,,,,,,,,,,,,,,,,,,,1956-05-10
+North Melbourne,1956,23,St Kilda,12,L,4,,,,,1,,,,,,,,,,,,,,,,,,,1956-05-17
+North Melbourne,1956,24,Geelong,13,L,4,,,,,,,,,,,,,,,,,,,,,,,,1956-05-24
+North Melbourne,1956,25,Essendon,14,L,4,,,,,,,,,,,,,,,,,,,,,,,,1956-05-31
+North Melbourne,1956,26,Fitzroy,16,W,4,,,,,,,,,,,,,,,,,,,,,,,,1956-06-14
+North Melbourne,1956,27,Melbourne,17,L,4,,,,,,,,,,,,,,,,,,,,,,,,1956-06-21
+North Melbourne,1956,28,South Melbourne,18,L,4,,,,,,,,,,,,,,,,,,,,,,,,1956-06-28
+North Melbourne,1957,29,Richmond,1,L,4,,,,,,,,,,,,,,,,,,,,,,,,1957-03-01
+North Melbourne,1957,30,Geelong,2,L,4,,,,,,,,,,,,,,,,,,,,,,,,1957-03-08
+North Melbourne,1957,31,Hawthorn,3,W,4,,,,,,,,,,,,,,,,,,,,,,,,1957-03-15
+North Melbourne,1957,32,St Kilda,4,L,4,,,,,,,,,,,,,,,,,,,,,,,,1957-03-22
+North Melbourne,1957,33,Footscray,5,W,4,,,,,,,,,,,,,,,,,,,,,,,,1957-03-29
+North Melbourne,1957,34,Collingwood,6,W,4,,,,,,,,,,,,,,,,,,,,,,,,1957-04-05
+North Melbourne,1957,35,South Melbourne,7,W,4,,,,,,,,,,,,,,,,,,,,,,,,1957-04-12
+North Melbourne,1957,36,Fitzroy,8,W,4,,,,,,,,,,,,,,,,,,,,,,,,1957-04-19
+North Melbourne,1957,37,Carlton,9,L,4,,,,,,,,,,,,,,,,,,,,,,,,1957-04-26
+North Melbourne,1957,38,Melbourne,10,L,4,,,,,,,,,,,,,,,,,,,,,,,,1957-05-03
+North Melbourne,1957,39,Essendon,11,W,4,,,,,,,,,,,,,,,,,,,,,,,,1957-05-10
+North Melbourne,1957,40,Richmond,12,W,4,,,,,,,,,,,,,,,,,,,,,,,,1957-05-17
+North Melbourne,1957,41,Geelong,13,L,4,,,,,,,,,,,,,,,,,,,,,,,,1957-05-24
+North Melbourne,1957,42,Hawthorn,14,L,4,,,,,,,,,,,,,,,,,,,,,,,,1957-05-31
+North Melbourne,1957,43,St Kilda,15,L,4,,,,,,,,,,,,,,,,,,,,,,,,1957-06-07
+North Melbourne,1957,44,Footscray,16,W,4,,,,,,,,,,,,,,,,,,,,,,,,1957-06-14
+North Melbourne,1957,45,Collingwood,17,L,4,,,,,,,,,,,,,,,,,,,,,,,,1957-06-21
+North Melbourne,1957,46,South Melbourne,18,L,4,,,,,,,,,,,,,,,,,,,,,,,,1957-06-28
+North Melbourne,1958,47,Fitzroy,1,L,4,,,,,,,,,,,,,,,,,,,,,,,,1958-03-01
+North Melbourne,1958,48,Footscray,4,L,4,,,,,,,,,,,,,,,,,,,,,,,,1958-03-22
+North Melbourne,1958,49,Essendon,6,W,4,,,,,,,,,,,,,,,,,,,,,,,,1958-04-05
+North Melbourne,1958,50,Collingwood,7,W,4,,,,,,,,,,,,,,,,,,,,,,,,1958-04-12
+North Melbourne,1958,51,Geelong,8,W,4,,,,,1,,,,,,,,,,,,,,,,,,,1958-04-19
+North Melbourne,1958,52,Richmond,9,W,4,,,,,,,,,,,,,,,,,,,,,,,,1958-04-26
+North Melbourne,1958,53,South Melbourne,10,W,4,,,,,,,,,,,,,,,,,,,,,,,,1958-05-03
+North Melbourne,1958,54,St Kilda,11,W,4,,,,,,,,,,,,,,,,,,,,,,,,1958-05-10
+North Melbourne,1958,55,Fitzroy,12,L,4,,,,,,,,,,,,,,,,,,,,,,,,1958-05-17
+North Melbourne,1958,56,Carlton,13,W,4,,,,,,,,,,,,,,,,,,,,,,,,1958-05-24
+North Melbourne,1958,57,Melbourne,14,L,4,,,,,,,,,,,,,,,,,,,,,,,,1958-05-31
+North Melbourne,1958,58,Footscray,15,W,4,,,,,,,,,,,,,,,,,,,,,,,,1958-06-07
+North Melbourne,1958,59,Hawthorn,16,L,4,,,,,,,,,,,,,,,,,,,,,,,,1958-06-14
+North Melbourne,1958,60,Essendon,17,W,4,,,,,,,,,,,,,,,,,,,,,,,,1958-06-21
+North Melbourne,1958,61,Collingwood,18,W,4,,,,,,,,,,,,,,,,,,,,,,,,1958-06-28
+North Melbourne,1958,62,Fitzroy,SF,W,4,,,,,,,,,,,,,,,,,,,,,,,,1958-03-01
+North Melbourne,1958,63,Collingwood,PF,L,4,,,,,,,,,,,,,,,,,,,,,,,,1958-03-01
+North Melbourne,1959,64,Geelong,1,W,4,,,,,,,,,,,,,,,,,,,,,,,,1959-03-01
+North Melbourne,1959,65,Richmond,2,W,4,,,,,,,,,,,,,,,,,,,,,,,,1959-03-08
+North Melbourne,1959,66,Carlton,7,L,4,,,,,,,,,,,,,,,,,,,,,,,,1959-04-12
+North Melbourne,1959,67,Hawthorn,8,W,4,,,,,,,,,,,,,,,,,,,,,,,,1959-04-19
+North Melbourne,1959,68,Footscray,9,W,4,,,,,,,,,,,,,,,,,,,,,,,,1959-04-26
+North Melbourne,1959,69,Collingwood,10,L,4,,,,,,,,,,,,,,,,,,,,,,,,1959-05-03
+North Melbourne,1959,70,Geelong,12,W,4,,,,,,,,,,,,,,,,,,,,,,,,1959-05-17
+North Melbourne,1959,71,Richmond,13,L,4,,,,,,,,,,,,,,,,,,,,,,,,1959-05-24

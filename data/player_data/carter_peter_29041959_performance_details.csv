@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1977,1,Melbourne,1,W,22,6,2,2,8,,3,,,,,,,2,,,,,,,,,,,1977-03-01
+South Melbourne,1977,2,Essendon,13,L,22,3,,1,4,,1,,,,,,,,2,,,,,,,,,,1977-05-24
+South Melbourne,1978,3,Richmond,18,W,22,13,4,4,17,,1,,,,,,,4,2,,,,,,,,,,1978-06-28
+South Melbourne,1978,4,St Kilda,19,L,22,5,1,1,6,,,,,,,,,4,,,,,,,,,,,1978-07-05
+South Melbourne,1979,5,Fitzroy,2,W,22,18,5,,18,,1,,,,,,,2,5,,,,,,,,,,1979-03-08
+South Melbourne,1979,6,Melbourne,3,W,22,13,2,1,14,1,,,,,,,,,2,,,,,,,,,,1979-03-15
+South Melbourne,1979,7,Hawthorn,4,L,22,16,4,4,20,,,,,,,,,5,2,,,,,,,,,,1979-03-22
+South Melbourne,1979,8,North Melbourne,5,L,22,16,,2,18,1,1,,,,,,,2,1,,,,,,,,,,1979-03-29
+South Melbourne,1980,9,Fitzroy,20,W,22,12,4,3,15,,1,,,,,,,1,,,,,,,,,,,1980-07-12
+South Melbourne,1980,10,Hawthorn,21,L,22,6,2,3,9,,,,,,,,,1,,,,,,,,,,,1980-07-19
+Collingwood,1982,11,Hawthorn,9,L,18,7,1,1,8,1,,,,,,,,2,3,,,,,,,,,,1982-04-26

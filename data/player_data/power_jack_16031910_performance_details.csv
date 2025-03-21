@@ -1,0 +1,40 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1930,1,North Melbourne,4,W,12,,,,,,,,,,,,,,,,,,,,,,,,1930-03-22
+Melbourne,1931,2,Hawthorn,4,W,12,,,,,1,,,,,,,,,,,,,,,,,,,1931-03-22
+Melbourne,1931,3,Footscray,5,W,12,,,,,,,,,,,,,,,,,,,,,,,,1931-03-29
+Melbourne,1931,4,North Melbourne,6,W,12,,,,,,,,,,,,,,,,,,,,,,,,1931-04-05
+Melbourne,1931,5,Collingwood,7,L,12,,,,,,,,,,,,,,,,,,,,,,,,1931-04-12
+Melbourne,1931,6,Carlton,8,L,12,,,,,,,,,,,,,,,,,,,,,,,,1931-04-19
+Melbourne,1931,7,St Kilda,9,L,12,,,,,,,,,,,,,,,,,,,,,,,,1931-04-26
+Melbourne,1931,8,Fitzroy,12,L,12,,,,,,,,,,,,,,,,,,,,,,,,1931-05-17
+Melbourne,1931,9,Essendon,13,W,12,,,,,,,,,,,,,,,,,,,,,,,,1931-05-24
+Melbourne,1931,10,Hawthorn,15,W,12,,,,,,,,,,,,,,,,,,,,,,,,1931-06-07
+Melbourne,1931,11,Footscray,16,L,12,,,,,,,,,,,,,,,,,,,,,,,,1931-06-14
+Melbourne,1931,12,North Melbourne,17,W,12,,,,,,,,,,,,,,,,,,,,,,,,1931-06-21
+Melbourne,1931,13,Collingwood,18,L,12,,,,,,,,,,,,,,,,,,,,,,,,1931-06-28
+Melbourne,1932,14,Richmond,2,L,31,,,,,,,,,,,,,,,,,,,,,,,,1932-03-08
+Melbourne,1932,15,Hawthorn,3,L,31,,,,,,,,,,,,,,,,,,,,,,,,1932-03-15
+Melbourne,1933,16,Richmond,1,L,31,,,,,,,,,,,,,,,,,,,,,,,,1933-03-01
+Melbourne,1933,17,Geelong,2,L,31,,,,,,,,,,,,,,,,,,,,,,,,1933-03-08
+Melbourne,1933,18,Fitzroy,4,L,31,,,,,,,,,,,,,,,,,,,,,,,,1933-03-22
+Melbourne,1933,19,Footscray,5,L,31,,,,,,,,,,,,,,,,,,,,,,,,1933-03-29
+Melbourne,1933,20,Carlton,6,L,31,,,,,,,,,,,,,,,,,,,,,,,,1933-04-05
+Melbourne,1933,21,North Melbourne,8,L,31,,,,,,,,,,,,,,,3,,,,,,,,,1933-04-19
+Melbourne,1933,22,St Kilda,9,L,31,,,,,,,,,,,,,,,2,,,,,,,,,1933-04-26
+Melbourne,1933,23,South Melbourne,10,L,31,,,,,,,,,,,,,,,,,,,,,,,,1933-05-03
+Melbourne,1933,24,Hawthorn,11,W,31,,,,,1,,,,,,,,,,,,,,,,,,,1933-05-10
+Melbourne,1933,25,Richmond,12,L,31,,,,,1,,,,,,,,,,,,,,,,,,,1933-05-17
+Melbourne,1933,26,Geelong,13,L,31,,,,,,,,,,,,,,,,,,,,,,,,1933-05-24
+Melbourne,1933,27,Essendon,14,W,31,,,,,,,,,,,,,,,,,,,,,,,,1933-05-31
+Melbourne,1933,28,Fitzroy,15,L,31,,,,,1,,,,,,,,,,,,,,,,,,,1933-06-07
+Melbourne,1933,29,Footscray,16,L,31,,,,,,,,,,,,,,,,,,,,,,,,1933-06-14
+Melbourne,1933,30,Carlton,17,L,31,,,,,,,,,,,,,,,,,,,,,,,,1933-06-21
+Melbourne,1934,31,South Melbourne,11,L,31,,,,,1,,,,,,,,,,,,,,,,,,,1934-05-10
+Melbourne,1934,32,Richmond,12,W,31,,,,,,,,,,,,,,,,,,,,,,,,1934-05-17
+Melbourne,1934,33,Geelong,14,L,31,,,,,1,,,,,,,,,,,,,,,,,,,1934-05-31
+Melbourne,1934,34,Fitzroy,15,L,31,,,,,,,,,,,,,,,,,,,,,,,,1934-06-07
+Melbourne,1934,35,North Melbourne,16,W,31,,,,,,,,,,,,,,,,,,,,,,,,1934-06-14
+Melbourne,1934,36,St Kilda,17,L,31,,,,,,,,,,,,,,,,,,,,,,,,1934-06-21
+Collingwood,1935,37,Richmond,10,W,3,,,,,,,,,,,,,,,,,,,,,,,,1935-05-03
+Collingwood,1935,38,Hawthorn,11,W,3,,,,,,,,,,,,,,,,,,,,,,,,1935-05-10
+Collingwood,1935,39,Geelong,15,W,3,,,,,,,,,,,,,,,,,,,,,,,,1935-06-07

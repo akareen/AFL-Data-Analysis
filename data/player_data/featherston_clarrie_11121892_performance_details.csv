@@ -1,0 +1,15 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1918,1,St Kilda,1,L,3,,,,,,,,,,,,,,,,,,,,,,,,1918-03-01
+Fitzroy,1918,2,Richmond,3,W,3,,,,,,,,,,,,,,,,,,,,,,,,1918-03-15
+Fitzroy,1918,3,Geelong,4,W,3,,,,,,,,,,,,,,,,,,,,,,,,1918-03-22
+Fitzroy,1918,4,Essendon,5,W,3,,,,,,,,,,,,,,,,,,,,,,,,1918-03-29
+Fitzroy,1918,5,Collingwood,6,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1918-04-05
+Fitzroy,1918,6,Carlton,7,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1918-04-12
+Fitzroy,1918,7,St Kilda,8,W,3,,,,,,,,,,,,,,,,,,,,,,,,1918-04-19
+Fitzroy,1918,8,South Melbourne,9,L,3,,,,,,,,,,,,,,,,,,,,,,,,1918-04-26
+Fitzroy,1918,9,Richmond,10,W,3,,,,,1,,,,,,,,,,,,,,,,,,,1918-05-03
+Fitzroy,1918,10,Geelong,11,W,3,,,,,,,,,,,,,,,,,,,,,,,,1918-05-10
+Fitzroy,1918,11,Essendon,12,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1918-05-17
+Fitzroy,1918,12,Collingwood,13,L,3,,,,,,,,,,,,,,,,,,,,,,,,1918-05-24
+Fitzroy,1918,13,Carlton,14,L,3,,,,,,,,,,,,,,,,,,,,,,,,1918-05-31
+Fitzroy,1919,14,Carlton,1,L,3,,,,,,,,,,,,,,,,,,,,,,,,1919-03-01

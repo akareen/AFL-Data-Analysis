@@ -1,0 +1,55 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+North Melbourne,1927,1,Geelong,3,L,25,,,,,,,,,,,,,,,,,,,,,,,,1927-03-15
+North Melbourne,1927,2,Hawthorn,4,W,25,,,,,,,,,,,,,,,,,,,,,,,,1927-03-22
+North Melbourne,1927,3,Richmond,5,L,25,,,,,,,,,,,,,,,,,,,,,,,,1927-03-29
+North Melbourne,1927,4,South Melbourne,6,L,25,,,,,,,,,,,,,,,,,,,,,,,,1927-04-05
+North Melbourne,1927,5,Melbourne,7,L,25,,,,,,,,,,,,,,,,,,,,,,,,1927-04-12
+North Melbourne,1927,6,Carlton,8,L,25,,,,,,,,,,,,,,,,,,,,,,,,1927-04-19
+North Melbourne,1927,7,St Kilda,9,L,25,,,,,,,,,,,,,,,,,,,,,,,,1927-04-26
+North Melbourne,1927,8,Collingwood,10,L,25,,,,,,,,,,,,,,,,,,,,,,,,1927-05-03
+North Melbourne,1927,9,Footscray,11,L,25,,,,,,,,,,,,,,,,,,,,,,,,1927-05-10
+North Melbourne,1927,10,Fitzroy,12,L,25,,,,,,,,,,,,,,,,,,,,,,,,1927-05-17
+North Melbourne,1927,11,Essendon,13,L,25,,,,,,,,,,,,,,,,,,,,,,,,1927-05-24
+North Melbourne,1927,12,Hawthorn,15,L,25,,,,,,,,,,,,,,,,,,,,,,,,1927-06-07
+North Melbourne,1927,13,Richmond,16,L,25,,,,,,,,,,,,,,,,,,,,,,,,1927-06-14
+North Melbourne,1927,14,South Melbourne,17,L,25,,,,,,,,,,,,,,,,,,,,,,,,1927-06-21
+North Melbourne,1928,15,Richmond,1,L,25,,,,,,,,,,,,,,,,,,,,,,,,1928-03-01
+North Melbourne,1928,16,St Kilda,3,L,25,,,,,,,,,,,,,,,,,,,,,,,,1928-03-15
+North Melbourne,1928,17,South Melbourne,4,W,25,,,,,,,,,,,,,,,,,,,,,,,,1928-03-22
+North Melbourne,1928,18,Carlton,5,W,25,,,,,,,,,,,,,,,,,,,,,,,,1928-03-29
+North Melbourne,1928,19,Collingwood,6,L,25,,,,,1,,,,,,,,,,,,,,,,,,,1928-04-05
+North Melbourne,1928,20,Melbourne,7,L,25,,,,,,,,,,,,,,,,,,,,,,,,1928-04-12
+North Melbourne,1928,21,Footscray,8,L,25,,,,,,,,,,,,,,,,,,,,,,,,1928-04-19
+North Melbourne,1928,22,Essendon,9,L,25,,,,,1,,,,,,,,,,,,,,,,,,,1928-04-26
+North Melbourne,1928,23,Geelong,10,L,25,,,,,,,,,,,,,,,,,,,,,,,,1928-05-03
+North Melbourne,1928,24,Fitzroy,11,L,25,,,,,,,,,,,,,,,,,,,,,,,,1928-05-10
+North Melbourne,1928,25,Richmond,12,L,25,,,,,,,,,,,,,,,,,,,,,,,,1928-05-17
+North Melbourne,1928,26,Hawthorn,13,W,25,,,,,1,,,,,,,,,,,,,,,,,,,1928-05-24
+North Melbourne,1928,27,St Kilda,14,L,25,,,,,1,,,,,,,,,,,,,,,,,,,1928-05-31
+North Melbourne,1928,28,South Melbourne,15,W,25,,,,,,,,,,,,,,,,,,,,,,,,1928-06-07
+North Melbourne,1928,29,Carlton,16,L,25,,,,,,,,,,,,,,,,,,,,,,,,1928-06-14
+North Melbourne,1928,30,Collingwood,17,L,25,,,,,,,,,,,,,,,,,,,,,,,,1928-06-21
+North Melbourne,1928,31,Melbourne,18,L,25,,,,,,,,,,,,,,,,,,,,,,,,1928-06-28
+North Melbourne,1929,32,Geelong,1,L,25,,,,,,,,,,,,,,,,,,,,,,,,1929-03-01
+North Melbourne,1929,33,Richmond,9,L,25,,,,,,,,,,,,,,,,,,,,,,,,1929-04-26
+North Melbourne,1929,34,Hawthorn,10,L,25,,,,,,,,,,,,,,,,,,,,,,,,1929-05-03
+North Melbourne,1929,35,South Melbourne,11,L,25,,,,,,,,,,,,,,,,,,,,,,,,1929-05-10
+North Melbourne,1929,36,Fitzroy,13,L,25,,,,,,,,,,,,,,,,,,,,,,,,1929-05-24
+Essendon,1930,37,Richmond,3,W,21,,,,,,,,,,,,,,,,,,,,,,,,1930-03-15
+Essendon,1930,38,Hawthorn,4,W,21,,,,,,,,,,,,,,,,,,,,,,,,1930-03-22
+Essendon,1930,39,South Melbourne,5,W,21,,,,,,,,,,,,,,,,,,,,,,,,1930-03-29
+Essendon,1930,40,Geelong,6,W,21,,,,,,,,,,,,,,,,,,,,,,,,1930-04-05
+Essendon,1930,41,Fitzroy,7,W,21,,,,,,,,,,,,,,,,,,,,,,,,1930-04-12
+Essendon,1930,42,St Kilda,10,W,21,,,,,,,,,,,,,,,,,,,,,,,,1930-05-03
+Essendon,1930,43,Collingwood,11,L,21,,,,,,,,,,,,,,,,,,,,,,,,1930-05-10
+Essendon,1930,44,South Melbourne,12,L,21,,,,,,,,,,,,,,,,,,,,,,,,1930-05-17
+Essendon,1930,45,Geelong,13,L,21,,,,,,,,,,,,,,,,,,,,,,,,1930-05-24
+Essendon,1930,46,Fitzroy,14,W,21,,,,,,,,,,,,,,,,,,,,,,,,1930-05-31
+Essendon,1930,47,North Melbourne,15,W,21,,,,,,,,,,,,,,,,,,,,,,,,1930-06-07
+Essendon,1930,48,Melbourne,16,W,21,,,,,,,,,,,,,,,,,,,,,,,,1930-06-14
+Essendon,1930,49,St Kilda,17,L,21,,,,,1,,,,,,,,,,,,,,,,,,,1930-06-21
+Essendon,1930,50,Collingwood,18,L,21,,,,,,,,,,,,,,,,,,,,,,,,1930-06-28
+Essendon,1931,51,Melbourne,2,W,21,,,,,,,,,,,,,,,,,,,,,,,,1931-03-08
+Essendon,1931,52,Richmond,5,L,21,,,,,,,,,,,,,,,,,,,,,,,,1931-03-29
+Essendon,1931,53,Hawthorn,7,L,21,,,,,,,,,,,,,,,,,,,,,,,,1931-04-12
+Essendon,1931,54,Geelong,8,L,21,,,,,,,,,,,,,,,,,,,,,,,,1931-04-19

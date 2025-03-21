@@ -1,0 +1,54 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+North Melbourne,1947,1,St Kilda,2,L,17,,,,,,,,,,,,,,,,,,,,,,,,1947-03-08
+North Melbourne,1947,2,South Melbourne,3,W,17,,,,,,,,,,,,,,,,,,,,,,,,1947-03-15
+North Melbourne,1947,3,Fitzroy,4,L,17,,,,,,,,,,,,,,,,,,,,,,,,1947-03-22
+North Melbourne,1949,4,Collingwood,1,L,25,,,,,,,,,,,,,,,,,,,,,,,,1949-03-01
+North Melbourne,1949,5,Essendon,2,L,25,,,,,,,,,,,,,,,,,,,,,,,,1949-03-08
+North Melbourne,1949,6,Richmond,3,W,25,,,,,,,,,,,,,,,,,,,,,,,,1949-03-15
+North Melbourne,1949,7,Footscray,4,W,25,,,,,,,,,,,,,,,,,,,,,,,,1949-03-22
+North Melbourne,1949,8,Melbourne,5,W,25,,,,,,,,,,,,,,,,,,,,,,,,1949-03-29
+North Melbourne,1949,9,Hawthorn,6,W,25,,,,,,,,,,,,,,,,,,,,,,,,1949-04-05
+North Melbourne,1949,10,Geelong,7,W,25,,,,,,,,,,,,,,,,,,,,,,,,1949-04-12
+North Melbourne,1949,11,Carlton,8,L,25,,,,,,,,,,,,,,,,,,,,,,,,1949-04-19
+North Melbourne,1949,12,St Kilda,9,W,25,,,,,,,,,,,,,,,,,,,,,,,,1949-04-26
+North Melbourne,1949,13,South Melbourne,10,W,25,,,,,,,,,,,,,,,,,,,,,,,,1949-05-03
+North Melbourne,1949,14,Fitzroy,11,W,25,,,,,,,,,,,,,,,,,,,,,,,,1949-05-10
+North Melbourne,1949,15,Collingwood,12,W,25,,,,,,,,,,,,,,,,,,,,,,,,1949-05-17
+North Melbourne,1949,16,Richmond,14,W,25,,,,,,,,,,,,,,,,,,,,,,,,1949-05-31
+North Melbourne,1949,17,Footscray,15,W,25,,,,,,,,,,,,,,,,,,,,,,,,1949-06-07
+North Melbourne,1949,18,Melbourne,16,W,25,,,,,,,,,,,,,,,,,,,,,,,,1949-06-14
+North Melbourne,1949,19,Hawthorn,17,L,25,,,,,,,,,,,,,,,,,,,,,,,,1949-06-21
+North Melbourne,1949,20,Geelong,18,W,25,,,,,,,,,,,,,,,,,,,,,,,,1949-06-28
+North Melbourne,1949,21,Carlton,19,W,25,,,,,,,,,,,,,,,,,,,,,,,,1949-07-05
+North Melbourne,1949,22,Carlton,SF,L,25,,,,,,,,,,,,,,,,,,,,,,,,1949-03-01
+North Melbourne,1949,23,Essendon,PF,L,25,,,,,,,,,,,,,,,,,,,,,,,,1949-03-01
+North Melbourne,1950,24,Richmond,1,W,25,,,,,,,,,,,,,,,,,,,,,,,,1950-03-01
+North Melbourne,1950,25,Carlton,2,L,25,,,,,,,,,,,,,,,,,,,,,,,,1950-03-08
+North Melbourne,1950,26,Essendon,6,W,25,,,,,,,,,,,,,,,,,,,,,,,,1950-04-05
+North Melbourne,1951,27,St Kilda,2,L,25,,,,,,,,,,,,,,,,,,,,,,,,1951-03-08
+North Melbourne,1952,28,Essendon,2,L,25,,,,,,,,,,,,,,,,,,,,,,,,1952-03-08
+North Melbourne,1952,29,Footscray,3,W,25,,,,,,,,,,,,,,,,,,,,,,,,1952-03-15
+North Melbourne,1952,30,Geelong,5,L,25,,,,,,,,,,,,,,,,,,,,,,,,1952-03-29
+North Melbourne,1953,31,Collingwood,2,W,25,,,,,,,,,,,,,,,,,,,,,,,,1953-03-08
+North Melbourne,1953,32,Fitzroy,4,L,25,,,,,,,,,,,,,,,,,,,,,,,,1953-03-22
+North Melbourne,1953,33,South Melbourne,5,W,25,,,,,,,,,,,,,,,,,,,,,,,,1953-03-29
+North Melbourne,1953,34,Essendon,6,L,25,,,,,,,,,,,,,,,,,,,,,,,,1953-04-05
+North Melbourne,1953,35,Geelong,11,L,25,,,,,,,,,,,,,,,,,,,,,,,,1953-05-10
+North Melbourne,1953,36,St Kilda,12,W,25,,,,,,,,,,,,,,,,,,,,,,,,1953-05-17
+North Melbourne,1953,37,Collingwood,13,L,25,,,,,,,,,,,,,,,,,,,,,,,,1953-05-24
+North Melbourne,1954,38,Richmond,1,W,25,,,,,,,,,,,,,,,,,,,,,,,,1954-03-01
+North Melbourne,1954,39,Geelong,2,W,25,,,,,,,,,,,,,,,,,,,,,,,,1954-03-08
+North Melbourne,1954,40,Fitzroy,3,W,25,,,,,,,,,,,,,,,,,,,,,,,,1954-03-15
+North Melbourne,1954,41,Hawthorn,4,W,25,,,,,,,,,,,,,,,,,,,,,,,,1954-03-22
+North Melbourne,1954,42,Footscray,5,L,25,,,,,,,,,,,,,,,,,,,,,,,,1954-03-29
+North Melbourne,1954,43,Collingwood,9,W,25,,,,,,,,,,,,,,,,,,,,,,,,1954-04-26
+North Melbourne,1954,44,Carlton,10,W,25,,,,,,,,,,,,,,,,,,,,,,,,1954-05-03
+North Melbourne,1954,45,Melbourne,11,L,25,,,,,1,,,,,,,,,,,,,,,,,,,1954-05-10
+North Melbourne,1954,46,Richmond,12,L,25,,,,,,,,,,,,,,,,,,,,,,,,1954-05-17
+North Melbourne,1954,47,Geelong,13,L,25,,,,,,,,,,,,,,,,,,,,,,,,1954-05-24
+North Melbourne,1954,48,Fitzroy,14,W,25,,,,,,,,,,,,,,,,,,,,,,,,1954-05-31
+North Melbourne,1954,49,Hawthorn,15,W,25,,,,,,,,,,,,,,,,,,,,,,,,1954-06-07
+North Melbourne,1954,50,Footscray,16,D,25,,,,,,,,,,,,,,,,,,,,,,,,1954-06-14
+North Melbourne,1954,51,South Melbourne,17,W,25,,,,,,,,,,,,,,,,,,,,,,,,1954-06-21
+North Melbourne,1954,52,St Kilda,18,W,25,,,,,,,,,,,,,,,,,,,,,,,,1954-06-28
+North Melbourne,1954,53,Melbourne,SF,L,25,,,,,,,,,,,,,,,,,,,,,,,,1954-03-01

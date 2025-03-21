@@ -1,0 +1,33 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1941,1,Richmond,6,L,21,,,,,,,,,,,,,,,,,,,,,,,,1941-04-05
+Hawthorn,1941,2,South Melbourne,7,L,21,,,,,2,,,,,,,,,,,,,,,,,,,1941-04-12
+Hawthorn,1942,3,North Melbourne,1,L,11,,,,,,,,,,,,,,,,,,,,,,,,1942-03-01
+Hawthorn,1942,4,St Kilda,2,L,11,,,,,,,,,,,,,,,,,,,,,,,,1942-03-08
+Hawthorn,1942,5,Footscray,3,L,11,,,,,,,,,,,,,,,,,,,,,,,,1942-03-15
+Melbourne,1943,6,South Melbourne,2,W,20,,,,,1,,,,,,,,,,,,,,,,,,,1943-03-08
+Melbourne,1943,7,Hawthorn,3,L,20,,,,,,,,,,,,,,,,,,,,,,,,1943-03-15
+Melbourne,1943,8,North Melbourne,4,L,20,,,,,,,,,,,,,,,,,,,,,,,,1943-03-22
+Melbourne,1943,9,Richmond,5,L,20,,,,,,,,,,,,,,,,,,,,,,,,1943-03-29
+Melbourne,1943,10,Footscray,6,L,20,,,,,1,,,,,,,,,,,,,,,,,,,1943-04-05
+Melbourne,1943,11,Carlton,7,W,20,,,,,,,,,,,,,,,,,,,,,,,,1943-04-12
+Melbourne,1943,12,Collingwood,8,W,20,,,,,3,,,,,,,,,,,,,,,,,,,1943-04-19
+Melbourne,1943,13,St Kilda,9,W,20,,,,,5,,,,,,,,,,,,,,,,,,,1943-04-26
+Melbourne,1943,14,Essendon,10,W,20,,,,,3,,,,,,,,,,,,,,,,,,,1943-05-03
+Melbourne,1943,15,Footscray,12,W,20,,,,,4,,,,,,,,,,,,,,,,,,,1943-05-17
+Melbourne,1943,16,South Melbourne,13,L,20,,,,,2,,,,,,,,,,,,,,,,,,,1943-05-24
+Melbourne,1943,17,Fitzroy,14,L,20,,,,,,,,,,,,,,,,,,,,,,,,1943-05-31
+Melbourne,1943,18,Richmond,15,L,20,,,,,3,,,,,,,,,,,,,,,,,,,1943-06-07
+Melbourne,1943,19,Collingwood,16,W,20,,,,,3,,,,,,,,,,,,,,,,,,,1943-06-14
+Melbourne,1944,20,Richmond,1,L,20,,,,,,,,,,,,,,,,,,,,,,,,1944-03-01
+Melbourne,1944,21,Geelong,4,W,20,,,,,1,,,,,,,,,,,,,,,,,,,1944-03-22
+Melbourne,1944,22,Collingwood,6,W,20,,,,,3,,,,,,,,,,,,,,,,,,,1944-04-05
+Melbourne,1944,23,North Melbourne,7,L,20,,,,,1,,,,,,,,,,,,,,,,,,,1944-04-12
+Melbourne,1944,24,Fitzroy,8,L,20,,,,,,,,,,,,,,,,,,,,,,,,1944-04-19
+Melbourne,1944,25,South Melbourne,10,W,20,,,,,,,,,,,,,,,,,,,,,,,,1944-05-03
+Melbourne,1944,26,Hawthorn,11,W,20,,,,,3,,,,,,,,,,,,,,,,,,,1944-05-10
+Melbourne,1944,27,Richmond,12,L,20,,,,,1,,,,,,,,,,,,,,,,,,,1944-05-17
+Melbourne,1944,28,Essendon,13,L,20,,,,,,,,,,,,,,,,,,,,,,,,1944-05-24
+Melbourne,1944,29,Carlton,14,W,20,,,,,,,,,,,,,,,,,,,,,,,,1944-05-31
+Melbourne,1944,30,Geelong,15,W,20,,,,,,,,,,,,,,,,,,,,,,,,1944-06-07
+Melbourne,1944,31,Collingwood,17,L,20,,,,,3,,,,,,,,,,,,,,,,,,,1944-06-21
+Melbourne,1944,32,Hawthorn,18,W,20,,,,,1,,,,,,,,,,,,,,,,,,,1944-06-28

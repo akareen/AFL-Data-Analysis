@@ -1,0 +1,57 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1928,1,Carlton,2,L,3,,,,,,,,,,,,,,,,,,,,,,,,1928-03-08
+Richmond,1928,2,Essendon,6,L,3,,,,,,,,,,,,,,,,,,,,,,,,1928-04-05
+Richmond,1928,3,South Melbourne,9,W,3,,,,,,,,,,,,,,,,,,,,,,,,1928-04-26
+Richmond,1928,4,Hawthorn,10,W,3,,,,,,,,,,,,,,,,,,,,,,,,1928-05-03
+Richmond,1929,5,Collingwood,1,L,3,,,,,,,,,,,,,,,,,,,,,,,,1929-03-01
+Richmond,1929,6,Carlton,2,W,3,,,,,,,,,,,,,,,,,,,,,,,,1929-03-08
+Richmond,1929,7,Essendon,3,W,3,,,,,,,,,,,,,,,,,,,,,,,,1929-03-15
+Richmond,1929,8,Footscray,4,W,3,,,,,,,,,,,,,,,,,,,,,,,,1929-03-22
+Richmond,1929,9,Hawthorn,5,W,3,,,,,,,,,,,,,,,,,,,,,,,,1929-03-29
+Richmond,1929,10,South Melbourne,6,L,3,,,,,,,,,,,,,,,,,,,,,,,,1929-04-05
+Richmond,1929,11,Fitzroy,8,W,3,,,,,,,,,,,,,,,,,,,,,,,,1929-04-19
+Richmond,1929,12,North Melbourne,9,W,3,,,,,,,,,,,,,,,,,,,,,,,,1929-04-26
+Richmond,1929,13,Melbourne,10,L,3,,,,,,,,,,,,,,,,,,,,,,,,1929-05-03
+Richmond,1929,14,St Kilda,11,W,3,,,,,,,,,,,,,,,,,,,,,,,,1929-05-10
+Richmond,1929,15,Carlton,13,W,3,,,,,,,,,,,,,,,,,,,,,,,,1929-05-24
+Richmond,1929,16,Essendon,14,D,3,,,,,,,,,,,,,,,,,,,,,,,,1929-05-31
+Richmond,1929,17,Footscray,15,W,3,,,,,,,,,,,,,,,,,,,,,,,,1929-06-07
+Richmond,1929,18,Hawthorn,16,W,3,,,,,,,,,,,,,,,,,,,,,,,,1929-06-14
+Richmond,1929,19,South Melbourne,17,W,3,,,,,,,,,,,,,,,,,,,,,,,,1929-06-21
+Richmond,1929,20,Geelong,18,L,3,,,,,,,,,,,,,,,,,,,,,,,,1929-06-28
+Richmond,1929,21,Collingwood,SF,W,3,,,,,,,,,,,,,,,,,,,,,,,,1929-03-01
+Richmond,1929,22,Carlton,PF,W,3,,,,,,,,,,,,,,,,,,,,,,,,1929-03-01
+Richmond,1929,23,Collingwood,GF,L,3,,,,,,,,,,,,,,,,,,,,,,,,1929-03-01
+Richmond,1930,24,Collingwood,1,L,3,,,,,,,,,,,,,,,,,,,,,,,,1930-03-01
+Richmond,1930,25,Carlton,2,L,3,,,,,,,,,,,,,,,,,,,,,,,,1930-03-08
+Richmond,1930,26,Essendon,3,L,3,,,,,,,,,,,,,,,,,,,,,,,,1930-03-15
+Richmond,1930,27,Footscray,4,W,3,,,,,,,,,,,,,,,,,,,,,,,,1930-03-22
+Richmond,1930,28,Hawthorn,5,W,3,,,,,,,,,,,,,,,,,,,,,,,,1930-03-29
+Richmond,1930,29,South Melbourne,6,W,3,,,,,2,,,,,,,,,,,,,,,,,,,1930-04-05
+Richmond,1930,30,Geelong,7,W,3,,,,,2,,,,,,,,,,,,,,,,,,,1930-04-12
+Richmond,1930,31,Fitzroy,8,W,3,,,,,2,,,,,,,,,,,,,,,,,,,1930-04-19
+Richmond,1930,32,North Melbourne,9,W,3,,,,,4,,,,,,,,,,,,,,,,,,,1930-04-26
+Richmond,1930,33,Melbourne,10,W,3,,,,,3,,,,,,,,,,,,,,,,,,,1930-05-03
+Richmond,1930,34,St Kilda,11,W,3,,,,,,,,,,,,,,,,,,,,,,,,1930-05-10
+Richmond,1930,35,Hawthorn,12,W,3,,,,,5,,,,,,,,,,,,,,,,,,,1930-05-17
+Richmond,1930,36,South Melbourne,13,L,3,,,,,5,,,,,,,,,,,,,,,,,,,1930-05-24
+Richmond,1930,37,Geelong,14,L,3,,,,,2,,,,,,,,,,,,,,,,,,,1930-05-31
+Richmond,1930,38,Fitzroy,15,L,3,,,,,,,,,,,,,,,,,,,,,,,,1930-06-07
+Richmond,1930,39,North Melbourne,16,W,3,,,,,7,,,,,,,,,,,,,,,,,,,1930-06-14
+Richmond,1930,40,Melbourne,17,W,3,,,,,,,,,,,,,,,,,,,,,,,,1930-06-21
+Richmond,1930,41,St Kilda,18,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1930-06-28
+Richmond,1930,42,Collingwood,SF,L,3,,,,,2,,,,,,,,,,,,,,,,,,,1930-03-01
+Richmond,1931,43,Collingwood,4,W,3,,,,,,,,,,,,,,,,,,,,,,,,1931-03-22
+Richmond,1931,44,South Melbourne,8,W,3,,,,,,,,,,,,,,,,,,,,,,,,1931-04-19
+Richmond,1931,45,Hawthorn,6,W,3,,,,,,,,,,,,,,,,,,,,,,,,1931-04-05
+Richmond,1931,46,Fitzroy,9,W,3,,,,,,,,,,,,,,,,,,,,,,,,1931-04-26
+Richmond,1932,47,St Kilda,1,W,3,,,,,,,,,,,,,,,,,,,,,,,,1932-03-01
+Richmond,1932,48,Melbourne,2,W,3,,,,,,,,,,,,,,,,,,,,,,,,1932-03-08
+Richmond,1932,49,Essendon,9,W,3,,,,,,,,,,,,,,,,,,,,,,,,1932-04-26
+Richmond,1932,50,Collingwood,10,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1932-05-03
+Richmond,1932,51,St Kilda,12,W,3,,,,,2,,,,,,,,,,,,,,,,,,,1932-05-17
+Richmond,1932,52,Melbourne,13,W,3,,,,,3,,,,,,,,,,,,,,,,,,,1932-05-24
+Richmond,1932,53,Carlton,14,W,3,,,,,,,,,,,,,,,,,,,,,,,,1932-05-31
+Richmond,1932,54,Footscray,15,W,3,,,,,,,,,,,,,,,,,,,,,,,,1932-06-07
+Richmond,1932,55,Hawthorn,16,W,3,,,,,,,,,,,,,,,,,,,,,,,,1932-06-14
+Richmond,1932,56,Carlton,SF,W,3,,,,,,,,,,,,,,,,,,,,,,,,1932-03-01

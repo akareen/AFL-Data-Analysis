@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+North Melbourne,1938,1,Footscray,7,L,4,,,,,,,,,,,,,,,,,,,,,,,,1938-04-12
+North Melbourne,1938,2,Melbourne,8,L,4,,,,,,,,,,,,,,,,,,,,,,,,1938-04-19
+North Melbourne,1938,3,Carlton,9,L,4,,,,,,,,,,,,,,,,,,,,,,,,1938-04-26
+North Melbourne,1938,4,Fitzroy,10,L,4,,,,,,,,,,,,,,,,,,,,,,,,1938-05-03
+North Melbourne,1938,5,Hawthorn,11,W,4,,,,,,,,,,,,,,,,,,,,,,,,1938-05-10
+South Melbourne,1943,6,North Melbourne,6,L,24,,,,,,,,,,,,,,,,,,,,,,,,1943-04-05
+St Kilda,1944,7,Melbourne,5,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1944-03-29
+St Kilda,1944,8,Essendon,6,D,14,,,,,,,,,,,,,,,,,,,,,,,,1944-04-05
+St Kilda,1944,9,Carlton,7,L,14,,,,,,,,,,,,,,,,,,,,,,,,1944-04-12
+St Kilda,1944,10,Fitzroy,12,W,14,,,,,,,,,,,,,,,,,,,,,,,,1944-05-17

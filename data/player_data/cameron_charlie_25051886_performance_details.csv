@@ -1,0 +1,48 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1905,1,Collingwood,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-06-21
+Geelong,1908,2,Collingwood,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-01
+Geelong,1908,3,South Melbourne,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-08
+Geelong,1908,4,Melbourne,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-15
+Geelong,1908,5,Fitzroy,4,L,,,,,,1,,,,,,,,,,,,,,,,,,,1908-03-22
+Geelong,1908,6,Richmond,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-29
+Geelong,1908,7,St Kilda,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-04-05
+Geelong,1908,8,Carlton,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-04-12
+Geelong,1908,9,University,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-04-19
+Geelong,1908,10,Essendon,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-04-26
+Geelong,1908,11,Collingwood,10,L,,,,,,1,,,,,,,,,,,,,,,,,,,1908-05-03
+Geelong,1908,12,South Melbourne,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-10
+Geelong,1908,13,Melbourne,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-17
+Geelong,1908,14,Fitzroy,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-24
+Geelong,1908,15,Richmond,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-31
+Geelong,1908,16,Essendon,18,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-06-28
+Geelong,1909,17,South Melbourne,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-01
+Geelong,1909,18,Fitzroy,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-08
+Geelong,1909,19,Essendon,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-15
+Geelong,1909,20,Carlton,4,W,,,,,,1,,,,,,,,,,,,,,,,,,,1909-03-22
+Geelong,1909,21,University,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-29
+Geelong,1909,22,St Kilda,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-05
+Geelong,1909,23,Melbourne,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-12
+Geelong,1909,24,Collingwood,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-19
+Geelong,1909,25,Richmond,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-26
+Geelong,1909,26,South Melbourne,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-05-03
+Geelong,1909,27,Fitzroy,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-05-10
+Geelong,1909,28,Essendon,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-05-17
+Geelong,1909,29,Carlton,13,L,,,,,,1,,,,,,,,,,,,,,,,,,,1909-05-24
+Geelong,1909,30,St Kilda,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-07
+Geelong,1909,31,Melbourne,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-14
+Geelong,1909,32,Richmond,18,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-28
+Geelong,1910,33,Melbourne,1,W,,,,,,1,,,,,,,,,,,,,,,,,,,1910-03-01
+Geelong,1910,34,Carlton,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-08
+Geelong,1910,35,Fitzroy,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-15
+Geelong,1910,36,University,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-22
+Geelong,1910,37,Essendon,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-19
+Geelong,1910,38,Collingwood,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-26
+Geelong,1910,39,Melbourne,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-03
+Geelong,1910,40,Carlton,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-10
+Geelong,1910,41,Fitzroy,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-17
+Geelong,1910,42,University,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-24
+Geelong,1910,43,Richmond,14,D,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-31
+Geelong,1910,44,South Melbourne,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-07
+Geelong,1910,45,St Kilda,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-14
+Geelong,1910,46,Essendon,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-21
+Geelong,1910,47,Collingwood,18,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-28

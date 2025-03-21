@@ -1,0 +1,41 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1954,1,Fitzroy,13,L,34,,,,,,,,,,,,,,,,,,,,,,,,1954-05-24
+Collingwood,1954,2,Richmond,18,L,34,,,,,,,,,,,,,,,,,,,,,,,,1954-06-28
+Collingwood,1955,3,Hawthorn,4,L,34,,,,,,,,,,,,,,,,,,,,,,,,1955-03-22
+Collingwood,1955,4,Carlton,5,W,34,,,,,,,,,,,,,,,,,,,,,,,,1955-03-29
+Collingwood,1955,5,North Melbourne,13,W,34,,,,,,,,,,,,,,,,,,,,,,,,1955-05-24
+Collingwood,1955,6,Melbourne,GF,L,34,,,,,,,,,,,,,,,,,,,,,,,,1955-03-01
+Collingwood,1956,7,South Melbourne,2,W,12,,,,,,,,,,,,,,,,,,,,,,,,1956-03-08
+Collingwood,1956,8,Richmond,3,L,12,,,,,,,,,,,,,,,,,,,,,,,,1956-03-15
+Collingwood,1956,9,South Melbourne,13,W,12,,,,,,,,,,,,,,,,,,,,,,,,1956-05-24
+Collingwood,1956,10,Richmond,14,W,12,,,,,,,,,,,,,,,,,,,,,,,,1956-05-31
+Collingwood,1956,11,Geelong,17,W,12,,,,,2,,,,,,,,,,,,,,,,,,,1956-06-21
+Collingwood,1956,12,Melbourne,18,L,12,,,,,1,,,,,,,,,,,,,,,,,,,1956-06-28
+Collingwood,1956,13,Melbourne,SF,L,12,,,,,1,,,,,,,,,,,,,,,,,,,1956-03-01
+Collingwood,1956,14,Melbourne,GF,L,12,,,,,,,,,,,,,,,,,,,,,,,,1956-03-01
+Collingwood,1957,15,Essendon,1,L,3,,,,,,,,,,,,,,,,,,,,,,,,1957-03-01
+Collingwood,1957,16,Melbourne,2,L,3,,,,,,,,,,,,,,,,,,,,,,,,1957-03-08
+Collingwood,1957,17,Geelong,3,W,3,,,,,,,,,,,,,,,,,,,,,,,,1957-03-15
+Collingwood,1957,18,North Melbourne,6,L,3,,,,,,,,,,,,,,,,,,,,,,,,1957-04-05
+St Kilda,1957,19,Hawthorn,10,W,3,,,,,,,,,,,,,,,,,,,,,,,,1957-05-03
+St Kilda,1957,20,Carlton,11,L,3,,,,,,,,,,,,,,,,,,,,,,,,1957-05-10
+St Kilda,1957,21,South Melbourne,12,L,3,,,,,,,,,,,,,,,,,,,,,,,,1957-05-17
+St Kilda,1957,22,Footscray,13,W,3,,,,,,,,,,,,,,,,,,,,,,,,1957-05-24
+St Kilda,1957,23,Fitzroy,14,W,3,,,,,,,,,,,,,,,,,,,,,,,,1957-05-31
+St Kilda,1957,24,North Melbourne,15,W,3,,,,,,,,,,,,,,,,,,,,,,,,1957-06-07
+St Kilda,1957,25,Melbourne,16,L,3,,,,,,,,,,,,,,,,,,,,,,,,1957-06-14
+St Kilda,1957,26,Collingwood,18,W,3,,,,,,,,,,,,,,,,,,,,,,,,1957-06-28
+St Kilda,1958,27,Hawthorn,1,L,3,,,,,,,,,,,,,,,,,,,,,,,,1958-03-01
+St Kilda,1958,28,Essendon,2,W,3,,,,,,,,,,,,,,,,,,,,,,,,1958-03-08
+St Kilda,1958,29,Richmond,3,L,3,,,,,,,,,,,,,,,,,,,,,,,,1958-03-15
+St Kilda,1958,30,Melbourne,6,W,3,,,,,,,,,,,,,,,,,,,,,,,,1958-04-05
+St Kilda,1958,31,Geelong,7,L,3,,,,,,,,,,,,,,,,,,,,,,,,1958-04-12
+St Kilda,1958,32,Fitzroy,8,W,3,,,,,,,,,,,,,,,,,,,,,,,,1958-04-19
+St Kilda,1958,33,Collingwood,9,L,3,,,,,,,,,,,,,,,,,,,,,,,,1958-04-26
+St Kilda,1958,34,Footscray,10,L,3,,,,,,,,,,,,,,,,,,,,,,,,1958-05-03
+St Kilda,1958,35,Hawthorn,12,L,3,,,,,,,,,,,,,,,,,,,,,,,,1958-05-17
+St Kilda,1958,36,Essendon,13,L,3,,,,,,,,,,,,,,,,,,,,,,,,1958-05-24
+St Kilda,1958,37,Richmond,14,W,3,,,,,,,,,,,,,,,,,,,,,,,,1958-05-31
+St Kilda,1958,38,Carlton,15,L,3,,,,,,,,,,,,,,,,,,,,,,,,1958-06-07
+St Kilda,1958,39,South Melbourne,16,L,3,,,,,,,,,,,,,,,,,,,,,,,,1958-06-14
+St Kilda,1958,40,Geelong,18,W,3,,,,,,,,,,,,,,,,,,,,,,,,1958-06-28

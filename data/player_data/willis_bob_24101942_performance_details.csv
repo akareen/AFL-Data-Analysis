@@ -1,0 +1,5 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1965,1,Fitzroy,15,W,40,15,4,6,21,,,,,,,,,1,5,,,,,,,,,,1965-06-07
+Hawthorn,1965,2,Richmond,16,L,40,15,2,1,16,,1,,,,,,,2,,,,,,,,,,,1965-06-14
+Hawthorn,1965,3,Footscray,17,W,40,7,2,5,12,,,,,,,,,5,1,,,,,,,,,,1965-06-21
+Hawthorn,1965,4,Geelong,18,L,40,2,,,2,,,,,,,,,,,,,,,,,,,,1965-06-28

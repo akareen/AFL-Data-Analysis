@@ -1,0 +1,32 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1946,1,St Kilda,10,L,13,,,,,,,,,,,,,,,,,,,,,,,,1946-05-03
+Hawthorn,1946,2,Richmond,11,L,13,,,,,,,,,,,,,,,,,,,,,,,,1946-05-10
+Hawthorn,1946,3,Carlton,14,L,13,,,,,,,,,,,,,,,,,,,,,,,,1946-05-31
+Hawthorn,1946,4,Essendon,15,L,13,,,,,,,,,,,,,,,,,,,,,,,,1946-06-07
+Hawthorn,1946,5,South Melbourne,16,L,13,,,,,,,,,,,,,,,,,,,,,,,,1946-06-14
+Hawthorn,1946,6,Melbourne,17,L,13,,,,,,,,,,,,,,,,,,,,,,,,1946-06-21
+Hawthorn,1946,7,Footscray,18,L,13,,,,,,,,,,,,,,,,,,,,,,,,1946-06-28
+Hawthorn,1946,8,Fitzroy,19,L,13,,,,,,,,,,,,,,,,,,,,,,,,1946-07-05
+Hawthorn,1947,9,Geelong,1,L,5,,,,,1,,,,,,,,,,,,,,,,,,,1947-03-01
+Hawthorn,1947,10,Collingwood,2,L,5,,,,,,,,,,,,,,,,,,,,,,,,1947-03-08
+Hawthorn,1947,11,Footscray,3,L,5,,,,,,,,,,,,,,,,,,,,,,,,1947-03-15
+Hawthorn,1947,12,South Melbourne,7,L,5,,,,,,,,,,,,,,,,,,,,,,,,1947-04-12
+Hawthorn,1947,13,North Melbourne,8,W,5,,,,,,,,,,,,,,,,,,,,,,,,1947-04-19
+Hawthorn,1947,14,Fitzroy,9,L,5,,,,,,,,,,,,,,,,,,,,,,,,1947-04-26
+Hawthorn,1947,15,Geelong,12,L,5,,,,,2,,,,,,,,,,,,,,,,,,,1947-05-17
+Hawthorn,1947,16,Collingwood,13,L,5,,,,,2,,,,,,,,,,,,,,,,,,,1947-05-24
+Hawthorn,1947,17,Footscray,14,L,5,,,,,,,,,,,,,,,,,,,,,,,,1947-05-31
+Hawthorn,1947,18,St Kilda,15,W,5,,,,,,,,,,,,,,,,,,,,,,,,1947-06-07
+Hawthorn,1947,19,Melbourne,17,L,5,,,,,,,,,,,,,,,,,,,,,,,,1947-06-21
+Hawthorn,1947,20,South Melbourne,18,L,5,,,,,,,,,,,,,,,,,,,,,,,,1947-06-28
+Hawthorn,1947,21,North Melbourne,19,L,5,,,,,,,,,,,,,,,,,,,,,,,,1947-07-05
+Hawthorn,1948,22,Footscray,3,L,5,,,,,,,,,,,,,,,,,,,,,,,,1948-03-15
+Hawthorn,1948,23,Fitzroy,5,L,5,,,,,,,,,,,,,,,,,,,,,,,,1948-03-29
+Hawthorn,1948,24,Geelong,6,W,5,,,,,,,,,,,,,,,,,,,,,,,,1948-04-05
+Hawthorn,1948,25,Richmond,7,L,5,,,,,,,,,,,,,,,,,,,,,,,,1948-04-12
+Hawthorn,1948,26,St Kilda,8,W,5,,,,,,,,,,,,,,,,,,,,,,,,1948-04-19
+Hawthorn,1948,27,Collingwood,9,L,5,,,,,,,,,,,,,,,,,,,,,,,,1948-04-26
+Hawthorn,1948,28,Melbourne,10,L,5,,,,,,,,,,,,,,,,,,,,,,,,1948-05-03
+Hawthorn,1948,29,South Melbourne,11,L,5,,,,,,,,,,,,,,,,,,,,,,,,1948-05-10
+Hawthorn,1948,30,Carlton,12,L,5,,,,,,,,,,,,,,,,,,,,,,,,1948-05-17
+Hawthorn,1948,31,North Melbourne,15,L,5,,,,,,,,,,,,,,,,,,,,,,,,1948-06-07

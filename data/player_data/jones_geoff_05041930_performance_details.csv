@@ -1,0 +1,20 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1954,1,Footscray,1,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1954-03-01
+St Kilda,1954,2,Hawthorn,2,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1954-03-08
+St Kilda,1954,3,Collingwood,3,L,6,,,,,2,,,,,,,,,,,,,,,,,,,1954-03-15
+St Kilda,1954,4,Geelong,4,L,6,,,,,,,,,,,,,,,,,,,,,,,,1954-03-22
+St Kilda,1954,5,Essendon,10,L,6,,,,,,,,,,,,,,,,,,,,,,,,1954-05-03
+St Kilda,1954,6,Carlton,11,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1954-05-10
+St Kilda,1954,7,Footscray,12,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1954-05-17
+St Kilda,1954,8,Hawthorn,13,L,6,,,,,,,,,,,,,,,,,,,,,,,,1954-05-24
+St Kilda,1954,9,Collingwood,14,L,6,,,,,,,,,,,,,,,,,,,,,,,,1954-05-31
+St Kilda,1954,10,Fitzroy,16,W,6,,,,,,,,,,,,,,,,,,,,,,,,1954-06-14
+St Kilda,1954,11,Melbourne,17,L,6,,,,,,,,,,,,,,,,,,,,,,,,1954-06-21
+St Kilda,1955,12,Melbourne,1,L,32,,,,,1,,,,,,,,,,,,,,,,,,,1955-03-01
+St Kilda,1955,13,Essendon,2,L,32,,,,,,,,,,,,,,,,,,,,,,,,1955-03-08
+St Kilda,1955,14,Collingwood,3,L,32,,,,,1,,,,,,,,,,,,,,,,,,,1955-03-15
+St Kilda,1956,15,North Melbourne,1,L,32,,,,,,,,,,,,,,,,,,,,,,,,1956-03-01
+St Kilda,1956,16,Footscray,2,L,32,,,,,2,,,,,,,,,,,,,,,,,,,1956-03-08
+St Kilda,1956,17,Carlton,3,L,32,,,,,2,,,,,,,,,,,,,,,,,,,1956-03-15
+St Kilda,1956,18,Essendon,4,L,32,,,,,,,,,,,,,,,,,,,,,,,,1956-03-22
+St Kilda,1956,19,Richmond,7,W,32,,,,,,,,,,,,,,,,,,,,,,,,1956-04-12

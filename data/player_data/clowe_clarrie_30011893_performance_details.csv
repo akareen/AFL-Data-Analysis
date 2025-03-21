@@ -1,0 +1,18 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1920,1,Richmond,2,L,14,,,,,,,,,,,,,,,,,,,,,,,,1920-03-08
+Carlton,1920,2,Fitzroy,3,L,14,,,,,,,,,,,,,,,,,,,,,,,,1920-03-15
+Carlton,1920,3,Essendon,4,W,14,,,,,,,,,,,,,,,,,,,,,,,,1920-03-22
+Carlton,1920,4,Geelong,7,W,14,,,,,,,,,,,,,,,,,,,,,,,,1920-04-12
+Carlton,1920,5,Collingwood,8,L,14,,,,,,,,,,,,,,,,,,,,,,,,1920-04-19
+Carlton,1920,6,South Melbourne,13,W,14,,,,,,,,,,,,,,,,,,,,,,,,1920-05-24
+Carlton,1920,7,Essendon,14,W,14,,,,,,,,,,,,,,,,,,,,,,,,1920-05-31
+Carlton,1920,8,Melbourne,15,W,14,,,,,,,,,,,,,,,,,,,,,,,,1920-06-07
+Carlton,1920,9,Geelong,16,W,14,,,,,,,,,,,,,,,,,,,,,,,,1920-06-14
+Carlton,1921,10,Essendon,6,W,14,,,,,,,,,,,,,,,,,,,,,,,,1921-04-05
+Carlton,1921,11,Fitzroy,13,L,14,,,,,,,,,,,,,,,,,,,,,,,,1921-05-24
+Carlton,1921,12,South Melbourne,14,W,14,,,,,,,,,,,,,,,,,,,,,,,,1921-05-31
+Essendon,1922,13,Carlton,10,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1922-05-03
+Essendon,1922,14,Geelong,11,L,19,,,,,,,,,,,,,,,,,,,,,,,,1922-05-10
+Essendon,1922,15,South Melbourne,12,L,19,,,,,,,,,,,,,,,,,,,,,,,,1922-05-17
+Essendon,1922,16,Fitzroy,13,W,19,,,,,,,,,,,,,,,,,,,,,,,,1922-05-24
+Essendon,1922,17,Melbourne,15,W,19,,,,,,,,,,,,,,,,,,,,,,,,1922-06-07

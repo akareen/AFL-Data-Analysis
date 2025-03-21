@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1913,1,Essendon,1,W,19,,,,,2,,,,,,,,,,,,,,,,,,,1913-03-01
+Carlton,1913,2,South Melbourne,2,D,19,,,,,1,,,,,,,,,,,,,,,,,,,1913-03-08
+Carlton,1913,3,Melbourne,3,W,19,,,,,4,,,,,,,,,,,,,,,,,,,1913-03-15
+Carlton,1913,4,Collingwood,4,L,19,,,,,,,,,,,,,,,,,,,,,,,,1913-03-22
+Carlton,1913,5,University,5,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1913-03-29
+Carlton,1913,6,Fitzroy,9,L,19,,,,,,,,,,,,,,,,,,,,,,,,1913-04-26
+Carlton,1913,7,Essendon,10,W,19,,,,,,,,,,,,,,,,,,,,,,,,1913-05-03
+Carlton,1913,8,South Melbourne,11,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1913-05-10
+Carlton,1913,9,Melbourne,12,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1913-05-17
+Carlton,1913,10,University,14,W,19,,,,,,,,,,,,,,,,,,,,,,,,1913-05-31
+Carlton,1913,11,St Kilda,15,L,19,,,,,,,,,,,,,,,,,,,,,,,,1913-06-07

@@ -1,0 +1,39 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1938,1,Essendon,17,L,9,,,,,,,,,,,,,,,,,,,,,,,,1938-06-21
+Fitzroy,1938,2,Richmond,18,W,9,,,,,1,,,,,,,,,,,,,,,,,,,1938-06-28
+Fitzroy,1939,3,St Kilda,2,L,9,,,,,2,,,,,,,,,,,,,,,,,,,1939-03-08
+Fitzroy,1939,4,South Melbourne,3,W,9,,,,,1,,,,,,,,,,,,,,,,,,,1939-03-15
+Fitzroy,1939,5,Hawthorn,4,D,9,,,,,,,,,,,,,,,,,,,,,,,,1939-03-22
+Fitzroy,1939,6,Collingwood,5,L,9,,,,,1,,,,,,,,,,,,,,,,,,,1939-03-29
+Fitzroy,1939,7,Footscray,6,W,9,,,,,2,,,,,,,,,,,,,,,,,,,1939-04-05
+Fitzroy,1939,8,Melbourne,7,L,9,,,,,,,,,,,,,,,,,,,,,,,,1939-04-12
+Fitzroy,1939,9,Geelong,8,L,9,,,,,4,,,,,,,,,,,,,,,,,,,1939-04-19
+Fitzroy,1939,10,Essendon,9,L,9,,,,,2,,,,,,,,,,,,,,,,,,,1939-04-26
+Fitzroy,1939,11,Richmond,10,W,9,,,,,1,,,,,,,,,,,,,,,,,,,1939-05-03
+Fitzroy,1939,12,Carlton,11,L,9,,,,,1,,,,,,,,,,,,,,,,,,,1939-05-10
+Fitzroy,1939,13,North Melbourne,12,W,9,,,,,,,,,,,,,,,,,,,,,,,,1939-05-17
+Fitzroy,1939,14,St Kilda,13,L,9,,,,,3,,,,,,,,,,,,,,,,,,,1939-05-24
+Fitzroy,1939,15,South Melbourne,14,W,9,,,,,2,,,,,,,,,,,,,,,,,,,1939-05-31
+Fitzroy,1939,16,Hawthorn,15,L,9,,,,,2,,,,,,,,,,,,,,,,,,,1939-06-07
+Fitzroy,1939,17,Collingwood,16,L,9,,,,,,,,,,,,,,,,,,,,,,,,1939-06-14
+Fitzroy,1939,18,Footscray,17,W,9,,,,,1,,,,,,,,,,,,,,,,,,,1939-06-21
+Fitzroy,1939,19,Melbourne,18,L,9,,,,,,,,,,,,,,,,,,,,,,,,1939-06-28
+Fitzroy,1940,20,North Melbourne,2,L,9,,,,,,,,,,,,,,,,,,,,,,,,1940-03-08
+Fitzroy,1940,21,Geelong,3,L,9,,,,,2,,,,,,,,,,,,,,,,,,,1940-03-15
+Fitzroy,1940,22,Essendon,4,W,9,,,,,,,,,,,,,,,,,,,,,,,,1940-03-22
+Fitzroy,1940,23,Carlton,6,L,9,,,,,,,,,,,,,,,,,,,,,,,,1940-04-05
+Fitzroy,1940,24,Hawthorn,7,W,9,,,,,2,,,,,,,,,,,,,,,,,,,1940-04-12
+Fitzroy,1940,25,Melbourne,8,L,9,,,,,,,,,,,,,,,,,,,,,,,,1940-04-19
+Fitzroy,1940,26,Collingwood,10,W,9,,,,,3,,,,,,,,,,,,,,,,,,,1940-05-03
+Fitzroy,1940,27,Footscray,11,W,9,,,,,2,,,,,,,,,,,,,,,,,,,1940-05-10
+Fitzroy,1940,28,St Kilda,12,L,9,,,,,1,,,,,,,,,,,,,,,,,,,1940-05-17
+Fitzroy,1940,29,North Melbourne,13,W,9,,,,,1,,,,,,,,,,,,,,,,,,,1940-05-24
+Fitzroy,1940,30,Geelong,14,W,9,,,,,2,,,,,,,,,,,,,,,,,,,1940-05-31
+Fitzroy,1940,31,Essendon,15,W,9,,,,,,,,,,,,,,,,,,,,,,,,1940-06-07
+Fitzroy,1940,32,Richmond,16,L,9,,,,,,,,,,,,,,,,,,,,,,,,1940-06-14
+Fitzroy,1940,33,Carlton,17,L,9,,,,,1,,,,,,,,,,,,,,,,,,,1940-06-21
+Fitzroy,1940,34,Hawthorn,18,L,9,,,,,,,,,,,,,,,,,,,,,,,,1940-06-28
+Fitzroy,1941,35,Footscray,2,L,9,,,,,,,,,,,,,,,,,,,,,,,,1941-03-08
+Fitzroy,1941,36,Richmond,5,L,9,,,,,,,,,,,,,,,,,,,,,,,,1941-03-29
+Fitzroy,1941,37,Carlton,8,W,9,,,,,,,,,,,,,,,,,,,,,,,,1941-04-19
+Fitzroy,1941,38,South Melbourne,15,W,9,,,,,,,,,,,,,,,,,,,,,,,,1941-06-07

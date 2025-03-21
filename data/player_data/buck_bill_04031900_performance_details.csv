@@ -1,0 +1,33 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1920,1,Geelong,2,W,2,,,,,,,,,,,,,,,,,,,,,,,,1920-03-08
+Collingwood,1920,2,St Kilda,6,W,2,,,,,,,,,,,,,,,,,,,,,,,,1920-04-05
+Collingwood,1921,3,Melbourne,2,W,2,,,,,,,,,,,,,,,,,,,,,,,,1921-03-08
+Collingwood,1921,4,Geelong,3,W,2,,,,,,,,,,,,,,,,,,,,,,,,1921-03-15
+Collingwood,1921,5,Essendon,4,W,2,,,,,,,,,,,,,,,,,,,,,,,,1921-03-22
+Collingwood,1921,6,Fitzroy,10,L,2,,,,,,,,,,,,,,,,,,,,,,,,1921-05-03
+Collingwood,1921,7,Melbourne,11,L,2,,,,,,,,,,,,,,,,,,,,,,,,1921-05-10
+Collingwood,1921,8,Geelong,12,L,2,,,,,,,,,,,,,,,,,,,,,,,,1921-05-17
+Collingwood,1921,9,Essendon,13,W,2,,,,,,,,,,,,,,,,,,,,,,,,1921-05-24
+Collingwood,1921,10,Richmond,14,L,2,,,,,,,,,,,,,,,,,,,,,,,,1921-05-31
+Collingwood,1921,11,South Melbourne,15,W,2,,,,,,,,,,,,,,,,,,,,,,,,1921-06-07
+Collingwood,1921,12,St Kilda,16,W,2,,,,,,,,,,,,,,,,,,,,,,,,1921-06-14
+Collingwood,1921,13,Carlton,18,L,2,,,,,,,,,,,,,,,,,,,,,,,,1921-06-28
+Collingwood,1921,14,Carlton,SF,L,2,,,,,,,,,,,,,,,,,,,,,,,,1921-03-01
+Collingwood,1922,15,Richmond,1,L,2,,,,,,,,,,,,,,,,,,,,,,,,1922-03-01
+Collingwood,1922,16,South Melbourne,2,L,2,,,,,,,,,,,,,,,,,,,,,,,,1922-03-08
+Collingwood,1922,17,Carlton,3,W,2,,,,,,,,,,,,,,,,,,,,,,,,1922-03-15
+Collingwood,1922,18,St Kilda,5,W,2,,,,,,,,,,,,,,,,,,,,,,,,1922-03-29
+Collingwood,1922,19,Geelong,6,W,2,,,,,,,,,,,,,,,,,,,,,,,,1922-04-05
+Collingwood,1922,20,Fitzroy,7,W,2,,,,,,,,,,,,,,,,,,,,,,,,1922-04-12
+Collingwood,1922,21,Melbourne,8,L,2,,,,,,,,,,,,,,,,,,,,,,,,1922-04-19
+Collingwood,1922,22,Essendon,9,W,2,,,,,,,,,,,,,,,,,,,,,,,,1922-04-26
+Collingwood,1922,23,Richmond,10,W,2,,,,,,,,,,,,,,,,,,,,,,,,1922-05-03
+Collingwood,1922,24,Carlton,12,L,2,,,,,,,,,,,,,,,,,,,,,,,,1922-05-17
+Collingwood,1923,25,South Melbourne,1,W,1,,,,,,,,,,,,,,,,,,,,,,,,1923-03-01
+Collingwood,1923,26,Carlton,7,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1923-04-12
+Collingwood,1923,27,Carlton,16,D,1,,,,,,,,,,,,,,,,,,,,,,,,1923-06-14
+Collingwood,1923,28,Fitzroy,17,W,1,,,,,,,,,,,,,,,,,,,,,,,,1923-06-21
+Collingwood,1923,29,Melbourne,18,W,1,,,,,,,,,,,,,,,,,,,,,,,,1923-06-28
+Collingwood,1924,30,Essendon,10,L,1,,,,,,,,,,,,,,,,,,,,,,,,1924-05-03
+Collingwood,1924,31,St Kilda,11,L,1,,,,,,,,,,,,,,,,,,,,,,,,1924-05-10
+Collingwood,1924,32,Fitzroy,18,W,1,,,,,,,,,,,,,,,,,,,,,,,,1924-06-28

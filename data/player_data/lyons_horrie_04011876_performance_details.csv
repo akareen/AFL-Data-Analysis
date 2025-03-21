@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1897,1,Essendon,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-04-05
+South Melbourne,1897,2,Fitzroy,7,D,,,,,,,,,,,,,,,,,,,,,,,,,1897-04-12
+South Melbourne,1897,3,Melbourne,8,W,,,,,,2,,,,,,,,,,,,,,,,,,,1897-04-19
+South Melbourne,1897,4,Carlton,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1897-04-26
+South Melbourne,1897,5,St Kilda,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1897-05-03
+St Kilda,1898,6,Melbourne,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1898-03-01
+St Kilda,1898,7,Geelong,2,L,,,,,,1,,,,,,,,,,,,,,,,,,,1898-03-08
+St Kilda,1898,8,Fitzroy,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1898-03-15
+St Kilda,1898,9,Essendon,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1898-03-22
+St Kilda,1898,10,South Melbourne,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1898-03-29

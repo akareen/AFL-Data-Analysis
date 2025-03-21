@@ -1,0 +1,29 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1919,1,Richmond,10,L,20,,,,,,,,,,,,,,,,,,,,,,,,1919-05-03
+Essendon,1919,2,Carlton,11,W,20,,,,,1,,,,,,,,,,,,,,,,,,,1919-05-10
+Essendon,1919,3,Fitzroy,12,W,20,,,,,1,,,,,,,,,,,,,,,,,,,1919-05-17
+Essendon,1919,4,St Kilda,13,L,20,,,,,1,,,,,,,,,,,,,,,,,,,1919-05-24
+Essendon,1919,5,South Melbourne,14,L,20,,,,,2,,,,,,,,,,,,,,,,,,,1919-05-31
+Essendon,1919,6,Geelong,16,W,20,,,,,1,,,,,,,,,,,,,,,,,,,1919-06-14
+Essendon,1919,7,Collingwood,17,L,20,,,,,,,,,,,,,,,,,,,,,,,,1919-06-21
+Essendon,1920,8,Carlton,4,L,20,,,,,1,,,,,,,,,,,,,,,,,,,1920-03-22
+Essendon,1920,9,St Kilda,5,W,20,,,,,3,,,,,,,,,,,,,,,,,,,1920-03-29
+Essendon,1920,10,Geelong,6,W,20,,,,,5,,,,,,,,,,,,,,,,,,,1920-04-05
+Essendon,1920,11,Fitzroy,7,W,20,,,,,3,,,,,,,,,,,,,,,,,,,1920-04-12
+Essendon,1920,12,Richmond,9,L,20,,,,,5,,,,,,,,,,,,,,,,,,,1920-04-26
+Essendon,1920,13,Collingwood,10,L,20,,,,,,,,,,,,,,,,,,,,,,,,1920-05-03
+Essendon,1920,14,Melbourne,11,W,20,,,,,5,,,,,,,,,,,,,,,,,,,1920-05-10
+Essendon,1920,15,South Melbourne,12,L,20,,,,,2,,,,,,,,,,,,,,,,,,,1920-05-17
+Essendon,1920,16,St Kilda,13,L,20,,,,,1,,,,,,,,,,,,,,,,,,,1920-05-24
+Essendon,1920,17,Geelong,15,L,20,,,,,7,,,,,,,,,,,,,,,,,,,1920-06-07
+Essendon,1920,18,Fitzroy,16,L,20,,,,,1,,,,,,,,,,,,,,,,,,,1920-06-14
+Essendon,1921,19,Melbourne,1,D,20,,,,,,,,,,,,,,,,,,,,,,,,1921-03-01
+Essendon,1921,20,Collingwood,4,L,20,,,,,2,,,,,,,,,,,,,,,,,,,1921-03-22
+Essendon,1921,21,Carlton,6,L,20,,,,,3,,,,,,,,,,,,,,,,,,,1921-04-05
+Essendon,1921,22,Richmond,7,L,20,,,,,4,,,,,,,,,,,,,,,,,,,1921-04-12
+Essendon,1921,23,Fitzroy,8,L,20,,,,,,,,,,,,,,,,,,,,,,,,1921-04-19
+Essendon,1921,24,St Kilda,9,L,20,,,,,2,,,,,,,,,,,,,,,,,,,1921-04-26
+Essendon,1921,25,Melbourne,10,W,20,,,,,5,,,,,,,,,,,,,,,,,,,1921-05-03
+Essendon,1921,26,Geelong,11,L,20,,,,,,,,,,,,,,,,,,,,,,,,1921-05-10
+Essendon,1921,27,South Melbourne,12,W,20,,,,,1,,,,,,,,,,,,,,,,,,,1921-05-17
+Essendon,1921,28,Collingwood,13,L,20,,,,,,,,,,,,,,,,,,,,,,,,1921-05-24

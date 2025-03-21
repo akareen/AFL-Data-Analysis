@@ -1,0 +1,38 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1960,1,St Kilda,4,L,37,,,,,,,,,,,,,,,,,,,,,,,,1960-03-22
+Geelong,1960,2,Carlton,6,W,37,,,,,,,,,,,,,,,,,,,,,,,,1960-04-05
+Geelong,1960,3,Hawthorn,7,L,37,,,,,,,,,,,,,,,,,,,,,,,,1960-04-12
+Geelong,1960,4,Essendon,8,L,37,,,,,,,,,,,,,,,,,,,,,,,,1960-04-19
+Geelong,1960,5,Richmond,9,D,37,,,,,,,,,,,,,,,,,,,,,,,,1960-04-26
+Geelong,1960,6,Melbourne,10,L,37,,,,,,,,,,,,,,,,,,,,,,,,1960-05-03
+Geelong,1960,7,Collingwood,11,L,37,,,,,,,,,,,,,,,,,,,,,,,,1960-05-10
+Geelong,1960,8,Footscray,12,W,37,,,,,,,,,,,,,,,,,,,,,,,,1960-05-17
+Geelong,1961,9,Melbourne,5,L,37,,,,,,,,,,,,,,,,,,,,,,,,1961-03-29
+Geelong,1961,10,Richmond,6,W,37,,,,,,,,,,,,,,,,,,,,,,,,1961-04-05
+Geelong,1961,11,Footscray,7,W,37,,,,,,,,,,,,,,,,,,,,,,,,1961-04-12
+Geelong,1961,12,North Melbourne,8,D,37,,,,,,,,,,,,,,,,,,,,,,,,1961-04-19
+Geelong,1961,13,Hawthorn,9,L,37,,,,,,,,,,,,,,,,,,,,,,,,1961-04-26
+Geelong,1961,14,Fitzroy,10,W,37,,,,,,,,,,,,,,,,,,,,,,,,1961-05-03
+Geelong,1961,15,Carlton,11,W,37,,,,,,,,,,,,,,,,,,,,,,,,1961-05-10
+Geelong,1961,16,Collingwood,12,W,37,,,,,,,,,,,,,,,,,,,,,,,,1961-05-17
+Geelong,1961,17,South Melbourne,13,W,37,,,,,,,,,,,,,,,,,,,,,,,,1961-05-24
+Geelong,1961,18,St Kilda,14,W,37,,,,,,,,,,,,,,,,,,,,,,,,1961-05-31
+Geelong,1961,19,Essendon,15,L,37,,,,,,,,,,,,,,,,,,,,,,,,1961-06-07
+Geelong,1961,20,Melbourne,16,L,37,,,,,,,,,,,,,,,,,,,,,,,,1961-06-14
+Geelong,1961,21,Richmond,17,W,37,,,,,,,,,,,,,,,,,,,,,,,,1961-06-21
+Geelong,1961,22,Footscray,18,L,37,,,,,,,,,,,,,,,,,,,,,,,,1961-06-28
+Geelong,1962,23,Carlton,1,W,37,,,,,,,,,,,,,,,,,,,,,,,,1962-03-01
+Geelong,1962,24,Melbourne,2,L,37,,,,,,,,,,,,,,,,,,,,,,,,1962-03-08
+Geelong,1962,25,St Kilda,10,W,37,,,,,,,,,,,,,,,,,,,,,,,,1962-05-03
+Geelong,1962,26,Footscray,11,W,37,,,,,4,,,,,,,,,,,,,,,,,,,1962-05-10
+Geelong,1962,27,Carlton,12,L,37,,,,,1,,,,,,,,,,,,,,,,,,,1962-05-17
+Geelong,1962,28,Melbourne,13,W,37,,,,,2,,,,,,,,,,,,,,,,,,,1962-05-24
+Geelong,1962,29,Hawthorn,14,W,37,,,,,,,,,,,,,,,,,,,,,,,,1962-05-31
+Geelong,1962,30,Richmond,15,W,37,,,,,2,,,,,,,,,,,,,,,,,,,1962-06-07
+Geelong,1962,31,Collingwood,16,W,37,,,,,,,,,,,,,,,,,,,,,,,,1962-06-14
+Geelong,1962,32,North Melbourne,17,W,37,,,,,1,,,,,,,,,,,,,,,,,,,1962-06-21
+Geelong,1962,33,Fitzroy,18,W,37,,,,,3,,,,,,,,,,,,,,,,,,,1962-06-28
+Geelong,1962,34,Essendon,SF,L,37,,,,,2,,,,,,,,,,,,,,,,,,,1962-03-01
+Geelong,1962,35,Carlton,PF,D,37,,,,,3,,,,,,,,,,,,,,,,,,,1962-03-01
+Geelong,1962,36,Carlton,PF,L,37,,,,,,,,,,,,,,,,,,,,,,,,1962-03-01
+Geelong,1963,37,Fitzroy,10,L,37,,,,,1,,,,,,,,,,,,,,,,,,,1963-05-03

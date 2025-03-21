@@ -1,0 +1,15 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1928,1,St Kilda,1,L,16,,,,,,,,,,,,,,,,,,,,,,,,1928-03-01
+Hawthorn,1928,2,Carlton,3,L,16,,,,,,,,,,,,,,,,,,,,,,,,1928-03-15
+Hawthorn,1928,3,Collingwood,4,L,16,,,,,,,,,,,,,,,,,,,,,,,,1928-03-22
+Hawthorn,1928,4,Essendon,7,L,16,,,,,,,,,,,,,,,,,,,,,,,,1928-04-12
+Hawthorn,1928,5,Geelong,8,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1928-04-19
+Hawthorn,1928,6,Fitzroy,9,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1928-04-26
+Hawthorn,1928,7,Richmond,10,L,16,,,,,,,,,,,,,,,,,,,,,,,,1928-05-03
+Hawthorn,1928,8,South Melbourne,11,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1928-05-10
+Hawthorn,1928,9,St Kilda,12,L,16,,,,,,,,,,,,,,,,,,,,,,,,1928-05-17
+Hawthorn,1928,10,North Melbourne,13,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1928-05-24
+Hawthorn,1928,11,Carlton,14,L,16,,,,,,,,,,,,,,,,,,,,,,,,1928-05-31
+Hawthorn,1928,12,Collingwood,15,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1928-06-07
+Hawthorn,1928,13,Melbourne,16,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1928-06-14
+Hawthorn,1928,14,Footscray,17,L,16,,,,,,,,,,,,,,,,,,,,,,,,1928-06-21

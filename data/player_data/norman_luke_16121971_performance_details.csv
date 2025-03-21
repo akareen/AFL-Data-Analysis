@@ -1,0 +1,17 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1995,1,Geelong,1,L,25,10,5,1,11,,,,1,,,,,2,1,,,,,,,,,,1995-03-01
+Melbourne,1995,2,North Melbourne,2,L,25,8,2,3,11,1,1,,,,,,,1,,,,,,,,,,,1995-03-08
+Melbourne,1995,3,Essendon,3,L,25,4,2,1,5,,1,,2,,,,,,,,,,,,,,,,1995-03-15
+Melbourne,1995,4,Footscray,4,L,25,7,2,5,12,1,,,2,,,,,1,,,,,,,,,,,1995-03-22
+Melbourne,1995,5,West Coast,5,L,25,3,,4,7,,,,,,,,,1,1,,,,,,,,,,1995-03-29
+Melbourne,1995,6,Adelaide,6,L,25,2,1,2,4,,1,,,,,,,,,,,,,,,,,,1995-04-05
+Melbourne,1995,7,Brisbane Bears,7,W,25,2,2,2,4,1,,,,,,,,,,,,,,,,,,,1995-04-12
+Melbourne,1995,8,Hawthorn,8,W,25,2,,4,6,,2,,1,,,,,1,,,,,,,,,,,1995-04-19
+Melbourne,1995,9,Collingwood,9,W,25,4,1,5,9,,,,2,,,,,,,,,,,,,,,,1995-04-26
+Melbourne,1996,10,West Coast,6,L,25,9,5,5,14,,2,,3,,,,,1,,,,,,,,,,,1996-04-05
+Melbourne,1996,11,Sydney,7,L,25,1,,3,4,,,,,,,,,,1,,,,,,,,,,1996-04-12
+Melbourne,1996,12,Sydney,18,L,25,7,4,5,12,,,,,,,,,,1,,,,,,,,,,1996-06-28
+Melbourne,1996,13,Carlton,19,W,25,5,3,6,11,,,,3,,,,,1,,,,,,,,,,,1996-07-05
+Melbourne,1996,14,Fremantle,20,W,25,3,4,4,7,,,,1,,,,,,,,,,,,,,,,1996-07-12
+Melbourne,1996,15,West Coast,21,L,25,4,2,7,11,,,,2,,,,,,,,,,,,,,,,1996-07-19
+Melbourne,1996,16,Hawthorn,22,L,25,7,3,4,11,,,,,,,,,1,,,,,,,,,,,1996-07-26

@@ -1,0 +1,24 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1931,1,St Kilda,4,W,28,,,,,,,,,,,,,,,,,,,,,,,,1931-03-22
+South Melbourne,1931,2,Fitzroy,7,W,28,,,,,1,,,,,,,,,,,,,,,,,,,1931-04-12
+South Melbourne,1931,3,Richmond,8,L,28,,,,,,,,,,,,,,,,,,,,,,,,1931-04-19
+South Melbourne,1931,4,Essendon,9,W,28,,,,,,,,,,,,,,,,,,,,,,,,1931-04-26
+South Melbourne,1931,5,Carlton,10,L,28,,,,,,,,,,,,,,,,,,,,,,,,1931-05-03
+South Melbourne,1931,6,Melbourne,11,W,28,,,,,,,,,,,,,,,,,,,,,,,,1931-05-10
+South Melbourne,1931,7,St Kilda,15,W,28,,,,,,,,,,,,,,,,,,,,,,,,1931-06-07
+South Melbourne,1931,8,Hawthorn,16,W,28,,,,,,,,,,,,,,,,,,,,,,,,1931-06-14
+South Melbourne,1931,9,Geelong,17,L,28,,,,,,,,,,,,,,,,,,,,,,,,1931-06-21
+South Melbourne,1931,10,Fitzroy,18,L,28,,,,,,,,,,,,,,,,,,,,,,,,1931-06-28
+South Melbourne,1932,11,Melbourne,1,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1932-03-01
+South Melbourne,1932,12,Carlton,2,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1932-03-08
+South Melbourne,1932,13,Footscray,3,W,14,,,,,,,,,,,,,,,,,,,,,,,,1932-03-15
+South Melbourne,1932,14,North Melbourne,4,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1932-03-22
+St Kilda,1932,15,Collingwood,8,L,14,,,,,,,,,,,,,,,,,,,,,,,,1932-04-19
+St Kilda,1932,16,Melbourne,9,L,14,,,,,,,,,,,,,,,,,,,,,,,,1932-04-26
+St Kilda,1932,17,South Melbourne,10,L,14,,,,,,,,,,,,,,,,,,,,,,,,1932-05-03
+St Kilda,1932,18,Hawthorn,13,L,14,,,,,2,,,,,,,,,,,,,,,,,,,1932-05-24
+St Kilda,1932,19,Geelong,14,W,14,,,,,,,,,,,,,,,,,,,,,,,,1932-05-31
+St Kilda,1932,20,Essendon,15,L,14,,,,,1,,,,,,,,,,,,,,,,,,,1932-06-07
+St Kilda,1932,21,Footscray,16,L,14,,,,,,,,,,,,,,,,,,,,,,,,1932-06-14
+St Kilda,1932,22,North Melbourne,17,L,14,,,,,1,,,,,,,,,,,,,,,,,,,1932-06-21
+St Kilda,1932,23,Carlton,18,L,14,,,,,,,,,,,,,,,,,,,,,,,,1932-06-28

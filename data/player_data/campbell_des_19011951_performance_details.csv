@@ -1,0 +1,51 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1970,1,Collingwood,5,L,18,3,,,3,,,2,,,,,,1,,,,,,,,,,,1970-03-29
+Melbourne,1970,2,Essendon,6,W,18,7,3,2,9,,,,,,,,,2,,,,,,,,,,,1970-04-05
+Melbourne,1970,3,Richmond,8,L,18,7,3,4,11,1,,1,,,,,,,1,,,,,,,,,,1970-04-19
+Melbourne,1970,4,Footscray,18,L,18,10,4,2,12,,,,,,,,,1,,,,,,,,,,,1970-06-28
+Melbourne,1970,5,Richmond,19,W,18,15,4,,15,,,3,,,,,,1,1,,,,,,,,,,1970-07-05
+Melbourne,1970,6,St Kilda,20,L,18,13,8,,13,,1,,,,,,,1,1,,,,,,,,,,1970-07-12
+Melbourne,1970,7,Geelong,21,L,18,10,1,,10,,,2,,,,,,1,1,,,,,,,,,,1970-07-19
+Melbourne,1970,8,Carlton,22,L,18,13,5,4,17,,,,,,,,,2,3,,,,,,,,,,1970-07-26
+Melbourne,1975,9,North Melbourne,2,W,5,,,,,,,,,,,,,,,,,,,,,,,,1975-03-08
+Melbourne,1975,10,St Kilda,4,L,5,11,7,4,15,,,,,,,,,,2,,,,,,,,,,1975-03-22
+Melbourne,1975,11,Hawthorn,5,L,5,5,3,1,6,,,,,,,,,2,2,,,,,,,,,,1975-03-29
+Melbourne,1975,12,South Melbourne,6,W,5,7,4,2,9,,,,,,,,,1,1,,,,,,,,,,1975-04-05
+Melbourne,1975,13,Richmond,7,L,5,8,2,1,9,,,,,,,,,1,2,,,,,,,,,,1975-04-12
+Melbourne,1975,14,Carlton,8,L,5,,,,,,,,,,,,,,,,,,,,,,,,1975-04-19
+Melbourne,1975,15,Fitzroy,9,W,5,15,4,2,17,,,,,,,,,2,1,,,,,,,,,,1975-04-26
+Melbourne,1975,16,Geelong,10,L,5,5,3,1,6,,,,,,,,,,4,,,,,,,,,,1975-05-03
+Melbourne,1975,17,Collingwood,11,W,5,,,,,1,,,,,,,,,,,,,,,,,,,1975-05-10
+Melbourne,1975,18,St Kilda,14,L,5,12,3,1,13,,1,,,,,,,3,1,,,,,,,,,,1975-05-31
+Melbourne,1975,19,Essendon,15,W,5,8,6,3,11,3,,,,,,,,1,5,,,,,,,,,,1975-06-07
+Melbourne,1975,20,Hawthorn,16,L,5,6,4,5,11,,,,,,,,,,,,,,,,,,,,1975-06-14
+Melbourne,1975,21,South Melbourne,17,W,5,6,3,8,14,1,,,,,,,,4,2,,,,,,,,,,1975-06-21
+Melbourne,1975,22,Richmond,18,W,5,7,2,4,11,,2,,,,,,,1,,,,,,,,,,,1975-06-28
+Melbourne,1975,23,Carlton,19,W,5,7,3,5,12,1,,,,,,,,2,2,,,,,,,,,,1975-07-05
+Melbourne,1975,24,Fitzroy,20,L,5,3,1,1,4,,,,,,,,,,2,,,,,,,,,,1975-07-12
+Melbourne,1975,25,Geelong,21,L,5,12,3,2,14,,,,,,,,,4,2,,,,,,,,,,1975-07-19
+Melbourne,1975,26,Collingwood,22,L,5,2,1,,2,,,,,,,,,1,,,,,,,,,,,1975-07-26
+Melbourne,1976,27,North Melbourne,1,W,5,9,3,1,10,,1,,,,,,,,3,,,,,,,,,,1976-03-01
+Melbourne,1976,28,Footscray,2,L,5,7,3,2,9,,,,,,,,,1,2,,,,,,,,,,1976-03-08
+Melbourne,1976,29,Essendon,3,W,5,12,1,3,15,,,,,,,,,,,,,,,,,,,,1976-03-15
+Melbourne,1976,30,Carlton,4,L,5,12,3,,12,,,,,,,,,,1,,,,,,,,,,1976-03-22
+Melbourne,1976,31,Fitzroy,5,W,5,13,3,1,14,,,,,,,,,2,1,,,,,,,,,,1976-03-29
+Melbourne,1976,32,South Melbourne,6,W,5,11,5,4,15,,,,,,,,,1,3,,,,,,,,,,1976-04-05
+Melbourne,1976,33,Hawthorn,7,L,5,8,2,1,9,2,,,,,,,,1,2,,,,,,,,,,1976-04-12
+Melbourne,1976,34,Geelong,10,L,5,6,1,,6,,,,,,,,,,,,,,,,,,,,1976-05-03
+Melbourne,1976,35,Collingwood,11,L,5,4,1,1,5,,,,,,,,,,1,,,,,,,,,,1976-05-10
+Melbourne,1976,36,North Melbourne,12,L,5,6,1,,6,,,1,,,,,,1,,,,,,,,,,,1976-05-17
+Melbourne,1976,37,Fitzroy,16,W,5,7,,1,8,,,,,,,,,1,1,,,,,,,,,,1976-06-14
+Melbourne,1976,38,Hawthorn,18,L,5,13,3,2,15,,,,,,,,,4,3,,,,,,,,,,1976-06-28
+Melbourne,1976,39,Richmond,19,W,5,8,1,1,9,,,,,,,,,2,,,,,,,,,,,1976-07-05
+Melbourne,1976,40,St Kilda,20,W,5,6,5,1,7,,,,,,,,,,,,,,,,,,,,1976-07-12
+Melbourne,1976,41,Geelong,21,W,5,8,2,2,10,,,,,,,,,2,1,,,,,,,,,,1976-07-19
+Melbourne,1976,42,Collingwood,22,W,5,5,2,2,7,,,,,,,,,2,1,,,,,,,,,,1976-07-26
+Melbourne,1977,43,North Melbourne,3,L,5,5,2,,5,1,1,,,,,,,2,,,,,,,,,,,1977-03-15
+Melbourne,1977,44,Collingwood,11,L,5,,,,,,,,,,,,,,,,,,,,,,,,1977-05-10
+Melbourne,1977,45,South Melbourne,12,L,5,8,3,3,11,,2,2,,,,,,2,2,,,,,,,,,,1977-05-17
+Melbourne,1977,46,Footscray,13,L,5,10,3,4,14,,,,,,,,,4,2,,,,,,,,,,1977-05-24
+Melbourne,1977,47,Essendon,14,W,5,7,1,,7,,,,,,,,,2,3,,,,,,,,,,1977-05-31
+Melbourne,1977,48,St Kilda,20,W,5,12,6,6,18,,2,,,,,,,2,4,,,,,,,,,,1977-07-12
+Melbourne,1977,49,Hawthorn,21,L,5,7,3,2,9,2,1,,,,,,,2,1,,,,,,,,,,1977-07-19
+Melbourne,1977,50,Collingwood,22,L,5,17,3,2,19,1,1,,,,,,,2,3,,,,,,,,,,1977-07-26

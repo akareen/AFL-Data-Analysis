@@ -1,0 +1,13 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1978,1,Hawthorn,1,L,22,4,,,4,,,,,,,,,,1,,,,,,,,,,1978-03-01
+Melbourne,1978,2,South Melbourne,10,L,22,8,3,2,10,2,,,,,,,,,,,,,,,,,,,1978-05-03
+Melbourne,1978,3,Collingwood,11,L,22,2,,4,6,1,,,,,,,,1,2,,,,,,,,,,1978-05-10
+Melbourne,1979,4,St Kilda,10,W,22,10,2,5,15,1,1,,,,,,,1,1,,,,,,,,,,1979-05-03
+Melbourne,1979,5,Collingwood,11,L,22,4,,3,7,,1,,,,,,,1,1,,,,,,,,,,1979-05-10
+Melbourne,1979,6,Footscray,12,L,22,11,1,4,15,,,,,,,,,3,,,,,,,,,,,1979-05-17
+Melbourne,1979,7,Richmond,14,L,22,7,2,7,14,1,,,,,,,,1,1,,,,,,,,,,1979-05-31
+Melbourne,1979,8,Essendon,18,W,22,3,1,4,7,,,,,,,,,,2,,,,,,,,,,1979-06-28
+Melbourne,1979,9,Hawthorn,19,L,22,9,4,9,18,1,,,,,,,,1,,,,,,,,,,,1979-07-05
+Melbourne,1979,10,North Melbourne,20,L,22,5,,4,9,,,,,,,,,2,,,,,,,,,,,1979-07-12
+Melbourne,1979,11,St Kilda,21,W,22,4,1,4,8,1,,,,,,,,2,,,,,,,,,,,1979-07-19
+Melbourne,1979,12,Collingwood,22,L,22,1,,1,2,1,,,,,,,,,,,,,,,,,,,1979-07-26

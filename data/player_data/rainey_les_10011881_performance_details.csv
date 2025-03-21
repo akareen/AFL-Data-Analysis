@@ -1,0 +1,24 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1899,1,Collingwood,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-04-12
+Essendon,1899,2,St Kilda,9,W,,,,,,1,,,,,,,,,,,,,,,,,,,1899-04-26
+Essendon,1899,3,South Melbourne,10,W,,,,,,1,,,,,,,,,,,,,,,,,,,1899-05-03
+Essendon,1899,4,Carlton,11,W,,,,,,1,,,,,,,,,,,,,,,,,,,1899-05-10
+Essendon,1900,5,Collingwood,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-05-10
+Melbourne,1902,6,St Kilda,1,W,,,,,,2,,,,,,,,,,,,,,,,,,,1902-03-01
+Melbourne,1902,7,Collingwood,2,L,,,,,,1,,,,,,,,,,,,,,,,,,,1902-03-08
+Melbourne,1902,8,Essendon,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-15
+Melbourne,1902,9,Carlton,4,W,,,,,,2,,,,,,,,,,,,,,,,,,,1902-03-22
+Melbourne,1902,10,Fitzroy,5,L,,,,,,2,,,,,,,,,,,,,,,,,,,1902-03-29
+Melbourne,1902,11,Geelong,6,L,,,,,,1,,,,,,,,,,,,,,,,,,,1902-04-05
+Melbourne,1902,12,South Melbourne,7,W,,,,,,1,,,,,,,,,,,,,,,,,,,1902-04-12
+Melbourne,1902,13,St Kilda,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1902-04-19
+Melbourne,1902,14,Collingwood,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-04-26
+Melbourne,1902,15,Essendon,10,L,,,,,,1,,,,,,,,,,,,,,,,,,,1902-05-03
+Melbourne,1902,16,Carlton,11,W,,,,,,2,,,,,,,,,,,,,,,,,,,1902-05-10
+Melbourne,1902,17,Geelong,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-24
+Melbourne,1902,18,South Melbourne,14,W,,,,,,1,,,,,,,,,,,,,,,,,,,1902-05-31
+Melbourne,1902,19,Carlton,15,W,,,,,,1,,,,,,,,,,,,,,,,,,,1902-06-07
+Melbourne,1902,20,Essendon,16,L,,,,,,1,,,,,,,,,,,,,,,,,,,1902-06-14
+Melbourne,1902,21,St Kilda,17,W,,,,,,1,,,,,,,,,,,,,,,,,,,1902-06-21
+Melbourne,1902,22,Essendon,SF,L,,,,,,1,,,,,,,,,,,,,,,,,,,1902-03-01
+Melbourne,1903,23,Essendon,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-22

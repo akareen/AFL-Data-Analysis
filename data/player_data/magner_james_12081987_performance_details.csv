@@ -1,0 +1,20 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,2012,1,Brisbane Lions,1,L,49,13,4,10,23,2,,,4,2,3,4,4,4,,2,10,12,,,3,,,62,2012-03-01
+Melbourne,2012,2,West Coast,2,L,49,18,4,14,32,,,,3,5,2,11,5,,,,20,13,1,,,,,67,2012-03-08
+Melbourne,2012,3,Richmond,3,L,49,7,4,2,9,,,,4,3,1,1,2,1,2,,3,7,,,1,,1,73,2012-03-15
+Melbourne,2012,4,Western Bulldogs,4,L,49,9,3,3,12,,,1,6,2,1,4,2,,1,,7,7,,,1,,1,89,2012-03-22
+Melbourne,2012,5,St Kilda,5,L,49,10,1,10,20,,,,8,1,1,7,2,1,,,15,4,,,,,,73,2012-03-29
+Melbourne,2012,6,Geelong,6,L,49,7,5,6,13,,1,,4,,2,1,,1,,,5,8,,1,,,1,90,2012-04-05
+Melbourne,2012,7,Hawthorn,7,L,49,11,8,6,17,1,,,2,,3,,4,2,3,,10,7,4,,1,,1,96,2012-04-12
+Melbourne,2012,8,Sydney,8,L,49,7,4,7,14,,1,,7,,2,3,2,1,1,,5,9,,1,,,,86,2012-04-19
+Melbourne,2012,9,Carlton,9,L,49,9,1,6,15,,,,4,1,2,6,1,,1,,10,6,,,1,,,71,2012-04-26
+Melbourne,2012,10,Essendon,10,W,49,8,3,7,15,,1,,6,1,2,2,1,3,1,,6,9,1,,3,,,81,2012-05-03
+Melbourne,2012,11,Collingwood,11,L,49,7,3,2,9,1,,,2,,2,,1,,1,,3,5,,,1,,,79,2012-05-10
+Melbourne,2012,12,Greater Western Sydney,13,W,49,9,2,7,16,,,,7,,3,,4,1,2,,4,12,,1,,,1,86,2012-05-24
+Melbourne,2012,13,Brisbane Lions,14,L,49,7,2,8,15,,1,,4,,3,,4,1,2,,10,5,,,2,,,86,2012-05-31
+Melbourne,2012,14↓,Richmond,15,L,49,2,1,1,3,,1,,1,,1,,1,,1,,2,1,,1,2,,,50,2012-06-07
+Melbourne,2012,15↓,Port Adelaide,17,L,49,5,4,7,12,,,,5,,3,3,3,3,3,,5,7,,,1,,,54,2012-06-21
+Melbourne,2012,16↑,Gold Coast,19,W,49,4,2,6,10,,,,4,,,3,2,,1,,7,2,,1,1,,,50,2012-07-05
+Melbourne,2012,17↑,St Kilda,20,L,49,2,,3,5,,,,3,1,,3,1,,,,3,2,,,,,,22,2012-07-12
+Melbourne,2013,18,Richmond,8,L,22,10,1,10,20,,1,,6,3,5,7,3,2,1,,11,9,,,,,,69,2013-04-19
+Melbourne,2013,19,Fremantle,9,L,22,12,4,9,21,,,,6,2,1,3,2,,1,,9,12,,,,,,72,2013-04-26

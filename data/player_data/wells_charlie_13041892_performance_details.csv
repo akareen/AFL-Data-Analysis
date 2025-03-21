@@ -1,0 +1,21 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1912,1,St Kilda,1,W,21,,,,,,,,,,,,,,,,,,,,,,,,1912-03-01
+Richmond,1912,2,South Melbourne,2,W,13,,,,,1,,,,,,,,,,,,,,,,,,,1912-03-08
+Richmond,1912,3,Fitzroy,4,L,21,,,,,2,,,,,,,,,,,,,,,,,,,1912-03-22
+Richmond,1912,4,Essendon,6,L,21,,,,,2,,,,,,,,,,,,,,,,,,,1912-04-05
+Richmond,1912,5,Carlton,7,L,21,,,,,,,,,,,,,,,,,,,,,,,,1912-04-12
+Fitzroy,1913,6,Geelong,3,W,2,,,,,4,,,,,,,,,,,,,,,,,,,1913-03-15
+Fitzroy,1913,7,Melbourne,4,W,2,,,,,,,,,,,,,,,,,,,,,,,,1913-03-22
+Fitzroy,1913,8,Essendon,5,W,2,,,,,1,,,,,,,,,,,,,,,,,,,1913-03-29
+Fitzroy,1913,9,South Melbourne,7,W,2,,,,,,,,,,,,,,,,,,,,,,,,1913-04-12
+Fitzroy,1913,10,Collingwood,8,W,2,,,,,,,,,,,,,,,,,,,,,,,,1913-04-19
+Fitzroy,1913,11,Carlton,9,W,2,,,,,,,,,,,,,,,,,,,,,,,,1913-04-26
+Fitzroy,1913,12,Melbourne,13,W,2,,,,,,,,,,,,,,,,,,,,,,,,1913-05-24
+Fitzroy,1913,13,Essendon,14,W,2,,,,,,,,,,,,,,,,,,,,,,,,1913-05-31
+Fitzroy,1913,14,Richmond,15,W,2,,,,,,,,,,,,,,,,,,,,,,,,1913-06-07
+Fitzroy,1913,15,South Melbourne,16,W,2,,,,,,,,,,,,,,,,,,,,,,,,1913-06-14
+Fitzroy,1913,16,St Kilda,GF,W,2,,,,,,,,,,,,,,,,,,,,,,,,1913-03-01
+Fitzroy,1914,17,Richmond,2,W,2,,,,,,,,,,,,,,,,,,,,,,,,1914-03-08
+Fitzroy,1914,18,Melbourne,10,W,2,,,,,1,,,,,,,,,,,,,,,,,,,1914-05-03
+Fitzroy,1914,19,Richmond,11,W,2,,,,,,,,,,,,,,,,,,,,,,,,1914-05-10
+Fitzroy,1914,20,Essendon,18,L,2,,,,,,,,,,,,,,,,,,,,,,,,1914-06-28

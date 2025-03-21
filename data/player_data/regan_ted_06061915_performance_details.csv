@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1938,1,Geelong,1,W,25,,,,,,,,,,,,,,,,,,,,,,,,1938-03-01
+Melbourne,1938,2,Hawthorn,2,L,25,,,,,,,,,,,,,,,,,,,,,,,,1938-03-08
+Melbourne,1938,3,South Melbourne,4,W,25,,,,,,,,,,,,,,,,,,,,,,,,1938-03-22
+Melbourne,1938,4,Footscray,5,L,25,,,,,,,,,,,,,,,,,,,,,,,,1938-03-29
+Essendon,1939,5,Geelong,15,W,34,,,,,,,,,,,,,,,,,,,,,,,,1939-06-07
+Essendon,1939,6,St Kilda,16,W,34,,,,,,,,,,,,,,,,,,,,,,,,1939-06-14
+Essendon,1941,7,Collingwood,8,L,11,,,,,,,,,,,,,,,,,,,,,,,,1941-04-19
+Essendon,1941,8,Geelong,9,W,11,,,,,,,,,,,,,,,,,,,,,,,,1941-04-26
+Essendon,1941,9,Melbourne,10,L,11,,,,,,,,,,,,,,,,,,,,,,,,1941-05-03
+Essendon,1941,10,Carlton,12,L,11,,,,,,,,,,,,,,,,,,,,,,,,1941-05-17
+Essendon,1941,11,Melbourne,GF,L,11,,,,,1,,,,,,,,,,,,,,,,,,,1941-03-01

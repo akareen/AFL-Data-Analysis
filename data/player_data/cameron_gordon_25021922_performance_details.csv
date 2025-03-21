@@ -1,0 +1,18 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1940,1,Fitzroy,6,W,9,,,,,,,,,,,,,,,,,,,,,,,,1940-04-05
+Carlton,1940,2,Footscray,7,L,9,,,,,,,,,,,,,,,,,,,,,,,,1940-04-12
+Carlton,1940,3,Essendon,8,L,9,,,,,,,,,,,,,,,,,,,,,,,,1940-04-19
+Carlton,1940,4,North Melbourne,9,L,9,,,,,,,,,,,,,,,,,,,,,,,,1940-04-26
+Carlton,1940,5,Geelong,12,L,9,,,,,1,,,,,,,,,,,,,,,,,,,1940-05-17
+Carlton,1940,6,South Melbourne,13,L,9,,,,,,,,,,,,,,,,,,,,,,,,1940-05-24
+Carlton,1940,7,Collingwood,14,W,9,,,,,,,,,,,,,,,,,,,,,,,,1940-05-31
+Carlton,1940,8,Melbourne,15,W,9,,,,,,,,,,,,,,,,,,,,,,,,1940-06-07
+Carlton,1940,9,St Kilda,16,W,9,,,,,,,,,,,,,,,,,,,,,,,,1940-06-14
+Carlton,1940,10,Fitzroy,17,W,9,,,,,,,,,,,,,,,,,,,,,,,,1940-06-21
+Carlton,1946,11,South Melbourne,1,W,19,,,,,,,,,,,,,,,,,,,,,,,,1946-03-01
+Carlton,1946,12,Melbourne,2,L,19,,,,,,,,,,,,,,,,,,,,,,,,1946-03-08
+Carlton,1946,13,Hawthorn,3,W,19,,,,,,,,,,,,,,,,,,,,,,,,1946-03-15
+Carlton,1946,14,Fitzroy,4,L,19,,,,,,,,,,,,,,,,,,,,,,,,1946-03-22
+Carlton,1946,15,North Melbourne,5,W,19,,,,,,,,,,,,,,,,,,,,,,,,1946-03-29
+Carlton,1946,16,Richmond,7,W,19,,,,,,,,,,,,,,,,,,,,,,,,1946-04-12
+Carlton,1946,17,Collingwood,8,L,19,,,,,,,,,,,,,,,,,,,,,,,,1946-04-19

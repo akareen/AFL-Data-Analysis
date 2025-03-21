@@ -1,0 +1,83 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Footscray,1953,1,Collingwood,7,L,1,,,,,2,,,,,,,,,,,,,,,,,,,1953-04-12
+Footscray,1953,2,Richmond,8,W,1,,,,,,,,,,,,,,,,,,,,,,,,1953-04-19
+Footscray,1953,3,South Melbourne,9,L,1,,,,,1,,,,,,,,,,,,,,,,,,,1953-04-26
+Footscray,1953,4,North Melbourne,10,W,1,,,,,,,,,,,,,,,,,,,,,,,,1953-05-03
+Footscray,1953,5,Essendon,11,W,1,,,,,,,,,,,,,,,,,,,,,,,,1953-05-10
+Footscray,1953,6,Carlton,12,W,1,,,,,2,,,,,,,,,,,,,,,,,,,1953-05-17
+Footscray,1953,7,Geelong,13,L,1,,,,,4,,,,,,,,,,,,,,,,,,,1953-05-24
+Footscray,1953,8,Hawthorn,14,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1953-05-31
+Footscray,1953,9,Melbourne,15,W,1,,,,,3,,,,,,,,,,,,,,,,,,,1953-06-07
+Footscray,1953,10,Fitzroy,16,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1953-06-14
+Footscray,1953,11,St Kilda,17,W,1,,,,,3,,,,,,,,,,,,,,,,,,,1953-06-21
+Footscray,1953,12,Collingwood,18,L,1,,,,,1,,,,,,,,,,,,,,,,,,,1953-06-28
+Footscray,1953,13,Essendon,SF,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1953-03-01
+Footscray,1953,14,Geelong,PF,L,1,,,,,,,,,,,,,,,,,,,,,,,,1953-03-01
+Footscray,1954,15,St Kilda,1,L,1,,,,,,,,,,,,,,,,,,,,,,,,1954-03-01
+Footscray,1954,16,Richmond,2,L,1,,,,,,,,,,,,,,,,,,,,,,,,1954-03-08
+Footscray,1954,17,South Melbourne,3,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1954-03-15
+Footscray,1954,18,Geelong,9,L,1,,,,,2,,,,,,,,,,,,,,,,,,,1954-04-26
+Footscray,1954,19,Melbourne,10,W,1,,,,,,,,,,,,,,,,,,,,,,,,1954-05-03
+Footscray,1954,20,Collingwood,11,L,1,,,,,2,,,,,,,,,,,,,,,,,,,1954-05-10
+Footscray,1954,21,St Kilda,12,W,1,,,,,4,,,,,,,,,,,,,,,,,,,1954-05-17
+Footscray,1954,22,Richmond,13,L,1,,,,,,,,,,,,,,,,,,,,,,,,1954-05-24
+Footscray,1954,23,South Melbourne,14,W,1,,,,,3,,,,,,,,,,,,,,,,,,,1954-05-31
+Footscray,1954,24,Carlton,15,L,1,,,,,,,,,,,,,,,,,,,,,,,,1954-06-07
+Footscray,1954,25,North Melbourne,16,D,1,,,,,2,,,,,,,,,,,,,,,,,,,1954-06-14
+Footscray,1954,26,Essendon,17,W,1,,,,,,,,,,,,,,,,,,,,,,,,1954-06-21
+Footscray,1954,27,Hawthorn,18,W,1,,,,,3,,,,,,,,,,,,,,,,,,,1954-06-28
+Footscray,1954,28,Geelong,SF,W,1,,,,,2,,,,,,,,,,,,,,,,,,,1954-03-01
+Footscray,1954,29,Melbourne,GF,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1954-03-01
+Footscray,1955,30,Collingwood,1,W,1,,,,,2,,,,,,,,,,,,,,,,,,,1955-03-01
+Footscray,1955,31,Richmond,2,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1955-03-08
+Footscray,1955,32,Melbourne,3,L,1,,,,,1,,,,,,,,,,,,,,,,,,,1955-03-15
+Footscray,1955,33,Essendon,4,W,1,,,,,,,,,,,,,,,,,,,,,,,,1955-03-22
+Footscray,1955,34,Geelong,5,L,1,,,,,2,,,,,,,,,,,,,,,,,,,1955-03-29
+Footscray,1955,35,Fitzroy,6,L,1,,,,,,,,,,,,,,,,,,,,,,,,1955-04-05
+Footscray,1955,36,North Melbourne,7,W,1,,,,,2,,,,,,,,,,,,,,,,,,,1955-04-12
+Footscray,1955,37,St Kilda,8,W,1,,,,,2,,,,,,,,,,,,,,,,,,,1955-04-19
+Footscray,1955,38,Hawthorn,9,W,1,,,,,2,,,,,,,,,,,,,,,,,,,1955-04-26
+Footscray,1955,39,Carlton,10,W,1,,,,,2,,,,,,,,,,,,,,,,,,,1955-05-03
+Footscray,1955,40,South Melbourne,11,W,1,,,,,2,,,,,,,,,,,,,,,,,,,1955-05-10
+Footscray,1955,41,Collingwood,12,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1955-05-17
+Footscray,1955,42,Richmond,13,L,1,,,,,,,,,,,,,,,,,,,,,,,,1955-05-24
+Footscray,1955,43,Melbourne,14,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1955-05-31
+Footscray,1955,44,Essendon,15,L,1,,,,,1,,,,,,,,,,,,,,,,,,,1955-06-07
+Footscray,1955,45,Geelong,16,L,1,,,,,3,,,,,,,,,,,,,,,,,,,1955-06-14
+Footscray,1955,46,Fitzroy,17,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1955-06-21
+Footscray,1955,47,North Melbourne,18,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1955-06-28
+Footscray,1956,48,Fitzroy,1,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1956-03-01
+Footscray,1956,49,St Kilda,2,W,1,,,,,,,,,,,,,,,,,,,,,,,,1956-03-08
+Footscray,1956,50,Melbourne,3,L,1,,,,,,,,,,,,,,,,,,,,,,,,1956-03-15
+Footscray,1956,51,Collingwood,4,L,1,,,,,1,,,,,,,,,,,,,,,,,,,1956-03-22
+Footscray,1956,52,Hawthorn,6,L,1,,,,,2,,,,,,,,,,,,,,,,,,,1956-04-05
+Footscray,1956,53,Carlton,7,L,1,,,,,,,,,,,,,,,,,,,,,,,,1956-04-12
+Footscray,1956,54,Essendon,8,W,1,,,,,2,,,,,,,,,,,,,,,,,,,1956-04-19
+Footscray,1956,55,Richmond,9,W,1,,,,,3,,,,,,,,,,,,,,,,,,,1956-04-26
+Footscray,1956,56,Geelong,10,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1956-05-03
+Footscray,1956,57,North Melbourne,11,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1956-05-10
+Footscray,1956,58,Fitzroy,12,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1956-05-17
+Footscray,1956,59,St Kilda,13,L,1,,,,,,,,,,,,,,,,,,,,,,,,1956-05-24
+Footscray,1956,60,Melbourne,14,W,1,,,,,2,,,,,,,,,,,,,,,,,,,1956-05-31
+Footscray,1956,61,Collingwood,15,L,1,,,,,1,,,,,,,,,,,,,,,,,,,1956-06-07
+Footscray,1956,62,South Melbourne,16,L,1,,,,,2,,,,,,,,,,,,,,,,,,,1956-06-14
+Footscray,1956,63,Hawthorn,17,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1956-06-21
+Footscray,1956,64,Carlton,18,W,1,,,,,,,,,,,,,,,,,,,,,,,,1956-06-28
+Footscray,1956,65,Geelong,SF,W,1,,,,,,,,,,,,,,,,,,,,,,,,1956-03-01
+Footscray,1956,66,Collingwood,PF,L,1,,,,,,,,,,,,,,,,,,,,,,,,1956-03-01
+Footscray,1957,67,Geelong,1,D,1,,,,,2,,,,,,,,,,,,,,,,,,,1957-03-01
+Footscray,1957,68,St Kilda,2,W,1,,,,,2,,,,,,,,,,,,,,,,,,,1957-03-08
+Footscray,1957,69,Carlton,3,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1957-03-15
+Footscray,1957,70,Essendon,4,L,1,,,,,,,,,,,,,,,,,,,,,,,,1957-03-22
+Footscray,1957,71,North Melbourne,5,L,1,,,,,,,,,,,,,,,,,,,,,,,,1957-03-29
+Footscray,1957,72,Richmond,6,W,1,,,,,2,,,,,,,,,,,,,,,,,,,1957-04-05
+Footscray,1957,73,Collingwood,8,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1957-04-19
+Footscray,1957,74,South Melbourne,9,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1957-04-26
+Footscray,1957,75,Fitzroy,10,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1957-05-03
+Footscray,1957,76,Melbourne,11,L,1,,,,,1,,,,,,,,,,,,,,,,,,,1957-05-10
+Footscray,1957,77,St Kilda,13,L,1,,,,,1,,,,,,,,,,,,,,,,,,,1957-05-24
+Footscray,1957,78,North Melbourne,16,L,1,,,,,1,,,,,,,,,,,,,,,,,,,1957-06-14
+Footscray,1957,79,Richmond,17,W,1,,,,,,,,,,,,,,,,,,,,,,,,1957-06-21
+Footscray,1957,80,Hawthorn,18,W,1,,,,,,,,,,,,,,,,,,,,,,,,1957-06-28
+Footscray,1958,81,South Melbourne,3,W,22,,,,,,,,,,,,,,,,,,,,,,,,1958-03-15
+Melbourne,1958,82,Hawthorn,15,W,22,,,,,2,,,,,,,,,,,,,,,,,,,1958-06-07

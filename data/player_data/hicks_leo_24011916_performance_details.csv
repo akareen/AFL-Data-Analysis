@@ -1,0 +1,5 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1942,1,Hawthorn,7,W,10,,,,,,,,,,,,,,,,,,,,,,,,1942-04-12
+Fitzroy,1942,2,Carlton,15,L,10,,,,,,,,,,,,,,,,,,,,,,,,1942-06-07
+Fitzroy,1942,3,Footscray,16,L,10,,,,,,,,,,,,,,,,,,,,,,,,1942-06-14
+Collingwood,1943,4,Fitzroy,15,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1943-06-07

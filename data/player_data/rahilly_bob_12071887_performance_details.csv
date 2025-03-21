@@ -1,0 +1,35 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1910,1,Carlton,5,L,,,,,,1,,,,,,,,,,,,,,,,,,,1910-03-29
+Fitzroy,1910,2,Melbourne,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-19
+Fitzroy,1910,3,South Melbourne,9,L,,,,,,1,,,,,,,,,,,,,,,,,,,1910-04-26
+Fitzroy,1910,4,Essendon,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-03
+Fitzroy,1910,5,St Kilda,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-10
+Fitzroy,1910,6,Geelong,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-17
+Fitzroy,1910,7,Richmond,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-24
+Fitzroy,1910,8,Carlton,14,L,,,,,,1,,,,,,,,,,,,,,,,,,,1910-05-31
+Fitzroy,1910,9,Collingwood,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-07
+Fitzroy,1910,10,University,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-14
+Fitzroy,1910,11,Melbourne,17,W,,,,,,1,,,,,,,,,,,,,,,,,,,1910-06-21
+Fitzroy,1910,12,South Melbourne,18,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-28
+Fitzroy,1911,13,Melbourne,1,L,,,,,,1,,,,,,,,,,,,,,,,,,,1911-03-01
+Fitzroy,1911,14,Collingwood,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-08
+Fitzroy,1911,15,Carlton,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-15
+Fitzroy,1911,16,St Kilda,4,W,,,,,,2,,,,,,,,,,,,,,,,,,,1911-03-22
+Fitzroy,1911,17,Geelong,5,W,,,,,,2,,,,,,,,,,,,,,,,,,,1911-03-29
+Fitzroy,1911,18,University,6,W,,,,,,1,,,,,,,,,,,,,,,,,,,1911-04-05
+Fitzroy,1911,19,South Melbourne,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-04-12
+Fitzroy,1911,20,Essendon,8,L,,,,,,1,,,,,,,,,,,,,,,,,,,1911-04-19
+Fitzroy,1911,21,Melbourne,10,W,,,,,,2,,,,,,,,,,,,,,,,,,,1911-05-03
+Fitzroy,1911,22,Collingwood,11,W,,,,,,1,,,,,,,,,,,,,,,,,,,1911-05-10
+Fitzroy,1911,23,Carlton,12,L,,,,,,1,,,,,,,,,,,,,,,,,,,1911-05-17
+Fitzroy,1911,24,St Kilda,13,W,,,,,,3,,,,,,,,,,,,,,,,,,,1911-05-24
+Fitzroy,1911,25,Geelong,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-05-31
+Fitzroy,1911,26,University,15,W,,,,,,1,,,,,,,,,,,,,,,,,,,1911-06-07
+Fitzroy,1911,27,South Melbourne,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-14
+Fitzroy,1911,28,Essendon,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-21
+Fitzroy,1911,29,Richmond,18,W,,,,,,1,,,,,,,,,,,,,,,,,,,1911-06-28
+Fitzroy,1912,30,South Melbourne,1,L,22,,,,,,,,,,,,,,,,,,,,,,,,1912-03-01
+Fitzroy,1912,31,Carlton,2,L,22,,,,,,,,,,,,,,,,,,,,,,,,1912-03-08
+Fitzroy,1912,32,Geelong,3,W,22,,,,,1,,,,,,,,,,,,,,,,,,,1912-03-15
+Essendon,1914,33,University,2,W,8,,,,,2,,,,,,,,,,,,,,,,,,,1914-03-08
+Essendon,1914,34,Richmond,4,W,8,,,,,2,,,,,,,,,,,,,,,,,,,1914-03-22

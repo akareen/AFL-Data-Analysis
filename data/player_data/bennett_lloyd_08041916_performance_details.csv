@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1944,1,St Kilda,5,L,19,,,,,,,,,,,,,,,,,,,,,,,,1944-03-29
+Melbourne,1944,2,Fitzroy,8,L,19,,,,,,,,,,,,,,,,,,,,,,,,1944-04-19
+Melbourne,1944,3,Footscray,9,L,19,,,,,,,,,,,,,,,,,,,,,,,,1944-04-26
+Melbourne,1944,4,South Melbourne,10,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1944-05-03
+Melbourne,1944,5,Hawthorn,11,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1944-05-10
+Melbourne,1944,6,Essendon,13,L,19,,,,,,,,,,,,,,,,,,,,,,,,1944-05-24
+Melbourne,1944,7,Carlton,14,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1944-05-31
+Melbourne,1944,8,Geelong,15,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1944-06-07
+Melbourne,1944,9,St Kilda,16,L,19,,,,,,,,,,,,,,,,,,,,,,,,1944-06-14

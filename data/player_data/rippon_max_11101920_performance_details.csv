@@ -1,0 +1,48 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1943,1,South Melbourne,3,W,1,,,,,,,,,,,,,,,,,,,,,,,,1943-03-15
+Fitzroy,1943,2,Hawthorn,4,L,1,,,,,,,,,,,,,,,,,,,,,,,,1943-03-22
+South Melbourne,1944,3,Footscray,7,L,10,,,,,,,,,,,,,,,,,,,,,,,,1944-04-12
+South Melbourne,1944,4,Richmond,8,L,10,,,,,,,,,,,,,,,,,,,,,,,,1944-04-19
+South Melbourne,1944,5,Hawthorn,9,W,10,,,,,,,,,,,,,,,,,,,,,,,,1944-04-26
+South Melbourne,1944,6,Melbourne,10,L,10,,,,,,,,,,,,,,,,,,,,,,,,1944-05-03
+St Kilda,1945,7,South Melbourne,1,L,8,,,,,1,,,,,,,,,,,,,,,,,,,1945-03-01
+St Kilda,1945,8,Melbourne,2,L,8,,,,,,,,,,,,,,,,,,,,,,,,1945-03-08
+St Kilda,1945,9,Hawthorn,3,W,8,,,,,2,,,,,,,,,,,,,,,,,,,1945-03-15
+St Kilda,1945,10,Essendon,4,L,8,,,,,,,,,,,,,,,,,,,,,,,,1945-03-22
+St Kilda,1945,11,Carlton,5,L,8,,,,,,,,,,,,,,,,,,,,,,,,1945-03-29
+St Kilda,1945,12,Fitzroy,6,L,8,,,,,,,,,,,,,,,,,,,,,,,,1945-04-05
+St Kilda,1945,13,Collingwood,7,L,8,,,,,1,,,,,,,,,,,,,,,,,,,1945-04-12
+St Kilda,1945,14,Richmond,8,L,8,,,,,,,,,,,,,,,,,,,,,,,,1945-04-19
+St Kilda,1945,15,Geelong,9,W,8,,,,,,,,,,,,,,,,,,,,,,,,1945-04-26
+St Kilda,1945,16,Footscray,10,L,8,,,,,,,,,,,,,,,,,,,,,,,,1945-05-03
+St Kilda,1945,17,North Melbourne,11,L,8,,,,,,,,,,,,,,,,,,,,,,,,1945-05-10
+St Kilda,1945,18,South Melbourne,12,L,8,,,,,,,,,,,,,,,,,,,,,,,,1945-05-17
+St Kilda,1945,19,Melbourne,13,L,8,,,,,,,,,,,,,,,,,,,,,,,,1945-05-24
+St Kilda,1945,20,Hawthorn,14,L,8,,,,,,,,,,,,,,,,,,,,,,,,1945-05-31
+St Kilda,1946,21,Footscray,2,L,8,,,,,,,,,,,,,,,,,,,,,,,,1946-03-08
+St Kilda,1946,22,Richmond,3,L,8,,,,,,,,,,,,,,,,,,,,,,,,1946-03-15
+St Kilda,1946,23,Essendon,7,L,8,,,,,,,,,,,,,,,,,,,,,,,,1946-04-12
+St Kilda,1946,24,South Melbourne,8,L,8,,,,,,,,,,,,,,,,,,,,,,,,1946-04-19
+St Kilda,1946,25,Melbourne,9,L,8,,,,,,,,,,,,,,,,,,,,,,,,1946-04-26
+St Kilda,1946,26,Hawthorn,10,W,8,,,,,,,,,,,,,,,,,,,,,,,,1946-05-03
+St Kilda,1946,27,Fitzroy,11,L,8,,,,,,,,,,,,,,,,,,,,,,,,1946-05-10
+St Kilda,1946,28,North Melbourne,12,L,8,,,,,,,,,,,,,,,,,,,,,,,,1946-05-17
+St Kilda,1946,29,Footscray,13,W,8,,,,,,,,,,,,,,,,,,,,,,,,1946-05-24
+St Kilda,1946,30,Collingwood,15,L,8,,,,,,,,,,,,,,,,,,,,,,,,1946-06-07
+St Kilda,1946,31,Geelong,16,W,8,,,,,,,,,,,,,,,,,,,,,,,,1946-06-14
+St Kilda,1946,32,Carlton,17,L,8,,,,,,,,,,,,,,,,,,,,,,,,1946-06-21
+St Kilda,1946,33,Essendon,18,L,8,,,,,,,,,,,,,,,,,,,,,,,,1946-06-28
+St Kilda,1946,34,South Melbourne,19,L,8,,,,,,,,,,,,,,,,,,,,,,,,1946-07-05
+St Kilda,1947,35,Footscray,1,L,8,,,,,,,,,,,,,,,,,,,,,,,,1947-03-01
+St Kilda,1947,36,Fitzroy,5,L,8,,,,,,,,,,,,,,,,,,,,,,,,1947-03-29
+St Kilda,1947,37,Carlton,6,L,8,,,,,,,,,,,,,,,,,,,,,,,,1947-04-05
+St Kilda,1947,38,South Melbourne,9,L,8,,,,,,,,,,,,,,,,,,,,,,,,1947-04-26
+St Kilda,1947,39,Collingwood,10,L,8,,,,,,,,,,,,,,,,,,,,,,,,1947-05-03
+St Kilda,1947,40,Richmond,11,L,8,,,,,,,,,,,,,,,,,,,,,,,,1947-05-10
+St Kilda,1947,41,Footscray,12,D,8,,,,,,,,,,,,,,,,,,,,,,,,1947-05-17
+St Kilda,1947,42,North Melbourne,13,L,8,,,,,,,,,,,,,,,,,,,,,,,,1947-05-24
+St Kilda,1947,43,Essendon,14,L,8,,,,,,,,,,,,,,,,,,,,,,,,1947-05-31
+St Kilda,1947,44,Hawthorn,15,L,8,,,,,,,,,,,,,,,,,,,,,,,,1947-06-07
+St Kilda,1947,45,Carlton,17,L,8,,,,,,,,,,,,,,,,,,,,,,,,1947-06-21
+St Kilda,1947,46,Geelong,18,L,8,,,,,,,,,,,,,,,,,,,,,,,,1947-06-28
+St Kilda,1947,47,Melbourne,19,L,8,,,,,,,,,,,,,,,,,,,,,,,,1947-07-05

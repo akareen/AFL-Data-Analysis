@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Sydney,2002,1,Melbourne,21,W,35,4,1,1,5,,,,,1,3,,,,,,2,3,,,,,,,2002-07-19
+Sydney,2003,2,Geelong,8,W,35,2,2,,2,,,,,,1,,,,,,,2,,,,,,23,2003-04-19
+Sydney,2003,3,Richmond,10,W,35,4,4,4,8,,1,,1,,2,1,,,,,2,6,,1,,,1,41,2003-05-03
+Sydney,2003,4,Western Bulldogs,12,W,35,2,1,,2,,,,2,1,,,1,,1,,,2,,,,1,,21,2003-05-17
+Sydney,2003,5,St Kilda,15,W,35,8,3,4,12,,1,,,,6,,,1,,,5,5,1,,1,,1,40,2003-06-07
+Sydney,2003,6,Carlton,16,W,35,1,,,1,,,,,,,,,1,,,1,,,,1,,,19,2003-06-14
+Sydney,2003,7,Fremantle,17,W,35,3,1,,3,,,,,,1,,1,,,,1,2,,,,,,19,2003-06-21
+Sydney,2003,8,Collingwood,21,L,35,5,3,1,6,1,,,1,,,,2,,,,2,4,,,,,1,50,2003-07-19
+Sydney,2003,9,Melbourne,22,W,35,,,4,4,,,,,,1,1,,,,,2,2,,,,,,36,2003-07-26

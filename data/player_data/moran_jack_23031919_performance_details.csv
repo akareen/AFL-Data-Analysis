@@ -1,0 +1,31 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+North Melbourne,1943,1,Collingwood,1,L,30,,,,,,,,,,,,,,,,,,,,,,,,1943-03-01
+North Melbourne,1943,2,St Kilda,2,D,30,,,,,,,,,,,,,,,,,,,,,,,,1943-03-08
+North Melbourne,1943,3,Essendon,3,L,30,,,,,,,,,,,,,,,,,,,,,,,,1943-03-15
+North Melbourne,1943,4,Melbourne,4,W,30,,,,,,,,,,,,,,,,,,,,,,,,1943-03-22
+North Melbourne,1943,5,Fitzroy,5,L,30,,,,,,,,,,,,,,,,,,,,,,,,1943-03-29
+North Melbourne,1943,6,South Melbourne,6,W,30,,,,,,,,,,,,,,,,,,,,,,,,1943-04-05
+North Melbourne,1943,7,Footscray,10,W,30,,,,,,,,,,,,,,,,,,,,,,,,1943-05-03
+North Melbourne,1943,8,Carlton,11,W,30,,,,,,,,,,,,,,,,,,,,,,,,1943-05-10
+North Melbourne,1943,9,South Melbourne,12,L,30,,,,,,,,,,,,,,,,,,,,,,,,1943-05-17
+North Melbourne,1943,10,Collingwood,13,L,30,,,,,,,,,,,,,,,,,,,,,,,,1943-05-24
+North Melbourne,1943,11,Footscray,14,L,30,,,,,,,,,,,,,,,,,,,,,,,,1943-05-31
+North Melbourne,1943,12,Carlton,15,L,30,,,,,,,,,,,,,,,,,,,,,,,,1943-06-07
+North Melbourne,1943,13,Hawthorn,16,W,30,,,,,,,,,,,,,,,,,,,,,,,,1943-06-14
+North Melbourne,1944,14,South Melbourne,5,W,30,,,,,,,,,,,,,,,,,,,,,,,,1944-03-29
+North Melbourne,1944,15,Melbourne,7,W,30,,,,,,,,,,,,,,,,,,,,,,,,1944-04-12
+North Melbourne,1944,16,Carlton,9,W,30,,,,,,,,,,,,,,,,,,,,,,,,1944-04-26
+North Melbourne,1944,17,Geelong,10,W,30,,,,,,,,,,,,,,,,,,,,,,,,1944-05-03
+North Melbourne,1944,18,Richmond,13,W,30,,,,,,,,,,,,,,,,,,,,,,,,1944-05-24
+North Melbourne,1944,19,Fitzroy,14,L,30,,,,,,,,,,,,,,,,,,,,,,,,1944-05-31
+North Melbourne,1944,20,Footscray,15,L,30,,,,,,,,,,,,,,,,,,,,,,,,1944-06-07
+North Melbourne,1944,21,South Melbourne,16,L,30,,,,,,,,,,,,,,,,,,,,,,,,1944-06-14
+North Melbourne,1944,22,Hawthorn,17,W,30,,,,,,,,,,,,,,,,,,,,,,,,1944-06-21
+North Melbourne,1944,23,St Kilda,18,W,30,,,,,1,,,,,,,,,,,,,,,,,,,1944-06-28
+North Melbourne,1945,24,Collingwood,1,L,30,,,,,,,,,,,,,,,,,,,,,,,,1945-03-01
+North Melbourne,1945,25,Richmond,2,L,30,,,,,,,,,,,,,,,,,,,,,,,,1945-03-08
+North Melbourne,1945,26,Geelong,3,W,30,,,,,,,,,,,,,,,,,,,,,,,,1945-03-15
+North Melbourne,1945,27,Richmond,13,L,30,,,,,,,,,,,,,,,,,,,,,,,,1945-05-24
+North Melbourne,1945,28,Fitzroy,16,W,30,,,,,,,,,,,,,,,,,,,,,,,,1945-06-14
+North Melbourne,1945,29,Melbourne,18,W,30,,,,,,,,,,,,,,,,,,,,,,,,1945-06-28
+North Melbourne,1945,30,Carlton,SF,L,30,,,,,,,,,,,,,,,,,,,,,,,,1945-03-01

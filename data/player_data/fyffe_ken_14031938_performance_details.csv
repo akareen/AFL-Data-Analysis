@@ -1,0 +1,38 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+North Melbourne,1958,1,Fitzroy,1,L,18,,,,,,,,,,,,,,,,,,,,,,,,1958-03-01
+North Melbourne,1958,2,Carlton,2,W,18,,,,,1,,,,,,,,,,,,,,,,,,,1958-03-08
+North Melbourne,1958,3,Melbourne,3,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1958-03-15
+North Melbourne,1958,4,Footscray,4,L,18,,,,,1,,,,,,,,,,,,,,,,,,,1958-03-22
+North Melbourne,1958,5,Hawthorn,5,L,18,,,,,,,,,,,,,,,,,,,,,,,,1958-03-29
+North Melbourne,1958,6,Essendon,6,W,18,,,,,,,,,,,,,,,,,,,,,,,,1958-04-05
+North Melbourne,1958,7,Collingwood,7,W,18,,,,,,,,,,,,,,,,,,,,,,,,1958-04-12
+North Melbourne,1958,8,Geelong,8,W,18,,,,,,,,,,,,,,,,,,,,,,,,1958-04-19
+North Melbourne,1958,9,Richmond,9,W,18,,,,,,,,,,,,,,,,,,,,,,,,1958-04-26
+North Melbourne,1958,10,South Melbourne,10,W,18,,,,,,,,,,,,,,,,,,,,,,,,1958-05-03
+North Melbourne,1958,11,St Kilda,11,W,18,,,,,,,,,,,,,,,,,,,,,,,,1958-05-10
+North Melbourne,1958,12,Fitzroy,12,L,18,,,,,,,,,,,,,,,,,,,,,,,,1958-05-17
+North Melbourne,1958,13,Carlton,13,W,18,,,,,,,,,,,,,,,,,,,,,,,,1958-05-24
+North Melbourne,1958,14,Melbourne,14,L,18,,,,,,,,,,,,,,,,,,,,,,,,1958-05-31
+North Melbourne,1958,15,Footscray,15,W,18,,,,,,,,,,,,,,,,,,,,,,,,1958-06-07
+North Melbourne,1958,16,Hawthorn,16,L,18,,,,,,,,,,,,,,,,,,,,,,,,1958-06-14
+North Melbourne,1958,17,Essendon,17,W,18,,,,,,,,,,,,,,,,,,,,,,,,1958-06-21
+North Melbourne,1958,18,Collingwood,18,W,18,,,,,,,,,,,,,,,,,,,,,,,,1958-06-28
+North Melbourne,1958,19,Fitzroy,SF,W,18,,,,,,,,,,,,,,,,,,,,,,,,1958-03-01
+North Melbourne,1958,20,Collingwood,PF,L,18,,,,,,,,,,,,,,,,,,,,,,,,1958-03-01
+North Melbourne,1959,21,Melbourne,11,L,18,,,,,,,,,,,,,,,,,,,,,,,,1959-05-10
+North Melbourne,1959,22,Geelong,12,W,18,,,,,,,,,,,,,,,,,,,,,,,,1959-05-17
+North Melbourne,1959,23,St Kilda,14,W,18,,,,,,,,,,,,,,,,,,,,,,,,1959-05-31
+North Melbourne,1959,24,Essendon,15,L,18,,,,,,,,,,,,,,,,,,,,,,,,1959-06-07
+North Melbourne,1959,25,South Melbourne,17,L,18,,,,,,,,,,,,,,,,,,,,,,,,1959-06-21
+North Melbourne,1959,26,Carlton,18,L,18,,,,,,,,,,,,,,,,,,,,,,,,1959-06-28
+North Melbourne,1960,27,Melbourne,1,L,18,,,,,,,,,,,,,,,,,,,,,,,,1960-03-01
+North Melbourne,1960,28,South Melbourne,4,L,18,,,,,,,,,,,,,,,,,,,,,,,,1960-03-22
+North Melbourne,1960,29,Geelong,5,W,18,,,,,,,,,,,,,,,,,,,,,,,,1960-03-29
+North Melbourne,1960,30,Hawthorn,6,L,18,,,,,,,,,,,,,,,,,,,,,,,,1960-04-05
+North Melbourne,1960,31,Richmond,14,W,18,,,,,,,,,,,,,,,,,,,,,,,,1960-05-31
+North Melbourne,1960,32,South Melbourne,15,W,18,,,,,,,,,,,,,,,,,,,,,,,,1960-06-07
+North Melbourne,1960,33,Geelong,16,L,18,,,,,,,,,,,,,,,,,,,,,,,,1960-06-14
+North Melbourne,1960,34,Hawthorn,17,L,18,,,,,,,,,,,,,,,,,,,,,,,,1960-06-21
+North Melbourne,1961,35,Essendon,1,W,18,,,,,,,,,,,,,,,,,,,,,,,,1961-03-01
+North Melbourne,1961,36,Hawthorn,4,L,18,,,,,,,,,,,,,,,,,,,,,,,,1961-03-22
+North Melbourne,1961,37,Melbourne,10,L,18,,,,,,,,,,,,,,,,,,,,,,,,1961-05-03

@@ -1,0 +1,36 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1927,1,Carlton,1,W,22,,,,,,,,,,,,,,,,,,,,,,,,1927-03-01
+South Melbourne,1927,2,Melbourne,2,W,22,,,,,3,,,,,,,,,,,,,,,,,,,1927-03-08
+South Melbourne,1927,3,St Kilda,3,L,22,,,,,,,,,,,,,,,,,,,,,,,,1927-03-15
+South Melbourne,1927,4,North Melbourne,6,W,22,,,,,,,,,,,,,,,,,,,,,,,,1927-04-05
+South Melbourne,1927,5,Richmond,7,L,22,,,,,2,,,,,,,,,,,,,,,,,,,1927-04-12
+South Melbourne,1927,6,Fitzroy,8,L,22,,,,,1,,,,,,,,,,,,,,,,,,,1927-04-19
+South Melbourne,1927,7,Essendon,9,W,22,,,,,1,,,,,,,,,,,,,,,,,,,1927-04-26
+South Melbourne,1927,8,Geelong,11,L,22,,,,,,,,,,,,,,,,,,,,,,,,1927-05-10
+South Melbourne,1927,9,Carlton,12,W,22,,,,,1,,,,,,,,,,,,,,,,,,,1927-05-17
+South Melbourne,1927,10,Melbourne,13,L,22,,,,,,,,,,,,,,,,,,,,,,,,1927-05-24
+South Melbourne,1927,11,St Kilda,14,W,22,,,,,3,,,,,,,,,,,,,,,,,,,1927-05-31
+South Melbourne,1927,12,Collingwood,15,L,22,,,,,1,,,,,,,,,,,,,,,,,,,1927-06-07
+South Melbourne,1927,13,Footscray,16,W,22,,,,,1,,,,,,,,,,,,,,,,,,,1927-06-14
+South Melbourne,1927,14,North Melbourne,17,W,22,,,,,3,,,,,,,,,,,,,,,,,,,1927-06-21
+South Melbourne,1927,15,Geelong,18,L,22,,,,,3,,,,,,,,,,,,,,,,,,,1927-06-28
+South Melbourne,1928,16,Footscray,1,W,1,,,,,1,,,,,,,,,,,,,,,,,,,1928-03-01
+South Melbourne,1928,17,St Kilda,2,W,1,,,,,,,,,,,,,,,,,,,,,,,,1928-03-08
+South Melbourne,1928,18,Essendon,3,L,1,,,,,,,,,,,,,,,,,,,,,,,,1928-03-15
+South Melbourne,1928,19,North Melbourne,4,L,1,,,,,2,,,,,,,,,,,,,,,,,,,1928-03-22
+South Melbourne,1928,20,Geelong,5,L,1,,,,,2,,,,,,,,,,,,,,,,,,,1928-03-29
+South Melbourne,1928,21,Carlton,6,L,1,,,,,2,,,,,,,,,,,,,,,,,,,1928-04-05
+South Melbourne,1928,22,Fitzroy,7,L,1,,,,,1,,,,,,,,,,,,,,,,,,,1928-04-12
+South Melbourne,1928,23,Collingwood,8,L,1,,,,,1,,,,,,,,,,,,,,,,,,,1928-04-19
+South Melbourne,1928,24,Richmond,9,L,1,,,,,,,,,,,,,,,,,,,,,,,,1928-04-26
+South Melbourne,1928,25,Melbourne,10,L,1,,,,,,,,,,,,,,,,,,,,,,,,1928-05-03
+South Melbourne,1928,26,Hawthorn,11,W,1,,,,,,,,,,,,,,,,,,,,,,,,1928-05-10
+South Melbourne,1928,27,Footscray,12,L,1,,,,,1,,,,,,,,,,,,,,,,,,,1928-05-17
+South Melbourne,1928,28,St Kilda,13,L,1,,,,,,,,,,,,,,,,,,,,,,,,1928-05-24
+South Melbourne,1928,29,Essendon,14,L,1,,,,,1,,,,,,,,,,,,,,,,,,,1928-05-31
+South Melbourne,1928,30,North Melbourne,15,L,1,,,,,,,,,,,,,,,,,,,,,,,,1928-06-07
+South Melbourne,1929,31,Melbourne,1,L,22,,,,,,,,,,,,,,,,,,,,,,,,1929-03-01
+South Melbourne,1929,32,St Kilda,2,W,22,,,,,2,,,,,,,,,,,,,,,,,,,1929-03-08
+South Melbourne,1929,33,Collingwood,3,L,22,,,,,,,,,,,,,,,,,,,,,,,,1929-03-15
+South Melbourne,1929,34,Carlton,4,L,22,,,,,2,,,,,,,,,,,,,,,,,,,1929-03-22
+South Melbourne,1929,35,Essendon,5,L,22,,,,,2,,,,,,,,,,,,,,,,,,,1929-03-29

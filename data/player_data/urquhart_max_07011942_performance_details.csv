@@ -1,0 +1,93 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1963,1,Hawthorn,3,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1963-03-15
+Collingwood,1963,2,St Kilda,4,L,19,,,,,,,,,,,,,,,,,,,,,,,,1963-03-22
+Collingwood,1963,3,Melbourne,5,W,19,,,,,,,,,,,,,,,,,,,,,,,,1963-03-29
+Collingwood,1963,4,Fitzroy,6,W,19,,,,,,,,,,,,,,,,,,,,,,,,1963-04-05
+Collingwood,1963,5,South Melbourne,10,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1963-05-03
+Collingwood,1963,6,Geelong,11,L,19,,,,,,,,,,,,,,,,,,,,,,,,1963-05-10
+Collingwood,1963,7,Richmond,12,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1963-05-17
+Collingwood,1963,8,North Melbourne,13,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1963-05-24
+Collingwood,1963,9,Hawthorn,14,L,19,,,,,,,,,,,,,,,,,,,,,,,,1963-05-31
+Collingwood,1963,10,St Kilda,15,L,19,,,,,,,,,,,,,,,,,,,,,,,,1963-06-07
+Collingwood,1963,11,Melbourne,16,L,19,,,,,,,,,,,,,,,,,,,,,,,,1963-06-14
+Collingwood,1963,12,Fitzroy,17,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1963-06-21
+Collingwood,1963,13,Essendon,18,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1963-06-28
+Collingwood,1964,14,Fitzroy,1,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1964-03-01
+Collingwood,1964,15,Geelong,2,L,19,,,,,,,,,,,,,,,,,,,,,,,,1964-03-08
+Collingwood,1964,16,Footscray,3,W,19,,,,,,,,,,,,,,,,,,,,,,,,1964-03-15
+Collingwood,1964,17,South Melbourne,4,W,19,,,,,,,,,,,,,,,,,,,,,,,,1964-03-22
+Collingwood,1964,18,Carlton,5,W,19,,,,,,,,,,,,,,,,,,,,,,,,1964-03-29
+Collingwood,1964,19,Essendon,6,L,19,,,,,,,,,,,,,,,,,,,,,,,,1964-04-05
+Collingwood,1964,20,North Melbourne,7,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1964-04-12
+Collingwood,1964,21,Richmond,8,W,19,,,,,,,,,,,,,,,,,,,,,,,,1964-04-19
+Collingwood,1964,22,Melbourne,9,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1964-04-26
+Collingwood,1964,23,Hawthorn,10,L,19,,,,,,,,,,,,,,,,,,,,,,,,1964-05-03
+Collingwood,1964,24,St Kilda,11,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1964-05-10
+Collingwood,1964,25,Fitzroy,12,W,19,,,,,,,,,,,,,,,,,,,,,,,,1964-05-17
+Collingwood,1964,26,Geelong,13,W,19,,,,,,,,,,,,,,,,,,,,,,,,1964-05-24
+Collingwood,1964,27,Footscray,14,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1964-05-31
+Collingwood,1964,28,South Melbourne,15,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1964-06-07
+Collingwood,1964,29,Carlton,16,D,19,,,,,,,,,,,,,,,,,,,,,,,,1964-06-14
+Collingwood,1964,30,Essendon,17,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1964-06-21
+Collingwood,1964,31,North Melbourne,18,W,19,,,,,,,,,,,,,,,,,,,,,,,,1964-06-28
+Collingwood,1964,32,Melbourne,SF,L,19,,,,,,,,,,,,,,,,,,,,,,,,1964-03-01
+Collingwood,1964,33,Geelong,PF,W,19,,,,,,,,,,,,,,,,,,,,,,,,1964-03-01
+Collingwood,1964,34,Melbourne,GF,L,19,,,,,,,,,,,,,,,,,,,,,,,,1964-03-01
+Collingwood,1965,35,St Kilda,1,L,19,9,1,4,13,,,,,,,,,3,2,,,,,,,,,,1965-03-01
+Collingwood,1965,36,Richmond,2,W,19,14,7,,14,,1,,,,,,,2,,,,,,,,,,,1965-03-08
+Collingwood,1965,37,Hawthorn,3,W,19,17,7,4,21,,1,,,,,,,4,2,,,,,,,,,,1965-03-15
+Collingwood,1965,38,Geelong,4,L,19,16,1,6,22,1,,,,,,,,2,2,,,,,,,,,,1965-03-22
+Collingwood,1965,39,Carlton,5,L,19,12,2,3,15,,,,,,,,,1,2,,,,,,,,,,1965-03-29
+Collingwood,1965,40,Melbourne,6,L,19,7,,1,8,,,,,,,,,4,2,,,,,,,,,,1965-04-05
+Collingwood,1965,41,Fitzroy,11,W,19,,,,,,,,,,,,,,,,,,,,,,,,1965-05-10
+Collingwood,1965,42,Richmond,13,W,19,12,3,5,17,,2,,,,,,,3,2,,,,,,,,,,1965-05-24
+Collingwood,1965,43,Hawthorn,14,W,19,15,5,8,23,1,2,,,,,,,1,1,,,,,,,,,,1965-05-31
+Collingwood,1965,44,Geelong,15,W,19,10,6,2,12,1,,,,,,,,,2,,,,,,,,,,1965-06-07
+Collingwood,1965,45,Carlton,16,W,19,1,,,1,,,,,,,,,,,,,,,,,,,,1965-06-14
+Collingwood,1965,46,Melbourne,17,W,19,1,,,1,,,,,,,,,,,,,,,,,,,,1965-06-21
+Collingwood,1966,47,Hawthorn,1,W,19,11,3,2,13,,2,,,,,,,,1,,,,,,,,,,1966-03-01
+Collingwood,1966,48,Fitzroy,2,W,19,14,5,2,16,1,,,,,,,,2,2,,,,,,,,,,1966-03-08
+Collingwood,1966,49,Essendon,3,L,19,,,,,,,,,,,,,,,,,,,,,,,,1966-03-15
+Collingwood,1966,50,Richmond,4,W,19,,,,,,,,,,,,,,,,,,,,,,,,1966-03-22
+Collingwood,1966,51,North Melbourne,5,W,19,1,,1,2,,,,,,,,,,,,,,,,,,,,1966-03-29
+Collingwood,1966,52,Geelong,8,W,19,15,2,1,16,,3,1,,,,,,2,,,,,,,,,,,1966-04-19
+Collingwood,1966,53,South Melbourne,9,W,19,16,8,,16,1,,,,,,,,2,1,,,,,,,,,,1966-04-26
+Collingwood,1966,54,St Kilda,10,W,19,17,2,,17,2,1,,,,,,,,1,,,,,,,,,,1966-05-03
+Collingwood,1966,55,Carlton,11,L,19,11,2,1,12,1,,1,,,,,,2,3,,,,,,,,,,1966-05-10
+Collingwood,1966,56,Hawthorn,12,W,19,23,5,3,26,1,2,2,,,,,,4,2,,,,,,,,,,1966-05-17
+Collingwood,1966,57,Fitzroy,13,W,19,13,6,1,14,,1,,,,,,,3,5,,,,,,,,,,1966-05-24
+Collingwood,1966,58,Essendon,14,L,19,10,,,10,,,,,,,,,1,1,,,,,,,,,,1966-05-31
+Collingwood,1966,59,North Melbourne,16,W,19,17,3,4,21,,1,,,,,,,5,1,,,,,,,,,,1966-06-14
+Collingwood,1966,60,Melbourne,17,W,19,5,3,2,7,1,1,2,,,,,,,1,,,,,,,,,,1966-06-21
+Collingwood,1967,61,Geelong,1,L,19,1,,,1,,,,,,,,,,,,,,,,,,,,1967-03-01
+Collingwood,1967,62,Essendon,3,W,19,,,,,,,,,,,,,,,,,,,,,,,,1967-03-15
+Collingwood,1967,63,Footscray,4,W,19,13,3,2,15,1,3,,,,,,,2,3,,,,,,,,,,1967-03-22
+Collingwood,1967,64,South Melbourne,5,W,19,,,,,,,,,,,,,,,,,,,,,,,,1967-03-29
+Collingwood,1967,65,St Kilda,7,W,19,3,,,3,,,,,,,,,1,,,,,,,,,,,1967-04-12
+Collingwood,1967,66,Richmond,8,W,19,1,,,1,,,,,,,,,,,,,,,,,,,,1967-04-19
+Collingwood,1967,67,North Melbourne,13,W,19,10,4,2,12,,1,1,,,,,,1,3,,,,,,,,,,1967-05-24
+Collingwood,1967,68,Essendon,14,L,19,17,3,4,21,,,,,,,,,5,,,,,,,,,,,1967-05-31
+Collingwood,1967,69,Footscray,15,L,19,20,7,1,21,2,3,,,,,,,5,3,,,,,,,,,,1967-06-07
+Collingwood,1967,70,South Melbourne,16,W,19,13,5,2,15,2,2,1,,,,,,2,5,,,,,,,,,,1967-06-14
+Collingwood,1967,71,Carlton,17,W,19,10,3,,10,,1,,,,,,,,2,,,,,,,,,,1967-06-21
+Collingwood,1967,72,St Kilda,18,L,19,8,5,4,12,,1,,,,,,,1,2,,,,,,,,,,1967-06-28
+Collingwood,1967,73,Geelong,SF,L,19,2,1,,2,,,,,,,,,,,,,,,,,,,,1967-03-01
+Collingwood,1968,74,Fitzroy,2,L,19,2,1,,2,,,,,,,,,,2,,,,,,,,,,1968-03-08
+Collingwood,1969,75,Carlton,4,W,19,3,1,1,4,,,,,,,,,,,,,,,,,,,,1969-03-22
+Collingwood,1969,76,St Kilda,5,L,19,11,5,3,14,,,,,,,,,3,,,,,,,,,,,1969-03-29
+Collingwood,1969,77,Footscray,6,W,19,14,7,5,19,,,,,,,,,,,,,,,,,,,,1969-04-05
+Collingwood,1969,78,Fitzroy,7,W,19,11,,1,12,,,,,,,,,3,1,,,,,,,,,,1969-04-12
+Collingwood,1969,79,North Melbourne,9,W,19,15,2,1,16,,,,,,,,,5,2,,,,,,,,,,1969-04-26
+Collingwood,1969,80,Geelong,10,W,19,11,3,3,14,,2,,,,,,,,2,,,,,,,,,,1969-05-03
+Collingwood,1969,81,Essendon,11,W,19,10,3,1,11,,,,,,,,,1,4,,,,,,,,,,1969-05-10
+Collingwood,1969,82,Hawthorn,12,W,19,11,,,11,,,,,,,,,1,,,,,,,,,,,1969-05-17
+Collingwood,1969,83,Richmond,13,L,19,23,7,2,25,,,,,,,,,3,1,,,,,,,,,,1969-05-24
+Collingwood,1969,84,Melbourne,14,W,19,15,4,1,16,,,,,,,,,3,1,,,,,,,,,,1969-05-31
+Collingwood,1969,85,Carlton,15,L,19,14,3,1,15,,2,,,,,,,3,,,,,,,,,,,1969-06-07
+Collingwood,1969,86,St Kilda,16,W,19,18,7,,18,,,,,,,,,2,,,,,,,,,,,1969-06-14
+Collingwood,1969,87,Footscray,17,W,19,12,5,1,13,,,,,,,,,1,4,,,,,,,,,,1969-06-21
+Collingwood,1969,88,Fitzroy,18,W,19,14,6,2,16,,,,,,,,,2,,,,,,,,,,,1969-06-28
+Collingwood,1969,89,South Melbourne,19,W,19,5,1,,5,,,,,,,,,,,,,,,,,,,,1969-07-05
+Collingwood,1969,90,North Melbourne,20,W,19,11,4,1,12,,,,,,,,,1,2,,,,,,,,,,1969-07-12
+Collingwood,1969,91,Carlton,SF,L,19,12,3,1,13,,,,,,,,,1,1,,,,,,,,,,1969-03-01
+Collingwood,1969,92,Richmond,PF,L,19,5,2,,5,,,,,,,,,,,,,,,,,,,,1969-03-01

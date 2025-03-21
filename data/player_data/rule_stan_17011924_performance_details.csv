@@ -1,0 +1,75 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1946,1,Essendon,3,L,31,,,,,1,,,,,,,,,,,,,,,,,,,1946-03-15
+Melbourne,1946,2,South Melbourne,4,W,31,,,,,,,,,,,,,,,,,,,,,,,,1946-03-22
+Melbourne,1946,3,Footscray,5,L,31,,,,,,,,,,,,,,,,,,,,,,,,1946-03-29
+Melbourne,1946,4,Hawthorn,6,L,31,,,,,,,,,,,,,,,,,,,,,,,,1946-04-05
+Melbourne,1946,5,Fitzroy,7,L,31,,,,,1,,,,,,,,,,,,,,,,,,,1946-04-12
+Melbourne,1946,6,North Melbourne,8,L,31,,,,,,,,,,,,,,,,,,,,,,,,1946-04-19
+Melbourne,1946,7,Richmond,10,W,31,,,,,,,,,,,,,,,,,,,,,,,,1946-05-03
+Melbourne,1946,8,Collingwood,11,W,31,,,,,1,,,,,,,,,,,,,,,,,,,1946-05-10
+Melbourne,1946,9,Geelong,12,W,31,,,,,,,,,,,,,,,,,,,,,,,,1946-05-17
+Melbourne,1946,10,Carlton,13,W,31,,,,,,,,,,,,,,,,,,,,,,,,1946-05-24
+Melbourne,1946,11,Essendon,14,W,31,,,,,,,,,,,,,,,,,,,,,,,,1946-05-31
+Melbourne,1946,12,South Melbourne,15,L,31,,,,,,,,,,,,,,,,,,,,,,,,1946-06-07
+Melbourne,1946,13,Footscray,16,W,31,,,,,,,,,,,,,,,,,,,,,,,,1946-06-14
+Melbourne,1946,14,Hawthorn,17,W,31,,,,,,,,,,,,,,,,,,,,,,,,1946-06-21
+Melbourne,1946,15,Fitzroy,18,W,31,,,,,,,,,,,,,,,,,,,,,,,,1946-06-28
+Melbourne,1946,16,Footscray,SF,W,31,,,,,,,,,,,,,,,,,,,,,,,,1946-03-01
+Melbourne,1946,17,Collingwood,PF,W,31,,,,,,,,,,,,,,,,,,,,,,,,1946-03-01
+Melbourne,1946,18,Essendon,GF,L,31,,,,,,,,,,,,,,,,,,,,,,,,1946-03-01
+Melbourne,1947,19,Collingwood,16,W,31,,,,,,,,,,,,,,,,,,,,,,,,1947-06-14
+Melbourne,1947,20,Hawthorn,17,W,31,,,,,,,,,,,,,,,,,,,,,,,,1947-06-21
+Melbourne,1947,21,Footscray,18,W,31,,,,,,,,,,,,,,,,,,,,,,,,1947-06-28
+Melbourne,1947,22,St Kilda,19,W,31,,,,,,,,,,,,,,,,,,,,,,,,1947-07-05
+Melbourne,1948,23,Essendon,1,L,31,,,,,,,,,,,,,,,,,,,,,,,,1948-03-01
+Melbourne,1948,24,St Kilda,2,W,31,,,,,,,,,,,,,,,,,,,,,,,,1948-03-08
+Melbourne,1948,25,Fitzroy,3,L,31,,,,,1,,,,,,,,,,,,,,,,,,,1948-03-15
+Melbourne,1948,26,Richmond,4,W,31,,,,,,,,,,,,,,,,,,,,,,,,1948-03-22
+Melbourne,1948,27,North Melbourne,5,W,31,,,,,,,,,,,,,,,,,,,,,,,,1948-03-29
+Melbourne,1948,28,South Melbourne,6,W,31,,,,,,,,,,,,,,,,,,,,,,,,1948-04-05
+Melbourne,1948,29,Collingwood,8,L,31,,,,,,,,,,,,,,,,,,,,,,,,1948-04-19
+Melbourne,1948,30,Hawthorn,10,W,31,,,,,,,,,,,,,,,,,,,,,,,,1948-05-03
+Melbourne,1948,31,Geelong,11,W,31,,,,,,,,,,,,,,,,,,,,,,,,1948-05-10
+Melbourne,1948,32,Essendon,12,L,31,,,,,,,,,,,,,,,,,,,,,,,,1948-05-17
+Melbourne,1948,33,St Kilda,13,W,31,,,,,,,,,,,,,,,,,,,,,,,,1948-05-24
+Melbourne,1948,34,Fitzroy,14,W,31,,,,,,,,,,,,,,,,,,,,,,,,1948-05-31
+Melbourne,1948,35,Richmond,15,L,31,,,,,,,,,,,,,,,,,,,,,,,,1948-06-07
+Melbourne,1948,36,North Melbourne,16,W,31,,,,,,,,,,,,,,,,,,,,,,,,1948-06-14
+Melbourne,1948,37,Carlton,18,W,31,,,,,,,,,,,,,,,,,,,,,,,,1948-06-28
+Melbourne,1948,38,Essendon,SF,L,31,,,,,,,,,,,,,,,,,,,,,,,,1948-03-01
+Melbourne,1948,39,Collingwood,PF,W,31,,,,,,,,,,,,,,,,,,,,,,,,1948-03-01
+Melbourne,1948,40,Essendon,GF,D,31,,,,,,,,,,,,,,,,,,,,,,,,1948-03-01
+Melbourne,1948,41,Essendon,GF,W,31,,,,,,,,,,,,,,,,,,,,,,,,1948-03-01
+Melbourne,1949,42,Geelong,1,L,31,,,,,,,,,,,,,,,,,,,,,,,,1949-03-01
+Melbourne,1949,43,Collingwood,2,L,31,,,,,1,,,,,,,,,,,,,,,,,,,1949-03-08
+Melbourne,1949,44,Footscray,3,W,31,,,,,,,,,,,,,,,,,,,,,,,,1949-03-15
+Melbourne,1949,45,St Kilda,6,W,31,,,,,1,,,,,,,,,,,,,,,,,,,1949-04-05
+Melbourne,1949,46,Essendon,7,W,31,,,,,,,,,,,,,,,,,,,,,,,,1949-04-12
+Melbourne,1949,47,Hawthorn,8,W,31,,,,,1,,,,,,,,,,,,,,,,,,,1949-04-19
+Melbourne,1949,48,Fitzroy,9,W,31,,,,,,,,,,,,,,,,,,,,,,,,1949-04-26
+Melbourne,1949,49,Carlton,10,W,31,,,,,,,,,,,,,,,,,,,,,,,,1949-05-03
+Melbourne,1949,50,Richmond,11,W,31,,,,,,,,,,,,,,,,,,,,,,,,1949-05-10
+Melbourne,1949,51,Geelong,12,W,31,,,,,1,,,,,,,,,,,,,,,,,,,1949-05-17
+Melbourne,1949,52,Collingwood,13,W,31,,,,,,,,,,,,,,,,,,,,,,,,1949-05-24
+Melbourne,1949,53,South Melbourne,15,W,31,,,,,,,,,,,,,,,,,,,,,,,,1949-06-07
+Melbourne,1949,54,North Melbourne,16,L,31,,,,,,,,,,,,,,,,,,,,,,,,1949-06-14
+Melbourne,1949,55,St Kilda,17,W,31,,,,,1,,,,,,,,,,,,,,,,,,,1949-06-21
+Melbourne,1949,56,Essendon,18,L,31,,,,,,,,,,,,,,,,,,,,,,,,1949-06-28
+Melbourne,1949,57,Hawthorn,19,W,31,,,,,,,,,,,,,,,,,,,,,,,,1949-07-05
+Melbourne,1950,58,Carlton,1,W,31,,,,,,,,,,,,,,,,,,,,,,,,1950-03-01
+Melbourne,1950,59,Richmond,2,W,31,,,,,,,,,,,,,,,,,,,,,,,,1950-03-08
+Melbourne,1950,60,North Melbourne,3,L,31,,,,,,,,,,,,,,,,,,,,,,,,1950-03-15
+Melbourne,1950,61,Geelong,4,L,31,,,,,,,,,,,,,,,,,,,,,,,,1950-03-22
+Melbourne,1950,62,Footscray,5,W,31,,,,,1,,,,,,,,,,,,,,,,,,,1950-03-29
+Melbourne,1950,63,Fitzroy,6,W,31,,,,,,,,,,,,,,,,,,,,,,,,1950-04-05
+Melbourne,1950,64,Hawthorn,7,W,31,,,,,,,,,,,,,,,,,,,,,,,,1950-04-12
+Melbourne,1950,65,Collingwood,8,W,31,,,,,1,,,,,,,,,,,,,,,,,,,1950-04-19
+Melbourne,1950,66,South Melbourne,9,W,31,,,,,,,,,,,,,,,,,,,,,,,,1950-04-26
+Melbourne,1950,67,Essendon,10,L,31,,,,,,,,,,,,,,,,,,,,,,,,1950-05-03
+Melbourne,1950,68,St Kilda,11,W,31,,,,,,,,,,,,,,,,,,,,,,,,1950-05-10
+Melbourne,1950,69,North Melbourne,14,L,31,,,,,,,,,,,,,,,,,,,,,,,,1950-05-31
+Melbourne,1950,70,Geelong,15,L,31,,,,,1,,,,,,,,,,,,,,,,,,,1950-06-07
+Melbourne,1950,71,Footscray,16,W,31,,,,,,,,,,,,,,,,,,,,,,,,1950-06-14
+Melbourne,1950,72,Fitzroy,17,L,31,,,,,,,,,,,,,,,,,,,,,,,,1950-06-21
+Melbourne,1950,73,Hawthorn,18,W,31,,,,,,,,,,,,,,,,,,,,,,,,1950-06-28
+Melbourne,1950,74,Geelong,SF,L,31,,,,,1,,,,,,,,,,,,,,,,,,,1950-03-01

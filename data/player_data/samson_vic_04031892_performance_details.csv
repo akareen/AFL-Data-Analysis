@@ -1,0 +1,28 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Footscray,1925,1,Fitzroy,1,L,2,,,,,1,,,,,,,,,,,,,,,,,,,1925-03-01
+Footscray,1925,2,South Melbourne,2,W,2,,,,,,,,,,,,,,,,,,,,,,,,1925-03-08
+Footscray,1925,3,Essendon,3,L,2,,,,,1,,,,,,,,,,,,,,,,,,,1925-03-15
+Footscray,1925,4,Melbourne,4,L,2,,,,,1,,,,,,,,,,,,,,,,,,,1925-03-22
+Footscray,1925,5,Hawthorn,5,L,2,,,,,,,,,,,,,,,,,,,,,,,,1925-03-29
+Footscray,1925,6,Geelong,6,L,2,,,,,1,,,,,,,,,,,,,,,,,,,1925-04-05
+Footscray,1925,7,North Melbourne,7,L,2,,,,,,,,,,,,,,,,,,,,,,,,1925-04-12
+Footscray,1925,8,Richmond,8,W,2,,,,,,,,,,,,,,,,,,,,,,,,1925-04-19
+Footscray,1925,9,St Kilda,9,L,2,,,,,,,,,,,,,,,,,,,,,,,,1925-04-26
+Footscray,1925,10,Collingwood,10,L,2,,,,,,,,,,,,,,,,,,,,,,,,1925-05-03
+Footscray,1925,11,Carlton,11,L,2,,,,,,,,,,,,,,,,,,,,,,,,1925-05-10
+Footscray,1925,12,Fitzroy,12,W,2,,,,,,,,,,,,,,,,,,,,,,,,1925-05-17
+Footscray,1925,13,South Melbourne,13,L,2,,,,,1,,,,,,,,,,,,,,,,,,,1925-05-24
+Footscray,1925,14,Essendon,14,L,2,,,,,,,,,,,,,,,,,,,,,,,,1925-05-31
+Footscray,1925,15,Melbourne,15,L,2,,,,,,,,,,,,,,,,,,,,,,,,1925-06-07
+Footscray,1925,16,Hawthorn,16,W,2,,,,,,,,,,,,,,,,,,,,,,,,1925-06-14
+Footscray,1925,17,Geelong,17,L,2,,,,,,,,,,,,,,,,,,,,,,,,1925-06-21
+Footscray,1926,18,Geelong,1,L,2,,,,,1,,,,,,,,,,,,,,,,,,,1926-03-01
+Footscray,1926,19,St Kilda,10,W,2,,,,,,,,,,,,,,,,,,,,,,,,1926-05-03
+Footscray,1926,20,North Melbourne,11,W,2,,,,,,,,,,,,,,,,,,,,,,,,1926-05-10
+Footscray,1926,21,Geelong,12,L,2,,,,,1,,,,,,,,,,,,,,,,,,,1926-05-17
+Footscray,1926,22,South Melbourne,13,L,2,,,,,,,,,,,,,,,,,,,,,,,,1926-05-24
+Footscray,1926,23,Fitzroy,14,L,2,,,,,1,,,,,,,,,,,,,,,,,,,1926-05-31
+Footscray,1926,24,Essendon,15,L,2,,,,,,,,,,,,,,,,,,,,,,,,1926-06-07
+Footscray,1926,25,Hawthorn,16,L,2,,,,,,,,,,,,,,,,,,,,,,,,1926-06-14
+Footscray,1926,26,Melbourne,17,L,2,,,,,,,,,,,,,,,,,,,,,,,,1926-06-21
+Footscray,1926,27,Richmond,18,W,2,,,,,,,,,,,,,,,,,,,,,,,,1926-06-28

@@ -1,0 +1,19 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1937,1,Essendon,15,W,,,,,,2,,,,,,,,,,,,,,,,,,,1937-06-07
+Hawthorn,1937,2,Geelong,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1937-06-14
+Hawthorn,1937,3,South Melbourne,17,W,,,,,,2,,,,,,,,,,,,,,,,,,,1937-06-21
+Hawthorn,1938,4,Carlton,1,L,23,,,,,2,,,,,,,,,,,,,,,,,,,1938-03-01
+Hawthorn,1938,5,Melbourne,2,W,23,,,,,,,,,,,,,,,,,,,,,,,,1938-03-08
+Hawthorn,1938,6,Footscray,3,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1938-03-15
+Hawthorn,1938,7,Collingwood,4,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1938-03-22
+Hawthorn,1938,8,Fitzroy,8,L,23,,,,,,,,,,,,,,,,,,,,,,,,1938-04-19
+Hawthorn,1938,9,Geelong,9,L,23,,,,,,,,,,,,,,,,,,,,,,,,1938-04-26
+Hawthorn,1938,10,St Kilda,10,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1938-05-03
+Hawthorn,1938,11,North Melbourne,11,L,23,,,,,,,,,,,,,,,,,,,,,,,,1938-05-10
+Hawthorn,1938,12,Melbourne,13,L,23,,,,,,,,,,,,,,,,,,,,,,,,1938-05-24
+Hawthorn,1938,13,Collingwood,15,L,23,,,,,,,,,,,,,,,,,,,,,,,,1938-06-07
+Hawthorn,1938,14,Richmond,16,L,23,,,,,3,,,,,,,,,,,,,,,,,,,1938-06-14
+Hawthorn,1938,15,Essendon,18,L,23,,,,,,,,,,,,,,,,,,,,,,,,1938-06-28
+Hawthorn,1939,16,Geelong,3,W,2,,,,,,,,,,,,,,,,,,,,,,,,1939-03-15
+Hawthorn,1939,17,Fitzroy,4,D,2,,,,,1,,,,,,,,,,,,,,,,,,,1939-03-22
+North Melbourne,1939,18,Hawthorn,13,W,2,,,,,,,,,,,,,,,,,,,,,,,,1939-05-24

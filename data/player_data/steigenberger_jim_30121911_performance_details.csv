@@ -1,0 +1,13 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1934,1,North Melbourne,1,W,4,,,,,,,,,,,,,,,,,,,,,,,,1934-03-01
+Fitzroy,1934,2,North Melbourne,12,W,4,,,,,,,,,,,,,,,,,,,,,,,,1934-05-17
+Fitzroy,1934,3,Essendon,18,L,4,,,,,,,,,,,,,,,,,,,,,,,,1934-06-28
+North Melbourne,1936,4,Collingwood,9,L,33,,,,,,,,,,,,,,,,,,,,,,,,1936-04-26
+North Melbourne,1936,5,Fitzroy,10,W,33,,,,,,,,,,,,,,,,,,,,,,,,1936-05-03
+North Melbourne,1936,6,Hawthorn,11,L,33,,,,,,,,,,,,,,,,,,,,,,,,1936-05-10
+North Melbourne,1936,7,Essendon,12,L,33,,,,,,,,,,,,,,,,,,,,,,,,1936-05-17
+North Melbourne,1936,8,Richmond,14,W,33,,,,,,,,,,,,,,,,,,,,,,,,1936-05-31
+North Melbourne,1936,9,South Melbourne,15,L,33,,,,,,,,,,,,,,,,,,,,,,,,1936-06-07
+North Melbourne,1936,10,Melbourne,16,L,33,,,,,1,,,,,,,,,,,,,,,,,,,1936-06-14
+North Melbourne,1936,11,Footscray,18,L,33,,,,,,,,,,,,,,,,,,,,,,,,1936-06-28
+North Melbourne,1937,12,Hawthorn,1,L,30,,,,,2,,,,,,,,,,,,,,,,,,,1937-03-01

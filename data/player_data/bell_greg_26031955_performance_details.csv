@@ -1,0 +1,23 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1975,1,St Kilda,1,W,28,8,2,,8,,,,,,,,,3,,,,,,,,,,,1975-03-01
+Essendon,1975,2,South Melbourne,2,W,28,9,,,9,,,,,,,,,1,1,,,,,,,,,,1975-03-08
+Essendon,1975,3,Melbourne,3,W,28,11,3,2,13,,,,,,,,,1,1,,,,,,,,,,1975-03-15
+Essendon,1975,4,Carlton,4,W,28,12,2,4,16,,,,,,,,,,,,,,,,,,,,1975-03-22
+Essendon,1975,5,Fitzroy,5,L,28,9,5,1,10,,,,,,,,,2,1,,,,,,,,,,1975-03-29
+Essendon,1975,6,Geelong,6,L,28,11,3,4,15,,,,,,,,,2,2,,,,,,,,,,1975-04-05
+Essendon,1975,7,Footscray,7,W,28,15,4,,15,,,,,,,,,,,,,,,,,,,,1975-04-12
+Essendon,1975,8,Collingwood,8,L,28,8,1,,8,,,,,,,,,4,,,,,,,,,,,1975-04-19
+Essendon,1975,9,North Melbourne,9,W,28,,,,,,,,,,,,,,,,,,,,,,,,1975-04-26
+Essendon,1977,10,St Kilda,1,W,28,9,2,3,12,,,,,,,,,1,2,,,,,,,,,,1977-03-01
+Essendon,1977,11,Collingwood,3,L,28,13,3,1,14,,,,,,,,,1,,,,,,,,,,,1977-03-15
+Essendon,1977,12,North Melbourne,5,L,28,9,4,1,10,,1,,,,,,,1,,,,,,,,,,,1977-03-29
+Essendon,1977,13,Footscray,6,L,28,4,1,2,6,,,,,,,,,2,1,,,,,,,,,,1977-04-05
+Essendon,1977,14,Richmond,7,D,28,12,5,1,13,,,,,,,,,,1,,,,,,,,,,1977-04-12
+Essendon,1977,15,Geelong,8,L,28,13,5,,13,,,,,,,,,3,2,,,,,,,,,,1977-04-19
+Essendon,1977,16,Carlton,9,W,28,,,,,,,,,,,,,,,,,,,,,,,,1977-04-26
+Essendon,1977,17,Hawthorn,11,L,28,7,3,,7,,,,,,,,,,,,,,,,,,,,1977-05-10
+Essendon,1977,18,Richmond,18,L,28,4,,,4,,,,,,,,,1,,,,,,,,,,,1977-06-28
+Essendon,1977,19,Geelong,19,L,28,12,,2,14,,,,,,,,,4,2,,,,,,,,,,1977-07-05
+Essendon,1977,20,Carlton,20,L,28,10,3,,10,,,,,,,,,3,1,,,,,,,,,,1977-07-12
+Essendon,1977,21,Fitzroy,21,L,28,2,,2,4,,,,,,,,,2,1,,,,,,,,,,1977-07-19
+Essendon,1978,22,Melbourne,20,L,28,10,1,3,13,1,,,,,,,,1,2,,,,,,,,,,1978-07-12

@@ -1,0 +1,15 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1924,1,South Melbourne,7,L,28,,,,,2,,,,,,,,,,,,,,,,,,,1924-04-12
+Carlton,1924,2,Geelong,8,L,28,,,,,1,,,,,,,,,,,,,,,,,,,1924-04-19
+Carlton,1924,3,Richmond,9,L,28,,,,,,,,,,,,,,,,,,,,,,,,1924-04-26
+Carlton,1924,4,Fitzroy,10,W,28,,,,,2,,,,,,,,,,,,,,,,,,,1924-05-03
+Carlton,1924,5,Essendon,11,L,28,,,,,2,,,,,,,,,,,,,,,,,,,1924-05-10
+Carlton,1924,6,St Kilda,12,W,28,,,,,,,,,,,,,,,,,,,,,,,,1924-05-17
+Carlton,1924,7,South Melbourne,16,L,28,,,,,1,,,,,,,,,,,,,,,,,,,1924-06-14
+Carlton,1924,8,Geelong,17,W,28,,,,,,,,,,,,,,,,,,,,,,,,1924-06-21
+Carlton,1924,9,Richmond,18,L,28,,,,,,,,,,,,,,,,,,,,,,,,1924-06-28
+Carlton,1926,10,Hawthorn,1,W,28,,,,,1,,,,,,,,,,,,,,,,,,,1926-03-01
+Carlton,1926,11,Melbourne,2,W,28,,,,,,,,,,,,,,,,,,,,,,,,1926-03-08
+Carlton,1926,12,South Melbourne,4,W,28,,,,,1,,,,,,,,,,,,,,,,,,,1926-03-22
+Carlton,1926,13,Fitzroy,5,L,28,,,,,1,,,,,,,,,,,,,,,,,,,1926-03-29
+Carlton,1926,14,St Kilda,11,W,28,,,,,,,,,,,,,,,,,,,,,,,,1926-05-10

@@ -1,0 +1,13 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1905,1,Geelong,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-01
+South Melbourne,1905,2,Melbourne,2,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-08
+South Melbourne,1905,3,Essendon,4,L,,,,,,2,,,,,,,,,,,,,,,,,,,1905-03-22
+South Melbourne,1905,4,Collingwood,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-03-29
+South Melbourne,1905,5,St Kilda,6,W,,,,,,1,,,,,,,,,,,,,,,,,,,1905-04-05
+South Melbourne,1905,6,Fitzroy,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1905-04-12
+South Melbourne,1905,7,Essendon,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1905-05-10
+St Kilda,1906,8,Fitzroy,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-01
+St Kilda,1906,9,South Melbourne,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-15
+Melbourne,1910,10,Carlton,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-17
+Melbourne,1910,11,Essendon,15,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-07
+Melbourne,1910,12,Fitzroy,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-21

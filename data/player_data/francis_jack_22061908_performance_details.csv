@@ -1,0 +1,7 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1926,1,Collingwood,3,L,33,,,,,2,,,,,,,,,,,,,,,,,,,1926-03-15
+Hawthorn,1926,2,Richmond,4,L,33,,,,,1,,,,,,,,,,,,,,,,,,,1926-03-22
+Hawthorn,1926,3,Footscray,5,L,33,,,,,3,,,,,,,,,,,,,,,,,,,1926-03-29
+Hawthorn,1926,4,St Kilda,6,L,33,,,,,1,,,,,,,,,,,,,,,,,,,1926-04-05
+Hawthorn,1926,5,Fitzroy,7,W,33,,,,,,,,,,,,,,,,,,,,,,,,1926-04-12
+Hawthorn,1926,6,Geelong,8,L,33,,,,,1,,,,,,,,,,,,,,,,,,,1926-04-19

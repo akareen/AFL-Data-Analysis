@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,2024,1↑,St Kilda,5,L,28,2,,2,4,,,,3,,2,1,2,1,,,2,2,,,,,,22,2024-03-29
+Richmond,2024,2,West Coast,6,L,28,3,1,9,12,,,,2,1,1,1,2,,,,5,7,,,,,,69,2024-04-05
+Richmond,2024,3,Brisbane Lions,11,L,28,7,,13,20,,,,5,,3,2,5,,2,,5,16,,,,,,69,2024-05-10
+Richmond,2024,4,Essendon,12,L,28,6,2,10,16,,,,5,,4,4,1,1,,,8,8,,,1,,1,66,2024-05-17
+Richmond,2024,5,Geelong,13,L,28,7,,9,16,,1,,4,,4,4,5,3,1,,11,7,,,1,,,69,2024-05-24
+Richmond,2024,6↑,Adelaide,14,W,28,2,,5,7,,,,1,,1,2,1,,,,5,3,,,2,,,12,2024-05-31
+Richmond,2024,7↑,Hawthorn,15,L,28,2,1,4,6,,,,,1,,,1,,,,2,4,,,,,,20,2024-06-07
+Richmond,2024,8,Carlton,17,L,28,2,,7,9,,1,,2,,2,2,1,,1,,5,4,,,1,,1,75,2024-06-21
+Richmond,2024,9,Fremantle,18,L,28,5,4,8,13,,,,3,,2,2,3,,1,,5,9,,,,,1,66,2024-06-28

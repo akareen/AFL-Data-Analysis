@@ -1,0 +1,12 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1909,1,Collingwood,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-08
+St Kilda,1909,2,Melbourne,4,L,,,,,,1,,,,,,,,,,,,,,,,,,,1909-03-22
+St Kilda,1909,3,Richmond,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-29
+St Kilda,1909,4,Geelong,6,W,,,,,,1,,,,,,,,,,,,,,,,,,,1909-04-05
+St Kilda,1909,5,Fitzroy,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-12
+St Kilda,1909,6,Carlton,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-19
+St Kilda,1909,7,South Melbourne,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-26
+St Kilda,1909,8,Collingwood,11,L,,,,,,1,,,,,,,,,,,,,,,,,,,1909-05-10
+St Kilda,1909,9,Carlton,17,L,,,,,,1,,,,,,,,,,,,,,,,,,,1909-06-21
+St Kilda,1909,10,South Melbourne,18,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-28
+St Kilda,1910,11,University,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-01

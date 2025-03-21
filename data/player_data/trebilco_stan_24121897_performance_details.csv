@@ -1,0 +1,22 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1924,1,Essendon,2,D,7,,,,,,,,,,,,,,,,,,,,,,,,1924-03-08
+Carlton,1924,2,St Kilda,3,W,7,,,,,1,,,,,,,,,,,,,,,,,,,1924-03-15
+Carlton,1924,3,Melbourne,4,L,7,,,,,2,,,,,,,,,,,,,,,,,,,1924-03-22
+Carlton,1924,4,Collingwood,5,L,7,,,,,1,,,,,,,,,,,,,,,,,,,1924-03-29
+Carlton,1924,5,South Melbourne,7,L,7,,,,,,,,,,,,,,,,,,,,,,,,1924-04-12
+Carlton,1924,6,Geelong,8,L,7,,,,,,,,,,,,,,,,,,,,,,,,1924-04-19
+Carlton,1924,7,Richmond,9,L,7,,,,,,,,,,,,,,,,,,,,,,,,1924-04-26
+Carlton,1924,8,Fitzroy,10,W,7,,,,,2,,,,,,,,,,,,,,,,,,,1924-05-03
+Carlton,1924,9,Essendon,11,L,7,,,,,,,,,,,,,,,,,,,,,,,,1924-05-10
+Carlton,1924,10,St Kilda,12,W,7,,,,,2,,,,,,,,,,,,,,,,,,,1924-05-17
+Carlton,1924,11,Melbourne,13,W,7,,,,,2,,,,,,,,,,,,,,,,,,,1924-05-24
+Carlton,1924,12,Collingwood,14,L,7,,,,,,,,,,,,,,,,,,,,,,,,1924-05-31
+Carlton,1924,13,South Melbourne,16,L,7,,,,,,,,,,,,,,,,,,,,,,,,1924-06-14
+Carlton,1924,14,Geelong,17,W,7,,,,,,,,,,,,,,,,,,,,,,,,1924-06-21
+Carlton,1924,15,Richmond,18,L,7,,,,,,,,,,,,,,,,,,,,,,,,1924-06-28
+Carlton,1925,16,South Melbourne,1,L,7,,,,,,,,,,,,,,,,,,,,,,,,1925-03-01
+Carlton,1925,17,Fitzroy,6,L,7,,,,,,,,,,,,,,,,,,,,,,,,1925-04-05
+Carlton,1925,18,Richmond,7,W,7,,,,,,,,,,,,,,,,,,,,,,,,1925-04-12
+Carlton,1925,19,Footscray,11,W,7,,,,,,,,,,,,,,,,,,,,,,,,1925-05-10
+Carlton,1925,20,South Melbourne,12,L,7,,,,,,,,,,,,,,,,,,,,,,,,1925-05-17
+Carlton,1925,21,Essendon,13,L,7,,,,,,,,,,,,,,,,,,,,,,,,1925-05-24

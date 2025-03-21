@@ -1,0 +1,28 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1946,1,Geelong,16,W,3,,,,,,,,,,,,,,,,,,,,,,,,1946-06-14
+St Kilda,1946,2,Carlton,17,L,3,,,,,,,,,,,,,,,,,,,,,,,,1946-06-21
+St Kilda,1946,3,Essendon,18,L,3,,,,,,,,,,,,,,,,,,,,,,,,1946-06-28
+St Kilda,1947,4,Footscray,1,L,3,,,,,,,,,,,,,,,,,,,,,,,,1947-03-01
+St Kilda,1947,5,North Melbourne,2,W,3,,,,,,,,,,,,,,,,,,,,,,,,1947-03-08
+St Kilda,1947,6,Essendon,3,L,3,,,,,,,,,,,,,,,,,,,,,,,,1947-03-15
+St Kilda,1947,7,Hawthorn,4,L,3,,,,,,,,,,,,,,,,,,,,,,,,1947-03-22
+St Kilda,1947,8,Geelong,18,L,3,,,,,,,,,,,,,,,,,,,,,,,,1947-06-28
+St Kilda,1947,9,Melbourne,19,L,3,,,,,,,,,,,,,,,,,,,,,,,,1947-07-05
+St Kilda,1948,10,Footscray,1,L,3,,,,,,,,,,,,,,,,,,,,,,,,1948-03-01
+St Kilda,1948,11,Melbourne,2,L,3,,,,,,,,,,,,,,,,,,,,,,,,1948-03-08
+St Kilda,1948,12,Richmond,3,L,3,,,,,3,,,,,,,,,,,,,,,,,,,1948-03-15
+St Kilda,1948,13,Fitzroy,4,L,3,,,,,,,,,,,,,,,,,,,,,,,,1948-03-22
+St Kilda,1948,14,South Melbourne,5,L,3,,,,,,,,,,,,,,,,,,,,,,,,1948-03-29
+St Kilda,1948,15,North Melbourne,6,L,3,,,,,,,,,,,,,,,,,,,,,,,,1948-04-05
+St Kilda,1948,16,Geelong,10,L,3,,,,,,,,,,,,,,,,,,,,,,,,1948-05-03
+St Kilda,1948,17,Essendon,11,L,3,,,,,,,,,,,,,,,,,,,,,,,,1948-05-10
+St Kilda,1948,18,Footscray,12,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1948-05-17
+St Kilda,1948,19,Melbourne,13,L,3,,,,,,,,,,,,,,,,,,,,,,,,1948-05-24
+St Kilda,1948,20,North Melbourne,17,L,3,,,,,,,,,,,,,,,,,,,,,,,,1948-06-21
+St Kilda,1948,21,Collingwood,18,L,3,,,,,,,,,,,,,,,,,,,,,,,,1948-06-28
+St Kilda,1949,22,South Melbourne,2,L,3,,,,,,,,,,,,,,,,,,,,,,,,1949-03-08
+St Kilda,1949,23,Essendon,3,L,3,,,,,,,,,,,,,,,,,,,,,,,,1949-03-15
+St Kilda,1949,24,Richmond,4,L,3,,,,,,,,,,,,,,,,,,,,,,,,1949-03-22
+St Kilda,1950,25,Footscray,12,L,29,,,,,,,,,,,,,,,,,,,,,,,,1950-05-17
+St Kilda,1950,26,Hawthorn,13,W,29,,,,,,,,,,,,,,,,,,,,,,,,1950-05-24
+St Kilda,1950,27,South Melbourne,14,L,29,,,,,,,,,,,,,,,,,,,,,,,,1950-05-31

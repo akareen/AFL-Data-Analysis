@@ -1,0 +1,33 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1975,1,Footscray,5,L,17,12,1,1,13,1,2,,,,,,,4,,,,,,,,,,,1975-03-29
+Collingwood,1975,2,Richmond,6,L,17,5,,1,6,1,1,,,,,,,1,1,,,,,,,,,,1975-04-05
+Collingwood,1975,3,Melbourne,11,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1975-05-10
+Collingwood,1975,4,South Melbourne,12,W,17,8,1,,8,,1,,,,,,,,1,,,,,,,,,,1975-05-17
+Collingwood,1975,5,Geelong,14,L,17,10,4,4,14,,,,,,,,,1,2,,,,,,,,,,1975-05-31
+Collingwood,1975,6,Fitzroy,15,W,17,15,5,2,17,,,,,,,,,2,3,,,,,,,,,,1975-06-07
+Collingwood,1975,7,Footscray,16,W,17,6,,2,8,,,,,,,,,2,1,,,,,,,,,,1975-06-14
+Collingwood,1975,8,North Melbourne,18,L,17,7,1,1,8,,1,,,,,,,2,,,,,,,,,,,1975-06-28
+Collingwood,1975,9,St Kilda,20,W,17,12,3,3,15,,,,,,,,,3,3,,,,,,,,,,1975-07-12
+Collingwood,1975,10,Hawthorn,21,W,17,5,2,,5,,,,,,,,,2,1,,,,,,,,,,1975-07-19
+Collingwood,1975,11,Melbourne,22,W,17,10,4,2,12,,,,,,,,,2,3,,,,,,,,,,1975-07-26
+Collingwood,1975,12,Richmond,EF,L,17,5,2,1,6,,,,,,,,,2,1,,,,,,,,,,1975-03-01
+Collingwood,1976,13,Carlton,1,L,17,11,3,2,13,,,,,,,,,2,,,,,,,,,,,1976-03-01
+Collingwood,1976,14,South Melbourne,2,L,17,11,3,,11,,,,,,,,,2,2,,,,,,,,,,1976-03-08
+Collingwood,1976,15,Hawthorn,3,L,17,7,1,3,10,3,1,,,,,,,3,2,,,,,,,,,,1976-03-15
+Collingwood,1976,16,Richmond,4,W,17,11,6,1,12,,,,,,,,,1,2,,,,,,,,,,1976-03-22
+Collingwood,1976,17,St Kilda,5,L,17,5,1,2,7,,1,,,,,,,1,2,,,,,,,,,,1976-03-29
+Collingwood,1976,18,Geelong,6,L,17,15,2,,15,,,,,,,,,5,3,,,,,,,,,,1976-04-05
+Collingwood,1976,19,North Melbourne,7,W,17,9,2,3,12,,,,,,,,,4,2,,,,,,,,,,1976-04-12
+Collingwood,1976,20,Fitzroy,8,W,17,8,3,2,10,,,,,,,,,1,2,,,,,,,,,,1976-04-19
+Collingwood,1976,21,Footscray,9,L,17,2,2,3,5,,,,,,,,,,,,,,,,,,,,1976-04-26
+Collingwood,1976,22,South Melbourne,13,L,17,9,2,2,11,1,4,,,,,,,1,2,,,,,,,,,,1976-05-24
+Collingwood,1976,23,Richmond,14,L,17,8,4,4,12,2,,,,,,,,,,,,,,,,,,,1976-05-31
+Collingwood,1976,24,Hawthorn,15,L,17,15,6,1,16,,3,,,,,,,1,1,,,,,,,,,,1976-06-07
+Collingwood,1976,25,St Kilda,16,L,17,3,,3,6,,,,,,,,,1,3,,,,,,,,,,1976-06-14
+Collingwood,1976,26,Fitzroy,19,L,17,9,3,3,12,,,,,,,,,2,3,,,,,,,,,,1976-07-05
+Collingwood,1976,27,Footscray,20,L,17,1,,1,2,,,,,,,,,1,2,,,,,,,,,,1976-07-12
+Collingwood,1977,28,Footscray,1,W,17,1,1,,1,,,,,,,,,,1,,,,,,,,,,1977-03-01
+Collingwood,1977,29,North Melbourne,2,L,17,4,,1,5,1,1,,,,,,,1,1,,,,,,,,,,1977-03-08
+Collingwood,1977,30,Geelong,5,W,17,9,2,4,13,,,,,,,,,3,3,,,,,,,,,,1977-03-29
+Collingwood,1977,31,Hawthorn,9,W,17,10,2,2,12,,,,,,,,,2,3,,,,,,,,,,1977-04-26
+Collingwood,1977,32,South Melbourne,10,L,17,8,,3,11,,,,,,,,,,,,,,,,,,,,1977-05-03

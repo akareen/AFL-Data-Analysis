@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1932,1,Footscray,6,W,28,,,,,,,,,,,,,,,,,,,,,,,,1932-04-05
+Collingwood,1932,2,Melbourne,7,W,28,,,,,,,,,,,,,,,,,,,,,,,,1932-04-12
+Collingwood,1932,3,Essendon,14,W,28,,,,,,,,,,,,,,,,,,,,,,,,1932-05-31
+Collingwood,1933,4,St Kilda,8,W,16,,,,,,,,,,,,,,,,,,,,,,,,1933-04-19
+Collingwood,1933,5,Footscray,9,L,16,,,,,,,,,,,,,,,,,,,,,,,,1933-04-26
+Collingwood,1933,6,Hawthorn,10,W,16,,,,,,,,,,,,,,,,,,,,,,,,1933-05-03
+Collingwood,1933,7,Essendon,11,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1933-05-10
+Collingwood,1933,8,Geelong,12,L,16,,,,,,,,,,,,,,,,,,,,,,,,1933-05-17
+Collingwood,1933,9,North Melbourne,17,W,16,,,,,,,,,,,,,,,,,,,,,,,,1933-06-21

@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1943,1,Fitzroy,13,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1943-05-24
+Essendon,1943,2,Carlton,14,L,27,,,,,,,,,,,,,,,,,,,,,,,,1943-05-31
+Essendon,1943,3,Richmond,16,L,27,,,,,,,,,,,,,,,,,,,,,,,,1943-06-14
+Essendon,1943,4,Richmond,SF,W,27,,,,,,,,,,,,,,,,,,,,,,,,1943-03-01
+Essendon,1943,5,Richmond,GF,L,27,,,,,,,,,,,,,,,,,,,,,,,,1943-03-01
+Essendon,1944,6,Footscray,10,W,27,,,,,,,,,,,,,,,,,,,,,,,,1944-05-03
+Essendon,1944,7,Hawthorn,12,W,27,,,,,,,,,,,,,,,,,,,,,,,,1944-05-17
+Essendon,1944,8,Melbourne,13,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1944-05-24
+Essendon,1944,9,Richmond,14,W,27,,,,,,,,,,,,,,,,,,,,,,,,1944-05-31
+Essendon,1944,10,Carlton,15,L,27,,,,,,,,,,,,,,,,,,,,,,,,1944-06-07

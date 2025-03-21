@@ -1,0 +1,17 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1947,1,Melbourne,5,L,12,,,,,,,,,,,,,,,,,,,,,,,,1947-03-29
+Collingwood,1947,2,Footscray,6,L,12,,,,,,,,,,,,,,,,,,,,,,,,1947-04-05
+Collingwood,1947,3,Richmond,7,L,12,,,,,,,,,,,,,,,,,,,,,,,,1947-04-12
+Collingwood,1947,4,North Melbourne,11,W,12,,,,,,,,,,,,,,,,,,,,,,,,1947-05-10
+Collingwood,1947,5,Hawthorn,13,W,12,,,,,,,,,,,,,,,,,,,,,,,,1947-05-24
+Collingwood,1947,6,Geelong,14,W,12,,,,,2,,,,,,,,,,,,,,,,,,,1947-05-31
+Collingwood,1947,7,South Melbourne,15,D,12,,,,,,,,,,,,,,,,,,,,,,,,1947-06-07
+Collingwood,1947,8,Footscray,17,W,12,,,,,3,,,,,,,,,,,,,,,,,,,1947-06-21
+Collingwood,1947,9,Richmond,18,L,12,,,,,2,,,,,,,,,,,,,,,,,,,1947-06-28
+Collingwood,1947,10,Essendon,19,L,12,,,,,1,,,,,,,,,,,,,,,,,,,1947-07-05
+Collingwood,1948,11,North Melbourne,1,W,14,,,,,,,,,,,,,,,,,,,,,,,,1948-03-01
+Collingwood,1948,12,South Melbourne,2,W,14,,,,,,,,,,,,,,,,,,,,,,,,1948-03-08
+Collingwood,1948,13,Essendon,3,L,14,,,,,2,,,,,,,,,,,,,,,,,,,1948-03-15
+Collingwood,1948,14,Geelong,4,W,14,,,,,,,,,,,,,,,,,,,,,,,,1948-03-22
+Collingwood,1948,15,Carlton,5,W,14,,,,,,,,,,,,,,,,,,,,,,,,1948-03-29
+Collingwood,1948,16,Richmond,6,L,14,,,,,,,,,,,,,,,,,,,,,,,,1948-04-05

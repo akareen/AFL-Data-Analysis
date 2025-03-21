@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1945,1,Melbourne,10,L,33,,,,,2,,,,,,,,,,,,,,,,,,,1945-05-03
+Hawthorn,1945,2,Fitzroy,11,L,33,,,,,,,,,,,,,,,,,,,,,,,,1945-05-10
+Hawthorn,1945,3,Essendon,12,W,33,,,,,,,,,,,,,,,,,,,,,,,,1945-05-17
+Hawthorn,1945,4,Carlton,13,L,33,,,,,,,,,,,,,,,,,,,,,,,,1945-05-24
+Hawthorn,1945,5,St Kilda,14,W,33,,,,,1,,,,,,,,,,,,,,,,,,,1945-05-31
+Hawthorn,1945,6,Collingwood,15,L,33,,,,,,,,,,,,,,,,,,,,,,,,1945-06-07
+Hawthorn,1945,7,Footscray,18,L,33,,,,,,,,,,,,,,,,,,,,,,,,1945-06-28
+Hawthorn,1946,8,Collingwood,1,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1946-03-01
+Hawthorn,1946,9,Geelong,2,L,16,,,,,,,,,,,,,,,,,,,,,,,,1946-03-08
+Hawthorn,1946,10,Essendon,4,L,16,,,,,,,,,,,,,,,,,,,,,,,,1946-03-22

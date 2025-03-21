@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1963,1,North Melbourne,14,L,51,,,,,,,,,,,,,,,,,,,,,,,,1963-05-31
+Richmond,1963,2,Footscray,15,L,51,,,,,,,,,,,,,,,,,,,,,,,,1963-06-07
+Richmond,1964,3,North Melbourne,11,L,51,,,,,,,,,,,,,,,,,,,,,,,,1964-05-10
+Richmond,1964,4,Footscray,12,W,51,,,,,1,,,,,,,,,,,,,,,,,,,1964-05-17
+Richmond,1964,5,Essendon,13,L,51,,,,,2,,,,,,,,,,,,,,,,,,,1964-05-24
+Richmond,1964,6,South Melbourne,14,W,51,,,,,1,,,,,,,,,,,,,,,,,,,1964-05-31
+Richmond,1964,7,Fitzroy,15,W,51,,,,,3,,,,,,,,,,,,,,,,,,,1964-06-07
+Richmond,1964,8,St Kilda,16,L,51,,,,,,,,,,,,,,,,,,,,,,,,1964-06-14
+Richmond,1964,9,Geelong,17,L,51,,,,,,,,,,,,,,,,,,,,,,,,1964-06-21
+Richmond,1964,10,Hawthorn,18,L,51,,,,,,,,,,,,,,,,,,,,,,,,1964-06-28

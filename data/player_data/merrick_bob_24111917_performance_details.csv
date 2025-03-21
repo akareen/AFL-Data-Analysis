@@ -1,0 +1,7 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1940,1,St Kilda,1,W,14,,,,,,,,,,,,,,,,,,,,,,,,1940-03-01
+Fitzroy,1940,2,North Melbourne,2,L,14,,,,,,,,,,,,,,,,,,,,,,,,1940-03-08
+Fitzroy,1944,3,St Kilda,1,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1944-03-01
+Fitzroy,1944,4,Collingwood,2,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1944-03-08
+Fitzroy,1944,5,North Melbourne,3,W,17,,,,,,,,,,,,,,,,,,,,,,,,1944-03-15
+Fitzroy,1944,6,Richmond,4,L,17,,,,,,,,,,,,,,,,,,,,,,,,1944-03-22

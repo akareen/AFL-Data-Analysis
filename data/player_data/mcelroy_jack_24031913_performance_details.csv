@@ -1,0 +1,18 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1938,1,Fitzroy,4,W,15,,,,,1,,,,,,,,,,,,,,,,,,,1938-03-22
+Carlton,1938,2,Collingwood,5,W,15,,,,,,,,,,,,,,,,,,,,,,,,1938-03-29
+Carlton,1938,3,Melbourne,6,L,15,,,,,1,,,,,,,,,,,,,,,,,,,1938-04-05
+Carlton,1938,4,St Kilda,7,W,15,,,,,,,,,,,,,,,,,,,,,,,,1938-04-12
+Carlton,1938,5,Footscray,8,W,15,,,,,1,,,,,,,,,,,,,,,,,,,1938-04-19
+Carlton,1938,6,North Melbourne,9,W,15,,,,,,,,,,,,,,,,,,,,,,,,1938-04-26
+Carlton,1938,7,South Melbourne,10,W,15,,,,,,,,,,,,,,,,,,,,,,,,1938-05-03
+Carlton,1938,8,Geelong,11,W,15,,,,,1,,,,,,,,,,,,,,,,,,,1938-05-10
+Carlton,1938,9,Hawthorn,12,W,15,,,,,,,,,,,,,,,,,,,,,,,,1938-05-17
+Carlton,1938,10,Richmond,13,L,15,,,,,,,,,,,,,,,,,,,,,,,,1938-05-24
+Carlton,1939,11,North Melbourne,3,W,15,,,,,1,,,,,,,,,,,,,,,,,,,1939-03-15
+Carlton,1939,12,Hawthorn,5,L,15,,,,,2,,,,,,,,,,,,,,,,,,,1939-03-29
+Carlton,1939,13,Richmond,6,L,15,,,,,3,,,,,,,,,,,,,,,,,,,1939-04-05
+Carlton,1939,14,Essendon,7,W,15,,,,,,,,,,,,,,,,,,,,,,,,1939-04-12
+Carlton,1939,15,Collingwood,8,L,15,,,,,1,,,,,,,,,,,,,,,,,,,1939-04-19
+Carlton,1939,16,Melbourne,9,W,15,,,,,1,,,,,,,,,,,,,,,,,,,1939-04-26
+Carlton,1939,17,St Kilda,10,L,15,,,,,,,,,,,,,,,,,,,,,,,,1939-05-03

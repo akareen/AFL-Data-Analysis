@@ -1,0 +1,22 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Footscray,1930,1,Hawthorn,6,W,30,,,,,,,,,,,,,,,,,,,,,,,,1930-04-05
+Footscray,1930,2,St Kilda,7,L,30,,,,,,,,,,,,,,,,,,,,,,,,1930-04-12
+Footscray,1930,3,South Melbourne,8,L,30,,,,,1,,,,,,,,,,,,,,,,,,,1930-04-19
+Footscray,1930,4,Collingwood,9,L,30,,,,,,,,,,,,,,,,,,,,,,,,1930-04-26
+Footscray,1930,5,Geelong,10,L,30,,,,,1,,,,,,,,,,,,,,,,,,,1930-05-03
+Footscray,1930,6,Melbourne,12,L,30,,,,,,,,,,,,,,,,,,,,,,,,1930-05-17
+Footscray,1930,7,St Kilda,14,L,30,,,,,,,,,,,,,,,,,,,,,,,,1930-05-31
+Footscray,1930,8,Collingwood,16,L,30,,,,,,,,,,,,,,,,,,,,,,,,1930-06-14
+Footscray,1930,9,Geelong,17,W,30,,,,,1,,,,,,,,,,,,,,,,,,,1930-06-21
+Footscray,1930,10,Carlton,18,L,30,,,,,,,,,,,,,,,,,,,,,,,,1930-06-28
+Footscray,1931,11,Richmond,3,L,18,,,,,,,,,,,,,,,,,,,,,,,,1931-03-15
+Footscray,1931,12,Fitzroy,4,W,18,,,,,,,,,,,,,,,,,,,,,,,,1931-03-22
+Footscray,1931,13,Melbourne,5,L,18,,,,,,,,,,,,,,,,,,,,,,,,1931-03-29
+Footscray,1931,14,North Melbourne,7,W,18,,,,,,,,,,,,,,,,,,,,,,,,1931-04-12
+Footscray,1931,15,St Kilda,8,W,18,,,,,1,,,,,,,,,,,,,,,,,,,1931-04-19
+Footscray,1931,16,Carlton,6,L,18,,,,,,,,,,,,,,,,,,,,,,,,1931-04-05
+Footscray,1931,17,Collingwood,9,L,18,,,,,,,,,,,,,,,,,,,,,,,,1931-04-26
+Footscray,1931,18,Geelong,10,L,18,,,,,,,,,,,,,,,,,,,,,,,,1931-05-03
+Footscray,1931,19,Essendon,11,L,18,,,,,,,,,,,,,,,,,,,,,,,,1931-05-10
+Footscray,1931,20,Hawthorn,12,W,18,,,,,,,,,,,,,,,,,,,,,,,,1931-05-17
+Richmond,1932,21,Melbourne,2,W,22,,,,,,,,,,,,,,,,,,,,,,,,1932-03-08

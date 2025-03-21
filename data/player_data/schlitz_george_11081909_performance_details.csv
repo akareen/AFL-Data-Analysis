@@ -1,0 +1,8 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1933,1,Collingwood,8,L,11,,,,,,,,,,,,,,,,,,,,,,,,1933-04-19
+St Kilda,1933,2,Melbourne,9,W,11,,,,,,,,,,,,,,,,,,,,,,,,1933-04-26
+St Kilda,1933,3,Essendon,13,W,11,,,,,,,,,,,,,,,,,,,,,,,,1933-05-24
+St Kilda,1933,4,Fitzroy,14,L,11,,,,,,,,,,,,,,,,,,,,,,,,1933-05-31
+St Kilda,1933,5,South Melbourne,15,L,11,,,,,,,,,,,,,,,,,,,,,,,,1933-06-07
+St Kilda,1933,6,Footscray,17,W,11,,,,,,,,,,,,,,,,,,,,,,,,1933-06-21
+St Kilda,1933,7,Carlton,18,L,11,,,,,1,,,,,,,,,,,,,,,,,,,1933-06-28

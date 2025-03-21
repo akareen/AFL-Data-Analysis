@@ -1,0 +1,17 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+North Melbourne,1966,1,Footscray,1,W,19,2,1,,2,,,,,,,,,,,,,,,,,,,,1966-03-01
+North Melbourne,1966,2,Essendon,2,L,19,3,,1,4,,,4,,,,,,,,,,,,,,,,,1966-03-08
+North Melbourne,1966,3,Hawthorn,4,W,19,16,6,3,19,1,1,8,,,,,,2,,,,,,,,,,,1966-03-22
+North Melbourne,1966,4,Richmond,8,D,19,9,1,1,10,1,1,12,,,,,,5,1,,,,,,,,,,1966-04-19
+North Melbourne,1966,5,Melbourne,9,W,19,6,1,1,7,1,,18,,,,,,,1,,,,,,,,,,1966-04-26
+North Melbourne,1966,6,Carlton,10,W,19,11,2,1,12,3,3,11,,,,,,1,6,,,,,,,,,,1966-05-03
+North Melbourne,1966,7,Fitzroy,11,W,19,10,2,5,15,1,,12,,,,,,3,1,,,,,,,,,,1966-05-10
+North Melbourne,1966,8,Footscray,12,W,19,10,3,1,11,1,1,12,,,,,,1,2,,,,,,,,,,1966-05-17
+North Melbourne,1967,9,Collingwood,2,L,19,6,2,3,9,,,18,,,,,,3,3,,,,,,,,,,1967-03-08
+North Melbourne,1968,10,Essendon,2,L,19,4,,1,5,,,2,,,,,,1,2,,,,,,,,,,1968-03-08
+North Melbourne,1968,11,Geelong,8,L,19,16,6,1,17,,1,11,,,,,,2,3,,,,,,,,,,1968-04-19
+North Melbourne,1968,12,Carlton,9,L,19,13,5,,13,1,2,3,,,,,,3,1,,,,,,,,,,1968-04-26
+North Melbourne,1968,13,Footscray,12,L,19,6,3,1,7,,1,16,,,,,,1,4,,,,,,,,,,1968-05-17
+North Melbourne,1968,14,Essendon,13,L,19,6,1,,6,,,26,,,,,,1,2,,,,,,,,,,1968-05-24
+North Melbourne,1968,15,Fitzroy,14,L,19,7,3,2,9,,1,12,,,,,,2,3,,,,,,,,,,1968-05-31
+North Melbourne,1968,16,Melbourne,15,L,19,4,,,4,,,19,,,,,,1,,,,,,,,,,,1968-06-07

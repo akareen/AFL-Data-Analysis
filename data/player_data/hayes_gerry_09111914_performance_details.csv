@@ -1,0 +1,23 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1936,1,North Melbourne,14,L,31,,,,,1,,,,,,,,,,,,,,,,,,,1936-05-31
+Richmond,1936,2,Carlton,15,L,31,,,,,,,,,,,,,,,,,,,,,,,,1936-06-07
+Richmond,1936,3,Hawthorn,16,L,31,,,,,1,,,,,,,,,,,,,,,,,,,1936-06-14
+Richmond,1936,4,Geelong,17,L,31,,,,,,,,,,,,,,,,,,,,,,,,1936-06-21
+Richmond,1937,5,Melbourne,1,L,31,,,,,,,,,,,,,,,,,,,,,,,,1937-03-01
+Richmond,1937,6,Footscray,2,W,31,,,,,,,,,,,,,,,,,,,,,,,,1937-03-08
+Richmond,1937,7,South Melbourne,3,D,31,,,,,,,,,,,,,,,,,,,,,,,,1937-03-15
+Richmond,1937,8,Fitzroy,4,W,31,,,,,,,,,,,,,,,,,,,,,,,,1937-03-22
+Richmond,1937,9,Essendon,5,W,31,,,,,,,,,,,,,,,,,,,,,,,,1937-03-29
+Richmond,1937,10,Geelong,6,W,31,,,,,,,,,,,,,,,,,,,,,,,,1937-04-05
+Richmond,1937,11,Hawthorn,7,L,31,,,,,,,,,,,,,,,,,,,,,,,,1937-04-12
+Richmond,1937,12,Carlton,8,W,31,,,,,,,,,,,,,,,,,,,,,,,,1937-04-19
+Richmond,1937,13,North Melbourne,9,L,31,,,,,,,,,,,,,,,,,,,,,,,,1937-04-26
+Richmond,1937,14,Fitzroy,15,W,31,,,,,1,,,,,,,,,,,,,,,,,,,1937-06-07
+Richmond,1937,15,Essendon,16,W,31,,,,,,,,,,,,,,,,,,,,,,,,1937-06-14
+Richmond,1937,16,Geelong,17,L,31,,,,,,,,,,,,,,,,,,,,,,,,1937-06-21
+South Melbourne,1938,17,Geelong,7,L,32,,,,,,,,,,,,,,,,,,,,,,,,1938-04-12
+South Melbourne,1938,18,Carlton,10,L,32,,,,,,,,,,,,,,,,,,,,,,,,1938-05-03
+South Melbourne,1938,19,Collingwood,11,L,32,,,,,,,,,,,,,,,,,,,,,,,,1938-05-10
+South Melbourne,1938,20,Footscray,12,L,32,,,,,,,,,,,,,,,,,,,,,,,,1938-05-17
+South Melbourne,1938,21,North Melbourne,13,L,32,,,,,,,,,,,,,,,,,,,,,,,,1938-05-24
+South Melbourne,1944,22,Melbourne,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1944-05-03

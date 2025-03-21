@@ -1,0 +1,54 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1929,1,Essendon,1,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1929-03-01
+Carlton,1929,2,Richmond,2,L,19,,,,,,,,,,,,,,,,,,,,,,,,1929-03-08
+Carlton,1929,3,Hawthorn,3,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1929-03-15
+Carlton,1929,4,South Melbourne,4,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1929-03-22
+Carlton,1929,5,Geelong,5,W,19,,,,,2,,,,,,,,,,,,,,,,,,,1929-03-29
+Carlton,1929,6,Fitzroy,6,W,19,,,,,,,,,,,,,,,,,,,,,,,,1929-04-05
+Carlton,1929,7,North Melbourne,7,W,19,,,,,2,,,,,,,,,,,,,,,,,,,1929-04-12
+Carlton,1929,8,Melbourne,8,W,19,,,,,2,,,,,,,,,,,,,,,,,,,1929-04-19
+Carlton,1929,9,St Kilda,9,W,19,,,,,,,,,,,,,,,,,,,,,,,,1929-04-26
+Carlton,1929,10,Collingwood,10,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1929-05-03
+Carlton,1929,11,Footscray,11,W,19,,,,,,,,,,,,,,,,,,,,,,,,1929-05-10
+Carlton,1929,12,Essendon,12,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1929-05-17
+Carlton,1929,13,Richmond,13,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1929-05-24
+Carlton,1929,14,Hawthorn,14,W,19,,,,,,,,,,,,,,,,,,,,,,,,1929-05-31
+Carlton,1929,15,South Melbourne,15,W,19,,,,,,,,,,,,,,,,,,,,,,,,1929-06-07
+Carlton,1929,16,Geelong,16,W,19,,,,,,,,,,,,,,,,,,,,,,,,1929-06-14
+Carlton,1929,17,Fitzroy,17,W,19,,,,,2,,,,,,,,,,,,,,,,,,,1929-06-21
+Carlton,1929,18,St Kilda,SF,W,19,,,,,,,,,,,,,,,,,,,,,,,,1929-03-01
+Carlton,1929,19,Richmond,PF,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1929-03-01
+Carlton,1930,20,Essendon,1,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1930-03-01
+Carlton,1930,21,Richmond,2,W,19,,,,,3,,,,,,,,,,,,,,,,,,,1930-03-08
+Carlton,1930,22,Hawthorn,3,W,19,,,,,2,,,,,,,,,,,,,,,,,,,1930-03-15
+Carlton,1930,23,Geelong,5,W,19,,,,,2,,,,,,,,,,,,,,,,,,,1930-03-29
+Carlton,1930,24,Fitzroy,6,W,19,,,,,2,,,,,,,,,,,,,,,,,,,1930-04-05
+Carlton,1930,25,North Melbourne,7,W,19,,,,,,,,,,,,,,,,,,,,,,,,1930-04-12
+Carlton,1930,26,Melbourne,8,L,19,,,,,,,,,,,,,,,,,,,,,,,,1930-04-19
+Carlton,1930,27,St Kilda,9,W,19,,,,,,,,,,,,,,,,,,,,,,,,1930-04-26
+Carlton,1930,28,Collingwood,10,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1930-05-03
+Carlton,1930,29,Footscray,11,W,19,,,,,,,,,,,,,,,,,,,,,,,,1930-05-10
+Carlton,1930,30,Geelong,12,W,19,,,,,,,,,,,,,,,,,,,,,,,,1930-05-17
+Carlton,1930,31,Fitzroy,13,W,19,,,,,,,,,,,,,,,,,,,,,,,,1930-05-24
+Carlton,1930,32,North Melbourne,14,W,19,,,,,,,,,,,,,,,,,,,,,,,,1930-05-31
+Carlton,1930,33,Melbourne,15,L,19,,,,,,,,,,,,,,,,,,,,,,,,1930-06-07
+Carlton,1930,34,St Kilda,16,W,19,,,,,,,,,,,,,,,,,,,,,,,,1930-06-14
+Carlton,1930,35,Collingwood,17,L,19,,,,,2,,,,,,,,,,,,,,,,,,,1930-06-21
+Carlton,1930,36,Footscray,18,W,19,,,,,,,,,,,,,,,,,,,,,,,,1930-06-28
+Carlton,1930,37,Geelong,SF,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1930-03-01
+Carlton,1931,38,Richmond,1,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1931-03-01
+Carlton,1931,39,Fitzroy,2,W,19,,,,,,,,,,,,,,,,,,,,,,,,1931-03-08
+Carlton,1931,40,Essendon,3,W,19,,,,,,,,,,,,,,,,,,,,,,,,1931-03-15
+Carlton,1931,41,Geelong,4,L,19,,,,,,,,,,,,,,,,,,,,,,,,1931-03-22
+Carlton,1931,42,Collingwood,5,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1931-03-29
+Carlton,1931,43,Melbourne,8,W,19,,,,,,,,,,,,,,,,,,,,,,,,1931-04-19
+Carlton,1931,44,Footscray,6,W,19,,,,,,,,,,,,,,,,,,,,,,,,1931-04-05
+Carlton,1931,45,North Melbourne,9,W,19,,,,,,,,,,,,,,,,,,,,,,,,1931-04-26
+Carlton,1931,46,Hawthorn,11,W,19,,,,,,,,,,,,,,,,,,,,,,,,1931-05-10
+Carlton,1931,47,Fitzroy,13,W,19,,,,,,,,,,,,,,,,,,,,,,,,1931-05-24
+Carlton,1931,48,Essendon,14,L,19,,,,,,,,,,,,,,,,,,,,,,,,1931-05-31
+Carlton,1931,49,Geelong,15,W,19,,,,,,,,,,,,,,,,,,,,,,,,1931-06-07
+Carlton,1931,50,Collingwood,16,L,19,,,,,,,,,,,,,,,,,,,,,,,,1931-06-14
+Carlton,1931,51,St Kilda,18,W,19,,,,,,,,,,,,,,,,,,,,,,,,1931-06-28
+Carlton,1931,52,Collingwood,SF,W,19,,,,,,,,,,,,,,,,,,,,,,,,1931-03-01
+Carlton,1931,53,Geelong,PF,L,19,,,,,1,,,,,,,,,,,,,,,,,,,1931-03-01

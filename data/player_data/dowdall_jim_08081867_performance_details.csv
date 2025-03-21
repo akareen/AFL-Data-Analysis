@@ -1,0 +1,7 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1897,1,Geelong,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1897-03-15
+Collingwood,1897,2,Melbourne,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-04-05
+Collingwood,1897,3,Carlton,7,W,,,,,,1,,,,,,,,,,,,,,,,,,,1897-04-12
+Collingwood,1897,4,St Kilda,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1897-04-19
+Collingwood,1897,5,Essendon,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-04-26
+Collingwood,1897,6,Geelong,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-05-03

@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+North Melbourne,1933,1,Footscray,7,W,28,,,,,1,,,,,,,,,,,,,,,,,,,1933-04-12
+North Melbourne,1933,2,Melbourne,8,W,28,,,,,1,,,,,,,,,,,,,,,,,,,1933-04-19
+North Melbourne,1933,3,Essendon,10,W,28,,,,,1,,,,,,,,,,,,,,,,,,,1933-05-03
+North Melbourne,1933,4,South Melbourne,11,L,28,,,,,,,,,,,,,,,,,,,,,,,,1933-05-10
+North Melbourne,1933,5,Fitzroy,12,L,28,,,,,1,,,,,,,,,,2,,,,,,,,,1933-05-17
+North Melbourne,1933,6,Richmond,13,L,28,,,,,,,,,,,,,,,,,,,,,,,,1933-05-24
+North Melbourne,1933,7,Geelong,15,L,28,,,,,,,,,,,,,,,,,,,,,,,,1933-06-07
+North Melbourne,1933,8,Collingwood,17,L,28,,,,,,,,,,,,,,,,,,,,,,,,1933-06-21
+North Melbourne,1933,9,Footscray,18,L,28,,,,,,,,,,,,,,,,,,,,,,,,1933-06-28

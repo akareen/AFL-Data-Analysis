@@ -1,0 +1,8 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1906,1,St Kilda,2,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-08
+Carlton,1906,2,Geelong,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-15
+Carlton,1906,3,Collingwood,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-22
+Carlton,1906,4,South Melbourne,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-03-29
+Carlton,1906,5,Fitzroy,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-05
+Carlton,1906,6,Essendon,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1906-04-12
+Richmond,1908,7,University,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-08

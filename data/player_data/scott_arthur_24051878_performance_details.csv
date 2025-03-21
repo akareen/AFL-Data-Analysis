@@ -1,0 +1,15 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1900,1,Fitzroy,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-04-12
+St Kilda,1900,2,Melbourne,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-04-19
+St Kilda,1900,3,South Melbourne,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-04-26
+St Kilda,1900,4,Geelong,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-05-03
+St Kilda,1900,5,Carlton,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-05-10
+St Kilda,1900,6,Collingwood,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-05-17
+St Kilda,1900,7,Essendon,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-05-24
+St Kilda,1900,8,Fitzroy,14,L,,,,,,1,,,,,,,,,,,,,,,,,,,1900-05-31
+St Kilda,1900,9,Collingwood,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-06-07
+St Kilda,1900,10,Melbourne,16,L,,,,,,1,,,,,,,,,,,,,,,,,,,1900-06-14
+St Kilda,1900,11,Geelong,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-06-21
+St Kilda,1901,12,South Melbourne,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1901-03-01
+St Kilda,1901,13,Essendon,2,L,,,,,,2,,,,,,,,,,,,,,,,,,,1901-03-08
+St Kilda,1901,14,Melbourne,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1901-03-15

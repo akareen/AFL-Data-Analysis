@@ -1,0 +1,65 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1903,1,Collingwood,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-01
+Carlton,1903,2,Essendon,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-15
+Carlton,1903,3,St Kilda,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-22
+Carlton,1903,4,South Melbourne,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-29
+Carlton,1903,5,Fitzroy,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-05
+Carlton,1903,6,Melbourne,7,L,,,,,,1,,,,,,,,,,,,,,,,,,,1903-04-12
+Carlton,1903,7,Collingwood,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-19
+Carlton,1903,8,Geelong,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-26
+Carlton,1903,9,Essendon,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-03
+Carlton,1903,10,St Kilda,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-10
+Carlton,1903,11,South Melbourne,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-17
+Carlton,1903,12,Fitzroy,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-05-24
+Carlton,1903,13,Geelong,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-08
+Carlton,1903,14,Melbourne,14,L,,,,,,1,,,,,,,,,,,,,,,,,,,1903-05-31
+Carlton,1903,15,Melbourne,15,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-07
+Carlton,1903,16,St Kilda,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-06-21
+Carlton,1903,17,Collingwood,SF,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-01
+Carlton,1908,18,South Melbourne,15,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-06-07
+Carlton,1908,19,Geelong,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-06-14
+Carlton,1908,20,Richmond,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-06-21
+Carlton,1908,21,University,18,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-06-28
+Carlton,1908,22,St Kilda,SF,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-03-01
+Carlton,1908,23,Essendon,GF,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-01
+Carlton,1909,24,University,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-01
+Carlton,1909,25,South Melbourne,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-08
+Carlton,1909,26,Collingwood,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-15
+Carlton,1909,27,Geelong,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-22
+Carlton,1909,28,Melbourne,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-29
+Carlton,1909,29,Fitzroy,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-05
+Carlton,1909,30,Richmond,7,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-12
+Carlton,1909,31,St Kilda,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-19
+Carlton,1909,32,Essendon,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-26
+Carlton,1909,33,University,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-05-03
+Carlton,1909,34,South Melbourne,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-05-10
+Carlton,1909,35,Collingwood,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-05-17
+Carlton,1909,36,Geelong,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-05-24
+Carlton,1909,37,Melbourne,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-05-31
+Carlton,1909,38,Fitzroy,15,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-07
+Carlton,1909,39,Richmond,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-14
+Carlton,1909,40,St Kilda,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-21
+Carlton,1909,41,Essendon,18,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-28
+Carlton,1909,42,Essendon,SF,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-01
+Carlton,1909,43,South Melbourne,PF,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-01
+Carlton,1909,44,South Melbourne,GF,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-01
+Carlton,1910,45,Collingwood,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-01
+Carlton,1910,46,Geelong,2,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-08
+Carlton,1910,47,Melbourne,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-15
+Carlton,1910,48,South Melbourne,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-22
+Carlton,1910,49,Fitzroy,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-29
+Carlton,1910,50,University,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-05
+Carlton,1910,51,Essendon,7,L,,,,,,1,,,,,,,,,,,,,,,,,,,1910-04-12
+Carlton,1910,52,Richmond,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-19
+Carlton,1910,53,St Kilda,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-26
+Carlton,1910,54,Collingwood,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-03
+Carlton,1910,55,Geelong,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-10
+Carlton,1910,56,Melbourne,12,W,,,,,,1,,,,,,,,,,,,,,,,,,,1910-05-17
+Carlton,1910,57,South Melbourne,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-24
+Carlton,1910,58,Fitzroy,14,W,,,,,,2,,,,,,,,,,,,,,,,,,,1910-05-31
+Carlton,1911,59,Geelong,16,W,,,,,,1,,,,,,,,,,,,,,,,,,,1911-06-14
+Carlton,1911,60,Collingwood,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-21
+Carlton,1911,61,Melbourne,18,W,,,,,,,,,,,,,,,,,,,,,,,,,1911-06-28
+Carlton,1911,62,Essendon,SF,L,4,,,,,,,,,,,,,,,,,,,,,,,,1911-03-01
+Carlton,1912,63,South Melbourne,17,W,28,,,,,,,,,,,,,,,,,,,,,,,,1912-06-21
+Carlton,1912,64,University,18,W,28,,,,,,,,,,,,,,,,,,,,,,,,1912-06-28

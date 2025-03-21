@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+West Coast,2024,1,Collingwood,10,L,43,7,3,2,9,1,1,,,,3,,3,,,,,8,,1,,,,75,2024-05-03
+West Coast,2024,2↑,Melbourne,11,W,43,1,1,1,2,,,,1,,2,,,,,,,1,,,,,,9,2024-05-10
+West Coast,2024,3↑,Adelaide,12,L,43,2,1,,2,,,,,1,1,,1,,1,,1,1,1,,,,,21,2024-05-17
+West Coast,2024,4,Gold Coast,22,W,43,5,4,4,9,2,,,2,,1,1,2,,1,,3,6,1,2,,,,74,2024-07-26
+West Coast,2024,5,North Melbourne,23,W,43,6,1,4,10,1,1,,,2,1,3,,,,,5,5,,,,1,,69,2024-08-02
+West Coast,2024,6,Carlton,24,L,43,5,4,3,8,,,,2,,1,1,2,,1,,2,6,,,,,,71,2024-08-09
+West Coast,2024,7,Geelong,25,L,43,7,5,7,14,1,,,1,1,2,1,1,,1,,4,10,,,,,,81,2024-08-16
+West Coast,2025,8,Gold Coast,2,L,43,12,2,3,15,,,,1,5,3,,6,,2,,,11,,,,,,83,2025-03-08

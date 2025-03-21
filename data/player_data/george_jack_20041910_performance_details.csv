@@ -1,0 +1,74 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1930,1,Melbourne,7,W,14,,,,,,,,,,,,,,,,,,,,,,,,1930-04-12
+Collingwood,1930,2,St Kilda,8,W,14,,,,,,,,,,,,,,,,,,,,,,,,1930-04-19
+Collingwood,1930,3,Footscray,9,W,14,,,,,,,,,,,,,,,,,,,,,,,,1930-04-26
+Collingwood,1931,4,Geelong,1,W,15,,,,,,,,,,,,,,,,,,,,,,,,1931-03-01
+Collingwood,1931,5,South Melbourne,3,W,15,,,,,,,,,,,,,,,,,,,,,,,,1931-03-15
+Collingwood,1931,6,Richmond,4,L,15,,,,,,,,,,,,,,,,,,,,,,,,1931-03-22
+Collingwood,1931,7,Carlton,5,L,15,,,,,,,,,,,,,,,,,,,,,,,,1931-03-29
+St Kilda,1931,8,Essendon,12,L,15,,,,,,,,,,,,,,,,,,,,,,,,1931-05-17
+St Kilda,1931,9,Geelong,13,L,15,,,,,,,,,,,,,,,,,,,,,,,,1931-05-24
+St Kilda,1931,10,Hawthorn,14,W,15,,,,,,,,,,,,,,,,,,,,,,,,1931-05-31
+St Kilda,1931,11,North Melbourne,16,W,15,,,,,,,,,,,,,,,,,,,,,,,,1931-06-14
+St Kilda,1931,12,Collingwood,17,W,15,,,,,,,,,,,,,,,,,,,,,,,,1931-06-21
+St Kilda,1931,13,Carlton,18,L,15,,,,,1,,,,,,,,,,,,,,,,,,,1931-06-28
+St Kilda,1932,14,Richmond,1,L,15,,,,,,,,,,,,,,,,,,,,,,,,1932-03-01
+St Kilda,1932,15,Hawthorn,2,W,15,,,,,,,,,,,,,,,,,,,,,,,,1932-03-08
+St Kilda,1932,16,Geelong,3,L,15,,,,,,,,,,,,,,,,,,,,,,,,1932-03-15
+St Kilda,1932,17,Footscray,5,L,15,,,,,,,,,,,,,,,,,,,,,,,,1932-03-29
+St Kilda,1932,18,North Melbourne,6,L,15,,,,,,,,,,,,,,,,,,,,,,,,1932-04-05
+St Kilda,1932,19,Carlton,7,L,15,,,,,,,,,,,,,,,,,,,,,,,,1932-04-12
+St Kilda,1933,20,Essendon,2,L,15,,,,,,,,,,,,,,,,,,,,,,,,1933-03-08
+St Kilda,1933,21,Fitzroy,3,L,15,,,,,,,,,,,,,,,,,,,,,,,,1933-03-15
+St Kilda,1933,22,South Melbourne,4,L,15,,,,,,,,,,,,,,,,,,,,,,,,1933-03-22
+St Kilda,1933,23,North Melbourne,5,W,15,,,,,,,,,,,,,,,,,,,,,,,,1933-03-29
+St Kilda,1933,24,Carlton,7,L,15,,,,,1,,,,,,,,,,,,,,,,,,,1933-04-12
+St Kilda,1933,25,Collingwood,8,L,15,,,,,,,,,,,,,,,,,,,,,,,,1933-04-19
+St Kilda,1933,26,Melbourne,9,W,15,,,,,,,,,,,,,,,,,,,,,,,,1933-04-26
+St Kilda,1933,27,Richmond,10,L,15,,,,,,,,,,,,,,,,,,,,,,,,1933-05-03
+St Kilda,1933,28,Geelong,11,W,15,,,,,,,,,,,,,,,,,,,,,,,,1933-05-10
+St Kilda,1933,29,Hawthorn,12,W,15,,,,,,,,,,,,,,,,,,,,,,,,1933-05-17
+St Kilda,1933,30,Essendon,13,W,15,,,,,,,,,,,,,,,,,,,,,,,,1933-05-24
+St Kilda,1933,31,Fitzroy,14,L,15,,,,,,,,,,,,,,,,,,,,,,,,1933-05-31
+St Kilda,1933,32,South Melbourne,15,L,15,,,,,,,,,,,,,,,,,,,,,,,,1933-06-07
+St Kilda,1933,33,North Melbourne,16,L,15,,,,,,,,,,,,,,,,,,,,,,,,1933-06-14
+St Kilda,1933,34,Footscray,17,W,15,,,,,,,,,,,,,,,,,,,,,,,,1933-06-21
+St Kilda,1933,35,Carlton,18,L,15,,,,,,,,,,,,,,,,,,,,,,,,1933-06-28
+St Kilda,1934,36,Richmond,2,L,15,,,,,,,,,,,,,,,,,,,,,,,,1934-03-08
+St Kilda,1934,37,Fitzroy,3,W,15,,,,,,,,,,,,,,,3,,,,,,,,,1934-03-15
+St Kilda,1934,38,North Melbourne,4,W,15,,,,,,,,,,,,,,,,,,,,,,,,1934-03-22
+St Kilda,1934,39,Footscray,5,W,15,,,,,,,,,,,,,,,,,,,,,,,,1934-03-29
+St Kilda,1934,40,Melbourne,6,W,15,,,,,,,,,,,,,,,,,,,,,,,,1934-04-05
+St Kilda,1934,41,Carlton,7,L,15,,,,,,,,,,,,,,,,,,,,,,,,1934-04-12
+St Kilda,1934,42,Collingwood,8,L,15,,,,,,,,,,,,,,,,,,,,,,,,1934-04-19
+St Kilda,1934,43,Essendon,9,W,15,,,,,,,,,,,,,,,,,,,,,,,,1934-04-26
+St Kilda,1934,44,South Melbourne,10,L,15,,,,,,,,,,,,,,,,,,,,,,,,1934-05-03
+St Kilda,1934,45,Hawthorn,11,W,15,,,,,,,,,,,,,,,,,,,,,,,,1934-05-10
+St Kilda,1934,46,Geelong,12,L,15,,,,,,,,,,,,,,,,,,,,,,,,1934-05-17
+St Kilda,1934,47,Richmond,13,L,15,,,,,,,,,,,,,,,,,,,,,,,,1934-05-24
+St Kilda,1934,48,Fitzroy,14,W,15,,,,,,,,,,,,,,,,,,,,,,,,1934-05-31
+St Kilda,1934,49,North Melbourne,15,W,15,,,,,,,,,,,,,,,,,,,,,,,,1934-06-07
+St Kilda,1934,50,Footscray,16,L,15,,,,,,,,,,,,,,,,,,,,,,,,1934-06-14
+St Kilda,1934,51,Melbourne,17,W,15,,,,,,,,,,,,,,,,,,,,,,,,1934-06-21
+St Kilda,1934,52,Carlton,18,L,15,,,,,,,,,,,,,,,,,,,,,,,,1934-06-28
+St Kilda,1935,53,Fitzroy,1,L,15,,,,,,,,,,,,,,,,,,,,,,,,1935-03-01
+St Kilda,1935,54,Essendon,2,L,15,,,,,,,,,,,,,,,,,,,,,,,,1935-03-08
+St Kilda,1935,55,Hawthorn,4,W,15,,,,,,,,,,,,,,,,,,,,,,,,1935-03-22
+St Kilda,1935,56,Carlton,5,L,15,,,,,,,,,,,,,,,,,,,,,,,,1935-03-29
+St Kilda,1935,57,Melbourne,6,W,15,,,,,,,,,,,,,,,,,,,,,,,,1935-04-05
+St Kilda,1935,58,Footscray,8,W,15,,,,,,,,,,,,,,,,,,,,,,,,1935-04-19
+St Kilda,1935,59,South Melbourne,10,L,15,,,,,1,,,,,,,,,,,,,,,,,,,1935-05-03
+St Kilda,1935,60,Richmond,11,W,15,,,,,,,,,,,,,,,,,,,,,,,,1935-05-10
+St Kilda,1935,61,Fitzroy,12,W,15,,,,,,,,,,,,,,,,,,,,,,,,1935-05-17
+St Kilda,1935,62,Essendon,13,W,15,,,,,,,,,,,,,,,,,,,,,,,,1935-05-24
+South Melbourne,1936,63,Footscray,3,W,31,,,,,,,,,,,,,,,,,,,,,,,,1936-03-15
+South Melbourne,1936,64,Essendon,5,W,31,,,,,1,,,,,,,,,,,,,,,,,,,1936-03-29
+South Melbourne,1936,65,Hawthorn,6,W,31,,,,,,,,,,,,,,,,,,,,,,,,1936-04-05
+South Melbourne,1936,66,Richmond,9,L,31,,,,,,,,,,,,,,,,,,,,,,,,1936-04-26
+South Melbourne,1936,67,Collingwood,10,W,31,,,,,,,,,,,,,,,,,,,,,,,,1936-05-03
+South Melbourne,1936,68,Carlton,11,W,31,,,,,,,,,,,,,,,,,,,,,,,,1936-05-10
+South Melbourne,1936,69,Melbourne,12,L,31,,,,,,,,,,,,,,,,,,,,,,,,1936-05-17
+South Melbourne,1936,70,St Kilda,13,W,31,,,,,,,,,,,,,,,,,,,,,,,,1936-05-24
+South Melbourne,1936,71,Footscray,14,W,31,,,,,,,,,,,,,,,,,,,,,,,,1936-05-31
+South Melbourne,1936,72,North Melbourne,15,W,31,,,,,,,,,,,,,,,,,,,,,,,,1936-06-07
+South Melbourne,1936,73,Essendon,16,W,31,,,,,,,,,,,,,,,,,,,,,,,,1936-06-14

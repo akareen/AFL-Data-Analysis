@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1967,1,North Melbourne,1,W,21,11,2,3,14,1,,12,,,,,,1,4,,,,,,,,,,1967-03-01
+Melbourne,1967,2,Geelong,2,L,21,8,4,2,10,,2,14,,,,,,2,2,,,,,,,,,,1967-03-08
+Melbourne,1968,3,Fitzroy,1,W,21,10,4,3,13,3,1,2,,,,,,4,2,,,,,,,,,,1968-03-01
+Melbourne,1968,4,St Kilda,2,L,21,3,2,1,4,,,1,,,,,,1,2,,,,,,,,,,1968-03-08
+Melbourne,1968,5,Essendon,10,L,21,1,,,1,,,1,,,,,,,,,,,,,,,,,1968-05-03
+Melbourne,1968,6,Carlton,11,L,21,2,,1,3,,,,,,,,,,,,,,,,,,,,1968-05-10
+Melbourne,1968,7,Collingwood,19,L,21,7,3,2,9,3,2,6,,,,,,,4,,,,,,,,,,1968-07-05
+Melbourne,1968,8,Richmond,20,L,21,3,1,2,5,1,,5,,,,,,3,4,,,,,,,,,,1968-07-12

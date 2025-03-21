@@ -1,0 +1,31 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1914,1,University,9,W,30,,,,,2,,,,,,,,,,,,,,,,,,,1914-04-26
+St Kilda,1914,2,Richmond,10,L,30,,,,,1,,,,,,,,,,,,,,,,,,,1914-05-03
+St Kilda,1914,3,Carlton,11,L,30,,,,,2,,,,,,,,,,,,,,,,,,,1914-05-10
+St Kilda,1914,4,Essendon,12,D,30,,,,,,,,,,,,,,,,,,,,,,,,1914-05-17
+St Kilda,1914,5,Melbourne,13,W,30,,,,,,,,,,,,,,,,,,,,,,,,1914-05-24
+St Kilda,1914,6,South Melbourne,14,W,30,,,,,3,,,,,,,,,,,,,,,,,,,1914-05-31
+St Kilda,1914,7,Collingwood,15,L,30,,,,,,,,,,,,,,,,,,,,,,,,1914-06-07
+St Kilda,1914,8,Fitzroy,16,L,30,,,,,,,,,,,,,,,,,,,,,,,,1914-06-14
+St Kilda,1914,9,Geelong,17,L,30,,,,,,,,,,,,,,,,,,,,,,,,1914-06-21
+St Kilda,1914,10,University,18,W,30,,,,,2,,,,,,,,,,,,,,,,,,,1914-06-28
+St Kilda,1915,11,South Melbourne,1,W,7,,,,,,,,,,,,,,,,,,,,,,,,1915-03-01
+St Kilda,1915,12,Geelong,2,L,7,,,,,,,,,,,,,,,,,,,,,,,,1915-03-08
+St Kilda,1915,13,Collingwood,3,L,7,,,,,,,,,,,,,,,,,,,,,,,,1915-03-15
+St Kilda,1915,14,Essendon,5,L,7,,,,,,,,,,,,,,,,,,,,,,,,1915-03-29
+St Kilda,1915,15,Richmond,7,W,7,,,,,1,,,,,,,,,,,,,,,,,,,1915-04-12
+St Kilda,1915,16,South Melbourne,10,L,7,,,,,2,,,,,,,,,,,,,,,,,,,1915-05-03
+St Kilda,1915,17,Geelong,11,W,7,,,,,1,,,,,,,,,,,,,,,,,,,1915-05-10
+St Kilda,1915,18,Collingwood,12,L,7,,,,,1,,,,,,,,,,,,,,,,,,,1915-05-17
+St Kilda,1915,19,Carlton,18,L,7,,,,,,,,,,,,,,,,,,,,,,,,1915-06-28
+St Kilda,1919,20,Fitzroy,8,L,28,,,,,2,,,,,,,,,,,,,,,,,,,1919-04-19
+St Kilda,1919,21,Melbourne,10,W,28,,,,,,,,,,,,,,,,,,,,,,,,1919-05-03
+St Kilda,1919,22,Collingwood,11,L,28,,,,,,,,,,,,,,,,,,,,,,,,1919-05-10
+St Kilda,1919,23,South Melbourne,12,L,28,,,,,,,,,,,,,,,,,,,,,,,,1919-05-17
+St Kilda,1919,24,Geelong,14,W,28,,,,,,,,,,,,,,,,,,,,,,,,1919-05-31
+St Kilda,1919,25,Carlton,15,L,28,,,,,,,,,,,,,,,,,,,,,,,,1919-06-07
+St Kilda,1920,26,Geelong,3,W,26,,,,,4,,,,,,,,,,,,,,,,,,,1920-03-15
+St Kilda,1920,27,Melbourne,4,L,26,,,,,,,,,,,,,,,,,,,,,,,,1920-03-22
+St Kilda,1920,28,Essendon,5,L,26,,,,,3,,,,,,,,,,,,,,,,,,,1920-03-29
+St Kilda,1920,29,South Melbourne,7,L,26,,,,,2,,,,,,,,,,,,,,,,,,,1920-04-12
+St Kilda,1920,30,Richmond,8,L,26,,,,,1,,,,,,,,,,,,,,,,,,,1920-04-19

@@ -1,0 +1,14 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1931,1,St Kilda,1,L,6,,,,,,,,,,,,,,,,,,,,,,,,1931-03-01
+Essendon,1931,2,Melbourne,2,W,6,,,,,,,,,,,,,,,,,,,,,,,,1931-03-08
+Essendon,1931,3,Carlton,3,L,6,,,,,,,,,,,,,,,,,,,,,,,,1931-03-15
+Essendon,1931,4,North Melbourne,4,W,6,,,,,,,,,,,,,,,,,,,,,,,,1931-03-22
+Essendon,1931,5,Hawthorn,7,L,6,,,,,,,,,,,,,,,,,,,,,,,,1931-04-12
+Essendon,1931,6,Fitzroy,6,W,6,,,,,,,,,,,,,,,,,,,,,,,,1931-04-05
+Essendon,1931,7,South Melbourne,9,L,6,,,,,,,,,,,,,,,,,,,,,,,,1931-04-26
+Essendon,1931,8,Collingwood,10,W,6,,,,,,,,,,,,,,,,,,,,,,,,1931-05-03
+Essendon,1931,9,Footscray,11,W,6,,,,,,,,,,,,,,,,,,,,,,,,1931-05-10
+Essendon,1931,10,St Kilda,12,W,6,,,,,,,,,,,,,,,,,,,,,,,,1931-05-17
+Essendon,1931,11,Melbourne,13,L,6,,,,,,,,,,,,,,,,,,,,,,,,1931-05-24
+Essendon,1931,12,Carlton,14,W,6,,,,,,,,,,,,,,,,,,,,,,,,1931-05-31
+Essendon,1931,13,North Melbourne,15,W,6,,,,,,,,,,,,,,,,,,,,,,,,1931-06-07

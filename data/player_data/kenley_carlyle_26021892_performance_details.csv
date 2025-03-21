@@ -1,0 +1,26 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1913,1,Richmond,8,L,22,,,,,,,,,,,,,,,,,,,,,,,,1913-04-19
+Melbourne,1913,2,Essendon,9,L,22,,,,,1,,,,,,,,,,,,,,,,,,,1913-04-26
+Melbourne,1913,3,Collingwood,10,L,22,,,,,1,,,,,,,,,,,,,,,,,,,1913-05-03
+Melbourne,1913,4,University,11,W,22,,,,,1,,,,,,,,,,,,,,,,,,,1913-05-10
+Melbourne,1913,5,Carlton,12,W,22,,,,,,,,,,,,,,,,,,,,,,,,1913-05-17
+Melbourne,1913,6,Fitzroy,13,L,22,,,,,,,,,,,,,,,,,,,,,,,,1913-05-24
+Melbourne,1914,7,Fitzroy,1,L,1,,,,,,,,,,,,,,,,,,,,,,,,1914-03-01
+St Kilda,1918,8,Fitzroy,1,W,26,,,,,,,,,,,,,,,,,,,,,,,,1918-03-01
+St Kilda,1918,9,South Melbourne,4,W,26,,,,,,,,,,,,,,,,,,,,,,,,1918-03-22
+St Kilda,1918,10,Richmond,6,W,26,,,,,,,,,,,,,,,,,,,,,,,,1918-04-05
+St Kilda,1918,11,Geelong,7,W,26,,,,,,,,,,,,,,,,,,,,,,,,1918-04-12
+St Kilda,1918,12,Fitzroy,8,L,26,,,,,,,,,,,,,,,,,,,,,,,,1918-04-19
+St Kilda,1918,13,Geelong,14,L,26,,,,,,,,,,,,,,,,,,,,,,,,1918-05-31
+St Kilda,1919,14,Melbourne,1,W,26,,,,,2,,,,,,,,,,,,,,,,,,,1919-03-01
+St Kilda,1919,15,Collingwood,2,W,26,,,,,,,,,,,,,,,,,,,,,,,,1919-03-08
+St Kilda,1919,16,South Melbourne,3,L,26,,,,,,,,,,,,,,,,,,,,,,,,1919-03-15
+St Kilda,1919,17,Essendon,4,W,26,,,,,,,,,,,,,,,,,,,,,,,,1919-03-22
+St Kilda,1919,18,Carlton,6,L,26,,,,,,,,,,,,,,,,,,,,,,,,1919-04-05
+St Kilda,1919,19,Richmond,7,L,26,,,,,,,,,,,,,,,,,,,,,,,,1919-04-12
+St Kilda,1919,20,Melbourne,10,W,26,,,,,1,,,,,,,,,,,,,,,,,,,1919-05-03
+St Kilda,1919,21,Collingwood,11,L,26,,,,,1,,,,,,,,,,,,,,,,,,,1919-05-10
+St Kilda,1919,22,South Melbourne,12,L,26,,,,,,,,,,,,,,,,,,,,,,,,1919-05-17
+St Kilda,1919,23,Essendon,13,W,26,,,,,1,,,,,,,,,,,,,,,,,,,1919-05-24
+St Kilda,1919,24,Geelong,14,W,26,,,,,,,,,,,,,,,,,,,,,,,,1919-05-31
+St Kilda,1919,25,Fitzroy,17,L,26,,,,,,,,,,,,,,,,,,,,,,,,1919-06-21

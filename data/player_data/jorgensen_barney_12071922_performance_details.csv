@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1942,1,St Kilda,2,L,39,,,,,2,,,,,,,,,,,,,,,,,,,1942-03-08
+Hawthorn,1942,2,Footscray,3,L,39,,,,,1,,,,,,,,,,,,,,,,,,,1942-03-15
+Hawthorn,1942,3,Melbourne,4,L,39,,,,,,,,,,,,,,,,,,,,,,,,1942-03-22
+Hawthorn,1942,4,North Melbourne,12,L,39,,,,,,,,,,,,,,,,,,,,,,,,1942-05-17
+St Kilda,1943,5,Footscray,4,L,48,,,,,,,,,,,,,,,,,,,,,,,,1943-03-22
+St Kilda,1943,6,Carlton,5,W,48,,,,,1,,,,,,,,,,,,,,,,,,,1943-03-29
+St Kilda,1943,7,Collingwood,6,L,48,,,,,,,,,,,,,,,,,,,,,,,,1943-04-05
+St Kilda,1943,8,Melbourne,9,L,48,,,,,,,,,,,,,,,,,,,,,,,,1943-04-26

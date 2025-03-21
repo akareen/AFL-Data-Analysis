@@ -1,0 +1,31 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1914,1,St Kilda,1,L,7,,,,,,,,,,,,,,,,,,,,,,,,1914-03-01
+Richmond,1914,2,Fitzroy,2,L,7,,,,,,,,,,,,,,,,,,,,,,,,1914-03-08
+Richmond,1914,3,Collingwood,3,L,7,,,,,,,,,,,,,,,,,,,,,,,,1914-03-15
+Richmond,1914,4,Essendon,4,L,7,,,,,,,,,,,,,,,,,,,,,,,,1914-03-22
+Richmond,1914,5,Geelong,5,W,7,,,,,,,,,,,,,,,,,,,,,,,,1914-03-29
+Richmond,1914,6,University,6,W,7,,,,,,,,,,,,,,,,,,,,,,,,1914-04-05
+Richmond,1914,7,South Melbourne,7,L,7,,,,,,,,,,,,,,,,,,,,,,,,1914-04-12
+Richmond,1914,8,Melbourne,8,W,7,,,,,,,,,,,,,,,,,,,,,,,,1914-04-19
+Richmond,1914,9,St Kilda,10,W,7,,,,,,,,,,,,,,,,,,,,,,,,1914-05-03
+Richmond,1914,10,Fitzroy,11,L,7,,,,,,,,,,,,,,,,,,,,,,,,1914-05-10
+Richmond,1914,11,Collingwood,12,W,7,,,,,,,,,,,,,,,,,,,,,,,,1914-05-17
+Richmond,1914,12,Essendon,13,W,7,,,,,,,,,,,,,,,,,,,,,,,,1914-05-24
+Richmond,1914,13,Geelong,14,L,7,,,,,,,,,,,,,,,,,,,,,,,,1914-05-31
+Richmond,1914,14,University,15,W,7,,,,,1,,,,,,,,,,,,,,,,,,,1914-06-07
+Richmond,1914,15,South Melbourne,16,L,7,,,,,,,,,,,,,,,,,,,,,,,,1914-06-14
+Richmond,1914,16,Melbourne,17,W,7,,,,,,,,,,,,,,,,,,,,,,,,1914-06-21
+Richmond,1914,17,Carlton,18,L,7,,,,,,,,,,,,,,,,,,,,,,,,1914-06-28
+Richmond,1915,18,Melbourne,1,L,7,,,,,1,,,,,,,,,,,,,,,,,,,1915-03-01
+Richmond,1915,19,Collingwood,2,L,7,,,,,,,,,,,,,,,,,,,,,,,,1915-03-08
+Richmond,1915,20,South Melbourne,3,W,7,,,,,,,,,,,,,,,,,,,,,,,,1915-03-15
+Richmond,1915,21,Geelong,4,W,7,,,,,1,,,,,,,,,,,,,,,,,,,1915-03-22
+Richmond,1915,22,Fitzroy,6,L,7,,,,,,,,,,,,,,,,,,,,,,,,1915-04-05
+Richmond,1915,23,St Kilda,7,L,7,,,,,,,,,,,,,,,,,,,,,,,,1915-04-12
+Richmond,1915,24,Carlton,8,L,7,,,,,,,,,,,,,,,,,,,,,,,,1915-04-19
+Richmond,1915,25,Essendon,9,W,7,,,,,,,,,,,,,,,,,,,,,,,,1915-04-26
+Richmond,1915,26,Melbourne,10,L,7,,,,,,,,,,,,,,,,,,,,,,,,1915-05-03
+Richmond,1915,27,Collingwood,11,L,7,,,,,,,,,,,,,,,,,,,,,,,,1915-05-10
+Richmond,1915,28,South Melbourne,12,L,7,,,,,,,,,,,,,,,,,,,,,,,,1915-05-17
+Richmond,1915,29,Geelong,13,W,7,,,,,1,,,,,,,,,,,,,,,,,,,1915-05-24
+Richmond,1915,30,Fitzroy,15,L,7,,,,,,,,,,,,,,,,,,,,,,,,1915-06-07

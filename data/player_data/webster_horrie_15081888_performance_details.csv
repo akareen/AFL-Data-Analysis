@@ -1,0 +1,41 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1913,1,St Kilda,1,W,29,,,,,,,,,,,,,,,,,,,,,,,,1913-03-01
+South Melbourne,1913,2,Essendon,4,W,29,,,,,1,,,,,,,,,,,,,,,,,,,1913-03-22
+South Melbourne,1913,3,Geelong,5,W,29,,,,,,,,,,,,,,,,,,,,,,,,1913-03-29
+South Melbourne,1913,4,Melbourne,6,W,29,,,,,,,,,,,,,,,,,,,,,,,,1913-04-05
+South Melbourne,1913,5,Fitzroy,7,L,29,,,,,1,,,,,,,,,,,,,,,,,,,1913-04-12
+South Melbourne,1913,6,University,8,W,29,,,,,1,,,,,,,,,,,,,,,,,,,1913-04-19
+South Melbourne,1913,7,Collingwood,9,W,29,,,,,,,,,,,,,,,,,,,,,,,,1913-04-26
+South Melbourne,1913,8,St Kilda,10,W,29,,,,,,,,,,,,,,,,,,,,,,,,1913-05-03
+South Melbourne,1913,9,Carlton,11,W,29,,,,,2,,,,,,,,,,,,,,,,,,,1913-05-10
+South Melbourne,1913,10,Richmond,12,W,29,,,,,,,,,,,,,,,,,,,,,,,,1913-05-17
+South Melbourne,1913,11,Essendon,13,L,29,,,,,1,,,,,,,,,,,,,,,,,,,1913-05-24
+South Melbourne,1913,12,Geelong,14,W,29,,,,,1,,,,,,,,,,,,,,,,,,,1913-05-31
+South Melbourne,1913,13,Melbourne,15,W,29,,,,,,,,,,,,,,,,,,,,,,,,1913-06-07
+South Melbourne,1913,14,Fitzroy,16,L,29,,,,,1,,,,,,,,,,,,,,,,,,,1913-06-14
+South Melbourne,1913,15,University,17,W,29,,,,,2,,,,,,,,,,,,,,,,,,,1913-06-21
+South Melbourne,1913,16,Collingwood,18,W,29,,,,,3,,,,,,,,,,,,,,,,,,,1913-06-28
+South Melbourne,1913,17,St Kilda,SF,L,29,,,,,,,,,,,,,,,,,,,,,,,,1913-03-01
+Essendon,1914,18,St Kilda,3,W,3,,,,,2,,,,,,,,,,,,,,,,,,,1914-03-15
+Essendon,1914,19,Richmond,4,W,3,,,,,,,,,,,,,,,,,,,,,,,,1914-03-22
+Essendon,1914,20,Melbourne,5,W,3,,,,,,,,,,,,,,,,,,,,,,,,1914-03-29
+Essendon,1914,21,South Melbourne,6,L,3,,,,,,,,,,,,,,,,,,,,,,,,1914-04-05
+Essendon,1914,22,Collingwood,7,L,3,,,,,,,,,,,,,,,,,,,,,,,,1914-04-12
+Essendon,1914,23,Carlton,8,L,3,,,,,,,,,,,,,,,,,,,,,,,,1914-04-19
+Essendon,1914,24,Fitzroy,9,L,3,,,,,,,,,,,,,,,,,,,,,,,,1914-04-26
+Essendon,1914,25,Geelong,10,W,3,,,,,1,,,,,,,,,,,,,,,,,,,1914-05-03
+Essendon,1914,26,University,11,W,3,,,,,2,,,,,,,,,,,,,,,,,,,1914-05-10
+Essendon,1914,27,St Kilda,12,D,3,,,,,1,,,,,,,,,,,,,,,,,,,1914-05-17
+Essendon,1914,28,Richmond,13,L,3,,,,,,,,,,,,,,,,,,,,,,,,1914-05-24
+Essendon,1914,29,Melbourne,14,W,3,,,,,,,,,,,,,,,,,,,,,,,,1914-05-31
+Essendon,1914,30,South Melbourne,15,W,3,,,,,2,,,,,,,,,,,,,,,,,,,1914-06-07
+Essendon,1914,31,Collingwood,16,L,3,,,,,,,,,,,,,,,,,,,,,,,,1914-06-14
+Essendon,1914,32,Carlton,17,L,3,,,,,,,,,,,,,,,,,,,,,,,,1914-06-21
+Essendon,1914,33,Fitzroy,18,W,3,,,,,2,,,,,,,,,,,,,,,,,,,1914-06-28
+Essendon,1915,34,Collingwood,1,L,3,,,,,,,,,,,,,,,,,,,,,,,,1915-03-01
+Essendon,1915,35,Fitzroy,3,L,3,,,,,2,,,,,,,,,,,,,,,,,,,1915-03-15
+Essendon,1915,36,South Melbourne,6,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1915-04-05
+Essendon,1915,37,Geelong,7,L,3,,,,,,,,,,,,,,,,,,,,,,,,1915-04-12
+Essendon,1915,38,Melbourne,8,L,3,,,,,,,,,,,,,,,,,,,,,,,,1915-04-19
+Essendon,1915,39,Richmond,9,L,3,,,,,,,,,,,,,,,,,,,,,,,,1915-04-26
+Essendon,1915,40,Collingwood,10,L,3,,,,,,,,,,,,,,,,,,,,,,,,1915-05-03

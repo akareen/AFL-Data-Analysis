@@ -1,0 +1,23 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1918,1,Fitzroy,1,W,10,,,,,,,,,,,,,,,,,,,,,,,,1918-03-01
+St Kilda,1918,2,Essendon,2,L,10,,,,,1,,,,,,,,,,,,,,,,,,,1918-03-08
+St Kilda,1918,3,Carlton,3,L,10,,,,,,,,,,,,,,,,,,,,,,,,1918-03-15
+St Kilda,1918,4,South Melbourne,4,W,10,,,,,,,,,,,,,,,,,,,,,,,,1918-03-22
+St Kilda,1918,5,Collingwood,5,L,10,,,,,1,,,,,,,,,,,,,,,,,,,1918-03-29
+St Kilda,1918,6,Richmond,6,W,10,,,,,1,,,,,,,,,,,,,,,,,,,1918-04-05
+St Kilda,1918,7,Geelong,7,W,10,,,,,1,,,,,,,,,,,,,,,,,,,1918-04-12
+St Kilda,1918,8,Fitzroy,8,L,10,,,,,,,,,,,,,,,,,,,,,,,,1918-04-19
+St Kilda,1918,9,Essendon,9,W,10,,,,,,,,,,,,,,,,,,,,,,,,1918-04-26
+St Kilda,1918,10,Carlton,10,W,10,,,,,,,,,,,,,,,,,,,,,,,,1918-05-03
+St Kilda,1918,11,South Melbourne,11,L,10,,,,,2,,,,,,,,,,,,,,,,,,,1918-05-10
+St Kilda,1918,12,Collingwood,12,W,10,,,,,,,,,,,,,,,,,,,,,,,,1918-05-17
+St Kilda,1918,13,Richmond,13,W,10,,,,,,,,,,,,,,,,,,,,,,,,1918-05-24
+St Kilda,1918,14,Geelong,14,L,10,,,,,,,,,,,,,,,,,,,,,,,,1918-05-31
+St Kilda,1918,15,Collingwood,SF,L,10,,,,,,,,,,,,,,,,,,,,,,,,1918-03-01
+St Kilda,1919,16,Melbourne,1,W,10,,,,,1,,,,,,,,,,,,,,,,,,,1919-03-01
+St Kilda,1919,17,South Melbourne,12,L,10,,,,,,,,,,,,,,,,,,,,,,,,1919-05-17
+St Kilda,1919,18,Essendon,13,W,10,,,,,,,,,,,,,,,,,,,,,,,,1919-05-24
+St Kilda,1919,19,Geelong,14,W,10,,,,,,,,,,,,,,,,,,,,,,,,1919-05-31
+St Kilda,1919,20,Carlton,15,L,10,,,,,,,,,,,,,,,,,,,,,,,,1919-06-07
+St Kilda,1919,21,Richmond,16,L,10,,,,,,,,,,,,,,,,,,,,,,,,1919-06-14
+St Kilda,1919,22,Fitzroy,17,L,10,,,,,,,,,,,,,,,,,,,,,,,,1919-06-21

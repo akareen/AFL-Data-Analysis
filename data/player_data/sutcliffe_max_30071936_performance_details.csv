@@ -1,0 +1,25 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1955,1,Fitzroy,4,W,31,,,,,,,,,,,,,,,,,,,,,,,,1955-03-22
+Geelong,1955,2,Footscray,5,W,31,,,,,1,,,,,,,,,,,,,,,,,,,1955-03-29
+Geelong,1955,3,St Kilda,6,W,31,,,,,,,,,,,,,,,,,,,,,,,,1955-04-05
+Geelong,1955,4,Carlton,7,W,31,,,,,2,,,,,,,,,,,,,,,,,,,1955-04-12
+Geelong,1955,5,Collingwood,8,L,31,,,,,,,,,,,,,,,,,,,,,,,,1955-04-19
+Geelong,1955,6,North Melbourne,9,W,31,,,,,,,,,,,,,,,,,,,,,,,,1955-04-26
+Geelong,1955,7,Hawthorn,11,W,31,,,,,2,,,,,,,,,,,,,,,,,,,1955-05-10
+Geelong,1955,8,South Melbourne,12,W,31,,,,,1,,,,,,,,,,,,,,,,,,,1955-05-17
+Geelong,1955,9,Melbourne,13,W,31,,,,,,,,,,,,,,,,,,,,,,,,1955-05-24
+Geelong,1955,10,Richmond,14,L,31,,,,,2,,,,,,,,,,,,,,,,,,,1955-05-31
+Geelong,1955,11,Fitzroy,15,W,31,,,,,,,,,,,,,,,,,,,,,,,,1955-06-07
+Geelong,1955,12,Footscray,16,W,31,,,,,,,,,,,,,,,,,,,,,,,,1955-06-14
+Geelong,1955,13,St Kilda,17,W,31,,,,,,,,,,,,,,,,,,,,,,,,1955-06-21
+Geelong,1955,14,Essendon,SF,W,31,,,,,1,,,,,,,,,,,,,,,,,,,1955-03-01
+Geelong,1955,15,Collingwood,PF,L,31,,,,,2,,,,,,,,,,,,,,,,,,,1955-03-01
+Geelong,1956,16,South Melbourne,1,W,31,,,,,,,,,,,,,,,,,,,,,,,,1956-03-01
+Geelong,1956,17,North Melbourne,2,W,31,,,,,,,,,,,,,,,,,,,,,,,,1956-03-08
+Geelong,1956,18,Collingwood,6,L,31,,,,,,,,,,,,,,,,,,,,,,,,1956-04-05
+Geelong,1956,19,Hawthorn,14,W,31,,,,,,,,,,,,,,,,,,,,,,,,1956-05-31
+Geelong,1956,20,Richmond,15,W,31,,,,,,,,,,,,,,,,,,,,,,,,1956-06-07
+Geelong,1956,21,Melbourne,16,W,31,,,,,,,,,,,,,,,,,,,,,,,,1956-06-14
+Geelong,1956,22,Collingwood,17,L,31,,,,,1,,,,,,,,,,,,,,,,,,,1956-06-21
+Geelong,1956,23,Essendon,18,L,31,,,,,,,,,,,,,,,,,,,,,,,,1956-06-28
+Geelong,1956,24,Footscray,SF,L,31,,,,,1,,,,,,,,,,,,,,,,,,,1956-03-01

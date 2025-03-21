@@ -1,0 +1,45 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1942,1,South Melbourne,2,L,9,,,,,,,,,,,,,,,,,,,,,,,,1942-03-08
+Carlton,1942,2,Fitzroy,4,W,9,,,,,,,,,,,,,,,,,,,,,,,,1942-03-22
+Carlton,1942,3,Richmond,5,L,9,,,,,,,,,,,,,,,,,,,,,,,,1942-03-29
+Carlton,1942,4,North Melbourne,6,W,9,,,,,,,,,,,,,,,,,,,,,,,,1942-04-05
+Carlton,1942,5,Footscray,7,L,9,,,,,,,,,,,,,,,,,,,,,,,,1942-04-12
+Carlton,1942,6,St Kilda,8,W,9,,,,,,,,,,,,,,,,,,,,,,,,1942-04-19
+Carlton,1942,7,Hawthorn,9,W,9,,,,,,,,,,,,,,,,,,,,,,,,1942-04-26
+Carlton,1942,8,Melbourne,10,W,9,,,,,,,,,,,,,,,,,,,,,,,,1942-05-03
+Carlton,1942,9,Collingwood,11,W,9,,,,,,,,,,,,,,,,,,,,,,,,1942-05-10
+Carlton,1942,10,South Melbourne,13,W,9,,,,,,,,,,,,,,,,,,,,,,,,1942-05-24
+Carlton,1942,11,Essendon,14,W,9,,,,,,,,,,,,,,,,,,,,,,,,1942-05-31
+Carlton,1942,12,Fitzroy,15,W,9,,,,,,,,,,,,,,,,,,,,,,,,1942-06-07
+Carlton,1942,13,Richmond,16,W,9,,,,,,,,,,,,,,,,,,,,,,,,1942-06-14
+Carlton,1943,14,Richmond,1,W,9,,,,,,,,,,,,,,,,,,,,,,,,1943-03-01
+Carlton,1943,15,Footscray,2,W,9,,,,,,,,,,,,,,,,,,,,,,,,1943-03-08
+Carlton,1943,16,St Kilda,5,L,9,,,,,,,,,,,,,,,,,,,,,,,,1943-03-29
+Carlton,1943,17,Essendon,6,L,9,,,,,,,,,,,,,,,,,,,,,,,,1943-04-05
+Carlton,1943,18,Melbourne,7,L,9,,,,,,,,,,,,,,,,,,,,,,,,1943-04-12
+Carlton,1943,19,Fitzroy,8,W,9,,,,,,,,,,,,,,,,,,,,,,,,1943-04-19
+Carlton,1943,20,South Melbourne,9,W,9,,,,,,,,,,,,,,,,,,,,,,,,1943-04-26
+Carlton,1943,21,Hawthorn,10,W,9,,,,,,,,,,,,,,,,,,,,,,,,1943-05-03
+Carlton,1943,22,North Melbourne,11,L,9,,,,,,,,,,,,,,,,,,,,,,,,1943-05-10
+Carlton,1943,23,Collingwood,12,W,9,,,,,,,,,,,,,,,,,,,,,,,,1943-05-17
+Carlton,1943,24,Hawthorn,13,W,9,,,,,,,,,,,,,,,,,,,,,,,,1943-05-24
+Carlton,1943,25,North Melbourne,15,W,9,,,,,,,,,,,,,,,,,,,,,,,,1943-06-07
+Carlton,1943,26,Fitzroy,16,L,9,,,,,,,,,,,,,,,,,,,,,,,,1943-06-14
+Carlton,1944,27,South Melbourne,1,L,9,,,,,,,,,,,,,,,,,,,,,,,,1944-03-01
+Carlton,1944,28,Hawthorn,2,W,9,,,,,,,,,,,,,,,,,,,,,,,,1944-03-08
+Carlton,1944,29,Melbourne,3,W,9,,,,,,,,,,,,,,,,,,,,,,,,1944-03-15
+Carlton,1944,30,Essendon,4,W,9,,,,,,,,,,,,,,,,,,,,,,,,1944-03-22
+Carlton,1944,31,Richmond,5,W,9,,,,,,,,,,,,,,,,,,,,,,,,1944-03-29
+Carlton,1944,32,Geelong,6,W,9,,,,,,,,,,,,,,,,,,,,,,,,1944-04-05
+Carlton,1944,33,St Kilda,7,W,9,,,,,,,,,,,,,,,,,,,,,,,,1944-04-12
+Carlton,1944,34,Collingwood,8,W,9,,,,,,,,,,,,,,,,,,,,,,,,1944-04-19
+Carlton,1944,35,North Melbourne,9,L,9,,,,,,,,,,,,,,,,,,,,,,,,1944-04-26
+Carlton,1944,36,Fitzroy,10,W,9,,,,,,,,,,,,,,,,,,,,,,,,1944-05-03
+Carlton,1944,37,Footscray,11,L,9,,,,,,,,,,,,,,,,,,,,,,,,1944-05-10
+Carlton,1944,38,South Melbourne,12,W,9,,,,,,,,,,,,,,,,,,,,,,,,1944-05-17
+Carlton,1944,39,Hawthorn,13,W,9,,,,,,,,,,,,,,,,,,,,,,,,1944-05-24
+Carlton,1944,40,Melbourne,14,L,9,,,,,,,,,,,,,,,,,,,,,,,,1944-05-31
+Carlton,1944,41,Essendon,15,W,9,,,,,,,,,,,,,,,,,,,,,,,,1944-06-07
+Carlton,1944,42,Richmond,16,L,9,,,,,,,,,,,,,,,,,,,,,,,,1944-06-14
+Carlton,1944,43,Geelong,17,W,9,,,,,,,,,,,,,,,,,,,,,,,,1944-06-21
+Carlton,1944,44,Footscray,18,L,9,,,,,,,,,,,,,,,,,,,,,,,,1944-06-28

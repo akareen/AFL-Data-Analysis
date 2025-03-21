@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1943,1,Essendon,4,L,32,,,,,,,,,,,,,,,,,,,,,,,,1943-03-22
+Richmond,1943,2,Melbourne,5,W,32,,,,,,,,,,,,,,,,,,,,,,,,1943-03-29
+Richmond,1943,3,South Melbourne,7,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1943-04-12
+Richmond,1943,4,Hawthorn,8,W,32,,,,,,,,,,,,,,,,,,,,,,,,1943-04-19
+Richmond,1943,5,North Melbourne,9,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1943-04-26
+Richmond,1943,6,Footscray,13,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1943-05-24
+Richmond,1943,7,Hawthorn,14,L,32,,,,,,,,,,,,,,,,,,,,,,,,1943-05-31
+Richmond,1945,8,Footscray,1,L,16,,,,,,,,,,,,,,,,,,,,,,,,1945-03-01

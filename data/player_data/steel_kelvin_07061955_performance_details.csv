@@ -1,0 +1,26 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1974,1,Essendon,4,W,33,,,,,,,,,,,,,,,,,,,,,,,,1974-03-22
+Hawthorn,1974,2,Footscray,5,L,33,1,,,1,,,,,,,,,,,,,,,,,,,,1974-03-29
+Hawthorn,1974,3,Melbourne,19,W,33,1,,,1,,,,,,,,,,1,,,,,,,,,,1974-07-05
+Hawthorn,1974,4,North Melbourne,PF,L,33,5,1,6,11,,,,,,,,,1,4,,,,,,,,,,1974-03-01
+Hawthorn,1975,5,St Kilda,13,W,33,1,,1,2,,,,,,,,,1,1,,,,,,,,,,1975-05-24
+Hawthorn,1975,6,Fitzroy,18,L,33,8,3,2,10,,,,,,,,,,4,,,,,,,,,,1975-06-28
+Hawthorn,1976,7,Carlton,6,L,33,12,2,2,14,,,,,,,,,,5,,,,,,,,,,1976-04-05
+Hawthorn,1976,8,Melbourne,7,W,33,8,1,8,16,1,,,,,,,,,6,,,,,,,,,,1976-04-12
+Hawthorn,1976,9,South Melbourne,8,W,33,16,,4,20,1,,,,,,,,2,2,,,,,,,,,,1976-04-19
+Hawthorn,1976,10,Fitzroy,9,W,33,12,3,10,22,,2,,,,,,,3,2,,,,,,,,,,1976-04-26
+Hawthorn,1976,11,Richmond,10,W,33,5,,1,6,,1,,,,,,,1,2,,,,,,,,,,1976-05-03
+Hawthorn,1977,12,Geelong,15,W,33,3,,1,4,1,,,,,,,,1,,,,,,,,,,,1977-06-07
+Hawthorn,1977,13,Fitzroy,16,W,33,1,1,,1,,,,,,,,,,,,,,,,,,,,1977-06-14
+Hawthorn,1977,14,Footscray,18,W,33,,,,,,,,,,,,,,,,,,,,,,,,1977-06-28
+Hawthorn,1977,15,South Melbourne,19,L,33,3,2,1,4,,,,,,,,,,1,,,,,,,,,,1977-07-05
+Hawthorn,1977,16,Collingwood,20,W,33,4,1,1,5,,,,,,,,,,1,,,,,,,,,,1977-07-12
+Hawthorn,1977,17,Melbourne,21,W,33,12,2,9,21,,,,,,,,,2,2,,,,,,,,,,1977-07-19
+Hawthorn,1977,18,Essendon,22,W,33,,,,,,,,,,,,,,,,,,,,,,,,1977-07-26
+Hawthorn,1977,19,North Melbourne,PF,L,33,4,,2,6,,,,,,,,,1,,,,,,,,,,,1977-03-01
+Essendon,1979,20,Footscray,14,W,20,3,,1,4,,,,,,,,,1,,,,,,,,,,,1979-05-31
+Essendon,1979,21,Fitzroy,16,L,20,4,,3,7,,,,,,,,,,1,,,,,,,,,,1979-06-14
+Essendon,1979,22,Collingwood,17,L,20,6,,2,8,,,,,,,,,2,3,,,,,,,,,,1979-06-21
+Essendon,1979,23,Geelong,19,W,20,9,2,7,16,,1,,,,,,,2,5,,,,,,,,,,1979-07-05
+Essendon,1979,24,Hawthorn,20,L,20,7,3,6,13,,,,,,,,,2,3,,,,,,,,,,1979-07-12
+Essendon,1979,25,South Melbourne,21,W,20,7,2,4,11,,2,,,,,,,1,3,,,,,,,,,,1979-07-19

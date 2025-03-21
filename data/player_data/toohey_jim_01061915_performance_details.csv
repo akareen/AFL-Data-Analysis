@@ -1,0 +1,36 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1935,1,St Kilda,12,L,10,,,,,,,,,,,,,,,,,,,,,,,,1935-05-17
+Fitzroy,1935,2,Collingwood,13,L,10,,,,,1,,,,,,,,,,,,,,,,,,,1935-05-24
+Fitzroy,1935,3,Footscray,14,W,10,,,,,2,,,,,,,,,,,,,,,,,,,1935-05-31
+Fitzroy,1935,4,North Melbourne,15,W,10,,,,,3,,,,,,,,,,,,,,,,,,,1935-06-07
+Fitzroy,1935,5,Richmond,16,L,10,,,,,,,,,,,,,,,,,,,,,,,,1935-06-14
+Fitzroy,1935,6,South Melbourne,17,L,10,,,,,1,,,,,,,,,,,,,,,,,,,1935-06-21
+Fitzroy,1935,7,Hawthorn,18,L,10,,,,,2,,,,,,,,,,,,,,,,,,,1935-06-28
+Fitzroy,1936,8,Carlton,1,L,10,,,,,,,,,,,,,,,,,,,,,,,,1936-03-01
+Fitzroy,1936,9,Melbourne,2,L,10,,,,,1,,,,,,,,,,,,,,,,,,,1936-03-08
+Fitzroy,1936,10,Footscray,4,L,10,,,,,,,,,,,,,,,,,,,,,,,,1936-03-22
+Fitzroy,1936,11,Geelong,5,W,10,,,,,,,,,,,,,,,,,,,,,,,,1936-03-29
+Fitzroy,1936,12,Essendon,6,L,10,,,,,3,,,,,,,,,,,,,,,,,,,1936-04-05
+Fitzroy,1936,13,South Melbourne,7,L,10,,,,,1,,,,,,,,,,,,,,,,,,,1936-04-12
+Fitzroy,1936,14,Richmond,8,L,10,,,,,,,,,,,,,,,,,,,,,,,,1936-04-19
+Fitzroy,1936,15,Hawthorn,9,L,10,,,,,,,,,,,,,,,,,,,,,,,,1936-04-26
+Fitzroy,1936,16,North Melbourne,10,L,10,,,,,,,,,,,,,,,,,,,,,,,,1936-05-03
+Fitzroy,1936,17,St Kilda,11,L,10,,,,,,,,,,,,,,,,,,,,,,,,1936-05-10
+Fitzroy,1936,18,Carlton,12,L,10,,,,,,,,,,,,,,,,,,,,,,,,1936-05-17
+Fitzroy,1936,19,Melbourne,13,W,10,,,,,,,,,,,,,,,,,,,,,,,,1936-05-24
+Fitzroy,1936,20,Collingwood,14,L,10,,,,,,,,,,,,,,,,,,,,,,,,1936-05-31
+Fitzroy,1936,21,Footscray,15,L,10,,,,,1,,,,,,,,,,,,,,,,,,,1936-06-07
+Fitzroy,1938,22,Melbourne,3,L,24,,,,,3,,,,,,,,,,,,,,,,,,,1938-03-15
+Fitzroy,1938,23,Carlton,4,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1938-03-22
+Fitzroy,1938,24,Geelong,5,L,24,,,,,3,,,,,,,,,,,,,,,,,,,1938-03-29
+Fitzroy,1938,25,Essendon,6,W,24,,,,,2,,,,,,,,,,,,,,,,,,,1938-04-05
+Fitzroy,1938,26,Richmond,7,L,24,,,,,,,,,,,,,,,,,,,,,,,,1938-04-12
+Fitzroy,1938,27,Hawthorn,8,W,24,,,,,1,,,,,,,,,,,,,,,,,,,1938-04-19
+Fitzroy,1938,28,South Melbourne,9,W,24,,,,,,,,,,,,,,,,,,,,,,,,1938-04-26
+Fitzroy,1938,29,North Melbourne,10,W,24,,,,,,,,,,,,,,,,,,,,,,,,1938-05-03
+Fitzroy,1938,30,St Kilda,11,L,24,,,,,3,,,,,,,,,,,,,,,,,,,1938-05-10
+Fitzroy,1938,31,Footscray,13,L,24,,,,,,,,,,,,,,,,,,,,,,,,1938-05-24
+Fitzroy,1938,32,Melbourne,14,L,24,,,,,,,,,,,,,,,,,,,,,,,,1938-05-31
+Fitzroy,1938,33,Carlton,15,L,24,,,,,,,,,,,,,,,,,,,,,,,,1938-06-07
+Fitzroy,1938,34,Geelong,16,L,24,,,,,4,,,,,,,,,,,,,,,,,,,1938-06-14
+Fitzroy,1938,35,Essendon,17,L,24,,,,,,,,,,,,,,,,,,,,,,,,1938-06-21

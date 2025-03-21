@@ -1,0 +1,35 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1947,1,Hawthorn,16,W,30,,,,,,,,,,,,,,,,,,,,,,,,1947-06-14
+Richmond,1947,2,Geelong,17,L,30,,,,,,,,,,,,,,,,,,,,,,,,1947-06-21
+Richmond,1947,3,Collingwood,18,W,30,,,,,,,,,,,,,,,,,,,,,,,,1947-06-28
+Richmond,1947,4,South Melbourne,19,W,30,,,,,1,,,,,,,,,,,,,,,,,,,1947-07-05
+Richmond,1947,5,Fitzroy,SF,L,30,,,,,2,,,,,,,,,,,,,,,,,,,1947-03-01
+Richmond,1948,6,South Melbourne,1,L,30,,,,,,,,,,,,,,,,,,,,,,,,1948-03-01
+Richmond,1948,7,Footscray,2,W,30,,,,,,,,,,,,,,,,,,,,,,,,1948-03-08
+Richmond,1948,8,South Melbourne,12,W,30,,,,,1,,,,,,,,,,,,,,,,,,,1948-05-17
+Richmond,1949,9,North Melbourne,14,L,30,,,,,1,,,,,,,,,,,,,,,,,,,1949-05-31
+Richmond,1949,10,St Kilda,15,L,30,,,,,,,,,,,,,,,,,,,,,,,,1949-06-07
+Richmond,1949,11,Essendon,16,L,30,,,,,,,,,,,,,,,,,,,,,,,,1949-06-14
+Richmond,1949,12,South Melbourne,17,W,30,,,,,1,,,,,,,,,,,,,,,,,,,1949-06-21
+Richmond,1949,13,Fitzroy,18,W,30,,,,,1,,,,,,,,,,,,,,,,,,,1949-06-28
+Richmond,1949,14,Geelong,19,W,30,,,,,,,,,,,,,,,,,,,,,,,,1949-07-05
+Richmond,1950,15,North Melbourne,1,L,30,,,,,2,,,,,,,,,,,,,,,,,,,1950-03-01
+Richmond,1950,16,Melbourne,2,L,30,,,,,,,,,,,,,,,,,,,,,,,,1950-03-08
+Richmond,1950,17,Fitzroy,3,W,30,,,,,3,,,,,,,,,,,,,,,,,,,1950-03-15
+Richmond,1950,18,Carlton,4,L,30,,,,,3,,,,,,,,,,,,,,,,,,,1950-03-22
+Richmond,1950,19,Essendon,5,L,30,,,,,1,,,,,,,,,,,,,,,,,,,1950-03-29
+Richmond,1950,20,Collingwood,6,W,30,,,,,,,,,,,,,,,,,,,,,,,,1950-04-05
+Richmond,1950,21,St Kilda,9,W,30,,,,,,,,,,,,,,,,,,,,,,,,1950-04-26
+Richmond,1950,22,South Melbourne,10,L,30,,,,,,,,,,,,,,,,,,,,,,,,1950-05-03
+Richmond,1950,23,Footscray,11,W,30,,,,,,,,,,,,,,,,,,,,,,,,1950-05-10
+Richmond,1950,24,Melbourne,13,L,30,,,,,,,,,,,,,,,,,,,,,,,,1950-05-24
+Richmond,1950,25,Fitzroy,14,L,30,,,,,,,,,,,,,,,,,,,,,,,,1950-05-31
+Richmond,1950,26,Carlton,15,W,30,,,,,,,,,,,,,,,,,,,,,,,,1950-06-07
+Richmond,1950,27,Essendon,16,L,30,,,,,,,,,,,,,,,,,,,,,,,,1950-06-14
+Richmond,1951,28,South Melbourne,2,W,30,,,,,,,,,,,,,,,,,,,,,,,,1951-03-08
+Richmond,1951,29,Carlton,3,W,30,,,,,,,,,,,,,,,,,,,,,,,,1951-03-15
+Richmond,1951,30,Melbourne,7,W,30,,,,,,,,,,,,,,,,,,,,,,,,1951-04-12
+Richmond,1951,31,Fitzroy,8,L,30,,,,,,,,,,,,,,,,,,,,,,,,1951-04-19
+Richmond,1951,32,Geelong,9,L,30,,,,,,,,,,,,,,,,,,,,,,,,1951-04-26
+Richmond,1951,33,Essendon,10,L,30,,,,,,,,,,,,,,,,,,,,,,,,1951-05-03
+Richmond,1951,34,North Melbourne,11,L,30,,,,,1,,,,,,,,,,,,,,,,,,,1951-05-10

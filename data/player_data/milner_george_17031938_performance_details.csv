@@ -1,0 +1,16 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1960,1,North Melbourne,1,W,32,,,,,,,,,,,,,,,,,,,,,,,,1960-03-01
+Melbourne,1960,2,St Kilda,2,W,32,,,,,,,,,,,,,,,,,,,,,,,,1960-03-08
+Melbourne,1960,3,South Melbourne,3,W,32,,,,,,,,,,,,,,,,,,,,,,,,1960-03-15
+Melbourne,1960,4,Hawthorn,5,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1960-03-29
+Melbourne,1960,5,Richmond,6,W,32,,,,,,,,,,,,,,,,,,,,,,,,1960-04-05
+Melbourne,1961,6,Essendon,3,W,32,,,,,,,,,,,,,,,,,,,,,,,,1961-03-15
+Melbourne,1961,7,South Melbourne,9,W,32,,,,,,,,,,,,,,,,,,,,,,,,1961-04-26
+Melbourne,1961,8,North Melbourne,10,W,32,,,,,,,,,,,,,,,,,,,,,,,,1961-05-03
+Melbourne,1961,9,Richmond,11,W,32,,,,,,,,,,,,,,,,,,,,,,,,1961-05-10
+Melbourne,1961,10,Fitzroy,12,D,32,,,,,,,,,,,,,,,,,,,,,,,,1961-05-17
+Melbourne,1961,11,Hawthorn,13,L,32,,,,,,,,,,,,,,,,,,,,,,,,1961-05-24
+Melbourne,1961,12,Essendon,14,L,32,,,,,,,,,,,,,,,,,,,,,,,,1961-05-31
+Melbourne,1961,13,St Kilda,15,L,32,,,,,,,,,,,,,,,,,,,,,,,,1961-06-07
+Melbourne,1961,14,Footscray,17,W,32,,,,,,,,,,,,,,,,,,,,,,,,1961-06-21
+Melbourne,1961,15,Carlton,18,W,32,,,,,,,,,,,,,,,,,,,,,,,,1961-06-28

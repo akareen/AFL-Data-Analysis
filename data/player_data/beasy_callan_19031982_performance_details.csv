@@ -1,0 +1,14 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,2002,1,St Kilda,16,L,42,3,6,4,7,,,12,1,,,,,,,,1,6,1,,1,,,,2002-06-14
+Carlton,2002,2,Sydney,17,L,42,4,2,3,7,,,4,,2,,2,3,,3,,3,4,,,4,,,,2002-06-21
+Carlton,2002,3,Collingwood,18,L,42,5,3,1,6,,,11,,3,1,,2,,1,,3,3,,,2,,,,2002-06-28
+Carlton,2002,4,Port Adelaide,19,L,42,4,3,,4,,1,3,3,,2,,,,,,,4,,,4,,,,2002-07-05
+Carlton,2003,5,Sydney,16,L,42,7,5,1,8,2,,,2,,3,,1,1,,,6,2,3,2,3,,,61,2003-06-14
+Carlton,2003,6,Collingwood,17,L,42,1,1,1,2,,,,1,,1,,1,,1,,1,1,,,,,,50,2003-06-21
+Carlton,2003,7,Essendon,18,L,42,2,2,3,5,,,,2,,2,,,1,,,5,2,1,,3,,,69,2003-06-28
+Carlton,2003,8,Port Adelaide,19,L,42,8,3,,8,1,1,,6,,4,1,4,3,4,,5,3,1,,1,,,86,2003-07-05
+Carlton,2003,9,St Kilda,20,L,42,4,1,2,6,2,,15,1,,1,1,2,2,1,,5,1,,,,,,100,2003-07-12
+Carlton,2003,10,Hawthorn,21,L,42,3,1,2,5,1,,3,2,,1,,4,,2,,3,2,,1,2,,,58,2003-07-19
+Carlton,2004,11,Hawthorn,12,W,42,2,2,,2,,,6,1,,,,1,,1,,,2,,,1,,,28,2004-05-17
+Carlton,2004,12,Richmond,13,W,42,2,1,1,3,,,1,2,,1,,1,,1,,1,2,,,,,,17,2004-05-24
+Carlton,2004,13,Sydney,14,L,42,1,1,,1,,1,,1,,,,,,,,1,,1,1,1,,,28,2004-05-31

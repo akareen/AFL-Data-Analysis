@@ -1,0 +1,26 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,2017,1,Greater Western Sydney,15,D,37,7,4,6,13,,,,2,,3,,2,,2,,1,11,,,1,,,68,2017-06-07
+Geelong,2017,2,Hawthorn,17,W,37,5,2,7,12,1,,,1,1,1,2,,,,,5,7,,1,1,,,68,2017-06-21
+Geelong,2017,3,Sydney,20,L,37,8,3,5,13,,1,,1,,3,,,1,,,7,6,,1,,,,72,2017-07-12
+Geelong,2017,4,Richmond,21,W,37,3,1,4,7,1,,,,1,,,,,,,3,4,,,,,,68,2017-07-19
+Geelong,2017,5,Collingwood,22,W,37,3,2,8,11,,,,1,,,,3,1,2,,3,9,,1,,,,66,2017-07-26
+Geelong,2018,6,Adelaide,17,L,37,3,3,4,7,,,,2,,1,,1,,1,,,7,,,,,1,68,2018-06-21
+Geelong,2020,7,Brisbane Lions,6,W,37,12,6,15,27,,,,5,2,1,2,3,1,1,,13,14,,1,,,,82,2020-04-05
+Geelong,2020,8,Collingwood,7,L,37,9,3,3,12,1,,,3,1,1,1,1,2,,,4,5,,,,,,78,2020-04-12
+Geelong,2020,9,Fremantle,8,W,37,6,1,7,13,,,,4,,,2,5,1,2,,9,4,,,1,,,74,2020-04-19
+Geelong,2020,10,West Coast,9,L,37,6,2,5,11,1,1,,2,,,2,,,,,4,7,,1,,,1,71,2020-04-26
+Geelong,2020,11,North Melbourne,10,W,37,6,2,6,12,1,,,3,1,1,,2,1,2,,3,7,,,1,1,,80,2020-05-03
+Geelong,2020,12,Port Adelaide,12,W,37,5,3,4,9,,1,,1,,,,2,,1,,3,6,,1,2,,,46,2020-05-17
+Geelong,2020,13,Collingwood,SF,W,37,7,4,9,16,,,,4,,2,2,2,2,1,,8,8,1,,,,1,80,2020-03-01
+Geelong,2020,14,Brisbane Lions,PF,W,37,6,2,8,14,,,,4,1,2,5,2,,1,,9,6,,,1,,,82,2020-03-01
+Geelong,2020,15,Richmond,GF,L,37,3,,9,12,,,,1,,2,2,1,,,,9,4,,,3,,,75,2020-03-01
+Geelong,2021,16↓,Richmond,8,W,37,5,2,7,12,,1,,2,1,,3,1,2,,,6,6,,1,2,,,40,2021-04-19
+Geelong,2021,17,St Kilda,22,W,37,9,5,9,18,1,1,,1,1,,4,3,2,2,,8,10,,1,1,,1,66,2021-07-26
+Geelong,2021,18,Melbourne,23,L,37,8,2,4,12,,,,2,,3,,2,,,,2,10,,,,,1,71,2021-08-02
+Geelong,2021,19,Port Adelaide,QF,L,37,6,4,5,11,1,,,3,1,3,2,2,,1,,3,8,,,2,,,76,2021-03-01
+Geelong,2023,20,Sydney,6,W,37,7,6,7,14,2,1,,1,,,,1,2,,,7,7,,3,1,1,,78,2023-04-05
+Geelong,2023,21,Essendon,7,W,37,7,2,3,10,2,1,,1,,3,,2,,1,,5,6,,1,1,,,75,2023-04-12
+Geelong,2023,22,Adelaide,8,W,37,5,2,4,9,2,1,,2,,2,,1,,1,,4,5,,1,,,1,80,2023-04-19
+Geelong,2023,23,Richmond,9,L,37,6,2,8,14,1,,,1,,1,1,1,,,,6,9,,1,1,,,83,2023-04-26
+Geelong,2023,24↓,Fremantle,10,L,37,1,,5,6,,,,2,,4,,1,,1,,1,5,,,,,,66,2023-05-03
+Geelong,2023,25↑,Western Bulldogs,12,W,37,,,2,2,,,,,,,,,,,,,2,,,,,,13,2023-05-17

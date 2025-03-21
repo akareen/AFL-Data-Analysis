@@ -1,0 +1,17 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1952,1,North Melbourne,7,L,25,,,,,,,,,,,,,,,,,,,,,,,,1952-04-12
+Hawthorn,1952,2,Carlton,8,L,25,,,,,,,,,,,,,,,,,,,,,,,,1952-04-19
+Hawthorn,1952,3,St Kilda,9,W,25,,,,,,,,,,,,,,,,,,,,,,,,1952-04-26
+Hawthorn,1952,4,Geelong,10,L,25,,,,,,,,,,,,,,,,,,,,,,,,1952-05-03
+Hawthorn,1952,5,Carlton,11,L,25,,,,,,,,,,,,,,,,,,,,,,,,1952-05-10
+Hawthorn,1952,6,Footscray,12,W,25,,,,,2,,,,,,,,,,,,,,,,,,,1952-05-17
+Hawthorn,1952,7,Collingwood,13,L,25,,,,,2,,,,,,,,,,,,,,,,,,,1952-05-24
+Hawthorn,1952,8,Richmond,14,L,25,,,,,,,,,,,,,,,,,,,,,,,,1952-05-31
+Hawthorn,1952,9,Melbourne,15,L,25,,,,,,,,,,,,,,,,,,,,,,,,1952-06-07
+Hawthorn,1952,10,South Melbourne,16,W,25,,,,,,,,,,,,,,,,,,,,,,,,1952-06-14
+Hawthorn,1952,11,Fitzroy,17,L,25,,,,,,,,,,,,,,,,,,,,,,,,1952-06-21
+Hawthorn,1952,12,Essendon,18,L,25,,,,,1,,,,,,,,,,,,,,,,,,,1952-06-28
+Hawthorn,1952,13,North Melbourne,19,L,25,,,,,,,,,,,,,,,,,,,,,,,,1952-07-05
+Hawthorn,1953,14,Geelong,1,L,2,,,,,,,,,,,,,,,,,,,,,,,,1953-03-01
+Hawthorn,1953,15,Footscray,3,L,2,,,,,2,,,,,,,,,,,,,,,,,,,1953-03-15
+Hawthorn,1953,16,South Melbourne,4,L,2,,,,,,,,,,,,,,,,,,,,,,,,1953-03-22

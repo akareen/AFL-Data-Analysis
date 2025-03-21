@@ -1,0 +1,25 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1909,1,Melbourne,2,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-08
+Essendon,1909,2,Geelong,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-15
+Essendon,1909,3,Fitzroy,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-29
+Essendon,1909,4,Collingwood,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-05
+Essendon,1909,5,South Melbourne,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-12
+Essendon,1909,6,Richmond,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-19
+Essendon,1909,7,Carlton,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-26
+Essendon,1909,8,St Kilda,10,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-05-03
+Essendon,1909,9,Melbourne,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-05-10
+Essendon,1909,10,Richmond,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-21
+Essendon,1909,11,Carlton,18,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-28
+Essendon,1909,12,Carlton,SF,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-01
+Essendon,1910,13,Collingwood,4,W,,,,,,1,,,,,,,,,,,,,,,,,,,1910-03-22
+Essendon,1910,14,St Kilda,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-29
+Essendon,1910,15,Melbourne,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-05
+Essendon,1910,16,Richmond,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-26
+Essendon,1910,17,South Melbourne,12,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-17
+Essendon,1910,18,Collingwood,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-24
+Essendon,1910,19,St Kilda,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-05-31
+Essendon,1910,20,Carlton,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1910-06-14
+Essendon,1910,21,Geelong,17,L,,,,,,4,,,,,,,,,,,,,,,,,,,1910-06-21
+Essendon,1910,22,Richmond,18,L,,,,,,1,,,,,,,,,,,,,,,,,,,1910-06-28
+Essendon,1910,23,Collingwood,SF,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-01
+Essendon,1911,24,Carlton,1,D,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-01

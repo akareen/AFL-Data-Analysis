@@ -1,0 +1,23 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Footscray,1953,1,South Melbourne,9,L,4,,,,,,,,,,,,,,,,,,,,,,,,1953-04-26
+Footscray,1953,2,North Melbourne,10,W,4,,,,,,,,,,,,,,,,,,,,,,,,1953-05-03
+Footscray,1953,3,Hawthorn,14,W,4,,,,,,,,,,,,,,,,,,,,,,,,1953-05-31
+Footscray,1954,4,South Melbourne,3,W,4,,,,,,,,,,,,,,,,,,,,,,,,1954-03-15
+Footscray,1954,5,Carlton,4,W,4,,,,,,,,,,,,,,,,,,,,,,,,1954-03-22
+Footscray,1954,6,North Melbourne,5,W,4,,,,,,,,,,,,,,,,,,,,,,,,1954-03-29
+Footscray,1954,7,Essendon,6,W,4,,,,,,,,,,,,,,,,,,,,,,,,1954-04-05
+Footscray,1954,8,Hawthorn,7,W,4,,,,,,,,,,,,,,,,,,,,,,,,1954-04-12
+Footscray,1954,9,St Kilda,12,W,4,,,,,,,,,,,,,,,,,,,,,,,,1954-05-17
+Footscray,1955,10,Fitzroy,17,W,4,,,,,1,,,,,,,,,,,,,,,,,,,1955-06-21
+Footscray,1956,11,Fitzroy,1,W,4,,,,,,,,,,,,,,,,,,,,,,,,1956-03-01
+Footscray,1956,12,St Kilda,2,W,4,,,,,,,,,,,,,,,,,,,,,,,,1956-03-08
+Footscray,1956,13,Melbourne,3,L,4,,,,,,,,,,,,,,,,,,,,,,,,1956-03-15
+Footscray,1956,14,Collingwood,4,L,4,,,,,,,,,,,,,,,,,,,,,,,,1956-03-22
+Footscray,1956,15,South Melbourne,5,W,4,,,,,,,,,,,,,,,,,,,,,,,,1956-03-29
+Footscray,1956,16,Hawthorn,6,L,4,,,,,,,,,,,,,,,,,,,,,,,,1956-04-05
+Footscray,1956,17,Geelong,10,W,4,,,,,,,,,,,,,,,,,,,,,,,,1956-05-03
+Footscray,1956,18,Fitzroy,12,W,4,,,,,,,,,,,,,,,,,,,,,,,,1956-05-17
+St Kilda,1957,19,South Melbourne,1,W,5,,,,,,,,,,,,,,,,,,,,,,,,1957-03-01
+St Kilda,1957,20,Footscray,2,L,5,,,,,,,,,,,,,,,,,,,,,,,,1957-03-08
+St Kilda,1957,21,Fitzroy,3,L,5,,,,,,,,,,,,,,,,,,,,,,,,1957-03-15
+St Kilda,1957,22,Collingwood,7,L,5,,,,,,,,,,,,,,,,,,,,,,,,1957-04-12

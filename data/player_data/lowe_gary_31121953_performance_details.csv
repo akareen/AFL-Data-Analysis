@@ -1,0 +1,9 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1974,1,Hawthorn,4,L,37,2,1,,2,,,,,,,,,1,,,,,,,,,,,1974-03-22
+Essendon,1974,2,Fitzroy,8,L,37,,,,,,,,,,,,,,,,,,,,,,,,1974-04-19
+Essendon,1974,3,North Melbourne,9,W,37,8,3,2,10,,,,,,,,,2,3,,,,,,,,,,1974-04-26
+Essendon,1974,4,Carlton,10,L,37,4,3,2,6,,,,,,,,,,2,,,,,,,,,,1974-05-03
+Essendon,1974,5,Melbourne,11,W,37,5,1,,5,,,,,,,,,2,,,,,,,,,,,1974-05-10
+Essendon,1974,6,Collingwood,12,L,37,1,,,1,,1,,,,,,,,,,,,,,,,,,1974-05-17
+Essendon,1974,7,North Melbourne,20,L,37,,,,,,,,,,,,,,,,,,,,,,,,1974-07-12
+Essendon,1974,8,Melbourne,22,W,37,3,,2,5,,,,,,,,,,2,,,,,,,,,,1974-07-26

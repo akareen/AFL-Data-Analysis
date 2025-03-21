@@ -1,0 +1,27 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Footscray,1939,1,South Melbourne,5,L,10,,,,,,,,,,,,,,,,,,,,,,,,1939-03-29
+Footscray,1939,2,Fitzroy,6,L,10,,,,,,,,,,,,,,,,,,,,,,,,1939-04-05
+Footscray,1939,3,Hawthorn,7,L,10,,,,,,,,,,,,,,,,,,,,,,,,1939-04-12
+Footscray,1939,4,Melbourne,8,L,10,,,,,1,,,,,,,,,,,,,,,,,,,1939-04-19
+Footscray,1939,5,St Kilda,9,L,10,,,,,,,,,,,,,,,,,,,,,,,,1939-04-26
+Footscray,1939,6,Geelong,11,W,10,,,,,,,,,,,,,,,,,,,,,,,,1939-05-10
+Footscray,1939,7,Essendon,12,W,10,,,,,2,,,,,,,,,,,,,,,,,,,1939-05-17
+Footscray,1939,8,Richmond,13,L,10,,,,,,,,,,,,,,,,,,,,,,,,1939-05-24
+Footscray,1939,9,Collingwood,14,L,10,,,,,,,,,,,,,,,,,,,,,,,,1939-05-31
+Footscray,1939,10,Carlton,15,L,10,,,,,,,,,,,,,,,,,,,,,,,,1939-06-07
+Footscray,1939,11,South Melbourne,16,W,10,,,,,2,,,,,,,,,,,,,,,,,,,1939-06-14
+Footscray,1939,12,Fitzroy,17,L,10,,,,,1,,,,,,,,,,,,,,,,,,,1939-06-21
+Footscray,1939,13,Hawthorn,18,W,10,,,,,2,,,,,,,,,,,,,,,,,,,1939-06-28
+Footscray,1940,14,Richmond,1,W,10,,,,,1,,,,,,,,,,,,,,,,,,,1940-03-01
+Footscray,1940,15,Essendon,2,W,10,,,,,,,,,,,,,,,,,,,,,,,,1940-03-08
+Footscray,1940,16,Melbourne,3,L,10,,,,,,,,,,,,,,,,,,,,,,,,1940-03-15
+Footscray,1940,17,Geelong,6,L,10,,,,,1,,,,,,,,,,,,,,,,,,,1940-04-05
+Footscray,1940,18,Carlton,7,W,10,,,,,1,,,,,,,,,,,,,,,,,,,1940-04-12
+Footscray,1940,19,Hawthorn,8,W,10,,,,,5,,,,,,,,,,,,,,,,,,,1940-04-19
+Footscray,1940,20,Collingwood,9,W,10,,,,,,,,,,,,,,,,,,,,,,,,1940-04-26
+Footscray,1940,21,South Melbourne,10,W,10,,,,,,,,,,,,,,,,,,,,,,,,1940-05-03
+Footscray,1940,22,Fitzroy,11,L,10,,,,,,,,,,,,,,,,,,,,,,,,1940-05-10
+Footscray,1940,23,Richmond,12,L,10,,,,,4,,,,,,,,,,,,,,,,,,,1940-05-17
+Footscray,1940,24,Essendon,13,L,10,,,,,2,,,,,,,,,,,,,,,,,,,1940-05-24
+Footscray,1940,25,Melbourne,14,L,10,,,,,1,,,,,,,,,,,,,,,,,,,1940-05-31
+Footscray,1940,26,St Kilda,15,W,10,,,,,,,,,,,,,,,,,,,,,,,,1940-06-07

@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1899,1,Essendon,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-05-10
+Carlton,1899,2,Collingwood,12,L,,,,,,1,,,,,,,,,,,,,,,,,,,1899-05-17
+Carlton,1899,3,St Kilda,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1899-05-24
+Carlton,1899,4,Fitzroy,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-05-31
+Carlton,1899,5,Fitzroy,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-06-07
+Carlton,1899,6,Collingwood,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-06-14
+Carlton,1899,7,Melbourne,17,W,,,,,,,,,,,,,,,,,,,,,,,,,1899-06-21
+Carlton,1900,8,Fitzroy,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1900-06-07
+Carlton,1900,9,South Melbourne,16,W,,,,,,,,,,,,,,,,,,,,,,,,,1900-06-14
+Carlton,1900,10,Essendon,17,L,,,,,,1,,,,,,,,,,,,,,,,,,,1900-06-21

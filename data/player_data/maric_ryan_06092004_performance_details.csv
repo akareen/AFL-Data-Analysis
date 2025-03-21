@@ -1,0 +1,31 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+West Coast,2023,1,Adelaide,13,L,41,4,3,4,8,2,1,,2,,,,2,,,,5,3,1,2,,,,83,2023-05-24
+West Coast,2023,2,Sydney,15,L,41,3,1,3,6,,,,2,,2,,1,1,,,2,4,,,,,,80,2023-06-07
+West Coast,2023,3,St Kilda,16,L,41,4,4,9,13,2,,,4,,2,1,,1,,,6,7,2,1,,,,81,2023-06-14
+West Coast,2023,4,Brisbane Lions,17,L,41,5,1,6,11,,1,,2,,1,,1,2,,,6,6,,1,1,,1,82,2023-06-21
+West Coast,2023,5,Richmond,18,L,41,4,4,4,8,1,,,4,,3,,1,1,,,1,8,,1,3,,,83,2023-06-28
+West Coast,2023,6,Carlton,19,L,41,7,3,5,12,1,,,3,,4,1,2,2,1,,6,6,1,,1,,,86,2023-07-05
+West Coast,2023,7,North Melbourne,20,W,41,2,1,10,12,,,,3,,3,,1,1,,,7,5,,,2,,,76,2023-07-12
+West Coast,2023,8,Essendon,21,L,41,5,2,3,8,2,,,4,,3,,1,,1,,1,8,,1,,,,84,2023-07-19
+West Coast,2023,9,Western Bulldogs,23,W,41,5,4,8,13,1,,,,1,1,,1,,,,3,11,,1,3,,1,73,2023-08-02
+West Coast,2023,10,Adelaide,24,L,41,6,5,3,9,,,,2,1,,,,2,,,2,8,,,,,1,71,2023-08-09
+West Coast,2024,11↑,Greater Western Sydney,3,L,41,1,,4,5,,,,3,,1,,,,,,1,4,,,1,,,30,2024-03-15
+West Coast,2024,12,Western Bulldogs,4,L,41,5,3,,5,,,,1,,3,,,1,,,1,4,,,1,,,77,2024-03-22
+West Coast,2024,13,Sydney,5,L,41,4,2,2,6,1,,,,,1,,2,1,,,4,2,1,1,,,,56,2024-03-29
+West Coast,2024,14↑,Richmond,6,W,41,1,1,6,7,,,,1,1,,,,,,,4,3,,,,,,51,2024-04-05
+West Coast,2024,15,Fremantle,7,W,41,9,6,4,13,1,,,2,,4,,1,1,1,,4,10,1,1,,,2,72,2024-04-12
+West Coast,2024,16,Gold Coast,8,L,41,7,4,3,10,1,,,,2,1,,4,1,2,,4,6,,1,2,,,86,2024-04-19
+West Coast,2024,17,Collingwood,10,L,41,4,2,4,8,1,,,,,2,,1,,,,3,5,1,1,,,,87,2024-05-03
+West Coast,2024,18,Melbourne,11,W,41,7,6,5,12,1,1,,1,,3,,,1,,,5,7,1,1,2,,,72,2024-05-10
+West Coast,2024,19,Adelaide,12,L,41,6,5,2,8,,2,,,2,1,,1,,,,1,7,1,2,,,,72,2024-05-17
+West Coast,2024,20,St Kilda,13,L,41,4,3,3,7,,,,1,,1,,1,,,,2,5,1,,1,,1,74,2024-05-24
+West Coast,2024,21↑,North Melbourne,14,L,41,4,1,2,6,,1,,2,,2,,1,,,,2,4,,,,,1,36,2024-05-31
+West Coast,2024,22↓,Essendon,16,L,41,9,2,4,13,,,,2,2,5,3,3,,1,,4,6,,,,,,72,2024-06-14
+West Coast,2024,23↑,Hawthorn,17,L,41,1,2,3,4,,,,1,,,,3,,3,,1,4,,,,,,30,2024-06-21
+West Coast,2024,24,Brisbane Lions,19,L,41,7,5,8,15,,,,1,3,,2,1,,,,6,9,,,,,1,73,2024-07-05
+West Coast,2024,25,St Kilda,20,L,41,10,5,9,19,1,,,2,1,1,1,1,,,,5,14,1,1,1,,,77,2024-07-12
+West Coast,2024,26,Fremantle,21,L,41,4,1,5,9,,,,2,,1,,1,,,,1,8,,,,,,78,2024-07-19
+West Coast,2024,27,Gold Coast,22,W,41,8,3,4,12,1,,,2,1,3,1,3,2,1,,6,7,1,1,1,,1,81,2024-07-26
+West Coast,2024,28,North Melbourne,23,W,41,7,3,9,16,,,,1,1,,4,3,,1,,6,9,,,,,1,73,2024-08-02
+West Coast,2024,29↑,Geelong,25,L,41,9,6,1,10,,,,2,1,1,2,,,,,4,7,,,2,,,36,2024-08-16
+West Coast,2025,30↑,Gold Coast,2,L,23,5,,4,9,,,,2,,,,1,,,,5,2,,,,,,33,2025-03-08

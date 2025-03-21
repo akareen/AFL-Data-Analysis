@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1923,1,Collingwood,7,L,19,,,,,2,,,,,,,,,,,,,,,,,,,1923-04-12
+Carlton,1923,2,Melbourne,8,W,19,,,,,1,,,,,,,,,,,,,,,,,,,1923-04-19
+Carlton,1923,3,Geelong,9,L,19,,,,,2,,,,,,,,,,,,,,,,,,,1923-04-26
+Carlton,1923,4,Fitzroy,10,W,19,,,,,2,,,,,,,,,,,,,,,,,,,1923-05-03
+Carlton,1923,5,St Kilda,11,L,19,,,,,2,,,,,,,,,,,,,,,,,,,1923-05-10
+Carlton,1923,6,Richmond,12,W,19,,,,,2,,,,,,,,,,,,,,,,,,,1923-05-17
+Carlton,1923,7,Essendon,13,L,19,,,,,2,,,,,,,,,,,,,,,,,,,1923-05-24
+Carlton,1923,8,Melbourne,17,W,19,,,,,,,,,,,,,,,,,,,,,,,,1923-06-21
+Carlton,1923,9,Geelong,18,L,19,,,,,,,,,,,,,,,,,,,,,,,,1923-06-28

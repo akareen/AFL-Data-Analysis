@@ -1,0 +1,10 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1973,1,Melbourne,12,W,47,10,2,2,12,,1,,,,,,,2,3,,,,,,,,,,1973-05-17
+St Kilda,1973,2,Fitzroy,13,W,47,16,3,6,22,1,1,,,,,,,4,2,,,,,,,,,,1973-05-24
+St Kilda,1973,3,Collingwood,14,L,47,,,,,,,,,,,,,,,,,,,,,,,,1973-05-31
+St Kilda,1973,4,Richmond,15,L,47,2,,,2,,,,,,,,,,1,,,,,,,,,,1973-06-07
+St Kilda,1973,5,Footscray,18,W,47,,,,,,,,,,,,,,,,,,,,,,,,1973-06-28
+St Kilda,1973,6,Geelong,19,L,47,4,2,2,6,,,,,,,,,,1,,,,,,,,,,1973-07-05
+St Kilda,1973,7,Hawthorn,20,W,47,12,5,6,18,1,,,,,,,,2,6,,,,,,,,,,1973-07-12
+St Kilda,1973,8,North Melbourne,21,W,47,11,,1,12,1,,,,,,,,2,4,,,,,,,,,,1973-07-19
+St Kilda,1973,9,Carlton,22,L,47,3,1,1,4,1,,,,,,,,1,,,,,,,,,,,1973-07-26

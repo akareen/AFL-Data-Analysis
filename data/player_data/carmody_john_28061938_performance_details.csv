@@ -1,0 +1,31 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1959,1,Footscray,6,W,39,,,,,,,,,,,,,,,,,,,,,,,,1959-04-05
+Collingwood,1959,2,Geelong,7,W,39,,,,,1,,,,,,,,,,,,,,,,,,,1959-04-12
+Collingwood,1959,3,Fitzroy,8,L,39,,,,,,,,,,,,,,,,,,,,,,,,1959-04-19
+Collingwood,1959,4,Essendon,9,W,39,,,,,,,,,,,,,,,,,,,,,,,,1959-04-26
+Collingwood,1959,5,North Melbourne,10,W,39,,,,,,,,,,,,,,,,,,,,,,,,1959-05-03
+Collingwood,1959,6,Hawthorn,11,W,39,,,,,,,,,,,,,,,,,,,,,,,,1959-05-10
+Collingwood,1959,7,Melbourne,13,W,39,,,,,,,,,,,,,,,,,,,,,,,,1959-05-24
+Collingwood,1959,8,Richmond,16,W,39,,,,,1,,,,,,,,,,,,,,,,,,,1959-06-14
+Collingwood,1959,9,Footscray,17,W,39,,,,,,,,,,,,,,,,,,,,,,,,1959-06-21
+Collingwood,1959,10,Geelong,18,W,39,,,,,,,,,,,,,,,,,,,,,,,,1959-06-28
+Collingwood,1959,11,Essendon,SF,L,39,,,,,,,,,,,,,,,,,,,,,,,,1959-03-01
+Collingwood,1960,12,Melbourne,4,W,3,,,,,,,,,,,,,,,,,,,,,,,,1960-03-22
+Collingwood,1960,13,South Melbourne,6,L,3,,,,,2,,,,,,,,,,,,,,,,,,,1960-04-05
+Collingwood,1960,14,North Melbourne,7,L,3,,,,,2,,,,,,,,,,,,,,,,,,,1960-04-12
+Collingwood,1960,15,Fitzroy,12,L,3,,,,,,,,,,,,,,,,,,,,,,,,1960-05-17
+Collingwood,1960,16,Hawthorn,13,L,3,,,,,,,,,,,,,,,,,,,,,,,,1960-05-24
+Fitzroy,1961,17,Hawthorn,3,L,21,,,,,2,,,,,,,,,,,,,,,,,,,1961-03-15
+Fitzroy,1961,18,Richmond,4,L,21,,,,,1,,,,,,,,,,,,,,,,,,,1961-03-22
+Fitzroy,1961,19,Collingwood,5,W,21,,,,,2,,,,,,,,,,,,,,,,,,,1961-03-29
+Fitzroy,1961,20,Richmond,15,W,21,,,,,,,,,,,,,,,,,,,,,,,,1961-06-07
+Fitzroy,1961,21,North Melbourne,17,L,21,,,,,,,,,,,,,,,,,,,,,,,,1961-06-21
+Fitzroy,1961,22,South Melbourne,18,W,21,,,,,3,,,,,,,,,,,,,,,,,,,1961-06-28
+Fitzroy,1962,23,St Kilda,3,L,21,,,,,3,,,,,,,,,,,,,,,,,,,1962-03-15
+Fitzroy,1962,24,North Melbourne,4,W,21,,,,,2,,,,,,,,,,,,,,,,,,,1962-03-22
+Fitzroy,1962,25,South Melbourne,5,W,21,,,,,3,,,,,,,,,,,,,,,,,,,1962-03-29
+Fitzroy,1962,26,Hawthorn,6,W,21,,,,,4,,,,,,,,,,,,,,,,,,,1962-04-05
+Fitzroy,1962,27,Geelong,7,L,21,,,,,2,,,,,,,,,,,,,,,,,,,1962-04-12
+Fitzroy,1962,28,Melbourne,8,W,21,,,,,,,,,,,,,,,,,,,,,,,,1962-04-19
+Fitzroy,1962,29,Collingwood,9,L,21,,,,,,,,,,,,,,,,,,,,,,,,1962-04-26
+Fitzroy,1962,30,Geelong,18,L,21,,,,,,,,,,,,,,,,,,,,,,,,1962-06-28

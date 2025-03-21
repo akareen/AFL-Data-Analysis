@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1965,1,North Melbourne,14,W,37,7,2,3,10,,2,,,,,,,,2,,,,,,,,,,1965-05-31
+Geelong,1965,2,Collingwood,15,L,37,9,4,2,11,,,,,,,,,,1,,,,,,,,,,1965-06-07
+Geelong,1965,3,Melbourne,16,W,37,13,2,5,18,2,,,,,,,,,1,,,,,,,,,,1965-06-14
+Geelong,1965,4,Fitzroy,17,W,37,12,2,2,14,1,2,,,,,,,2,2,,,,,,,,,,1965-06-21
+Geelong,1965,5,Hawthorn,18,W,37,13,3,2,15,,1,,,,,,,1,1,,,,,,,,,,1965-06-28
+Geelong,1965,6,Essendon,SF,L,37,8,2,4,12,1,1,,,,,,,2,1,,,,,,,,,,1965-03-01
+Geelong,1966,7,South Melbourne,13,W,37,8,2,1,9,,3,,,,,,,,2,,,,,,,,,,1966-05-24
+Geelong,1966,8,Footscray,14,W,37,13,2,3,16,1,1,,,,,,,2,3,,,,,,,,,,1966-05-31
+Geelong,1966,9,St Kilda,15,W,37,8,,1,9,1,,,,,,,,,,,,,,,,,,,1966-06-07
+Geelong,1966,10,Richmond,16,W,37,9,,3,12,,1,,,,,,,1,,,,,,,,,,,1966-06-14

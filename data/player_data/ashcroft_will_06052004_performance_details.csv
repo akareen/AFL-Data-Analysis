@@ -1,0 +1,33 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Brisbane Lions,2023,1,Port Adelaide,1,L,8,10,,3,13,1,,,4,,1,4,3,1,,,8,5,,,,,,81,2023-03-01
+Brisbane Lions,2023,2,Melbourne,2,W,8,14,,17,31,1,1,,1,2,2,9,2,3,,3,15,14,,,,,1,81,2023-03-08
+Brisbane Lions,2023,3,Western Bulldogs,3,L,8,12,2,11,23,,,,2,4,2,4,2,2,1,,10,14,,,1,,,78,2023-03-15
+Brisbane Lions,2023,4,Collingwood,4,W,8,12,2,14,26,,,,2,1,6,5,4,1,1,2,11,13,,,,,,79,2023-03-22
+Brisbane Lions,2023,5,North Melbourne,5,W,8,11,7,12,23,,,,4,2,3,,4,,,,2,21,,,,,,67,2023-03-29
+Brisbane Lions,2023,6,Greater Western Sydney,6,W,8,7,2,12,19,1,,,2,3,2,2,1,1,,,8,10,,,,,,76,2023-04-05
+Brisbane Lions,2023,7,Fremantle,7,W,8,16,7,12,28,2,1,,2,1,3,3,2,1,,3,7,21,,1,,,1,83,2023-04-12
+Brisbane Lions,2023,8,Carlton,8,W,8,6,4,7,13,,,,4,3,,2,2,1,,,2,11,,,,,,73,2023-04-19
+Brisbane Lions,2023,9,Essendon,9,W,8,15,7,13,28,,,,4,1,2,4,3,1,,1,6,22,,,1,,,71,2023-04-26
+Brisbane Lions,2023,10,Gold Coast,10,W,8,19,7,11,30,1,,,4,,4,6,3,5,,1,12,18,,,3,,1,73,2023-05-03
+Brisbane Lions,2023,11,Adelaide,11,L,8,6,,11,17,,1,,1,1,1,1,2,1,,,9,8,,,,,,70,2023-05-10
+Brisbane Lions,2023,12,Hawthorn,13,L,8,9,1,11,20,1,,,4,1,,1,2,,,,5,15,,,,1,,77,2023-05-24
+Brisbane Lions,2023,13,Sydney,14,W,8,8,1,15,23,,1,,4,3,2,9,4,,1,,16,7,,,1,,,80,2023-05-31
+Brisbane Lions,2023,14,St Kilda,15,W,8,8,5,8,16,,,,7,4,3,,4,,1,,3,13,,,,1,,70,2023-06-07
+Brisbane Lions,2023,15,Richmond,16,W,8,14,3,13,27,,1,,4,1,8,2,,1,,,11,16,,,1,,2,79,2023-06-14
+Brisbane Lions,2023,16,West Coast,17,W,8,13,5,15,28,,,,7,1,5,7,,1,,,11,17,,,2,,2,75,2023-06-21
+Brisbane Lions,2023,17,Melbourne,18,L,8,10,4,7,17,1,,,5,,5,4,,,,,5,11,1,,1,,3,76,2023-06-28
+Brisbane Lions,2023,18↓,Geelong,19,W,8,10,4,6,16,,1,,2,,3,1,3,,,,6,11,,,2,,,73,2023-07-05
+Brisbane Lions,2024,19,Melbourne,17,W,8,12,5,6,18,,2,,5,1,4,2,2,,,,6,12,,,1,,,76,2024-06-21
+Brisbane Lions,2024,20,Adelaide,18,W,8,12,5,9,21,1,,,4,3,2,2,3,2,1,,6,13,,,,,,76,2024-06-28
+Brisbane Lions,2024,21,West Coast,19,W,8,9,2,6,15,1,,,2,,6,2,2,,1,,4,12,,,,,,77,2024-07-05
+Brisbane Lions,2024,22,Sydney,20,W,8,12,3,8,20,,,,4,1,3,2,4,,,,7,12,,,,,,68,2024-07-12
+Brisbane Lions,2024,23,Gold Coast,21,W,8,10,1,11,21,,1,,2,1,4,3,3,1,,,5,16,,,1,,,82,2024-07-19
+Brisbane Lions,2024,24,St Kilda,22,W,8,13,2,5,18,,,,,1,6,2,5,2,1,,7,13,,,2,,1,76,2024-07-26
+Brisbane Lions,2024,25,Greater Western Sydney,23,L,8,18,9,11,29,,1,,1,3,4,5,,3,,,9,20,,,,,2,82,2024-08-02
+Brisbane Lions,2024,26,Collingwood,24,L,8,13,6,13,26,,1,,1,1,2,3,2,,,,8,19,,,1,,2,77,2024-08-09
+Brisbane Lions,2024,27,Essendon,25,W,8,17,15,13,30,,,,3,3,3,3,2,2,,,7,23,,1,,,1,72,2024-08-16
+Brisbane Lions,2024,28,Carlton,EF,W,8,9,6,11,20,,,,2,2,4,1,,1,,,5,15,,,,,2,77,2024-03-01
+Brisbane Lions,2024,29,Greater Western Sydney,SF,W,8,17,5,10,27,,2,,5,1,4,9,2,1,,,14,14,,,,1,2,76,2024-03-01
+Brisbane Lions,2024,30,Geelong,PF,W,8,10,3,12,22,,1,,1,1,2,3,3,2,,,10,13,,1,1,,,84,2024-03-01
+Brisbane Lions,2024,31,Sydney,GF,W,8,14,5,16,30,1,,,3,,6,5,,2,,,9,21,,,1,,,82,2024-03-01
+Brisbane Lions,2025,32,Sydney,2,W,8,11,,10,21,,1,,4,1,1,8,4,2,2,,12,10,,,,,,87,2025-03-08

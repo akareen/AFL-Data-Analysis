@@ -1,0 +1,13 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1915,1,Collingwood,14,L,25,,,,,,,,,,,,,,,,,,,,,,,,1915-05-31
+Geelong,1915,2,Carlton,15,L,25,,,,,,,,,,,,,,,,,,,,,,,,1915-06-07
+Geelong,1915,3,South Melbourne,17,L,25,,,,,,,,,,,,,,,,,,,,,,,,1915-06-21
+Geelong,1915,4,Fitzroy,18,L,25,,,,,,,,,,,,,,,,,,,,,,,,1915-06-28
+Geelong,1917,5,South Melbourne,1,L,6,,,,,,,,,,,,,,,,,,,,,,,,1917-03-01
+Geelong,1917,6,Richmond,3,L,6,,,,,,,,,,,,,,,,,,,,,,,,1917-03-15
+Geelong,1917,7,South Melbourne,6,W,6,,,,,,,,,,,,,,,,,,,,,,,,1917-04-05
+Geelong,1917,8,Collingwood,10,L,6,,,,,,,,,,,,,,,,,,,,,,,,1917-05-03
+Geelong,1917,9,South Melbourne,11,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1917-05-10
+Geelong,1917,10,Collingwood,15,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1917-06-07
+Geelong,1918,11,South Melbourne,1,L,6,,,,,,,,,,,,,,,,,,,,,,,,1918-03-01
+Geelong,1918,12,Collingwood,2,L,6,,,,,,,,,,,,,,,,,,,,,,,,1918-03-08

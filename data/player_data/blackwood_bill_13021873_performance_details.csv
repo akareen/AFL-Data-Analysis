@@ -1,0 +1,24 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1897,1,Melbourne,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-03-01
+South Melbourne,1897,2,Carlton,2,W,,,,,,1,,,,,,,,,,,,,,,,,,,1897-03-08
+South Melbourne,1897,3,St Kilda,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1897-03-15
+South Melbourne,1897,4,Collingwood,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1897-03-22
+South Melbourne,1897,5,Geelong,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-03-29
+South Melbourne,1897,6,Essendon,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1897-04-05
+South Melbourne,1897,7,Fitzroy,7,D,,,,,,1,,,,,,,,,,,,,,,,,,,1897-04-12
+South Melbourne,1897,8,Melbourne,8,W,,,,,,2,,,,,,,,,,,,,,,,,,,1897-04-19
+South Melbourne,1897,9,Carlton,9,W,,,,,,1,,,,,,,,,,,,,,,,,,,1897-04-26
+South Melbourne,1897,10,St Kilda,10,W,,,,,,4,,,,,,,,,,,,,,,,,,,1897-05-03
+South Melbourne,1897,11,Collingwood,11,W,,,,,,,,,,,,,,,,,,,,,,,,,1897-05-10
+South Melbourne,1897,12,Geelong,12,L,,,,,,2,,,,,,,,,,,,,,,,,,,1897-05-17
+South Melbourne,1897,13,Fitzroy,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1897-05-31
+St Kilda,1899,14,Carlton,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-04-05
+St Kilda,1899,15,Melbourne,8,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-04-19
+St Kilda,1899,16,Essendon,9,L,,,,,,1,,,,,,,,,,,,,,,,,,,1899-04-26
+St Kilda,1899,17,Collingwood,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-05-03
+St Kilda,1899,18,Fitzroy,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-05-10
+St Kilda,1899,19,South Melbourne,12,L,,,,,,1,,,,,,,,,,,,,,,,,,,1899-05-17
+St Kilda,1899,20,Geelong,14,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-05-31
+St Kilda,1899,21,Essendon,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-06-07
+St Kilda,1899,22,South Melbourne,16,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-06-14
+St Kilda,1899,23,Geelong,17,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-06-21

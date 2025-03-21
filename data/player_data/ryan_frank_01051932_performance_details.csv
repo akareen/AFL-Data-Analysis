@@ -1,0 +1,63 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1951,1,St Kilda,17,W,8,,,,,,,,,,,,,,,,,,,,,,,,1951-06-21
+Richmond,1951,2,Melbourne,18,W,8,,,,,,,,,,,,,,,,,,,,,,,,1951-06-28
+Richmond,1952,3,Fitzroy,1,W,8,,,,,,,,,,,,,,,,,,,,,,,,1952-03-01
+Richmond,1952,4,Hawthorn,2,W,8,,,,,,,,,,,,,,,,,,,,,,,,1952-03-08
+Richmond,1952,5,South Melbourne,3,L,8,,,,,,,,,,,,,,,,,,,,,,,,1952-03-15
+Richmond,1952,6,St Kilda,12,W,8,,,,,,,,,,,,,,,,,,,,,,,,1952-05-17
+Richmond,1952,7,Fitzroy,13,L,8,,,,,,,,,,,,,,,,,,,,,,,,1952-05-24
+Richmond,1952,8,Footscray,17,W,8,,,,,,,,,,,,,,,,,,,,,,,,1952-06-21
+Richmond,1952,9,Geelong,18,L,8,,,,,,,,,,,,,,,,,,,,,,,,1952-06-28
+Richmond,1952,10,Essendon,19,W,8,,,,,,,,,,,,,,,,,,,,,,,,1952-07-05
+Richmond,1953,11,Melbourne,1,W,8,,,,,,,,,,,,,,,,,,,,,,,,1953-03-01
+Richmond,1953,12,Fitzroy,2,L,8,,,,,,,,,,,,,,,,,,,,,,,,1953-03-08
+Richmond,1953,13,Carlton,3,L,8,,,,,,,,,,,,,,,,,,,,,,,,1953-03-15
+Richmond,1953,14,St Kilda,4,L,8,,,,,,,,,,,,,,,,,,,,,,,,1953-03-22
+Richmond,1953,15,Geelong,5,L,8,,,,,1,,,,,,,,,,,,,,,,,,,1953-03-29
+Richmond,1953,16,Collingwood,6,L,8,,,,,,,,,,,,,,,,,,,,,,,,1953-04-05
+Richmond,1953,17,Essendon,7,L,8,,,,,1,,,,,,,,,,,,,,,,,,,1953-04-12
+Richmond,1953,18,Footscray,8,L,8,,,,,,,,,,,,,,,,,,,,,,,,1953-04-19
+Richmond,1953,19,North Melbourne,9,L,8,,,,,,,,,,,,,,,,,,,,,,,,1953-04-26
+Richmond,1953,20,South Melbourne,10,L,8,,,,,,,,,,,,,,,,,,,,,,,,1953-05-03
+Richmond,1953,21,Hawthorn,11,W,8,,,,,,,,,,,,,,,,,,,,,,,,1953-05-10
+Richmond,1953,22,Melbourne,12,D,8,,,,,,,,,,,,,,,,,,,,,,,,1953-05-17
+Richmond,1953,23,Fitzroy,13,L,8,,,,,,,,,,,,,,,,,,,,,,,,1953-05-24
+Richmond,1953,24,St Kilda,15,W,8,,,,,,,,,,,,,,,,,,,,,,,,1953-06-07
+Richmond,1953,25,Geelong,16,L,8,,,,,,,,,,,,,,,,,,,,,,,,1953-06-14
+Richmond,1953,26,Collingwood,17,L,8,,,,,,,,,,,,,,,,,,,,,,,,1953-06-21
+Richmond,1953,27,Essendon,18,L,8,,,,,,,,,,,,,,,,,,,,,,,,1953-06-28
+Richmond,1954,28,North Melbourne,1,L,8,,,,,,,,,,,,,,,,,,,,,,,,1954-03-01
+Richmond,1954,29,Footscray,2,W,8,,,,,,,,,,,,,,,,,,,,,,,,1954-03-08
+Richmond,1954,30,Carlton,3,W,8,,,,,,,,,,,,,,,,,,,,,,,,1954-03-15
+Richmond,1954,31,South Melbourne,4,L,8,,,,,,,,,,,,,,,,,,,,,,,,1954-03-22
+Richmond,1954,32,Essendon,11,L,8,,,,,,,,,,,,,,,,,,,,,,,,1954-05-10
+Richmond,1954,33,South Melbourne,15,W,8,,,,,,,,,,,,,,,,,,,,,,,,1954-06-07
+Richmond,1954,34,Melbourne,16,L,8,,,,,,,,,,,,,,,,,,,,,,,,1954-06-14
+Richmond,1954,35,Hawthorn,17,L,8,,,,,,,,,,,,,,,,,,,,,,,,1954-06-21
+Richmond,1954,36,Collingwood,18,W,8,,,,,,,,,,,,,,,,,,,,,,,,1954-06-28
+Richmond,1955,37,Fitzroy,5,L,8,,,,,,,,,,,,,,,,,,,,,,,,1955-03-29
+Richmond,1955,38,Collingwood,10,L,8,,,,,,,,,,,,,,,,,,,,,,,,1955-05-03
+Richmond,1955,39,Carlton,11,W,8,,,,,,,,,,,,,,,,,,,,,,,,1955-05-10
+Richmond,1955,40,Essendon,12,L,8,,,,,,,,,,,,,,,,,,,,,,,,1955-05-17
+Richmond,1955,41,Footscray,13,W,8,,,,,,,,,,,,,,,,,,,,,,,,1955-05-24
+Richmond,1956,42,Melbourne,1,L,8,,,,,,,,,,,,,,,,,,,,,,,,1956-03-01
+Richmond,1956,43,Hawthorn,2,L,8,,,,,,,,,,,,,,,,,,,,,,,,1956-03-08
+Richmond,1956,44,Collingwood,3,W,8,,,,,,,,,,,,,,,,,,,,,,,,1956-03-15
+Richmond,1956,45,Geelong,4,L,8,,,,,,,,,,,,,,,,,,,,,,,,1956-03-22
+Richmond,1956,46,Essendon,5,L,8,,,,,,,,,,,,,,,,,,,,,,,,1956-03-29
+Richmond,1956,47,Carlton,6,L,8,,,,,,,,,,,,,,,,,,,,,,,,1956-04-05
+Richmond,1956,48,St Kilda,7,L,8,,,,,,,,,,,,,,,,,,,,,,,,1956-04-12
+Richmond,1956,49,South Melbourne,8,L,8,,,,,,,,,,,,,,,,,,,,,,,,1956-04-19
+Richmond,1956,50,North Melbourne,10,W,8,,,,,,,,,,,,,,,,,,,,,,,,1956-05-03
+Richmond,1956,51,Fitzroy,11,W,8,,,,,,,,,,,,,,,,,,,,,,,,1956-05-10
+Richmond,1956,52,Melbourne,12,L,8,,,,,,,,,,,,,,,,,,,,,,,,1956-05-17
+Richmond,1956,53,Collingwood,14,L,8,,,,,,,,,,,,,,,,,,,,,,,,1956-05-31
+Richmond,1956,54,Geelong,15,L,8,,,,,1,,,,,,,,,,,,,,,,,,,1956-06-07
+Richmond,1956,55,Essendon,16,W,8,,,,,1,,,,,,,,,,,,,,,,,,,1956-06-14
+Richmond,1956,56,Carlton,17,W,8,,,,,,,,,,,,,,,,,,,,,,,,1956-06-21
+Richmond,1956,57,St Kilda,18,L,8,,,,,,,,,,,,,,,,,,,,,,,,1956-06-28
+Richmond,1957,58,Fitzroy,4,W,8,,,,,,,,,,,,,,,,,,,,,,,,1957-03-22
+Richmond,1957,59,Carlton,5,L,8,,,,,,,,,,,,,,,,,,,,,,,,1957-03-29
+Richmond,1957,60,Footscray,6,L,8,,,,,,,,,,,,,,,,,,,,,,,,1957-04-05
+Richmond,1957,61,Melbourne,7,W,8,,,,,,,,,,,,,,,,,,,,,,,,1957-04-12
+Richmond,1957,62,St Kilda,8,W,8,,,,,,,,,,,,,,,,,,,,,,,,1957-04-19

@@ -1,0 +1,57 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Hawthorn,1953,1,Footscray,3,L,32,,,,,,,,,,,,,,,,,,,,,,,,1953-03-15
+Hawthorn,1953,2,South Melbourne,4,L,32,,,,,,,,,,,,,,,,,,,,,,,,1953-03-22
+Hawthorn,1953,3,Collingwood,5,L,32,,,,,,,,,,,,,,,,,,,,,,,,1953-03-29
+Hawthorn,1953,4,Carlton,6,W,32,,,,,,,,,,,,,,,,,,,,,,,,1953-04-05
+Hawthorn,1953,5,Fitzroy,7,L,32,,,,,,,,,,,,,,,,,,,,,,,,1953-04-12
+Hawthorn,1953,6,North Melbourne,8,L,32,,,,,,,,,,,,,,,,,,,,,,,,1953-04-19
+Hawthorn,1953,7,Essendon,9,L,32,,,,,1,,,,,,,,,,,,,,,,,,,1953-04-26
+Hawthorn,1953,8,Melbourne,10,W,32,,,,,,,,,,,,,,,,,,,,,,,,1953-05-03
+Hawthorn,1953,9,Richmond,11,L,32,,,,,,,,,,,,,,,,,,,,,,,,1953-05-10
+Hawthorn,1953,10,Geelong,12,L,32,,,,,,,,,,,,,,,,,,,,,,,,1953-05-17
+Hawthorn,1953,11,St Kilda,13,L,32,,,,,,,,,,,,,,,,,,,,,,,,1953-05-24
+Hawthorn,1953,12,Footscray,14,L,32,,,,,,,,,,,,,,,,,,,,,,,,1953-05-31
+Hawthorn,1953,13,South Melbourne,15,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1953-06-07
+Hawthorn,1953,14,Collingwood,16,L,32,,,,,1,,,,,,,,,,,,,,,,,,,1953-06-14
+Hawthorn,1953,15,Fitzroy,18,L,32,,,,,1,,,,,,,,,,,,,,,,,,,1953-06-28
+Hawthorn,1954,16,Essendon,1,L,32,,,,,,,,,,,,,,,,,,,,,,,,1954-03-01
+Hawthorn,1954,17,St Kilda,2,W,32,,,,,1,,,,,,,,,,,,,,,,,,,1954-03-08
+Hawthorn,1954,18,Melbourne,3,W,32,,,,,,,,,,,,,,,,,,,,,,,,1954-03-15
+Hawthorn,1954,19,North Melbourne,4,L,32,,,,,,,,,,,,,,,,,,,,,,,,1954-03-22
+Hawthorn,1954,20,Geelong,5,W,32,,,,,,,,,,,,,,,,,,,,,,,,1954-03-29
+Hawthorn,1954,21,Richmond,6,W,32,,,,,,,,,,,,,,,,,,,,,,,,1954-04-05
+Hawthorn,1954,22,Footscray,7,L,32,,,,,,,,,,,,,,,,,,,,,,,,1954-04-12
+Hawthorn,1954,23,Carlton,9,L,32,,,,,,,,,,,,,,,,,,,,,,,,1954-04-26
+Hawthorn,1954,24,Collingwood,10,L,32,,,,,,,,,,,,,,,,,,,,,,,,1954-05-03
+Hawthorn,1954,25,Fitzroy,11,W,32,,,,,,,,,,,,,,,,,,,,,,,,1954-05-10
+Hawthorn,1954,26,St Kilda,13,W,32,,,,,,,,,,,,,,,,,,,,,,,,1954-05-24
+Hawthorn,1954,27,Melbourne,14,L,32,,,,,,,,,,,,,,,,,,,,,,,,1954-05-31
+Hawthorn,1955,28,Fitzroy,1,L,32,,,,,,,,,,,,,,,,,,,,,,,,1955-03-01
+Hawthorn,1955,29,Carlton,2,W,32,,,,,,,,,,,,,,,,,,,,,,,,1955-03-08
+Hawthorn,1955,30,South Melbourne,3,W,32,,,,,,,,,,,,,,,,,,,,,,,,1955-03-15
+Hawthorn,1955,31,Collingwood,4,W,32,,,,,,,,,,,,,,,,,,,,,,,,1955-03-22
+Hawthorn,1955,32,North Melbourne,5,L,32,,,,,,,,,,,,,,,,,,,,,,,,1955-03-29
+Hawthorn,1955,33,Melbourne,6,L,32,,,,,,,,,,,,,,,,,,,,,,,,1955-04-05
+Hawthorn,1955,34,Essendon,7,W,32,,,,,,,,,,,,,,,,,,,,,,,,1955-04-12
+Hawthorn,1955,35,Richmond,8,W,32,,,,,,,,,,,,,,,,,,,,,,,,1955-04-19
+Hawthorn,1955,36,Footscray,9,L,32,,,,,1,,,,,,,,,,,,,,,,,,,1955-04-26
+Hawthorn,1955,37,St Kilda,10,W,32,,,,,,,,,,,,,,,,,,,,,,,,1955-05-03
+Hawthorn,1955,38,Geelong,11,L,32,,,,,,,,,,,,,,,,,,,,,,,,1955-05-10
+Hawthorn,1955,39,Fitzroy,12,W,32,,,,,,,,,,,,,,,,,,,,,,,,1955-05-17
+Hawthorn,1955,40,South Melbourne,14,W,32,,,,,,,,,,,,,,,,,,,,,,,,1955-05-31
+Hawthorn,1955,41,Collingwood,15,L,32,,,,,,,,,,,,,,,,,,,,,,,,1955-06-07
+Hawthorn,1955,42,North Melbourne,16,L,32,,,,,,,,,,,,,,,,,,,,,,,,1955-06-14
+Hawthorn,1955,43,Melbourne,17,L,32,,,,,1,,,,,,,,,,,,,,,,,,,1955-06-21
+Hawthorn,1955,44,Essendon,18,L,32,,,,,,,,,,,,,,,,,,,,,,,,1955-06-28
+Hawthorn,1956,45,Collingwood,1,L,32,,,,,,,,,,,,,,,,,,,,,,,,1956-03-01
+Hawthorn,1956,46,Geelong,3,L,32,,,,,,,,,,,,,,,,,,,,,,,,1956-03-15
+Hawthorn,1956,47,St Kilda,5,W,32,,,,,,,,,,,,,,,,,,,,,,,,1956-03-29
+Hawthorn,1956,48,Footscray,6,W,32,,,,,,,,,,,,,,,,,,,,,,,,1956-04-05
+Hawthorn,1956,49,Essendon,10,L,32,,,,,,,,,,,,,,,,,,,,,,,,1956-05-03
+Hawthorn,1957,50,Essendon,6,W,32,,,,,,,,,,,,,,,,,,,,,,,,1957-04-05
+Hawthorn,1957,51,South Melbourne,8,W,32,,,,,,,,,,,,,,,,,,,,,,,,1957-04-19
+Hawthorn,1957,52,Fitzroy,9,W,32,,,,,,,,,,,,,,,,,,,,,,,,1957-04-26
+Hawthorn,1957,53,St Kilda,10,L,32,,,,,,,,,,,,,,,,,,,,,,,,1957-05-03
+Hawthorn,1957,54,Collingwood,11,L,32,,,,,,,,,,,,,,,,,,,,,,,,1957-05-10
+Hawthorn,1957,55,Carlton,12,L,32,,,,,,,,,,,,,,,,,,,,,,,,1957-05-17
+Hawthorn,1957,56,Melbourne,15,W,32,,,,,,,,,,,,,,,,,,,,,,,,1957-06-07

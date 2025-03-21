@@ -1,0 +1,20 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Footscray,1960,1,South Melbourne,11,L,34,,,,,2,,,,,,,,,,,,,,,,,,,1960-05-10
+Footscray,1960,2,Geelong,12,L,34,,,,,1,,,,,,,,,,,,,,,,,,,1960-05-17
+Footscray,1960,3,North Melbourne,13,W,34,,,,,1,,,,,,,,,,,,,,,,,,,1960-05-24
+Footscray,1960,4,Hawthorn,14,L,34,,,,,,,,,,,,,,,,,,,,,,,,1960-05-31
+Footscray,1960,5,Richmond,18,W,34,,,,,1,,,,,,,,,,,,,,,,,,,1960-06-28
+Footscray,1961,6,Richmond,1,W,34,,,,,3,,,,,,,,,,,,,,,,,,,1961-03-01
+Footscray,1961,7,North Melbourne,2,W,34,,,,,1,,,,,,,,,,,,,,,,,,,1961-03-08
+Footscray,1961,8,Carlton,3,W,34,,,,,2,,,,,,,,,,,,,,,,,,,1961-03-15
+Footscray,1961,9,Carlton,14,W,34,,,,,,,,,,,,,,,,,,,,,,,,1961-05-31
+Footscray,1961,10,Collingwood,15,W,34,,,,,1,,,,,,,,,,,,,,,,,,,1961-06-07
+Footscray,1961,11,South Melbourne,16,W,34,,,,,,,,,,,,,,,,,,,,,,,,1961-06-14
+Footscray,1962,12,South Melbourne,4,W,34,,,,,1,,,,,,,,,,,,,,,,,,,1962-03-22
+Footscray,1962,13,St Kilda,5,W,34,,,,,,,,,,,,,,,,,,,,,,,,1962-03-29
+Footscray,1962,14,Geelong,11,L,34,,,,,,,,,,,,,,,,,,,,,,,,1962-05-10
+Footscray,1962,15,Hawthorn,12,W,34,,,,,3,,,,,,,,,,,,,,,,,,,1962-05-17
+Footscray,1962,16,Fitzroy,13,W,34,,,,,2,,,,,,,,,,,,,,,,,,,1962-05-24
+Footscray,1962,17,Melbourne,14,L,34,,,,,1,,,,,,,,,,,,,,,,,,,1962-05-31
+Footscray,1963,18,North Melbourne,1,L,34,,,,,,,,,,,,,,,,,,,,,,,,1963-03-01
+Footscray,1963,19,Fitzroy,2,W,34,,,,,1,,,,,,,,,,,,,,,,,,,1963-03-08

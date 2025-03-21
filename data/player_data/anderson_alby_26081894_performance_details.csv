@@ -1,0 +1,15 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1924,1,Collingwood,2,L,15,,,,,1,,,,,,,,,,,,,,,,,,,1924-03-08
+St Kilda,1924,2,Carlton,3,L,15,,,,,2,,,,,,,,,,,,,,,,,,,1924-03-15
+St Kilda,1924,3,South Melbourne,4,L,15,,,,,,,,,,,,,,,,,,,,,,,,1924-03-22
+St Kilda,1924,4,Geelong,5,W,15,,,,,1,,,,,,,,,,,,,,,,,,,1924-03-29
+St Kilda,1924,5,Richmond,6,L,15,,,,,,,,,,,,,,,,,,,,,,,,1924-04-05
+St Kilda,1924,6,Fitzroy,7,L,15,,,,,1,,,,,,,,,,,,,,,,,,,1924-04-12
+St Kilda,1924,7,Essendon,8,L,15,,,,,1,,,,,,,,,,,,,,,,,,,1924-04-19
+St Kilda,1924,8,Collingwood,11,W,15,,,,,,,,,,,,,,,,,,,,,,,,1924-05-10
+St Kilda,1924,9,Carlton,12,L,15,,,,,,,,,,,,,,,,,,,,,,,,1924-05-17
+St Kilda,1924,10,Essendon,17,L,15,,,,,1,,,,,,,,,,,,,,,,,,,1924-06-21
+Richmond,1926,11,North Melbourne,7,W,26,,,,,,,,,,,,,,,,,,,,,,,,1926-04-12
+Richmond,1926,12,Footscray,9,W,26,,,,,,,,,,,,,,,,,,,,,,,,1926-04-26
+Richmond,1926,13,Geelong,17,L,26,,,,,,,,,,,,,,,,,,,,,,,,1926-06-21
+Richmond,1926,14,Footscray,18,L,26,,,,,,,,,,,,,,,,,,,,,,,,1926-06-28

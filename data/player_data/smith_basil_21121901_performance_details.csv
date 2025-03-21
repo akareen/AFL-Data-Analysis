@@ -1,0 +1,17 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1922,1,St Kilda,4,L,4,,,,,,,,,,,,,,,,,,,,,,,,1922-03-22
+South Melbourne,1922,2,Carlton,5,W,4,,,,,2,,,,,,,,,,,,,,,,,,,1922-03-29
+South Melbourne,1922,3,Richmond,7,L,4,,,,,1,,,,,,,,,,,,,,,,,,,1922-04-12
+South Melbourne,1922,4,Fitzroy,8,L,4,,,,,1,,,,,,,,,,,,,,,,,,,1922-04-19
+South Melbourne,1922,5,Essendon,12,W,4,,,,,1,,,,,,,,,,,,,,,,,,,1922-05-17
+South Melbourne,1922,6,St Kilda,13,D,4,,,,,,,,,,,,,,,,,,,,,,,,1922-05-24
+Richmond,1924,7,South Melbourne,1,L,30,,,,,,,,,,,,,,,,,,,,,,,,1924-03-01
+Richmond,1924,8,Geelong,2,L,30,,,,,1,,,,,,,,,,,,,,,,,,,1924-03-08
+Richmond,1924,9,Fitzroy,4,L,30,,,,,2,,,,,,,,,,,,,,,,,,,1924-03-22
+Richmond,1924,10,Essendon,5,L,30,,,,,,,,,,,,,,,,,,,,,,,,1924-03-29
+Richmond,1924,11,St Kilda,6,W,30,,,,,1,,,,,,,,,,,,,,,,,,,1924-04-05
+Richmond,1924,12,Essendon,14,L,30,,,,,1,,,,,,,,,,,,,,,,,,,1924-05-31
+Richmond,1924,13,St Kilda,15,W,30,,,,,,,,,,,,,,,,,,,,,,,,1924-06-07
+Richmond,1924,14,Melbourne,16,W,30,,,,,,,,,,,,,,,,,,,,,,,,1924-06-14
+Richmond,1924,15,Collingwood,17,W,30,,,,,1,,,,,,,,,,,,,,,,,,,1924-06-21
+Richmond,1924,16,Carlton,18,W,30,,,,,,,,,,,,,,,,,,,,,,,,1924-06-28

@@ -1,0 +1,34 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1952,1,South Melbourne,1,L,34,,,,,,,,,,,,,,,,,,,,,,,,1952-03-01
+St Kilda,1952,2,Melbourne,2,L,34,,,,,,,,,,,,,,,,,,,,,,,,1952-03-08
+St Kilda,1952,3,Geelong,3,L,34,,,,,,,,,,,,,,,,,,,,,,,,1952-03-15
+St Kilda,1952,4,Essendon,5,L,34,,,,,,,,,,,,,,,,,,,,,,,,1952-03-29
+St Kilda,1952,5,Carlton,6,L,34,,,,,,,,,,,,,,,,,,,,,,,,1952-04-05
+St Kilda,1952,6,Footscray,8,W,34,,,,,,,,,,,,,,,,,,,,,,,,1952-04-19
+St Kilda,1952,7,North Melbourne,10,L,34,,,,,,,,,,,,,,,,,,,,,,,,1952-05-03
+St Kilda,1952,8,Footscray,11,L,34,,,,,,,,,,,,,,,,,,,,,,,,1952-05-10
+St Kilda,1952,9,Richmond,12,L,34,,,,,,,,,,,,,,,,,,,,,,,,1952-05-17
+St Kilda,1952,10,South Melbourne,13,L,34,,,,,,,,,,,,,,,,,,,,,,,,1952-05-24
+St Kilda,1952,11,Melbourne,14,L,34,,,,,,,,,,,,,,,,,,,,,,,,1952-05-31
+St Kilda,1952,12,Geelong,15,L,34,,,,,,,,,,,,,,,,,,,,,,,,1952-06-07
+St Kilda,1952,13,Collingwood,16,L,34,,,,,,,,,,,,,,,,,,,,,,,,1952-06-14
+St Kilda,1952,14,Essendon,17,L,34,,,,,1,,,,,,,,,,,,,,,,,,,1952-06-21
+St Kilda,1952,15,Carlton,18,L,34,,,,,2,,,,,,,,,,,,,,,,,,,1952-06-28
+St Kilda,1952,16,Fitzroy,19,W,34,,,,,,,,,,,,,,,,,,,,,,,,1952-07-05
+St Kilda,1953,17,North Melbourne,1,L,24,,,,,,,,,,,,,,,,,,,,,,,,1953-03-01
+St Kilda,1953,18,Hawthorn,2,W,24,,,,,,,,,,,,,,,,,,,,,,,,1953-03-08
+St Kilda,1953,19,Essendon,3,L,24,,,,,,,,,,,,,,,,,,,,,,,,1953-03-15
+St Kilda,1953,20,Richmond,4,W,24,,,,,,,,,,,,,,,,,,,,,,,,1953-03-22
+St Kilda,1953,21,Carlton,5,L,24,,,,,,,,,,,,,,,,,,,,,,,,1953-03-29
+St Kilda,1953,22,Footscray,6,L,24,,,,,,,,,,,,,,,,,,,,,,,,1953-04-05
+St Kilda,1953,23,South Melbourne,7,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1953-04-12
+St Kilda,1953,24,Collingwood,8,L,24,,,,,,,,,,,,,,,,,,,,,,,,1953-04-19
+St Kilda,1953,25,Geelong,9,L,24,,,,,,,,,,,,,,,,,,,,,,,,1953-04-26
+St Kilda,1953,26,Fitzroy,10,L,24,,,,,,,,,,,,,,,,,,,,,,,,1953-05-03
+St Kilda,1953,27,North Melbourne,12,L,24,,,,,,,,,,,,,,,,,,,,,,,,1953-05-17
+St Kilda,1953,28,Essendon,14,L,24,,,,,,,,,,,,,,,,,,,,,,,,1953-05-31
+St Kilda,1953,29,Richmond,15,L,24,,,,,1,,,,,,,,,,,,,,,,,,,1953-06-07
+St Kilda,1953,30,Carlton,16,W,24,,,,,,,,,,,,,,,,,,,,,,,,1953-06-14
+St Kilda,1953,31,Footscray,17,L,24,,,,,,,,,,,,,,,,,,,,,,,,1953-06-21
+St Kilda,1953,32,South Melbourne,18,L,24,,,,,,,,,,,,,,,,,,,,,,,,1953-06-28
+St Kilda,1954,33,Melbourne,6,W,24,,,,,,,,,,,,,,,,,,,,,,,,1954-04-05

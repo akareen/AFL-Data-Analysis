@@ -1,0 +1,22 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1910,1,South Melbourne,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-01
+Carlton,1916,2,Collingwood,8,W,29,,,,,,,,,,,,,,,,,,,,,,,,1916-04-19
+Carlton,1917,3,Fitzroy,1,D,14,,,,,1,,,,,,,,,,,,,,,,,,,1917-03-01
+Carlton,1917,4,South Melbourne,3,L,14,,,,,,,,,,,,,,,,,,,,,,,,1917-03-15
+Carlton,1917,5,Geelong,4,L,14,,,,,1,,,,,,,,,,,,,,,,,,,1917-03-22
+Carlton,1917,6,Collingwood,7,L,14,,,,,,,,,,,,,,,,,,,,,,,,1917-04-12
+Carlton,1917,7,South Melbourne,8,W,14,,,,,,,,,,,,,,,,,,,,,,,,1917-04-19
+Carlton,1917,8,Geelong,9,W,14,,,,,,,,,,,,,,,,,,,,,,,,1917-04-26
+Carlton,1917,9,Richmond,10,W,14,,,,,,,,,,,,,,,,,,,,,,,,1917-05-03
+Carlton,1917,10,Fitzroy,11,W,14,,,,,1,,,,,,,,,,,,,,,,,,,1917-05-10
+Carlton,1917,11,Richmond,15,W,14,,,,,,,,,,,,,,,,,,,,,,,,1917-06-07
+Carlton,1917,12,Fitzroy,SF,L,14,,,,,,,,,,,,,,,,,,,,,,,,1917-03-01
+Carlton,1920,13,Richmond,11,W,9,,,,,,,,,,,,,,,,,,,,,,,,1920-05-10
+Carlton,1920,14,Fitzroy,12,L,9,,,,,,,,,,,,,,,,,,,,,,,,1920-05-17
+Carlton,1920,15,South Melbourne,13,W,9,,,,,,,,,,,,,,,,,,,,,,,,1920-05-24
+Carlton,1920,16,Essendon,14,W,9,,,,,,,,,,,,,,,,,,,,,,,,1920-05-31
+Carlton,1920,17,Melbourne,15,W,9,,,,,,,,,,,,,,,,,,,,,,,,1920-06-07
+Carlton,1920,18,Geelong,16,W,9,,,,,,,,,,,,,,,,,,,,,,,,1920-06-14
+Carlton,1920,19,Collingwood,17,W,9,,,,,,,,,,,,,,,,,,,,,,,,1920-06-21
+Carlton,1920,20,Richmond,SF,W,9,,,,,1,,,,,,,,,,,,,,,,,,,1920-03-01
+Carlton,1920,21,Collingwood,PF,L,9,,,,,,,,,,,,,,,,,,,,,,,,1920-03-01

@@ -1,0 +1,14 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1929,1,Essendon,9,W,37,,,,,2,,,,,,,,,,,,,,,,,,,1929-04-26
+Melbourne,1929,2,Richmond,10,W,37,,,,,1,,,,,,,,,,,,,,,,,,,1929-05-03
+Melbourne,1929,3,Hawthorn,11,W,37,,,,,,,,,,,,,,,,,,,,,,,,1929-05-10
+Melbourne,1929,4,Geelong,13,W,37,,,,,,,,,,,,,,,,,,,,,,,,1929-05-24
+Melbourne,1929,5,Footscray,16,W,37,,,,,,,,,,,,,,,,,,,,,,,,1929-06-14
+Melbourne,1930,6,Footscray,5,W,37,,,,,,,,,,,,,,,,,,,,,,,,1930-03-29
+Melbourne,1930,7,Collingwood,7,L,37,,,,,,,,,,,,,,,,,,,,,,,,1930-04-12
+Melbourne,1930,8,Carlton,8,W,37,,,,,,,,,,,,,,,,,,,,,,,,1930-04-19
+Melbourne,1930,9,Essendon,9,W,37,,,,,,,,,,,,,,,,,,,,,,,,1930-04-26
+Melbourne,1930,10,Richmond,10,L,37,,,,,,,,,,,,,,,,,,,,,,,,1930-05-03
+Melbourne,1931,11,Fitzroy,1,W,37,,,,,2,,,,,,,,,,,,,,,,,,,1931-03-01
+Melbourne,1931,12,Essendon,13,W,37,,,,,,,,,,,,,,,,,,,,,,,,1931-05-24
+Melbourne,1931,13,Collingwood,18,L,37,,,,,,,,,,,,,,,,,,,,,,,,1931-06-28

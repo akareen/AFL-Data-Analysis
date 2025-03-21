@@ -1,0 +1,31 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1985,1,Fitzroy,1,W,5,4,2,6,10,,,,,,,,,3,2,,,,,,,,,,1985-03-01
+Melbourne,1985,2,Hawthorn,2,L,5,5,1,3,8,,1,,,,,,,4,2,,,,,,,,,,1985-03-08
+Melbourne,1985,3,Collingwood,3,L,5,2,1,5,7,,,,,,,,,2,1,,,,,,,,,,1985-03-15
+Melbourne,1985,4,Footscray,4,W,5,6,,2,8,,1,,,,,,,,,,,,,,,,,,1985-03-22
+Melbourne,1985,5,Carlton,5,W,5,6,,2,8,,,,,,,,,5,1,3,,,,,,,,,1985-03-29
+Melbourne,1985,6,North Melbourne,6,L,5,3,1,12,15,,,1,,,,,,1,1,,,,,,,,,,1985-04-05
+Melbourne,1985,7,Geelong,7,L,5,7,,5,12,,,,,,,,,3,3,,,,,,,,,,1985-04-12
+Melbourne,1985,8,Essendon,9,L,5,4,1,6,10,,,,,,,,,1,1,,,,,,,,,,1985-04-26
+Melbourne,1985,9,Sydney,10,W,5,,,,,,,,,,,,,,,,,,,,,,,,1985-05-03
+Melbourne,1985,10,North Melbourne,17,L,5,3,,12,15,,,,,,,,,4,2,,,,,,,,,,1985-06-21
+Melbourne,1985,11,Geelong,18,L,5,7,1,7,14,,,,,,,,,4,1,,,,,,,,,,1985-06-28
+Melbourne,1985,12,St Kilda,19,W,5,9,,,9,,,,,,,,,7,1,,,,,,,,,,1985-07-05
+Melbourne,1985,13,Essendon,20,L,5,4,,3,7,,,,,,,,,2,6,,,,,,,,,,1985-07-12
+Melbourne,1985,14,Sydney,21,L,5,6,1,5,11,1,,,,,,,,3,3,,,,,,,,,,1985-07-19
+Melbourne,1985,15,Richmond,22,L,5,8,1,7,15,,,,,,,,,1,1,,,,,,,,,,1985-07-26
+Melbourne,1986,16,Footscray,8,W,5,8,3,2,10,1,,,,,,,,1,2,,,,,,,,,,1986-04-19
+Melbourne,1986,17,North Melbourne,9,L,5,9,3,6,15,,,,,,,,,1,2,2,,,,,,,,,1986-04-26
+Melbourne,1986,18,Carlton,10,L,5,6,,5,11,,,,,,,,,,1,,,,,,,,,,1986-05-03
+Melbourne,1986,19,Hawthorn,11,L,5,2,,3,5,,,,,,,,,1,2,,,,,,,,,,1986-05-10
+Melbourne,1986,20,Collingwood,18,W,5,7,1,3,10,,,,,,,,,,1,,,,,,,,,,1986-06-28
+Melbourne,1986,21,Geelong,19,W,5,4,,5,9,,,,,,,,,4,,,,,,,,,,,1986-07-05
+Melbourne,1986,22,Footscray,20,L,5,9,1,1,10,,,,,,,,,7,4,,,,,,,,,,1986-07-12
+Melbourne,1986,23,North Melbourne,21,W,5,3,2,3,6,,,,,,,,,,3,,,,,,,,,,1986-07-19
+Melbourne,1986,24,Carlton,22,L,5,7,1,2,9,,,,,,,,,3,3,,,,,,,,,,1986-07-26
+Melbourne,1987,25,Essendon,10,W,5,7,,2,9,,,,1,,,,,1,3,,,,,,,,,,1987-05-03
+Melbourne,1987,26,Carlton,11,L,5,4,2,5,9,,,,,,,,,,1,,,,,,,,,,1987-05-10
+Melbourne,1987,27,Sydney,12,L,5,4,,6,10,,,1,3,,,,,,,,,,,,,,,,1987-05-17
+Melbourne,1987,28,Hawthorn,13,W,5,11,1,5,16,,,,4,,,,,3,1,,,,,,,,,,1987-05-24
+Melbourne,1987,29,Fitzroy,14,L,5,5,,3,8,,,,4,,,,,2,2,,,,,,,,,,1987-05-31
+Melbourne,1987,30,North Melbourne,15,L,5,5,1,4,9,,,,,,,,,1,,,,,,,,,,,1987-06-07

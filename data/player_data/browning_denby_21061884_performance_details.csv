@@ -1,0 +1,39 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+University,1908,1,Essendon,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-01
+University,1908,2,Richmond,2,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-08
+University,1908,3,St Kilda,4,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-03-22
+University,1908,4,South Melbourne,5,L,,,,,,2,,,,,,,,,,,,,,,,,,,1908-03-29
+University,1908,5,Melbourne,6,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-04-05
+University,1908,6,Fitzroy,7,L,,,,,,1,,,,,,,,,,,,,,,,,,,1908-04-12
+University,1908,7,Geelong,8,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-04-19
+University,1908,8,Carlton,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-04-26
+University,1908,9,Richmond,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-10
+University,1908,10,Collingwood,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-17
+University,1908,11,St Kilda,13,W,,,,,,,,,,,,,,,,,,,,,,,,,1908-05-24
+University,1908,12,South Melbourne,14,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-05-31
+University,1908,13,Melbourne,15,W,,,,,,1,,,,,,,,,,,,,,,,,,,1908-06-07
+University,1908,14,Fitzroy,16,L,,,,,,2,,,,,,,,,,,,,,,,,,,1908-06-14
+University,1908,15,Geelong,17,W,,,,,,2,,,,,,,,,,,,,,,,,,,1908-06-21
+University,1908,16,Carlton,18,L,,,,,,,,,,,,,,,,,,,,,,,,,1908-06-28
+University,1909,17,Carlton,1,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-01
+University,1909,18,Richmond,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-08
+University,1909,19,St Kilda,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-03-15
+University,1909,20,Essendon,4,W,,,,,,2,,,,,,,,,,,,,,,,,,,1909-03-22
+University,1909,21,Geelong,5,W,,,,,,2,,,,,,,,,,,,,,,,,,,1909-03-29
+University,1909,22,Melbourne,6,L,,,,,,2,,,,,,,,,,,,,,,,,,,1909-04-05
+University,1909,23,Collingwood,7,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-12
+University,1909,24,South Melbourne,8,L,,,,,,1,,,,,,,,,,,,,,,,,,,1909-04-19
+University,1909,25,Fitzroy,9,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-04-26
+University,1909,26,Carlton,10,L,,,,,,2,,,,,,,,,,,,,,,,,,,1909-05-03
+University,1909,27,Richmond,11,W,,,,,,2,,,,,,,,,,,,,,,,,,,1909-05-10
+University,1909,28,St Kilda,12,W,,,,,,1,,,,,,,,,,,,,,,,,,,1909-05-17
+University,1909,29,Essendon,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-05-24
+University,1909,30,Geelong,14,W,,,,,,,,,,,,,,,,,,,,,,,,,1909-05-31
+University,1909,31,Melbourne,15,L,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-07
+University,1909,32,Collingwood,16,D,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-14
+University,1909,33,South Melbourne,17,L,,,,,,1,,,,,,,,,,,,,,,,,,,1909-06-21
+University,1909,34,Fitzroy,18,D,,,,,,,,,,,,,,,,,,,,,,,,,1909-06-28
+University,1910,35,St Kilda,1,W,,,,,,1,,,,,,,,,,,,,,,,,,,1910-03-01
+University,1910,36,Essendon,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-08
+University,1910,37,South Melbourne,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-03-29
+University,1910,38,Carlton,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1910-04-05

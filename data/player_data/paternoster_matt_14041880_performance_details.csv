@@ -1,0 +1,13 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1901,1,Carlton,1,W,,,,,,2,,,,,,,,,,,,,,,,,,,1901-03-01
+Fitzroy,1901,2,Geelong,2,L,,,,,,,,,,,,,,,,,,,,,,,,,1901-03-08
+Fitzroy,1901,3,Essendon,3,W,,,,,,,,,,,,,,,,,,,,,,,,,1901-03-15
+Fitzroy,1901,4,St Kilda,4,W,,,,,,1,,,,,,,,,,,,,,,,,,,1901-03-22
+Fitzroy,1901,5,South Melbourne,5,W,,,,,,,,,,,,,,,,,,,,,,,,,1901-03-29
+Fitzroy,1901,6,Collingwood,6,L,,,,,,,,,,,,,,,,,,,,,,,,,1901-04-05
+Fitzroy,1901,7,Melbourne,7,D,,,,,,,,,,,,,,,,,,,,,,,,,1901-04-12
+Fitzroy,1901,8,Carlton,8,W,,,,,,,,,,,,,,,,,,,,,,,,,1901-04-19
+Fitzroy,1901,9,Geelong,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1901-04-26
+Fitzroy,1901,10,Essendon,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1901-05-03
+Fitzroy,1901,11,St Kilda,11,W,,,,,,1,,,,,,,,,,,,,,,,,,,1901-05-10
+Fitzroy,1901,12,Collingwood,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1901-05-24

@@ -1,0 +1,20 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Collingwood,1987,1,Sydney,1,L,37,9,3,3,12,,,,,,,,,3,1,,,,,,,,,,1987-03-01
+Collingwood,1987,2,Carlton,2,L,37,1,1,4,5,,,,1,,,,,,,,,,,,,,,,1987-03-08
+Collingwood,1987,3,Geelong,11,L,37,9,3,4,13,,,,1,,,,,3,2,,,,,,,,,,1987-05-10
+Collingwood,1987,4,Fitzroy,12,W,37,6,3,4,10,,,,,,,,,2,,,,,,,,,,,1987-05-17
+Collingwood,1987,5,Sydney,14,L,37,10,2,7,17,,,,,,,,,2,3,,,,,,,,,,1987-05-31
+Collingwood,1987,6,Carlton,15,L,37,9,1,4,13,,4,,2,,,,,2,1,,,,,,,,,,1987-06-07
+Collingwood,1987,7,Hawthorn,16,L,37,6,4,3,9,,1,1,,,,,,,2,,,,,,,,,,1987-06-14
+Collingwood,1987,8,Richmond,17,L,37,4,2,3,7,1,,,1,,,,,,1,,,,,,,,,,1987-06-21
+Collingwood,1987,9,Melbourne,20,L,37,7,,4,11,,,,2,,,,,1,,,,,,,,,,,1987-07-12
+Collingwood,1989,10,Fitzroy,2,L,37,7,2,3,10,,,,1,,,,,1,1,,,,,,,,,,1989-03-08
+Collingwood,1989,11,Hawthorn,16,L,37,3,1,8,11,,,,,,,,,,,,,,,,,,,,1989-06-14
+Collingwood,1989,12,Geelong,17,W,37,10,3,7,17,2,,,,,,,,1,1,,,,,,,,,,1989-06-21
+Collingwood,1989,13,Sydney,18,L,37,12,7,4,16,5,1,,,,,,,2,1,,,,,,,,,,1989-06-28
+Collingwood,1989,14,North Melbourne,19,L,37,11,6,10,21,3,,,,,,,,,2,,,,,,,,,,1989-07-05
+Collingwood,1989,15,Fitzroy,20,W,37,11,2,9,20,1,6,1,1,,,,,1,1,,,,,,,,,,1989-07-12
+Collingwood,1989,16,Richmond,21,W,37,7,1,6,13,2,1,,,,,,,2,2,,,,,,,,,,1989-07-19
+Collingwood,1989,17,Melbourne,EF,L,37,16,4,6,22,1,,,1,,,,,2,4,,,,,,,,,,1989-03-01
+Collingwood,1990,18,Geelong,12,W,37,3,2,1,4,,1,,,,,,,,,,,,,,,,,,1990-05-17
+Collingwood,1990,19,Carlton,15,W,37,,,,,,,,,,,,,,1,,,,,,,,,,1990-06-07

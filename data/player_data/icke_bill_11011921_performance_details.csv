@@ -1,0 +1,17 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1943,1,Essendon,1,L,16,,,,,,,,,,,,,,,,,,,,,,,,1943-03-01
+South Melbourne,1943,2,Fitzroy,3,L,16,,,,,,,,,,,,,,,,,,,,,,,,1943-03-15
+Geelong,1946,3,Fitzroy,3,L,32,,,,,,,,,,,,,,,,,,,,,,,,1946-03-15
+Geelong,1946,4,North Melbourne,4,L,32,,,,,,,,,,,,,,,,,,,,,,,,1946-03-22
+Geelong,1946,5,St Kilda,5,L,32,,,,,,,,,,,,,,,,,,,,,,,,1946-03-29
+Geelong,1946,6,Richmond,6,L,32,,,,,,,,,,,,,,,,,,,,,,,,1946-04-05
+Geelong,1946,7,Collingwood,7,L,32,,,,,,,,,,,,,,,,,,,,,,,,1946-04-12
+Geelong,1946,8,Footscray,8,L,32,,,,,,,,,,,,,,,,,,,,,,,,1946-04-19
+Geelong,1946,9,Carlton,9,L,32,,,,,,,,,,,,,,,,,,,,,,,,1946-04-26
+Geelong,1946,10,Essendon,10,W,32,,,,,,,,,,,,,,,,,,,,,,,,1946-05-03
+Geelong,1946,11,Fitzroy,14,W,32,,,,,,,,,,,,,,,,,,,,,,,,1946-05-31
+Geelong,1946,12,North Melbourne,15,L,32,,,,,,,,,,,,,,,,,,,,,,,,1946-06-07
+Geelong,1946,13,St Kilda,16,L,32,,,,,,,,,,,,,,,,,,,,,,,,1946-06-14
+Geelong,1946,14,Richmond,17,L,32,,,,,,,,,,,,,,,,,,,,,,,,1946-06-21
+Geelong,1946,15,Collingwood,18,L,32,,,,,1,,,,,,,,,,,,,,,,,,,1946-06-28
+Geelong,1946,16,Footscray,19,W,32,,,,,,,,,,,,,,,,,,,,,,,,1946-07-05

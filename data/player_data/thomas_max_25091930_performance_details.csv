@@ -1,0 +1,25 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Carlton,1952,1,North Melbourne,1,W,34,,,,,,,,,,,,,,,,,,,,,,,,1952-03-01
+Carlton,1952,2,South Melbourne,2,L,34,,,,,,,,,,,,,,,,,,,,,,,,1952-03-08
+Carlton,1952,3,Fitzroy,3,L,34,,,,,,,,,,,,,,,,,,,,,,,,1952-03-15
+Carlton,1952,4,Essendon,4,W,34,,,,,,,,,,,,,,,,,,,,,,,,1952-03-22
+Carlton,1952,5,Hawthorn,8,W,34,,,,,,,,,,,,,,,,,,,,,,,,1952-04-19
+Carlton,1952,6,Richmond,9,W,34,,,,,,,,,,,,,,,,,,,,,,,,1952-04-26
+Carlton,1952,7,Hawthorn,11,W,34,,,,,,,,,,,,,,,,,,,,,,,,1952-05-10
+Carlton,1952,8,North Melbourne,13,W,34,,,,,,,,,,,,,,,,,,,,,,,,1952-05-24
+Carlton,1952,9,South Melbourne,14,D,34,,,,,,,,,,,,,,,,,,,,,,,,1952-05-31
+Carlton,1952,10,Collingwood,17,W,34,,,,,,,,,,,,,,,,,,,,,,,,1952-06-21
+Carlton,1952,11,St Kilda,18,W,34,,,,,,,,,,,,,,,,,,,,,,,,1952-06-28
+Carlton,1952,12,Geelong,19,L,34,,,,,,,,,,,,,,,,,,,,,,,,1952-07-05
+Carlton,1952,13,Fitzroy,SF,L,34,,,,,,,,,,,,,,,,,,,,,,,,1952-03-01
+Carlton,1953,14,Footscray,1,L,34,,,,,,,,,,,,,,,,,,,,,,,,1953-03-01
+Carlton,1953,15,Melbourne,2,W,34,,,,,,,,,,,,,,,,,,,,,,,,1953-03-08
+Carlton,1953,16,Richmond,3,W,34,,,,,,,,,,,,,,,,,,,,,,,,1953-03-15
+Carlton,1953,17,Collingwood,4,L,34,,,,,,,,,,,,,,,,,,,,,,,,1953-03-22
+Carlton,1953,18,St Kilda,5,W,34,,,,,,,,,,,,,,,,,,,,,,,,1953-03-29
+Carlton,1953,19,Hawthorn,6,L,34,,,,,,,,,,,,,,,,,,,,,,,,1953-04-05
+Carlton,1953,20,North Melbourne,7,W,34,,,,,,,,,,,,,,,,,,,,,,,,1953-04-12
+Carlton,1953,21,Essendon,8,L,34,,,,,,,,,,,,,,,,,,,,,,,,1953-04-19
+Carlton,1954,22,South Melbourne,1,L,34,,,,,,,,,,,,,,,,,,,,,,,,1954-03-01
+Carlton,1954,23,Collingwood,8,L,34,,,,,,,,,,,,,,,,,,,,,,,,1954-04-19
+Carlton,1954,24,Hawthorn,9,W,34,,,,,,,,,,,,,,,,,,,,,,,,1954-04-26

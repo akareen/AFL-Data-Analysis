@@ -1,0 +1,67 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+North Melbourne,1937,1,St Kilda,6,L,31,,,,,2,,,,,,,,,,,,,,,,,,,1937-04-05
+North Melbourne,1937,2,Melbourne,7,L,31,,,,,,,,,,,,,,,,,,,,,,,,1937-04-12
+North Melbourne,1937,3,South Melbourne,8,L,31,,,,,,,,,,,,,,,,,,,,,,,,1937-04-19
+North Melbourne,1937,4,Richmond,9,W,31,,,,,1,,,,,,,,,,,,,,,,,,,1937-04-26
+North Melbourne,1937,5,Geelong,10,L,31,,,,,,,,,,,,,,,,,,,,,,,,1937-05-03
+North Melbourne,1937,6,Essendon,11,L,31,,,,,1,,,,,,,,,,,,,,,,,,,1937-05-10
+North Melbourne,1937,7,Hawthorn,12,L,31,,,,,2,,,,,,,,,,,,,,,,,,,1937-05-17
+North Melbourne,1937,8,Fitzroy,13,L,31,,,,,,,,,,,,,,,,,,,,,,,,1937-05-24
+North Melbourne,1937,9,Collingwood,14,L,31,,,,,,,,,,,,,,,,,,,,,,,,1937-05-31
+North Melbourne,1937,10,Carlton,15,L,31,,,,,,,,,,,,,,,,,,,,,,,,1937-06-07
+North Melbourne,1937,11,Footscray,16,L,31,,,,,,,,,,,,,,,,,,,,,,,,1937-06-14
+North Melbourne,1937,12,St Kilda,17,L,31,,,,,,,,,,,,,,,,,,,,,,,,1937-06-21
+North Melbourne,1937,13,Melbourne,18,L,31,,,,,,,,,,,,,,,,,,,,,,,,1937-06-28
+North Melbourne,1938,14,Richmond,1,L,21,,,,,1,,,,,,,,,,,,,,,,,,,1938-03-01
+North Melbourne,1938,15,Essendon,4,L,21,,,,,,,,,,,,,,,,,,,,,,,,1938-03-22
+North Melbourne,1938,16,St Kilda,5,L,21,,,,,,,,,,,,,,,,,,,,,,,,1938-03-29
+North Melbourne,1939,17,Richmond,5,L,21,,,,,,,,,,,,,,,,,,,,,,,,1939-03-29
+North Melbourne,1939,18,Essendon,6,W,21,,,,,,,,,,,,,,,,,,,,,,,,1939-04-05
+North Melbourne,1939,19,Geelong,7,L,21,,,,,,,,,,,,,,,,,,,,,,,,1939-04-12
+North Melbourne,1939,20,St Kilda,8,L,21,,,,,,,,,,,,,,,,,,,,,,,,1939-04-19
+North Melbourne,1939,21,Footscray,10,W,21,,,,,,,,,,,,,,,,,,,,,,,,1939-05-03
+North Melbourne,1939,22,South Melbourne,11,W,21,,,,,,,,,,,,,,,,,,,,,,,,1939-05-10
+North Melbourne,1939,23,Fitzroy,12,L,21,,,,,,,,,,,,,,,,,,,,,,,,1939-05-17
+North Melbourne,1939,24,Hawthorn,13,W,21,,,,,,,,,,,,,,,,,,,,,,,,1939-05-24
+North Melbourne,1939,25,Carlton,14,L,21,,,,,,,,,,,,,,,,,,,,,,,,1939-05-31
+North Melbourne,1939,26,Melbourne,15,L,21,,,,,1,,,,,,,,,,,,,,,,,,,1939-06-07
+North Melbourne,1939,27,Richmond,16,L,21,,,,,,,,,,,,,,,,,,,,,,,,1939-06-14
+North Melbourne,1939,28,Essendon,17,L,21,,,,,,,,,,,,,,,,,,,,,,,,1939-06-21
+North Melbourne,1940,29,Fitzroy,2,W,21,,,,,1,,,,,,,,,,,,,,,,,,,1940-03-08
+North Melbourne,1940,30,St Kilda,3,L,21,,,,,1,,,,,,,,,,,,,,,,,,,1940-03-15
+North Melbourne,1940,31,Collingwood,4,W,21,,,,,1,,,,,,,,,,,,,,,,,,,1940-03-22
+North Melbourne,1940,32,Footscray,5,L,21,,,,,,,,,,,,,,,,,,,,,,,,1940-03-29
+North Melbourne,1940,33,South Melbourne,6,L,21,,,,,,,,,,,,,,,,,,,,,,,,1940-04-05
+North Melbourne,1940,34,Melbourne,7,L,21,,,,,,,,,,,,,,,,,,,,,,,,1940-04-12
+North Melbourne,1940,35,Geelong,8,L,21,,,,,,,,,,,,,,,,,,,,,,,,1940-04-19
+North Melbourne,1940,36,Carlton,9,W,21,,,,,1,,,,,,,,,,,,,,,,,,,1940-04-26
+North Melbourne,1940,37,Richmond,10,L,21,,,,,,,,,,,,,,,,,,,,,,,,1940-05-03
+North Melbourne,1940,38,Fitzroy,13,L,21,,,,,,,,,,,,,,,,,,,,,,,,1940-05-24
+North Melbourne,1940,39,St Kilda,14,L,21,,,,,,,,,,,,,,,,,,,,,,,,1940-05-31
+North Melbourne,1940,40,Collingwood,15,L,21,,,,,,,,,,,,,,,,,,,,,,,,1940-06-07
+North Melbourne,1940,41,Footscray,16,L,21,,,,,,,,,,,,,,,,,,,,,,,,1940-06-14
+North Melbourne,1940,42,South Melbourne,17,L,21,,,,,,,,,,,,,,,,,,,,,,,,1940-06-21
+North Melbourne,1940,43,Melbourne,18,L,21,,,,,,,,,,,,,,,,,,,,,,,,1940-06-28
+North Melbourne,1941,44,Geelong,1,W,17,,,,,,,,,,,,,,,,,,,,,,,,1941-03-01
+North Melbourne,1941,45,Essendon,2,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1941-03-08
+North Melbourne,1941,46,Richmond,3,L,17,,,,,,,,,,,,,,,,,,,,,,,,1941-03-15
+North Melbourne,1941,47,Footscray,5,L,17,,,,,,,,,,,,,,,,,,,,,,,,1941-03-29
+North Melbourne,1941,48,South Melbourne,8,L,17,,,,,,,,,,,,,,,,,,,,,,,,1941-04-19
+North Melbourne,1941,49,Melbourne,9,L,17,,,,,,,,,,,,,,,,,,,,,,,,1941-04-26
+North Melbourne,1941,50,Hawthorn,10,W,17,,,,,,,,,,,,,,,,,,,,,,,,1941-05-03
+North Melbourne,1941,51,Richmond,14,L,17,,,,,,,,,,,,,,,,,,,,,,,,1941-05-31
+North Melbourne,1941,52,Carlton,15,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1941-06-07
+North Melbourne,1941,53,Footscray,16,W,17,,,,,,,,,,,,,,,,,,,,,,,,1941-06-14
+North Melbourne,1941,54,St Kilda,17,W,17,,,,,,,,,,,,,,,,,,,,,,,,1941-06-21
+North Melbourne,1941,55,Collingwood,18,L,17,,,,,,,,,,,,,,,,,,,,,,,,1941-06-28
+North Melbourne,1945,56,Essendon,9,W,36,,,,,2,,,,,,,,,,,,,,,,,,,1945-04-26
+North Melbourne,1945,57,Carlton,10,L,36,,,,,,,,,,,,,,,,,,,,,,,,1945-05-03
+North Melbourne,1945,58,St Kilda,11,W,36,,,,,,,,,,,,,,,,,,,,,,,,1945-05-10
+North Melbourne,1945,59,Carlton,SF,L,36,,,,,,,,,,,,,,,,,,,,,,,,1945-03-01
+North Melbourne,1946,60,St Kilda,1,W,36,,,,,1,,,,,,,,,,,,,,,,,,,1946-03-01
+North Melbourne,1946,61,Richmond,2,W,36,,,,,,,,,,,,,,,,,,,,,,,,1946-03-08
+North Melbourne,1946,62,Collingwood,3,L,36,,,,,,,,,,,,,,,,,,,,,,,,1946-03-15
+North Melbourne,1946,63,Carlton,5,L,36,,,,,,,,,,,,,,,,,,,,,,,,1946-03-29
+North Melbourne,1946,64,Essendon,6,L,36,,,,,,,,,,,,,,,,,,,,,,,,1946-04-05
+North Melbourne,1946,65,Essendon,17,L,36,,,,,,,,,,,,,,,,,,,,,,,,1946-06-21
+North Melbourne,1946,66,South Melbourne,18,L,36,,,,,,,,,,,,,,,,,,,,,,,,1946-06-28

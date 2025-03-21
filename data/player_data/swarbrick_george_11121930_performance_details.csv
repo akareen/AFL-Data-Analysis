@@ -1,0 +1,24 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Geelong,1952,1,North Melbourne,5,W,23,,,,,,,,,,,,,,,,,,,,,,,,1952-03-29
+Geelong,1952,2,Richmond,6,W,23,,,,,,,,,,,,,,,,,,,,,,,,1952-04-05
+Geelong,1952,3,Carlton,7,L,23,,,,,,,,,,,,,,,,,,,,,,,,1952-04-12
+Geelong,1952,4,Essendon,8,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1952-04-19
+Geelong,1952,5,South Melbourne,9,W,23,,,,,,,,,,,,,,,,,,,,,,,,1952-04-26
+Geelong,1952,6,Hawthorn,10,W,23,,,,,,,,,,,,,,,,,,,,,,,,1952-05-03
+Geelong,1952,7,Essendon,11,D,23,,,,,1,,,,,,,,,,,,,,,,,,,1952-05-10
+Geelong,1952,8,Collingwood,12,W,23,,,,,,,,,,,,,,,,,,,,,,,,1952-05-17
+Geelong,1952,9,Melbourne,13,W,23,,,,,,,,,,,,,,,,,,,,,,,,1952-05-24
+Geelong,1952,10,Footscray,14,W,23,,,,,,,,,,,,,,,,,,,,,,,,1952-05-31
+Geelong,1952,11,St Kilda,15,W,23,,,,,2,,,,,,,,,,,,,,,,,,,1952-06-07
+Geelong,1952,12,Fitzroy,16,W,23,,,,,,,,,,,,,,,,,,,,,,,,1952-06-14
+Geelong,1953,13,Footscray,2,W,23,,,,,,,,,,,,,,,,,,,,,,,,1953-03-08
+Geelong,1953,14,Collingwood,3,W,23,,,,,2,,,,,,,,,,,,,,,,,,,1953-03-15
+Geelong,1953,15,Essendon,4,W,23,,,,,,,,,,,,,,,,,,,,,,,,1953-03-22
+Geelong,1953,16,Carlton,10,W,23,,,,,,,,,,,,,,,,,,,,,,,,1953-05-03
+Geelong,1953,17,North Melbourne,11,W,23,,,,,1,,,,,,,,,,,,,,,,,,,1953-05-10
+Geelong,1953,18,Hawthorn,12,W,23,,,,,,,,,,,,,,,,,,,,,,,,1953-05-17
+Geelong,1953,19,Footscray,13,W,23,,,,,,,,,,,,,,,,,,,,,,,,1953-05-24
+Geelong,1953,20,Collingwood,14,L,23,,,,,1,,,,,,,,,,,,,,,,,,,1953-05-31
+Geelong,1953,21,Collingwood,SF,L,23,,,,,,,,,,,,,,,,,,,,,,,,1953-03-01
+Geelong,1953,22,Footscray,PF,W,23,,,,,,,,,,,,,,,,,,,,,,,,1953-03-01
+Geelong,1953,23,Collingwood,GF,L,23,,,,,,,,,,,,,,,,,,,,,,,,1953-03-01

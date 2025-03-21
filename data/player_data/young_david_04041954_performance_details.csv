@@ -1,0 +1,63 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1977,1,Geelong,4,L,14,14,5,5,19,1,,,,,,,,,,,,,,,,,,,1977-03-22
+South Melbourne,1977,2,Carlton,5,L,14,10,3,2,12,3,1,,,,,,,1,6,,,,,,,,,,1977-03-29
+South Melbourne,1977,3,Fitzroy,6,W,14,17,3,7,24,6,2,,,,,,,5,4,,,,,,,,,,1977-04-05
+South Melbourne,1977,4,St Kilda,7,D,14,10,1,3,13,2,3,,,,,,,3,5,,,,,,,,,,1977-04-12
+South Melbourne,1977,5,Hawthorn,8,L,14,13,3,2,15,,1,,,,,,,5,2,,,,,,,,,,1977-04-19
+South Melbourne,1977,6,Footscray,9,W,14,14,1,6,20,,,,,,,,,5,3,,,,,,,,,,1977-04-26
+South Melbourne,1977,7,Collingwood,10,W,14,12,1,4,16,3,2,,,,,,,4,3,,,,,,,,,,1977-05-03
+South Melbourne,1977,8,North Melbourne,11,W,14,10,3,2,12,3,,,,,,,,4,3,,,,,,,,,,1977-05-10
+South Melbourne,1977,9,Melbourne,12,W,14,14,8,4,18,1,2,,,,,,,2,5,,,,,,,,,,1977-05-17
+South Melbourne,1977,10,Essendon,13,L,14,14,2,5,19,,2,,,,,,,2,3,,,,,,,,,,1977-05-24
+South Melbourne,1977,11,Geelong,14,W,14,9,2,4,13,,2,,,,,,,1,5,,,,,,,,,,1977-05-31
+South Melbourne,1977,12,Richmond,15,L,14,3,,3,6,,,,,,,,,2,,,,,,,,,,,1977-06-07
+South Melbourne,1977,13,Carlton,16,L,14,14,2,2,16,2,,,,,,,,5,6,,,,,,,,,,1977-06-14
+South Melbourne,1977,14,Fitzroy,17,W,14,13,2,4,17,1,1,,,,,,,2,2,,,,,,,,,,1977-06-21
+South Melbourne,1977,15,St Kilda,18,W,14,12,3,2,14,,,,,,,,,5,2,,,,,,,,,,1977-06-28
+South Melbourne,1977,16,Hawthorn,19,W,14,18,2,1,19,1,2,,,,,,,7,4,,,,,,,,,,1977-07-05
+South Melbourne,1977,17,Footscray,20,W,14,7,,3,10,,,,,,,,,1,2,,,,,,,,,,1977-07-12
+South Melbourne,1977,18,Collingwood,21,L,14,9,3,3,12,,,1,,,,,,2,6,,,,,,,,,,1977-07-19
+South Melbourne,1977,19,North Melbourne,22,W,14,,,1,1,,,,,,,,,,1,,,,,,,,,,1977-07-26
+South Melbourne,1978,20,Essendon,1,L,14,9,1,6,15,2,2,,,,,,,2,3,,,,,,,,,,1978-03-01
+South Melbourne,1978,21,Hawthorn,2,L,14,10,2,1,11,2,,,,,,,,2,1,,,,,,,,,,1978-03-08
+South Melbourne,1978,22,Collingwood,3,W,14,10,2,8,18,,,,,,,,,3,3,,,,,,,,,,1978-03-15
+South Melbourne,1978,23,Fitzroy,4,L,14,13,2,1,14,,,,,,,,,,4,,,,,,,,,,1978-03-22
+South Melbourne,1978,24,Carlton,5,W,14,17,4,4,21,2,1,,,,,,,4,6,,,,,,,,,,1978-03-29
+South Melbourne,1978,25,Footscray,6,W,14,22,5,5,27,2,4,,,,,,,4,2,,,,,,,,,,1978-04-05
+South Melbourne,1978,26,Richmond,7,W,14,13,1,4,17,3,2,,,,,,,3,6,,,,,,,,,,1978-04-12
+South Melbourne,1978,27,St Kilda,8,W,14,10,4,8,18,1,1,,,,,,,1,3,,,,,,,,,,1978-04-19
+South Melbourne,1978,28,Geelong,9,L,14,12,5,8,20,,1,1,,,,,,1,2,,,,,,,,,,1978-04-26
+South Melbourne,1978,29,Melbourne,10,W,14,3,2,2,5,,,,,,,,,,,,,,,,,,,,1978-05-03
+South Melbourne,1978,30,North Melbourne,11,L,14,15,2,7,22,,,,,,,,,1,4,,,,,,,,,,1978-05-10
+South Melbourne,1978,31,Essendon,12,L,14,5,1,2,7,,,,,,,,,,,,,,,,,,,,1978-05-17
+South Melbourne,1978,32,Fitzroy,14,W,14,10,3,1,11,4,2,,,,,,,1,5,,,,,,,,,,1978-05-31
+South Melbourne,1978,33,Collingwood,15,L,14,10,,2,12,1,,,,,,,,4,3,,,,,,,,,,1978-06-07
+South Melbourne,1978,34,Carlton,16,L,14,9,,,9,,,,,,,,,3,2,,,,,,,,,,1978-06-14
+South Melbourne,1978,35,Footscray,17,W,14,11,3,3,14,,,,,,,,,2,3,,,,,,,,,,1978-06-21
+South Melbourne,1978,36,Richmond,18,W,14,13,6,5,18,,1,,,,,,,6,3,,,,,,,,,,1978-06-28
+South Melbourne,1978,37,St Kilda,19,L,14,12,3,3,15,,,,,,,,,3,4,,,,,,,,,,1978-07-05
+South Melbourne,1978,38,Geelong,20,L,14,13,3,7,20,,,,,,,,,3,2,,,,,,,,,,1978-07-12
+South Melbourne,1978,39,Melbourne,21,L,14,8,3,4,12,,,,,,,,,3,2,,,,,,,,,,1978-07-19
+South Melbourne,1978,40,North Melbourne,22,L,14,11,5,1,12,,,,,,,,,3,1,,,,,,,,,,1978-07-26
+South Melbourne,1979,41,Richmond,1,L,14,13,,1,14,,,,,,,,,4,3,,,,,,,,,,1979-03-01
+South Melbourne,1979,42,Fitzroy,2,W,14,17,2,2,19,,,,,,,,,5,2,,,,,,,,,,1979-03-08
+South Melbourne,1979,43,Melbourne,3,W,14,5,1,4,9,,,,,,,,,3,2,,,,,,,,,,1979-03-15
+South Melbourne,1979,44,Hawthorn,4,L,14,2,,,2,,,,,,,,,,1,,,,,,,,,,1979-03-22
+Collingwood,1979,45,Melbourne,22,W,14,3,1,1,4,,,1,,,,,,2,1,,,,,,,,,,1979-07-26
+Collingwood,1980,46,Essendon,15,W,18,9,1,4,13,,,,,,,,,2,1,,,,,,,,,,1980-06-07
+Collingwood,1980,47,Hawthorn,16,W,18,10,6,4,14,1,,,,,,,,,3,,,,,,,,,,1980-06-14
+Collingwood,1980,48,St Kilda,17,W,18,9,2,2,11,,,,,,,,,,4,,,,,,,,,,1980-06-21
+Collingwood,1980,49,South Melbourne,18,W,18,11,2,7,18,1,2,,,,,,,5,5,,,,,,,,,,1980-06-28
+Collingwood,1980,50,Fitzroy,19,W,18,11,2,5,16,,,,,,,,,3,2,,,,,,,,,,1980-07-05
+Collingwood,1980,51,Geelong,20,L,18,12,1,3,15,1,1,1,,,,,,4,1,,,,,,,,,,1980-07-12
+Collingwood,1980,52,Footscray,21,W,18,18,4,2,20,3,1,5,,,,,,1,2,,,,,,,,,,1980-07-19
+Collingwood,1980,53,Melbourne,22,W,18,13,2,12,25,4,1,,,,,,,4,2,,,,,,,,,,1980-07-26
+Collingwood,1980,54,Carlton,SF,W,18,8,3,4,12,1,,,,,,,,,,,,,,,,,,,1980-03-01
+Collingwood,1980,55,Geelong,PF,W,18,7,2,1,8,1,2,,,,,,,1,3,,,,,,,,,,1980-03-01
+Collingwood,1980,56,Richmond,GF,L,18,8,3,2,10,,3,,,,,,,2,,,,,,,,,,,1980-03-01
+Collingwood,1981,57,Footscray,2,W,18,4,,3,7,,,,,,,,,2,3,,,,,,,,,,1981-03-08
+Collingwood,1981,58,South Melbourne,7,W,18,12,3,5,17,,,,,,,,,5,2,,,,,,,,,,1981-04-12
+Collingwood,1981,59,Essendon,8,L,18,6,1,2,8,,,,,,,,,2,,,,,,,,,,,1981-04-19
+Collingwood,1981,60,North Melbourne,9,W,18,9,2,2,11,,,,,,,,,,,,,,,,,,,,1981-04-26
+Collingwood,1981,61,Richmond,10,W,18,5,,5,10,,1,,,,,,,4,4,,,,,,,,,,1981-05-03
+Collingwood,1981,62,Hawthorn,11,L,18,6,2,4,10,,,,,,,,,3,3,,,,,,,,,,1981-05-10

@@ -1,0 +1,7 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Footscray,1973,1,South Melbourne,3,W,40,13,2,2,15,,,,,,,,,,2,,,,,,,,,,1973-03-15
+Footscray,1973,2,Essendon,4,L,40,13,1,1,14,,,,,,,,,3,3,,,,,,,,,,1973-03-22
+Footscray,1973,3,Geelong,6,W,40,11,3,5,16,,1,,,,,,,,2,,,,,,,,,,1973-04-05
+Footscray,1973,4,St Kilda,7,W,40,10,1,2,12,,,,,,,,,1,2,,,,,,,,,,1973-04-12
+Footscray,1973,5,Richmond,11,L,40,14,7,1,15,,,,,,,,,,1,,,,,,,,,,1973-05-10
+Footscray,1973,6,Fitzroy,12,L,40,9,3,3,12,,,,,,,,,2,1,,,,,,,,,,1973-05-17

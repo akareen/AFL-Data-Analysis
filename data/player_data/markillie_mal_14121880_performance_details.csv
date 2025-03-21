@@ -1,0 +1,22 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1899,1,Melbourne,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-03-01
+St Kilda,1899,2,Collingwood,3,L,,,,,,1,,,,,,,,,,,,,,,,,,,1899-03-15
+St Kilda,1899,3,Essendon,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1899-04-26
+St Kilda,1902,4,Melbourne,1,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-01
+St Kilda,1902,5,Fitzroy,2,L,,,,,,1,,,,,,,,,,,,,,,,,,,1902-03-08
+St Kilda,1902,6,Carlton,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-15
+St Kilda,1902,7,Geelong,4,L,,,,,,1,,,,,,,,,,,,,,,,,,,1902-03-22
+St Kilda,1902,8,Collingwood,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-03-29
+St Kilda,1902,9,Fitzroy,9,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-04-26
+St Kilda,1902,10,Carlton,10,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-03
+St Kilda,1902,11,Geelong,11,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-10
+St Kilda,1902,12,Collingwood,12,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-17
+St Kilda,1902,13,South Melbourne,13,L,,,,,,,,,,,,,,,,,,,,,,,,,1902-05-24
+St Kilda,1902,14,Essendon,14,L,,,,,,1,,,,,,,,,,,,,,,,,,,1902-05-31
+St Kilda,1902,15,Essendon,15,L,,,,,,1,,,,,,,,,,,,,,,,,,,1902-06-07
+St Kilda,1902,16,Carlton,16,L,,,,,,1,,,,,,,,,,,,,,,,,,,1902-06-14
+St Kilda,1902,17,Melbourne,17,L,,,,,,1,,,,,,,,,,,,,,,,,,,1902-06-21
+St Kilda,1903,18,Essendon,2,D,,,,,,1,,,,,,,,,,,,,,,,,,,1903-03-08
+St Kilda,1903,19,Collingwood,3,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-15
+St Kilda,1903,20,Fitzroy,5,L,,,,,,,,,,,,,,,,,,,,,,,,,1903-03-29
+St Kilda,1903,21,Melbourne,6,W,,,,,,,,,,,,,,,,,,,,,,,,,1903-04-05

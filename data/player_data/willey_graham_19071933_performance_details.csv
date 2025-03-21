@@ -1,0 +1,18 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1955,1,Collingwood,6,L,37,,,,,2,,,,,,,,,,,,,,,,,,,1955-04-05
+Essendon,1956,2,Carlton,1,W,16,,,,,,,,,,,,,,,,,,,,,,,,1956-03-01
+Essendon,1956,3,Fitzroy,2,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1956-03-08
+Essendon,1956,4,North Melbourne,3,W,16,,,,,3,,,,,,,,,,,,,,,,,,,1956-03-15
+Essendon,1956,5,St Kilda,4,W,16,,,,,6,,,,,,,,,,,,,,,,,,,1956-03-22
+Essendon,1956,6,Richmond,5,W,16,,,,,,,,,,,,,,,,,,,,,,,,1956-03-29
+Essendon,1956,7,Footscray,8,L,16,,,,,4,,,,,,,,,,,,,,,,,,,1956-04-19
+Essendon,1956,8,Melbourne,9,L,16,,,,,,,,,,,,,,,,,,,,,,,,1956-04-26
+Essendon,1956,9,Hawthorn,10,W,16,,,,,2,,,,,,,,,,,,,,,,,,,1956-05-03
+Essendon,1956,10,Collingwood,11,L,16,,,,,,,,,,,,,,,,,,,,,,,,1956-05-10
+Essendon,1956,11,Carlton,12,L,16,,,,,1,,,,,,,,,,,,,,,,,,,1956-05-17
+Essendon,1956,12,Fitzroy,13,W,16,,,,,2,,,,,,,,,,,,,,,,,,,1956-05-24
+Essendon,1956,13,North Melbourne,14,W,16,,,,,5,,,,,,,,,,,,,,,,,,,1956-05-31
+Essendon,1956,14,St Kilda,15,W,16,,,,,1,,,,,,,,,,,,,,,,,,,1956-06-07
+Essendon,1956,15,Richmond,16,L,16,,,,,2,,,,,,,,,,,,,,,,,,,1956-06-14
+Essendon,1956,16,South Melbourne,17,W,16,,,,,3,,,,,,,,,,,,,,,,,,,1956-06-21
+Essendon,1956,17,Geelong,18,W,16,,,,,3,,,,,,,,,,,,,,,,,,,1956-06-28

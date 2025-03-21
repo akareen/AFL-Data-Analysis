@@ -1,0 +1,119 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1955,1,Fitzroy,13,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1955-05-24
+South Melbourne,1957,2,St Kilda,1,L,3,,,,,4,,,,,,,,,,,,,,,,,,,1957-03-01
+South Melbourne,1957,3,Carlton,2,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1957-03-08
+South Melbourne,1957,4,Richmond,3,W,3,,,,,2,,,,,,,,,,,,,,,,,,,1957-03-15
+South Melbourne,1957,5,Collingwood,4,L,3,,,,,,,,,,,,,,,,,,,,,,,,1957-03-22
+South Melbourne,1957,6,Essendon,5,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1957-03-29
+South Melbourne,1957,7,Melbourne,6,L,3,,,,,,,,,,,,,,,,,,,,,,,,1957-04-05
+South Melbourne,1957,8,Footscray,9,L,3,,,,,,,,,,,,,,,,,,,,,,,,1957-04-26
+South Melbourne,1957,9,Geelong,10,W,3,,,,,2,,,,,,,,,,,,,,,,,,,1957-05-03
+South Melbourne,1957,10,St Kilda,12,W,3,,,,,,,,,,,,,,,,,,,,,,,,1957-05-17
+South Melbourne,1957,11,Essendon,16,L,3,,,,,,,,,,,,,,,,,,,,,,,,1957-06-14
+South Melbourne,1957,12,Melbourne,17,W,3,,,,,,,,,,,,,,,,,,,,,,,,1957-06-21
+South Melbourne,1957,13,North Melbourne,18,W,3,,,,,3,,,,,,,,,,,,,,,,,,,1957-06-28
+South Melbourne,1958,14,Richmond,1,L,3,,,,,,,,,,,,,,,,,,,,,,,,1958-03-01
+South Melbourne,1958,15,Fitzroy,2,L,3,,,,,,,,,,,,,,,,,,,,,,,,1958-03-08
+South Melbourne,1958,16,Hawthorn,6,L,3,,,,,,,,,,,,,,,,,,,,,,,,1958-04-05
+South Melbourne,1958,17,Carlton,7,W,3,,,,,1,,,,,,,,,,,,,,,,,,,1958-04-12
+South Melbourne,1958,18,Collingwood,8,L,3,,,,,2,,,,,,,,,,,,,,,,,,,1958-04-19
+South Melbourne,1958,19,Melbourne,9,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1958-04-26
+South Melbourne,1958,20,North Melbourne,10,L,3,,,,,,,,,,,,,,,,,,,,,,,,1958-05-03
+South Melbourne,1958,21,Essendon,11,L,3,,,,,2,,,,,,,,,,,,,,,,,,,1958-05-10
+South Melbourne,1958,22,Richmond,12,L,3,,,,,,,,,,,,,,,,,,,,,,,,1958-05-17
+South Melbourne,1958,23,Fitzroy,13,W,3,,,,,4,,,,,,,,,,,,,,,,,,,1958-05-24
+South Melbourne,1958,24,Footscray,14,W,3,,,,,1,,,,,,,,,,,,,,,,,,,1958-05-31
+South Melbourne,1958,25,Geelong,15,W,3,,,,,4,,,,,,,,,,,,,,,,,,,1958-06-07
+South Melbourne,1958,26,St Kilda,16,W,3,,,,,3,,,,,,,,,,,,,,,,,,,1958-06-14
+South Melbourne,1958,27,Hawthorn,17,W,3,,,,,,,,,,,,,,,,,,,,,,,,1958-06-21
+South Melbourne,1958,28,Carlton,18,L,3,,,,,4,,,,,,,,,,,,,,,,,,,1958-06-28
+South Melbourne,1959,29,Collingwood,1,W,3,,,,,4,,,,,,,,,,,,,,,,,,,1959-03-01
+South Melbourne,1959,30,Fitzroy,2,W,3,,,,,2,,,,,,,,,,,,,,,,,,,1959-03-08
+South Melbourne,1959,31,Essendon,3,W,3,,,,,2,,,,,,,,,,,,,,,,,,,1959-03-15
+South Melbourne,1959,32,Hawthorn,4,L,3,,,,,3,,,,,,,,,,,,,,,,,,,1959-03-22
+South Melbourne,1959,33,Footscray,5,L,3,,,,,4,,,,,,,,,,,,,,,,,,,1959-03-29
+South Melbourne,1959,34,North Melbourne,6,L,3,,,,,2,,,,,,,,,,,,,,,,,,,1959-04-05
+South Melbourne,1959,35,Melbourne,7,L,3,,,,,,,,,,,,,,,,,,,,,,,,1959-04-12
+South Melbourne,1959,36,St Kilda,8,W,3,,,,,,,,,,,,,,,,,,,,,,,,1959-04-19
+South Melbourne,1959,37,Carlton,9,W,3,,,,,1,,,,,,,,,,,,,,,,,,,1959-04-26
+South Melbourne,1959,38,Richmond,10,W,3,,,,,1,,,,,,,,,,,,,,,,,,,1959-05-03
+South Melbourne,1959,39,Geelong,11,W,3,,,,,1,,,,,,,,,,,,,,,,,,,1959-05-10
+South Melbourne,1959,40,Collingwood,12,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1959-05-17
+South Melbourne,1959,41,Fitzroy,13,L,3,,,,,,,,,,,,,,,,,,,,,,,,1959-05-24
+South Melbourne,1959,42,Essendon,14,L,3,,,,,,,,,,,,,,,,,,,,,,,,1959-05-31
+South Melbourne,1959,43,Hawthorn,15,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1959-06-07
+South Melbourne,1959,44,Footscray,16,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1959-06-14
+South Melbourne,1959,45,North Melbourne,17,W,3,,,,,7,,,,,,,,,,,,,,,,,,,1959-06-21
+South Melbourne,1959,46,Melbourne,18,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1959-06-28
+South Melbourne,1960,47,St Kilda,1,W,3,,,,,,,,,,,,,,,,,,,,,,,,1960-03-01
+South Melbourne,1960,48,Geelong,2,L,3,,,,,4,,,,,,,,,,,,,,,,,,,1960-03-08
+South Melbourne,1960,49,Melbourne,3,L,3,,,,,2,,,,,,,,,,,,,,,,,,,1960-03-15
+South Melbourne,1960,50,North Melbourne,4,W,3,,,,,,,,,,,,,,,,,,,,,,,,1960-03-22
+South Melbourne,1960,51,Richmond,5,L,3,,,,,,,,,,,,,,,,,,,,,,,,1960-03-29
+South Melbourne,1960,52,Collingwood,6,W,3,,,,,2,,,,,,,,,,,,,,,,,,,1960-04-05
+South Melbourne,1960,53,Carlton,7,W,3,,,,,2,,,,,,,,,,,,,,,,,,,1960-04-12
+South Melbourne,1960,54,Fitzroy,8,L,3,,,,,,,,,,,,,,,,,,,,,,,,1960-04-19
+South Melbourne,1960,55,Essendon,9,L,3,,,,,,,,,,,,,,,,,,,,,,,,1960-04-26
+South Melbourne,1960,56,Hawthorn,10,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1960-05-03
+South Melbourne,1960,57,Footscray,11,W,3,,,,,2,,,,,,,,,,,,,,,,,,,1960-05-10
+South Melbourne,1960,58,St Kilda,12,L,3,,,,,,,,,,,,,,,,,,,,,,,,1960-05-17
+South Melbourne,1960,59,Geelong,13,W,3,,,,,3,,,,,,,,,,,,,,,,,,,1960-05-24
+South Melbourne,1960,60,Melbourne,14,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1960-05-31
+South Melbourne,1960,61,North Melbourne,15,L,3,,,,,3,,,,,,,,,,,,,,,,,,,1960-06-07
+South Melbourne,1960,62,Richmond,16,W,3,,,,,1,,,,,,,,,,,,,,,,,,,1960-06-14
+South Melbourne,1960,63,Collingwood,17,L,3,,,,,,,,,,,,,,,,,,,,,,,,1960-06-21
+South Melbourne,1960,64,Carlton,18,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1960-06-28
+South Melbourne,1961,65,Hawthorn,1,W,3,,,,,1,,,,,,,,,,,,,,,,,,,1961-03-01
+South Melbourne,1961,66,Geelong,2,L,3,,,,,6,,,,,,,,,,,,,,,,,,,1961-03-08
+South Melbourne,1961,67,Richmond,3,W,3,,,,,2,,,,,,,,,,,,,,,,,,,1961-03-15
+South Melbourne,1961,68,Carlton,4,L,3,,,,,2,,,,,,,,,,,,,,,,,,,1961-03-22
+South Melbourne,1961,69,Footscray,5,W,3,,,,,4,,,,,,,,,,,,,,,,,,,1961-03-29
+South Melbourne,1961,70,Essendon,6,L,3,,,,,3,,,,,,,,,,,,,,,,,,,1961-04-05
+South Melbourne,1961,71,Fitzroy,7,L,3,,,,,2,,,,,,,,,,,,,,,,,,,1961-04-12
+South Melbourne,1961,72,St Kilda,8,L,3,,,,,2,,,,,,,,,,,,,,,,,,,1961-04-19
+South Melbourne,1961,73,Melbourne,9,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1961-04-26
+South Melbourne,1961,74,Collingwood,10,L,3,,,,,2,,,,,,,,,,,,,,,,,,,1961-05-03
+South Melbourne,1961,75,North Melbourne,11,W,3,,,,,2,,,,,,,,,,,,,,,,,,,1961-05-10
+South Melbourne,1961,76,Hawthorn,12,L,3,,,,,3,,,,,,,,,,,,,,,,,,,1961-05-17
+South Melbourne,1961,77,Geelong,13,L,3,,,,,2,,,,,,,,,,,,,,,,,,,1961-05-24
+South Melbourne,1961,78,Richmond,14,W,3,,,,,1,,,,,,,,,,,,,,,,,,,1961-05-31
+South Melbourne,1961,79,Carlton,15,L,3,,,,,2,,,,,,,,,,,,,,,,,,,1961-06-07
+South Melbourne,1961,80,Footscray,16,L,3,,,,,,,,,,,,,,,,,,,,,,,,1961-06-14
+South Melbourne,1961,81,Essendon,17,L,3,,,,,2,,,,,,,,,,,,,,,,,,,1961-06-21
+South Melbourne,1961,82,Fitzroy,18,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1961-06-28
+South Melbourne,1962,83,North Melbourne,1,W,3,,,,,2,,,,,,,,,,,,,,,,,,,1962-03-01
+South Melbourne,1962,84,St Kilda,2,W,3,,,,,,,,,,,,,,,,,,,,,,,,1962-03-08
+South Melbourne,1962,85,Collingwood,3,L,3,,,,,,,,,,,,,,,,,,,,,,,,1962-03-15
+South Melbourne,1962,86,Footscray,4,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1962-03-22
+South Melbourne,1962,87,Fitzroy,5,L,3,,,,,3,,,,,,,,,,,,,,,,,,,1962-03-29
+South Melbourne,1962,88,Melbourne,6,L,3,,,,,,,,,,,,,,,,,,,,,,,,1962-04-05
+South Melbourne,1962,89,Essendon,7,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1962-04-12
+South Melbourne,1962,90,Geelong,8,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1962-04-19
+South Melbourne,1962,91,Richmond,9,L,3,,,,,4,,,,,,,,,,,,,,,,,,,1962-04-26
+South Melbourne,1962,92,Hawthorn,10,L,3,,,,,4,,,,,,,,,,,,,,,,,,,1962-05-03
+South Melbourne,1962,93,Carlton,11,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1962-05-10
+South Melbourne,1962,94,North Melbourne,12,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1962-05-17
+South Melbourne,1962,95,St Kilda,13,L,3,,,,,,,,,,,,,,,,,,,,,,,,1962-05-24
+South Melbourne,1962,96,Collingwood,14,L,3,,,,,,,,,,,,,,,,,,,,,,,,1962-05-31
+South Melbourne,1962,97,Footscray,15,L,3,,,,,2,,,,,,,,,,,,,,,,,,,1962-06-07
+South Melbourne,1962,98,Fitzroy,16,W,3,,,,,2,,,,,,,,,,,,,,,,,,,1962-06-14
+South Melbourne,1962,99,Melbourne,17,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1962-06-21
+South Melbourne,1962,100,Essendon,18,L,3,,,,,2,,,,,,,,,,,,,,,,,,,1962-06-28
+South Melbourne,1963,101,Geelong,1,L,3,,,,,2,,,,,,,,,,,,,,,,,,,1963-03-01
+South Melbourne,1963,102,Richmond,2,L,3,,,,,2,,,,,,,,,,,,,,,,,,,1963-03-08
+South Melbourne,1963,103,Carlton,3,L,3,,,,,2,,,,,,,,,,,,,,,,,,,1963-03-15
+South Melbourne,1963,104,Hawthorn,4,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1963-03-22
+South Melbourne,1963,105,North Melbourne,5,W,3,,,,,1,,,,,,,,,,,,,,,,,,,1963-03-29
+South Melbourne,1963,106,St Kilda,6,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1963-04-05
+South Melbourne,1963,107,Melbourne,7,W,3,,,,,,,,,,,,,,,,,,,,,,,,1963-04-12
+South Melbourne,1963,108,Footscray,8,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1963-04-19
+South Melbourne,1963,109,Fitzroy,9,W,3,,,,,,,,,,,,,,,,,,,,,,,,1963-04-26
+South Melbourne,1963,110,Collingwood,10,L,3,,,,,3,,,,,,,,,,,,,,,,,,,1963-05-03
+South Melbourne,1963,111,Essendon,11,L,3,,,,,,,,,,,,,,,,,,,,,,,,1963-05-10
+South Melbourne,1963,112,Geelong,12,L,3,,,,,,,,,,,,,,,,,,,,,,,,1963-05-17
+South Melbourne,1963,113,Richmond,13,W,3,,,,,4,,,,,,,,,,,,,,,,,,,1963-05-24
+South Melbourne,1963,114,Carlton,14,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1963-05-31
+South Melbourne,1963,115,Hawthorn,15,L,3,,,,,,,,,,,,,,,,,,,,,,,,1963-06-07
+South Melbourne,1963,116,North Melbourne,16,L,3,,,,,,,,,,,,,,,,,,,,,,,,1963-06-14
+South Melbourne,1963,117,St Kilda,17,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1963-06-21
+South Melbourne,1963,118,Melbourne,18,L,3,,,,,,,,,,,,,,,,,,,,,,,,1963-06-28

@@ -1,0 +1,53 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1937,1,Richmond,1,W,7,,,,,,,,,,,,,,,,,,,,,,,,1937-03-01
+Melbourne,1937,2,Essendon,2,W,7,,,,,5,,,,,,,,,,,,,,,,,,,1937-03-08
+Melbourne,1937,3,Carlton,3,W,7,,,,,2,,,,,,,,,,,,,,,,,,,1937-03-15
+Melbourne,1937,4,St Kilda,4,W,7,,,,,1,,,,,,,,,,,,,,,,,,,1937-03-22
+Melbourne,1937,5,Collingwood,5,W,7,,,,,1,,,,,,,,,,,,,,,,,,,1937-03-29
+Melbourne,1937,6,Footscray,6,W,7,,,,,,,,,,,,,,,,,,,,,,,,1937-04-05
+Melbourne,1937,7,North Melbourne,7,W,7,,,,,,,,,,,,,,,,,,,,,,,,1937-04-12
+Melbourne,1937,8,Hawthorn,8,W,7,,,,,1,,,,,,,,,,,,,,,,,,,1937-04-19
+Melbourne,1937,9,Geelong,9,L,7,,,,,1,,,,,,,,,,,,,,,,,,,1937-04-26
+Melbourne,1937,10,Fitzroy,10,W,7,,,,,,,,,,,,,,,,,,,,,,,,1937-05-03
+Melbourne,1937,11,South Melbourne,11,W,7,,,,,,,,,,,,,,,,,,,,,,,,1937-05-10
+Melbourne,1937,12,Essendon,13,W,7,,,,,,,,,,,,,,,,,,,,,,,,1937-05-24
+Melbourne,1937,13,Carlton,14,L,7,,,,,,,,,,,,,,,,,,,,,,,,1937-05-31
+Melbourne,1937,14,St Kilda,15,W,7,,,,,,,,,,,,,,,,,,,,,,,,1937-06-07
+Melbourne,1937,15,Collingwood,16,W,7,,,,,,,,,,,,,,,,,,,,,,,,1937-06-14
+Melbourne,1937,16,North Melbourne,18,W,7,,,,,3,,,,,,,,,,,,,,,,,,,1937-06-28
+Melbourne,1937,17,Geelong,SF,L,7,,,,,,,,,,,,,,,,,,,,,,,,1937-03-01
+Melbourne,1938,18,Geelong,1,W,7,,,,,4,,,,,,,,,,,,,,,,,,,1938-03-01
+Melbourne,1938,19,Hawthorn,2,L,7,,,,,1,,,,,,,,,,,,,,,,,,,1938-03-08
+Melbourne,1938,20,Fitzroy,3,W,7,,,,,1,,,,,,,,,,,,,,,,,,,1938-03-15
+Melbourne,1938,21,South Melbourne,4,W,7,,,,,,,,,,,,,,,,,,,,,,,,1938-03-22
+Melbourne,1938,22,Footscray,5,L,7,,,,,2,,,,,,,,,,,,,,,,,,,1938-03-29
+Melbourne,1938,23,Carlton,6,W,7,,,,,,,,,,,,,,,,,,,,,,,,1938-04-05
+Melbourne,1938,24,Collingwood,7,W,7,,,,,1,,,,,,,,,,,,,,,,,,,1938-04-12
+Melbourne,1938,25,North Melbourne,8,W,7,,,,,,,,,,,,,,,,,,,,,,,,1938-04-19
+Melbourne,1938,26,St Kilda,9,W,7,,,,,1,,,,,,,,,,,,,,,,,,,1938-04-26
+Melbourne,1938,27,Richmond,10,L,7,,,,,,,,,,,,,,,,,,,,,,,,1938-05-03
+Melbourne,1938,28,Essendon,11,L,7,,,,,,,,,,,,,,,,,,,,,,,,1938-05-10
+Melbourne,1938,29,Hawthorn,13,W,7,,,,,,,,,,,,,,,,,,,,,,,,1938-05-24
+Melbourne,1938,30,Fitzroy,14,W,7,,,,,,,,,,,,,,,,,,,,,,,,1938-05-31
+Melbourne,1938,31,South Melbourne,15,W,7,,,,,,,,,,,,,,,,,,,,,,,,1938-06-07
+Melbourne,1938,32,Footscray,16,L,7,,,,,,,,,,,,,,,,,,,,,,,,1938-06-14
+Melbourne,1938,33,Carlton,17,W,7,,,,,1,,,,,,,,,,,,,,,,,,,1938-06-21
+Melbourne,1938,34,Collingwood,18,L,7,,,,,,,,,,,,,,,,,,,,,,,,1938-06-28
+Melbourne,1939,35,Richmond,1,L,7,,,,,1,,,,,,,,,,,,,,,,,,,1939-03-01
+Melbourne,1939,36,Essendon,2,W,7,,,,,2,,,,,,,,,,,,,,,,,,,1939-03-08
+Melbourne,1939,37,Collingwood,10,W,7,,,,,3,,,,,,,,,,,,,,,,,,,1939-05-03
+Melbourne,1939,38,Hawthorn,11,W,7,,,,,,,,,,,,,,,,,,,,,,,,1939-05-10
+Melbourne,1939,39,North Melbourne,15,W,7,,,,,,,,,,,,,,,,,,,,,,,,1939-06-07
+Melbourne,1939,40,Geelong,16,W,7,,,,,,,,,,,,,,,,,,,,,,,,1939-06-14
+Melbourne,1939,41,Fitzroy,18,W,7,,,,,,,,,,,,,,,,,,,,,,,,1939-06-28
+Melbourne,1940,42,Richmond,2,W,7,,,,,,,,,,,,,,,,,,,,,,,,1940-03-08
+Melbourne,1940,43,Footscray,3,W,7,,,,,3,,,,,,,,,,,,,,,,,,,1940-03-15
+Melbourne,1940,44,Carlton,4,W,7,,,,,,,,,,,,,,,,,,,,,,,,1940-03-22
+Melbourne,1940,45,Collingwood,5,W,7,,,,,,,,,,,,,,,,,,,,,,,,1940-03-29
+Melbourne,1940,46,Hawthorn,6,L,7,,,,,2,,,,,,,,,,,,,,,,,,,1940-04-05
+Melbourne,1940,47,Fitzroy,8,W,7,,,,,1,,,,,,,,,,,,,,,,,,,1940-04-19
+Melbourne,1940,48,St Kilda,9,W,7,,,,,2,,,,,,,,,,,,,,,,,,,1940-04-26
+Melbourne,1940,49,Geelong,10,L,7,,,,,3,,,,,,,,,,,,,,,,,,,1940-05-03
+Melbourne,1940,50,South Melbourne,11,W,7,,,,,,,,,,,,,,,,,,,,,,,,1940-05-10
+Melbourne,1940,51,Essendon,12,W,7,,,,,,,,,,,,,,,,,,,,,,,,1940-05-17
+Melbourne,1940,52,Richmond,13,W,7,,,,,,,,,,,,,,,,,,,,,,,,1940-05-24

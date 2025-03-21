@@ -1,0 +1,5 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1944,1,South Melbourne,11,W,5,,,,,,,,,,,,,,,,,,,,,,,,1944-05-10
+Essendon,1944,2,Hawthorn,12,W,5,,,,,,,,,,,,,,,,,,,,,,,,1944-05-17
+Essendon,1944,3,Melbourne,13,W,5,,,,,,,,,,,,,,,,,,,,,,,,1944-05-24
+Essendon,1945,4,Hawthorn,12,L,13,,,,,1,,,,,,,,,,,,,,,,,,,1945-05-17

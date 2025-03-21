@@ -1,0 +1,35 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+University,1911,1,Carlton,4,L,,,,,,,,,,,,,,,,,,,,,,,,,1911-03-22
+University,1912,2,Richmond,12,L,1,,,,,,,,,,,,,,,,,,,,,,,,1912-05-17
+University,1912,3,St Kilda,13,L,1,,,,,,,,,,,,,,,,,,,,,,,,1912-05-24
+University,1912,4,Fitzroy,14,L,1,,,,,,,,,,,,,,,,,,,,,,,,1912-05-31
+University,1912,5,South Melbourne,15,L,1,,,,,,,,,,,,,,,,,,,,,,,,1912-06-07
+University,1912,6,Collingwood,16,L,1,,,,,,,,,,,,,,,,,,,,,,,,1912-06-14
+University,1912,7,Carlton,18,L,1,,,,,,,,,,,,,,,,,,,,,,,,1912-06-28
+University,1913,8,Fitzroy,1,L,13,,,,,,,,,,,,,,,,,,,,,,,,1913-03-01
+University,1913,9,Melbourne,2,L,13,,,,,,,,,,,,,,,,,,,,,,,,1913-03-08
+University,1913,10,St Kilda,3,L,13,,,,,,,,,,,,,,,,,,,,,,,,1913-03-15
+University,1913,11,Geelong,4,L,13,,,,,,,,,,,,,,,,,,,,,,,,1913-03-22
+University,1913,12,Carlton,5,L,13,,,,,,,,,,,,,,,,,,,,,,,,1913-03-29
+University,1913,13,Essendon,7,L,13,,,,,,,,,,,,,,,,,,,,,,,,1913-04-12
+University,1913,14,South Melbourne,8,L,13,,,,,,,,,,,,,,,,,,,,,,,,1913-04-19
+University,1913,15,Richmond,9,L,13,,,,,,,,,,,,,,,,,,,,,,,,1913-04-26
+University,1913,16,Fitzroy,10,L,13,,,,,,,,,,,,,,,,,,,,,,,,1913-05-03
+University,1913,17,South Melbourne,17,L,13,,,,,,,,,,,,,,,,,,,,,,,,1913-06-21
+University,1913,18,Richmond,18,L,13,,,,,,,,,,,,,,,,,,,,,,,,1913-06-28
+University,1914,19,South Melbourne,1,L,6,,,,,,,,,,,,,,,,,,,,,,,,1914-03-01
+University,1914,20,Essendon,2,L,6,,,,,,,,,,,,,,,,,,,,,,,,1914-03-08
+University,1914,21,Carlton,3,L,6,,,,,,,,,,,,,,,,,,,,,,,,1914-03-15
+University,1914,22,Geelong,4,L,6,,,,,,,,,,,,,,,,,,,,,,,,1914-03-22
+University,1914,23,Collingwood,5,L,6,,,,,,,,,,,,,,,,,,,,,,,,1914-03-29
+University,1914,24,Richmond,6,L,6,,,,,,,,,,,,,,,,,,,,,,,,1914-04-05
+University,1914,25,St Kilda,9,L,6,,,,,,,,,,,,,,,,,,,,,,,,1914-04-26
+University,1914,26,South Melbourne,10,L,6,,,,,,,,,,,,,,,,,,,,,,,,1914-05-03
+University,1914,27,Essendon,11,L,6,,,,,,,,,,,,,,,,,,,,,,,,1914-05-10
+University,1914,28,Carlton,12,L,6,,,,,,,,,,,,,,,,,,,,,,,,1914-05-17
+University,1914,29,Geelong,13,L,6,,,,,,,,,,,,,,,,,,,,,,,,1914-05-24
+University,1914,30,Collingwood,14,L,6,,,,,,,,,,,,,,,,,,,,,,,,1914-05-31
+University,1914,31,Richmond,15,L,6,,,,,,,,,,,,,,,,,,,,,,,,1914-06-07
+University,1914,32,Melbourne,16,L,6,,,,,,,,,,,,,,,,,,,,,,,,1914-06-14
+University,1914,33,Fitzroy,17,L,6,,,,,,,,,,,,,,,,,,,,,,,,1914-06-21
+University,1914,34,St Kilda,18,L,6,,,,,,,,,,,,,,,,,,,,,,,,1914-06-28

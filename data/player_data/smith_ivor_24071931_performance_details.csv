@@ -1,0 +1,14 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+St Kilda,1952,1,Footscray,11,L,28,,,,,,,,,,,,,,,,,,,,,,,,1952-05-10
+St Kilda,1952,2,Richmond,12,L,28,,,,,,,,,,,,,,,,,,,,,,,,1952-05-17
+St Kilda,1952,3,South Melbourne,13,L,28,,,,,,,,,,,,,,,,,,,,,,,,1952-05-24
+St Kilda,1952,4,Melbourne,14,L,28,,,,,,,,,,,,,,,,,,,,,,,,1952-05-31
+St Kilda,1952,5,Geelong,15,L,28,,,,,,,,,,,,,,,,,,,,,,,,1952-06-07
+St Kilda,1952,6,Collingwood,16,L,28,,,,,,,,,,,,,,,,,,,,,,,,1952-06-14
+St Kilda,1952,7,Essendon,17,L,28,,,,,,,,,,,,,,,,,,,,,,,,1952-06-21
+St Kilda,1952,8,Carlton,18,L,28,,,,,,,,,,,,,,,,,,,,,,,,1952-06-28
+St Kilda,1952,9,Fitzroy,19,W,28,,,,,,,,,,,,,,,,,,,,,,,,1952-07-05
+St Kilda,1953,10,South Melbourne,7,L,28,,,,,,,,,,,,,,,,,,,,,,,,1953-04-12
+St Kilda,1953,11,Collingwood,8,L,28,,,,,,,,,,,,,,,,,,,,,,,,1953-04-19
+St Kilda,1954,12,Richmond,8,L,28,,,,,,,,,,,,,,,,,,,,,,,,1954-04-19
+St Kilda,1954,13,South Melbourne,9,L,28,,,,,,,,,,,,,,,,,,,,,,,,1954-04-26

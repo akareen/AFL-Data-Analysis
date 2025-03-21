@@ -1,0 +1,11 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Fitzroy,1966,1,Footscray,4,L,45,4,2,4,8,,,11,,,,,,3,3,,,,,,,,,,1966-03-22
+Fitzroy,1966,2,Essendon,5,L,45,4,1,,4,,,2,,,,,,,1,,,,,,,,,,1966-03-29
+Fitzroy,1966,3,St Kilda,6,L,45,7,2,,7,,1,8,,,,,,1,1,,,,,,,,,,1966-04-05
+Fitzroy,1966,4,Richmond,7,L,45,6,1,2,8,1,,6,,,,,,2,2,,,,,,,,,,1966-04-12
+Fitzroy,1966,5,Hawthorn,8,L,45,7,2,4,11,,1,17,,,,,,5,1,,,,,,,,,,1966-04-19
+Fitzroy,1966,6,Geelong,9,L,45,8,3,3,11,1,,6,,,,,,3,6,,,,,,,,,,1966-04-26
+Fitzroy,1966,7,Melbourne,10,L,45,3,1,,3,,,2,,,,,,2,2,,,,,,,,,,1966-05-03
+Fitzroy,1966,8,North Melbourne,11,L,45,5,,4,9,,1,9,,,,,,1,1,,,,,,,,,,1966-05-10
+Fitzroy,1967,9,Richmond,3,L,43,1,,,1,,,2,,,,,,,,,,,,,,,,,1967-03-15
+Fitzroy,1967,10,Geelong,4,L,43,3,1,2,5,,,10,,,,,,,2,,,,,,,,,,1967-03-22

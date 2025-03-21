@@ -1,0 +1,25 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Melbourne,1926,1,St Kilda,1,W,32,,,,,2,,,,,,,,,,,,,,,,,,,1926-03-01
+Melbourne,1926,2,Carlton,2,L,32,,,,,,,,,,,,,,,,,,,,,,,,1926-03-08
+Footscray,1929,3,Fitzroy,1,W,11,,,,,,,,,,,,,,,,,,,,,,,,1929-03-01
+Footscray,1929,4,Essendon,2,L,11,,,,,,,,,,,,,,,,,,,,,,,,1929-03-08
+Footscray,1929,5,North Melbourne,3,W,11,,,,,,,,,,,,,,,,,,,,,,,,1929-03-15
+Footscray,1929,6,Richmond,4,L,11,,,,,,,,,,,,,,,,,,,,,,,,1929-03-22
+Footscray,1929,7,Melbourne,5,D,11,,,,,,,,,,,,,,,,,,,,,,,,1929-03-29
+Footscray,1929,8,Hawthorn,6,W,11,,,,,,,,,,,,,,,,,,,,,,,,1929-04-05
+Footscray,1929,9,St Kilda,7,L,11,,,,,,,,,,,,,,,,,,,,,,,,1929-04-12
+Footscray,1929,10,South Melbourne,8,W,11,,,,,2,,,,,,,,,,,,,,,,,,,1929-04-19
+Footscray,1929,11,Collingwood,9,L,11,,,,,,,,,,,,,,,,,,,,,,,,1929-04-26
+Footscray,1929,12,Fitzroy,12,W,11,,,,,,,,,,,,,,,,,,,,,,,,1929-05-17
+Footscray,1929,13,Essendon,13,L,11,,,,,,,,,,,,,,,,,,,,,,,,1929-05-24
+Footscray,1929,14,North Melbourne,14,L,11,,,,,,,,,,,,,,,,,,,,,,,,1929-05-31
+Footscray,1929,15,Richmond,15,L,11,,,,,,,,,,,,,,,,,,,,,,,,1929-06-07
+Footscray,1929,16,Melbourne,16,L,11,,,,,,,,,,,,,,,,,,,,,,,,1929-06-14
+Footscray,1929,17,Hawthorn,17,L,11,,,,,,,,,,,,,,,,,,,,,,,,1929-06-21
+Footscray,1929,18,St Kilda,18,L,11,,,,,,,,,,,,,,,,,,,,,,,,1929-06-28
+Footscray,1930,19,North Melbourne,3,W,11,,,,,,,,,,,,,,,,,,,,,,,,1930-03-15
+Footscray,1930,20,Richmond,4,L,11,,,,,,,,,,,,,,,,,,,,,,,,1930-03-22
+Footscray,1930,21,Melbourne,5,L,11,,,,,,,,,,,,,,,,,,,,,,,,1930-03-29
+Footscray,1930,22,Hawthorn,6,W,11,,,,,,,,,,,,,,,,,,,,,,,,1930-04-05
+Footscray,1930,23,St Kilda,7,L,11,,,,,,,,,,,,,,,,,,,,,,,,1930-04-12
+Footscray,1930,24,South Melbourne,8,L,11,,,,,,,,,,,,,,,,,,,,,,,,1930-04-19

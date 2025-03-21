@@ -1,0 +1,28 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+South Melbourne,1938,1,Essendon,5,L,6,,,,,,,,,,,,,,,,,,,,,,,,1938-03-29
+South Melbourne,1938,2,Hawthorn,6,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1938-04-05
+South Melbourne,1938,3,Geelong,7,L,6,,,,,,,,,,,,,,,,,,,,,,,,1938-04-12
+South Melbourne,1938,4,Richmond,8,L,6,,,,,,,,,,,,,,,,,,,,,,,,1938-04-19
+South Melbourne,1938,5,Fitzroy,9,L,6,,,,,,,,,,,,,,,,,,,,,,,,1938-04-26
+South Melbourne,1938,6,Carlton,10,L,6,,,,,,,,,,,,,,,,,,,,,,,,1938-05-03
+South Melbourne,1938,7,Collingwood,11,L,6,,,,,,,,,,,,,,,,,,,,,,,,1938-05-10
+South Melbourne,1939,8,Carlton,1,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1939-03-01
+South Melbourne,1939,9,Collingwood,2,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1939-03-08
+South Melbourne,1939,10,Fitzroy,3,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1939-03-15
+South Melbourne,1939,11,Richmond,4,L,6,,,,,,,,,,,,,,,,,,,,,,,,1939-03-22
+South Melbourne,1939,12,Footscray,5,W,6,,,,,,,,,,,,,,,,,,,,,,,,1939-03-29
+South Melbourne,1939,13,Melbourne,6,L,6,,,,,,,,,,,,,,,,,,,,,,,,1939-04-05
+South Melbourne,1939,14,St Kilda,7,L,6,,,,,,,,,,,,,,,,,,,,,,,,1939-04-12
+South Melbourne,1939,15,Essendon,8,W,6,,,,,,,,,,,,,,,,,,,,,,,,1939-04-19
+South Melbourne,1939,16,Hawthorn,9,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1939-04-26
+South Melbourne,1939,17,Geelong,10,L,6,,,,,,,,,,,,,,,,,,,,,,,,1939-05-03
+South Melbourne,1939,18,North Melbourne,11,L,6,,,,,,,,,,,,,,,,,,,,,,,,1939-05-10
+South Melbourne,1939,19,Carlton,12,L,6,,,,,,,,,,,,,,,,,,,,,,,,1939-05-17
+South Melbourne,1939,20,Collingwood,13,L,6,,,,,,,,,,,,,,,,,,,,,,,,1939-05-24
+South Melbourne,1939,21,Fitzroy,14,L,6,,,,,,,,,,,,,,,,,,,,,,,,1939-05-31
+South Melbourne,1939,22,Richmond,15,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1939-06-07
+South Melbourne,1939,23,Footscray,16,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1939-06-14
+South Melbourne,1939,24,Melbourne,17,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1939-06-21
+South Melbourne,1939,25,St Kilda,18,L,6,,,,,,,,,,,,,,,,,,,,,,,,1939-06-28
+South Melbourne,1940,26,Hawthorn,4,W,6,,,,,1,,,,,,,,,,,,,,,,,,,1940-03-22
+South Melbourne,1940,27,Geelong,5,L,6,,,,,,,,,,,,,,,,,,,,,,,,1940-03-29

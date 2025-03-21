@@ -1,0 +1,14 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Richmond,1959,1,North Melbourne,13,W,42,,,,,,,,,,,,,,,,,,,,,,,,1959-05-24
+Richmond,1959,2,Geelong,14,L,42,,,,,1,,,,,,,,,,,,,,,,,,,1959-05-31
+Richmond,1959,3,Carlton,15,L,42,,,,,,,,,,,,,,,,,,,,,,,,1959-06-07
+Richmond,1959,4,Collingwood,16,L,42,,,,,2,,,,,,,,,,,,,,,,,,,1959-06-14
+Richmond,1959,5,St Kilda,17,L,42,,,,,1,,,,,,,,,,,,,,,,,,,1959-06-21
+Richmond,1959,6,Hawthorn,18,L,42,,,,,,,,,,,,,,,,,,,,,,,,1959-06-28
+Richmond,1960,7,Carlton,1,D,6,,,,,1,,,,,,,,,,,,,,,,,,,1960-03-01
+Richmond,1960,8,Essendon,2,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1960-03-08
+Richmond,1960,9,Fitzroy,4,L,6,,,,,,,,,,,,,,,,,,,,,,,,1960-03-22
+Richmond,1960,10,South Melbourne,5,W,6,,,,,2,,,,,,,,,,,,,,,,,,,1960-03-29
+Richmond,1960,11,Melbourne,6,L,6,,,,,,,,,,,,,,,,,,,,,,,,1960-04-05
+Richmond,1960,12,St Kilda,11,L,6,,,,,,,,,,,,,,,,,,,,,,,,1960-05-10
+Richmond,1960,13,Essendon,13,L,6,,,,,,,,,,,,,,,,,,,,,,,,1960-05-24

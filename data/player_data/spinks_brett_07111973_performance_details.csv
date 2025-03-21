@@ -1,0 +1,41 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+West Coast,1994,1,Essendon,1,L,29,6,4,5,11,,1,1,,,,,,,2,,,,,,,,,,1994-03-01
+West Coast,1994,2,Adelaide,2,W,29,10,8,3,13,1,,,,,,,,1,,,,,,,,,,,1994-03-08
+West Coast,1994,3,Richmond,3,W,29,7,6,4,11,2,,1,,,,,,1,1,,,,,,,,,,1994-03-15
+West Coast,1994,4,Fitzroy,4,W,29,14,10,1,15,,2,6,,,,,,1,2,1,,,,,,,,,1994-03-22
+West Coast,1994,5,Hawthorn,5,L,29,6,6,2,8,1,1,,,,,,,,1,,,,,,,,,,1994-03-29
+West Coast,1994,6,North Melbourne,6,W,29,11,5,,11,3,,2,,,,,,2,,,,,,,,,,,1994-04-05
+West Coast,1994,7,Carlton,7,W,29,3,3,4,7,1,1,,,,,,,,2,,,,,,,,,,1994-04-12
+West Coast,1994,8,Footscray,9,W,29,,,1,1,,,,,,,,,,1,,,,,,,,,,1994-04-26
+West Coast,1994,9,Melbourne,11,W,29,,,,,,,5,1,,,,,,,,,,,,,,,,1994-05-10
+West Coast,1994,10,Brisbane Bears,12,W,29,10,6,4,14,,,5,,,,,,1,1,,,,,,,,,,1994-05-17
+West Coast,1994,11,Collingwood,13,L,29,4,2,,4,,2,,,,,,,1,,,,,,,,,,,1994-05-24
+West Coast,1994,12,St Kilda,15,W,29,4,2,6,10,1,,1,,,,,,,1,,,,,,,,,,1994-06-07
+West Coast,1994,13,Adelaide,17,L,29,,,1,1,,,1,1,,,,,,3,,,,,,,,,,1994-06-21
+West Coast,1994,14,Footscray,24,W,29,5,3,2,7,1,,4,,,,,,,,,,,,,,,,,1994-08-09
+West Coast,1994,15,Collingwood,QF,W,29,3,1,3,6,,1,1,,,,,,1,1,,,,,,,,,,1994-03-01
+West Coast,1995,16,Brisbane Bears,10,W,29,7,5,3,10,1,1,1,,,,,,,1,,,,,,,,,,1995-05-03
+West Coast,1996,17,Essendon,3,L,25,7,5,3,10,1,3,1,,,,,,1,2,,,,,,,,,,1996-03-15
+West Coast,1996,18,Geelong,4,L,25,6,5,2,8,2,3,1,,,,,,,1,,,,,,,,,,1996-03-22
+West Coast,1996,19,Carlton,5,L,25,1,,2,3,,,,,,,,,1,1,,,,,,,,,,1996-03-29
+West Coast,1997,20,North Melbourne,10,L,25,3,3,2,5,,,,1,,,,,1,1,,,,,,,,,,1997-05-03
+West Coast,1997,21,Adelaide,14,L,25,5,4,3,8,,1,3,,,,,,,1,,,,,,,,,,1997-05-31
+Geelong,1998,22,St Kilda,1,L,14,7,4,1,8,4,2,,1,,,,,2,,,,,,,,,,,1998-03-01
+Geelong,1998,23,Richmond,2,W,14,8,4,2,10,2,4,1,1,,3,2,3,3,3,,,,,,,,,,1998-03-08
+Geelong,1998,24,Hawthorn,6,W,14,10,9,4,14,6,2,,3,,3,,1,1,2,3,,,,,,,,,1998-04-05
+Geelong,1998,25,Essendon,7,W,14,7,7,1,8,5,,,1,,1,,1,,1,,,,,,,,,,1998-04-12
+Geelong,1998,26,Fremantle,8,W,14,3,3,,3,1,1,,1,,1,,,,,,,,,,,,,,1998-04-19
+Geelong,1998,27,West Coast,9,L,14,2,,1,3,,1,,1,,,,,,,,,,,,,,,,1998-04-26
+Geelong,1998,28,North Melbourne,10,W,14,9,9,2,11,5,3,,,,,,2,,1,,,,,,,,,,1998-05-03
+Geelong,1998,29,Carlton,11,W,14,1,1,2,3,,,,,,1,,,,1,,,,,,,,,,1998-05-10
+Geelong,1998,30,Melbourne,12,W,14,5,6,4,9,4,,2,2,,1,,4,,1,,,,,,,,,,1998-05-17
+Geelong,1998,31,Brisbane Lions,13,L,14,2,2,1,3,1,,,,,1,,,,1,,,,,,,,,,1998-05-24
+Geelong,1998,32,Port Adelaide,14,L,14,8,5,2,10,1,2,1,,,1,1,,,,,,,,,,,,,1998-05-31
+Geelong,1998,33,Collingwood,15,L,14,6,1,1,7,,,,1,,,1,5,,1,,,,,,,,,,1998-06-07
+Geelong,1998,34,St Kilda,16,L,14,2,2,1,3,,1,,,,,,,,1,,,,,,,,,,1998-06-14
+Geelong,1998,35,Richmond,17,L,14,2,3,3,5,,1,,,,1,,,,,,,,,,,,,,1998-06-21
+Geelong,1998,36,Sydney,18,L,14,8,7,2,10,2,1,2,,,3,1,1,,2,,,,,,,,,,1998-06-28
+Geelong,1998,37,Western Bulldogs,19,W,14,4,3,2,6,1,1,2,1,,,,,,2,,,,,,,,,,1998-07-05
+Geelong,1998,38,Adelaide,20,L,14,5,4,3,8,2,1,3,,,2,,,1,1,,,,,,,,,,1998-07-12
+Geelong,1998,39,Hawthorn,21,L,14,4,1,1,5,,1,,,,,,,,,,,,,,,,,,1998-07-19
+Geelong,1998,40,Essendon,22,W,14,4,3,6,10,1,,,1,2,,,,,,,,,,,,,,,1998-07-26

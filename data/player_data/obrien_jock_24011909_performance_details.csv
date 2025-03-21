@@ -1,0 +1,23 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Essendon,1932,1,Melbourne,11,L,6,,,,,,,,,,,,,,,,,,,,,,,,1932-05-10
+Essendon,1932,2,Footscray,12,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1932-05-17
+Essendon,1932,3,North Melbourne,13,W,6,,,,,,,,,,,,,,,,,,,,,,,,1932-05-24
+Essendon,1932,4,Collingwood,14,L,6,,,,,2,,,,,,,,,,,,,,,,,,,1932-05-31
+Essendon,1932,5,St Kilda,15,W,6,,,,,,,,,,,,,,,,,,,,,,,,1932-06-07
+Essendon,1932,6,South Melbourne,16,W,6,,,,,3,,,,,,,,,,,,,,,,,,,1932-06-14
+Essendon,1932,7,Fitzroy,17,L,6,,,,,,,,,,,,,,,2,,,,,,,,,1932-06-21
+Essendon,1932,8,Hawthorn,18,W,6,,,,,,,,,,,,,,,,,,,,,,,,1932-06-28
+Essendon,1933,9,Footscray,1,L,6,,,,,,,,,,,,,,,,,,,,,,,,1933-03-01
+Essendon,1933,10,St Kilda,2,W,6,,,,,,,,,,,,,,,,,,,,,,,,1933-03-08
+Essendon,1933,11,Melbourne,3,L,6,,,,,,,,,,,,,,,,,,,,,,,,1933-03-15
+Essendon,1933,12,Carlton,4,L,6,,,,,1,,,,,,,,,,,,,,,,,,,1933-03-22
+Essendon,1933,13,South Melbourne,5,L,6,,,,,2,,,,,,,,,,,,,,,,,,,1933-03-29
+Essendon,1933,14,Fitzroy,6,L,6,,,,,,,,,,,,,,,3,,,,,,,,,1933-04-05
+Essendon,1933,15,Hawthorn,7,L,6,,,,,3,,,,,,,,,,,,,,,,,,,1933-04-12
+Essendon,1934,16,Footscray,1,W,6,,,,,,,,,,,,,,,,,,,,,,,,1934-03-01
+Essendon,1934,17,Collingwood,2,L,6,,,,,,,,,,,,,,,1,,,,,,,,,1934-03-08
+Essendon,1934,18,Hawthorn,4,W,6,,,,,,,,,,,,,,,,,,,,,,,,1934-03-22
+Essendon,1934,19,Richmond,5,L,6,,,,,,,,,,,,,,,,,,,,,,,,1934-03-29
+Essendon,1934,20,North Melbourne,8,W,6,,,,,,,,,,,,,,,,,,,,,,,,1934-04-19
+Essendon,1934,21,Collingwood,13,L,6,,,,,,,,,,,,,,,,,,,,,,,,1934-05-24
+Essendon,1934,22,Richmond,16,L,6,,,,,,,,,,,,,,,,,,,,,,,,1934-06-14

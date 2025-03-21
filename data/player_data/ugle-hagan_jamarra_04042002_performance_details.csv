@@ -1,0 +1,68 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Western Bulldogs,2021,1,Sydney,17,L,22,4,1,3,7,,,,1,,2,,3,1,1,,6,2,,,,,,73,2021-06-21
+Western Bulldogs,2021,2,Gold Coast,18,W,22,7,5,1,8,3,,,1,,2,,2,,,,1,7,1,4,,,,69,2021-06-28
+Western Bulldogs,2021,3,Melbourne,19,W,22,3,2,2,5,1,,,2,,2,,2,,,,2,4,,2,3,,,67,2021-07-05
+Western Bulldogs,2021,4,Adelaide,20,W,22,7,5,2,9,2,1,,4,,,1,5,1,1,,3,6,2,3,1,,,71,2021-07-12
+Western Bulldogs,2021,5,Essendon,21,L,22,4,1,2,6,1,1,,,,,,1,1,,,3,3,,,1,,1,64,2021-07-19
+Western Bulldogs,2022,6,Melbourne,1,L,2,,,,,,,,,,,,,,,,,,,,,,,,2022-03-01
+Western Bulldogs,2022,7,Carlton,2,L,2,5,2,1,6,1,2,,,,2,,4,,1,,1,5,,1,2,,1,84,2022-03-08
+Western Bulldogs,2022,8,Sydney,3,W,2,7,2,,7,1,2,1,4,,4,,,4,,,5,2,,1,3,,,80,2022-03-15
+Western Bulldogs,2022,9,Richmond,4,L,2,2,2,3,5,,,,,,1,,3,,1,,4,1,1,1,,,,82,2022-03-22
+Western Bulldogs,2022,10,North Melbourne,5,W,2,4,2,1,5,1,,,,,1,,1,1,1,,3,3,1,1,,,,65,2022-03-29
+Western Bulldogs,2022,11,Adelaide,6,L,2,5,3,1,6,1,,,3,,3,,3,,,,2,4,1,2,,,,82,2022-04-05
+Western Bulldogs,2022,12,Greater Western Sydney,14,W,2,5,2,3,8,1,1,2,,,2,,3,,1,,4,5,,2,,,,77,2022-05-31
+Western Bulldogs,2022,13,Hawthorn,15,W,2,8,6,3,11,1,1,,1,,2,,1,,,,6,5,4,3,1,,,76,2022-06-07
+Western Bulldogs,2022,14,Brisbane Lions,16,L,2,9,7,1,10,,1,,1,,2,,1,,,,4,6,2,2,,,,76,2022-06-14
+Western Bulldogs,2022,15,Sydney,17,L,2,7,5,3,10,1,1,,,,3,,1,,,,3,6,2,2,,,,76,2022-06-21
+Western Bulldogs,2022,16,St Kilda,18,W,2,3,1,3,6,3,,,1,,,,2,,,,1,5,,1,1,,,74,2022-06-28
+Western Bulldogs,2022,17,Melbourne,19,W,2,10,6,,10,5,,,,,5,,4,2,1,2,4,6,1,3,4,,,77,2022-07-05
+Western Bulldogs,2022,18,Geelong,20,L,2,6,6,3,9,2,1,,2,,,,2,,,,4,5,1,3,1,,,81,2022-07-12
+Western Bulldogs,2022,19,Fremantle,21,L,2,10,6,2,12,,3,,,,4,,4,1,,,4,9,,4,2,1,,76,2022-07-19
+Western Bulldogs,2022,20,Greater Western Sydney,22,W,2,8,6,4,12,1,2,,1,,2,,,1,,,8,4,2,4,1,,,84,2022-07-26
+Western Bulldogs,2022,21,Hawthorn,23,W,2,7,1,3,10,,2,,4,,2,,1,1,,,4,7,,1,,,1,71,2022-08-02
+Western Bulldogs,2022,22,Fremantle,EF,L,2,4,3,3,7,,,,1,,,,3,,,,4,3,2,,1,,,78,2022-03-01
+Western Bulldogs,2023,23,Melbourne,1,L,2,6,3,1,7,1,3,,1,,1,,3,,,,1,6,,2,2,,,83,2023-03-01
+Western Bulldogs,2023,24,St Kilda,2,L,2,5,4,3,8,,2,,,,1,,6,,3,,4,6,1,2,,,,79,2023-03-08
+Western Bulldogs,2023,25,Brisbane Lions,3,W,2,5,2,4,9,5,,,1,,1,,,4,,2,6,3,1,2,1,,,75,2023-03-15
+Western Bulldogs,2023,26,Richmond,4,W,2,9,5,3,12,,2,,1,,3,,2,2,1,,6,6,1,3,1,,1,76,2023-03-22
+Western Bulldogs,2023,27,Port Adelaide,5,L,2,4,3,5,9,,1,,2,,3,,1,1,,,3,6,1,1,,,,76,2023-03-29
+Western Bulldogs,2023,28,Fremantle,6,W,2,11,10,5,16,,3,,,,4,,1,,,,7,9,3,5,,,,80,2023-04-05
+Western Bulldogs,2023,29,Hawthorn,7,W,2,4,3,6,10,2,,,,,2,,3,2,,,6,5,,1,,,,75,2023-04-12
+Western Bulldogs,2023,30,Greater Western Sydney,8,W,2,7,1,2,9,1,1,,1,,2,,1,2,,,6,4,,,2,,1,84,2023-04-19
+Western Bulldogs,2023,31,Carlton,9,W,2,9,4,,9,1,2,,,,3,,1,1,,,3,6,1,1,1,,2,83,2023-04-26
+Western Bulldogs,2023,32,Adelaide,10,W,2,8,4,5,13,,1,,,,2,,,1,,,6,6,,1,1,,,81,2023-05-03
+Western Bulldogs,2023,33,Gold Coast,11,L,2,11,9,1,12,3,1,1,1,,4,,2,1,,,3,9,,4,,,,86,2023-05-10
+Western Bulldogs,2023,34,Geelong,12,L,2,10,6,4,14,1,3,,1,,6,,3,,1,,5,9,1,4,1,,,83,2023-05-17
+Western Bulldogs,2023,35,Port Adelaide,13,L,2,8,6,4,12,2,2,,2,,3,,3,,2,,8,6,2,4,1,,1,87,2023-05-24
+Western Bulldogs,2023,36,North Melbourne,14,W,2,10,7,3,13,,1,,2,,4,,2,1,,,7,6,3,3,2,,4,90,2023-05-31
+Western Bulldogs,2023,37,Fremantle,16,W,2,12,9,3,15,4,2,,1,,3,,7,1,2,1,7,9,4,5,,,2,88,2023-06-14
+Western Bulldogs,2023,38,Collingwood,17,L,2,13,10,3,16,2,3,,1,,4,,5,1,1,,7,10,3,5,2,,1,91,2023-06-21
+Western Bulldogs,2023,39,Sydney,18,L,2,6,4,5,11,1,2,,,,1,,3,,,,5,7,1,2,2,,,95,2023-06-28
+Western Bulldogs,2023,40,Essendon,19,W,2,12,7,3,15,3,2,,2,,3,,5,2,3,,5,12,1,3,,,,88,2023-07-05
+Western Bulldogs,2023,41,Greater Western Sydney,20,L,2,6,5,2,8,,1,,,,1,,2,,,,2,6,2,3,1,,,82,2023-07-12
+Western Bulldogs,2023,42,Richmond,21,W,2,13,5,2,15,5,1,,2,,2,,1,,,2,4,9,2,4,,1,1,87,2023-07-19
+Western Bulldogs,2023,43,Hawthorn,22,L,2,10,7,,10,2,1,,1,,2,,4,,,,4,6,3,3,1,,,85,2023-07-26
+Western Bulldogs,2023,44,West Coast,23,L,2,4,2,3,7,1,1,,2,,1,,2,,1,,4,4,,2,2,,,81,2023-08-02
+Western Bulldogs,2023,45,Geelong,24,W,2,5,4,6,11,1,,,1,,2,,2,,,,6,5,1,2,,,1,85,2023-08-09
+Western Bulldogs,2024,46,Melbourne,2,L,2,12,6,2,14,2,3,,1,,4,,2,2,,,10,4,4,4,2,,,80,2024-03-08
+Western Bulldogs,2024,47,Gold Coast,3,W,2,10,6,3,13,1,1,,1,,4,1,5,,3,,5,8,2,2,,,,76,2024-03-15
+Western Bulldogs,2024,48,West Coast,4,W,2,12,9,1,13,1,,,2,,3,,5,1,1,,5,9,2,3,2,,1,84,2024-03-22
+Western Bulldogs,2024,49,Geelong,5,L,2,9,5,4,13,2,1,,,,1,1,3,,,,6,7,3,4,,,,88,2024-03-29
+Western Bulldogs,2024,50,Essendon,6,L,2,9,7,3,12,3,3,,,,2,,1,1,,,8,4,5,5,,,,87,2024-04-05
+Western Bulldogs,2024,51,Hawthorn,9,L,2,4,3,,4,2,1,,1,,,,6,1,3,,1,3,,3,1,,,87,2024-04-26
+Western Bulldogs,2024,52,Richmond,10,W,2,6,2,3,9,1,2,,3,,,1,5,1,1,,4,5,,2,,,,84,2024-05-03
+Western Bulldogs,2024,53,Greater Western Sydney,11,W,2,5,2,3,8,1,2,,4,,2,1,2,2,1,,6,3,,1,1,,,78,2024-05-10
+Western Bulldogs,2024,54,Sydney,12,L,2,10,6,3,13,3,2,,,,1,1,3,,1,,8,5,4,4,1,,1,96,2024-05-17
+Western Bulldogs,2024,55,Collingwood,13,W,2,9,4,1,10,2,2,,,,1,1,2,,1,,2,8,1,1,,,1,93,2024-05-24
+Western Bulldogs,2024,56,Brisbane Lions,14,L,2,7,4,1,8,2,1,,1,,2,,1,1,1,,5,4,2,2,1,,,81,2024-05-31
+Western Bulldogs,2024,57,Fremantle,15,W,2,8,6,3,11,3,1,,1,,3,,3,1,3,,4,8,1,4,,,2,79,2024-06-07
+Western Bulldogs,2024,58,North Melbourne,17,W,2,6,,5,11,2,1,,,,2,,4,1,1,,6,6,,,2,,,81,2024-06-21
+Western Bulldogs,2024,59,Port Adelaide,18,L,2,6,2,1,7,,1,,1,,,,2,1,1,,7,2,2,1,,,,83,2024-06-28
+Western Bulldogs,2024,60,Carlton,19,W,2,13,6,7,20,4,3,,,,2,1,3,1,2,3,10,10,2,4,2,,1,88,2024-07-05
+Western Bulldogs,2024,61,Geelong,20,W,2,11,4,7,18,4,1,,1,,2,,1,,,,10,9,2,3,,,,76,2024-07-12
+Western Bulldogs,2024,62,Sydney,21,W,2,10,4,3,13,4,1,,4,,,,5,,2,,6,8,1,3,1,,,80,2024-07-19
+Western Bulldogs,2024,63,Melbourne,22,W,2,14,8,2,16,2,6,,3,,5,1,2,2,,,8,8,4,5,1,,,82,2024-07-26
+Western Bulldogs,2024,64,Adelaide,23,L,2,5,3,6,11,1,,,2,,1,,4,,1,,4,7,1,2,,,,89,2024-08-02
+Western Bulldogs,2024,65,North Melbourne,24,W,2,7,3,3,10,3,1,,2,,3,,4,2,3,,4,7,1,3,1,,1,87,2024-08-09
+Western Bulldogs,2024,66,Greater Western Sydney,25,W,2,12,4,1,13,,1,,4,,8,1,7,,3,,4,9,,1,1,,,80,2024-08-16
+Western Bulldogs,2024,67,Hawthorn,EF,L,2,2,2,2,4,,1,,1,,,,1,,1,,1,3,,1,1,,,82,2024-03-01

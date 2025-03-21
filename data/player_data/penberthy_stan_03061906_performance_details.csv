@@ -1,0 +1,87 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played,date
+Footscray,1932,1,Essendon,1,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1932-03-01
+Footscray,1932,2,Fitzroy,2,W,17,,,,,,,,,,,,,,,,,,,,,,,,1932-03-08
+Footscray,1932,3,South Melbourne,3,L,17,,,,,,,,,,,,,,,,,,,,,,,,1932-03-15
+Footscray,1932,4,Collingwood,6,L,17,,,,,,,,,,,,,,,,,,,,,,,,1932-04-05
+Footscray,1932,5,North Melbourne,7,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1932-04-12
+Footscray,1932,6,Melbourne,8,W,17,,,,,,,,,,,,,,,,,,,,,,,,1932-04-19
+Footscray,1932,7,Carlton,9,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1932-04-26
+Footscray,1932,8,Geelong,10,W,17,,,,,,,,,,,,,,,,,,,,,,,,1932-05-03
+Footscray,1932,9,Hawthorn,11,L,17,,,,,,,,,,,,,,,,,,,,,,,,1932-05-10
+Footscray,1932,10,Essendon,12,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1932-05-17
+Footscray,1932,11,Fitzroy,13,W,17,,,,,,,,,,,,,,,,,,,,,,,,1932-05-24
+Footscray,1932,12,South Melbourne,14,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1932-05-31
+Footscray,1932,13,Richmond,15,L,17,,,,,,,,,,,,,,,,,,,,,,,,1932-06-07
+Footscray,1932,14,St Kilda,16,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1932-06-14
+Footscray,1932,15,Collingwood,17,L,17,,,,,,,,,,,,,,,,,,,,,,,,1932-06-21
+Footscray,1932,16,North Melbourne,18,L,17,,,,,,,,,,,,,,,,,,,,,,,,1932-06-28
+Footscray,1933,17,Essendon,1,W,17,,,,,,,,,,,,,,,,,,,,,,,,1933-03-01
+Footscray,1933,18,South Melbourne,2,L,17,,,,,,,,,,,,,,,,,,,,,,,,1933-03-08
+Footscray,1933,19,Richmond,3,W,17,,,,,,,,,,,,,,,,,,,,,,,,1933-03-15
+Footscray,1933,20,Hawthorn,4,W,17,,,,,,,,,,,,,,,,,,,,,,,,1933-03-22
+Footscray,1933,21,Melbourne,5,W,17,,,,,,,,,,,,,,,,,,,,,,,,1933-03-29
+Footscray,1933,22,Essendon,12,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1933-05-17
+Footscray,1933,23,South Melbourne,13,L,17,,,,,,,,,,,,,,,,,,,,,,,,1933-05-24
+Footscray,1933,24,Richmond,14,L,17,,,,,,,,,,,,,,,,,,,,,,,,1933-05-31
+Footscray,1933,25,Hawthorn,15,W,17,,,,,,,,,,,,,,,,,,,,,,,,1933-06-07
+Footscray,1933,26,Melbourne,16,W,17,,,,,,,,,,,,,,,,,,,,,,,,1933-06-14
+Footscray,1933,27,St Kilda,17,L,17,,,,,,,,,,,,,,,,,,,,,,,,1933-06-21
+Footscray,1933,28,North Melbourne,18,W,17,,,,,1,,,,,,,,,,,,,,,,,,,1933-06-28
+Footscray,1934,29,Essendon,1,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1934-03-01
+Footscray,1934,30,Fitzroy,2,W,17,,,,,,,,,,,,,,,,,,,,,,,,1934-03-08
+Footscray,1934,31,North Melbourne,3,W,17,,,,,,,,,,,,,,,,,,,,,,,,1934-03-15
+Footscray,1934,32,South Melbourne,4,L,17,,,,,1,,,,,,,,,,,,,,,,,,,1934-03-22
+Footscray,1934,33,St Kilda,5,L,17,,,,,,,,,,,,,,,,,,,,,,,,1934-03-29
+Footscray,1934,34,Hawthorn,6,L,17,,,,,,,,,,,,,,,,,,,,,,,,1934-04-05
+Footscray,1934,35,Melbourne,7,L,17,,,,,,,,,,,,,,,,,,,,,,,,1934-04-12
+Footscray,1934,36,Carlton,9,L,17,,,,,,,,,,,,,,,,,,,,,,,,1934-04-26
+Footscray,1934,37,St Kilda,16,W,17,,,,,,,,,,,,,,,,,,,,,,,,1934-06-14
+Footscray,1934,38,Hawthorn,17,W,17,,,,,,,,,,,,,,,,,,,,,,,,1934-06-21
+Footscray,1935,39,Richmond,1,L,3,,,,,,,,,,,,,,,,,,,,,,,,1935-03-01
+Footscray,1935,40,South Melbourne,2,L,3,,,,,,,,,,,,,,,,,,,,,,,,1935-03-08
+Footscray,1935,41,Fitzroy,3,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1935-03-15
+Footscray,1935,42,Essendon,4,L,3,,,,,,,,,,,,,,,,,,,,,,,,1935-03-22
+Footscray,1935,43,North Melbourne,5,W,3,,,,,,,,,,,,,,,,,,,,,,,,1935-03-29
+Footscray,1935,44,Collingwood,6,L,3,,,,,1,,,,,,,,,,,,,,,,,,,1935-04-05
+Footscray,1935,45,Carlton,7,D,3,,,,,,,,,,,,,,,,,,,,,,,,1935-04-12
+Footscray,1935,46,St Kilda,8,L,3,,,,,,,,,,,,,,,,,,,,,,,,1935-04-19
+Footscray,1935,47,Melbourne,9,L,3,,,,,,,,,,,,,,,,,,,,,,,,1935-04-26
+Footscray,1935,48,Hawthorn,10,W,3,,,,,1,,,,,,,,,,,,,,,,,,,1935-05-03
+Footscray,1935,49,Fitzroy,14,L,3,,,,,,,,,,,,,,,,,,,,,,,,1935-05-31
+Footscray,1935,50,Essendon,15,L,3,,,,,,,,,,,,,,,,,,,,,,,,1935-06-07
+Footscray,1935,51,North Melbourne,16,L,3,,,,,,,,,,,,,,,,,,,,,,,,1935-06-14
+Footscray,1935,52,Collingwood,17,L,3,,,,,,,,,,,,,,,,,,,,,,,,1935-06-21
+Footscray,1935,53,Carlton,18,L,3,,,,,,,,,,,,,,,,,,,,,,,,1935-06-28
+Footscray,1936,54,Geelong,1,L,33,,,,,1,,,,,,,,,,,,,,,,,,,1936-03-01
+Footscray,1936,55,Hawthorn,2,L,33,,,,,,,,,,,,,,,,,,,,,,,,1936-03-08
+Footscray,1936,56,South Melbourne,3,L,33,,,,,,,,,,,,,,,,,,,,,,,,1936-03-15
+Footscray,1936,57,Fitzroy,4,W,33,,,,,,,,,,,,,,,,,,,,,,,,1936-03-22
+Footscray,1936,58,Carlton,5,L,33,,,,,,,,,,,,,,,,,,,,,,,,1936-03-29
+Footscray,1936,59,Melbourne,6,L,33,,,,,1,,,,,,,,,,,,,,,,,,,1936-04-05
+Footscray,1936,60,North Melbourne,7,L,33,,,,,,,,,,,,,,,,,,,,,,,,1936-04-12
+Footscray,1936,61,Collingwood,8,L,33,,,,,,,,,,,,,,,,,,,,,,,,1936-04-19
+Footscray,1936,62,St Kilda,9,L,33,,,,,1,,,,,,,,,,,,,,,,,,,1936-04-26
+Footscray,1936,63,Richmond,10,L,33,,,,,,,,,,,,,,,,,,,,,,,,1936-05-03
+Footscray,1936,64,Essendon,11,W,33,,,,,1,,,,,,,,,,,,,,,,,,,1936-05-10
+Footscray,1936,65,Geelong,12,W,33,,,,,1,,,,,,,,,,,,,,,,,,,1936-05-17
+Footscray,1936,66,Hawthorn,13,L,33,,,,,,,,,,,,,,,,,,,,,,,,1936-05-24
+Footscray,1936,67,South Melbourne,14,L,33,,,,,,,,,,,,,,,,,,,,,,,,1936-05-31
+Footscray,1936,68,Fitzroy,15,W,33,,,,,,,,,,,,,,,,,,,,,,,,1936-06-07
+Footscray,1936,69,Carlton,16,L,33,,,,,,,,,,,,,,,,,,,,,,,,1936-06-14
+Footscray,1936,70,Melbourne,17,L,33,,,,,,,,,,,,,,,,,,,,,,,,1936-06-21
+Footscray,1937,71,St Kilda,3,L,27,,,,,,,,,,,,,,,,,,,,,,,,1937-03-15
+Footscray,1937,72,Collingwood,4,L,27,,,,,,,,,,,,,,,,,,,,,,,,1937-03-22
+Footscray,1937,73,North Melbourne,5,W,27,,,,,1,,,,,,,,,,,,,,,,,,,1937-03-29
+Footscray,1937,74,Melbourne,6,L,27,,,,,1,,,,,,,,,,,,,,,,,,,1937-04-05
+Footscray,1937,75,Carlton,7,L,27,,,,,2,,,,,,,,,,,,,,,,,,,1937-04-12
+Melbourne,1937,76,Geelong,9,L,27,,,,,,,,,,,,,,,,,,,,,,,,1937-04-26
+Melbourne,1937,77,South Melbourne,11,W,27,,,,,,,,,,,,,,,,,,,,,,,,1937-05-10
+Melbourne,1937,78,Richmond,12,L,27,,,,,,,,,,,,,,,,,,,,,,,,1937-05-17
+Melbourne,1937,79,Essendon,13,W,27,,,,,,,,,,,,,,,,,,,,,,,,1937-05-24
+Melbourne,1937,80,Carlton,14,L,27,,,,,,,,,,,,,,,,,,,,,,,,1937-05-31
+Melbourne,1937,81,St Kilda,15,W,27,,,,,,,,,,,,,,,,,,,,,,,,1937-06-07
+Melbourne,1937,82,Collingwood,16,W,27,,,,,,,,,,,,,,,,,,,,,,,,1937-06-14
+Melbourne,1937,83,Footscray,17,W,27,,,,,,,,,,,,,,,,,,,,,,,,1937-06-21
+Melbourne,1937,84,North Melbourne,18,W,27,,,,,,,,,,,,,,,,,,,,,,,,1937-06-28
+Melbourne,1937,85,Geelong,SF,L,27,,,,,,,,,,,,,,,,,,,,,,,,1937-03-01
+Melbourne,1937,86,Collingwood,PF,L,27,,,,,,,,,,,,,,,,,,,,,,,,1937-03-01
