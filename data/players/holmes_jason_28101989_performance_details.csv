@@ -1,6 +1,0 @@
-team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
-St Kilda,2015,1,Geelong,21,D,45,2,1,5,7,,,34,3,1,,2,3,1,2,,4,3,,,2,,,74
-St Kilda,2015,2,Sydney,22,L,45,1,,2,3,,,18,2,,,2,1,,1,,2,2,,,4,,,88
-St Kilda,2015,3,West Coast,23,L,45,1,,4,5,,,23,5,,,,4,,4,,3,2,,,3,,,93
-St Kilda,2016,4,Richmond,22,W,45,1,,4,5,,,25,3,,,3,4,,3,,5,,,,4,,,88
-St Kilda,2016,5,Brisbane Lions,23,W,45,1,,1,2,,,34,4,,,2,1,1,1,,2,1,,,4,,,89
