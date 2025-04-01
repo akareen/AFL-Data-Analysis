@@ -25,7 +25,7 @@ An in-depth analysis of Australian Football League (AFL) data. This repository c
 
 The AFL Data Analysis project provides a comprehensive platform for examining and deriving insights from AFL match and player data. Whether you're a sports enthusiast, a tipper, a data scientist, or a student, this repository offers valuable resources for diving into the world of Australian Rules Football. 
 
-The repository currently stores match scores data from 1897 to 2024, in depth personal and game statistics for every player who have ever played in the VFL/AFL and historical odds data from 2009 to 2024. All the data is  conveniently stored in CSV format for seamless access and analysis.
+The repository currently stores match scores data from 1897 to 2025, in depth personal and game statistics for every player who have ever played in the VFL/AFL and historical odds data from 2009 to 2024. All the data is  conveniently stored in CSV format for seamless access and analysis.
 
 Download the repository and explore the **/data/** directory for the complete dataset. 
 
@@ -126,14 +126,29 @@ This project uses publicly available AFL data sources, including match scores, p
 - Match and Player Data: [AFL Tables](https://afltables.com/afl/afl_index.html)
 - Historical Odds Data: [AusSportsBetting](https://www.aussportsbetting.com/data/historical-afl-results-and-odds-data/)
 
+
 ## Scraping Examples
 While data is readily available in the repository, here's how you can use scraping if needed.
 
-- To scrape match scores data from 1897 to 2023 and store it in the "data/match_scores" directory:
+- To scrape match scores data from 1897 to 2024 and store it in the "data/matches" directory, and player data into the "data/players" directory:
 
   ```bash
-  python main.py
+  python main.py --start_year 1897 --end_year 2024 --scrape_matches --scrape_players --folder_path "data/"
   ```
+
+This command will scrape match data and player data for the years 1897 to 2024, saving it in the `data/matches` and `data/players` directories. You can modify the `start_year`, `end_year`, and folder path to suit your needs.
+
+If you only want to scrape match data (without player data), use:
+
+```bash
+python main.py --start_year 1897 --end_year 2024 --scrape_matches --folder_path "data/"
+```
+
+Similarly, to scrape only player data, run:
+
+```bash
+python main.py --start_year 1897 --end_year 2024 --scrape_players --folder_path "data/"
+```
 
 This used to be more granular, but the data is now fully available in the repository. I'll be making a small update soon to bring back the ability to only scrape most recent data without rescraping existing data.
 
