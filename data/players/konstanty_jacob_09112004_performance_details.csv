@@ -1,0 +1,4 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+North Melbourne,2025,1,Western Bulldogs,2,L,41,6,1,4,10,,,,6,1,2,,,2,,,5,5,,,2,,1,67
+North Melbourne,2025,2,Melbourne,3,W,41,4,1,5,9,1,,,2,,1,,4,1,2,,4,4,,,,,1,55
+North Melbourne,2025,3,Adelaide,4,L,41,3,3,4,7,2,1,,1,,,,1,,1,,2,6,,3,,,,72

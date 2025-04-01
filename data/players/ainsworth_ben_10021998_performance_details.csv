@@ -1,6 +1,6 @@
 team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
 Gold Coast,2017,1,Brisbane Lions,1,L,27,8,4,6,14,2,1,,6,,2,2,2,1,,,8,6,,1,1,1,1,70
-Gold Coast,2017,2,Greater Western Sydney,2,L,27,7,5,3,10,,,,3,,1,1,,2,,,4,6,1,,1,,1,64
+Gold Coast,2017,2,Greater Western Sydney,2,L,27,8,5,3,11,,,,3,,1,1,1,2,,,4,7,1,,1,,1,64
 Gold Coast,2017,3,Hawthorn,12,W,27,8,2,10,18,1,1,,4,1,4,1,2,,,,5,12,1,1,,,,63
 Gold Coast,2017,4,Carlton,13,L,27,6,5,3,9,,,,2,,3,,1,,,,4,5,1,,,,,75
 Gold Coast,2017,5,St Kilda,14,L,27,5,3,12,17,,2,,2,,3,,,,,,8,10,,1,1,,,72
@@ -125,3 +125,12 @@ Gold Coast,2024,123,Sydney,7,L,9,6,2,9,15,,,,1,1,2,,2,1,,,3,12,,,,,1,81
 Gold Coast,2024,124,West Coast,8,W,9,7,5,1,8,2,1,,1,2,1,,,,,,,8,,2,,,,82
 Gold Coast,2024,125,Brisbane Lions,9,L,9,11,5,6,17,1,,,1,1,4,2,5,,4,,6,13,,,1,2,,78
 Gold Coast,2024,126,North Melbourne,10,W,9,13,4,6,19,2,,,1,1,4,1,5,1,,,5,13,,1,,2,,82
+Gold Coast,2024,127,Geelong,11,W,9,12,6,7,19,1,1,,1,3,2,1,1,3,,,8,12,1,2,3,,,75
+Gold Coast,2024,128,Carlton,12,L,9,9,4,3,12,,,,2,1,3,,,,,,2,10,,,1,,,78
+Gold Coast,2024,129,Essendon,13,W,9,12,3,7,19,1,1,,1,1,5,,4,,1,,5,13,,1,,3,2,86
+Gold Coast,2024,130,St Kilda,14,L,9,8,7,1,9,1,1,,1,,1,,1,,,,,9,,2,,,,78
+Gold Coast,2024,131,Fremantle,16,L,9,6,1,3,9,,1,,2,,1,,1,,1,,1,7,1,1,,,,74
+Gold Coast,2024,132,Collingwood,17,W,9,17,9,11,28,2,1,,,1,5,,2,,,,2,26,,2,,,,77
+Gold Coast,2024,133,North Melbourne,18,L,9,6,4,3,9,1,1,,1,1,2,,,,,,2,7,1,2,,,,83
+Gold Coast,2024,134,Port Adelaide,19,W,9,10,7,6,16,1,,,1,,3,2,2,,1,,3,12,,1,,1,,87
+Gold Coast,2025,135,West Coast,2,W,9,9,5,9,18,,,,2,1,5,1,3,1,,,4,14,1,,,,1,82

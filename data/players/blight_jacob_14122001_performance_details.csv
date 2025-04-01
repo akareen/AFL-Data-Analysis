@@ -1,0 +1,7 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Richmond,2024,1,Carlton,17,L,51,6,3,5,11,,,,2,3,,,4,,1,,3,8,,,6,,,84
+Richmond,2024,2↓,Fremantle,18,L,51,5,4,8,13,,,,1,4,,,2,1,2,,7,5,2,,5,,,69
+Richmond,2024,3,Hawthorn,24,L,51,12,8,,12,,,,3,7,,,4,,,,,10,,,11,,,83
+Richmond,2025,4↓,Carlton,2,W,46,4,3,2,6,,,,1,2,,,1,1,,,4,2,2,,5,,,55
+Richmond,2025,5,Port Adelaide,3,L,46,7,5,5,12,1,1,2,2,1,,4,1,2,,,6,6,2,2,5,,,77
+Richmond,2025,6,St Kilda,4,L,46,13,12,5,18,,,7,,3,,1,4,,,,5,14,1,,2,,,94

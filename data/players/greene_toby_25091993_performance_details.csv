@@ -112,8 +112,8 @@ Greater Western Sydney,2017,110,Sydney,17,L,4,11,5,6,17,2,1,,4,,5,1,7,2,2,,10,7,
 Greater Western Sydney,2017,111,Richmond,18,L,4,13,7,4,17,1,,,1,1,5,1,5,5,2,,7,10,1,2,1,,1,91
 Greater Western Sydney,2017,112,Western Bulldogs,21,W,4,9,6,7,16,2,,,3,,4,,4,,3,,7,9,3,3,1,,1,86
 Greater Western Sydney,2017,113,West Coast,22,W,4,12,5,5,17,3,2,,2,,3,,2,3,,,10,7,3,1,1,1,,92
-Greater Western Sydney,2017,114,Geelong,23,L,4,11,5,5,16,3,2,,2,1,4,1,1,2,1,,5,12,,3,1,1,,86
-Greater Western Sydney,2017,115,Adelaide,QF,L,4,13,4,3,16,1,,,5,,6,1,5,2,2,,10,6,2,,2,,1,92
+Greater Western Sydney,2017,114,Geelong,23,L,4,11,5,5,16,3,2,,2,1,4,,1,2,1,,5,12,,3,1,1,,86
+Greater Western Sydney,2017,115,Adelaide,QF,L,4,13,4,3,16,1,,,5,,6,,5,2,2,,10,6,2,,2,,1,92
 Greater Western Sydney,2017,116,West Coast,SF,W,4,13,8,4,17,3,1,,2,,6,1,6,2,1,,7,12,3,3,,,1,87
 Greater Western Sydney,2017,117,Richmond,PF,L,4,6,3,13,19,,1,,2,,,1,3,2,1,,8,9,,,,,,89
 Greater Western Sydney,2018,118,Western Bulldogs,1,W,4,13,10,12,25,4,,,,,5,,2,1,,1,4,19,,5,,1,4,75
@@ -217,8 +217,27 @@ Greater Western Sydney,2023,215,Collingwood,PF,L,4,12,2,5,17,2,,,1,,2,2,5,1,,,6,
 Greater Western Sydney,2024,216,Collingwood,1,W,4,9,3,6,15,1,,,,,4,,5,1,5,,6,9,,,,,4,93
 Greater Western Sydney,2024,217,North Melbourne,2,W,4,13,9,8,21,,4,,1,1,5,1,4,,1,,6,15,1,2,1,,1,89
 Greater Western Sydney,2024,218,West Coast,3,W,4,10,6,6,16,1,1,,1,,5,1,3,1,1,,7,9,,,,,,87
-Greater Western Sydney,2024,219,Gold Coast,5,W,4,14,4,3,17,5,1,,1,,6,,4,3,2,,5,12,,3,1,,3,93
+Greater Western Sydney,2024,219,Gold Coast,5,W,4,14,4,3,17,5,1,,1,,6,,4,3,2,3,5,12,,3,1,,3,93
 Greater Western Sydney,2024,220,St Kilda,6,W,4,13,7,3,16,2,1,,5,1,4,1,5,,2,,4,12,,4,,,1,91
 Greater Western Sydney,2024,221,Carlton,7,L,4,11,5,7,18,,1,,,,8,1,4,,3,,8,11,,,,,3,94
 Greater Western Sydney,2024,222,Sydney,9,L,4,11,3,6,17,,1,,3,1,7,1,4,,2,,8,10,,1,,,,93
 Greater Western Sydney,2024,223,Essendon,10,L,4,8,2,3,11,2,,,2,,5,,5,1,2,,4,6,,,1,,1,93
+Greater Western Sydney,2024,224,Western Bulldogs,11,L,4,11,3,6,17,3,,,1,,8,4,3,,,,9,8,1,1,2,1,1,93
+Greater Western Sydney,2024,225,Geelong,12,W,4,16,7,8,24,2,2,,2,,3,4,5,1,,3,9,15,,2,1,,1,91
+Greater Western Sydney,2024,226,Hawthorn,14,L,4,9,3,5,14,1,1,,2,,5,2,4,,3,,6,8,,,,,1,89
+Greater Western Sydney,2024,227,Port Adelaide,15,W,4,10,4,8,18,1,5,,2,,2,2,2,1,2,,8,12,,2,,,,96
+Greater Western Sydney,2024,228,Sydney,16,L,4,13,7,5,18,1,2,,2,1,5,1,2,,1,,8,10,2,2,,,,95
+Greater Western Sydney,2024,229,Adelaide,17,L,4,8,5,8,16,3,,,4,,6,1,3,1,1,,9,7,1,1,,,2,93
+Greater Western Sydney,2024,230,Carlton,18,W,4,8,2,4,12,2,1,,2,,2,1,1,1,,,4,7,,1,1,,,86
+Greater Western Sydney,2024,231,Richmond,19,W,4,13,4,4,17,4,,,4,,4,1,2,2,2,1,7,11,1,1,,,4,91
+Greater Western Sydney,2024,232,Gold Coast,20,W,4,8,1,6,14,2,1,,3,,1,,7,,2,,5,9,,,,,1,88
+Greater Western Sydney,2024,233,Melbourne,21,W,4,14,6,2,16,3,2,,4,,1,1,1,3,,,8,8,2,1,,,,88
+Greater Western Sydney,2024,234,Hawthorn,22,W,4,16,7,1,17,3,2,,2,,7,5,5,1,2,3,7,10,1,3,2,,1,94
+Greater Western Sydney,2024,235,Brisbane Lions,23,W,4,4,2,,4,1,,,3,,2,1,6,3,4,,5,1,1,,1,,,88
+Greater Western Sydney,2024,236,Fremantle,24,W,4,10,5,3,13,2,2,,4,,3,,4,1,3,,5,8,,2,,1,1,90
+Greater Western Sydney,2024,237,Western Bulldogs,25,L,4,10,3,1,11,2,3,,5,,5,1,4,2,1,,4,8,,1,1,,1,90
+Greater Western Sydney,2024,238,Sydney,QF,L,4,8,2,4,12,,2,,2,,2,1,3,2,1,,3,8,,1,2,,,88
+Greater Western Sydney,2024,239,Brisbane Lions,SF,L,4,10,1,2,12,3,1,,3,,5,3,4,1,,,4,7,,,1,,1,90
+Greater Western Sydney,2025,240,Collingwood,1,W,4,11,5,7,18,1,2,,2,1,5,3,1,4,,,7,11,,2,,,,86
+Greater Western Sydney,2025,241,Melbourne,2,W,4,16,5,7,23,3,3,,4,1,5,5,4,1,1,,13,10,1,3,2,,2,98
+Greater Western Sydney,2025,242,Hawthorn,4,L,4,11,4,8,19,2,,,2,1,7,1,7,,,,9,10,1,2,,,1,90

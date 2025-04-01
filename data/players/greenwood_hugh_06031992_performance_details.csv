@@ -1,6 +1,6 @@
 team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
 Adelaide,2017,1,Brisbane Lions,9,W,20,9,2,6,15,3,,,9,,5,1,2,,2,,7,8,,1,,,,71
-Adelaide,2017,2,Fremantle,10,W,20,4,1,7,11,,1,,6,,1,1,2,1,,,10,4,,,2,,,62
+Adelaide,2017,2,Fremantle,10,W,20,4,1,7,11,,1,,6,,1,2,2,1,,,10,4,,,2,,,62
 Adelaide,2017,3,Geelong,11,L,20,12,1,6,18,,,,11,,1,9,3,2,1,,11,5,,,,,,65
 Adelaide,2017,4,St Kilda,12,W,20,6,1,11,17,,,,3,1,1,5,4,,2,,16,3,,,1,,,59
 Adelaide,2017,5,Hawthorn,14,L,20,12,6,9,21,2,,,9,,3,6,,2,,,12,9,,,3,,,68
@@ -10,7 +10,7 @@ Adelaide,2017,8,Geelong,18,W,20,13,2,10,23,1,2,,4,1,2,8,4,2,2,,10,8,,,3,,,71
 Adelaide,2017,9,Collingwood,19,D,20,7,2,8,15,,,,3,,3,5,2,1,1,,9,5,,,2,,,63
 Adelaide,2017,10,Port Adelaide,20,W,20,6,2,9,15,1,,,13,,1,4,1,,1,,13,2,2,1,2,,,70
 Adelaide,2017,11,Essendon,21,W,20,6,7,10,16,1,1,,1,,,3,3,,2,,6,10,2,4,2,,,63
-Adelaide,2017,12,Sydney,22,L,20,7,3,14,21,,,,11,1,1,5,2,,2,,9,11,,1,1,,1,60
+Adelaide,2017,12,Sydney,22,L,20,7,3,14,21,,,,11,1,1,4,2,,2,,9,11,,1,1,,1,60
 Adelaide,2017,13,Greater Western Sydney,QF,W,20,13,3,6,19,,,,7,1,1,7,3,,1,,17,4,,,2,,,72
 Adelaide,2017,14,Geelong,PF,W,20,1,2,5,6,,,,2,,,1,1,,,,3,3,,,,,,59
 Adelaide,2017,15,Richmond,GF,L,20,9,1,4,13,1,,,4,2,1,3,4,1,,,8,4,,,2,,,59

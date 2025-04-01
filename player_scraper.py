@@ -3,6 +3,7 @@ from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 import pandas as pd
 import concurrent.futures
+import time
 
 from helper_functions import get_soup
 
@@ -33,19 +34,14 @@ class PlayerScraper:
         Returns:
             None
         """
-        with concurrent.futures.ThreadPoolExecutor() as executor:
-            futures = []
-            for link in self.player_letter_links:
-                letter_soup: BeautifulSoup = get_soup(link)
-                table = letter_soup.select_one('table')
-                link_objs = table.select('a')
-                player_links_strs: List[str] = [link_obj['href'] for link_obj in link_objs]
+        for link in self.player_letter_links:
+            letter_soup: BeautifulSoup = get_soup(link)
+            table = letter_soup.select_one('table')
+            link_objs = table.select('a')
+            player_links_strs: List[str] = [link_obj['href'] for link_obj in link_objs]
 
-                for player_link in player_links_strs:
-                    future = executor.submit(self._process_player, player_link, folder_path)
-                    futures.append(future)
-
-            concurrent.futures.wait(futures)
+            for player_link in player_links_strs:
+                self._process_player(player_link, folder_path)
     
     def _process_player(self, player_link: str, folder_path: str) -> None:
         """
@@ -58,6 +54,7 @@ class PlayerScraper:
         Returns:
             None
         """
+        print(f"Processing player: {player_link}")
         player_soup: BeautifulSoup = get_soup(self.base_url + player_link)
         self._write_player_details(
             player_personal_details=self._player_personal_details(player_soup),
@@ -82,7 +79,13 @@ class PlayerScraper:
         Returns:
             None
         """
-        born_date_for_file = datetime.strptime(player_personal_details['born_date'], "%d-%m-%Y").strftime('%d%m%Y')
+        if not player_personal_details['first_name'] or not player_personal_details['last_name']:
+            print(f"Skipping player due to missing personal details.")
+            return
+        if not player_performance_details:
+            print(f"Skipping player due to missing performance details.")
+            return
+        born_date_for_file = player_personal_details['born_date'].strftime('%d%m%Y')
         filename = f"{player_personal_details['last_name']}_{player_personal_details['first_name']}_{born_date_for_file}".lower()
 
         personal_details_file = f"{folder_path}/{filename}_personal_details.csv"
@@ -129,31 +132,42 @@ class PlayerScraper:
         Returns:
             Dict[str, Optional[str]]: A dictionary containing the player's personal details.
         """
-        h1_tag = soup.find('h1')
-        full_name = h1_tag.text.split()
+        try:
+            h1_tag = soup.find('h1')
+            full_name = h1_tag.text.split()
 
-        born_tag = soup.find('b', string='Born:')
-        born_date_str = born_tag.next_sibling.strip().rstrip(' (') if born_tag else '01-Jan-1900'
-        
-        debut_age_str = born_tag.find_next('b', string='Debut:').next_sibling.strip()
-        debut_age_ls = debut_age_str.split()
+            born_tag = soup.find('b', string='Born:')
+            born_date_str = born_tag.next_sibling.strip().rstrip(' (') if born_tag else '01-Jan-1900'
+            
+            debut_age_str = born_tag.find_next('b', string='Debut:').next_sibling.strip()
+            debut_age_ls = debut_age_str.split()
 
-        debut_years = int(debut_age_ls[0][:-1])
-        debut_days = int(debut_age_ls[1][:-1]) if len(debut_age_ls) > 1 else 0
+            debut_years = int(debut_age_ls[0][:-1])
+            debut_days = int(debut_age_ls[1][:-1]) if len(debut_age_ls) > 1 else 0
 
-        born_date = datetime.strptime(born_date_str, "%d-%b-%Y")
-        debut_date = born_date + timedelta(days=(debut_years * 365 + debut_days))
+            born_date = datetime.strptime(born_date_str, "%d-%b-%Y")
+            debut_date = born_date + timedelta(days=(debut_years * 365 + debut_days))
 
-        height_obj = soup.find('b', string='Height:')
-        weight_obj = soup.find('b', string='Weight:')
-        height_str = height_obj.next_sibling.strip() if height_obj else None
-        weight_str = weight_obj.next_sibling.strip() if weight_obj else None
+            height_obj = soup.find('b', string='Height:')
+            weight_obj = soup.find('b', string='Weight:')
+            height_str = height_obj.next_sibling.strip() if height_obj else None
+            weight_str = weight_obj.next_sibling.strip() if weight_obj else None
 
+            return {
+                "first_name": full_name[0],
+                "last_name": full_name[-1],
+                "born_date": born_date,
+                "debut_date": debut_date.strftime('%d-%m-%Y'),
+                "height": int(height_str.split()[0]) if height_str else -1,
+                "weight": int(weight_str.split()[0]) if weight_str else -1
+            }
+        except Exception as e:
+            print(f"Error scraping player details: {e}")
         return {
-            "first_name": full_name[0],
-            "last_name": full_name[-1],
-            "born_date": born_date,
-            "debut_date": debut_date.strftime('%d-%m-%Y'),
-            "height": int(height_str.split()[0]) if height_str else -1,
-            "weight": int(weight_str.split()[0]) if weight_str else -1
+            "first_name": None,
+            "last_name": None,
+            "born_date": None,
+            "debut_date": None,
+            "height": None,
+            "weight": None
         }

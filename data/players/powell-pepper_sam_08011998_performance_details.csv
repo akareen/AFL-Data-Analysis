@@ -1,6 +1,6 @@
 team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
 Port Adelaide,2017,1,Sydney,1,W,2,12,3,7,19,2,1,,2,1,5,7,6,,3,,8,9,,1,1,,,67
-Port Adelaide,2017,2,Fremantle,2,W,2,9,4,16,25,1,,,3,2,1,8,3,1,2,1,14,13,,1,2,,,68
+Port Adelaide,2017,2,Fremantle,2,W,2,9,4,16,25,1,,,3,2,1,8,3,1,2,1,15,13,,1,3,,,68
 Port Adelaide,2017,3,Adelaide,3,L,2,12,1,4,16,1,1,,4,,4,1,2,1,1,,1,13,,1,1,1,,68
 Port Adelaide,2017,4,Greater Western Sydney,4,L,2,3,2,5,8,,,,4,2,2,3,1,1,1,,6,2,1,,,,,66
 Port Adelaide,2017,5,Carlton,5,W,2,6,2,11,17,,,,5,2,2,8,3,,2,,10,7,,,1,,,60
@@ -141,3 +141,6 @@ Port Adelaide,2023,139,Greater Western Sydney,SF,L,2,6,2,3,9,,3,,2,,1,,5,1,3,,2,
 Port Adelaide,2024,140,Fremantle,6,W,2,4,2,7,11,,2,,4,1,2,,3,,3,,3,7,,,1,,,77
 Port Adelaide,2024,141,Collingwood,7,L,2,8,5,2,10,2,,,6,,3,2,1,1,,,5,7,,3,2,,2,85
 Port Adelaide,2024,142,St Kilda,8,W,2,7,2,,7,1,2,,4,,,1,3,1,1,,4,3,1,,1,,,45
+Port Adelaide,2025,143,Collingwood,2,L,2,4,3,4,8,,1,,,,2,,1,,1,,1,7,,1,,,,78
+Port Adelaide,2025,144,Richmond,3,W,2,10,9,6,16,3,2,,1,,4,,3,,1,,3,13,,6,,1,3,79
+Port Adelaide,2025,145,Essendon,4,L,2,8,6,6,14,,1,,4,1,4,3,4,,1,,3,11,,,4,1,,82

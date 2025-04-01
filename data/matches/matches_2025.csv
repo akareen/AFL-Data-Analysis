@@ -1,0 +1,28 @@
+round_num,venue,date,year,attendance,team_1_team_name,team_1_q1_goals,team_1_q1_behinds,team_1_q2_goals,team_1_q2_behinds,team_1_q3_goals,team_1_q3_behinds,team_1_final_goals,team_1_final_behinds,team_2_team_name,team_2_q1_goals,team_2_q1_behinds,team_2_q2_goals,team_2_q2_behinds,team_2_q3_goals,team_2_q3_behinds,team_2_final_goals,team_2_final_behinds
+1,S.C.G.,2025-03-07 19:40,2025,6:40 PM,Sydney,4,3,6,4,11,5,11,10,Hawthorn,5,3,9,6,11,10,14,12
+1,Sydney Showground,2025-03-09 15:20,2025,2:20 PM,Greater Western Sydney,5,3,8,7,9,9,15,14,Collingwood,1,6,4,8,4,13,6,16
+2,M.C.G.,2025-03-13 19:30,2025,6:30 PM,Richmond,1,1,4,1,9,3,13,4,Carlton,5,4,7,8,8,9,9,15
+2,M.C.G.,2025-03-14 19:40,2025,6:40 PM,Hawthorn,6,1,10,4,13,7,17,9,Essendon,1,4,4,5,7,11,12,13
+2,Kardinia Park,2025-03-15 13:20,2025,12:20 PM,Geelong,5,4,12,4,13,6,23,9,Fremantle,1,1,3,4,9,9,10,9
+2,S.C.G.,2025-03-15 16:15,2025,3:15 PM,Sydney,4,0,7,3,9,6,12,10,Brisbane Lions,1,3,4,8,10,10,12,14
+2,M.C.G.,2025-03-15 19:35,2025,6:35 PM,Collingwood,6,5,9,7,16,9,21,10,Port Adelaide,3,2,4,3,5,5,6,9
+2,Docklands,2025-03-15 19:35,2025,6:35 PM,Western Bulldogs,5,3,8,5,12,7,17,11,North Melbourne,1,4,6,7,10,12,14,13
+2,Adelaide Oval,2025-03-16 12:05,2025,11:35 AM,Adelaide,7,2,10,4,17,7,21,9,St Kilda,2,2,4,3,7,7,10,12
+2,M.C.G.,2025-03-16 15:20,2025,2:20 PM,Melbourne,2,2,5,4,10,6,11,8,Greater Western Sydney,3,1,6,5,8,7,11,11
+2,Perth Stadium,2025-03-16 15:10,2025,5:10 PM,West Coast,2,1,2,4,5,5,7,7,Gold Coast,4,5,9,7,14,11,20,16
+3,M.C.G.,2025-03-20 19:30,2025,6:30 PM,Carlton,2,1,6,4,8,8,8,12,Hawthorn,2,3,5,5,9,7,12,8
+3,M.C.G.,2025-03-21 19:40,2025,6:40 PM,Western Bulldogs,3,4,6,7,7,9,10,10,Collingwood,2,4,5,8,8,11,10,16
+3,M.C.G.,2025-03-22 13:20,2025,12:20 PM,Essendon,3,2,5,4,9,7,15,10,Adelaide,5,5,11,8,18,10,25,11
+3,Adelaide Oval,2025-03-22 15:45,2025,3:15 PM,Port Adelaide,6,6,13,11,19,13,21,14,Richmond,1,3,3,6,6,10,9,14
+3,Docklands,2025-03-22 19:35,2025,6:35 PM,St Kilda,6,1,10,5,14,6,15,8,Geelong,1,4,5,6,9,9,13,13
+3,Gabba,2025-03-23 12:10,2025,N/A,Brisbane Lions,1,2,4,3,9,6,14,10,West Coast,5,2,8,3,9,9,11,9
+3,Docklands,2025-03-23 15:20,2025,2:20 PM,North Melbourne,3,5,8,9,11,10,19,11,Melbourne,4,5,6,9,8,10,9,12
+3,Perth Stadium,2025-03-23 15:10,2025,5:10 PM,Fremantle,4,3,5,5,8,8,9,11,Sydney,0,5,3,8,7,12,9,14
+4,Docklands,2025-03-27 19:30,2025,6:30 PM,Essendon,2,5,3,9,5,14,9,18,Port Adelaide,3,5,4,6,7,8,8,12
+4,Docklands,2025-03-28 19:40,2025,6:40 PM,Carlton,4,3,7,5,9,9,11,9,Western Bulldogs,0,4,4,5,9,7,12,11
+4,M.C.G.,2025-03-29 13:20,2025,12:20 PM,Melbourne,1,4,2,9,6,12,8,14,Gold Coast,4,5,5,8,12,10,18,12
+4,Docklands,2025-03-29 16:15,2025,3:15 PM,St Kilda,3,3,6,6,12,11,20,15,Richmond,1,3,5,4,6,7,7,11
+4,Gabba,2025-03-29 18:35,2025,N/A,Brisbane Lions,2,2,3,4,7,7,10,10,Geelong,3,4,7,6,7,6,9,7
+4,York Park,2025-03-29 19:35,2025,6:35 PM,Hawthorn,0,2,6,10,10,12,10,16,Greater Western Sydney,5,7,5,9,7,10,9,10
+4,Adelaide Oval,2025-03-30 14:50,2025,2:20 PM,Adelaide,4,1,8,5,13,8,17,12,North Melbourne,3,3,5,5,9,5,12,6
+4,Perth Stadium,2025-03-30 15:10,2025,5:10 PM,West Coast,3,1,4,4,7,5,10,8,Fremantle,5,4,8,6,12,11,15,16

@@ -87,7 +87,7 @@ Greater Western Sydney,2016,85,North Melbourne,23,W,5,17,7,12,29,,1,,3,3,5,7,2,1
 Greater Western Sydney,2016,86,Sydney,QF,W,5,7,3,13,20,,,,10,1,2,6,2,2,1,,11,10,,,3,1,,70
 Greater Western Sydney,2016,87,Western Bulldogs,PF,L,5,12,3,16,28,,2,,5,3,3,7,1,2,,,11,16,,,1,,,70
 Greater Western Sydney,2017,88,Adelaide,1,L,5,15,4,10,25,,,,3,1,4,9,5,1,2,,12,12,,,1,,1,69
-Greater Western Sydney,2017,89,Gold Coast,2,W,5,15,2,13,28,1,1,,2,,7,10,1,1,,,18,12,,,2,2,1,73
+Greater Western Sydney,2017,89,Gold Coast,2,W,5,15,2,13,28,1,1,,2,,7,10,1,1,,,18,12,,,2,2,,73
 Greater Western Sydney,2017,90,North Melbourne,3,W,5,18,1,9,27,,3,,5,1,7,4,4,,,1,11,17,,,1,,1,74
 Greater Western Sydney,2017,91,Port Adelaide,4,W,5,14,3,14,28,1,,,8,1,3,5,3,1,2,,8,21,,1,,3,,73
 Greater Western Sydney,2017,92,Sydney,5,W,5,13,4,8,21,,,,2,1,2,7,3,,1,,11,11,,,1,,,78
@@ -101,7 +101,7 @@ Greater Western Sydney,2017,99,Carlton,12,L,5,18,3,14,32,2,1,,4,1,4,8,2,2,,2,11,
 Greater Western Sydney,2017,100,Brisbane Lions,14,W,5,17,3,21,38,1,1,,3,2,4,8,4,,1,3,15,23,,,1,,1,80
 Greater Western Sydney,2017,101,Geelong,15,D,5,12,2,15,27,,,,2,5,2,6,2,,,,10,17,,,,1,,75
 Greater Western Sydney,2017,102,Hawthorn,16,D,5,9,,22,31,,2,,7,1,6,5,4,3,2,,15,18,,,,,2,81
-Greater Western Sydney,2017,103,Sydney,17,L,5,15,6,17,32,,1,,5,4,3,7,4,,,1,9,20,,1,1,2,,74
+Greater Western Sydney,2017,103,Sydney,17,L,5,15,6,17,32,,1,,5,4,3,5,4,,,1,8,21,,1,1,2,,74
 Greater Western Sydney,2017,104,Richmond,18,L,5,12,1,10,22,,,,1,1,3,9,3,3,,,14,7,,,1,,1,62
 Greater Western Sydney,2017,105,Fremantle,19,W,5,11,5,15,26,,1,,3,1,7,9,2,,,,11,14,,1,1,2,2,74
 Greater Western Sydney,2017,106,Melbourne,20,W,5,13,2,12,25,1,,,5,2,7,5,1,,,,8,16,,1,2,,,74
@@ -210,3 +210,15 @@ Essendon,2023,208,Brisbane Lions,9,L,9,7,2,11,18,,,,3,1,2,4,3,,,,8,8,,,,,,70
 Essendon,2023,209↓,North Melbourne,12,W,9,2,2,8,10,,,,4,,1,1,,,,,3,6,,1,,,,50
 Essendon,2023,210↑,Port Adelaide,16,L,9,1,,1,2,,,,3,,,,,,,,2,,,,,,,23
 Essendon,2023,211↑,Adelaide,17,W,9,2,1,4,6,,,,,1,2,,1,,,,1,5,,,,,,25
+Essendon,2024,212↑,North Melbourne,11,W,9,1,1,1,2,,,,2,,1,,1,,,,1,1,,,,,,18
+Essendon,2024,213,Collingwood,18,W,9,14,5,12,26,,,,8,,,6,,1,,,12,15,,,1,,2,64
+Essendon,2024,214,Melbourne,19,L,9,16,3,12,28,,,,6,2,5,5,3,,1,,8,17,,,,,1,70
+Essendon,2024,215,Adelaide,20,L,9,11,4,10,21,,,,4,3,2,3,4,,2,,6,13,,,,,1,66
+Essendon,2024,216,St Kilda,21,L,9,10,4,9,19,2,,,2,,2,1,3,1,1,,4,16,,,,,,75
+Essendon,2024,217,Fremantle,22,W,9,7,1,13,20,,,,4,,2,7,,1,,,9,11,,,,,,62
+Essendon,2024,218,Gold Coast,23,L,9,13,6,11,24,,,,3,1,5,6,2,,1,,7,16,,,1,1,2,67
+Essendon,2024,219,Sydney,24,L,9,14,5,16,30,,,,2,2,4,6,1,,,,11,19,,,1,1,1,68
+Essendon,2024,220,Brisbane Lions,25,L,9,8,5,11,19,,,,,1,1,4,3,,1,,7,11,1,1,,,,67
+Essendon,2025,221,Hawthorn,2,L,9,14,3,9,23,,,,2,2,2,2,2,1,,,7,15,,,1,,,85
+Essendon,2025,222,Adelaide,3,L,9,8,1,13,21,,,,2,5,2,,3,,,,3,16,,,1,1,,77
+Essendon,2025,223,Port Adelaide,4,W,9,15,5,10,25,,,,5,2,8,5,5,,1,,7,18,,,,3,,67

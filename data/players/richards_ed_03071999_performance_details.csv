@@ -13,7 +13,7 @@ Western Bulldogs,2018,11,Port Adelaide,13,L,20,7,,8,15,3,,,2,,4,2,,3,,,9,5,,,3,2
 Western Bulldogs,2018,12,North Melbourne,14,L,20,8,2,5,13,1,1,,2,,1,1,3,2,1,,9,3,,,2,,,78
 Western Bulldogs,2018,13,Geelong,15,W,20,8,2,5,13,3,,,5,,1,3,1,1,,,8,4,,1,2,,1,80
 Western Bulldogs,2018,14,Hawthorn,16,L,20,8,4,7,15,,,,1,1,4,2,1,1,,,5,9,,,1,,2,78
-Western Bulldogs,2018,15,Melbourne,17,L,20,9,2,7,16,,,1,,1,5,,4,,2,,7,10,,,1,1,,85
+Western Bulldogs,2018,15,Melbourne,17,L,20,9,2,7,16,,,,,1,5,,4,,2,,7,10,,,1,1,,85
 Western Bulldogs,2018,16,West Coast,18,L,20,3,,4,7,,,,5,,,1,2,,1,,2,3,,,2,,,71
 Western Bulldogs,2018,17,Port Adelaide,19,L,20,5,1,,5,,,,3,1,2,,2,,1,,1,5,,,,,,77
 Western Bulldogs,2018,18,St Kilda,20,W,20,6,2,2,8,,1,,,1,1,,,,,,2,5,1,1,,2,,77
@@ -111,3 +111,19 @@ Western Bulldogs,2024,109,St Kilda,7,W,20,9,3,9,18,,,,5,,3,3,1,,1,,6,12,,,,,1,76
 Western Bulldogs,2024,110,Fremantle,8,L,20,12,4,11,23,,,,3,5,6,2,6,,2,,7,16,,,3,1,,83
 Western Bulldogs,2024,111,Hawthorn,9,L,20,10,3,7,17,1,1,,4,1,3,2,5,2,2,,10,8,,,3,1,1,80
 Western Bulldogs,2024,112,Richmond,10,W,20,15,6,19,34,,,,10,,12,7,1,,,,14,19,,,2,,3,83
+Western Bulldogs,2024,113,Greater Western Sydney,11,W,20,21,6,6,27,,2,,2,1,9,10,3,,2,2,12,15,,,2,,1,81
+Western Bulldogs,2024,114,Sydney,12,L,20,12,3,6,18,,,,2,,6,4,4,1,,,6,11,,,1,1,3,44
+Western Bulldogs,2024,115,Fremantle,15,W,20,16,3,5,21,1,2,,4,2,6,2,2,2,,,7,14,,,2,3,3,85
+Western Bulldogs,2024,116,North Melbourne,17,W,20,11,4,10,21,,,,6,2,4,5,,1,,,9,12,,,1,2,1,87
+Western Bulldogs,2024,117,Port Adelaide,18,L,20,9,6,8,17,,,,4,2,4,6,5,,3,,8,10,2,,4,2,1,85
+Western Bulldogs,2024,118,Carlton,19,W,20,7,3,10,17,,,,8,,5,5,4,,3,,7,11,,,1,1,1,78
+Western Bulldogs,2024,119,Geelong,20,W,20,21,5,8,29,2,1,,6,3,5,9,2,,,,14,13,,,1,2,,84
+Western Bulldogs,2024,120,Sydney,21,W,20,20,5,5,25,1,1,,5,2,7,4,1,2,,1,10,14,,,4,2,,84
+Western Bulldogs,2024,121,Melbourne,22,W,20,15,5,5,20,1,3,,2,1,4,4,5,,2,,7,13,,1,,1,,79
+Western Bulldogs,2024,122,Adelaide,23,L,20,8,2,3,11,1,,,5,1,3,3,,3,,,7,6,,,1,,,74
+Western Bulldogs,2024,123,North Melbourne,24,W,20,11,5,11,22,2,1,,3,3,5,5,2,1,1,,12,11,,,2,2,,82
+Western Bulldogs,2024,124,Greater Western Sydney,25,W,20,15,3,14,29,2,1,,4,2,8,4,8,,2,3,12,17,,,1,,,80
+Western Bulldogs,2024,125,Hawthorn,EF,L,20,10,4,13,23,,,,,1,3,5,7,,2,,13,12,1,,3,2,1,88
+Western Bulldogs,2025,126,North Melbourne,2,W,20,18,2,12,30,1,,,2,3,9,7,4,,1,,13,19,,,2,1,4,79
+Western Bulldogs,2025,127,Collingwood,3,L,20,17,3,10,27,,2,,3,1,10,5,2,1,1,,11,15,1,1,,3,1,83
+Western Bulldogs,2025,128,Carlton,4,W,20,12,5,9,21,,,,5,3,1,3,6,,,,10,12,,,1,1,,84

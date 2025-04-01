@@ -1,0 +1,4 @@
+team,year,games_played,opponent,round,result,jersey_num,kicks,marks,handballs,disposals,goals,behinds,hit_outs,tackles,rebound_50s,inside_50s,clearances,clangers,free_kicks_for,free_kicks_against,brownlow_votes,contested_possessions,uncontested_possessions,contested_marks,marks_inside_50,one_percenters,bounces,goal_assist,percentage_of_game_played
+Richmond,2025,1,Carlton,2,W,31,11,5,4,15,,,,2,5,2,2,6,1,1,,5,10,,,3,,,77
+Richmond,2025,2,Port Adelaide,3,L,31,8,2,2,10,,1,,1,1,3,1,4,,2,,1,9,,,2,,1,82
+Richmond,2025,3,St Kilda,4,L,31,14,6,4,18,,,,2,,1,,1,2,,,7,9,,,4,,,88

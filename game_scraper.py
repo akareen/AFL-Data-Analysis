@@ -57,6 +57,7 @@ class MatchScraper:
         Returns:
             None
         """
+        print(f"Processing year: {year}")
         year_soup: BeautifulSoup = get_soup(self.base_url + str(year) + '.html')
         game_links: List[str] = self._find_game_links(year_soup)
         match_data: List[Optional[Dict[str, Any]]] = [self._extract_match_summary_table_data(link) for link in game_links]
@@ -73,6 +74,7 @@ class MatchScraper:
         Returns:
             Optional[Dict[str, Any]]: The extracted match data.
         """
+        print(f"Extracting data from: {url}")
         soup: BeautifulSoup = get_soup(url)
         tables = soup.find_all('table')
         td_elements = tables[0].find_all('td')
